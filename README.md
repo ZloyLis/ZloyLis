@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Eventually-consistent СУБД — всё?](https://habr.com/ru/articles/980082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980082)
+- [Развитие языка программирования Ü в 2025-м году](https://habr.com/ru/articles/979282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979282)
+- [Spring MCP, лучший HTTP-клиент и поддержка MyBatis](https://habr.com/ru/companies/haulmont/articles/980066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980066)
 - [[Перевод] 5 ключевых изменений в Python 3.14 глазами инженера](https://habr.com/ru/articles/978836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978836)
 - [[Перевод] Ваша работа — выпускать код, который доказанно работает](https://habr.com/ru/articles/980006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980006)
-- [Как мы учили ИИ тушить инциденты вместо нас  &lpar;что из этого вышло&rpar;](https://habr.com/ru/articles/980032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980032)
-- [От квантового программирования до операционных систем для паяльников: итоги грантовой программы «Код без границ»](https://habr.com/ru/specials/979702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979702)
-- [Разговор о творчестве и дизайне](https://habr.com/ru/articles/979342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979342)
 <!-- BLOG-POST-LIST:END -->
 
 ---
