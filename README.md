@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Эмоциональность в дизайне внутреннего продукта. Нужна ли она, когда сотруднику просто надо «сделать работу»](https://habr.com/ru/companies/domclick/articles/968624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968624)
-- [ИИ-помощники на маркетплейсе GigaIDE: обслуживание кода](https://habr.com/ru/companies/sberbank/articles/978650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978650)
-- [Как мы организовали полнотекстовый поиск: обзор вариантов](https://habr.com/ru/companies/tensor/articles/980222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980222)
-- [Что посмотреть на новогодних каникулах: 11 фильмов и 1 сериал про анализ данных и математику](https://habr.com/ru/companies/yandex_praktikum/articles/976740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976740)
-- [Как работают CSI-драйверы в Kubernetes: принципы, архитектура и жизненный цикл томов &lpar;подробный гайд&rpar;](https://habr.com/ru/companies/flant/articles/977092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977092)
+- [Perfetto в Android-разработке: когда профайлера уже недостаточно](https://habr.com/ru/companies/dododev/articles/977516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977516)
+- [[Перевод] Генерация кроссвордов: «достаточно хорошее» решение NP-полной задачи](https://habr.com/ru/articles/980182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980182)
+- [[Перевод] Как устроено управление памятью в Python и какую роль в нём играют слабые ссылки](https://habr.com/ru/articles/978858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978858)
+- [Канбан — практика совершенствования процесса управления для повышения эффективности компании](https://habr.com/ru/articles/980396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980396)
+- [Когда стали покупаться доменные имена и как решили зарегулировать эту сферу](https://habr.com/ru/companies/onlinepatent/articles/980394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980394)
 <!-- BLOG-POST-LIST:END -->
 
 ---
