@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Есть ли жизнь после Vertica или миграция DWH в Lakehouse](https://habr.com/ru/companies/avito/articles/979836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979836)
+- [«Взламывая вселенную паттернов: что гипотеза Римана может рассказать нам об иерархии признаков в компьютерном зрении?»](https://habr.com/ru/articles/980608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980608)
+- [[Перевод] Эра ИИ. Как ИИ-агенты меняют IT разработку](https://habr.com/ru/articles/975712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975712)
+- [Финансовый AI-агент на Python: MCP и CodeAct](https://habr.com/ru/articles/980542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980542)
 - [Проектирование в условиях нестабильности: практика](https://habr.com/ru/companies/cloud_x/articles/980568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980568)
-- [[Перевод] Тред-дампы и Project Loom &lpar;виртуальные потоки&rpar;](https://habr.com/ru/companies/spring_aio/articles/980566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980566)
-- [Золотое сечение – универсальная формула красоты и вселенской гармонии или маркетинговая уловка?](https://habr.com/ru/articles/980556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980556)
-- [Как найти работу джуну, когда джуны никому не нужны](https://habr.com/ru/companies/surfstudio/articles/980538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980538)
-- [Технический гайд по сторис — часть 3: как мы написали свою библиотеку](https://habr.com/ru/companies/m2tech/articles/980424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980424)
 <!-- BLOG-POST-LIST:END -->
 
 ---
