@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Проектирование в условиях нестабильности: практика](https://habr.com/ru/companies/cloud_x/articles/980568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980568)
+- [[Перевод] Тред-дампы и Project Loom &lpar;виртуальные потоки&rpar;](https://habr.com/ru/companies/spring_aio/articles/980566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980566)
 - [Золотое сечение – универсальная формула красоты и вселенской гармонии или маркетинговая уловка?](https://habr.com/ru/articles/980556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980556)
 - [Как найти работу джуну, когда джуны никому не нужны](https://habr.com/ru/companies/surfstudio/articles/980538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980538)
 - [Технический гайд по сторис — часть 3: как мы написали свою библиотеку](https://habr.com/ru/companies/m2tech/articles/980424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980424)
-- [Как мы распилили монстр-сервис за месяц: опыт команды из 10 разработчиков](https://habr.com/ru/companies/itfb/articles/980524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980524)
-- [Переводим проекты с Python на Node.js: на что способна локальная LLM на самом деле](https://habr.com/ru/companies/rostelecom/articles/980522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980522)
 <!-- BLOG-POST-LIST:END -->
 
 ---
