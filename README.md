@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [История поиска бага в ядре Linux длиной в год, или нежданные нули из XFS&#39;а](https://habr.com/ru/companies/postgrespro/articles/980218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980218)
+- [[Перевод] RSC Explorer: что на самом деле летит по сети в React Server Components](https://habr.com/ru/articles/980494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980494)
+- [Почему мультиагентные системы плохо работают на малых данных](https://habr.com/ru/articles/980492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980492)
 - [GitLab: Основы написания Pipeline 1/3](https://habr.com/ru/articles/980478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980478)
-- [Ещё один лайфхак](https://habr.com/ru/articles/980450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980450)
-- [Утечка, которой не было: как Next.js раздувает RAM в Kubernetes](https://habr.com/ru/companies/X5Tech/articles/976808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976808)
-- [Инструменты клиентской поддержки: опыт e-commerce брендов](https://habr.com/ru/companies/cleverpumpkin/articles/980366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980366)
-- [Эволюция схемы данных в AVRO, как меняться без проблем?](https://habr.com/ru/companies/nspk/articles/949590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949590)
+- [Идеальный ассессмент аналитика &lpar;найден&rpar;](https://habr.com/ru/companies/alfa/articles/979810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979810)
 <!-- BLOG-POST-LIST:END -->
 
 ---
