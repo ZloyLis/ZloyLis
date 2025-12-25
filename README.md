@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как найти работу джуну, когда джуны никому не нужны](https://habr.com/ru/companies/surfstudio/articles/980538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980538)
+- [Технический гайд по сторис — часть 3: как мы написали свою библиотеку](https://habr.com/ru/companies/m2tech/articles/980424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980424)
+- [Как мы распилили монстр-сервис за месяц: опыт команды из 10 разработчиков](https://habr.com/ru/companies/itfb/articles/980524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980524)
+- [Переводим проекты с Python на Node.js: на что способна локальная LLM на самом деле](https://habr.com/ru/companies/rostelecom/articles/980522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980522)
 - [История поиска бага в ядре Linux длиной в год, или нежданные нули из XFS&#39;а](https://habr.com/ru/companies/postgrespro/articles/980218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980218)
-- [[Перевод] RSC Explorer: что на самом деле летит по сети в React Server Components](https://habr.com/ru/articles/980494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980494)
-- [Почему мультиагентные системы плохо работают на малых данных](https://habr.com/ru/articles/980492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980492)
-- [GitLab: Основы написания Pipeline 1/3](https://habr.com/ru/articles/980478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980478)
-- [Идеальный ассессмент аналитика &lpar;найден&rpar;](https://habr.com/ru/companies/alfa/articles/979810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979810)
 <!-- BLOG-POST-LIST:END -->
 
 ---
