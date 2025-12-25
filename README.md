@@ -36,7 +36,7 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Есть ли жизнь после Vertica или миграция DWH в Lakehouse](https://habr.com/ru/companies/avito/articles/979836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979836)
-- [«Взламывая вселенную паттернов: что гипотеза Римана может рассказать нам об иерархии признаков в компьютерном зрении?»](https://habr.com/ru/articles/980608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980608)
+- [Взламывая вселенную паттернов: что гипотеза Римана может рассказать нам об иерархии признаков в компьютерном зрении?](https://habr.com/ru/articles/980608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980608)
 - [[Перевод] Эра ИИ. Как ИИ-агенты меняют IT разработку](https://habr.com/ru/articles/975712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975712)
 - [Финансовый AI-агент на Python: MCP и CodeAct](https://habr.com/ru/articles/980542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980542)
 - [Проектирование в условиях нестабильности: практика](https://habr.com/ru/companies/cloud_x/articles/980568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980568)
