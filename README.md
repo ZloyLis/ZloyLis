@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [GitLab: Основы написания Pipeline 1/3](https://habr.com/ru/articles/980478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980478)
 - [Ещё один лайфхак](https://habr.com/ru/articles/980450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980450)
 - [Утечка, которой не было: как Next.js раздувает RAM в Kubernetes](https://habr.com/ru/companies/X5Tech/articles/976808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976808)
 - [Инструменты клиентской поддержки: опыт e-commerce брендов](https://habr.com/ru/companies/cleverpumpkin/articles/980366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980366)
 - [Эволюция схемы данных в AVRO, как меняться без проблем?](https://habr.com/ru/companies/nspk/articles/949590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=949590)
-- [Perfetto в Android-разработке: когда профайлера уже недостаточно](https://habr.com/ru/companies/dododev/articles/977516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977516)
 <!-- BLOG-POST-LIST:END -->
 
 ---
