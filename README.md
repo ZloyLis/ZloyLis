@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Эмоциональность в дизайне внутреннего продукта. Нужна ли она, когда сотруднику просто надо «сделать работу»](https://habr.com/ru/companies/domclick/articles/968624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968624)
+- [ИИ-помощники на маркетплейсе GigaIDE: обслуживание кода](https://habr.com/ru/companies/sberbank/articles/978650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978650)
+- [Как мы организовали полнотекстовый поиск: обзор вариантов](https://habr.com/ru/companies/tensor/articles/980222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980222)
 - [Что посмотреть на новогодних каникулах: 11 фильмов и 1 сериал про анализ данных и математику](https://habr.com/ru/companies/yandex_praktikum/articles/976740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976740)
 - [Как работают CSI-драйверы в Kubernetes: принципы, архитектура и жизненный цикл томов &lpar;подробный гайд&rpar;](https://habr.com/ru/companies/flant/articles/977092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977092)
-- [[Перевод] От текста к токенам: как работают пайплайны токенизации](https://habr.com/ru/articles/976356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976356)
-- [PoseGone: ML-система детекции аномалий для РЖД от студентов МФТИ](https://habr.com/ru/companies/mipt_digital/articles/980324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980324)
-- [Надежное программирование — часть 6. Неудачники, выросшие и перспективные языки](https://habr.com/ru/articles/980288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980288)
 <!-- BLOG-POST-LIST:END -->
 
 ---
