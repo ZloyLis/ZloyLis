@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Будущее web-разработки для веб-студий и digital-агентств: проектная разработка клиентских сайтов в эпоху ИИ](https://habr.com/ru/articles/980726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980726)
-- [Хаос второго порядка: Как алгоритмические торговые боты играют сами против себя в убыток](https://habr.com/ru/articles/980736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980736)
-- [Управление событиями безопасности: простой чек-лист на каждый день](https://habr.com/ru/companies/selectel/articles/980624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980624)
-- [Три промпта — три результата: как качество запроса определяет качество автотестов](https://habr.com/ru/companies/rostelecom/articles/980584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980584)
-- [ИИ в 2026 году: три основных направления развития](https://habr.com/ru/companies/usetech/articles/980722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980722)
+- [Я участвовал в Advent of Code каждый год, начиная с 2021, и мне есть что сказать](https://habr.com/ru/companies/skbkontur/articles/980476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980476)
+- [Когда один Excel-файл убивает 100-миллионный бизнес](https://habr.com/ru/articles/980818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980818)
+- [Новый open source Java коннектор для Tarantool: практика с примерами кода](https://habr.com/ru/companies/vktech/articles/980380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980380)
+- [MBZUAI – первый в мире университет по искусственному интеллекту](https://habr.com/ru/articles/980502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980502)
+- [Облако не должно быть загадкой: собираем прод за минуты, а не за ночь](https://habr.com/ru/companies/haulmont/articles/980642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980642)
 <!-- BLOG-POST-LIST:END -->
 
 ---
