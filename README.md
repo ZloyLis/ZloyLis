@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [MDUI: как отдать UI backend-разработчикам](https://habr.com/ru/articles/980684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980684)
 - [Нескучное программирование. Overloads](https://habr.com/ru/articles/980246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980246)
 - [Как мы случайно сделали стартап, пока учили ИИ работать с реальной инфраструктурой](https://habr.com/ru/articles/980648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980648)
 - [Есть ли жизнь после Vertica или миграция DWH в Lakehouse](https://habr.com/ru/companies/avito/articles/979836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979836)
 - [Взламывая вселенную паттернов: что гипотеза Римана может рассказать нам об иерархии признаков в компьютерном зрении?](https://habr.com/ru/articles/980608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980608)
-- [[Перевод] Эра ИИ. Как ИИ-агенты меняют IT разработку](https://habr.com/ru/articles/975712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975712)
 <!-- BLOG-POST-LIST:END -->
 
 ---
