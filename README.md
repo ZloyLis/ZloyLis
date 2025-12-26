@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как я мигрировал COBOL-код мейнфрейма на Java: разные подходы и почему ANTLR — лучший выбор](https://habr.com/ru/articles/980846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980846)
-- [Стать CTO непросто, но я попробую](https://habr.com/ru/companies/kts/articles/980844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980844)
-- [restrict в C: оптимизация на честном слове](https://habr.com/ru/companies/otus/articles/978524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978524)
-- [«Кажется, тупит сеть. Посмотрите?» — как мы мониторим летенси в Ingress](https://habr.com/ru/companies/mindbox/articles/979366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979366)
-- [Я участвовал в Advent of Code каждый год, начиная с 2021, и мне есть что сказать](https://habr.com/ru/companies/skbkontur/articles/980476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980476)
+- [Написал свой ngrok за 10 часов &lpar;Antigravity + Claude Code&rpar;](https://habr.com/ru/articles/980896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980896)
+- [Библиотека KASWeb — Kandelaber&#39;s Async &amp;amp; Safe Web requests](https://habr.com/ru/articles/980888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980888)
+- [Компиляторы, AI-ассистенты и вызов IOCTL: доклады о С++ и Linux вместо новогоднего кино](https://habr.com/ru/companies/yadro/articles/979916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979916)
+- [10 самых интересных ошибок в Java проектах за 2025 год](https://habr.com/ru/companies/pvs-studio/articles/980856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980856)
+- [Как я мигрировал COBOL-код мейнфрейма на Java: разные подходы и почему ANTLR — лучший выбор](https://habr.com/ru/companies/alfastrah/articles/980846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980846)
 <!-- BLOG-POST-LIST:END -->
 
 ---
