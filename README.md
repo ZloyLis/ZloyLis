@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как управлять бэклогом через JIRA Structure](https://habr.com/ru/articles/980708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980708)
+- [Мобильное приложение для SaaS-платформы: не роскошь, а инструмент роста бизнеса](https://habr.com/ru/companies/teamly/articles/980116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980116)
+- [[Перевод] Когда компиляторы удивляют](https://habr.com/ru/articles/980702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980702)
+- [Почему я перешел на Dagger Components &lpar;вместо Dagger Android&rpar;](https://habr.com/ru/companies/psb/articles/979988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979988)
 - [MDUI: как отдать UI backend-разработчикам](https://habr.com/ru/articles/980684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980684)
-- [Нескучное программирование. Overloads](https://habr.com/ru/articles/980246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980246)
-- [Как мы случайно сделали стартап, пока учили ИИ работать с реальной инфраструктурой](https://habr.com/ru/articles/980648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980648)
-- [Есть ли жизнь после Vertica или миграция DWH в Lakehouse](https://habr.com/ru/companies/avito/articles/979836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979836)
-- [Взламывая вселенную паттернов: что гипотеза Римана может рассказать нам об иерархии признаков в компьютерном зрении?](https://habr.com/ru/articles/980608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980608)
 <!-- BLOG-POST-LIST:END -->
 
 ---
