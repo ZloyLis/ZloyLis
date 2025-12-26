@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Snapshot тесты для iOS. быстро, стабильно на Metal](https://habr.com/ru/articles/980958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980958)
+- [Blackview Xplore 2 Projector — броневик с аккумулятором 20Ач и… проектором](https://habr.com/ru/articles/977502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977502)
+- [[Перевод] Hidden классы в Java. Что скрывают Lambda выражения](https://habr.com/ru/companies/spring_aio/articles/980928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980928)
+- [Как я в 15 лет собрал LLVM ToolChain на Windows без MSVC](https://habr.com/ru/articles/980942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980942)
 - [Компилятор языка моделирования в одиночку: от C++ к Rust — находки и откровения](https://habr.com/ru/articles/980924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980924)
-- [Фишинг без ошибок: как вычислять письма, которые не палятся глазами](https://habr.com/ru/articles/980922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980922)
-- [Библиотека KASWeb — Kandelaber&#39;s Async &amp;amp; Safe Web requests](https://habr.com/ru/articles/980888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980888)
-- [Компиляторы, AI-ассистенты и вызов IOCTL: доклады о С++ и Linux вместо новогоднего кино](https://habr.com/ru/companies/yadro/articles/979916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979916)
-- [10 самых интересных ошибок в Java проектах за 2025 год](https://habr.com/ru/companies/pvs-studio/articles/980856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980856)
 <!-- BLOG-POST-LIST:END -->
 
 ---
