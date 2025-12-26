@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Snapshot тесты для iOS. быстро, стабильно на Metal](https://habr.com/ru/articles/980958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980958)
-- [Blackview Xplore 2 Projector — броневик с аккумулятором 20Ач и… проектором](https://habr.com/ru/articles/977502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977502)
-- [[Перевод] Hidden классы в Java. Что скрывают Lambda выражения](https://habr.com/ru/companies/spring_aio/articles/980928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980928)
-- [Как я в 15 лет собрал LLVM ToolChain на Windows без MSVC](https://habr.com/ru/articles/980942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980942)
-- [Компилятор языка моделирования в одиночку: от C++ к Rust — находки и откровения](https://habr.com/ru/articles/980924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980924)
+- [Перенос кластера kubernetes на другие ip адреса](https://habr.com/ru/articles/980976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980976)
+- [Проклятье Вавилонской башни с точки зрения информатика](https://habr.com/ru/articles/980972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980972)
+- [Инженерия UX и производительности: от ядра к периферии](https://habr.com/ru/articles/980970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980970)
+- [«Киловатты красоты: Как в Колумбии электроучет подружили с искусством»](https://habr.com/ru/articles/980966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980966)
+- [Настройка смартфонов для пересылки SMS и уведомлений в Telegram](https://habr.com/ru/articles/980964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980964)
 <!-- BLOG-POST-LIST:END -->
 
 ---
