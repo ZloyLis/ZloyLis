@@ -35,7 +35,7 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [«От данных к доказательству: может ли статистическая инвариантность стать ключом к Гипотезе Римана?»](https://habr.com/ru/articles/981036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981036)
+- [От данных к доказательству: может ли статистическая инвариантность стать ключом к Гипотезе Римана?](https://habr.com/ru/articles/981036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981036)
 - [Использование Node.js Stream для пакетной построчной обработки файлов](https://habr.com/ru/articles/981008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981008)
 - [Перенос кластера kubernetes на другие ip адреса](https://habr.com/ru/articles/980976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980976)
 - [Проклятье Вавилонской башни с точки зрения информатика](https://habr.com/ru/articles/980972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980972)
