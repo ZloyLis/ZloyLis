@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я мигрировал COBOL-код мейнфрейма на Java: разные подходы и почему ANTLR — лучший выбор](https://habr.com/ru/articles/980846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980846)
+- [Стать CTO непросто, но я попробую](https://habr.com/ru/companies/kts/articles/980844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980844)
+- [restrict в C: оптимизация на честном слове](https://habr.com/ru/companies/otus/articles/978524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978524)
+- [«Кажется, тупит сеть. Посмотрите?» — как мы мониторим летенси в Ingress](https://habr.com/ru/companies/mindbox/articles/979366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979366)
 - [Я участвовал в Advent of Code каждый год, начиная с 2021, и мне есть что сказать](https://habr.com/ru/companies/skbkontur/articles/980476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980476)
-- [Когда один Excel-файл убивает 100-миллионный бизнес](https://habr.com/ru/articles/980818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980818)
-- [Новый open source Java коннектор для Tarantool: практика с примерами кода](https://habr.com/ru/companies/vktech/articles/980380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980380)
-- [MBZUAI – первый в мире университет по искусственному интеллекту](https://habr.com/ru/articles/980502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980502)
-- [Облако не должно быть загадкой: собираем прод за минуты, а не за ночь](https://habr.com/ru/companies/haulmont/articles/980642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980642)
 <!-- BLOG-POST-LIST:END -->
 
 ---
