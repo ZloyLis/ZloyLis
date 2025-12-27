@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Production-ready архитектура AI-агента. Часть 1: ReAct, Advanced RAG, Tools, Prompts](https://habr.com/ru/articles/981100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981100)
 - [Git-хуки для 1С-проекта в EDT](https://habr.com/ru/companies/otus/articles/980548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980548)
 - [Знаток концертов по городам Золотого кольца России на Python с применением LLM](https://habr.com/ru/articles/979856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979856)
 - [Отец современного инвестирования. Гарри Марковиц. Оптимальный портфель по Марковицу](https://habr.com/ru/articles/981108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981108)
 - [Trino в Авито два года спустя: от движка к полноценной экосистеме](https://habr.com/ru/companies/avito/articles/979912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979912)
-- [tRNS: Как инженерный азарт привёл к самодельному транскраниальному стимулятору](https://habr.com/ru/articles/981086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981086)
 <!-- BLOG-POST-LIST:END -->
 
 ---
