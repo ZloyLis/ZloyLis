@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Python &lpar;FastAPI&rpar; vs Go: нагрузочный тест и анализ производительности](https://habr.com/ru/articles/981176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981176)
 - [FlutterPulse: декабрьский дайджест Flutter &amp;amp; Dart](https://habr.com/ru/articles/981162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981162)
 - [Production-ready архитектура AI-агента. Часть 1: ReAct, Advanced RAG, Tools, Prompts](https://habr.com/ru/articles/981100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981100)
 - [Git-хуки для 1С-проекта в EDT](https://habr.com/ru/companies/otus/articles/980548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980548)
 - [Знаток концертов по городам Золотого кольца России на Python с применением LLM](https://habr.com/ru/articles/979856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979856)
-- [Отец современного инвестирования. Гарри Марковиц. Оптимальный портфель по Марковицу](https://habr.com/ru/articles/981108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981108)
 <!-- BLOG-POST-LIST:END -->
 
 ---
