@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [tRNS: Как инженерный азарт привёл к самодельному транскраниальному стимулятору](https://habr.com/ru/articles/981086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981086)
+- [TSP трансформеры](https://habr.com/ru/articles/981046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981046)
 - [«Дозорные» итоги года, часть 2: неприступный периметр – усиленный контроль мессенджеров, облаков и корпоративной почты](https://habr.com/ru/companies/solarsecurity/articles/980784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980784)
 - [Закрыть гештальт: запустить первую публикацию на Хабре до Нового года](https://habr.com/ru/articles/981074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981074)
 - [От данных к доказательству: может ли статистическая инвариантность стать ключом к Гипотезе Римана?](https://habr.com/ru/articles/981036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981036)
-- [Использование Node.js Stream для пакетной построчной обработки файлов](https://habr.com/ru/articles/981008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981008)
-- [Перенос кластера kubernetes на другие ip адреса](https://habr.com/ru/articles/980976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980976)
 <!-- BLOG-POST-LIST:END -->
 
 ---
