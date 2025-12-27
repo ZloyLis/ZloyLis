@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Отец современного инвестирования. Гарри Марковиц. Оптимальный портфель по Марковицу](https://habr.com/ru/articles/981108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981108)
 - [Trino в Авито два года спустя: от движка к полноценной экосистеме](https://habr.com/ru/companies/avito/articles/979912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979912)
 - [tRNS: Как инженерный азарт привёл к самодельному транскраниальному стимулятору](https://habr.com/ru/articles/981086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981086)
 - [TSP трансформеры](https://habr.com/ru/articles/981046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981046)
 - [«Дозорные» итоги года, часть 2: неприступный периметр – усиленный контроль мессенджеров, облаков и корпоративной почты](https://habr.com/ru/companies/solarsecurity/articles/980784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980784)
-- [Закрыть гештальт: запустить первую публикацию на Хабре до Нового года](https://habr.com/ru/articles/981074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981074)
 <!-- BLOG-POST-LIST:END -->
 
 ---
