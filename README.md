@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Лента Хабр, только честная](https://habr.com/ru/companies/amvera/articles/981136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981136)
+- [[Перевод] Фрактал, который провисел на моей стене 12 лет](https://habr.com/ru/companies/ruvds/articles/980446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980446)
 - [PostgreSQL. Интервальный тип данных. Интеграция с Spring Data JPA](https://habr.com/ru/articles/981246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981246)
 - [Мой радарный МУО: продолжаем продолжать](https://habr.com/ru/companies/timeweb/articles/979262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979262)
 - [Как ИИ создавал клоны «Сапера»: тест четырех моделей и неожиданные результаты](https://habr.com/ru/companies/selectel/articles/979972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979972)
-- [Hello World от ИИ-агентов: как обстоят дела с интересом к технологии в мире](https://habr.com/ru/companies/ru_mts/articles/978082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978082)
-- [«Дозорные» итоги года, часть 3: под капотом и в руках администратора](https://habr.com/ru/companies/solarsecurity/articles/980790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980790)
 <!-- BLOG-POST-LIST:END -->
 
 ---
