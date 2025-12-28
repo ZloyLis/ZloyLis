@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Царский путь к пониманию комплексных чисел. Часть I](https://habr.com/ru/articles/981234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981234)
 - [«Гипотеза Римана: В погоне за скоростью. Является ли сходимость к GUE новым инвариантом?»](https://habr.com/ru/articles/981366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981366)
 - [Мобильное приложение на 1С «Доходность ОФЗ» &lpar;только для Android&rpar;](https://habr.com/ru/articles/981358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981358)
 - [Разбираем net/http на практике: пишем веб-сервис DeadDrop для безопасного обмена сообщениями](https://habr.com/ru/articles/981356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981356)
 - [Связь паттернов микросервисной архитектуры](https://habr.com/ru/articles/981336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981336)
-- [Вы строите Lakehouse, а сторадж строит вам проблемы. Что делать?](https://habr.com/ru/companies/avito/articles/980980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980980)
 <!-- BLOG-POST-LIST:END -->
 
 ---
