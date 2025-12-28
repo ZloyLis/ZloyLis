@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Веб-приложение без фронтенд-фреймворков в эпоху AI-поиска: личный опыт](https://habr.com/ru/articles/981284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981284)
+- [Как создать документацию к коду, а потом ее обновить с помощью нейросети](https://habr.com/ru/articles/981282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981282)
+- [n8n — масштабируем получение SMS и уведомлений с нескольких &lpar;десятков&rpar; SIM-карт одновременно](https://habr.com/ru/articles/981276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981276)
 - [Лента Хабр, только честная](https://habr.com/ru/companies/amvera/articles/981136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981136)
 - [[Перевод] Фрактал, который провисел на моей стене 12 лет](https://habr.com/ru/companies/ruvds/articles/980446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980446)
-- [PostgreSQL. Интервальный тип данных. Интеграция с Spring Data JPA](https://habr.com/ru/articles/981246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981246)
-- [Мой радарный МУО: продолжаем продолжать](https://habr.com/ru/companies/timeweb/articles/979262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979262)
-- [Как ИИ создавал клоны «Сапера»: тест четырех моделей и неожиданные результаты](https://habr.com/ru/companies/selectel/articles/979972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979972)
 <!-- BLOG-POST-LIST:END -->
 
 ---
