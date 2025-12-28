@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Трассировочная модель и информационный парадокс чёрных дыр](https://habr.com/ru/articles/981312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981312)
+- [Что такое MCP-сервер, и зачем он нужен](https://habr.com/ru/articles/981310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981310)
 - [Мобильная разработка за неделю #614 &lpar;22 — 28 декабря&rpar;](https://habr.com/ru/articles/981300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981300)
 - [Databasus — open source инструмент для резервного копирования PostgreSQL, MySQL и MongoDB &lpar;ex-Postgresus&rpar;](https://habr.com/ru/articles/981200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981200)
 - [AI-Accelerated Engineers VS AI Governance Engineers &lpar;новые типы специалистов в 2026 году&rpar;](https://habr.com/ru/articles/981296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981296)
-- [Диалог пользователь — ИИ. Часть 2](https://habr.com/ru/articles/980264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980264)
-- [AI без интернета &lpar;офлайн&rpar; на своем компьютере](https://habr.com/ru/articles/981290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981290)
 <!-- BLOG-POST-LIST:END -->
 
 ---
