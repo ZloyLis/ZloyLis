@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Веб-приложение без фронтенд-фреймворков в эпоху AI-поиска: личный опыт](https://habr.com/ru/articles/981284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981284)
-- [Как создать документацию к коду, а потом ее обновить с помощью нейросети](https://habr.com/ru/articles/981282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981282)
-- [n8n — масштабируем получение SMS и уведомлений с нескольких &lpar;десятков&rpar; SIM-карт одновременно](https://habr.com/ru/articles/981276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981276)
-- [Лента Хабр, только честная](https://habr.com/ru/companies/amvera/articles/981136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981136)
-- [[Перевод] Фрактал, который провисел на моей стене 12 лет](https://habr.com/ru/companies/ruvds/articles/980446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980446)
+- [Мобильная разработка за неделю #614 &lpar;22 — 28 декабря&rpar;](https://habr.com/ru/articles/981300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981300)
+- [Databasus — open source инструмент для резервного копирования PostgreSQL, MySQL и MongoDB &lpar;ex-Postgresus&rpar;](https://habr.com/ru/articles/981200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981200)
+- [AI-Accelerated Engineers VS AI Governance Engineers &lpar;новые типы специалистов в 2026 году&rpar;](https://habr.com/ru/articles/981296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981296)
+- [Диалог пользователь — ИИ. Часть 2](https://habr.com/ru/articles/980264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980264)
+- [AI без интернета &lpar;офлайн&rpar; на своем компьютере](https://habr.com/ru/articles/981290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981290)
 <!-- BLOG-POST-LIST:END -->
 
 ---
