@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Hello World от ИИ-агентов: как обстоят дела с интересом к технологии в мире](https://habr.com/ru/companies/ru_mts/articles/978082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978082)
 - [«Дозорные» итоги года, часть 3: под капотом и в руках администратора](https://habr.com/ru/companies/solarsecurity/articles/980790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980790)
 - [Как перенести Ghost CMS на vps с панелью FASTPANEL](https://habr.com/ru/articles/981230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981230)
 - [Next JS и React опять дал сбой? CVE-2025-55182, или о том как легко ломают сервера](https://habr.com/ru/articles/981210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981210)
 - [Python &lpar;FastAPI&rpar; vs Go: нагрузочный тест и анализ производительности](https://habr.com/ru/articles/981176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981176)
-- [FlutterPulse: декабрьский дайджест Flutter &amp;amp; Dart](https://habr.com/ru/articles/981162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981162)
 <!-- BLOG-POST-LIST:END -->
 
 ---
