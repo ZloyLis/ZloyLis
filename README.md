@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Связь паттернов микросервисной архитектуры](https://habr.com/ru/articles/981336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981336)
 - [Вы строите Lakehouse, а сторадж строит вам проблемы. Что делать?](https://habr.com/ru/companies/avito/articles/980980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980980)
 - [Один микросервис — один контейнер. День 1](https://habr.com/ru/articles/981326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981326)
 - [Соотношение свободы и приватности с безопасностью](https://habr.com/ru/articles/981322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981322)
 - [Трассировочная модель и информационный парадокс чёрных дыр](https://habr.com/ru/articles/981312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981312)
-- [Что такое MCP-сервер, и зачем он нужен](https://habr.com/ru/articles/981310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981310)
 <!-- BLOG-POST-LIST:END -->
 
 ---
