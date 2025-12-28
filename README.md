@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Дозорные» итоги года, часть 3: под капотом и в руках администратора](https://habr.com/ru/companies/solarsecurity/articles/980790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980790)
+- [Как перенести Ghost CMS на vps с панелью FASTPANEL](https://habr.com/ru/articles/981230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981230)
 - [Next JS и React опять дал сбой? CVE-2025-55182, или о том как легко ломают сервера](https://habr.com/ru/articles/981210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981210)
 - [Python &lpar;FastAPI&rpar; vs Go: нагрузочный тест и анализ производительности](https://habr.com/ru/articles/981176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981176)
 - [FlutterPulse: декабрьский дайджест Flutter &amp;amp; Dart](https://habr.com/ru/articles/981162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981162)
-- [Production-ready архитектура AI-агента. Часть 1: ReAct, Advanced RAG, Tools, Prompts](https://habr.com/ru/articles/981100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981100)
-- [Git-хуки для 1С-проекта в EDT](https://habr.com/ru/companies/otus/articles/980548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980548)
 <!-- BLOG-POST-LIST:END -->
 
 ---
