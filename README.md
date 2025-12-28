@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Вы строите Lakehouse, а сторадж строит вам проблемы. Что делать?](https://habr.com/ru/companies/avito/articles/980980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980980)
+- [Один микросервис — один контейнер. День 1](https://habr.com/ru/articles/981326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981326)
+- [Соотношение свободы и приватности с безопасностью](https://habr.com/ru/articles/981322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981322)
 - [Трассировочная модель и информационный парадокс чёрных дыр](https://habr.com/ru/articles/981312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981312)
 - [Что такое MCP-сервер, и зачем он нужен](https://habr.com/ru/articles/981310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981310)
-- [Мобильная разработка за неделю #614 &lpar;22 — 28 декабря&rpar;](https://habr.com/ru/articles/981300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981300)
-- [Databasus — open source инструмент для резервного копирования PostgreSQL, MySQL и MongoDB &lpar;ex-Postgresus&rpar;](https://habr.com/ru/articles/981200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981200)
-- [AI-Accelerated Engineers VS AI Governance Engineers &lpar;новые типы специалистов в 2026 году&rpar;](https://habr.com/ru/articles/981296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981296)
 <!-- BLOG-POST-LIST:END -->
 
 ---
