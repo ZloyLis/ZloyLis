@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как не получить распределённый монолит](https://habr.com/ru/articles/981724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981724)
 - [Год с нейросетями в дизайн-студии: почему мы стали работать быстрее](https://habr.com/ru/companies/karmaweb/articles/981740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981740)
 - [Atomic CSS: верстка и легкость бытия](https://habr.com/ru/articles/981714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981714)
 - [Новый инерциальный MEMS-датчик LSM6DSV320X от ST c искусственным интеллектом для распознавания активности и ударов](https://habr.com/ru/articles/981708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981708)
 - [Единый источник правды – это не миф. Но есть нюансы. Опыт построения корпоративного хранилища данных в «Газпром ЦПС»](https://habr.com/ru/companies/gazpromcps/articles/979426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979426)
-- [Архитектура PhysicalAgent: как универсальные VLA-агенты могут стать альтернативой дорогому обучению](https://habr.com/ru/companies/ru_mts/articles/979682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979682)
 <!-- BLOG-POST-LIST:END -->
 
 ---
