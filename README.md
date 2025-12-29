@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter &amp;amp; Dart — итоги 2025 года: релизы, тренды, пакеты и сообщество](https://habr.com/ru/articles/981164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981164)
+- [Округление как зеркало корпоративной культуры в IT-продуктах](https://habr.com/ru/articles/981444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981444)
+- [Чему меня научила разработка C#-клиента для распределённой СУБД Яндекса](https://habr.com/ru/companies/yandex/articles/978444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978444)
 - [Как налоговый юрист написал сервис для расчета пени по НДС с помощью LLM, не зная Python](https://habr.com/ru/articles/981340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981340)
 - [Очарованные Hibernate: проблемы, которые ведут разработчика странствовать по production](https://habr.com/ru/articles/981386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981386)
-- [[Перевод] Создаём замыкания С из замыканий Lua](https://habr.com/ru/articles/981388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981388)
-- [Царский путь к пониманию комплексных чисел. Часть I](https://habr.com/ru/articles/981234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981234)
-- [«Гипотеза Римана: В погоне за скоростью. Является ли сходимость к GUE новым инвариантом?»](https://habr.com/ru/articles/981366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981366)
 <!-- BLOG-POST-LIST:END -->
 
 ---
