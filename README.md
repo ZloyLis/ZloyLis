@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Планировщики задач для Android: 10 приложений для командной работы и личных дел](https://habr.com/ru/companies/leadertask/articles/981498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981498)
+- [«Архитектура в Графе». Графическая визуализация формата CSV/| формы «Операционной надежности и ИТ» &lpar;№ 0409072&rpar;](https://habr.com/ru/articles/981610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981610)
+- [Фильмы на английском: что смотрят в разных странах зимой и в другие времена года](https://habr.com/ru/companies/yandex_praktikum/articles/981582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981582)
 - [Изучил Python и написал программу для пациентов: как медицина привела меня в IT](https://habr.com/ru/companies/avito/articles/978288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978288)
 - [Востребованные профессии 2026 и где на них учиться](https://habr.com/ru/companies/habr_career/articles/981588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981588)
-- [Kenbak‑1 в кармане: iOS-эмулятор легендарного компьютера 1971 года](https://habr.com/ru/articles/981570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981570)
-- [Создание приложения для моделирования технологических схем с помощью компонента «СПДС» Платформы nanoCAD и API MultiCAD](https://habr.com/ru/companies/nanosoft/articles/981566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981566)
-- [[Перевод] Внутри ядра Docker: что на самом деле происходит при запуске контейнера](https://habr.com/ru/companies/timeweb/articles/981542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981542)
 <!-- BLOG-POST-LIST:END -->
 
 ---
