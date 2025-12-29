@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Планировщики задач для Android: 10 приложений для командной работы и личных дел](https://habr.com/ru/companies/leadertask/articles/981498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981498)
-- [«Архитектура в Графе». Графическая визуализация формата CSV/| формы «Операционной надежности и ИТ» &lpar;№ 0409072&rpar;](https://habr.com/ru/articles/981610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981610)
-- [Фильмы на английском: что смотрят в разных странах зимой и в другие времена года](https://habr.com/ru/companies/yandex_praktikum/articles/981582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981582)
-- [Изучил Python и написал программу для пациентов: как медицина привела меня в IT](https://habr.com/ru/companies/avito/articles/978288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978288)
-- [Востребованные профессии 2026 и где на них учиться](https://habr.com/ru/companies/habr_career/articles/981588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981588)
+- [GitLab: Основы написания Pipeline 2/3](https://habr.com/ru/articles/981658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981658)
+- [1C Code Bench - бенчмарк для оценки способности LLM писать код на 1С](https://habr.com/ru/articles/981648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981648)
+- [Эволюция архитектуры в «Столото»: от масштаба – к системности](https://habr.com/ru/companies/stoloto/articles/980906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980906)
+- [Делаем новогоднюю поздравительную открытку, используя только CSS](https://habr.com/ru/companies/ruvds/articles/980254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980254)
+- [Курсы пройдены, а навыка нет: роль эксперимента в развитии сотрудников](https://habr.com/ru/companies/gri/articles/980510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980510)
 <!-- BLOG-POST-LIST:END -->
 
 ---
