@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Единый источник правды – это не миф. Но есть нюансы. Опыт построения корпоративного хранилища данных в «Газпром ЦПС»](https://habr.com/ru/companies/gazpromcps/articles/979426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979426)
 - [Архитектура PhysicalAgent: как универсальные VLA-агенты могут стать альтернативой дорогому обучению](https://habr.com/ru/companies/ru_mts/articles/979682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979682)
+- [Security Week 2553: поддельные эксплойты с вредоносным кодом](https://habr.com/ru/companies/kaspersky/articles/981468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981468)
 - [GitLab: Основы написания Pipeline 2/3](https://habr.com/ru/articles/981658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981658)
 - [1C Code Bench - бенчмарк для оценки способности LLM писать код на 1С](https://habr.com/ru/articles/981648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981648)
-- [Эволюция архитектуры в «Столото»: от масштаба – к системности](https://habr.com/ru/companies/stoloto/articles/980906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980906)
-- [Делаем новогоднюю поздравительную открытку, используя только CSS](https://habr.com/ru/companies/ruvds/articles/980254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980254)
 <!-- BLOG-POST-LIST:END -->
 
 ---
