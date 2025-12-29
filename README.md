@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Архитектура PhysicalAgent: как универсальные VLA-агенты могут стать альтернативой дорогому обучению](https://habr.com/ru/companies/ru_mts/articles/979682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979682)
 - [GitLab: Основы написания Pipeline 2/3](https://habr.com/ru/articles/981658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981658)
 - [1C Code Bench - бенчмарк для оценки способности LLM писать код на 1С](https://habr.com/ru/articles/981648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981648)
 - [Эволюция архитектуры в «Столото»: от масштаба – к системности](https://habr.com/ru/companies/stoloto/articles/980906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980906)
 - [Делаем новогоднюю поздравительную открытку, используя только CSS](https://habr.com/ru/companies/ruvds/articles/980254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980254)
-- [Курсы пройдены, а навыка нет: роль эксперимента в развитии сотрудников](https://habr.com/ru/companies/gri/articles/980510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980510)
 <!-- BLOG-POST-LIST:END -->
 
 ---
