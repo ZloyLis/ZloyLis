@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как налоговый юрист написал сервис для расчета пени по НДС с помощью LLM, не зная Python](https://habr.com/ru/articles/981340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981340)
 - [Очарованные Hibernate: проблемы, которые ведут разработчика странствовать по production](https://habr.com/ru/articles/981386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981386)
 - [[Перевод] Создаём замыкания С из замыканий Lua](https://habr.com/ru/articles/981388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981388)
 - [Царский путь к пониманию комплексных чисел. Часть I](https://habr.com/ru/articles/981234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981234)
 - [«Гипотеза Римана: В погоне за скоростью. Является ли сходимость к GUE новым инвариантом?»](https://habr.com/ru/articles/981366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981366)
-- [Мобильное приложение на 1С «Доходность ОФЗ» &lpar;только для Android&rpar;](https://habr.com/ru/articles/981358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981358)
 <!-- BLOG-POST-LIST:END -->
 
 ---
