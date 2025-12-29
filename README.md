@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Изучил Python и написал программу для пациентов: как медицина привела меня в IT](https://habr.com/ru/companies/avito/articles/978288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978288)
+- [Востребованные профессии 2026 и где на них учиться](https://habr.com/ru/companies/habr_career/articles/981588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981588)
 - [Kenbak‑1 в кармане: iOS-эмулятор легендарного компьютера 1971 года](https://habr.com/ru/articles/981570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981570)
 - [Создание приложения для моделирования технологических схем с помощью компонента «СПДС» Платформы nanoCAD и API MultiCAD](https://habr.com/ru/companies/nanosoft/articles/981566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981566)
 - [[Перевод] Внутри ядра Docker: что на самом деле происходит при запуске контейнера](https://habr.com/ru/companies/timeweb/articles/981542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981542)
-- [MBZUAI – первый в мире университет по искусственному интеллекту](https://habr.com/ru/articles/981560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981560)
-- [RAG — это не память. Разбираем архитектуру персистентных AI-агентов](https://habr.com/ru/articles/981540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981540)
 <!-- BLOG-POST-LIST:END -->
 
 ---
