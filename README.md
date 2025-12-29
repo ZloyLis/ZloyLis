@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Atomic CSS: верстка и легкость бытия](https://habr.com/ru/articles/981714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981714)
 - [Новый инерциальный MEMS-датчик LSM6DSV320X от ST c искусственным интеллектом для распознавания активности и ударов](https://habr.com/ru/articles/981708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981708)
 - [Единый источник правды – это не миф. Но есть нюансы. Опыт построения корпоративного хранилища данных в «Газпром ЦПС»](https://habr.com/ru/companies/gazpromcps/articles/979426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979426)
 - [Архитектура PhysicalAgent: как универсальные VLA-агенты могут стать альтернативой дорогому обучению](https://habr.com/ru/companies/ru_mts/articles/979682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979682)
 - [Security Week 2553: поддельные эксплойты с вредоносным кодом](https://habr.com/ru/companies/kaspersky/articles/981468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981468)
-- [GitLab: Основы написания Pipeline 2/3](https://habr.com/ru/articles/981658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981658)
 <!-- BLOG-POST-LIST:END -->
 
 ---
