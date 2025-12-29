@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Цифровизация vs Автоматизация: различие с примерами](https://habr.com/ru/articles/981522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981522)
-- [Как прошел 2025 год на Хабр Карьере](https://habr.com/ru/companies/habr_career/articles/981488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981488)
-- [Миллиард доменов в базе: маркетинг или реальная защита?](https://habr.com/ru/companies/solarsecurity/articles/980730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980730)
-- [Хватит писать try-catch в контроллерах: как я причесал ошибки в Express и перестал бояться деплоя](https://habr.com/ru/articles/981456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981456)
-- [Flutter &amp;amp; Dart — итоги 2025 года: релизы, тренды, пакеты и сообщество](https://habr.com/ru/articles/981164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981164)
+- [Kenbak‑1 в кармане: iOS-эмулятор легендарного компьютера 1971 года](https://habr.com/ru/articles/981570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981570)
+- [Создание приложения для моделирования технологических схем с помощью компонента «СПДС» Платформы nanoCAD и API MultiCAD](https://habr.com/ru/companies/nanosoft/articles/981566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981566)
+- [[Перевод] Внутри ядра Docker: что на самом деле происходит при запуске контейнера](https://habr.com/ru/companies/timeweb/articles/981542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981542)
+- [MBZUAI – первый в мире университет по искусственному интеллекту](https://habr.com/ru/articles/981560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981560)
+- [RAG — это не память. Разбираем архитектуру персистентных AI-агентов](https://habr.com/ru/articles/981540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981540)
 <!-- BLOG-POST-LIST:END -->
 
 ---
