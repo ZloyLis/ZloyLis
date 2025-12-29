@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Цифровизация vs Автоматизация: различие с примерами](https://habr.com/ru/articles/981522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981522)
 - [Как прошел 2025 год на Хабр Карьере](https://habr.com/ru/companies/habr_career/articles/981488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981488)
 - [Миллиард доменов в базе: маркетинг или реальная защита?](https://habr.com/ru/companies/solarsecurity/articles/980730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980730)
 - [Хватит писать try-catch в контроллерах: как я причесал ошибки в Express и перестал бояться деплоя](https://habr.com/ru/articles/981456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981456)
 - [Flutter &amp;amp; Dart — итоги 2025 года: релизы, тренды, пакеты и сообщество](https://habr.com/ru/articles/981164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981164)
-- [Округление как зеркало корпоративной культуры в IT-продуктах](https://habr.com/ru/articles/981444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981444)
 <!-- BLOG-POST-LIST:END -->
 
 ---
