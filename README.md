@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ускоряем загрузку данных в BI в 2 раза: кейс команды VK](https://habr.com/ru/companies/vk/articles/981820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981820)
-- [Плагины с человеческим лицом: истории комьюнити OpenIDE](https://habr.com/ru/companies/haulmont/articles/981830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981830)
-- [Scala Digest. Выпуск 36](https://habr.com/ru/companies/tbank/articles/981860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981860)
-- [Kotlin и контекстные параметры](https://habr.com/ru/companies/otus/articles/980260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980260)
-- [Страх и ненависть в бизнес-анализе: сравниваем теорию и реальность](https://habr.com/ru/companies/ru_mts/articles/981644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981644)
+- [Матрицы и векторы: вычисление обратной матрицы](https://habr.com/ru/articles/981922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981922)
+- [Мир доступного дизайна: как увеличить шрифт и не сломать UI?](https://habr.com/ru/companies/sberbank/articles/980900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980900)
+- [Чистый код на React: практики, которые делают проект поддерживаемым](https://habr.com/ru/articles/981846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981846)
+- [Зачем нужны аналитики?](https://habr.com/ru/articles/981568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981568)
+- [Машина, которая никогда не останавливается: как одно предложение поставило предел человеческому познанию](https://habr.com/ru/articles/981908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981908)
 <!-- BLOG-POST-LIST:END -->
 
 ---
