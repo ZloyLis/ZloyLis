@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ускоряем загрузку данных в BI в 2 раза: кейс команды VK](https://habr.com/ru/companies/vk/articles/981820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981820)
+- [Плагины с человеческим лицом: истории комьюнити OpenIDE](https://habr.com/ru/companies/haulmont/articles/981830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981830)
 - [Scala Digest. Выпуск 36](https://habr.com/ru/companies/tbank/articles/981860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981860)
 - [Kotlin и контекстные параметры](https://habr.com/ru/companies/otus/articles/980260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980260)
 - [Страх и ненависть в бизнес-анализе: сравниваем теорию и реальность](https://habr.com/ru/companies/ru_mts/articles/981644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981644)
-- [Работа на результат: топ-5 средств по защите информации для построения системы кибербезопасности](https://habr.com/ru/articles/981482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981482)
-- [[Перевод] Как на самом деле выглядит необработанное фото](https://habr.com/ru/articles/981798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981798)
 <!-- BLOG-POST-LIST:END -->
 
 ---
