@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Scala Digest. Выпуск 36](https://habr.com/ru/companies/tbank/articles/981860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981860)
 - [Kotlin и контекстные параметры](https://habr.com/ru/companies/otus/articles/980260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980260)
 - [Страх и ненависть в бизнес-анализе: сравниваем теорию и реальность](https://habr.com/ru/companies/ru_mts/articles/981644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981644)
 - [Работа на результат: топ-5 средств по защите информации для построения системы кибербезопасности](https://habr.com/ru/articles/981482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981482)
 - [[Перевод] Как на самом деле выглядит необработанное фото](https://habr.com/ru/articles/981798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981798)
-- [От костылей до патентов: наш путь в дизайне KasperskyOS Mobile](https://habr.com/ru/companies/kaspersky/articles/981510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981510)
 <!-- BLOG-POST-LIST:END -->
 
 ---
