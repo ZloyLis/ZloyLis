@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [MCP Tool Registry: автоматизированное создание систем RAG](https://habr.com/ru/companies/redmadrobot/articles/982004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982004)
 - [Уронили прод 31 декабря: забавные факапы с API, за которые нам до сих пор стыдно](https://habr.com/ru/companies/tochka/articles/978166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978166)
 - [Баги на диком западе: топ-10 ошибок в C и C++ проектах за 2025 год](https://habr.com/ru/companies/pvs-studio/articles/981944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981944)
 - [Как в Postgres Professional сделали аудит, который наконец-то удобно настраивать](https://habr.com/ru/companies/postgrespro/articles/910494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=910494)
 - [Матрицы и векторы: вычисление обратной матрицы](https://habr.com/ru/articles/981922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981922)
-- [Мир доступного дизайна: как увеличить шрифт и не сломать UI?](https://habr.com/ru/companies/sberbank/articles/980900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980900)
 <!-- BLOG-POST-LIST:END -->
 
 ---
