@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От костылей до патентов: наш путь в дизайне KasperskyOS Mobile](https://habr.com/ru/companies/kaspersky/articles/981510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981510)
+- [SQL HowTo: ускоряем запрос в 32 раза &lpar;Advent of Code 2025, Day 8: Playground&rpar;](https://habr.com/ru/companies/tensor/articles/981438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981438)
 - [Сделай бота для работы](https://habr.com/ru/articles/979830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979830)
 - [Как не получить распределённый монолит](https://habr.com/ru/articles/981724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981724)
 - [Год с нейросетями в дизайн-студии: почему мы стали работать быстрее](https://habr.com/ru/companies/karmaweb/articles/981740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981740)
-- [Atomic CSS: верстка и легкость бытия](https://habr.com/ru/articles/981714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981714)
-- [Новый инерциальный MEMS-датчик LSM6DSV320X от ST c искусственным интеллектом для распознавания активности и ударов](https://habr.com/ru/articles/981708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981708)
 <!-- BLOG-POST-LIST:END -->
 
 ---
