@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Анализ образца готового промта от Claude](https://habr.com/ru/articles/982060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982060)
+- [Дайджест технических новостей, переводов и лонгридов инфослужбы Хабра за декабрь 2025 года](https://habr.com/ru/articles/971726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971726)
+- [Анализ готового шаблона типового промта от Claude](https://habr.com/ru/articles/982060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982060)
 - [ChatGPT Atlas не нужен: Пишем свой AI-«браузер» который не стыдно запустить](https://habr.com/ru/articles/982058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982058)
 - [Мультиплексирование потоков данных Node.js Streams: пошагово программируем и разбираем задачу](https://habr.com/ru/articles/982034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982034)
 - [Как я писал свой первый веб‑чат на React + FastAPI и всё сломал &lpar;а потом починил&rpar;](https://habr.com/ru/articles/982032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982032)
-- [MCP Tool Registry: автоматизированное создание систем RAG](https://habr.com/ru/companies/redmadrobot/articles/982004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982004)
 <!-- BLOG-POST-LIST:END -->
 
 ---
