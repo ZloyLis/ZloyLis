@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От Чёрного моря до Невы: история одного комьюнити-тура](https://habr.com/ru/companies/axiomjdk/articles/982122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982122)
+- [Предельная унификация: программируем на языке бизнеса](https://habr.com/ru/articles/982120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982120)
 - [Bongo Cat — убийца системных ресурсов](https://habr.com/ru/articles/982102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982102)
 - [Как с помощью causal inference в Авито показали влияние обращений в поддержку на опыт пользователя](https://habr.com/ru/companies/avito/articles/981614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981614)
 - [Четыре шага обработки информации: зачем вам нужен компьютер](https://habr.com/ru/articles/982094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982094)
-- [Почему не всех сильных кандидатов берут на PhD в США? 9 типичных ошибок при поступлении и сила signaling](https://habr.com/ru/articles/982086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982086)
-- [Что интересного было в декабре 2025 в интернете](https://habr.com/ru/companies/beget/articles/980918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980918)
 <!-- BLOG-POST-LIST:END -->
 
 ---
