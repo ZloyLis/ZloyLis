@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ускоряем индексацию нодлистов Фидонета при помощи Java Streams и Spring Data JDBC: перебираем нодлисты прямиком с СУБД](https://habr.com/ru/articles/982188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982188)
 - [Решил сделать себе смартфон на Линукс. Linux phone Xiaomi Poco X3 NFC на Ubuntu Touch по шагам](https://habr.com/ru/articles/982184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982184)
 - [Samsung Galaxy A03, или какой телефон хуже чем Redmi 10?](https://habr.com/ru/articles/982176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982176)
 - [Как не быть лохом и зарабатывать на вайбкодинге в 2026: гайд по Lovable](https://habr.com/ru/companies/datafeel/articles/982026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982026)
 - [Классификация требований к ПО в виде иерархии](https://habr.com/ru/articles/981534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981534)
-- [Генерация лабиринта с использованием Uber H3 на карте в Qt](https://habr.com/ru/articles/982144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982144)
 <!-- BLOG-POST-LIST:END -->
 
 ---
