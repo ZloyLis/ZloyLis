@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [StingrayTV Alice: путь от идеи до беты](https://habr.com/ru/articles/982166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982166)
+- [Как не быть лохом и зарабатывать на вайбкодинге в 2026: гайд по Lovable](https://habr.com/ru/companies/datafeel/articles/982026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982026)
 - [Классификация требований к ПО в виде иерархии](https://habr.com/ru/articles/981534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981534)
 - [Генерация лабиринта с использованием Uber H3 на карте в Qt](https://habr.com/ru/articles/982144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982144)
 - [От Чёрного моря до Невы: история одного комьюнити-тура](https://habr.com/ru/companies/axiomjdk/articles/982122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982122)
-- [Предельная унификация: программируем на языке бизнеса](https://habr.com/ru/articles/982120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982120)
-- [Bongo Cat — убийца системных ресурсов](https://habr.com/ru/articles/982102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982102)
 <!-- BLOG-POST-LIST:END -->
 
 ---
