@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Классификация требований к ПО в виде иерархии](https://habr.com/ru/articles/981534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981534)
+- [Генерация лабиринта с использованием Uber H3 на карте в Qt](https://habr.com/ru/articles/982144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982144)
 - [От Чёрного моря до Невы: история одного комьюнити-тура](https://habr.com/ru/companies/axiomjdk/articles/982122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982122)
 - [Предельная унификация: программируем на языке бизнеса](https://habr.com/ru/articles/982120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982120)
 - [Bongo Cat — убийца системных ресурсов](https://habr.com/ru/articles/982102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982102)
-- [Как с помощью causal inference в Авито показали влияние обращений в поддержку на опыт пользователя](https://habr.com/ru/companies/avito/articles/981614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981614)
-- [Четыре шага обработки информации: зачем вам нужен компьютер](https://habr.com/ru/articles/982094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982094)
 <!-- BLOG-POST-LIST:END -->
 
 ---
