@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Bongo Cat — убийца системных ресурсов](https://habr.com/ru/articles/982102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982102)
+- [Как с помощью causal inference в Авито показали влияние обращений в поддержку на опыт пользователя](https://habr.com/ru/companies/avito/articles/981614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981614)
+- [Четыре шага обработки информации: зачем вам нужен компьютер](https://habr.com/ru/articles/982094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982094)
 - [Почему не всех сильных кандидатов берут на PhD в США? 9 типичных ошибок при поступлении и сила signaling](https://habr.com/ru/articles/982086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982086)
 - [Что интересного было в декабре 2025 в интернете](https://habr.com/ru/companies/beget/articles/980918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980918)
-- [Дайджест технических новостей, переводов и лонгридов инфослужбы Хабра за декабрь 2025 года](https://habr.com/ru/articles/971726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971726)
-- [Анализ готового шаблона типового промта от Claude](https://habr.com/ru/articles/982060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982060)
-- [ChatGPT Atlas не нужен: Пишем свой AI-«браузер» который не стыдно запустить](https://habr.com/ru/articles/982058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982058)
 <!-- BLOG-POST-LIST:END -->
 
 ---
