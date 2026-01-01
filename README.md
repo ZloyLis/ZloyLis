@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Новогодняя симуляция: математика фейерверков в MATLAB»](https://habr.com/ru/articles/982308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982308)
 - [Firebase — динамическое переключение проектов в iOS приложении](https://habr.com/ru/articles/982284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982284)
 - [CUPED на практике: когда помогает, когда мешает и что проверить перед применением](https://habr.com/ru/articles/982280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982280)
 - [[Перевод] Ivory v1.4.0](https://habr.com/ru/articles/982260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982260)
 - [Cross-chain консенсус с использованием пороговой подписи FROST ED25519](https://habr.com/ru/articles/982258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982258)
-- [Telegram Bot API 9.3: Революция в ИИ-чатах](https://habr.com/ru/articles/982248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982248)
 <!-- BLOG-POST-LIST:END -->
 
 ---
