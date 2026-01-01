@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Уязвимость React2Shell: что произошло и какие уроки можно извлечь](https://habr.com/ru/articles/982238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982238)
 - [ATMO Shield: открытый инструмент для приватного мониторинга нервной системы на базе HRV и локального AI](https://habr.com/ru/articles/982216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982216)
 - [Postgresso #11-12 &lpar;84-85&rpar;](https://habr.com/ru/companies/postgrespro/articles/960360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=960360)
 - [«2026: Битик Свободы. Как теорема Мучника предсказывает точку сингулярности данных»](https://habr.com/ru/articles/982200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982200)
 - [Ускоряем индексацию нодлистов Фидонета при помощи Java Streams и Spring Data JDBC: перебираем нодлисты прямиком с СУБД](https://habr.com/ru/articles/982188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982188)
-- [Решил сделать себе смартфон на Линукс. Linux phone Xiaomi Poco X3 NFC на Ubuntu Touch по шагам](https://habr.com/ru/articles/982184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982184)
 <!-- BLOG-POST-LIST:END -->
 
 ---
