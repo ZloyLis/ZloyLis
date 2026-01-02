@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Новогодний детокс для мозга: почему мы пишем «2025» в 2026-м? &lpar;и Matlab-эксперимент&rpar;»](https://habr.com/ru/articles/982450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982450)
 - [Особенности работы с Telegram Mini App &lpar;Web App&rpar;. От биометрии до датчиков](https://habr.com/ru/companies/amvera/articles/982428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982428)
 - [Нескучное программирование. Ограничения](https://habr.com/ru/articles/981042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981042)
 - [Ни единого разрыва с TUN/TAP, или как я боролся с «подзатупами» интернета на острове](https://habr.com/ru/articles/981048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981048)
 - [Анализ влияния checkpoint_timeout на производительность СУБД PostgreSQL-итоги](https://habr.com/ru/articles/982406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982406)
-- [Оптимизируем программный декодер JPEG для архитектуры RISC-V](https://habr.com/ru/companies/yadro/articles/980546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980546)
 <!-- BLOG-POST-LIST:END -->
 
 ---
