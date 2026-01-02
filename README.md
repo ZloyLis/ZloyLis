@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [А может чайку](https://habr.com/ru/articles/982480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982480)
 - [PostgreSQL сost model для оценки стоимости сброса временных буферов на диск](https://habr.com/ru/companies/postgrespro/articles/982460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982460)
 - [Базовый RAG-компонент для локального семантического поиска на Питоне](https://habr.com/ru/articles/982476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982476)
 - [[Перевод] Параметры Python, которые должен знать питонист](https://habr.com/ru/articles/982432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982432)
 - [Растом можно в вебе](https://habr.com/ru/articles/982464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982464)
-- [«Новогодний детокс для мозга: почему мы пишем «2025» в 2026-м? &lpar;и Matlab-эксперимент&rpar;»](https://habr.com/ru/articles/982450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982450)
 <!-- BLOG-POST-LIST:END -->
 
 ---
