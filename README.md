@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Оптимизируем программный декодер JPEG для архитектуры RISC-V](https://habr.com/ru/companies/yadro/articles/980546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980546)
 - [Моя эконом-метеостанция из подручных материалов и пары батареек](https://habr.com/ru/companies/timeweb/articles/981768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981768)
 - [Exynos 2600: Samsung представил 2-нм процессор. Что за чип?](https://habr.com/ru/companies/selectel/articles/979986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979986)
 - [Easy Maven — Dependencies Search. Или воскрешаем Maven Dependency Helper плагин](https://habr.com/ru/articles/981132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981132)
 - [Задача о паттернах: сколько возможных конфигураций зеркальных двусторонних инверсивных паттернов на кубике Рубика?](https://habr.com/ru/articles/982336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982336)
-- [«Математика постпраздничного выживания: оптимизируем личные финансы и силы после Нового Года с помощью MATLAB»](https://habr.com/ru/articles/982350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982350)
 <!-- BLOG-POST-LIST:END -->
 
 ---
