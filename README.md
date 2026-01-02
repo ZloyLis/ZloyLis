@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нескучное программирование. Ограничения](https://habr.com/ru/articles/981042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981042)
 - [Ни единого разрыва с TUN/TAP, или как я боролся с «подзатупами» интернета на острове](https://habr.com/ru/articles/981048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981048)
 - [Анализ влияния checkpoint_timeout на производительность СУБД PostgreSQL в зависимости от профиля нагрузки](https://habr.com/ru/articles/982406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982406)
 - [Оптимизируем программный декодер JPEG для архитектуры RISC-V](https://habr.com/ru/companies/yadro/articles/980546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980546)
 - [Моя эконом-метеостанция из подручных материалов и пары батареек](https://habr.com/ru/companies/timeweb/articles/981768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981768)
-- [Exynos 2600: Samsung представил 2-нм процессор. Что за чип?](https://habr.com/ru/companies/selectel/articles/979986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979986)
 <!-- BLOG-POST-LIST:END -->
 
 ---
