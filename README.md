@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [STAC: Новая эпоха в работе с данными о Земле](https://habr.com/ru/articles/978758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978758)
 - [«Колесо фортуны» или выбираем куда сходить на каникулах с помощью Godot 4 и API сервиса афиши](https://habr.com/ru/articles/982324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982324)
 - [Fury Messenger: От «семейного чата» до народного мессенджера &lpar;или как я перестал спать и начал фиксить баги&rpar;](https://habr.com/ru/articles/982344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982344)
 - [Алтимат фрисби: планируем тренировки в любительской спортивной команде](https://habr.com/ru/articles/982320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982320)
 - [«Горячие колеса» с BLE](https://habr.com/ru/articles/963138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=963138)
-- [«Новогодняя симуляция: математика фейерверков в MATLAB»](https://habr.com/ru/articles/982308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982308)
 <!-- BLOG-POST-LIST:END -->
 
 ---
