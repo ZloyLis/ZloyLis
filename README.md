@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Параметры Python, которые должен знать питонист](https://habr.com/ru/articles/982432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982432)
 - [Растом можно в вебе](https://habr.com/ru/articles/982464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982464)
 - [«Новогодний детокс для мозга: почему мы пишем «2025» в 2026-м? &lpar;и Matlab-эксперимент&rpar;»](https://habr.com/ru/articles/982450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982450)
 - [Особенности работы с Telegram Mini App &lpar;Web App&rpar;. От биометрии до датчиков](https://habr.com/ru/companies/amvera/articles/982428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982428)
 - [Нескучное программирование. Ограничения](https://habr.com/ru/articles/981042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981042)
-- [Ни единого разрыва с TUN/TAP, или как я боролся с «подзатупами» интернета на острове](https://habr.com/ru/articles/981048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981048)
 <!-- BLOG-POST-LIST:END -->
 
 ---
