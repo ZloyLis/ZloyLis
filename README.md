@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Итоги LLM в 2025 году: прогресс, проблемы и прогнозы](https://habr.com/ru/articles/982496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982496)
 - [АИС «Налог-3»: почему это одна из самых мощных государственных IT-систем России](https://habr.com/ru/articles/982504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982504)
 - [А может чайку](https://habr.com/ru/articles/982480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982480)
 - [PostgreSQL сost model для оценки стоимости сброса временных буферов на диск](https://habr.com/ru/companies/postgrespro/articles/982460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982460)
 - [Базовый RAG-компонент для локального семантического поиска на Питоне](https://habr.com/ru/articles/982476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982476)
-- [[Перевод] Параметры Python, которые должен знать питонист](https://habr.com/ru/articles/982432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982432)
 <!-- BLOG-POST-LIST:END -->
 
 ---
