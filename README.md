@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пользователям Linux посвящается. Генератор паролей из /dev/random: от one-liner&#39;а к Rust CLI](https://habr.com/ru/articles/982644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982644)
 - [НеОсознанный вайб-кодинг &lpar;с примером&rpar;](https://habr.com/ru/articles/982634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982634)
 - [Создаем свой проектный фреймворк автотестирования API [Часть 1/3]](https://habr.com/ru/articles/982624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982624)
 - [Joomla-дайджест. 2-е полугодие 2025 года](https://habr.com/ru/articles/982520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982520)
 - [Безопасная и отказоустойчивая архитектура автономных ИИ-агентов и киберфизических ИИ-систем](https://habr.com/ru/articles/982618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982618)
-- [Линейная и полиномиальная регрессия на C++](https://habr.com/ru/articles/970858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970858)
 <!-- BLOG-POST-LIST:END -->
 
 ---
