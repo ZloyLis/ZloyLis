@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Линейная и полиномиальная регрессия на C](https://habr.com/ru/articles/970858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=970858)
+- [ЗАКОНЫ ЛОГИКИ ДЛЯ НАЧИНАЮЩИХ ПРОГРАММИСТОВ](https://habr.com/ru/articles/982542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982542)
 - [Под капотом многопоточной синхронизации в Java: как потоки договариваются через Mark Word](https://habr.com/ru/articles/982600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982600)
 - [Как не стоит проектировать API &lpar;или как Mak.by сливает адреса своих пользователей&rpar;](https://habr.com/ru/articles/982594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982594)
 - [SOLID в вашей дрели](https://habr.com/ru/articles/982244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982244)
-- [«Математика технического долга: как графики в MATLAB показывают накопление скрытых издержек в IT-экономике 2026 года»](https://habr.com/ru/articles/982560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982560)
-- [Поступать или не поступать, а куда поступать? А как поступать?](https://habr.com/ru/articles/982552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982552)
 <!-- BLOG-POST-LIST:END -->
 
 ---
