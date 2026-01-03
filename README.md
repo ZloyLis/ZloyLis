@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Под капотом многопоточной синхронизации в Java: как потоки договариваются через Mark Word](https://habr.com/ru/articles/982600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982600)
+- [Как не стоит проектировать API &lpar;или как Mak.by сливает адреса своих пользователей&rpar;](https://habr.com/ru/articles/982594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982594)
 - [SOLID в вашей дрели](https://habr.com/ru/articles/982244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982244)
 - [«Математика технического долга: как графики в MATLAB показывают накопление скрытых издержек в IT-экономике 2026 года»](https://habr.com/ru/articles/982560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982560)
 - [Поступать или не поступать, а куда поступать? А как поступать?](https://habr.com/ru/articles/982552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982552)
-- [Open Source: Зачем тебе это на самом деле?](https://habr.com/ru/articles/982482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982482)
-- [[Перевод] Итоги LLM в 2025 году: прогресс, проблемы и прогнозы](https://habr.com/ru/articles/982496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982496)
 <!-- BLOG-POST-LIST:END -->
 
 ---
