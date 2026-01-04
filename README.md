@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От треугольника к Вселенной: универсальное уравнение сохранения](https://habr.com/ru/articles/982578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982578)
 - [Flutter, Google, Fuchsia, Zircon, Linux, Starnix, Magma, Microfuchsia, будущее Андроида и других ОС](https://habr.com/ru/articles/982666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982666)
 - [Ключевые слова в иностранном языке или как увеличить свой словарный запас?](https://habr.com/ru/articles/982660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982660)
 - [Пользователям Linux посвящается. Генератор паролей из /dev/random: от one-liner&#39;а к Rust CLI](https://habr.com/ru/articles/982644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982644)
 - [НеОсознанный вайб-кодинг &lpar;с примером RDF Grapher&rpar;](https://habr.com/ru/articles/982634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982634)
-- [Создаем свой проектный фреймворк автотестирования API [Часть 1/3]](https://habr.com/ru/articles/982624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982624)
 <!-- BLOG-POST-LIST:END -->
 
 ---
