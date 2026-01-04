@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Внедрение Spec-Driven Development в существующие кодовые базы](https://habr.com/ru/articles/982890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982890)
+- [[Перевод] Внутри Spec-Driven Development: на что способен GitHub Spec Kit в эпоху AI-инжиниринга](https://habr.com/ru/articles/982620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982620)
 - [Реактивность без React или как обойтись без id в html элементах](https://habr.com/ru/articles/982886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982886)
 - [Автоматы, потоки. Логические схемы. Задержка распространения](https://habr.com/ru/articles/982868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982868)
 - [Сделай удобно: подборка UI/UX-кейсов из цифровых и нецифровых продуктов &lpar;#23&rpar;](https://habr.com/ru/articles/982852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982852)
-- [Есть ли толк от E-ядер в OpenMP приложениях?](https://habr.com/ru/articles/982640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982640)
-- [AI-безопасность: зачем нужен слой на C рядом с Python-детекторами](https://habr.com/ru/articles/982828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982828)
 <!-- BLOG-POST-LIST:END -->
 
 ---
