@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему большинство ритейл-алготрейдеров теряет деньги. Я полез разбираться](https://habr.com/ru/articles/982782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982782)
 - [Инженерия создания микросервиса spring-web-flux](https://habr.com/ru/articles/982774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982774)
 - [work_mem в PostgreSQL: как правильно кормить запросы памятью](https://habr.com/ru/companies/otus/articles/980560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980560)
 - [Эволюция методологий версионирования](https://habr.com/ru/articles/982740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982740)
 - [Построение иерархии классов для множества объектов информационной модели](https://habr.com/ru/articles/982728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982728)
-- [Почему внедрение LLM в АИС «Налог-3» неизбежно — и что это изменит в налоговом контроле](https://habr.com/ru/articles/982686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982686)
 <!-- BLOG-POST-LIST:END -->
 
 ---
