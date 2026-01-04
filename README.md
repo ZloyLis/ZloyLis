@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сделай удобно: подборка UI/UX-кейсов из цифровых и нецифровых продуктов &lpar;#23&rpar;](https://habr.com/ru/articles/982852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982852)
 - [Есть ли толк от E-ядер в OpenMP приложениях?](https://habr.com/ru/articles/982640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982640)
 - [AI-безопасность: зачем нужен слой на C рядом с Python-детекторами](https://habr.com/ru/articles/982828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982828)
 - [Интерпретация параллельных процессов в среде языка «С» микроконтроллера ADuC и ему подобных](https://habr.com/ru/articles/982814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982814)
 - [Диалог пользователь — ИИ. Часть 3](https://habr.com/ru/articles/982808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982808)
-- [Почему большинство ритейл-алготрейдеров теряет деньги. Я полез разбираться](https://habr.com/ru/articles/982782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982782)
 <!-- BLOG-POST-LIST:END -->
 
 ---
