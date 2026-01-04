@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Эволюция методологий версионирования](https://habr.com/ru/articles/982740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982740)
 - [Построение иерархии классов для множества объектов информационной модели](https://habr.com/ru/articles/982728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982728)
 - [Почему внедрение LLM в АИС «Налог-3» неизбежно — и что это изменит в налоговом контроле](https://habr.com/ru/articles/982686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982686)
 - [От треугольника к Вселенной: универсальное уравнение сохранения](https://habr.com/ru/articles/982578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982578)
 - [Flutter, Google, Fuchsia, Zircon, Linux, Starnix, Magma, Microfuchsia, будущее Андроида и других ОС](https://habr.com/ru/articles/982666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982666)
-- [Ключевые слова в иностранном языке или как увеличить свой словарный запас?](https://habr.com/ru/articles/982660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982660)
 <!-- BLOG-POST-LIST:END -->
 
 ---
