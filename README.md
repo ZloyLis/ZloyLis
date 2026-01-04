@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Реактивность без React или как обойтись без id в html элементах](https://habr.com/ru/articles/982886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982886)
 - [Автоматы, потоки. Логические схемы. Задержка распространения](https://habr.com/ru/articles/982868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982868)
 - [Сделай удобно: подборка UI/UX-кейсов из цифровых и нецифровых продуктов &lpar;#23&rpar;](https://habr.com/ru/articles/982852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982852)
 - [Есть ли толк от E-ядер в OpenMP приложениях?](https://habr.com/ru/articles/982640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982640)
 - [AI-безопасность: зачем нужен слой на C рядом с Python-детекторами](https://habr.com/ru/articles/982828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982828)
-- [Интерпретация параллельных процессов в среде языка «С» микроконтроллера ADuC и ему подобных](https://habr.com/ru/articles/982814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982814)
 <!-- BLOG-POST-LIST:END -->
 
 ---
