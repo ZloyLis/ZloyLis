@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [AI-безопасность: зачем нужен слой на C рядом с Python-детекторами](https://habr.com/ru/articles/982828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982828)
 - [Интерпретация параллельных процессов в среде языка «С» микроконтроллера ADuC и ему подобных](https://habr.com/ru/articles/982814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982814)
 - [Диалог пользователь — ИИ. Часть 3](https://habr.com/ru/articles/982808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982808)
 - [Почему большинство ритейл-алготрейдеров теряет деньги. Я полез разбираться](https://habr.com/ru/articles/982782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982782)
 - [Инженерия создания микросервиса spring-web-flux](https://habr.com/ru/articles/982774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982774)
-- [work_mem в PostgreSQL: как правильно кормить запросы памятью](https://habr.com/ru/companies/otus/articles/980560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980560)
 <!-- BLOG-POST-LIST:END -->
 
 ---
