@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [pg-status — легковесный микросервис для определения статуса PostgreSQL хостов](https://habr.com/ru/articles/982976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982976)
+- [Автостопом по граблям: асинхронное лимитирование запросов в Python](https://habr.com/ru/articles/983066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983066)
 - [Не болтайте ерундой](https://habr.com/ru/articles/983062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983062)
 - [Ну всё, пора закапывать UTF-8](https://habr.com/ru/articles/983042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983042)
 - [Пошаговая GDB отладка прошивки STM32 из консоли cmd](https://habr.com/ru/articles/979122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979122)
-- [Математика парадоксов](https://habr.com/ru/articles/983032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983032)
-- [Как мы загрузили историю 287 валютных пар с лимитом 8 запросов в минуту](https://habr.com/ru/articles/983024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
