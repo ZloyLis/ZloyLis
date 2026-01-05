@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ну всё, пора закапывать UTF-8](https://habr.com/ru/articles/983042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983042)
+- [Пошаговая GDB отладка прошивки STM32 из консоли cmd](https://habr.com/ru/articles/979122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979122)
+- [Математика парадоксов](https://habr.com/ru/articles/983032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983032)
+- [Как мы загрузили историю 287 валютных пар с лимитом 8 запросов в минуту](https://habr.com/ru/articles/983024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983024)
 - [Антипаттерн LLM-приложений: когда модель игнорирует контекст. Часть 2](https://habr.com/ru/articles/972626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972626)
-- [River: учим модель по одной строчке данных](https://habr.com/ru/companies/otus/articles/980256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980256)
-- [CRTP должен умереть? АйТир Лист идиом и фичей C++: от худших к лучшим](https://habr.com/ru/companies/ncloudtech/articles/982972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982972)
-- [Что меня беспокоит в агентской разработке: заметки инженера в 2026](https://habr.com/ru/articles/982998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982998)
-- [Capacitor: от веба к мобильным приложениям. Часть 0. Зачем нужен Capacitor](https://habr.com/ru/articles/982990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982990)
 <!-- BLOG-POST-LIST:END -->
 
 ---
