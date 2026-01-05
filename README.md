@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [CRTP должен умереть? АйТир Лист идиом и фичей C++: от худших к лучшим](https://habr.com/ru/companies/ncloudtech/articles/982972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982972)
+- [Что меня беспокоит в агентской разработке: заметки инженера в 2026](https://habr.com/ru/articles/982998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982998)
 - [Capacitor: от веба к мобильным приложениям. Часть 0. Зачем нужен Capacitor](https://habr.com/ru/articles/982990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982990)
 - [Обработчики событий в JavaScript](https://habr.com/ru/companies/selectel/articles/974324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974324)
 - [ПРОГРАММА КОНТРОЛЛЕРА СЕТИ CAN](https://habr.com/ru/articles/982958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982958)
-- [IBM 5150 и разработка под самый первый PC](https://habr.com/ru/articles/982954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982954)
-- [[Перевод] Алан Кей об отправке сообщений](https://habr.com/ru/articles/982960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982960)
 <!-- BLOG-POST-LIST:END -->
 
 ---
