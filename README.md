@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я пытался создать «конструктор налоговых проверок» для повышения эффективности работы ФНС](https://habr.com/ru/articles/982938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982938)
 - [Диагноз «SLOP» — новый аргумент «Ad Hominem»](https://habr.com/ru/articles/982924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982924)
 - [Какие навыки прокачать IT-специалисту на новогодних каникулах: подборка курсов от Selectel](https://habr.com/ru/companies/selectel/articles/980990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980990)
 - [FlexMock — мок без морок](https://habr.com/ru/articles/982894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982894)
 - [Можно ли собрать кубик Рубика случайно? 10 фактов о вероятности, стремящейся к нулю](https://habr.com/ru/articles/982842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982842)
-- [Веб-кейсы: лучшие сайты для привлечения клиентов в авторском топ-10 онлайн-бизнеса](https://habr.com/ru/articles/982900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982900)
 <!-- BLOG-POST-LIST:END -->
 
 ---
