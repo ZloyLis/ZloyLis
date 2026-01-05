@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Веб-кейсы: лучшие сайты для привлечения клиентов в авторском топ-10 онлайн-бизнеса](https://habr.com/ru/articles/982900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982900)
+- [Kubernetes 1.29 → 1.33 за 30 минут: реальный апгрейд кластера с помощью ИИ под контролем инженера](https://habr.com/ru/articles/981874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981874)
 - [[Перевод] Внедрение Spec-Driven Development в существующие проекты](https://habr.com/ru/articles/982890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982890)
 - [[Перевод] Внутри Spec-Driven Development: на что способен Spec Kit](https://habr.com/ru/articles/982620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982620)
 - [Реактивность без React или как обойтись без id в html элементах](https://habr.com/ru/articles/982886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982886)
-- [Автоматы, потоки. Логические схемы. Задержка распространения](https://habr.com/ru/articles/982868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982868)
-- [Сделай удобно: подборка UI/UX-кейсов из цифровых и нецифровых продуктов &lpar;#23&rpar;](https://habr.com/ru/articles/982852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982852)
 <!-- BLOG-POST-LIST:END -->
 
 ---
