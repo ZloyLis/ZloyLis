@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Release любой ценой: как продуктовый дизайнер создал настольную игру про хаос в IT-разработке &lpar;с PnP-версией&rpar;](https://habr.com/ru/articles/983284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983284)
 - [Реактивность без фреймворков &lpar;просто эксперимент на чистом JS + Web APIs&rpar;](https://habr.com/ru/articles/983268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983268)
 - [Вакансий тьма, а офферов — ноль. Почему рынок отвергает «Paper Seniors»](https://habr.com/ru/articles/983266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983266)
 - [Сравнение ИИ для участия в контесте по вайбкодигу](https://habr.com/ru/articles/983168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983168)
 - [Как мы ввели автосертификацию дашбордов в Авито](https://habr.com/ru/companies/avito/articles/983260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983260)
-- [Каким будет энтерпрайз-СУБД в эпоху ИИ](https://habr.com/ru/companies/postgrespro/articles/981696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981696)
 <!-- BLOG-POST-LIST:END -->
 
 ---
