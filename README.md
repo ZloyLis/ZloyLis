@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [PlayCanvas: Хватит писать код в браузере](https://habr.com/ru/articles/983262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983262)
+- [Реактивность без фреймворков &lpar;просто эксперимент на чистом JS + Web APIs&rpar;](https://habr.com/ru/articles/983268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983268)
+- [Вакансий тьма, а офферов — ноль. Почему рынок отвергает «Paper Seniors»](https://habr.com/ru/articles/983266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983266)
+- [Сравнение ИИ для участия в контесте по вайбкодигу](https://habr.com/ru/articles/983168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983168)
 - [Как мы ввели автосертификацию дашбордов в Авито](https://habr.com/ru/companies/avito/articles/983260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983260)
 - [Каким будет энтерпрайз-СУБД в эпоху ИИ](https://habr.com/ru/companies/postgrespro/articles/981696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981696)
-- [PostgreSQL для WMS: стратегия выбора СУБД в эпоху импортозамещения](https://habr.com/ru/companies/intekey/articles/983220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983220)
-- [Ограничь меня полностью! Или история одной ма-а-а-аленькой фичи](https://habr.com/ru/articles/983196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983196)
 <!-- BLOG-POST-LIST:END -->
 
 ---
