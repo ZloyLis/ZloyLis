@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Путь продакта: от незрячего котенка до прожженного котяры](https://habr.com/ru/companies/lansoft_career/articles/981538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981538)
+- [Chrome DevTools: подробный гайд](https://habr.com/ru/companies/timeweb/articles/976266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976266)
+- [Пет-проекты для новогодних праздников: от роботов до крестиков-ноликов](https://habr.com/ru/companies/selectel/articles/981878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981878)
 - [Зачем дизайнер, если есть ИИ: измеряем роль дизайна в продукте](https://habr.com/ru/companies/clevertec/articles/977426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977426)
 - [Обучение эмбеддингов GitHub репозиториев](https://habr.com/ru/articles/983080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983080)
-- [pg-status — легковесный микросервис для определения статуса PostgreSQL хостов](https://habr.com/ru/articles/982976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982976)
-- [Автостопом по граблям: асинхронное лимитирование запросов в Python](https://habr.com/ru/articles/983066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983066)
-- [Не болтайте ерундой](https://habr.com/ru/articles/983062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983062)
 <!-- BLOG-POST-LIST:END -->
 
 ---
