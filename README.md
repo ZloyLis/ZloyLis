@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кибербезопасность индустрия решения проблем или индустрия создания проблем для их последующего решения?](https://habr.com/ru/articles/983212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983212)
+- [Java Digest — Новогодний спецвыпуск](https://habr.com/ru/companies/tbank/articles/983164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983164)
 - [Мифы об обратной совместимости](https://habr.com/ru/articles/983178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983178)
 - [PodDisruptionBudget: как Kubernetes не даёт выселить лишние поды](https://habr.com/ru/companies/otus/articles/979930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979930)
 - [На Swift 6 это как на Swift 5, только на одну версию повыше](https://habr.com/ru/articles/983148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983148)
-- [Что такое фандинг арбитраж и как сделать автоматический поиск спредов](https://habr.com/ru/articles/983154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983154)
-- [Путь продакта: от незрячего котенка до прожженного котяры](https://habr.com/ru/companies/lansoft_career/articles/981538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981538)
 <!-- BLOG-POST-LIST:END -->
 
 ---
