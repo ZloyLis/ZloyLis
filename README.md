@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Зачем дизайнер, если есть ИИ: измеряем роль дизайна в продукте](https://habr.com/ru/companies/clevertec/articles/977426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977426)
 - [Обучение эмбеддингов GitHub репозиториев](https://habr.com/ru/articles/983080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983080)
 - [pg-status — легковесный микросервис для определения статуса PostgreSQL хостов](https://habr.com/ru/articles/982976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982976)
 - [Автостопом по граблям: асинхронное лимитирование запросов в Python](https://habr.com/ru/articles/983066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983066)
 - [Не болтайте ерундой](https://habr.com/ru/articles/983062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983062)
-- [Ну всё, пора закапывать UTF-8](https://habr.com/ru/articles/983042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983042)
 <!-- BLOG-POST-LIST:END -->
 
 ---
