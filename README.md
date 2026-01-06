@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [PlayCanvas: Хватит писать код в браузере](https://habr.com/ru/articles/983262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983262)
+- [Как мы ввели автосертификацию дашбордов в Авито](https://habr.com/ru/companies/avito/articles/983260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983260)
 - [Каким будет энтерпрайз-СУБД в эпоху ИИ](https://habr.com/ru/companies/postgrespro/articles/981696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981696)
 - [PostgreSQL для WMS: стратегия выбора СУБД в эпоху импортозамещения](https://habr.com/ru/companies/intekey/articles/983220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983220)
 - [Ограничь меня полностью! Или история одной ма-а-а-аленькой фичи](https://habr.com/ru/articles/983196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983196)
-- [[Перевод] How to speed up mass data inserts in PostgreSQL when using Spring](https://habr.com/ru/companies/postgrespro/articles/981938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981938)
-- [Что такое цифровая доступность &lpar;accessibility&rpar;?](https://habr.com/ru/companies/ruvds/articles/982478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982478)
 <!-- BLOG-POST-LIST:END -->
 
 ---
