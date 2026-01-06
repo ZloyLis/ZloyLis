@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [PostgreSQL для WMS: стратегия выбора СУБД в эпоху импортозамещения](https://habr.com/ru/companies/intekey/articles/983220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983220)
+- [[Перевод] How to speed up mass data inserts in PostgreSQL when using Spring](https://habr.com/ru/companies/postgrespro/articles/981938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981938)
+- [Что такое цифровая доступность &lpar;accessibility&rpar;?](https://habr.com/ru/companies/ruvds/articles/982478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982478)
+- [Claude Code: маршрут обучения и полезные ресурсы &lpar;2026&rpar;](https://habr.com/ru/articles/983214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983214)
 - [Кибербезопасность индустрия решения проблем или индустрия создания проблем для их последующего решения?](https://habr.com/ru/articles/983212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983212)
-- [Java Digest — Новогодний спецвыпуск](https://habr.com/ru/companies/tbank/articles/983164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983164)
-- [Мифы об обратной совместимости](https://habr.com/ru/articles/983178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983178)
-- [PodDisruptionBudget: как Kubernetes не даёт выселить лишние поды](https://habr.com/ru/companies/otus/articles/979930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979930)
-- [На Swift 6 это как на Swift 5, только на одну версию повыше](https://habr.com/ru/articles/983148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983148)
 <!-- BLOG-POST-LIST:END -->
 
 ---
