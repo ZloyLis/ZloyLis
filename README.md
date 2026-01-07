@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Парсинг тарифов интернета и ТВ: Архитектура БД и бэкенд на SQL](https://habr.com/ru/articles/983324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983324)
 - [Upgrade: OpenSpec и Beads в Cursor](https://habr.com/ru/articles/983316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983316)
 - [Release любой ценой: как продуктовый дизайнер создал настольную игру про хаос в IT-разработке &lpar;с PnP-версией&rpar;](https://habr.com/ru/articles/983284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983284)
 - [Реактивность без фреймворков &lpar;просто эксперимент на чистом JS + Web APIs&rpar;](https://habr.com/ru/articles/983268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983268)
 - [Вакансий тьма, а офферов — ноль. Почему рынок отвергает «Paper Seniors»](https://habr.com/ru/articles/983266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983266)
-- [Сравнение ИИ для участия в контесте по вайбкодигу](https://habr.com/ru/articles/983168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983168)
 <!-- BLOG-POST-LIST:END -->
 
 ---
