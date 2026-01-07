@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Хаос монтирования в Netflix: масштабирование контейнеров на современных CPU](https://habr.com/ru/companies/wunderfund/articles/982870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982870)
+- [Direct2D #6. Продолжение геометрии. Пару слов о Mesh, масштабировании и сглаживании в Direct2D](https://habr.com/ru/articles/983372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983372)
+- [Мой дашборд](https://habr.com/ru/articles/983086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983086)
+- [Проектирование бизнес-процессов в ERP-проектах](https://habr.com/ru/articles/983360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983360)
 - [Как JOIN изменил наш подход к инфраструктуре данных в NAVER](https://habr.com/ru/articles/983356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983356)
-- [[Перевод] JavaScript: практическое руководство по Blob, File API и оптимизации памяти](https://habr.com/ru/companies/timeweb/articles/976774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976774)
-- [Field vs Constructor Injection в Java: ошибка объектного дизайна или вопрос синтаксиса?](https://habr.com/ru/articles/983344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983344)
-- [Field vs Constructor Injection в Java: ошибка объектного дизайна или вопрос синтаксиса?](https://habr.com/ru/articles/983340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983340)
-- [Осторожно, Drop: как невинный деструктор рушит код](https://habr.com/ru/companies/beget/articles/980626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980626)
 <!-- BLOG-POST-LIST:END -->
 
 ---
