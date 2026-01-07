@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Анимация смены темы в Compose Multiplatform](https://habr.com/ru/articles/983488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983488)
 - [Геймификация учёбы в университете и мой опыт планирования](https://habr.com/ru/articles/964464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964464)
 - [Компиляторы нового поколения: Искусственный интеллект на службе у кода](https://habr.com/ru/articles/983436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983436)
 - [Современный C# для начинающих и джунов. Часть 1](https://habr.com/ru/articles/983416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983416)
 - [Избавляемся от ошибок Segmentation fault из-за переполнения стека в С++](https://habr.com/ru/articles/983394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983394)
-- [[Перевод] Хаос монтирования в Netflix: масштабирование контейнеров на современных CPU](https://habr.com/ru/companies/wunderfund/articles/982870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982870)
 <!-- BLOG-POST-LIST:END -->
 
 ---
