@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Core i9 vs Apple M2: как честно сравнивать калькуляторы с суперкомпьютерами](https://habr.com/ru/articles/983504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983504)
+- [[Перевод] Встречайте Gas Town](https://habr.com/ru/articles/983502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983502)
+- [[Перевод] Лучшие практики Beads](https://habr.com/ru/articles/983500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983500)
+- [[Перевод] Представляем Beads: система памяти для кодинг-агентов](https://habr.com/ru/articles/983498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983498)
 - [Анимация смены темы в Compose Multiplatform](https://habr.com/ru/articles/983488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983488)
-- [Геймификация учёбы в университете и мой опыт планирования](https://habr.com/ru/articles/964464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964464)
-- [Компиляторы нового поколения: Искусственный интеллект на службе у кода](https://habr.com/ru/articles/983436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983436)
-- [Современный C# для начинающих и джунов. Часть 1](https://habr.com/ru/articles/983416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983416)
-- [Избавляемся от ошибок Segmentation fault из-за переполнения стека в С++](https://habr.com/ru/articles/983394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983394)
 <!-- BLOG-POST-LIST:END -->
 
 ---
