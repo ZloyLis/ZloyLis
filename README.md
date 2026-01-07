@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Осторожно, Drop: как невинный деструктор рушит код](https://habr.com/ru/companies/beget/articles/980626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980626)
+- [Топовые фишки в LaTeX часть 1/4](https://habr.com/ru/articles/983308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983308)
+- [[Перевод] Насколько быстро браузеры могут обрабатывать данные в Base64?](https://habr.com/ru/articles/983250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983250)
 - [Как работает чистый код](https://habr.com/ru/articles/983334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983334)
 - [Парсинг тарифов интернета и ТВ: Архитектура БД и бэкенд на SQL](https://habr.com/ru/articles/983324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983324)
-- [Upgrade: OpenSpec и Beads в Cursor](https://habr.com/ru/articles/983316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983316)
-- [Release любой ценой: как продуктовый дизайнер создал настольную игру про хаос в IT-разработке &lpar;с PnP-версией&rpar;](https://habr.com/ru/articles/983284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983284)
-- [Реактивность без фреймворков &lpar;просто эксперимент на чистом JS + Web APIs&rpar;](https://habr.com/ru/articles/983268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983268)
 <!-- BLOG-POST-LIST:END -->
 
 ---
