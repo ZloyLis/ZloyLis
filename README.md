@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Еще раз о симметрии кубика Рубика. «Зеркало» двусторонних MDSI-паттернов](https://habr.com/ru/articles/983550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983550)
+- [Вы 100% не знали хотя бы 1 фишку в LaTeX из этой статьи. часть 2/4](https://habr.com/ru/articles/983480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983480)
 - [Нечёткое тестирование свойств](https://habr.com/ru/articles/983538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983538)
 - [Корпоративный RAG как MCP-сервис: подключаем кодовую базу к IDE](https://habr.com/ru/articles/983424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983424)
 - [Я ненавижу писать сопроводительные письма. Поэтому написал скрипт, который делает это за меня &lpar;и HR ничего не заметили&rpar;](https://habr.com/ru/articles/983528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983528)
-- [А не замахнуться ли нам на Вильяма нашего Аккермана?](https://habr.com/ru/articles/982682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982682)
-- [By the pricking of my thumbs, something wicked this way comes](https://habr.com/ru/articles/982518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982518)
 <!-- BLOG-POST-LIST:END -->
 
 ---
