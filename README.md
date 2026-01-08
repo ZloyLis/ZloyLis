@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [А не замахнуться ли нам на Вильяма нашего Аккермана?](https://habr.com/ru/articles/982682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982682)
+- [By the pricking of my thumbs, something wicked this way comes](https://habr.com/ru/articles/982518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982518)
 - [[Перевод] ICNLI: как мы переосмыслили управление инфраструктурой через естественный язык](https://habr.com/ru/articles/983510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983510)
 - [Core i9 vs Apple M2: как честно сравнивать калькуляторы с суперкомпьютерами](https://habr.com/ru/articles/983504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983504)
 - [[Перевод] Встречайте Gas Town](https://habr.com/ru/articles/983502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983502)
-- [[Перевод] Лучшие практики Beads](https://habr.com/ru/articles/983500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983500)
-- [[Перевод] Представляем Beads: система памяти для кодинг-агентов](https://habr.com/ru/articles/983498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983498)
 <!-- BLOG-POST-LIST:END -->
 
 ---
