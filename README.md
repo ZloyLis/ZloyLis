@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Переосмысление Kubernetes в 2025 году: разбор моего «простого» стека](https://habr.com/ru/companies/chislitellab/articles/980184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980184)
+- [Разработчики в 2026 году будут получать от 700 000 рублей, но есть одно «но»](https://habr.com/ru/articles/983574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983574)
 - [Обзор сертификации HTB Certified Web Exploitation Specialist &lpar;HTB CWES, бывший CBBH&rpar;](https://habr.com/ru/articles/983556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983556)
 - [Еще раз о симметрии кубика Рубика. «Зеркало» двусторонних MDSI-паттернов](https://habr.com/ru/articles/983550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983550)
 - [Вы 100% не знали хотя бы 1 фишку в LaTeX из этой статьи. часть 2/4](https://habr.com/ru/articles/983480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983480)
-- [Нечёткое тестирование свойств](https://habr.com/ru/articles/983538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983538)
-- [Корпоративный RAG как MCP-сервис: подключаем кодовую базу к IDE](https://habr.com/ru/articles/983424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983424)
 <!-- BLOG-POST-LIST:END -->
 
 ---
