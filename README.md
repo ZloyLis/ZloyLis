@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Легкий способ развить свой блог. Как развивать личный бренд и зачем он IT-шнику?](https://habr.com/ru/articles/983664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983664)
 - [JavaScript: заметка об Anchor Positioning API](https://habr.com/ru/companies/timeweb/articles/979180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979180)
 - [Как ИИ меняет работу системного аналитика: большой обзор на возможности моделей, советы для новичков и немного прогнозов](https://habr.com/ru/companies/netologyru/articles/980386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980386)
 - [23 сервиса для поиска дизайн-референсов, о которых молчат на Dribbble](https://habr.com/ru/articles/983608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983608)
 - [Оптимизация и запуск нейронных сетей на React Native: кейс с травой](https://habr.com/ru/articles/983598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983598)
-- [Кто умнее: программист, или берёзовое полено?](https://habr.com/ru/articles/983596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983596)
 <!-- BLOG-POST-LIST:END -->
 
 ---
