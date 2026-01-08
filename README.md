@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [23 сервиса для поиска дизайн-референсов, о которых молчат на Dribbble](https://habr.com/ru/articles/983608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983608)
+- [Оптимизация и запуск нейронных сетей на React Native: кейс с травой](https://habr.com/ru/articles/983598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983598)
 - [Кто умнее: программист, или берёзовое полено?](https://habr.com/ru/articles/983596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983596)
 - [[Перевод] Переосмысление Kubernetes в 2026 году: разбор моего «простого» стека](https://habr.com/ru/companies/chislitellab/articles/980184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980184)
 - [Разработчики в 2026 году будут получать от 700 000 рублей, но есть одно «но»](https://habr.com/ru/articles/983574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983574)
-- [Обзор сертификации HTB Certified Web Exploitation Specialist &lpar;HTB CWES, бывший CBBH&rpar;](https://habr.com/ru/articles/983556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983556)
-- [Еще раз о симметрии кубика Рубика. «Зеркало» двусторонних MDSI-паттернов](https://habr.com/ru/articles/983550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983550)
 <!-- BLOG-POST-LIST:END -->
 
 ---
