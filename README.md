@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Memory Is All You Need: Активная память для трансформеров — мой новый подход к долгосрочным зависимостям в ИИ](https://habr.com/ru/articles/983684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983684)
+- [Украсили ASCII-елочку. Как прошел Т-Адвент](https://habr.com/ru/companies/tbank/articles/983258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983258)
 - [Фитнес в VR? Добавляем свою музыку в BeatSaber](https://habr.com/ru/companies/selectel/articles/983688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983688)
 - [Если ты делаешь книгу в LaTeX, то ты обязательно должен знать эти фишки. часть 3/4](https://habr.com/ru/articles/983486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983486)
 - [[Перевод] Структуры данных на практике. Глава 1: Разрыв в производительности](https://habr.com/ru/articles/982784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982784)
-- [Сколько нужно парадигм, чтобы вкрутить лампочку?](https://habr.com/ru/articles/983724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983724)
-- [Карьерный потолок в IT: почему я перестал стремиться в менеджмент и начал делать свой продукт](https://habr.com/ru/articles/983708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983708)
 <!-- BLOG-POST-LIST:END -->
 
 ---
