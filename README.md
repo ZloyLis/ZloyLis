@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Приложение на qt. Дневник разработки. Начало](https://habr.com/ru/articles/983812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983812)
 - [Не апгрейд, а оптимизация: комплексный тюнинг инфраструктуры подарил PostgreSQL 65% производительности](https://habr.com/ru/articles/983784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983784)
 - [Январский рефакторинг: 7 дней, чтобы почистить Python веб‑проект](https://habr.com/ru/articles/983172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983172)
 - [VladX: как я создал язык программирования с русским синтаксисом в 13 лет](https://habr.com/ru/articles/983764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983764)
 - [Может ли устареть инкремент: обзор выполнения оператора на современных вычислительных платформах](https://habr.com/ru/articles/983566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983566)
-- [Memory Is All You Need: Активная память для трансформеров — мой новый подход к долгосрочным зависимостям в ИИ](https://habr.com/ru/articles/983684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983684)
 <!-- BLOG-POST-LIST:END -->
 
 ---
