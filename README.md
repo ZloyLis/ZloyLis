@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Верстаем сложный прогрессбар в 2026 году](https://habr.com/ru/articles/983810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983810)
 - [ChatGPT 5.2 Pro vs Claude Opus 4.5 vs Gemini 3 Pro: битва титанов в программировании](https://habr.com/ru/companies/bothub/articles/983828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983828)
 - [Как правильно оттестировать первый релиз Android приложения для выкладки в Google Play Market](https://habr.com/ru/articles/983820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983820)
 - [Приложение на qt. Дневник разработки. Начало](https://habr.com/ru/articles/983812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983812)
 - [Не апгрейд, а оптимизация: комплексный тюнинг инфраструктуры подарил PostgreSQL 65% производительности](https://habr.com/ru/articles/983784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983784)
-- [Январский рефакторинг: 7 дней, чтобы почистить Python веб‑проект](https://habr.com/ru/articles/983172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983172)
 <!-- BLOG-POST-LIST:END -->
 
 ---
