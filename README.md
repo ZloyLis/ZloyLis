@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Как натянуть сову на глобус, не привлекая внимания санитаров?» или по следам «мёртвого льва которого пнули»](https://habr.com/ru/articles/979882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979882)
+- [Как готовиться к cобеседованию с лайв-кодингом QA](https://habr.com/ru/articles/983892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983892)
+- [Multi-Curve Framework: Теория и практика оценки кросс-валютных свопов &lpar;CIRS&rpar;](https://habr.com/ru/articles/983712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983712)
+- [Мандала: сакральный алгоритм бытия в магических квадратах](https://habr.com/ru/articles/983890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983890)
 - [Работа с аудио в Android: опыт реализации DAF — техники терапии заикания](https://habr.com/ru/articles/983882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983882)
-- [Metalama: праовца, аспекты приносящая](https://habr.com/ru/articles/983880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983880)
-- [Как обрабатывать 5 млн изменяющихся форм в минуту с SLI 99.99%](https://habr.com/ru/companies/avito/articles/980696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980696)
-- [Какой Может быть UART-CLI в Микроконтроллере &lpar;или Курс Молодого Бойца&rpar;](https://habr.com/ru/articles/980280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980280)
-- [DeepSeek в Intellij Idea через плагин Continue](https://habr.com/ru/articles/983430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983430)
 <!-- BLOG-POST-LIST:END -->
 
 ---
