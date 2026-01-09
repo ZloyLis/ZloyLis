@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Работа с аудио в Android: опыт реализации DAF — техники терапии заикания](https://habr.com/ru/articles/983882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983882)
+- [Metalama: праовца, аспекты приносящая](https://habr.com/ru/articles/983880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983880)
 - [Как обрабатывать 5 млн изменяющихся форм в минуту с SLI 99.99%](https://habr.com/ru/companies/avito/articles/980696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980696)
 - [Какой Может быть UART-CLI в Микроконтроллере &lpar;или Курс Молодого Бойца&rpar;](https://habr.com/ru/articles/980280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980280)
 - [DeepSeek в Intellij Idea через плагин Continue](https://habr.com/ru/articles/983430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983430)
-- [Мониторинг managed PostgreSQL в Yandex Cloud: практика с экспортером pgSCV и k8s](https://habr.com/ru/articles/983852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983852)
-- [Верстаем сложный прогрессбар в 2026 году](https://habr.com/ru/articles/983810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983810)
 <!-- BLOG-POST-LIST:END -->
 
 ---
