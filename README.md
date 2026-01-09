@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создаем пет-проект по аналитике в связке с GitHub Actions. Часть 2](https://habr.com/ru/articles/983926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983926)
 - [[Перевод] Обучение ИИ-моделей на обычном ЦП](https://habr.com/ru/articles/983908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983908)
 - [Как я поучаствовал в разработке Camunda 8 или пример типичной ошибки в многопоточном коде](https://habr.com/ru/articles/983902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983902)
 - [AI based IoT на esp32 для элементов Headless неумного дома](https://habr.com/ru/articles/983860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983860)
 - [«Как натянуть сову на глобус, не привлекая внимания санитаров?» или по следам «мёртвого льва которого пнули»](https://habr.com/ru/articles/979882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979882)
-- [Как готовиться к cобеседованию с лайв-кодингом QA](https://habr.com/ru/articles/983892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983892)
 <!-- BLOG-POST-LIST:END -->
 
 ---
