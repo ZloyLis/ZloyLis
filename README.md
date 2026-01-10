@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Легкое «нелегкое чтение» — книги, которые можно прочесть за вечер](https://habr.com/ru/companies/beeline_cloud/articles/983818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983818)
 - [Пять нестандартных портативных компьютеров: кибердеки, ретро-ноутбуки и игровые гибриды](https://habr.com/ru/companies/selectel/articles/979962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979962)
 - [LaTeX. Пакет, о котором должен знать каждый математик. Изометрические кубики, «змейки» из квадратиков. Часть 4/4](https://habr.com/ru/articles/983916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983916)
 - [Создаем пет-проект по аналитике в связке с GitHub Actions. Часть 2](https://habr.com/ru/articles/983926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983926)
 - [[Перевод] Обучение ИИ-моделей на обычном ЦП](https://habr.com/ru/articles/983908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983908)
-- [Как я поучаствовал в разработке Camunda 8 или пример типичной ошибки в многопоточном коде](https://habr.com/ru/articles/983902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983902)
 <!-- BLOG-POST-LIST:END -->
 
 ---
