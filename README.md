@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Санкт-Петербургский парадокс](https://habr.com/ru/articles/984046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984046)
 - [LLM + 1C: Почему чат-бот для учета — это плохая идея, и как реализовать AI-шлюз через OData](https://habr.com/ru/articles/984008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984008)
 - [Часть 1. Технологический суверенитет в царской России](https://habr.com/ru/articles/983970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983970)
 - [Если UPDATE столкнулся с заблокированной строкой](https://habr.com/ru/articles/983998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983998)
 - [Тайна Motorola E398 — лучшего музыкального телефона из нулевых](https://habr.com/ru/companies/timeweb/articles/983494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983494)
-- [[Перевод] А король-то голый! Как написать свой Claude Code в 200 строках кода](https://habr.com/ru/articles/983968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983968)
 <!-- BLOG-POST-LIST:END -->
 
 ---
