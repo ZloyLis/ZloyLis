@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Тайна Motorola E398 — лучшего музыкального телефона из нулевых](https://habr.com/ru/companies/timeweb/articles/983494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983494)
 - [[Перевод] А король-то голый! Как написать свой Claude Code в 200 строках кода](https://habr.com/ru/articles/983968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983968)
 - [Как простой Тетрис стал билетом на стажировку в геймдев-студию](https://habr.com/ru/articles/983964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983964)
 - [Социальные навыки востребованнее технической экспертизы на рынке труда. Данные говорят об этом уже много лет](https://habr.com/ru/articles/983962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983962)
 - [Легкое «нелегкое чтение» — книги, которые можно прочесть за вечер](https://habr.com/ru/companies/beeline_cloud/articles/983818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983818)
-- [Пять нестандартных портативных компьютеров: кибердеки, ретро-ноутбуки и игровые гибриды](https://habr.com/ru/companies/selectel/articles/979962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979962)
 <!-- BLOG-POST-LIST:END -->
 
 ---
