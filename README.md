@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter, Fuchsia, Zircon, ChromeOS, Aluminium OS, WGPU, Tensor Modem, RIL, SeL4, FIDL будущее Андроида и других ОС №2](https://habr.com/ru/articles/984090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984090)
 - [[Перевод] Claude Opus 4.5 и конец привычной разработки](https://habr.com/ru/articles/984026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984026)
 - [Соискатель получил отказ в работе от Авито после фидбэка из Яндекса](https://habr.com/ru/articles/984172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984172)
 - [Как я заменил BI-дашборд на AI-чат: архитектура RAG-системы для 600K записей](https://habr.com/ru/articles/984162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984162)
 - [[Перевод] Честный взгляд на Go: сильные стороны и болезненные ограничения](https://habr.com/ru/articles/984048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984048)
-- [[Перевод] Отладка с помощью сил древнего зла](https://habr.com/ru/companies/ruvds/articles/981920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981920)
 <!-- BLOG-POST-LIST:END -->
 
 ---
