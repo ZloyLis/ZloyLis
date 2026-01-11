@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Очередь задач на Postgres: SKIP LOCKED + lease/heartbeat + backpressure &lpar;практический опыт&rpar;](https://habr.com/ru/articles/984102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984102)
 - [Типология мышления в аналитической культуре больших языковых моделей &lpar;Часть_1&rpar;](https://habr.com/ru/articles/984062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984062)
 - [300 дней с AI-агентами: от руководителя к Full Cycle Engineer](https://habr.com/ru/articles/983808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983808)
 - [Санкт-Петербургский парадокс](https://habr.com/ru/articles/984046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984046)
 - [LLM + 1C: Почему чат-бот для учета — это плохая идея, и как реализовать AI-шлюз через OData](https://habr.com/ru/articles/984008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984008)
-- [Часть 1. Технологический суверенитет в царской России](https://habr.com/ru/articles/983970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983970)
 <!-- BLOG-POST-LIST:END -->
 
 ---
