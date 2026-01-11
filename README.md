@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [SAE: введение, пояснение и код](https://habr.com/ru/articles/983474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983474)
+- [Управление рисками на примере Санкт-Петербургского парадокса](https://habr.com/ru/articles/984276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984276)
 - [Вокруг RecSys ML 1: универсальный план по MLSD и основные проблемы RecSys](https://habr.com/ru/articles/984260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984260)
 - [AI ускоряет внесение изменений быстрее, чем мы успеваем их осмыслить](https://habr.com/ru/articles/984244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984244)
 - [Доступ к ChatGPT за 5 минут без VPN](https://habr.com/ru/articles/984224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984224)
-- [Прощай, ЖЖ — cпасаем заметки Python-скриптом](https://habr.com/ru/articles/983448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983448)
-- [Flutter, Fuchsia, Zircon, ChromeOS, Aluminium OS, WGPU, Tensor Modem, RIL, SeL4, FIDL будущее Андроида и других ОС №2](https://habr.com/ru/articles/984090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984090)
 <!-- BLOG-POST-LIST:END -->
 
 ---
