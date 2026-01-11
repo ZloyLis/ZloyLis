@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Claude Opus 4.5 и конец привычной разработки](https://habr.com/ru/articles/984026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984026)
+- [Соискатель получил отказ в работе от Авито после фидбэка из Яндекса](https://habr.com/ru/articles/984172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984172)
 - [Как я заменил BI-дашборд на AI-чат: архитектура RAG-системы для 600K записей](https://habr.com/ru/articles/984162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984162)
 - [[Перевод] Честный взгляд на Go: сильные стороны и болезненные ограничения](https://habr.com/ru/articles/984048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984048)
 - [[Перевод] Отладка с помощью сил древнего зла](https://habr.com/ru/companies/ruvds/articles/981920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981920)
-- [Как жёсткие правила сборки релизов упростили жизнь инженерам финтеха](https://habr.com/ru/companies/axiomjdk/articles/983938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983938)
-- [Очередь задач на Postgres: SKIP LOCKED + lease/heartbeat + backpressure &lpar;практический опыт&rpar;](https://habr.com/ru/articles/984102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984102)
 <!-- BLOG-POST-LIST:END -->
 
 ---
