@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [CVE-2026-21876: Как найти критический байпас широко использующегося WAF за 3 дня, если лень читать сорсы](https://habr.com/ru/articles/984632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984632)
 - [Security Week 2603: цифровые тайны стиральных машин](https://habr.com/ru/companies/kaspersky/articles/984516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984516)
 - [PostgreSQL 19: Часть 1 или Коммитфест 2025-07](https://habr.com/ru/companies/postgrespro/articles/984580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984580)
 - [Абсолютные валютные курсы: математика, код и практика](https://habr.com/ru/articles/984558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984558)
 - [Не Git-ом единым: гид по системам контроля версий для особых случаев](https://habr.com/ru/articles/984556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984556)
-- [Navigation3 + Koin в Compose Multiplatform](https://habr.com/ru/articles/984552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984552)
 <!-- BLOG-POST-LIST:END -->
 
 ---
