@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Подходы к state management в React](https://habr.com/ru/articles/984424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984424)
-- [Как сделать пак иконок для продукта с нуля до готовой библиотеки и не погрязнуть в бесконечных правках](https://habr.com/ru/articles/984420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984420)
-- [[Перевод] Как банк использовал события компенсации в Camunda](https://habr.com/ru/articles/984416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984416)
-- [Mock API для QA: Mockoon + ngrok](https://habr.com/ru/articles/982628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982628)
-- [Практика по исправлению рекурсивных импортов во фронтенд приложении](https://habr.com/ru/articles/984382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984382)
+- [Как подружить C++ и YAML: добавляем чтение конфигов с помощью yaml-cpp](https://habr.com/ru/articles/984468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984468)
+- [Инвестиционные боты &lpar;почти&rpar; с нуля. Часть 1: теория и первые шаги реализации](https://habr.com/ru/articles/984454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984454)
+- [[Перевод] Как микросервисы стали тормозом. И почему мы вернулись к монолиту](https://habr.com/ru/articles/981368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981368)
+- [Любите ли вы кино, так как люблю его я? От Excel-таблиц к веб-приложению &lpar;Next.js, React, FastAPI, PostgreSQL&rpar;](https://habr.com/ru/articles/984450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984450)
+- [Ваши ИТ-затраты вышли из-под контроля. Пора это признать](https://habr.com/ru/companies/simpleone/articles/984446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984446)
 <!-- BLOG-POST-LIST:END -->
 
 ---
