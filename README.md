@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL HowTo: немного геометрии &lpar;Advent of Code 2025, Day 9: Movie Theater&rpar;](https://habr.com/ru/companies/tensor/articles/984330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984330)
-- [MDSI Solver: программная реализация метода создания двусторонних мозаик из кубиков Рубика](https://habr.com/ru/articles/984262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984262)
-- [Проектирование сервиса персональной ленты. Как решать System Design?](https://habr.com/ru/articles/984294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984294)
-- [Пиано. Ноты жестко заданы а время — нет. На Rust](https://habr.com/ru/articles/982412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982412)
-- [Почему стандартизация на производстве должна начинаться раньше, чем Digital, MES и BI](https://habr.com/ru/articles/984258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984258)
+- [Строковые ресурсы для больших систем](https://habr.com/ru/articles/983656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983656)
+- [OSTree без магии: атомарные обновления, репозиторий и клиентский образ своими руками](https://habr.com/ru/articles/977760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977760)
+- [Константа во всем: одна простая задача за O&lpar;1&rpar;](https://habr.com/ru/articles/984298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984298)
+- [Почему «совы» умнее? Эволюционная психология, нейробиология и биохакинг ночного кодинга](https://habr.com/ru/articles/983996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983996)
+- [Рынок QA без входа: почему junior и manual исчезают из вакансий &lpar;анализ 2500 вакансий&rpar;](https://habr.com/ru/articles/982050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982050)
 <!-- BLOG-POST-LIST:END -->
 
 ---
