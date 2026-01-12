@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Почему JS-разработчики выбирают Rust, Go и Zig](https://habr.com/ru/articles/983980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983980)
+- [Универсальная админка к сайту — это Гугл Таблица](https://habr.com/ru/articles/984486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984486)
+- [[Перевод] Чему мы научились, с нуля создав движок электронных таблиц](https://habr.com/ru/companies/wunderfund/articles/983444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983444)
+- [Что показали в OWASP Top Ten 2025](https://habr.com/ru/companies/beeline_cloud/articles/984448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984448)
 - [Как подружить C++ и YAML: добавляем чтение конфигов с помощью yaml-cpp](https://habr.com/ru/articles/984468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984468)
-- [Инвестиционные боты &lpar;почти&rpar; с нуля. Часть 1: теория и первые шаги реализации](https://habr.com/ru/articles/984454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984454)
-- [[Перевод] Как микросервисы стали тормозом. И почему мы вернулись к монолиту](https://habr.com/ru/articles/981368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981368)
-- [Любите ли вы кино, так как люблю его я? От Excel-таблиц к веб-приложению &lpar;Next.js, React, FastAPI, PostgreSQL&rpar;](https://habr.com/ru/articles/984450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984450)
-- [Ваши ИТ-затраты вышли из-под контроля. Пора это признать](https://habr.com/ru/companies/simpleone/articles/984446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984446)
 <!-- BLOG-POST-LIST:END -->
 
 ---
