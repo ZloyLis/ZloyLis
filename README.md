@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как запустить 4 независимые нейросети на одном GPU &lpar;16 ГБ&rpar; под FastAPI](https://habr.com/ru/companies/hostkey/articles/982278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982278)
+- [Основы производственной этики для IT-специалистов](https://habr.com/ru/articles/983850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983850)
+- [[Перевод] Как создавать AI-агентов на практике: полное руководство по Claude Agent SDK](https://habr.com/ru/articles/984160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984160)
 - [Строковые ресурсы для больших систем](https://habr.com/ru/articles/983656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983656)
 - [OSTree без магии: атомарные обновления, репозиторий и клиентский образ своими руками](https://habr.com/ru/articles/977760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977760)
-- [Константа во всем: одна простая задача за O&lpar;1&rpar;](https://habr.com/ru/articles/984298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984298)
-- [Почему «совы» умнее? Эволюционная психология, нейробиология и биохакинг ночного кодинга](https://habr.com/ru/articles/983996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983996)
-- [Рынок QA без входа: почему junior и manual исчезают из вакансий &lpar;анализ 2500 вакансий&rpar;](https://habr.com/ru/articles/982050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982050)
 <!-- BLOG-POST-LIST:END -->
 
 ---
