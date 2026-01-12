@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Подходы к state management в React](https://habr.com/ru/articles/984424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984424)
+- [Как сделать пак иконок для продукта с нуля до готовой библиотеки и не погрязнуть в бесконечных правках](https://habr.com/ru/articles/984420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984420)
+- [[Перевод] Как банк использовал события компенсации в Camunda](https://habr.com/ru/articles/984416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984416)
 - [Mock API для QA: Mockoon + ngrok](https://habr.com/ru/articles/982628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982628)
 - [Практика по исправлению рекурсивных импортов во фронтенд приложении](https://habr.com/ru/articles/984382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984382)
-- [Как фракталы преобразили подходы в математике и других науках](https://habr.com/ru/companies/sberbank/articles/984376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984376)
-- [Перестань вайбкодить: почему «разработка на расслабоне» убьет твою карьеру](https://habr.com/ru/articles/984374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984374)
-- [Как протестировать собственный контроллер памяти SDRAM на FPGA](https://habr.com/ru/articles/984236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984236)
 <!-- BLOG-POST-LIST:END -->
 
 ---
