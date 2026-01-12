@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Микрофичи, которые хотелось бы шире распространить в языках программирования](https://habr.com/ru/companies/timeweb/articles/984496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984496)
-- [Оценка эффекта релиза по истории метрики: causal impact без AB теста](https://habr.com/ru/articles/984504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984504)
-- [[Перевод] Почему JS-разработчики выбирают Rust, Go и Zig](https://habr.com/ru/articles/983980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983980)
-- [Универсальная админка к сайту — это Гугл Таблица](https://habr.com/ru/articles/984486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984486)
-- [[Перевод] Чему мы научились, с нуля создав движок электронных таблиц](https://habr.com/ru/companies/wunderfund/articles/983444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983444)
+- [Navigation3 + Koin в Compose Multiplatform](https://habr.com/ru/articles/984552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984552)
+- [Корутины C++20](https://habr.com/ru/articles/984536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984536)
+- [Редчайший прототип Motorola E398, который работал на… Linux](https://habr.com/ru/articles/984550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984550)
+- [Как затащить AI в Java/Kotlin проект](https://habr.com/ru/articles/984544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984544)
+- [Как сделать свой статический анализатор для Go?](https://habr.com/ru/companies/pvs-studio/articles/984526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984526)
 <!-- BLOG-POST-LIST:END -->
 
 ---
