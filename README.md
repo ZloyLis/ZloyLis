@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Фантастический Битрикс и где он обитает](https://habr.com/ru/articles/984304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984304)
 - [[Перевод] Лист формата А4 — мерило всех вещей](https://habr.com/ru/articles/984284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984284)
 - [SAE: введение, пояснение и код](https://habr.com/ru/articles/983474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983474)
 - [Управление рисками на примере Санкт-Петербургского парадокса](https://habr.com/ru/articles/984276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984276)
 - [Вокруг RecSys ML 1: универсальный план по MLSD и основные проблемы RecSys](https://habr.com/ru/articles/984260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984260)
-- [AI ускоряет внесение изменений быстрее, чем мы успеваем их осмыслить](https://habr.com/ru/articles/984244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984244)
 <!-- BLOG-POST-LIST:END -->
 
 ---
