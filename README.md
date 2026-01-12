@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Практика по исправлению рекурсивных импортов во фронтенд приложении](https://habr.com/ru/articles/984382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984382)
+- [Как фракталы преобразили подходы в математике и других науках](https://habr.com/ru/companies/sberbank/articles/984376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984376)
+- [Перестань вайбкодить: почему «разработка на расслабоне» убьет твою карьеру](https://habr.com/ru/articles/984374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984374)
+- [Как протестировать собственный контроллер памяти SDRAM на FPGA](https://habr.com/ru/articles/984236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984236)
 - [Как запустить 4 независимые нейросети на одном GPU &lpar;16 ГБ&rpar; под FastAPI](https://habr.com/ru/companies/hostkey/articles/982278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982278)
-- [Основы производственной этики для IT-специалистов](https://habr.com/ru/articles/983850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983850)
-- [[Перевод] Как создавать AI-агентов на практике: полное руководство по Claude Agent SDK](https://habr.com/ru/articles/984160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984160)
-- [Строковые ресурсы для больших систем](https://habr.com/ru/articles/983656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983656)
-- [OSTree без магии: атомарные обновления, репозиторий и клиентский образ своими руками](https://habr.com/ru/articles/977760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977760)
 <!-- BLOG-POST-LIST:END -->
 
 ---
