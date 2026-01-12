@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Микрофичи, которые хотелось бы шире распространить в языках программирования](https://habr.com/ru/companies/timeweb/articles/984496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984496)
+- [Оценка эффекта релиза по истории метрики: causal impact без AB теста](https://habr.com/ru/articles/984504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984504)
 - [[Перевод] Почему JS-разработчики выбирают Rust, Go и Zig](https://habr.com/ru/articles/983980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983980)
 - [Универсальная админка к сайту — это Гугл Таблица](https://habr.com/ru/articles/984486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984486)
 - [[Перевод] Чему мы научились, с нуля создав движок электронных таблиц](https://habr.com/ru/companies/wunderfund/articles/983444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983444)
-- [Что показали в OWASP Top Ten 2025](https://habr.com/ru/companies/beeline_cloud/articles/984448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984448)
-- [Как подружить C++ и YAML: добавляем чтение конфигов с помощью yaml-cpp](https://habr.com/ru/articles/984468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984468)
 <!-- BLOG-POST-LIST:END -->
 
 ---
