@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Абсолютные валютные курсы: математика, код и практика](https://habr.com/ru/articles/984558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984558)
+- [Не Git-ом единым: гид по системам контроля версий для особых случаев](https://habr.com/ru/articles/984556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984556)
 - [Navigation3 + Koin в Compose Multiplatform](https://habr.com/ru/articles/984552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984552)
 - [Корутины C++20](https://habr.com/ru/articles/984536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984536)
 - [Редчайший прототип Motorola E398, который работал на… Linux](https://habr.com/ru/articles/984550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984550)
-- [Как затащить AI в Java/Kotlin проект](https://habr.com/ru/articles/984544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984544)
-- [Как сделать свой статический анализатор для Go?](https://habr.com/ru/companies/pvs-studio/articles/984526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984526)
 <!-- BLOG-POST-LIST:END -->
 
 ---
