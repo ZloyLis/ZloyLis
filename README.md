@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Mock API для QA: Mockoon + ngrok](https://habr.com/ru/articles/982628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982628)
 - [Практика по исправлению рекурсивных импортов во фронтенд приложении](https://habr.com/ru/articles/984382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984382)
 - [Как фракталы преобразили подходы в математике и других науках](https://habr.com/ru/companies/sberbank/articles/984376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984376)
 - [Перестань вайбкодить: почему «разработка на расслабоне» убьет твою карьеру](https://habr.com/ru/articles/984374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984374)
 - [Как протестировать собственный контроллер памяти SDRAM на FPGA](https://habr.com/ru/articles/984236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984236)
-- [Как запустить 4 независимые нейросети на одном GPU &lpar;16 ГБ&rpar; под FastAPI](https://habr.com/ru/companies/hostkey/articles/982278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982278)
 <!-- BLOG-POST-LIST:END -->
 
 ---
