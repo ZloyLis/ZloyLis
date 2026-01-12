@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [SQL HowTo: немного геометрии &lpar;Advent of Code 2025, Day 9: Movie Theater&rpar;](https://habr.com/ru/companies/tensor/articles/984330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984330)
+- [MDSI Solver: программная реализация метода создания двусторонних мозаик из кубиков Рубика](https://habr.com/ru/articles/984262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984262)
+- [Проектирование сервиса персональной ленты. Как решать System Design?](https://habr.com/ru/articles/984294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984294)
 - [Пиано. Ноты жестко заданы а время — нет. На Rust](https://habr.com/ru/articles/982412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982412)
 - [Почему стандартизация на производстве должна начинаться раньше, чем Digital, MES и BI](https://habr.com/ru/articles/984258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984258)
-- [Фантастический Битрикс и где он обитает](https://habr.com/ru/articles/984304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984304)
-- [[Перевод] Лист формата А4 — мерило всех вещей](https://habr.com/ru/articles/984284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984284)
-- [SAE: введение, пояснение и код](https://habr.com/ru/articles/983474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983474)
 <!-- BLOG-POST-LIST:END -->
 
 ---
