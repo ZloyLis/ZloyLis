@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Конфигуратор микроконтроллеров STM8S103/105](https://habr.com/ru/articles/984946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984946)
 - [Архитектурный подход к контролю согласованности в LLM](https://habr.com/ru/articles/984938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984938)
 - [Программирование можно будет освоить за день без курсов, когда решат эту проблему. И нейросети тут не причем](https://habr.com/ru/articles/971858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971858)
 - [[Перевод] Claude Code изнутри: как устроены AI-агенты для разработки](https://habr.com/ru/articles/984192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984192)
 - [Топ инструментов ИИ для системного аналитика](https://habr.com/ru/articles/984904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984904)
-- [Топ-5 российских low-code платформ](https://habr.com/ru/companies/directum/articles/984890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984890)
 <!-- BLOG-POST-LIST:END -->
 
 ---
