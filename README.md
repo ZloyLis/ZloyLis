@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как написать постановку на разработку, чтобы ни у кого не было вопросов](https://habr.com/ru/companies/lanit/articles/978146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978146)
-- [Установка Matomo Tag Manager на своем сервере LAMP + расчет нагрузки](https://habr.com/ru/articles/984584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984584)
-- [Экосистема SeedKey. Или как улучшить беспарольную аутентификацию](https://habr.com/ru/articles/984456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984456)
-- [Copilot в Power BI: 6 сценариев использования](https://habr.com/ru/companies/yandex_praktikum/articles/980808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980808)
-- [[Перевод] Вывод списка материалов Joomla с разделением по годам и месяцам. Переопределение модуля Материалы &lpar;mod_articles&rpar;](https://habr.com/ru/articles/984664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984664)
+- [Методология триады: как я выстроил работу с двумя AI-агентами](https://habr.com/ru/companies/rostelecom/articles/984728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984728)
+- [Анимированные визуализации потоков данных: движение товаров, денег и пользователей](https://habr.com/ru/companies/timeweb/articles/981392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981392)
+- [[Перевод] Баги в ядре Linux в среднем прячутся по 2 года. Некоторые скрываются до 20 лет](https://habr.com/ru/articles/983558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983558)
+- [[Перевод] Убийцы иммутабельной производительности — Zustand/Redux в связке с React](https://habr.com/ru/articles/984654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984654)
+- [Как перевести 40 распределенных баз 1С из MSSQL в PostgreSQL](https://habr.com/ru/companies/softpoint/articles/984716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984716)
 <!-- BLOG-POST-LIST:END -->
 
 ---
