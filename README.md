@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Топ инструментов ИИ для системного аналитика](https://habr.com/ru/articles/984904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984904)
+- [Топ-5 российских low-code платформ](https://habr.com/ru/companies/directum/articles/984890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984890)
 - [И снова про алгоритмы и структуры данных…](https://habr.com/ru/articles/984792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984792)
 - [Админ vs студент: разбор тестового задания — сервис консультаций на Laravel за неделю](https://habr.com/ru/companies/ruvds/articles/983692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983692)
 - [Kafka для начинающих: работа с Kafka транзакциями на практике — когда они нужны, а когда только вредят?](https://habr.com/ru/articles/981188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981188)
-- [[Перевод] Скрытая цена словарей Python и три более безопасные альтернативы](https://habr.com/ru/articles/979024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979024)
-- [Чпоньк! — как сделать разработку в 1С такой же быстрой, как Ctrl+C в VS Code](https://habr.com/ru/companies/vkusvill/articles/984802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984802)
 <!-- BLOG-POST-LIST:END -->
 
 ---
