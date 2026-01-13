@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Формат CHM, структурность, локальность, скорость и около-научная лирика](https://habr.com/ru/articles/984988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984988)
 - [Готов лектор, давно готов! Про митапы и вебинары](https://habr.com/ru/articles/868732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868732)
 - [CTE &lpar;Common Table Expression&rpar; / Django CTE](https://habr.com/ru/articles/984962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984962)
 - [Конфигуратор микроконтроллеров STM8S103/105](https://habr.com/ru/articles/984946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984946)
 - [Архитектурный подход к контролю согласованности в LLM](https://habr.com/ru/articles/984938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984938)
-- [Программирование можно будет освоить за день без курсов, когда решат эту проблему. И нейросети тут не причем](https://habr.com/ru/articles/971858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971858)
 <!-- BLOG-POST-LIST:END -->
 
 ---
