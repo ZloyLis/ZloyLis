@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Экосистема SeedKey. Или как улучшить беспарольную аутентификацию](https://habr.com/ru/articles/984456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984456)
+- [Copilot в Power BI: 6 сценариев использования](https://habr.com/ru/companies/yandex_praktikum/articles/980808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980808)
 - [[Перевод] Вывод списка материалов Joomla с разделением по годам и месяцам. Переопределение модуля Материалы &lpar;mod_articles&rpar;](https://habr.com/ru/articles/984664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984664)
 - [[Перевод] Лучшие практики разработки с агентами: руководство от команды Cursor](https://habr.com/ru/articles/984656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984656)
 - [CVE-2026-21876: Как найти критический байпас широко использующегося WAF за 3 дня, если лень читать сорсы](https://habr.com/ru/articles/984632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984632)
-- [Обзор новогоднего обновления Телеграм ИИ ботов &lpar;они не работают&rpar;](https://habr.com/ru/articles/984554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984554)
-- [Security Week 2603: цифровые тайны стиральных машин](https://habr.com/ru/companies/kaspersky/articles/984516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984516)
 <!-- BLOG-POST-LIST:END -->
 
 ---
