@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Методология триады: как я выстроил работу с двумя AI-агентами](https://habr.com/ru/companies/rostelecom/articles/984728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984728)
-- [Анимированные визуализации потоков данных: движение товаров, денег и пользователей](https://habr.com/ru/companies/timeweb/articles/981392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981392)
-- [[Перевод] Баги в ядре Linux в среднем прячутся по 2 года. Некоторые скрываются до 20 лет](https://habr.com/ru/articles/983558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983558)
-- [[Перевод] Убийцы иммутабельной производительности — Zustand/Redux в связке с React](https://habr.com/ru/articles/984654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984654)
-- [Как перевести 40 распределенных баз 1С из MSSQL в PostgreSQL](https://habr.com/ru/companies/softpoint/articles/984716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984716)
+- [Как достучаться до клиента в мобильном приложении: вчера и сегодня](https://habr.com/ru/companies/rshb/articles/984720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984720)
+- [Ваш IQ в тесте намного меньше чем в жизни](https://habr.com/ru/companies/femida_search/articles/984754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984754)
+- [Rest и SOAP: разница](https://habr.com/ru/articles/984750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984750)
+- [Как укротить SwiftLint в масштабах компании](https://habr.com/ru/companies/naumen/articles/981474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981474)
+- [Мышление QA: что происходит у меня в голове, когда я тестирую](https://habr.com/ru/companies/banki/articles/984356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984356)
 <!-- BLOG-POST-LIST:END -->
 
 ---
