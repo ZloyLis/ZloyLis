@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Архитектурный подход к контролю согласованности в LLM](https://habr.com/ru/articles/984938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984938)
+- [Программирование можно будет освоить за день без курсов, когда решат эту проблему. И нейросети тут не причем](https://habr.com/ru/articles/971858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=971858)
+- [[Перевод] Claude Code изнутри: как устроены AI-агенты для разработки](https://habr.com/ru/articles/984192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984192)
 - [Топ инструментов ИИ для системного аналитика](https://habr.com/ru/articles/984904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984904)
 - [Топ-5 российских low-code платформ](https://habr.com/ru/companies/directum/articles/984890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984890)
-- [И снова про алгоритмы и структуры данных…](https://habr.com/ru/articles/984792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984792)
-- [Админ vs студент: разбор тестового задания — сервис консультаций на Laravel за неделю](https://habr.com/ru/companies/ruvds/articles/983692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983692)
-- [Kafka для начинающих: работа с Kafka транзакциями на практике — когда они нужны, а когда только вредят?](https://habr.com/ru/articles/981188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981188)
 <!-- BLOG-POST-LIST:END -->
 
 ---
