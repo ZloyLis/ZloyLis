@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Kafka для начинающих: работа с Kafka транзакциями на практике — когда они нужны, а когда только вредят?](https://habr.com/ru/articles/981188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981188)
+- [[Перевод] Скрытая цена словарей Python и три более безопасные альтернативы](https://habr.com/ru/articles/979024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979024)
+- [Чпоньк! — как сделать разработку в 1С такой же быстрой, как Ctrl+C в VS Code](https://habr.com/ru/companies/vkusvill/articles/984802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984802)
 - [Почему я выбрал Suno AI для создания мемного альбома «Вася Тестировщик»?](https://habr.com/ru/articles/984790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984790)
 - [Миграция проекта с Node.js на Java-стек с помощью ИИ](https://habr.com/ru/companies/dalee_group/articles/984702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984702)
-- [По-компонентный vs централизованный i18n](https://habr.com/ru/articles/984764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984764)
-- [Бинарный поиск: от угадывания чисел до эффективных алгоритмов](https://habr.com/ru/articles/984760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984760)
-- [От Redis к Kafka Streams: как мы проверяем сетевую доступность 200к устройств](https://habr.com/ru/companies/sberbank/articles/974926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974926)
 <!-- BLOG-POST-LIST:END -->
 
 ---
