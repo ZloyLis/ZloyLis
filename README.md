@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Небо Сергея Павловича Королёва](https://habr.com/ru/articles/985164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985164)
-- [Реализация гексагональной архитектуры на Java](https://habr.com/ru/articles/985156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985156)
-- [LCR как показатель эффективности бизнес-процесса простым языком](https://habr.com/ru/articles/985154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985154)
-- [Как мы измеряем качество в VK Видео](https://habr.com/ru/companies/vk/articles/985120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985120)
-- [Какие навыки нужны специалисту по кибербезопасности в 2026 году](https://habr.com/ru/companies/habr_career/articles/985148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985148)
+- [От потребностей команд к требованиям: выбор движка бизнес процессов после EOL Camunda 7](https://habr.com/ru/companies/tbank/articles/985132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985132)
+- [[Перевод] Javascript: прощай, Date, здравствуй, Temporal](https://habr.com/ru/articles/984884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984884)
+- [От ручной подготовки архивов к удобной загрузке в Экзон: упрощение массовой загрузки файлов](https://habr.com/ru/companies/exon_group/articles/984950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984950)
+- [База данных как ресурс в микросервисной архитектуре](https://habr.com/ru/articles/985110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985110)
+- [Как мы автоматизировали преподавание ООП и обнаружили, что ChatGPT — это не враг, а союзник &lpar;с оговорками&rpar;](https://habr.com/ru/companies/itmai/articles/981114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981114)
 <!-- BLOG-POST-LIST:END -->
 
 ---
