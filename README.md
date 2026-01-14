@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Имитация, симуляция или эмуляция](https://habr.com/ru/articles/985040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985040)
 - [[Перевод] Следующие два года в разработке программного обеспечения](https://habr.com/ru/articles/985096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985096)
 - [Почему нейросети не заменят прикладных специалистов: простая логика против вероятностных подходов](https://habr.com/ru/articles/985092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985092)
 - [Флаг вам в руки: внедряем feature flags в Django](https://habr.com/ru/companies/otus/articles/979934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979934)
 - [Как работать с legacy-системами и не ломать бизнес: опыт MANGO OFFICE](https://habr.com/ru/companies/mango_telecom/articles/984746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984746)
-- [[Перевод] std::move ничего никуда не двигает: подробный рассказ о категориях значений в C++](https://habr.com/ru/articles/985066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985066)
 <!-- BLOG-POST-LIST:END -->
 
 ---
