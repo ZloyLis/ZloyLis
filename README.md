@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Langium — инструмент для языкового моделирования](https://habr.com/ru/articles/985220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985220)
+- [HADI цикл: как научить AI-агента учиться на своих ошибках и нешаблонно мыслить](https://habr.com/ru/articles/985202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985202)
 - [От потребностей команд к требованиям: выбор движка бизнес процессов после EOL Camunda 7](https://habr.com/ru/companies/tbank/articles/985132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985132)
 - [[Перевод] Javascript: прощай, Date, здравствуй, Temporal](https://habr.com/ru/articles/984884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984884)
 - [От ручной подготовки архивов к удобной загрузке в Экзон: упрощение массовой загрузки файлов](https://habr.com/ru/companies/exon_group/articles/984950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984950)
-- [База данных как ресурс в микросервисной архитектуре](https://habr.com/ru/articles/985110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985110)
-- [Как мы автоматизировали преподавание ООП и обнаружили, что ChatGPT — это не враг, а союзник &lpar;с оговорками&rpar;](https://habr.com/ru/companies/itmai/articles/981114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981114)
 <!-- BLOG-POST-LIST:END -->
 
 ---
