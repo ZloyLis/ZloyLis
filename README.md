@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Roo Code для тестировщика: как превратить обязательные запросы к DeepSeek в реальную пользу](https://habr.com/ru/articles/985308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985308)
 - [Baseline: декабрь 2025](https://habr.com/ru/articles/979276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979276)
 - [За что на самом деле платят ваши пользователи: декомпозиция ценности, которую не покажут метрики](https://habr.com/ru/articles/985250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985250)
 - [Поиск решений управляемый данными. Информационный блок](https://habr.com/ru/articles/985248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985248)
 - [Langium — инструмент для языкового моделирования](https://habr.com/ru/articles/985220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985220)
-- [HADI цикл: как научить AI-агента учиться на своих ошибках и нешаблонно мыслить](https://habr.com/ru/articles/985202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985202)
 <!-- BLOG-POST-LIST:END -->
 
 ---
