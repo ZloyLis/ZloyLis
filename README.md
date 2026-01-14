@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как начать тестировать внутренние покупки &lpar;In-App Purchases&rpar; на Android](https://habr.com/ru/articles/930204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=930204)
+- [Закономерности в данных вместо догадок: как мы помогаем студентам дойти до конца курса](https://habr.com/ru/companies/yandex/articles/974964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974964)
 - [Black-White Array: новая структура данных с O&lpar;log N&rpar; аллокаций](https://habr.com/ru/articles/984184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984184)
 - [[Перевод] BPMN умер, да здравствует BPMN](https://habr.com/ru/articles/984870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984870)
 - [[Перевод] Фотогеничные проекции узлов на кубах Рубика размером n×n×n](https://habr.com/ru/articles/984846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984846)
-- [Формат CHM, структурность, локальность, скорость и около-научная лирика](https://habr.com/ru/articles/984988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984988)
-- [Готов лектор, давно готов! Про митапы и вебинары](https://habr.com/ru/articles/868732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=868732)
 <!-- BLOG-POST-LIST:END -->
 
 ---
