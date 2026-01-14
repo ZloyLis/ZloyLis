@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как ускорить SQL-запрос в миллион раз без изменения кода: кейс со STATMULTIPLIER в Postgres](https://habr.com/ru/companies/tantor/articles/985130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985130)
+- [Как проходить Leetcode-интервью: ритуал, который работает](https://habr.com/ru/articles/982754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982754)
 - [Имитация, симуляция или эмуляция](https://habr.com/ru/articles/985040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985040)
 - [[Перевод] Следующие два года в разработке программного обеспечения](https://habr.com/ru/articles/985096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985096)
 - [Почему нейросети не заменят прикладных специалистов: простая логика против вероятностных подходов](https://habr.com/ru/articles/985092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985092)
-- [Флаг вам в руки: внедряем feature flags в Django](https://habr.com/ru/companies/otus/articles/979934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979934)
-- [Как работать с legacy-системами и не ломать бизнес: опыт MANGO OFFICE](https://habr.com/ru/companies/mango_telecom/articles/984746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984746)
 <!-- BLOG-POST-LIST:END -->
 
 ---
