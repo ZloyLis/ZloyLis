@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как начать тестировать внутренние покупки &lpar;In-App Purchases&rpar; на Android](https://habr.com/ru/articles/930204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=930204)
-- [Закономерности в данных вместо догадок: как мы помогаем студентам дойти до конца курса](https://habr.com/ru/companies/yandex/articles/974964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974964)
-- [Black-White Array: новая структура данных с O&lpar;log N&rpar; аллокаций](https://habr.com/ru/articles/984184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984184)
-- [[Перевод] BPMN умер, да здравствует BPMN](https://habr.com/ru/articles/984870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984870)
-- [[Перевод] Фотогеничные проекции узлов на кубах Рубика размером n×n×n](https://habr.com/ru/articles/984846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984846)
+- [[Перевод] std::move ничего никуда не двигает: подробный рассказ о категориях значений в C++](https://habr.com/ru/articles/985066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985066)
+- [Полезные ресурсы для тестировщиков: подборка от специалистов Selectel](https://habr.com/ru/companies/selectel/articles/985060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985060)
+- [[Перевод] Бесконечность, графы и Wi-Fi: неожиданный мост между теорией множеств и информатикой](https://habr.com/ru/companies/first/articles/984714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984714)
+- [Ненормальные непотребства, трюки, хаки и алгоритмы на C](https://habr.com/ru/companies/timeweb/articles/977208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977208)
+- [Я стал ИИ-зависимым и вот как борюсь с этим](https://habr.com/ru/companies/clevertec/articles/984832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984832)
 <!-- BLOG-POST-LIST:END -->
 
 ---
