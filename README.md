@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [За что на самом деле платят ваши пользователи: декомпозиция ценности, которую не покажут метрики](https://habr.com/ru/articles/985250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985250)
+- [Поиск решений управляемый данными. Информационный блок](https://habr.com/ru/articles/985248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985248)
 - [Langium — инструмент для языкового моделирования](https://habr.com/ru/articles/985220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985220)
 - [HADI цикл: как научить AI-агента учиться на своих ошибках и нешаблонно мыслить](https://habr.com/ru/articles/985202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985202)
 - [От потребностей команд к требованиям: выбор движка бизнес процессов после EOL Camunda 7](https://habr.com/ru/companies/tbank/articles/985132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985132)
-- [[Перевод] Javascript: прощай, Date, здравствуй, Temporal](https://habr.com/ru/articles/984884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984884)
-- [От ручной подготовки архивов к удобной загрузке в Экзон: упрощение массовой загрузки файлов](https://habr.com/ru/companies/exon_group/articles/984950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984950)
 <!-- BLOG-POST-LIST:END -->
 
 ---
