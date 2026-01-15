@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как написать линтер для SQL-миграций](https://habr.com/ru/companies/domclick/articles/976614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976614)
 - [Почему ваш проект не замечают: разбор репозитория на практике](https://habr.com/ru/articles/984624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984624)
 - [Почему ваш бектест врёт на 50%, и при чём тут выбор между Python и C++](https://habr.com/ru/articles/985076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985076)
 - [[Перевод] Как ИИ помогает упростить BPMN-диаграммы](https://habr.com/ru/articles/985108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985108)
 - [Как я перестал слушать «Unknown Artist — Track 01» и написал свой распознаватель музыки](https://habr.com/ru/articles/985320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985320)
-- [Roo Code для тестировщика: как превратить обязательные запросы к DeepSeek в реальную пользу](https://habr.com/ru/articles/985308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985308)
 <!-- BLOG-POST-LIST:END -->
 
 ---
