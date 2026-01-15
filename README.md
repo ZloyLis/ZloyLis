@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Глобальная балансировка веб-ресурсов в геораспределённой инфраструктуре](https://habr.com/ru/companies/oleg-bunin/articles/979582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979582)
+- [Проснулся 1-го января и переписал библиотеку: релиз async_yookassa 1.0.0](https://habr.com/ru/articles/985434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985434)
 - [Как написать линтер для SQL-миграций](https://habr.com/ru/companies/domclick/articles/976614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976614)
 - [Почему ваш проект не замечают: разбор репозитория на практике](https://habr.com/ru/articles/984624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984624)
 - [Почему ваш бектест врёт на 50%, и при чём тут выбор между Python и C++](https://habr.com/ru/articles/985076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985076)
-- [[Перевод] Как ИИ помогает упростить BPMN-диаграммы](https://habr.com/ru/articles/985108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985108)
-- [Как я перестал слушать «Unknown Artist — Track 01» и написал свой распознаватель музыки](https://habr.com/ru/articles/985320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985320)
 <!-- BLOG-POST-LIST:END -->
 
 ---
