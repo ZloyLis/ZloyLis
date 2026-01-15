@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы встроили нейросети в процессы IT-компании и зачем нам свой ИИ-агент](https://habr.com/ru/articles/985218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985218)
+- [БОЛЬШАЯ история Гейм-Дизайн Документации &lpar;1/2&rpar;](https://habr.com/ru/articles/985576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985576)
+- [Spec-Driven Development: контроль AI-кодогенерации](https://habr.com/ru/articles/985498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985498)
 - [Язык моделирования ИТ-инфраструктуры](https://habr.com/ru/companies/architeezy/articles/985374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985374)
 - [[Перевод] Генерация 3D-мешей из текста](https://habr.com/ru/companies/piter/articles/985524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985524)
-- [[Перевод] Как удаление сорока строк увеличило производительность в 400 раз](https://habr.com/ru/articles/985548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985548)
-- [Bank-in-a-Box: как собрать реалистичную песочницу для мультибанкового API‑хакатона](https://habr.com/ru/companies/vtb/articles/985546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985546)
-- [3 провала или что может пойти не так](https://habr.com/ru/articles/985516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985516)
 <!-- BLOG-POST-LIST:END -->
 
 ---
