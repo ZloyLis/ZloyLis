@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [3 провала или на что обращать внимание на собеседовании/испытательном сроке](https://habr.com/ru/articles/985516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985516)
 - [FixMark — собственное мобильное приложение, которое упростило нашу логистику](https://habr.com/ru/companies/fix_price/articles/985494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985494)
 - [Открываем ПВЗ с умом: интеграция Геоинтеллекта и DataLens](https://habr.com/ru/articles/985490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985490)
 - [CyBОК. Глава 3. Законы и регуляторные нормы. Часть 6](https://habr.com/ru/companies/securityvison/articles/985488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985488)
 - [[Перевод] Project Panama: как Java научилась говорить на C! &lpar;Часть 1&rpar;](https://habr.com/ru/companies/spring_aio/articles/985144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985144)
-- [Глобальная балансировка веб-ресурсов в геораспределённой инфраструктуре](https://habr.com/ru/companies/oleg-bunin/articles/979582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979582)
 <!-- BLOG-POST-LIST:END -->
 
 ---
