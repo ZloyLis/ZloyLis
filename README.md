@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Архитектура через призму сложности](https://habr.com/ru/articles/985914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985914)
+- [[Перевод] 21 урок, который я усвоил за 14 лет работы в Google](https://habr.com/ru/companies/ruvds/articles/985050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985050)
+- [PG_EXPECTO 5.1: Влияние vm.swappiness=1 на производительность PostgreSQL под OLAP-нагрузкой](https://habr.com/ru/articles/985898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985898)
+- [[Перевод] Rust в действии: допечатка](https://habr.com/ru/companies/bhv_publishing/articles/985892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985892)
 - [Работа в блокчейне и крипте в 2025–2026. Часть 1 — взгляд работодателя на рынок и карьеру](https://habr.com/ru/companies/it_sense/articles/985870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985870)
-- [Вайбкодинг пошёл не по плану: как я снёс базу данных по совету Google Gemini &lpar;почти&rpar;](https://habr.com/ru/articles/985856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985856)
-- [[Перевод] Python без Python: как запускать код где угодно](https://habr.com/ru/articles/978850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978850)
-- [Архитектурные практики в «кровавом энтерпрайзе»: данные, управление сложными системами и влияние AI](https://habr.com/ru/companies/ru_mts/articles/985616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985616)
-- [Подготовка датасета](https://habr.com/ru/companies/piter/articles/985482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985482)
 <!-- BLOG-POST-LIST:END -->
 
 ---
