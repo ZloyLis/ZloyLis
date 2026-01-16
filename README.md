@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Non-Human Identities и будущее кибербезопасности](https://habr.com/ru/companies/cloud4y/articles/985936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985936)
 - [Умный рабочий стол, который живёт по солнцу](https://habr.com/ru/articles/982896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982896)
 - [Кейс: как использовать frontend-фичи и UX для оптимизации трафика на примере Дзена](https://habr.com/ru/articles/985896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985896)
 - [Архитектура через призму сложности](https://habr.com/ru/articles/985914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985914)
 - [[Перевод] 21 урок, который я усвоил за 14 лет работы в Google](https://habr.com/ru/companies/ruvds/articles/985050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985050)
-- [PG_EXPECTO 5.1: Влияние vm.swappiness=1 на производительность PostgreSQL](https://habr.com/ru/articles/985898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985898)
 <!-- BLOG-POST-LIST:END -->
 
 ---
