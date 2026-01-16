@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Python без Python: как запускать код где угодно](https://habr.com/ru/articles/978850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978850)
 - [Архитектурные практики в «кровавом энтерпрайзе»: данные, управление сложными системами и влияние AI](https://habr.com/ru/companies/ru_mts/articles/985616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985616)
 - [Подготовка датасета](https://habr.com/ru/companies/piter/articles/985482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985482)
 - [Как использовать нейросети в IT](https://habr.com/ru/companies/habr_career/articles/985796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985796)
 - [Вот каким мы запомнили олдскульный интернет](https://habr.com/ru/companies/clevertec/articles/985782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985782)
-- [Как подружить Android и ICMP: заметки разработчика](https://habr.com/ru/articles/985776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985776)
 <!-- BLOG-POST-LIST:END -->
 
 ---
