@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Стремимся к AGI: обучаем нейросети в экосистеме эволюционно с нуля](https://habr.com/ru/articles/985454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985454)
 - [Совсем не вайбовый вайбкодинг. Обзор SDD+ фреймворков для разработки с ИИ](https://habr.com/ru/articles/985990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985990)
 - [Как не сломать VCL, делая кастомный контрол](https://habr.com/ru/articles/985986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985986)
 - [GigaChat 3 Lightning: разбираем open source модель от Сбера](https://habr.com/ru/articles/985976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985976)
 - [Brainfuck-калькулятор: Как я создал вычислительную машину на эзотерическом ЯП и не сошел с ума](https://habr.com/ru/articles/985956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985956)
-- [Ingress-контроллеры: Nginx, Traefik, HAProxy — разбираемся, кто вам подойдет](https://habr.com/ru/companies/otus/articles/979316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979316)
 <!-- BLOG-POST-LIST:END -->
 
 ---
