@@ -38,8 +38,8 @@ ___
 - [Нескучное программирование. Иерархия концептов](https://habr.com/ru/articles/985688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985688)
 - [Осознанная стоимость абстракций: Autoboxing в современной Java](https://habr.com/ru/articles/985620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985620)
 - [Кумир пустоты: Как дебил в роли продакта получил божественный статус благодаря восторженному идиоту наверху](https://habr.com/ru/articles/985618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985618)
-- [Актуальный на 2026 Roadmap по Go: с нуля до middle](https://habr.com/ru/articles/985608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985608)
 - [Мегатренды в дизайне интерфейсов. Технологии и наука](https://habr.com/ru/companies/severstal/articles/985538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985538)
+- [Как мы встроили нейросети в процессы IT-компании и зачем нам свой ИИ-агент](https://habr.com/ru/articles/985218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985218)
 <!-- BLOG-POST-LIST:END -->
 
 ---
