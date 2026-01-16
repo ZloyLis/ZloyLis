@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Brainfuck-калькулятор: Как я создал вычислительную машину на эзотерическом ЯП и не сошел с ума](https://habr.com/ru/articles/985956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985956)
+- [Ingress-контроллеры: Nginx, Traefik, HAProxy — разбираемся, кто вам подойдет](https://habr.com/ru/companies/otus/articles/979316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979316)
 - [[Перевод] Non-Human Identities и будущее кибербезопасности](https://habr.com/ru/companies/cloud4y/articles/985936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985936)
 - [Умный рабочий стол, который живёт по солнцу](https://habr.com/ru/articles/982896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982896)
 - [Кейс: как использовать frontend-фичи и UX для оптимизации трафика на примере Дзена](https://habr.com/ru/articles/985896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985896)
-- [Архитектура через призму сложности](https://habr.com/ru/articles/985914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985914)
-- [[Перевод] 21 урок, который я усвоил за 14 лет работы в Google](https://habr.com/ru/companies/ruvds/articles/985050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985050)
 <!-- BLOG-POST-LIST:END -->
 
 ---
