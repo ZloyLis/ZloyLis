@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как не сломать VCL, делая кастомный контрол](https://habr.com/ru/articles/985986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985986)
 - [GigaChat 3 Lightning: разбираем open source модель от Сбера](https://habr.com/ru/articles/985976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985976)
 - [Brainfuck-калькулятор: Как я создал вычислительную машину на эзотерическом ЯП и не сошел с ума](https://habr.com/ru/articles/985956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985956)
 - [Ingress-контроллеры: Nginx, Traefik, HAProxy — разбираемся, кто вам подойдет](https://habr.com/ru/companies/otus/articles/979316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979316)
 - [[Перевод] Non-Human Identities и будущее кибербезопасности](https://habr.com/ru/companies/cloud4y/articles/985936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985936)
-- [Умный рабочий стол, который живёт по солнцу](https://habr.com/ru/articles/982896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982896)
 <!-- BLOG-POST-LIST:END -->
 
 ---
