@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Вот каким мы запомнили олдскульный интернет](https://habr.com/ru/companies/clevertec/articles/985782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985782)
+- [Как подружить Android и ICMP: заметки разработчика](https://habr.com/ru/articles/985776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985776)
+- [Функции-конструкторы и оператор new в JavaScript](https://habr.com/ru/companies/selectel/articles/976548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976548)
 - [15 часов на скрипт, температура 40° и AI-ментор: как я писал VLESS-агрегатор, сразу после «Hello World!»](https://habr.com/ru/articles/985746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985746)
 - [Как я перешёл из Яндекс Лавки в Авито: опыт аналитика данных](https://habr.com/ru/companies/yandex_praktikum/articles/966662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966662)
-- [«Мы падаем, а клиенты не замечают» или подходы к раздаче редко изменяемых данных](https://habr.com/ru/companies/avito/articles/981608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981608)
-- [Меланхолия тестировщика: почему метрики врут &lpar;Часть 1&rpar;](https://habr.com/ru/companies/rostelecom/articles/985732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985732)
-- [Нескучное программирование. Иерархия концептов](https://habr.com/ru/articles/985688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985688)
 <!-- BLOG-POST-LIST:END -->
 
 ---
