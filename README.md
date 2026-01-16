@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [15 часов на скрипт, температура 40° и AI-ментор: как я писал VLESS-агрегатор, сразу после «Hello World!»](https://habr.com/ru/articles/985746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985746)
+- [Как я перешёл из Яндекс Лавки в Авито: опыт аналитика данных](https://habr.com/ru/companies/yandex_praktikum/articles/966662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966662)
+- [«Мы падаем, а клиенты не замечают» или подходы к раздаче редко изменяемых данных](https://habr.com/ru/companies/avito/articles/981608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981608)
+- [Меланхолия тестировщика: почему метрики врут &lpar;Часть 1&rpar;](https://habr.com/ru/companies/rostelecom/articles/985732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985732)
 - [Нескучное программирование. Иерархия концептов](https://habr.com/ru/articles/985688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985688)
-- [Осознанная стоимость абстракций: Autoboxing в современной Java](https://habr.com/ru/articles/985620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985620)
-- [Кумир пустоты: Как дебил в роли продакта получил божественный статус благодаря восторженному идиоту наверху](https://habr.com/ru/articles/985618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985618)
-- [Мегатренды в дизайне интерфейсов. Технологии и наука](https://habr.com/ru/companies/severstal/articles/985538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985538)
-- [Как мы встроили нейросети в процессы IT-компании и зачем нам свой ИИ-агент](https://habr.com/ru/articles/985218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985218)
 <!-- BLOG-POST-LIST:END -->
 
 ---
