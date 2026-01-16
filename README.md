@@ -35,7 +35,7 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Будущий Завет &lpar;ideal_AGI&rpar;](https://habr.com/ru/articles/986010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986010)
+- [Установка Max отдельно от всего в рабочем профиле на Android](https://habr.com/ru/articles/985950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985950)
 - [Стремимся к AGI: обучаем нейросети в экосистеме эволюционно с нуля](https://habr.com/ru/articles/985454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985454)
 - [Совсем не вайбовый вайбкодинг. Обзор SDD+ фреймворков для разработки с ИИ](https://habr.com/ru/articles/985990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985990)
 - [Как не сломать VCL, делая кастомный контрол](https://habr.com/ru/articles/985986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985986)
