@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Уникальный смартфон, которому не суждено дожить до наших дней…](https://habr.com/ru/companies/timeweb/articles/985700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985700)
+- [Разработка библиотеки ленивых строк в паре с ИИ](https://habr.com/ru/articles/985138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985138)
 - [Что мне не нравится в текущем подходе к QAA](https://habr.com/ru/articles/986130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986130)
 - [От скриншота до PostgreSQL: парсим банковские операции через Claude Vision](https://habr.com/ru/articles/986100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986100)
 - [Как «наивный оптимизм» мешает вам войти в IT](https://habr.com/ru/articles/986090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986090)
-- [Как Оценить Способность Искусственного Интеллекта Писать Код](https://habr.com/ru/articles/986076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986076)
-- [Как писать тест‑кейсы, которые не устаревают через месяц](https://habr.com/ru/articles/985624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985624)
 <!-- BLOG-POST-LIST:END -->
 
 ---
