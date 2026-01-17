@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что мне не нравится в текущем подходе к QAA](https://habr.com/ru/articles/986130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986130)
 - [От скриншота до PostgreSQL: парсим банковские операции через Claude Vision](https://habr.com/ru/articles/986100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986100)
 - [Как «наивный оптимизм» мешает вам войти в IT](https://habr.com/ru/articles/986090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986090)
 - [Как Оценить Способность Искусственного Интеллекта Писать Код](https://habr.com/ru/articles/986076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986076)
 - [Как писать тест‑кейсы, которые не устаревают через месяц](https://habr.com/ru/articles/985624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985624)
-- [Установка Max отдельно от всего в рабочем профиле на Android](https://habr.com/ru/articles/985950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985950)
 <!-- BLOG-POST-LIST:END -->
 
 ---
