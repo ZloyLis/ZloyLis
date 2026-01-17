@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Три вечера, три круга ада и один MVP: как я создал анализатор памяти игры с помощью бесплатных чат-моделей](https://habr.com/ru/articles/986188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986188)
 - [Оценка эффекта релиза, когда изменение затронуло не всех: diff-in-diff и синтетический контроль](https://habr.com/ru/articles/986182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986182)
 - [Как 17-летний писал RAG-алгоритм для хакатона AI for Finance Hack: ретроспектива](https://habr.com/ru/articles/986180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986180)
 - [Уникальный смартфон, которому не суждено дожить до наших дней…](https://habr.com/ru/companies/timeweb/articles/985700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985700)
 - [Разработка библиотеки ленивых строк в паре с ИИ](https://habr.com/ru/articles/985138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985138)
-- [Что мне не нравится в текущем подходе к QAA](https://habr.com/ru/articles/986130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986130)
 <!-- BLOG-POST-LIST:END -->
 
 ---
