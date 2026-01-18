@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создаём iOS-style Wheel Picker в Jetpack Compose. Часть 1](https://habr.com/ru/articles/986270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986270)
 - [Архитектура сложных форм](https://habr.com/ru/articles/986260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986260)
 - [Компрометация IPTV приставки от Имаклик](https://habr.com/ru/articles/986242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986242)
 - [Оптимизация кода. Что быстрее: циклы vs стрелочные функции. Простая задача с собеседования](https://habr.com/ru/articles/986224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986224)
 - [Я написал компилятор на C++ при помощи LLVM](https://habr.com/ru/articles/986218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986218)
-- [Математика через игры: обзор моей авторской настольной игры на алгебру 5-6 класса](https://habr.com/ru/articles/983110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983110)
 <!-- BLOG-POST-LIST:END -->
 
 ---
