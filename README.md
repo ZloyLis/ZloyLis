@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Ретроспектива 2025: год LLM — практика, иллюзия и реальные сдвиги](https://habr.com/ru/articles/984210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984210)
 - [Мобильная разработка за неделю #615 &lpar;12 — 18 января&rpar;](https://habr.com/ru/articles/986302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986302)
 - [RCA как зеркало управленческой зрелости](https://habr.com/ru/articles/985904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985904)
 - [Direct 2D #7. Всё о тексте&lpar;От А до Я&rpar;](https://habr.com/ru/articles/983794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983794)
 - [[Перевод] Хотели ускорить Postgres, а построили платформу репликации данных](https://habr.com/ru/articles/985236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985236)
-- [Создаём iOS-style Wheel Picker в Jetpack Compose. Часть 1](https://habr.com/ru/articles/986270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986270)
 <!-- BLOG-POST-LIST:END -->
 
 ---
