@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Я написал компилятор на C++ при помощи LLVM](https://habr.com/ru/articles/986218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986218)
+- [Математика через игры: обзор моей авторской настольной игры на алгебру 5-6 класса](https://habr.com/ru/articles/983110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983110)
 - [Шпаргалка по инференсу на С++](https://habr.com/ru/articles/986204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986204)
 - [Три вечера, три круга ада и один MVP: как я создал анализатор памяти игры с помощью бесплатных чат-моделей](https://habr.com/ru/articles/986188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986188)
 - [Оценка эффекта релиза, когда изменение затронуло не всех: diff-in-diff и синтетический контроль](https://habr.com/ru/articles/986182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986182)
-- [Как 17-летний писал RAG-алгоритм для хакатона AI for Finance Hack: ретроспектива](https://habr.com/ru/articles/986180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986180)
-- [Уникальный смартфон, которому не суждено дожить до наших дней…](https://habr.com/ru/companies/timeweb/articles/985700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985700)
 <!-- BLOG-POST-LIST:END -->
 
 ---
