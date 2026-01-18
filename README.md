@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Собственный центр сертификации под Linux](https://habr.com/ru/companies/globalsign/articles/986352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986352)
 - [Не бойтесь std::set, его легко приручить](https://habr.com/ru/articles/986322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986322)
 - [Карьерный буст в новом году: читаем научно-техническую литературу эффективно — инструменты и советы ученых](https://habr.com/ru/companies/beeline_cloud/articles/986310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986310)
 - [[Перевод] Ретроспектива 2025: год LLM — практика, иллюзия и реальные сдвиги](https://habr.com/ru/articles/984210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984210)
 - [Мобильная разработка за неделю #615 &lpar;12 — 18 января&rpar;](https://habr.com/ru/articles/986302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986302)
-- [RCA как зеркало управленческой зрелости](https://habr.com/ru/articles/985904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985904)
 <!-- BLOG-POST-LIST:END -->
 
 ---
