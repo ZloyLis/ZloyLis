@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Как снизить хвостовые задержки в Java с помощью ZGC](https://habr.com/ru/companies/otus/articles/986604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986604)
-- [Организация производства Информационных систем. Часть 1. Предмет исследования](https://habr.com/ru/articles/986546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986546)
-- [Стек из дисциплины и математики: как выпускница MIT создала рынок ставок на события и стала самой молодой миллиардершей](https://habr.com/ru/companies/finam_broker/articles/986514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986514)
-- [Схемы пуска электропривода насоса в режиме «звезда — треугольник» с применением контакторов](https://habr.com/ru/articles/986532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986532)
-- [От рассвета до заката, или Как Deckhouse Kubernetes Platform управляет жизненным циклом узлов кластера](https://habr.com/ru/companies/flant/articles/985612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985612)
+- [Атом в Виртуальной Вселенной &lpar;Часть I&rpar;](https://habr.com/ru/articles/986648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986648)
+- [Разработка конвертера формата кардиограммы ECG в формат EDF](https://habr.com/ru/articles/986640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986640)
+- [Локальный плеер для IOS: Music is Player](https://habr.com/ru/articles/986624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986624)
+- [[Перевод] Мои любимые паттерны для full-stack и frontend-проектов](https://habr.com/ru/articles/986622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986622)
+- [[Перевод] Собираем LLM-агента на Python](https://habr.com/ru/articles/979012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979012)
 <!-- BLOG-POST-LIST:END -->
 
 ---
