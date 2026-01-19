@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Prisma ORM на скорости чистого SQL? Конвертация JSON-запросов в SQL-строку](https://habr.com/ru/articles/986772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986772)
+- [Об ассемблере EuroAssembler, о котором вы, возможно, не слышали](https://habr.com/ru/articles/986752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986752)
 - [PostgreSQL 19: Часть 2 или Коммитфест 2025-09](https://habr.com/ru/companies/postgrespro/articles/986694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986694)
 - [[Перевод] Релиз Capacitor 8](https://habr.com/ru/articles/986746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986746)
 - [Billing Platform: внедрение Temporal и переход к предметно-ориентированной микросервисной архитектуре](https://habr.com/ru/companies/avito/articles/974828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974828)
-- [Удалил сервер из мессенджера. Как общаться по P2P в 2026 году без метаданных и Google Services. Личный опыт и KMP](https://habr.com/ru/articles/986700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986700)
-- [[Перевод] Почему свой игровой движок — это проще, чем кажется](https://habr.com/ru/articles/986110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986110)
 <!-- BLOG-POST-LIST:END -->
 
 ---
