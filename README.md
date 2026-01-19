@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Apidog: выходные с инструментом, который пытается заменить Postman](https://habr.com/ru/companies/rostelecom/articles/986494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986494)
+- [Что находится внутри бесплатной части курса по информационной безопасности](https://habr.com/ru/companies/yandex_praktikum/articles/980912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980912)
+- [[Перевод] Рекурсивные языковые модели &lpar;RLM&rpar; – парадигма 2026 года](https://habr.com/ru/articles/985628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985628)
 - [Инженерная история: добавляем 3-ю СУБД в карточный процессинг](https://habr.com/ru/companies/ydb/articles/965096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965096)
 - [Генерация колоды карт](https://habr.com/ru/articles/986452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986452)
-- [Не junior-стек: какие технологии на самом деле требует рынок QA &lpar;анализ 2500 вакансий&rpar;](https://habr.com/ru/articles/982052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982052)
-- [Как я отказался от FFmpeg и написал FLAC энкодер за 500 строк на Go](https://habr.com/ru/articles/985442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985442)
-- [Вайбкодинг: как сгенерировать код расширения для визуализации ссылок в закладках браузера с помощью ИИ](https://habr.com/ru/companies/bothub/articles/986406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986406)
 <!-- BLOG-POST-LIST:END -->
 
 ---
