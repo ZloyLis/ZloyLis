@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Схемы пуска электропривода насоса в режиме «звезда — треугольник» с применением контакторов](https://habr.com/ru/articles/986532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986532)
+- [От рассвета до заката, или Как Deckhouse Kubernetes Platform управляет жизненным циклом узлов кластера](https://habr.com/ru/companies/flant/articles/985612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985612)
+- [Цифровая физика. Жизнь на основе формул](https://habr.com/ru/companies/ruvds/articles/984596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984596)
+- [Как мы разработали систему машинного зрения для детектирования СИЗ и техники](https://habr.com/ru/companies/oleg-bunin/articles/968456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=968456)
 - [Apidog: выходные с инструментом, который пытается заменить Postman](https://habr.com/ru/companies/rostelecom/articles/986494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986494)
-- [Что находится внутри бесплатной части курса по информационной безопасности](https://habr.com/ru/companies/yandex_praktikum/articles/980912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980912)
-- [[Перевод] Рекурсивные языковые модели &lpar;RLM&rpar; – парадигма 2026 года](https://habr.com/ru/articles/985628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985628)
-- [Инженерная история: добавляем 3-ю СУБД в карточный процессинг](https://habr.com/ru/companies/ydb/articles/965096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=965096)
-- [Генерация колоды карт](https://habr.com/ru/articles/986452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986452)
 <!-- BLOG-POST-LIST:END -->
 
 ---
