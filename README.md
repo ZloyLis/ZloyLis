@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Удалил сервер из мессенджера. Как общаться по P2P в 2026 году без метаданных и Google Services. Личный опыт и KMP](https://habr.com/ru/articles/986700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986700)
 - [[Перевод] Почему свой игровой движок — это проще, чем кажется](https://habr.com/ru/articles/986110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986110)
 - [Округление и форматирование чисел в React: адаптивный подход](https://habr.com/ru/companies/gnivc/articles/985170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985170)
 - [[Перевод] Как Markdown захватил мир](https://habr.com/ru/companies/ruvds/articles/985652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985652)
 - [Атом в Виртуальной Вселенной &lpar;Часть I&rpar;](https://habr.com/ru/articles/986648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986648)
-- [Разработка конвертера формата кардиограммы ECG в формат EDF](https://habr.com/ru/articles/986640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986640)
 <!-- BLOG-POST-LIST:END -->
 
 ---
