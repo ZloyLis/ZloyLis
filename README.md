@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как снизить хвостовые задержки в Java с помощью ZGC](https://habr.com/ru/companies/otus/articles/986604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986604)
 - [Организация производства Информационных систем. Часть 1. Предмет исследования](https://habr.com/ru/articles/986546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986546)
 - [Стек из дисциплины и математики: как выпускница MIT создала рынок ставок на события и стала самой молодой миллиардершей](https://habr.com/ru/companies/finam_broker/articles/986514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986514)
 - [Схемы пуска электропривода насоса в режиме «звезда — треугольник» с применением контакторов](https://habr.com/ru/articles/986532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986532)
 - [От рассвета до заката, или Как Deckhouse Kubernetes Platform управляет жизненным циклом узлов кластера](https://habr.com/ru/companies/flant/articles/985612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985612)
-- [Цифровая физика. Жизнь на основе формул](https://habr.com/ru/companies/ruvds/articles/984596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984596)
 <!-- BLOG-POST-LIST:END -->
 
 ---
