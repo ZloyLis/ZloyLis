@@ -39,7 +39,7 @@ ___
 - [Об ассемблере EuroAssembler, о котором вы, возможно, не слышали](https://habr.com/ru/articles/986752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986752)
 - [PostgreSQL 19: Часть 2 или Коммитфест 2025-09](https://habr.com/ru/companies/postgrespro/articles/986694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986694)
 - [[Перевод] Релиз Capacitor 8](https://habr.com/ru/articles/986746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986746)
-- [Billing Platform: внедрение Temporal и переход к предметно-ориентированной микросервисной архитектуре](https://habr.com/ru/companies/avito/articles/974828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974828)
+- [Security Week 2604: ИИ-уязвимость в Android](https://habr.com/ru/companies/kaspersky/articles/986678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986678)
 <!-- BLOG-POST-LIST:END -->
 
 ---
