@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Всего одна строка кода, из-за которой 24-ядерный сервер стал работать медленнее ноутбука](https://habr.com/ru/articles/986810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986810)
 - [Когда агент вынужден быть разумным: модель автономной среды](https://habr.com/ru/articles/986804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986804)
 - [Prisma ORM на скорости чистого SQL? Конвертация JSON-запросов в SQL-строку](https://habr.com/ru/articles/986772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986772)
 - [Об ассемблере EuroAssembler, о котором вы, возможно, не слышали](https://habr.com/ru/articles/986752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986752)
 - [PostgreSQL 19: Часть 2 или Коммитфест 2025-09](https://habr.com/ru/companies/postgrespro/articles/986694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986694)
-- [[Перевод] Релиз Capacitor 8](https://habr.com/ru/articles/986746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986746)
 <!-- BLOG-POST-LIST:END -->
 
 ---
