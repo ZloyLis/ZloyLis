@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Генерация колоды карт](https://habr.com/ru/articles/986452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986452)
+- [Не junior-стек: какие технологии на самом деле требует рынок QA &lpar;анализ 2500 вакансий&rpar;](https://habr.com/ru/articles/982052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982052)
+- [Как я отказался от FFmpeg и написал FLAC энкодер за 500 строк на Go](https://habr.com/ru/articles/985442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985442)
 - [Вайбкодинг: как сгенерировать код расширения для визуализации ссылок в закладках браузера с помощью ИИ](https://habr.com/ru/companies/bothub/articles/986406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986406)
 - [Собственный центр сертификации под Linux](https://habr.com/ru/companies/globalsign/articles/986352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986352)
-- [Не бойтесь std::set, его легко приручить](https://habr.com/ru/articles/986322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986322)
-- [Карьерный буст в новом году: читаем научно-техническую литературу эффективно — инструменты и советы ученых](https://habr.com/ru/companies/beeline_cloud/articles/986310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986310)
-- [[Перевод] Ретроспектива 2025: год LLM — практика, иллюзия и реальные сдвиги](https://habr.com/ru/articles/984210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984210)
 <!-- BLOG-POST-LIST:END -->
 
 ---
