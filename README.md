@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Лучшие» практики Rust, которые вас подведут](https://habr.com/ru/companies/beget/articles/985968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985968)
+- [Внедряем Testcontainers за два дня или как перестать бояться рефакторинга и начать доверять своим тестам](https://habr.com/ru/articles/986870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986870)
+- [Планирование расписаний водителей: как математическая модель укрощает хаос перевозок](https://habr.com/ru/articles/985680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985680)
+- [Архитектура как код](https://habr.com/ru/companies/psb/articles/986492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986492)
 - [[Перевод] Говорят ли LLM на языке BPMN? Оценка их возможностей моделирования процессов на основе качественных метрик](https://habr.com/ru/articles/984920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984920)
-- [PostgreSQL и 1С: как построить систему поиска «тихих убийц» производительности](https://habr.com/ru/articles/986306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986306)
-- [CPython — Сборка мусора изнутри, ч.3](https://habr.com/ru/articles/986784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986784)
-- [Что читать и смотреть в 2026. Эпичная подборка для разрабов, лидов, CTO и архитекторов](https://habr.com/ru/articles/986832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986832)
-- [Plain text serialization](https://habr.com/ru/articles/986834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986834)
 <!-- BLOG-POST-LIST:END -->
 
 ---
