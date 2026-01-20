@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как работать с Claude Code, Antigravity и Codex в 2026: база вайбкодинга](https://habr.com/ru/articles/986930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986930)
+- [Как сохранить мотивацию и выучить английский в 2026 году: советы методистов Практикума](https://habr.com/ru/companies/yandex_praktikum/articles/986680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986680)
+- [Книга: «Go на практике. 2-е изд.»](https://habr.com/ru/companies/piter/articles/986944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986944)
+- [Дочерние процессы в Node.js](https://habr.com/ru/articles/986936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986936)
 - [Повторяющиеся задачи без RRULE: мой опыт реализации в своём таск-трекере](https://habr.com/ru/articles/986794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986794)
-- [Почему бизнес покупает технологии, но не получает результат](https://habr.com/ru/articles/986922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986922)
-- [Ловушка туториалов: почему просмотр видео не сделает вас программистом](https://habr.com/ru/articles/986914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986914)
-- [Новые CSS-фичи, появившиеся к началу 2026 года](https://habr.com/ru/companies/ruvds/articles/984548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984548)
-- [Как работают микросервисы. Сравниваю с биологией](https://habr.com/ru/companies/clevertec/articles/986698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986698)
 <!-- BLOG-POST-LIST:END -->
 
 ---
