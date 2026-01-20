@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как работать с Claude Code, Antigravity и Codex в 2026: база вайбкодинга](https://habr.com/ru/articles/986930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986930)
-- [Как сохранить мотивацию и выучить английский в 2026 году: советы методистов Практикума](https://habr.com/ru/companies/yandex_praktikum/articles/986680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986680)
-- [Книга: «Go на практике. 2-е изд.»](https://habr.com/ru/companies/piter/articles/986944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986944)
-- [Дочерние процессы в Node.js](https://habr.com/ru/articles/986936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986936)
-- [Повторяющиеся задачи без RRULE: мой опыт реализации в своём таск-трекере](https://habr.com/ru/articles/986794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986794)
+- [Атом в Виртуальной Вселенной &lpar;Часть II&rpar;](https://habr.com/ru/articles/986994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986994)
+- [KodaCode для JetBrains IDE [Beta]: AI-помощник разработчика – бесплатно, без VPN, с поддержкой русского языка](https://habr.com/ru/companies/koda/articles/986976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986976)
+- [Мультизональный PostgreSQL своими руками: декомпозиция трудозатрат](https://habr.com/ru/companies/vktech/articles/986468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986468)
+- [Как строить карьеру в IT-маркетинге и коммуникациях](https://habr.com/ru/companies/habr_career/articles/986988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986988)
+- [Конец эры «одноядерного» разума: Почему будущее ИИ — это гонка архитектур, а не параметров](https://habr.com/ru/articles/986978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986978)
 <!-- BLOG-POST-LIST:END -->
 
 ---
