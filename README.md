@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Поиск решений управляемый данными. Терминологический словарь](https://habr.com/ru/articles/987218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987218)
 - [Webhooks и другие способы общения серверов](https://habr.com/ru/articles/987210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987210)
 - [[Перевод] Важность хороших Errors и Warnings на Product уровне](https://habr.com/ru/articles/987186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987186)
 - [Claude Cowork: Революция или «недотерминал» в красивой обертке?](https://habr.com/ru/articles/987176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987176)
 - [[Перевод] JVM ещё жива, но уже бесполезна: как Netflix научился убивать её по GC](https://habr.com/ru/companies/spring_aio/articles/987116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987116)
-- [Как red_mad_robot развивает свою опенсорс-экосистему — от Android и iOS инструментов до AI-систем и агентных фреймворков](https://habr.com/ru/articles/986828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986828)
 <!-- BLOG-POST-LIST:END -->
 
 ---
