@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Model Studio CS Технологические схемы. Вывод условного диаметра в инлайн объект типа ответвление](https://habr.com/ru/articles/987054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987054)
+- [Все пути ведут к MWS Tables, или Как я искал решение для учета ИТ-оборудования со взаимосвязями и интуитивным UI](https://habr.com/ru/companies/ru_mts/articles/986706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986706)
 - [Экипировка Бонда: полезные инструменты DevTools](https://habr.com/ru/companies/itfb/articles/987028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987028)
 - [[Перевод] Атомарные операции против мьютексов в Go: когда скорость становится проблемой](https://habr.com/ru/articles/986732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986732)
 - [Слово ректору: говорим про ННГУ, студентов, ИИ и будущее молодёжной науки](https://habr.com/ru/companies/unn/articles/986814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986814)
-- [Атом в Виртуальной Вселенной &lpar;Часть II&rpar;](https://habr.com/ru/articles/986994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986994)
-- [KodaCode для JetBrains IDE [Beta]: AI-помощник разработчика – бесплатно, без VPN, с поддержкой русского языка](https://habr.com/ru/companies/koda/articles/986976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986976)
 <!-- BLOG-POST-LIST:END -->
 
 ---
