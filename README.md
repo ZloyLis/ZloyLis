@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Говорят ли LLM на языке BPMN? Оценка их возможностей моделирования процессов на основе качественных метрик](https://habr.com/ru/articles/984920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984920)
 - [PostgreSQL и 1С: как построить систему поиска «тихих убийц» производительности](https://habr.com/ru/articles/986306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986306)
 - [CPython — Сборка мусора изнутри, ч.3](https://habr.com/ru/articles/986784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986784)
 - [Что читать и смотреть в 2026. Эпичная подборка для разрабов, лидов, CTO и архитекторов](https://habr.com/ru/articles/986832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986832)
 - [Plain text serialization](https://habr.com/ru/articles/986834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986834)
-- [[Перевод] Всего одна строка кода, из-за которой 24-ядерный сервер стал работать медленнее ноутбука](https://habr.com/ru/articles/986810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986810)
 <!-- BLOG-POST-LIST:END -->
 
 ---
