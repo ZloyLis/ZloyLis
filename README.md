@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [За кулисами требований: психоанализ стейкхолдеров для продвинутых аналитиков](https://habr.com/ru/articles/986884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986884)
-- [Синтаксический сахар или технический деготь: классы в JavaScript](https://habr.com/ru/companies/selectel/articles/976550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976550)
-- [Как попарное тестирование спасло нас ещё до первой строчки кода](https://habr.com/ru/companies/domclick/articles/984862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984862)
-- [Coreness: от одного бота к сотням — self-hosted open-source платформа для AI-агентов](https://habr.com/ru/articles/986354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986354)
-- [Управление клиентским опытом на основе CX-систем](https://habr.com/ru/articles/986868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986868)
+- [Повторяющиеся задачи без RRULE: мой опыт реализации в своём таск-трекере](https://habr.com/ru/articles/986794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986794)
+- [Почему бизнес покупает технологии, но не получает результат](https://habr.com/ru/articles/986922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986922)
+- [Ловушка туториалов: почему просмотр видео не сделает вас программистом](https://habr.com/ru/articles/986914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986914)
+- [Новые CSS-фичи, появившиеся к началу 2026 года](https://habr.com/ru/companies/ruvds/articles/984548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984548)
+- [Как работают микросервисы. Сравниваю с биологией](https://habr.com/ru/companies/clevertec/articles/986698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986698)
 <!-- BLOG-POST-LIST:END -->
 
 ---
