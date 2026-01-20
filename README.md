@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [«Лучшие» практики Rust, которые вас подведут](https://habr.com/ru/companies/beget/articles/985968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985968)
-- [Внедряем Testcontainers за два дня или как перестать бояться рефакторинга и начать доверять своим тестам](https://habr.com/ru/articles/986870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986870)
-- [Планирование расписаний водителей: как математическая модель укрощает хаос перевозок](https://habr.com/ru/articles/985680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985680)
-- [Архитектура как код](https://habr.com/ru/companies/psb/articles/986492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986492)
-- [[Перевод] Говорят ли LLM на языке BPMN? Оценка их возможностей моделирования процессов на основе качественных метрик](https://habr.com/ru/articles/984920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984920)
+- [За кулисами требований: психоанализ стейкхолдеров для продвинутых аналитиков](https://habr.com/ru/articles/986884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986884)
+- [Синтаксический сахар или технический деготь: классы в JavaScript](https://habr.com/ru/companies/selectel/articles/976550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=976550)
+- [Как попарное тестирование спасло нас ещё до первой строчки кода](https://habr.com/ru/companies/domclick/articles/984862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984862)
+- [Coreness: от одного бота к сотням — self-hosted open-source платформа для AI-агентов](https://habr.com/ru/articles/986354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986354)
+- [Управление клиентским опытом на основе CX-систем](https://habr.com/ru/articles/986868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986868)
 <!-- BLOG-POST-LIST:END -->
 
 ---
