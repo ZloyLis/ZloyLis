@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] JVM ещё жива, но уже бесполезна: как Netflix научился убивать её по GC](https://habr.com/ru/companies/spring_aio/articles/987116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987116)
 - [Как red_mad_robot развивает свою опенсорс-экосистему — от Android и iOS инструментов до AI-систем и агентных фреймворков](https://habr.com/ru/articles/986828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986828)
 - [[Перевод] Как реализовать 5 уровней оптимизации и не сойти с ума](https://habr.com/ru/articles/987098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987098)
 - [Model Studio CS Технологические схемы. Вывод условного диаметра в инлайн объект типа ответвление](https://habr.com/ru/articles/987054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987054)
 - [Все пути ведут к MWS Tables, или Как я искал решение для учета ИТ-оборудования со взаимосвязями и интуитивным UI](https://habr.com/ru/companies/ru_mts/articles/986706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986706)
-- [Экипировка Бонда: полезные инструменты DevTools](https://habr.com/ru/companies/itfb/articles/987028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987028)
 <!-- BLOG-POST-LIST:END -->
 
 ---
