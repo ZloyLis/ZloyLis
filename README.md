@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Экипировка Бонда: полезные инструменты DevTools](https://habr.com/ru/companies/itfb/articles/987028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987028)
+- [[Перевод] Атомарные операции против мьютексов в Go: когда скорость становится проблемой](https://habr.com/ru/articles/986732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986732)
+- [Слово ректору: говорим про ННГУ, студентов, ИИ и будущее молодёжной науки](https://habr.com/ru/companies/unn/articles/986814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986814)
 - [Атом в Виртуальной Вселенной &lpar;Часть II&rpar;](https://habr.com/ru/articles/986994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986994)
 - [KodaCode для JetBrains IDE [Beta]: AI-помощник разработчика – бесплатно, без VPN, с поддержкой русского языка](https://habr.com/ru/companies/koda/articles/986976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986976)
-- [Мультизональный PostgreSQL своими руками: декомпозиция трудозатрат](https://habr.com/ru/companies/vktech/articles/986468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986468)
-- [Как строить карьеру в IT-маркетинге и коммуникациях](https://habr.com/ru/companies/habr_career/articles/986988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986988)
-- [Конец эры «одноядерного» разума: Почему будущее ИИ — это гонка архитектур, а не параметров](https://habr.com/ru/articles/986978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986978)
 <!-- BLOG-POST-LIST:END -->
 
 ---
