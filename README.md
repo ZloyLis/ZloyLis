@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Американцы: русский способ умножения намного круче нашего](https://habr.com/ru/articles/987192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987192)
-- [Когда математика встречает бэкенд, или Как рассчитать RPS на поллинговую ручку](https://habr.com/ru/companies/yandex/articles/986956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986956)
-- [Аудит QA-процессов: кто сторожит стражей](https://habr.com/ru/companies/tbank/articles/987132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987132)
-- [MCP &lpar;КОМПАС-3D + LLM&rpar;: превращаем САПР в среду для AI-агентов с помощью Python и COM API](https://habr.com/ru/articles/987312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987312)
-- [EVA: Методология. Как оценивать качество тестов, а не их количество &lpar;Часть 2&rpar;](https://habr.com/ru/companies/rostelecom/articles/987244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987244)
+- [Как перестать писать WHERE tenant_id и отдать безопасность базе &lpar;PostgreSQL RLS в Go&rpar;?](https://habr.com/ru/articles/987364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987364)
+- [Soft-, Weak-, Final- и PhantomReference в Java](https://habr.com/ru/articles/987362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987362)
+- [Как подружить С++ и YAML: сохранение конфигов с помощью yaml-cpp](https://habr.com/ru/articles/987074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987074)
+- [Организация производства Информационных систем. Часть 2. Варианты организации производства](https://habr.com/ru/articles/986850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986850)
+- [Обучение как алгоритм: как эффективно учить код по 2 часа в день и не выгореть через месяц](https://habr.com/ru/articles/987346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987346)
 <!-- BLOG-POST-LIST:END -->
 
 ---
