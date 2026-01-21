@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Observability-as-Code в Spring Boot: Контракты и тесты для метрик, логов и трейсов](https://habr.com/ru/companies/spring_aio/articles/987358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987358)
+- [Как Валера учился вайбкодить](https://habr.com/ru/companies/2gis/articles/987398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987398)
 - [Поиск для интернет-магазина: 24 обязательных элемента, которые помогут покупателям найти нужное и увеличат конверсию](https://habr.com/ru/articles/987394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987394)
 - [[Перевод] Самый умный ИИ в мире ничего не понимает — и вот почему это меняет всё](https://habr.com/ru/companies/cloud4y/articles/987392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987392)
 - [Яндекс ТВ Pro &lpar;YNDX-00102&rpar;: дорогой экран с навязанной рекламой. Опыт реального использования](https://habr.com/ru/articles/987348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987348)
-- [Claude Code в 2026: гайд для тех, кто еще пишет код руками](https://habr.com/ru/articles/987382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987382)
-- [KubeVirt: мифы и реальность об оверхедах виртуализации в Kubernetes](https://habr.com/ru/companies/aenix/articles/987372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987372)
 <!-- BLOG-POST-LIST:END -->
 
 ---
