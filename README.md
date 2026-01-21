@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [NuGet пакеты, которые ты не ожидал](https://habr.com/ru/articles/987268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987268)
 - [Frontend Status: свежий дайджест фронтенда и AI](https://habr.com/ru/articles/987254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987254)
 - [[Перевод] Как интегрировать Codex в IDE JetBrains](https://habr.com/ru/articles/987242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987242)
 - [Поиск решений управляемый данными. Терминологический словарь](https://habr.com/ru/articles/987218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987218)
 - [Webhooks и другие способы общения серверов](https://habr.com/ru/articles/987210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987210)
-- [[Перевод] Важность хороших Errors и Warnings на Product уровне](https://habr.com/ru/articles/987186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987186)
 <!-- BLOG-POST-LIST:END -->
 
 ---
