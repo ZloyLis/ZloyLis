@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [MCP &lpar;КОМПАС-3D + LLM&rpar;: превращаем САПР в среду для AI-агентов с помощью Python и COM API](https://habr.com/ru/articles/987312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987312)
+- [EVA: Методология. Как оценивать качество тестов, а не их количество &lpar;Часть 2&rpar;](https://habr.com/ru/companies/rostelecom/articles/987244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987244)
+- [Системный анализ: что не так с рынком — и что с этим делать начинающим и опытным аналитикам](https://habr.com/ru/companies/yandex_praktikum/articles/978476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978476)
 - [NuGet пакеты, которые ты не ожидал](https://habr.com/ru/articles/987268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987268)
 - [Frontend Status: свежий дайджест фронтенда и AI](https://habr.com/ru/articles/987254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987254)
-- [[Перевод] Как интегрировать Codex в IDE JetBrains](https://habr.com/ru/articles/987242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987242)
-- [Поиск решений управляемый данными. Терминологический словарь](https://habr.com/ru/articles/987218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987218)
-- [Webhooks и другие способы общения серверов](https://habr.com/ru/articles/987210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987210)
 <!-- BLOG-POST-LIST:END -->
 
 ---
