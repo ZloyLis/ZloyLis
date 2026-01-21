@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как перестать писать WHERE tenant_id и отдать безопасность базе &lpar;PostgreSQL RLS в Go&rpar;?](https://habr.com/ru/articles/987364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987364)
-- [Soft-, Weak-, Final- и PhantomReference в Java](https://habr.com/ru/articles/987362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987362)
-- [Как подружить С++ и YAML: сохранение конфигов с помощью yaml-cpp](https://habr.com/ru/articles/987074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987074)
-- [Организация производства Информационных систем. Часть 2. Варианты организации производства](https://habr.com/ru/articles/986850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986850)
-- [Обучение как алгоритм: как эффективно учить код по 2 часа в день и не выгореть через месяц](https://habr.com/ru/articles/987346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987346)
+- [Поиск для интернет-магазина: 24 обязательных элемента, которые помогут покупателям найти нужное и увеличат конверсию](https://habr.com/ru/articles/987394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987394)
+- [[Перевод] Самый умный ИИ в мире ничего не понимает — и вот почему это меняет всё](https://habr.com/ru/companies/cloud4y/articles/987392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987392)
+- [Яндекс ТВ Pro &lpar;YNDX-00102&rpar;: дорогой экран с навязанной рекламой. Опыт реального использования](https://habr.com/ru/articles/987348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987348)
+- [Claude Code в 2026: гайд для тех, кто еще пишет код руками](https://habr.com/ru/articles/987382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987382)
+- [KubeVirt: мифы и реальность об оверхедах виртуализации в Kubernetes](https://habr.com/ru/companies/aenix/articles/987372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987372)
 <!-- BLOG-POST-LIST:END -->
 
 ---
