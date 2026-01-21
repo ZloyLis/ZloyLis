@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Американцы: русский способ умножения намного круче нашего](https://habr.com/ru/articles/987192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987192)
+- [Когда математика встречает бэкенд, или Как рассчитать RPS на поллинговую ручку](https://habr.com/ru/companies/yandex/articles/986956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986956)
+- [Аудит QA-процессов: кто сторожит стражей](https://habr.com/ru/companies/tbank/articles/987132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987132)
 - [MCP &lpar;КОМПАС-3D + LLM&rpar;: превращаем САПР в среду для AI-агентов с помощью Python и COM API](https://habr.com/ru/articles/987312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987312)
 - [EVA: Методология. Как оценивать качество тестов, а не их количество &lpar;Часть 2&rpar;](https://habr.com/ru/companies/rostelecom/articles/987244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987244)
-- [Системный анализ: что не так с рынком — и что с этим делать начинающим и опытным аналитикам](https://habr.com/ru/companies/yandex_praktikum/articles/978476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978476)
-- [NuGet пакеты, которые ты не ожидал](https://habr.com/ru/articles/987268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987268)
-- [Frontend Status: свежий дайджест фронтенда и AI](https://habr.com/ru/articles/987254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987254)
 <!-- BLOG-POST-LIST:END -->
 
 ---
