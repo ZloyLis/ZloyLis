@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы сделали гибридный AI-поиск по смыслу книг: двухконтурная архитектура и семантическое ранжирование](https://habr.com/ru/companies/redmadrobot/articles/987548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987548)
 - [Хроники Valkey: сайдкары, операторы и один очень упрямый кластер](https://habr.com/ru/companies/avito/articles/978590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978590)
 - [[Перевод] PostgreSQL for WMS: a DBMS selection strategy in the era of import substitution](https://habr.com/ru/companies/postgrespro/articles/981202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981202)
 - [GEO/AEO-оптимизация: технический гайд по попаданию в ответы нейросетей](https://habr.com/ru/articles/987506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987506)
 - [Проблема эргономики цифровой среды: устойчивость систем за счёт пользователей](https://habr.com/ru/articles/987476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987476)
-- [Observability-as-Code в Spring Boot: Контракты и тесты для метрик, логов и трейсов](https://habr.com/ru/companies/spring_aio/articles/987358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987358)
 <!-- BLOG-POST-LIST:END -->
 
 ---
