@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Safety by Desing — новая Clean Architecture. И как же ее достичь?](https://habr.com/ru/articles/987980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987980)
+- [Умный дом, у каждого он свой](https://habr.com/ru/articles/987964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987964)
 - [От Плутона к Земле: как я превратил 144 цели в космическое путешествие](https://habr.com/ru/articles/987946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987946)
 - [[Перевод] Базы данных-2025: ретроспектива](https://habr.com/ru/companies/postgrespro/articles/985698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985698)
 - [Чтение книг на других языках при помощи ИИ](https://habr.com/ru/articles/987932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987932)
-- [Галлюцинациям тут не место — как могут выглядеть специализированные ЯП для разработки с помощью LLM](https://habr.com/ru/companies/beeline_cloud/articles/987892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987892)
-- [Миграция MySQL 8 на PostgreSQL 16 | Пошаговое руководство с pgloader](https://habr.com/ru/articles/987922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987922)
 <!-- BLOG-POST-LIST:END -->
 
 ---
