@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как невнимательная установка безобидного ПО может привести к компрометации всего домена](https://habr.com/ru/companies/hex_team/articles/988008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988008)
 - [nebo.css — впуклые углы проще простого](https://habr.com/ru/articles/987944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987944)
 - [Не проси, а требуй: правила в коммуникации между внешними поставщиками](https://habr.com/ru/articles/987996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987996)
 - [AI Safety by Desing — новая Clean Architecture. И как же ее достичь?](https://habr.com/ru/articles/987980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987980)
 - [Умный дом, у каждого он свой](https://habr.com/ru/articles/987964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987964)
-- [От Плутона к Земле: как я превратил 144 цели в космическое путешествие](https://habr.com/ru/articles/987946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987946)
 <!-- BLOG-POST-LIST:END -->
 
 ---
