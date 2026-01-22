@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Большой гайд от Cursor: как эффективно программировать с ИИ-агентам](https://habr.com/ru/articles/985300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985300)
-- [44 настройки Claude Code, о которых вы не знали, ранжированные от «must have» до «забей»](https://habr.com/ru/articles/987826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987826)
-- [Почему «заканчивается» время в iOS-будильнике и как мы искали предел в часах Samsung](https://habr.com/ru/articles/987822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987822)
-- [Лучшие доклады конференций Инфостарта 2025 года — теперь бесплатно](https://habr.com/ru/companies/infostart/articles/987812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987812)
-- [Кубик Рубика как универсальная среда для исследования интеллекта](https://habr.com/ru/articles/987792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987792)
+- [[Перевод] Почему Kotlin ломает JPA](https://habr.com/ru/companies/spring_aio/articles/987890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987890)
+- [Поддержка выделенных серверов в Managed Kubernetes и другие обновления Selectel в декабре](https://habr.com/ru/companies/selectel/articles/987878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987878)
+- [Showback и chargeback в DevOps: как выстроить настоящую FinOps-культуру и начать экономить на инфраструктуре](https://habr.com/ru/companies/finops_ru/articles/987828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987828)
+- [Заметки на полях: Изолируем Lua окружение в C++ приложении](https://habr.com/ru/articles/987882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987882)
+- [16 часов и 8600 строк: как Claude Code помог собрать персональный супер-апп](https://habr.com/ru/articles/987872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987872)
 <!-- BLOG-POST-LIST:END -->
 
 ---
