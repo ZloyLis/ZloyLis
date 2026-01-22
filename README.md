@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Миграция MySQL 8 на PostgreSQL 16 | Пошаговое руководство с pgloader](https://habr.com/ru/articles/987922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987922)
+- [Прощай, синдром «хорошей девочки&lpar;мальчика&rpar;»: Почему ассертивность — главный Soft Skill 2026 года](https://habr.com/ru/articles/987900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987900)
 - [[Перевод] Почему Kotlin ломает JPA](https://habr.com/ru/companies/spring_aio/articles/987890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987890)
 - [Поддержка выделенных серверов в Managed Kubernetes и другие обновления Selectel в декабре](https://habr.com/ru/companies/selectel/articles/987878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987878)
 - [Showback и chargeback в DevOps: как выстроить настоящую FinOps-культуру и начать экономить на инфраструктуре](https://habr.com/ru/companies/finops_ru/articles/987828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987828)
-- [Заметки на полях: Изолируем Lua окружение в C++ приложении](https://habr.com/ru/articles/987882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987882)
-- [16 часов и 8600 строк: как Claude Code помог собрать персональный супер-апп](https://habr.com/ru/articles/987872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987872)
 <!-- BLOG-POST-LIST:END -->
 
 ---
