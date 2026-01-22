@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От Плутона к Земле: как я превратил 144 цели в космическое путешествие](https://habr.com/ru/articles/987946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987946)
+- [[Перевод] Базы данных-2025: ретроспектива](https://habr.com/ru/companies/postgrespro/articles/985698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985698)
+- [Чтение книг на других языках при помощи ИИ](https://habr.com/ru/articles/987932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987932)
+- [Галлюцинациям тут не место — как могут выглядеть специализированные ЯП для разработки с помощью LLM](https://habr.com/ru/companies/beeline_cloud/articles/987892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987892)
 - [Миграция MySQL 8 на PostgreSQL 16 | Пошаговое руководство с pgloader](https://habr.com/ru/articles/987922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987922)
-- [Прощай, синдром «хорошей девочки&lpar;мальчика&rpar;»: Почему ассертивность — главный Soft Skill 2026 года](https://habr.com/ru/articles/987900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987900)
-- [[Перевод] Почему Kotlin ломает JPA](https://habr.com/ru/companies/spring_aio/articles/987890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987890)
-- [Поддержка выделенных серверов в Managed Kubernetes и другие обновления Selectel в декабре](https://habr.com/ru/companies/selectel/articles/987878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987878)
-- [Showback и chargeback в DevOps: как выстроить настоящую FinOps-культуру и начать экономить на инфраструктуре](https://habr.com/ru/companies/finops_ru/articles/987828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987828)
 <!-- BLOG-POST-LIST:END -->
 
 ---
