@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [AIaaS: как встроить ИИ в бизнес без переписывания legacy‑систем](https://habr.com/ru/companies/sberbank/articles/987318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987318)
+- [Технический долг vs сроки: баланс при разработке госреестра](https://habr.com/ru/articles/987656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987656)
+- [Разработчики всё ещё путают JWT, JWKS, OAuth2 и OpenID Connect — разбираем на примерах. Часть 2](https://habr.com/ru/companies/ozontech/articles/987012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987012)
+- [WordPress Cookie предупреждение без плагина](https://habr.com/ru/articles/987650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987650)
 - [Передача JPEG-видео по RTP/UDP на ESP32 &lpar;RFC 2435&rpar;](https://habr.com/ru/articles/987604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987604)
-- [Как мы сделали гибридный AI-поиск по смыслу книг: двухконтурная архитектура и семантическое ранжирование](https://habr.com/ru/companies/redmadrobot/articles/987548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987548)
-- [Хроники Valkey: сайдкары, операторы и один очень упрямый кластер](https://habr.com/ru/companies/avito/articles/978590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978590)
-- [GEO/AEO-оптимизация: технический гайд по попаданию в ответы нейросетей](https://habr.com/ru/articles/987506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987506)
-- [Проблема эргономики цифровой среды: устойчивость систем за счёт пользователей](https://habr.com/ru/articles/987476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987476)
 <!-- BLOG-POST-LIST:END -->
 
 ---
