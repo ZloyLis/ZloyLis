@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Интерактивный SQL в браузере: как я создал встраиваемую песочницу с поддержкой 20+ СУБД](https://habr.com/ru/articles/987492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987492)
+- [Погружение в разработку плагинов для Android Studio &lpar;часть 2&rpar;](https://habr.com/ru/companies/domclick/articles/986660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986660)
+- [Backward-трассировка требований в Git](https://habr.com/ru/companies/gram_ax/articles/987716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987716)
 - [10 лет werf: путь, который мы прошли вместе](https://habr.com/ru/companies/flant/articles/986960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986960)
 - [Автоматическая генерация кода для встраиваемых систем: проект УОМЗ](https://habr.com/ru/companies/etmc_exponenta/articles/986990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986990)
-- [AIaaS: как встроить ИИ в бизнес без переписывания legacy‑систем](https://habr.com/ru/companies/sberbank/articles/987318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987318)
-- [Технический долг vs сроки: баланс при разработке госреестра](https://habr.com/ru/articles/987656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987656)
-- [Разработчики всё ещё путают JWT, JWKS, OAuth2 и OpenID Connect — разбираем на примерах. Часть 2](https://habr.com/ru/companies/ozontech/articles/987012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987012)
 <!-- BLOG-POST-LIST:END -->
 
 ---
