@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Большой гайд от Cursor: как эффективно программировать с ИИ-агентам](https://habr.com/ru/articles/985300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985300)
+- [44 настройки Claude Code, о которых вы не знали, ранжированные от «must have» до «забей»](https://habr.com/ru/articles/987826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987826)
+- [Почему «заканчивается» время в iOS-будильнике и как мы искали предел в часах Samsung](https://habr.com/ru/articles/987822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987822)
+- [Лучшие доклады конференций Инфостарта 2025 года — теперь бесплатно](https://habr.com/ru/companies/infostart/articles/987812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987812)
 - [Кубик Рубика как универсальная среда для исследования интеллекта](https://habr.com/ru/articles/987792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987792)
-- [[Перевод] Результаты огромного опроса разработчиков на Go за 2025 год](https://habr.com/ru/articles/987760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987760)
-- [Как организовать базу знаний с пользой для авторов и читателей. Часть 1: проектирование или реинжиниринг](https://habr.com/ru/companies/oleg-bunin/articles/969600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969600)
-- [Что дает участие в соревновании ROS2 роботов?](https://habr.com/ru/articles/987430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987430)
-- [[Перевод] ИИ решает сложнейшие математические задачи, но сможет ли он стать лучше величайших математиков?](https://habr.com/ru/articles/987624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987624)
 <!-- BLOG-POST-LIST:END -->
 
 ---
