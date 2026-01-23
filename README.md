@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Тихий Promise, который убьёт ваш сервер Node.js](https://habr.com/ru/articles/988132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988132)
 - [Байесовские А/Б-тесты: связь с p-значениями](https://habr.com/ru/articles/987764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987764)
 - [Написать свой tmux плагин — что может быть проще?](https://habr.com/ru/articles/988078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988078)
 - [M-последовательности, последовательности Лежандра, Якоби и разностные множества Адамара](https://habr.com/ru/articles/986822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986822)
 - [Симулятор смысла: почему программисты выгорают, а фаундеры нет](https://habr.com/ru/articles/988028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988028)
-- [Нескучное программирование. И снова ограничения](https://habr.com/ru/articles/988018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988018)
 <!-- BLOG-POST-LIST:END -->
 
 ---
