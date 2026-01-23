@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Deeplink-и во Flutter: динамические ссылки и app_links](https://habr.com/ru/companies/friflex/articles/988262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988262)
+- [Методы массивов. Часть 2](https://habr.com/ru/companies/selectel/articles/974326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974326)
+- [[Перевод] Нет никаких доказательств успешности «браузерного эксперимента» Cursor](https://habr.com/ru/articles/988240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988240)
+- [Тополог интегральных схем: от первой лабораторной с D-триггером к реальной инженерной практике](https://habr.com/ru/companies/yadro/articles/987542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987542)
 - [[Перевод] Организация middleware в Go без зависимостей](https://habr.com/ru/companies/otus/articles/988234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988234)
-- [Чек-лист навыков Системного Аналитика: полная и актуальная версия](https://habr.com/ru/articles/988178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988178)
-- [Войти в айти в 2026 году](https://habr.com/ru/companies/rshb/articles/988162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988162)
-- [[Перевод] Тихий Promise, который убьёт ваш сервер Node.js](https://habr.com/ru/articles/988132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988132)
-- [Байесовские А/Б-тесты: связь с p-значениями](https://habr.com/ru/articles/987764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987764)
 <!-- BLOG-POST-LIST:END -->
 
 ---
