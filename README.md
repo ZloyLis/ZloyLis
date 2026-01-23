@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Deeplink-и во Flutter: динамические ссылки и app_links](https://habr.com/ru/companies/friflex/articles/988262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988262)
-- [Методы массивов. Часть 2](https://habr.com/ru/companies/selectel/articles/974326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974326)
-- [[Перевод] Нет никаких доказательств успешности «браузерного эксперимента» Cursor](https://habr.com/ru/articles/988240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988240)
-- [Тополог интегральных схем: от первой лабораторной с D-триггером к реальной инженерной практике](https://habr.com/ru/companies/yadro/articles/987542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987542)
-- [[Перевод] Организация middleware в Go без зависимостей](https://habr.com/ru/companies/otus/articles/988234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988234)
+- [Как мы перевели 10+ Java сервисов с виртуальных машин в Kubernetes](https://habr.com/ru/articles/988306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988306)
+- [Прощай, терминальный хаос: пишем свой TUI-менеджер port-forward для Kubernetes на Go](https://habr.com/ru/articles/988300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988300)
+- [[Перевод] Flask в 2025: итоги года и состояние экосистемы](https://habr.com/ru/articles/985646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985646)
+- [Исследуем UX-долг: как мы превращали список проблем в продуктовые решения](https://habr.com/ru/companies/vk/articles/987888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987888)
+- [Хроники Valibot: как мы искали безупречные данные в мире JavaScript](https://habr.com/ru/companies/ostrovok/articles/987380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987380)
 <!-- BLOG-POST-LIST:END -->
 
 ---
