@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как перестать ставить нереалистичные планы?](https://habr.com/ru/companies/avito/articles/988330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988330)
+- [[Перевод] Как сделать &lpar;очень&rpar; маленькие LLM действительно полезными](https://habr.com/ru/articles/986770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986770)
 - [От стартапа к протоколу: Почему мы решили написать свой «PostgreSQL для финансов»](https://habr.com/ru/articles/988320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988320)
 - [Лагранжевы нейронные сети: моделирование физических систем при помощи ИИ](https://habr.com/ru/articles/988316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988316)
 - [Как мы перевели 10+ Java сервисов с виртуальных машин в Kubernetes](https://habr.com/ru/companies/alfastrah/articles/988306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988306)
-- [Прощай, терминальный хаос: пишем свой TUI-менеджер port-forward для Kubernetes на Go](https://habr.com/ru/articles/988300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988300)
-- [[Перевод] Flask в 2025: итоги года и состояние экосистемы](https://habr.com/ru/articles/985646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985646)
 <!-- BLOG-POST-LIST:END -->
 
 ---
