@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы мигрировали с Zeppelin и что из этого вышло. Часть 1. Рассылки](https://habr.com/ru/articles/988386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988386)
+- [Создание приложения на React Native: часть первая](https://habr.com/ru/articles/987592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987592)
 - [Модуль Python для обновления данных в БД — DBMerge](https://habr.com/ru/articles/985306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985306)
 - [Как перестать ставить нереалистичные планы?](https://habr.com/ru/companies/avito/articles/988330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988330)
 - [[Перевод] Как сделать &lpar;очень&rpar; маленькие LLM действительно полезными](https://habr.com/ru/articles/986770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986770)
-- [От стартапа к протоколу: Почему мы решили написать свой «PostgreSQL для финансов»](https://habr.com/ru/articles/988320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988320)
-- [Лагранжевы нейронные сети: моделирование физических систем при помощи ИИ](https://habr.com/ru/articles/988316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988316)
 <!-- BLOG-POST-LIST:END -->
 
 ---
