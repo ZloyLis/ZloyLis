@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Организация middleware в Go без зависимостей](https://habr.com/ru/companies/otus/articles/988234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988234)
 - [Чек-лист навыков Системного Аналитика: полная и актуальная версия](https://habr.com/ru/articles/988178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988178)
 - [Войти в айти в 2026 году](https://habr.com/ru/companies/rshb/articles/988162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988162)
 - [[Перевод] Тихий Promise, который убьёт ваш сервер Node.js](https://habr.com/ru/articles/988132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988132)
 - [Байесовские А/Б-тесты: связь с p-значениями](https://habr.com/ru/articles/987764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987764)
-- [Написать свой tmux плагин — что может быть проще?](https://habr.com/ru/articles/988078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988078)
 <!-- BLOG-POST-LIST:END -->
 
 ---
