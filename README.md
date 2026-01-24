@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [PostgreSQL для CDC-пайплайна: настраиваем logical replication за 30 минут](https://habr.com/ru/articles/988114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988114)
+- [Как проверять продуктовые гипотезы без A/B-тестов? Практические альтернативы](https://habr.com/ru/articles/988502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988502)
 - [PG_EXPECTO: влияние vm.vfs_cache_pressure на производительность PostgreSQL при нагрузке, имитирующей OLAP](https://habr.com/ru/articles/988498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988498)
 - [[Перевод] Что такое Skills, Prompts, Projects, MCP и сабагенты? База для понимания агентной экосистемы](https://habr.com/ru/articles/987528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987528)
 - [Введение в DAST, SAST, SCA, IAST и RASP: Гид по инструментам безопасности](https://habr.com/ru/articles/988468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988468)
-- [Оно обязательно сломается: не «если», а «когда»](https://habr.com/ru/articles/988436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988436)
-- [Кастомные аллокаторы для игровых движков: arena, pool и slab на C++](https://habr.com/ru/companies/otus/articles/988086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988086)
 <!-- BLOG-POST-LIST:END -->
 
 ---
