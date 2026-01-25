@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [На стыке AI и науки: Летняя школа Veai для студентов](https://habr.com/ru/companies/veai/articles/988328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988328)
+- [[Перевод] OpenCode + Docker Model Runner для локальной разработки с ИИ](https://habr.com/ru/articles/987118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987118)
+- [Make DLL Hijacking Great Again](https://habr.com/ru/articles/988684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988684)
+- [Мобильная разработка за неделю #616 &lpar;19 — 25 января&rpar;](https://habr.com/ru/articles/988682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988682)
 - [Базы данных. Основа реляционных баз](https://habr.com/ru/articles/988660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988660)
-- [Алгоритм резолва зависимостей в Angular Ivy: Математика Блум-фильтров и битовые маски](https://habr.com/ru/articles/988606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988606)
-- [Байки математика: Эксель на фронте](https://habr.com/ru/articles/988430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988430)
-- [Как создать ИИ-консультанта для сайта интернет-магазина и поднять конверсию](https://habr.com/ru/articles/988592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988592)
-- [Как мы сократили объем данных в 10 раз, не повредив пользовательскому опыту, или переезд Postgres → ClickHouse](https://habr.com/ru/companies/kts/articles/988510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988510)
 <!-- BLOG-POST-LIST:END -->
 
 ---
