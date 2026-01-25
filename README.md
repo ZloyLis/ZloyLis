@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Компромиссы](https://habr.com/ru/articles/988846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988846)
 - [AB-тесты и подглядывание: введение в последовательное тестирование](https://habr.com/ru/articles/988816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988816)
 - [Аудит доступности Wildberries. Может ли незрячий пользователь купить Бэтмобиль?](https://habr.com/ru/articles/988756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988756)
 - [Почему финтеху нужен капитальный ремонт: Манифест инженерной честности](https://habr.com/ru/articles/988754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988754)
 - [Cryanide как альтернативная ветвь развития web-технологий](https://habr.com/ru/articles/988716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988716)
-- [На стыке AI и науки: Летняя школа Veai для студентов](https://habr.com/ru/companies/veai/articles/988328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988328)
 <!-- BLOG-POST-LIST:END -->
 
 ---
