@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Базы данных. Основа реляционных баз](https://habr.com/ru/articles/988660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988660)
 - [Алгоритм резолва зависимостей в Angular Ivy: Математика Блум-фильтров и битовые маски](https://habr.com/ru/articles/988606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988606)
 - [Байки математика: Эксель на фронте](https://habr.com/ru/articles/988430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988430)
 - [Как создать ИИ-консультанта для сайта интернет-магазина и поднять конверсию](https://habr.com/ru/articles/988592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988592)
 - [Как мы сократили объем данных в 10 раз, не повредив пользовательскому опыту, или переезд Postgres → ClickHouse](https://habr.com/ru/companies/kts/articles/988510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988510)
-- [От пустоты к идее: как я создал свою первую доску вдохновения](https://habr.com/ru/companies/ruvds/articles/987426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987426)
 <!-- BLOG-POST-LIST:END -->
 
 ---
