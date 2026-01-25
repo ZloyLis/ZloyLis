@@ -37,7 +37,7 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [[Перевод] Маппинг POJO в MongoDB с помощью Jackson](https://habr.com/ru/articles/988858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988858)
 - [Математическая битва ИИ: сравнение ChatGPT 5.2 Pro и Gemini 3 Pro в решении задач](https://habr.com/ru/companies/bothub/articles/988856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988856)
-- [Компромиссы](https://habr.com/ru/articles/988846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988846)
+- [Компромиссы построчной вставки в БД и батчинга](https://habr.com/ru/articles/988846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988846)
 - [AB-тесты и подглядывание: введение в последовательное тестирование](https://habr.com/ru/articles/988816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988816)
 - [Аудит доступности Wildberries. Может ли незрячий пользователь купить Бэтмобиль?](https://habr.com/ru/articles/988756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988756)
 <!-- BLOG-POST-LIST:END -->
