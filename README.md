@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От «Человека-функции» к Архитектору: ИИ освобождает от рабства специализации](https://habr.com/ru/articles/988894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988894)
+- [А вы всегда пьёте коньяк на завтрак или только по выходным?](https://habr.com/ru/articles/988380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988380)
+- [[Перевод] Rust 1.93.0: обновление встроенного musl, глобальный аллокатор и tls, cfg в asm](https://habr.com/ru/articles/988890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988890)
 - [Скрипт полной миграции из GitLab на свой сервер и настройка Git для одновременного fetch/push в несколько remotes](https://habr.com/ru/articles/984578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984578)
 - [[Перевод] Маппинг POJO в MongoDB с помощью Jackson](https://habr.com/ru/articles/988858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988858)
-- [Математическая битва ИИ: сравнение ChatGPT 5.2 Pro и Gemini 3 Pro в решении задач](https://habr.com/ru/companies/bothub/articles/988856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988856)
-- [Компромиссы построчной вставки в БД и батчинга](https://habr.com/ru/articles/988846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988846)
-- [AB-тесты и подглядывание: введение в последовательное тестирование](https://habr.com/ru/articles/988816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988816)
 <!-- BLOG-POST-LIST:END -->
 
 ---
