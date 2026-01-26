@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [«Области тьмы» ИТ: платформы управления данными](https://habr.com/ru/articles/988946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988946)
-- [Моя RAG-система: как я за 8 дней собрал RAG для своего сайта визитки](https://habr.com/ru/articles/988248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988248)
-- [[Перевод] Разработка технических тестовых заданий, устойчивых к ИИ](https://habr.com/ru/companies/cloud4y/articles/988608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988608)
-- [В QA платят не за тестирование: анализ зарплат по 2500 вакансиям](https://habr.com/ru/articles/982182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982182)
-- [Как компьютер понимает Языки программирования: история о том, как ваш код превращается в нули и единицы](https://habr.com/ru/articles/988482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988482)
+- [Как я сделал виджет видеозвонков для сайтов с транскрипцией речи в реальном времени](https://habr.com/ru/articles/988974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988974)
+- [Революционный подход в школьной образовательной робототехнике](https://habr.com/ru/articles/988826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988826)
+- [Горизонтальное масштабирование 1С: переносим отчеты на реплику без потери производительности](https://habr.com/ru/companies/tantor/articles/987338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987338)
+- [Сперва убираем облака, а потом используем: или как я подключал дешевые китайские модули к умному дому](https://habr.com/ru/companies/timeweb/articles/983322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983322)
+- [Продолжение эксперимента: где автономный агент теряет слой в Kubernetes](https://habr.com/ru/articles/988892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988892)
 <!-- BLOG-POST-LIST:END -->
 
 ---
