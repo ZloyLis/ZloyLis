@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Навыки аналитика, которым вас никто не учит](https://habr.com/ru/articles/988818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988818)
-- [[Перевод] Metaflow: повышение эффективности ML/AI-разработки в Netflix](https://habr.com/ru/companies/wunderfund/articles/985544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985544)
-- [Создание и настройка спецификаций в nanoCAD BIM Строительство: обзор двух подходов от эксперта «Софтлайн Решения»](https://habr.com/ru/companies/nanosoft/articles/989026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989026)
-- [Универсальный компилятор для FPGA, который понимает 42 языка программирования](https://habr.com/ru/articles/989020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989020)
-- [[Перевод] Большой обзор релиза Go 1.26](https://habr.com/ru/articles/988540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988540)
+- [Как похудеть без спорта](https://habr.com/ru/articles/973348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973348)
+- [Postgres по-русски: где наши Aurora, AlloyDB и Neon?](https://habr.com/ru/companies/tantor/articles/988340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988340)
+- [Параллелизация pytest: от xdist до Kubernetes](https://habr.com/ru/companies/otus/articles/988088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988088)
+- [Как у нас появился ITAM или как победить хаос ИТ-активов в группе компаний](https://habr.com/ru/companies/simpleone/articles/989102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989102)
+- [Зачем лабораториям цифра: наш опыт внедрения LIMS](https://habr.com/ru/companies/k2tech/articles/989076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989076)
 <!-- BLOG-POST-LIST:END -->
 
 ---
