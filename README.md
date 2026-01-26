@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Когда данных от Apple недостаточно: собираем метрики производительности UI](https://habr.com/ru/companies/hh/articles/988322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988322)
 - [[Перевод] SVG-фильтры как язык атак: кликджекинг нового поколения](https://habr.com/ru/articles/986358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986358)
 - [8 трендов в дизайне интерфейса без эффектов ради эффектов](https://habr.com/ru/companies/friflex/articles/989142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989142)
 - [Плиточная карта России на React: прототип с drag &amp;amp; drop и zoom без библиотек](https://habr.com/ru/companies/gnivc/articles/985734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985734)
 - [[Перевод] Тихая смерть robots.txt](https://habr.com/ru/companies/ruvds/articles/987416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987416)
-- [Postgres по-русски: где наши Aurora, AlloyDB и Neon?](https://habr.com/ru/companies/tantor/articles/988340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988340)
 <!-- BLOG-POST-LIST:END -->
 
 ---
