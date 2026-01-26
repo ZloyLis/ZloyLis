@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как компьютер понимает Языки программирования: история о том, как ваш код превращается в нули и единицы](https://habr.com/ru/articles/988482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988482)
 - [Синхронизация файлов в PostgreSQL](https://habr.com/ru/articles/988910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988910)
 - [Старые Mac mini, Proxmox и немного упрямства: как я собрал свою инфраструктуру вместо облака](https://habr.com/ru/articles/988904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988904)
 - [Почему легендарные телефоны Siemens были такими ненадежными? [Длиннопост про железо]](https://habr.com/ru/articles/988898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988898)
 - [От «Человека-функции» к Архитектору: ИИ освобождает от рабства специализации](https://habr.com/ru/articles/988894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988894)
-- [А вы всегда пьёте коньяк на завтрак или только по выходным?](https://habr.com/ru/articles/988380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988380)
 <!-- BLOG-POST-LIST:END -->
 
 ---
