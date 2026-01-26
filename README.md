@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Синхронизация файлов в PostgreSQL](https://habr.com/ru/articles/988910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988910)
+- [Старые Mac mini, Proxmox и немного упрямства: как я собрал свою инфраструктуру вместо облака](https://habr.com/ru/articles/988904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988904)
+- [Почему легендарные телефоны Siemens были такими ненадежными? [Длиннопост про железо]](https://habr.com/ru/articles/988898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988898)
 - [От «Человека-функции» к Архитектору: ИИ освобождает от рабства специализации](https://habr.com/ru/articles/988894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988894)
 - [А вы всегда пьёте коньяк на завтрак или только по выходным?](https://habr.com/ru/articles/988380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988380)
-- [[Перевод] Rust 1.93.0: обновление встроенного musl, глобальный аллокатор и tls, cfg в asm](https://habr.com/ru/articles/988890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988890)
-- [Скрипт полной миграции из GitLab на свой сервер и настройка Git для одновременного fetch/push в несколько remotes](https://habr.com/ru/articles/984578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984578)
-- [[Перевод] Маппинг POJO в MongoDB с помощью Jackson](https://habr.com/ru/articles/988858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988858)
 <!-- BLOG-POST-LIST:END -->
 
 ---
