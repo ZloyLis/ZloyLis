@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Готовые промпты для программистов: шаблоны под Python, JavaScript и C++](https://habr.com/ru/companies/bothub/articles/989304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989304)
 - [Capacitor: от веба к мобильным приложениям. Часть 1. Миграция проекта на Capacitor](https://habr.com/ru/articles/989296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989296)
 - [500 мс на планирование: как статистика PostgreSQL замедлила запрос в 20 раз](https://habr.com/ru/articles/989292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989292)
 - [Как перевести атрибуты качества в бизнес-ценности](https://habr.com/ru/companies/otus/articles/987234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987234)
 - [Почему ваши тесты для Telegram-ботов работают неправильно &lpar;и как это исправить&rpar;](https://habr.com/ru/articles/989216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989216)
-- [Как построить структуру корпоративной базы знаний с нуля: Outline + Event Storming](https://habr.com/ru/articles/989180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989180)
 <!-- BLOG-POST-LIST:END -->
 
 ---
