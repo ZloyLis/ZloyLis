@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как похудеть без спорта](https://habr.com/ru/articles/973348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=973348)
+- [[Перевод] SVG-фильтры как язык атак: кликджекинг нового поколения](https://habr.com/ru/articles/986358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986358)
+- [8 трендов в дизайне интерфейса без эффектов ради эффектов](https://habr.com/ru/companies/friflex/articles/989142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989142)
+- [Плиточная карта России на React: прототип с drag &amp;amp; drop и zoom без библиотек](https://habr.com/ru/companies/gnivc/articles/985734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985734)
+- [[Перевод] Тихая смерть robots.txt](https://habr.com/ru/companies/ruvds/articles/987416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987416)
 - [Postgres по-русски: где наши Aurora, AlloyDB и Neon?](https://habr.com/ru/companies/tantor/articles/988340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988340)
-- [Параллелизация pytest: от xdist до Kubernetes](https://habr.com/ru/companies/otus/articles/988088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988088)
-- [Как у нас появился ITAM или как победить хаос ИТ-активов в группе компаний](https://habr.com/ru/companies/simpleone/articles/989102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989102)
-- [Зачем лабораториям цифра: наш опыт внедрения LIMS](https://habr.com/ru/companies/k2tech/articles/989076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989076)
 <!-- BLOG-POST-LIST:END -->
 
 ---
