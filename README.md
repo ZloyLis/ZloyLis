@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Волки не пройдут](https://habr.com/ru/articles/989238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989238)
+- [Как перевести атрибуты качества в бизнес-ценности](https://habr.com/ru/companies/otus/articles/987234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987234)
 - [Почему ваши тесты для Telegram-ботов работают неправильно &lpar;и как это исправить&rpar;](https://habr.com/ru/articles/989216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989216)
 - [Как построить структуру корпоративной базы знаний с нуля: Outline + Event Storming](https://habr.com/ru/articles/989180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989180)
 - [Когда данных от Apple недостаточно: собираем метрики производительности UI](https://habr.com/ru/companies/hh/articles/988322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988322)
-- [[Перевод] SVG-фильтры как язык атак: кликджекинг нового поколения](https://habr.com/ru/articles/986358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986358)
-- [8 трендов в дизайне интерфейса без эффектов ради эффектов](https://habr.com/ru/companies/friflex/articles/989142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989142)
 <!-- BLOG-POST-LIST:END -->
 
 ---
