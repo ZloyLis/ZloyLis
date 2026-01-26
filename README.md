@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Metaflow: повышение эффективности ML/AI-разработки в Netflix](https://habr.com/ru/companies/wunderfund/articles/985544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985544)
+- [Создание и настройка спецификаций в nanoCAD BIM Строительство: обзор двух подходов от эксперта «Софтлайн Решения»](https://habr.com/ru/companies/nanosoft/articles/989026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989026)
+- [Универсальный компилятор для FPGA, который понимает 42 языка программирования](https://habr.com/ru/articles/989020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989020)
 - [[Перевод] Большой обзор релиза Go 1.26](https://habr.com/ru/articles/988540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988540)
 - [Как организовать Базу знаний с пользой для авторов и читателей. Часть 2. Ревью](https://habr.com/ru/companies/oleg-bunin/articles/969606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969606)
-- [[Перевод] Структуры данных на практике. Глава 2: Иерархия памяти](https://habr.com/ru/articles/985292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985292)
-- [Как я сделал виджет видеозвонков для сайтов с транскрипцией речи в реальном времени](https://habr.com/ru/articles/988974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988974)
-- [Революционный подход в школьной образовательной робототехнике](https://habr.com/ru/articles/988826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988826)
 <!-- BLOG-POST-LIST:END -->
 
 ---
