@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Большой обзор релиза Go 1.26](https://habr.com/ru/articles/988540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988540)
+- [Как организовать Базу знаний с пользой для авторов и читателей. Часть 2. Ревью](https://habr.com/ru/companies/oleg-bunin/articles/969606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=969606)
+- [[Перевод] Структуры данных на практике. Глава 2: Иерархия памяти](https://habr.com/ru/articles/985292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985292)
 - [Как я сделал виджет видеозвонков для сайтов с транскрипцией речи в реальном времени](https://habr.com/ru/articles/988974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988974)
 - [Революционный подход в школьной образовательной робототехнике](https://habr.com/ru/articles/988826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988826)
-- [Горизонтальное масштабирование 1С: переносим отчеты на реплику без потери производительности](https://habr.com/ru/companies/tantor/articles/987338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987338)
-- [Сперва убираем облака, а потом используем: или как я подключал дешевые китайские модули к умному дому](https://habr.com/ru/companies/timeweb/articles/983322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983322)
-- [Продолжение эксперимента: где автономный агент теряет слой в Kubernetes](https://habr.com/ru/articles/988892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988892)
 <!-- BLOG-POST-LIST:END -->
 
 ---
