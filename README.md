@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Laravel-Telegram] Пример сервиса на Laravel для авторизации пользователя через Telegram в mini-app](https://habr.com/ru/articles/989350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989350)
+- [Множество Мандельброта — видео! 60 FPS и вращение палитры — анимация. И распараллеливаем. И суперсэмплингом. На C++](https://habr.com/ru/articles/987598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987598)
+- [EVA: Инструмент. От нейросетей к детерминизму &lpar;Часть 3&rpar;](https://habr.com/ru/articles/989340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989340)
 - [Безопасный обмен данными между приложениями в iOS](https://habr.com/ru/articles/989336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989336)
 - [PostgreSQL RLS в Go, Часть 2: Архитектура Highload. Паника, гонки и 10 000 партиций](https://habr.com/ru/articles/988744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988744)
-- [Как зарабатывать на бирже, не предсказывая цену: математика против ML-интуиции](https://habr.com/ru/articles/987808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987808)
-- [Готовые промпты для программистов: шаблоны под Python, JavaScript и C++](https://habr.com/ru/companies/bothub/articles/989304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989304)
-- [Capacitor: от веба к мобильным приложениям. Часть 1. Миграция проекта на Capacitor](https://habr.com/ru/articles/989296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989296)
 <!-- BLOG-POST-LIST:END -->
 
 ---
