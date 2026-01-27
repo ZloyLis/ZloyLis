@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы перевели склад с «бумаги на цифру» силами руководителя проекта и одного разработчика](https://habr.com/ru/companies/gri/articles/988190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988190)
+- [Hardening контейнеров: некоторые настройки которые игнорируют](https://habr.com/ru/companies/otus/articles/989310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989310)
 - [Тесты первого клика: как знание статистики помогает делать правильные выводы?](https://habr.com/ru/companies/bcs_company/articles/989462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989462)
 - [GreatEasyCert или как реализовать контейнер ключа по ГОСТу](https://habr.com/ru/companies/skbkontur/articles/989090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989090)
 - [Как уменьшить галлюцинации LLM: 3 способа дать контекст](https://habr.com/ru/articles/989464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989464)
-- [Роль хранилищ и платформ данных в развитии ИИ](https://habr.com/ru/companies/vk/articles/989456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989456)
-- [Всплытие переменных и функций в JavaScript](https://habr.com/ru/articles/989458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989458)
 <!-- BLOG-POST-LIST:END -->
 
 ---
