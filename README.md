@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как запрос из DuckDB упёрся в PostgreSQL: 507 секунд по EXPLAIN ANALYZE](https://habr.com/ru/companies/otus/articles/989440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989440)
+- [Какие новые HTML и CSS фичи полностью поддерживаются браузерами в 2026 году](https://habr.com/ru/companies/ruvds/articles/987088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987088)
+- [ИИ в промышленном IT: где заканчивается хайп и начинается измеримый эффект](https://habr.com/ru/companies/oleg-bunin/articles/989056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989056)
+- [Книга: «System Design II. Распределенные системы. Подготовка к сложному интервью»](https://habr.com/ru/companies/piter/articles/989040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989040)
 - [Работа с реестром Windows на Python на библиотеке Unishell 2.3.2](https://habr.com/ru/articles/989412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989412)
-- [С 5 минут до 15 секунд: параллельные тесты с базой данных для Telegram-ботов](https://habr.com/ru/articles/989410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989410)
-- [[Перевод] Хватит использовать JavaScript для решения задач CSS](https://habr.com/ru/companies/timeweb/articles/983714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983714)
-- [Эмуляция вместо имитации, или То, чего обычно не хватает нагрузочным тестам](https://habr.com/ru/companies/yandex/articles/988268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988268)
-- [Идеальных систем не существует. Монолит, микросервисы и цена распределённости. CAP, ACID, BASE](https://habr.com/ru/companies/domclick/articles/987690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987690)
 <!-- BLOG-POST-LIST:END -->
 
 ---
