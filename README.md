@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Magneto Solver: Пишем симулятор магнитных полей на WebGPU и боремся с тензором Максвелла](https://habr.com/ru/articles/989380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989380)
-- [Результаты исследования: требования к джуниор фронтенд-разработчикам](https://habr.com/ru/companies/yandex_praktikum/articles/980858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980858)
-- [Как доказать компетентность? Или есть ли у меня план?](https://habr.com/ru/articles/989362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989362)
-- [[Laravel-Telegram] Пример сервиса на Laravel для авторизации пользователя через Telegram в mini-app](https://habr.com/ru/articles/989350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989350)
-- [Множество Мандельброта — видео! 60 FPS и вращение палитры — анимация. И распараллеливаем. И суперсэмплингом. На C++](https://habr.com/ru/articles/987598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987598)
+- [Работа с реестром Windows на Python на библиотеке Unishell 2.3.2](https://habr.com/ru/articles/989412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989412)
+- [С 5 минут до 15 секунд: параллельные тесты с базой данных для Telegram-ботов](https://habr.com/ru/articles/989410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989410)
+- [[Перевод] Хватит использовать JavaScript для решения задач CSS](https://habr.com/ru/companies/timeweb/articles/983714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983714)
+- [Эмуляция вместо имитации, или То, чего обычно не хватает нагрузочным тестам](https://habr.com/ru/companies/yandex/articles/988268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988268)
+- [Идеальных систем не существует. Монолит, микросервисы и цена распределённости. CAP, ACID, BASE](https://habr.com/ru/companies/domclick/articles/987690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987690)
 <!-- BLOG-POST-LIST:END -->
 
 ---
