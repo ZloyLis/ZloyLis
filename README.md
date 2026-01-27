@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Безопасный обмен данными между приложениями на Android: intents, URI schemes, shared preferences](https://habr.com/ru/articles/989740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989740)
+- [Unsafe Rust для FFI: безопасные обёртки над C-библиотеками без утечек памяти](https://habr.com/ru/companies/otus/articles/988860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988860)
+- [[Перевод] Почему SSH отправляет 100 пакетов по одному нажатию клавиши?](https://habr.com/ru/articles/989732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989732)
 - [Poisk: однофайловый поисковик для изолированной корпоративной сети](https://habr.com/ru/articles/989692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989692)
 - [Serverless паттерн Lambdalith или «Монолитная лямбда»](https://habr.com/ru/articles/989640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989640)
-- [Как мы перевели склад с «бумаги на цифру» силами руководителя проекта и одного разработчика](https://habr.com/ru/companies/gri/articles/988190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988190)
-- [Hardening контейнеров: некоторые настройки которые игнорируют](https://habr.com/ru/companies/otus/articles/989310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989310)
-- [Тесты первого клика: как знание статистики помогает делать правильные выводы?](https://habr.com/ru/companies/bcs_company/articles/989462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989462)
 <!-- BLOG-POST-LIST:END -->
 
 ---
