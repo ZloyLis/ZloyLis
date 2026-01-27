@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Poisk: однофайловый поисковик для изолированной корпоративной сети](https://habr.com/ru/articles/989692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989692)
 - [Serverless паттерн Lambdalith или «Монолитная лямбда»](https://habr.com/ru/articles/989640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989640)
 - [Как мы перевели склад с «бумаги на цифру» силами руководителя проекта и одного разработчика](https://habr.com/ru/companies/gri/articles/988190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988190)
 - [Hardening контейнеров: некоторые настройки которые игнорируют](https://habr.com/ru/companies/otus/articles/989310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989310)
 - [Тесты первого клика: как знание статистики помогает делать правильные выводы?](https://habr.com/ru/companies/bcs_company/articles/989462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989462)
-- [GreatEasyCert или как реализовать контейнер ключа по ГОСТу](https://habr.com/ru/companies/skbkontur/articles/989090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989090)
 <!-- BLOG-POST-LIST:END -->
 
 ---
