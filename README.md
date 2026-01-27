@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Тесты первого клика: как знание статистики помогает делать правильные выводы?](https://habr.com/ru/companies/bcs_company/articles/989462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989462)
+- [GreatEasyCert или как реализовать контейнер ключа по ГОСТу](https://habr.com/ru/companies/skbkontur/articles/989090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989090)
 - [Как уменьшить галлюцинации LLM: 3 способа дать контекст](https://habr.com/ru/articles/989464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989464)
-- [Роль хранилищ и платформ данных в развитии ИИ](https://habr.com/ru/companies/vktech/articles/989456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989456)
+- [Роль хранилищ и платформ данных в развитии ИИ](https://habr.com/ru/companies/vk/articles/989456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989456)
 - [Всплытие переменных и функций в JavaScript](https://habr.com/ru/articles/989458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989458)
-- [[Перевод] Как запрос из DuckDB упёрся в PostgreSQL: 507 секунд по EXPLAIN ANALYZE](https://habr.com/ru/companies/otus/articles/989440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989440)
-- [Какие новые HTML и CSS фичи полностью поддерживаются браузерами в 2026 году](https://habr.com/ru/companies/ruvds/articles/987088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987088)
 <!-- BLOG-POST-LIST:END -->
 
 ---
