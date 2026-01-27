@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как уменьшить галлюцинации LLM: 3 способа дать контекст](https://habr.com/ru/articles/989464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989464)
+- [Роль хранилищ и платформ данных в развитии ИИ](https://habr.com/ru/companies/vktech/articles/989456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989456)
+- [Всплытие переменных и функций в JavaScript](https://habr.com/ru/articles/989458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989458)
 - [[Перевод] Как запрос из DuckDB упёрся в PostgreSQL: 507 секунд по EXPLAIN ANALYZE](https://habr.com/ru/companies/otus/articles/989440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989440)
 - [Какие новые HTML и CSS фичи полностью поддерживаются браузерами в 2026 году](https://habr.com/ru/companies/ruvds/articles/987088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987088)
-- [ИИ в промышленном IT: где заканчивается хайп и начинается измеримый эффект](https://habr.com/ru/companies/oleg-bunin/articles/989056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989056)
-- [Книга: «System Design II. Распределенные системы. Подготовка к сложному интервью»](https://habr.com/ru/companies/piter/articles/989040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989040)
-- [Работа с реестром Windows на Python на библиотеке Unishell 2.3.2](https://habr.com/ru/articles/989412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989412)
 <!-- BLOG-POST-LIST:END -->
 
 ---
