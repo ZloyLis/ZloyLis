@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Magneto Solver: Пишем симулятор магнитных полей на WebGPU и боремся с тензором Максвелла](https://habr.com/ru/articles/989380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989380)
+- [Результаты исследования: требования к джуниор фронтенд-разработчикам](https://habr.com/ru/companies/yandex_praktikum/articles/980858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980858)
+- [Как доказать компетентность? Или есть ли у меня план?](https://habr.com/ru/articles/989362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989362)
 - [[Laravel-Telegram] Пример сервиса на Laravel для авторизации пользователя через Telegram в mini-app](https://habr.com/ru/articles/989350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989350)
 - [Множество Мандельброта — видео! 60 FPS и вращение палитры — анимация. И распараллеливаем. И суперсэмплингом. На C++](https://habr.com/ru/articles/987598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987598)
-- [EVA: Инструмент. От нейросетей к детерминизму &lpar;Часть 3&rpar;](https://habr.com/ru/articles/989340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989340)
-- [Безопасный обмен данными между приложениями в iOS](https://habr.com/ru/articles/989336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989336)
-- [PostgreSQL RLS в Go, Часть 2: Архитектура Highload. Паника, гонки и 10 000 партиций](https://habr.com/ru/articles/988744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988744)
 <!-- BLOG-POST-LIST:END -->
 
 ---
