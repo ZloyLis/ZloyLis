@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Безопасный обмен данными между приложениями в iOS](https://habr.com/ru/articles/989336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989336)
+- [PostgreSQL RLS в Go, Часть 2: Архитектура Highload. Паника, гонки и 10 000 партиций](https://habr.com/ru/articles/988744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988744)
 - [Как зарабатывать на бирже, не предсказывая цену: математика против ML-интуиции](https://habr.com/ru/articles/987808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987808)
 - [Готовые промпты для программистов: шаблоны под Python, JavaScript и C++](https://habr.com/ru/companies/bothub/articles/989304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989304)
 - [Capacitor: от веба к мобильным приложениям. Часть 1. Миграция проекта на Capacitor](https://habr.com/ru/articles/989296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989296)
-- [500 мс на планирование: как статистика PostgreSQL замедлила запрос в 20 раз](https://habr.com/ru/articles/989292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989292)
-- [Как перевести атрибуты качества в бизнес-ценности](https://habr.com/ru/companies/otus/articles/987234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987234)
 <!-- BLOG-POST-LIST:END -->
 
 ---
