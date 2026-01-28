@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [ESP32: Подключаем датчик влажности без мам, пап и скетчей](https://habr.com/ru/articles/989832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989832)
-- [Контакторная схема пуск/стоп электропривода насоса с самоподхватом, тепловым реле и световой индикацией](https://habr.com/ru/articles/989798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989798)
-- [69 часов экспериментов с YOLO. Что на самом деле влияет на качество модели](https://habr.com/ru/articles/983246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983246)
-- [React Native. Часть 1: архитектура, производительность и варианты использования](https://habr.com/ru/articles/989776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989776)
-- [Безопасный обмен данными между приложениями на Android: intents, URI schemes, shared preferences](https://habr.com/ru/articles/989740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989740)
+- [Обход ограничений сети на рабочем ПК](https://habr.com/ru/articles/989762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989762)
+- [Оформление листинга и превью товаров в интернет-магазине: 7 ключевых правил UX](https://habr.com/ru/articles/989866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989866)
+- [Почему PWA на iOS всё ещё не торт — и что на самом деле разрешает Apple](https://habr.com/ru/articles/989862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989862)
+- [Возрождение ГОСТ Р 57580.1: практический гайд по внедрению](https://habr.com/ru/companies/aktiv-company/articles/989634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989634)
+- [Полезные агенты на платформе MWS GPT](https://habr.com/ru/companies/ru_mts/articles/987718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987718)
 <!-- BLOG-POST-LIST:END -->
 
 ---
