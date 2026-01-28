@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Я написал компилятор на C++ при помощи LLVM &lpar;2&rpar;](https://habr.com/ru/articles/989684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989684)
+- [[Перевод] Паттерны проектирования в Data Engineering, которые необходимо освоить в 2026 году](https://habr.com/ru/companies/spring_aio/articles/990336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990336)
 - [Что нам стоит на КМП построить?](https://habr.com/ru/articles/989286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989286)
 - [Бесплатный AI-стек консультанта: Qwen + DeepSeek + точечный Perplexity](https://habr.com/ru/articles/989752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989752)
 - [Битва за миллисекунды: Как мы ускорили банковское приложение РСХБ в 60+ раз](https://habr.com/ru/companies/rshb/articles/990094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990094)
-- [Под капотом ACPI. Современное управление питанием](https://habr.com/ru/companies/icl_group/articles/990088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990088)
-- [MS Excel+LLM structured output как инструмент нормализации корпоративного справочника номенклатуры и смежные вопросы](https://habr.com/ru/articles/989576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989576)
 <!-- BLOG-POST-LIST:END -->
 
 ---
