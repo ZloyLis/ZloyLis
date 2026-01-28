@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Работа с несбалансированными данными: SMOTE мёртв, что работает](https://habr.com/ru/companies/otus/articles/989652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989652)
 - [Я написал компилятор на C++ при помощи LLVM &lpar;2&rpar;](https://habr.com/ru/articles/989684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989684)
 - [[Перевод] Паттерны проектирования в Data Engineering, которые необходимо освоить в 2026 году](https://habr.com/ru/companies/spring_aio/articles/990336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990336)
 - [Что нам стоит на КМП построить?](https://habr.com/ru/articles/989286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989286)
 - [Бесплатный AI-стек консультанта: Qwen + DeepSeek + точечный Perplexity](https://habr.com/ru/articles/989752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989752)
-- [Битва за миллисекунды: Как мы ускорили банковское приложение РСХБ в 60+ раз](https://habr.com/ru/companies/rshb/articles/990094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990094)
 <!-- BLOG-POST-LIST:END -->
 
 ---
