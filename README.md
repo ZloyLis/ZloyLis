@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [69 часов экспериментов с YOLO. Что на самом деле влияет на качество модели](https://habr.com/ru/articles/983246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=983246)
+- [React Native. Часть 1: архитектура, производительность и варианты использования](https://habr.com/ru/articles/989776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989776)
 - [Безопасный обмен данными между приложениями на Android: intents, URI schemes, shared preferences](https://habr.com/ru/articles/989740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989740)
 - [Unsafe Rust для FFI: безопасные обёртки над C-библиотеками без утечек памяти](https://habr.com/ru/companies/otus/articles/988860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988860)
 - [[Перевод] Почему SSH отправляет 100 пакетов по одному нажатию клавиши?](https://habr.com/ru/articles/989732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989732)
-- [Poisk: однофайловый поисковик для изолированной корпоративной сети](https://habr.com/ru/articles/989692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989692)
-- [Serverless паттерн Lambdalith или «Монолитная лямбда»](https://habr.com/ru/articles/989640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989640)
 <!-- BLOG-POST-LIST:END -->
 
 ---
