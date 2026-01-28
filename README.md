@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] 3 критические ошибки в Spring Boot, которые просачиваются в прод &lpar;и как их исправить&rpar;](https://habr.com/ru/articles/990018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990018)
+- [Как превратить университетский SQL в оружие для собеседований в Data Science](https://habr.com/ru/articles/990066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990066)
+- [[Перевод] Пишем свой git: минимальная реализация на Rust](https://habr.com/ru/companies/cloud4y/articles/990052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990052)
+- [[Перевод] 3 ошибки при работе со Spring Boot, которые просачиваются в прод &lpar;и как их исправить&rpar;](https://habr.com/ru/articles/990018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990018)
 - [Тестирование Telegram-ботов в CI/CD: токены не нужны](https://habr.com/ru/articles/990010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990010)
 - [Frontend Status: свежий дайджест фронтенда и AI — 28.01.2026](https://habr.com/ru/articles/989578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989578)
-- [Как пользователи с несколькими профилями влияют на A/B-тесты](https://habr.com/ru/companies/avito/articles/989898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989898)
-- [От Фаулера до продакшена: как в небольшой компании выращивают качественный код](https://habr.com/ru/articles/989908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989908)
 <!-- BLOG-POST-LIST:END -->
 
 ---
