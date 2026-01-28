@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Когда нейросеть решит то, что не решил никто?](https://habr.com/ru/companies/bar/articles/990406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990406)
 - [Реальный смысл работы: почему одни программисты выгорают, а другие нет](https://habr.com/ru/articles/990404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990404)
 - [Как один индекс на created_at сократил время ответа API с 12 секунд до 40 мс](https://habr.com/ru/articles/990398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990398)
 - [Работа с несбалансированными данными: SMOTE мёртв, что работает](https://habr.com/ru/companies/otus/articles/989652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989652)
 - [Я написал компилятор на C++ при помощи LLVM &lpar;2&rpar;](https://habr.com/ru/articles/989684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989684)
-- [[Перевод] Паттерны проектирования в Data Engineering, которые необходимо освоить в 2026 году](https://habr.com/ru/companies/spring_aio/articles/990336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990336)
 <!-- BLOG-POST-LIST:END -->
 
 ---
