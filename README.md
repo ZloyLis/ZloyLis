@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что нам стоит на КМП построить?](https://habr.com/ru/articles/989286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989286)
 - [Бесплатный AI-стек консультанта: Qwen + DeepSeek + точечный Perplexity](https://habr.com/ru/articles/989752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989752)
 - [Битва за миллисекунды: Как мы ускорили банковское приложение РСХБ в 60+ раз](https://habr.com/ru/companies/rshb/articles/990094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990094)
 - [Под капотом ACPI. Современное управление питанием](https://habr.com/ru/companies/icl_group/articles/990088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990088)
 - [MS Excel+LLM structured output как инструмент нормализации корпоративного справочника номенклатуры и смежные вопросы](https://habr.com/ru/articles/989576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989576)
-- [Как превратить университетский SQL в оружие для собеседований в Data Science](https://habr.com/ru/articles/990066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990066)
 <!-- BLOG-POST-LIST:END -->
 
 ---
