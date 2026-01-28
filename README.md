@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Битва за миллисекунды: Как мы ускорили банковское приложение РСХБ в 60+ раз](https://habr.com/ru/companies/rshb/articles/990094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990094)
+- [Под капотом ACPI. Современное управление питанием](https://habr.com/ru/companies/icl_group/articles/990088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990088)
+- [MS Excel+LLM structured output как инструмент нормализации корпоративного справочника номенклатуры и смежные вопросы](https://habr.com/ru/articles/989576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989576)
 - [Как превратить университетский SQL в оружие для собеседований в Data Science](https://habr.com/ru/articles/990066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990066)
 - [[Перевод] Пишем свой git: минимальная реализация на Rust](https://habr.com/ru/companies/cloud4y/articles/990052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990052)
-- [[Перевод] 3 ошибки при работе со Spring Boot, которые просачиваются в прод &lpar;и как их исправить&rpar;](https://habr.com/ru/articles/990018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990018)
-- [Тестирование Telegram-ботов в CI/CD: токены не нужны](https://habr.com/ru/articles/990010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990010)
-- [Frontend Status: свежий дайджест фронтенда и AI — 28.01.2026](https://habr.com/ru/articles/989578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989578)
 <!-- BLOG-POST-LIST:END -->
 
 ---
