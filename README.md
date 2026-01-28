@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Обход ограничений сети на рабочем ПК](https://habr.com/ru/articles/989762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989762)
-- [Оформление листинга и превью товаров в интернет-магазине: 7 ключевых правил UX](https://habr.com/ru/articles/989866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989866)
-- [Почему PWA на iOS всё ещё не торт — и что на самом деле разрешает Apple](https://habr.com/ru/articles/989862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989862)
-- [Возрождение ГОСТ Р 57580.1: практический гайд по внедрению](https://habr.com/ru/companies/aktiv-company/articles/989634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989634)
-- [Полезные агенты на платформе MWS GPT](https://habr.com/ru/companies/ru_mts/articles/987718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987718)
+- [Интеграция coding-агента с MCP-сервером Idea](https://habr.com/ru/articles/989716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989716)
+- [Роскошный архитектурный минимум для аналитика: понимать систему в целом и не бояться «богов»-архитекторов](https://habr.com/ru/companies/alfa/articles/987546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987546)
+- [QA и SRE – две стороны одной медали](https://habr.com/ru/companies/tbank/articles/989606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989606)
+- [Новые финансовые бенчмарки для LLM. Лаборатории ИИ «Финама»](https://habr.com/ru/companies/finam_broker/articles/989842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989842)
+- [Что такое Portainer и чем он может быть полезен сисадмину](https://habr.com/ru/companies/ruvds/articles/988878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988878)
 <!-- BLOG-POST-LIST:END -->
 
 ---
