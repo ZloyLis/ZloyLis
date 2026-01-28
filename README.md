@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Интеграция coding-агента с MCP-сервером Idea](https://habr.com/ru/articles/989716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989716)
-- [Роскошный архитектурный минимум для аналитика: понимать систему в целом и не бояться «богов»-архитекторов](https://habr.com/ru/companies/alfa/articles/987546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987546)
-- [QA и SRE – две стороны одной медали](https://habr.com/ru/companies/tbank/articles/989606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989606)
-- [Новые финансовые бенчмарки для LLM. Лаборатории ИИ «Финама»](https://habr.com/ru/companies/finam_broker/articles/989842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989842)
-- [Что такое Portainer и чем он может быть полезен сисадмину](https://habr.com/ru/companies/ruvds/articles/988878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988878)
+- [Как пользователи с несколькими профилями влияют на A/B-тесты](https://habr.com/ru/companies/avito/articles/989898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989898)
+- [От Фаулера до продакшена: как в небольшой компании выращивают качественный код](https://habr.com/ru/articles/989908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989908)
+- [[Перевод] Что такое «Быть хорошим программистом»?](https://habr.com/ru/companies/nmg/articles/989506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989506)
+- [КМБ для джуна-системного аналитика. Как эффективнее всего вырасти до мидла и сеньора](https://habr.com/ru/companies/it_sense/articles/989944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989944)
+- [[Перевод] Метрики тщеславия &lpar;Vanity Metrics&rpar;: как красивые цифры мешают принимать правильные решения](https://habr.com/ru/articles/989584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989584)
 <!-- BLOG-POST-LIST:END -->
 
 ---
