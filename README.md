@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [System.Threading.Channels: адекватные lock-free очереди для producer/consumer](https://habr.com/ru/companies/otus/articles/988884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988884)
+- [Доступ к Google Store для Huawei](https://habr.com/ru/articles/990634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990634)
 - [Милота, безумие и старики. Почему японский интернет такой странный?](https://habr.com/ru/articles/990600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990600)
 - [Старые и новые проблемы Safari на iOS](https://habr.com/ru/companies/dododev/articles/966804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966804)
 - [Реален ли вайбкодинг без профильных знаний и захватит ли ИИ программистов в ближайшем будущем?](https://habr.com/ru/articles/990584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990584)
-- [[Перевод] Масштабирование PostgreSQL до 800 миллионов пользователей ChatGPT](https://habr.com/ru/articles/990366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990366)
-- [Смартфоны 2026: что изменится в этом году](https://habr.com/ru/companies/mvideo/articles/990576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990576)
 <!-- BLOG-POST-LIST:END -->
 
 ---
