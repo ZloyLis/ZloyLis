@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Open-Source AI Фитнес-Тренер: 27 MCP-инструментов, 3 провайдера и граф упражнений](https://habr.com/ru/articles/990694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990694)
+- [[Перевод] Больше чем Proxy: Istio вместо классического Nginx](https://habr.com/ru/companies/spring_aio/articles/990674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990674)
+- [[Перевод] Как совместить утилиты и рукописный CSS в атомарном подходе?](https://habr.com/ru/articles/990428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990428)
 - [System.Threading.Channels: адекватные lock-free очереди для producer/consumer](https://habr.com/ru/companies/otus/articles/988884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988884)
 - [Доступ к Google Store для Huawei](https://habr.com/ru/articles/990634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990634)
-- [Милота, безумие и старики. Почему японский интернет такой странный?](https://habr.com/ru/articles/990600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990600)
-- [Старые и новые проблемы Safari на iOS](https://habr.com/ru/companies/dododev/articles/966804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966804)
-- [Реально ли вайбкодингом без профильных знаний написать простую игру и захватит ли ИИ программистов в ближайшем будущем?](https://habr.com/ru/articles/990584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990584)
 <!-- BLOG-POST-LIST:END -->
 
 ---
