@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Реален ли вайбкодинг без профильных знаний и захватит ли ИИ программистов в ближайшем будущем?](https://habr.com/ru/articles/990584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990584)
+- [[Перевод] Масштабирование PostgreSQL до 800 миллионов пользователей ChatGPT](https://habr.com/ru/articles/990366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990366)
+- [Смартфоны 2026: что изменится в этом году](https://habr.com/ru/companies/mvideo/articles/990576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990576)
+- [FlutterPulse: Январский дайджест 2026 — новости, переводы и обновления месяца](https://habr.com/ru/articles/990564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990564)
 - [Микросервисы поверх Битрикса через REST API и вебхуки](https://habr.com/ru/companies/otus/articles/988084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988084)
-- [Дизайн за 5 минут. Дайджест января 2026](https://habr.com/ru/companies/garage8/articles/990560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990560)
-- [Как AI VK построили единую платформу для рекомендаций, поиска и рекламы в продуктах с многомиллионной аудиторией](https://habr.com/ru/companies/vk/articles/990514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990514)
-- [Как я подружил Триколор с Алисой: итоги](https://habr.com/ru/articles/990394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990394)
-- [Новые Организации в стиле мета-модерна, или как мы стали нейро-артелью](https://habr.com/ru/articles/990472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990472)
 <!-- BLOG-POST-LIST:END -->
 
 ---
