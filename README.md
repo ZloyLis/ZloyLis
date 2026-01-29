@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Эволюция ПО в разработке игр на практике: 1981 — IBM PC, Софт и игра](https://habr.com/ru/articles/990442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990442)
+- [Книга «Go: разработка приложений в микросервисной архитектуре с нуля»](https://habr.com/ru/companies/bhv_publishing/articles/987722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987722)
 - [# Vibe Coding под прицелом: Claude Opus 4.5 против китайского GLM-4.7 в бою за транскрибацию GigaAM](https://habr.com/ru/articles/990414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990414)
 - [Когда нейросеть решит то, что не решил никто?](https://habr.com/ru/companies/bar/articles/990406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990406)
 - [Реальный смысл работы: почему одни программисты выгорают, а другие нет](https://habr.com/ru/articles/990404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990404)
-- [Как один индекс на created_at сократил время ответа API с 12 секунд до 40 мс](https://habr.com/ru/articles/990398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990398)
-- [Работа с несбалансированными данными: SMOTE мёртв, что работает](https://habr.com/ru/companies/otus/articles/989652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989652)
 <!-- BLOG-POST-LIST:END -->
 
 ---
