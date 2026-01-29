@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Микросервисы поверх Битрикса через REST API и вебхуки](https://habr.com/ru/companies/otus/articles/988084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988084)
+- [Дизайн за 5 минут. Дайджест января 2026](https://habr.com/ru/companies/garage8/articles/990560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990560)
+- [Как AI VK построили единую платформу для рекомендаций, поиска и рекламы в продуктах с многомиллионной аудиторией](https://habr.com/ru/companies/vk/articles/990514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990514)
+- [Как я подружил Триколор с Алисой: итоги](https://habr.com/ru/articles/990394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990394)
 - [Новые Организации в стиле мета-модерна, или как мы стали нейро-артелью](https://habr.com/ru/articles/990472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990472)
-- [Как варить внутренние инструменты быстро, красиво и эффективно](https://habr.com/ru/companies/yandex/articles/988180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988180)
-- [Эволюция ПО в разработке игр на практике: 1981 — IBM PC, Софт и игра](https://habr.com/ru/articles/990442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990442)
-- [Книга «Go: разработка приложений в микросервисной архитектуре с нуля»](https://habr.com/ru/companies/bhv_publishing/articles/987722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987722)
-- [# Vibe Coding под прицелом: Claude Opus 4.5 против китайского GLM-4.7 в бою за транскрибацию GigaAM](https://habr.com/ru/articles/990414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990414)
 <!-- BLOG-POST-LIST:END -->
 
 ---
