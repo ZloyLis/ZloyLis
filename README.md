@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Open-Source AI Фитнес-Тренер: 27 MCP-инструментов, 3 провайдера и граф упражнений](https://habr.com/ru/articles/990694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990694)
-- [[Перевод] Больше чем Proxy: Istio вместо классического Nginx](https://habr.com/ru/companies/spring_aio/articles/990674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990674)
-- [[Перевод] Как совместить утилиты и рукописный CSS в атомарном подходе?](https://habr.com/ru/articles/990428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990428)
-- [System.Threading.Channels: адекватные lock-free очереди для producer/consumer](https://habr.com/ru/companies/otus/articles/988884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988884)
-- [Доступ к Google Store для Huawei](https://habr.com/ru/articles/990634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990634)
+- [Вайбкодинг в 2026: вы всё проспали &lpar;или почему «в прод нельзя» — это уже стыдно&rpar;](https://habr.com/ru/articles/990736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990736)
+- [Прогноз AI на 2026 год: давление инфраструктуры и рост агентных систем](https://habr.com/ru/companies/redmadrobot/articles/990698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990698)
+- [Идентификация звёзд и при чём тут сингулярное разложение](https://habr.com/ru/articles/990722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990722)
+- [Чистим аудиокниги от шума нейросетями](https://habr.com/ru/articles/986738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986738)
+- [Как легко и просто создавать Skills с помощью Agent Skills в Manus](https://habr.com/ru/articles/990550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990550)
 <!-- BLOG-POST-LIST:END -->
 
 ---
