@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дескрипторы Python: механизм, на котором держится половина крутости языка](https://habr.com/ru/companies/otus/articles/988864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988864)
+- [Запилил кросс-фреймворк Markdown/MDX парсер, чтобы не мучаться с контентом](https://habr.com/ru/articles/990754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990754)
 - [Вайбкодинг в 2026: вы всё проспали &lpar;или почему «в прод нельзя» — это уже стыдно&rpar;](https://habr.com/ru/articles/990736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990736)
 - [Прогноз AI на 2026 год: давление инфраструктуры и рост агентных систем](https://habr.com/ru/companies/redmadrobot/articles/990698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990698)
 - [Идентификация звёзд и при чём тут сингулярное разложение](https://habr.com/ru/articles/990722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990722)
-- [Чистим аудиокниги от шума нейросетями](https://habr.com/ru/articles/986738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986738)
-- [Как легко и просто создавать Skills с помощью Agent Skills в Manus](https://habr.com/ru/articles/990550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990550)
 <!-- BLOG-POST-LIST:END -->
 
 ---
