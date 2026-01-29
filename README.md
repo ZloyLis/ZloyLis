@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Новые Организации в стиле мета-модерна, или как мы стали нейро-артелью](https://habr.com/ru/articles/990472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990472)
+- [Как варить внутренние инструменты быстро, красиво и эффективно](https://habr.com/ru/companies/yandex/articles/988180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988180)
 - [Эволюция ПО в разработке игр на практике: 1981 — IBM PC, Софт и игра](https://habr.com/ru/articles/990442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990442)
 - [Книга «Go: разработка приложений в микросервисной архитектуре с нуля»](https://habr.com/ru/companies/bhv_publishing/articles/987722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987722)
 - [# Vibe Coding под прицелом: Claude Opus 4.5 против китайского GLM-4.7 в бою за транскрибацию GigaAM](https://habr.com/ru/articles/990414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990414)
-- [Когда нейросеть решит то, что не решил никто?](https://habr.com/ru/companies/bar/articles/990406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990406)
-- [Реальный смысл работы: почему одни программисты выгорают, а другие нет](https://habr.com/ru/articles/990404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990404)
 <!-- BLOG-POST-LIST:END -->
 
 ---
