@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Тайна уникального телефона, который разработали в России — и он погиб в забвении… [Длиннопост, про железо]](https://habr.com/ru/articles/990820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990820)
 - [Нескучное программирование.Важны ли компилятору имена](https://habr.com/ru/articles/990816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990816)
 - [Kawai-Focus 2.2: Python-бинарник в Tauri — проблемы и альтернативы](https://habr.com/ru/articles/990784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990784)
 - [Дескрипторы Python: механизм, на котором держится половина крутости языка](https://habr.com/ru/companies/otus/articles/988864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988864)
 - [Запилил кросс-фреймворк Markdown/MDX парсер, чтобы не мучаться с контентом](https://habr.com/ru/articles/990754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990754)
-- [Вайбкодинг в 2026: вы всё проспали &lpar;или почему «в прод нельзя» — это уже стыдно&rpar;](https://habr.com/ru/articles/990736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990736)
 <!-- BLOG-POST-LIST:END -->
 
 ---
