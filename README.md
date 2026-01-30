@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Web3 — Разрабатываем магазин без базы данных](https://habr.com/ru/articles/984698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984698)
+- [[Перевод] Redis — это больше, чем просто кэш](https://habr.com/ru/companies/spring_aio/articles/991088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991088)
+- [Рвём call-graph или «Как я самому себе реверс усложнял»](https://habr.com/ru/articles/980816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980816)
 - [Как мы реализовали мониторинг на автопилоте: наш стек с VictoriaMetrics](https://habr.com/ru/companies/rshb/articles/991052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991052)
 - [Наглядная математика с Python и Minecraft](https://habr.com/ru/articles/991054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991054)
-- [[Перевод] Почему senior-разработчики молчат о проблемах плохих проектов?](https://habr.com/ru/companies/ruvds/articles/989876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989876)
-- [contextvars: почему thread-local сломался в asyncio и как это починили](https://habr.com/ru/companies/otus/articles/988882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988882)
-- [Кладбище пет-проектов: типичные ошибки разработчиков на пути к собственному продукту](https://habr.com/ru/articles/991010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991010)
 <!-- BLOG-POST-LIST:END -->
 
 ---
