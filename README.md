@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Вероятности и .NET: сравниваем библиотечные решения для оценки спортивных событий и не только](https://habr.com/ru/articles/990002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990002)
 - [Фронтенд 2026: что умерло, что выжило и что взлетело неожиданно](https://habr.com/ru/companies/alfa/articles/990118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990118)
 - [Как математика теории струн объяснила форму деревьев, нейронов и сосудов](https://habr.com/ru/articles/990812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990812)
 - [Полгода без ручного кода: как я стал AI-диспетчером и научился большему, чем за предыдущие два года](https://habr.com/ru/articles/990796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990796)
 - [[Перевод] Энди Хант «Говори, а не спрашивай»](https://habr.com/ru/articles/990790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990790)
-- [Apple проигрывает ИИ-гонку. Вот почему](https://habr.com/ru/articles/990524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990524)
 <!-- BLOG-POST-LIST:END -->
 
 ---
