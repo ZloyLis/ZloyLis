@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Охота на ошибки в компиляторах: новый подход с использованием искусственного интеллекта](https://habr.com/ru/articles/990976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990976)
-- [Базис защиты: пять ключевых принципов для обеспечения сетевой безопасности](https://habr.com/ru/articles/990526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990526)
-- [Какие выводы сделал Роберт Мартин, поработав с AI Coding?](https://habr.com/ru/articles/990934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990934)
-- [Вебхуки для бизнеса: как мы в делали пуши о движении денег на счетах](https://habr.com/ru/companies/tochka/articles/989038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989038)
-- [Как AI убъет вашу базу: безопасность вайбкодинга в 2026](https://habr.com/ru/articles/990910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990910)
+- [contextvars: почему thread-local сломался в asyncio и как это починили](https://habr.com/ru/companies/otus/articles/988882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988882)
+- [Кладбище пет-проектов: типичные ошибки разработчиков на пути к собственному продукту](https://habr.com/ru/articles/991010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991010)
+- [SaaS для IT-стартаперов или AI-архитектор на минималках](https://habr.com/ru/articles/989746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989746)
+- [DOM-дерево — как не запутаться в ветвях объектной модели документа](https://habr.com/ru/companies/selectel/articles/964568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964568)
+- [Паттерн Memento в Android: полный разбор сохранения состояния](https://habr.com/ru/articles/990568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990568)
 <!-- BLOG-POST-LIST:END -->
 
 ---
