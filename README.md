@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сохранение позиции прокрутки и состояния курсора при переходах по навигации в iOS](https://habr.com/ru/articles/991164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991164)
+- [Три модели многопоточности: Event Loop, Platform Threads и Virtual Threads](https://habr.com/ru/articles/991162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991162)
 - [Сегодня я для себя открыл: Project Loom](https://habr.com/ru/articles/990356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990356)
 - [Делаем приложение на Расте с GUI нестандартным способом](https://habr.com/ru/articles/991124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991124)
 - [Как прекратить кражи гусей из магазина игрушек с помощью антифрода: рассказывает аналитик Авито](https://habr.com/ru/companies/avito/articles/990990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990990)
-- [Web3 — Разрабатываем магазин без базы данных](https://habr.com/ru/articles/984698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984698)
-- [[Перевод] Redis — это больше, чем просто кэш](https://habr.com/ru/companies/spring_aio/articles/991088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991088)
 <!-- BLOG-POST-LIST:END -->
 
 ---
