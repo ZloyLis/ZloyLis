@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Главные изменения в JavaScript в 2026 году](https://habr.com/ru/companies/first/articles/990840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990840)
-- [Мысли вслух. Протоколы и механизмы синхронизации транзакций в распределённом вычислительном кластере СУБД](https://habr.com/ru/companies/softpoint/articles/990872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990872)
-- [Наш опыт формирования шаблона фоновых сервисов на базе .NET](https://habr.com/ru/companies/alfastrah/articles/990806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990806)
-- [Байки с завода: объявляем сезон Heavy Digital на Хабре](https://habr.com/ru/specials/989170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989170)
-- [Вероятности и .NET: сравниваем библиотечные решения для оценки спортивных событий и не только](https://habr.com/ru/articles/990002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990002)
+- [Как AI убъет вашу базу: безопасность вайбкодинга в 2026](https://habr.com/ru/articles/990910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990910)
+- [Почему универ не готовит программистов](https://habr.com/ru/articles/990892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990892)
+- [Заметки на полях: Изолируем Lua окружение в C++ приложении. Часть 2](https://habr.com/ru/articles/987990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987990)
+- [Kotlin и Arrow: функциональное программирование с Either, Validated и эффектами](https://habr.com/ru/companies/otus/articles/989658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989658)
+- [Главные изменения JavaScript в 2026 году](https://habr.com/ru/companies/first/articles/990840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990840)
 <!-- BLOG-POST-LIST:END -->
 
 ---
