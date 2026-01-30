@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Охота на ошибки в компиляторах: новый подход с использованием искусственного интеллекта](https://habr.com/ru/articles/990976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990976)
 - [Базис защиты: пять ключевых принципов для обеспечения сетевой безопасности](https://habr.com/ru/articles/990526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990526)
 - [Какие выводы сделал Роберт Мартин, поработав с AI Coding?](https://habr.com/ru/articles/990934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990934)
 - [Вебхуки для бизнеса: как мы в делали пуши о движении денег на счетах](https://habr.com/ru/companies/tochka/articles/989038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989038)
 - [Как AI убъет вашу базу: безопасность вайбкодинга в 2026](https://habr.com/ru/articles/990910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990910)
-- [Почему универ не готовит программистов](https://habr.com/ru/articles/990892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990892)
 <!-- BLOG-POST-LIST:END -->
 
 ---
