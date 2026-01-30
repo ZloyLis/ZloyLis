@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Главные изменения в JavaScript в 2026 году](https://habr.com/ru/companies/first/articles/990840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990840)
+- [Мысли вслух. Протоколы и механизмы синхронизации транзакций в распределённом вычислительном кластере СУБД](https://habr.com/ru/companies/softpoint/articles/990872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990872)
+- [Наш опыт формирования шаблона фоновых сервисов на базе .NET](https://habr.com/ru/companies/alfastrah/articles/990806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990806)
+- [Байки с завода: объявляем сезон Heavy Digital на Хабре](https://habr.com/ru/specials/989170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989170)
 - [Вероятности и .NET: сравниваем библиотечные решения для оценки спортивных событий и не только](https://habr.com/ru/articles/990002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990002)
-- [Фронтенд 2026: что умерло, что выжило и что взлетело неожиданно](https://habr.com/ru/companies/alfa/articles/990118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990118)
-- [Как математика теории струн объяснила форму деревьев, нейронов и сосудов](https://habr.com/ru/articles/990812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990812)
-- [Полгода без ручного кода: как я стал AI-диспетчером и научился большему, чем за предыдущие два года](https://habr.com/ru/articles/990796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990796)
-- [[Перевод] Энди Хант «Говори, а не спрашивай»](https://habr.com/ru/articles/990790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990790)
 <!-- BLOG-POST-LIST:END -->
 
 ---
