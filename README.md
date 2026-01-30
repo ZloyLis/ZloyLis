@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы реализовали мониторинг на автопилоте: наш стек с VictoriaMetrics](https://habr.com/ru/companies/rshb/articles/991052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991052)
+- [Наглядная математика с Python и Minecraft](https://habr.com/ru/articles/991054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991054)
+- [[Перевод] Почему senior-разработчики молчат о проблемах плохих проектов?](https://habr.com/ru/companies/ruvds/articles/989876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989876)
 - [contextvars: почему thread-local сломался в asyncio и как это починили](https://habr.com/ru/companies/otus/articles/988882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988882)
 - [Кладбище пет-проектов: типичные ошибки разработчиков на пути к собственному продукту](https://habr.com/ru/articles/991010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991010)
-- [SaaS для IT-стартаперов или AI-архитектор на минималках](https://habr.com/ru/articles/989746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989746)
-- [DOM-дерево — как не запутаться в ветвях объектной модели документа](https://habr.com/ru/companies/selectel/articles/964568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964568)
-- [Паттерн Memento в Android: полный разбор сохранения состояния](https://habr.com/ru/articles/990568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990568)
 <!-- BLOG-POST-LIST:END -->
 
 ---
