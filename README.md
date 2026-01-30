@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Базис защиты: пять ключевых принципов для обеспечения сетевой безопасности](https://habr.com/ru/articles/990526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990526)
+- [Какие выводы сделал Роберт Мартин, поработав с AI Coding?](https://habr.com/ru/articles/990934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990934)
+- [Вебхуки для бизнеса: как мы в делали пуши о движении денег на счетах](https://habr.com/ru/companies/tochka/articles/989038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989038)
 - [Как AI убъет вашу базу: безопасность вайбкодинга в 2026](https://habr.com/ru/articles/990910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990910)
 - [Почему универ не готовит программистов](https://habr.com/ru/articles/990892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990892)
-- [Заметки на полях: Изолируем Lua окружение в C++ приложении. Часть 2](https://habr.com/ru/articles/987990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987990)
-- [Kotlin и Arrow: функциональное программирование с Either, Validated и эффектами](https://habr.com/ru/companies/otus/articles/989658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989658)
-- [Главные изменения JavaScript в 2026 году](https://habr.com/ru/companies/first/articles/990840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990840)
 <!-- BLOG-POST-LIST:END -->
 
 ---
