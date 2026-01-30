@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сегодня я для себя открыл: Project Loom](https://habr.com/ru/articles/990356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990356)
+- [Делаем приложение на Расте с GUI нестандартным способом](https://habr.com/ru/articles/991124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991124)
 - [Как прекратить кражи гусей из магазина игрушек с помощью антифрода: рассказывает аналитик Авито](https://habr.com/ru/companies/avito/articles/990990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990990)
 - [Web3 — Разрабатываем магазин без базы данных](https://habr.com/ru/articles/984698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984698)
 - [[Перевод] Redis — это больше, чем просто кэш](https://habr.com/ru/companies/spring_aio/articles/991088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991088)
-- [Рвём call-graph или «Как я самому себе реверс усложнял»](https://habr.com/ru/articles/980816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980816)
-- [Как мы реализовали мониторинг на автопилоте: наш стек с VictoriaMetrics](https://habr.com/ru/companies/rshb/articles/991052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991052)
 <!-- BLOG-POST-LIST:END -->
 
 ---
