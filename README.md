@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [librats: Выпуск версии 0.7.x &lpar;новая библиотека для распределённых P2P-приложений&rpar;. Так же релиз rats-search 2.0](https://habr.com/ru/articles/991190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991190)
 - [Документация или код: как перестать враждовать и начать жить в условиях договора](https://habr.com/ru/articles/991188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991188)
 - [Небольшой подарок моддерскому коммьюнити от меня](https://habr.com/ru/articles/991180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991180)
 - [Сохранение позиции прокрутки и состояния курсора при переходах по навигации в iOS](https://habr.com/ru/articles/991164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991164)
 - [Три модели многопоточности: Event Loop, Platform Threads и Virtual Threads](https://habr.com/ru/articles/991162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991162)
-- [Сегодня я для себя открыл: Project Loom](https://habr.com/ru/articles/990356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990356)
 <!-- BLOG-POST-LIST:END -->
 
 ---
