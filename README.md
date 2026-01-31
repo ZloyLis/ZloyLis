@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [CDC своими руками: Kafka + Debezium в домашней лаборатории](https://habr.com/ru/articles/990902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990902)
+- [Moltbook: архитектурный разбор социального поведения LLM-агентов](https://habr.com/ru/articles/991284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991284)
 - [Universal Ambient Light: Как я создал современное приложение для Ambilight под Android](https://habr.com/ru/articles/991210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991210)
 - [Как я делала pet-дашборд для портфолио: кейс аналитики путешествий](https://habr.com/ru/articles/991176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991176)
 - [MVVM-курильщика: почему ваша ViewModel — это помойка на 2000 строк, и как это исправить](https://habr.com/ru/articles/991252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991252)
-- [Почему у треугольника три стороны?](https://habr.com/ru/articles/991250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991250)
-- [NexPhone — смартфон с тремя операционками. Что это за чудо?](https://habr.com/ru/companies/selectel/articles/990826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990826)
 <!-- BLOG-POST-LIST:END -->
 
 ---
