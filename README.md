@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Universal Ambient Light: Как я создал современное приложение для Ambilight под Android](https://habr.com/ru/articles/991210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991210)
+- [Как я делала pet-дашборд для портфолио: кейс аналитики путешествий](https://habr.com/ru/articles/991176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991176)
+- [MVVM-курильщика: почему ваша ViewModel — это помойка на 2000 строк, и как это исправить](https://habr.com/ru/articles/991252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991252)
+- [Почему у треугольника три стороны?](https://habr.com/ru/articles/991250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991250)
 - [NexPhone — смартфон с тремя операционками. Что это за чудо?](https://habr.com/ru/companies/selectel/articles/990826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990826)
-- [Как я решил войти в Android Developing через вайбкодинг](https://habr.com/ru/articles/990408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990408)
-- [librats: Выпуск версии 0.7.x &lpar;новая библиотека для распределённых P2P-приложений&rpar;. Так же релиз rats-search 2.0](https://habr.com/ru/articles/991190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991190)
-- [Документация или код: как перестать враждовать и начать жить в условиях договора](https://habr.com/ru/articles/991188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991188)
-- [Небольшой подарок моддерскому коммьюнити от меня](https://habr.com/ru/articles/991180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991180)
 <!-- BLOG-POST-LIST:END -->
 
 ---
