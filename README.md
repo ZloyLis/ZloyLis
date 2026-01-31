@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Синтезатор на PSP с подключением MIDI клавиатуры](https://habr.com/ru/articles/991224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991224)
+- [Kafka для начинающих: обработка ошибок и Dead Letter Queues](https://habr.com/ru/articles/989608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989608)
+- [Вычислительная фотография как предчувствие: от фейковой Луны до смерти реальности](https://habr.com/ru/articles/991316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991316)
 - [CDC своими руками: Kafka + Debezium в домашней лаборатории](https://habr.com/ru/articles/990902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990902)
 - [Moltbook: архитектурный разбор социального поведения LLM-агентов](https://habr.com/ru/articles/991284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991284)
-- [Universal Ambient Light: Как я создал современное приложение для Ambilight под Android](https://habr.com/ru/articles/991210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991210)
-- [Как я делала pet-дашборд для портфолио: кейс аналитики путешествий](https://habr.com/ru/articles/991176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991176)
-- [MVVM-курильщика: почему ваша ViewModel — это помойка на 2000 строк, и как это исправить](https://habr.com/ru/articles/991252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991252)
 <!-- BLOG-POST-LIST:END -->
 
 ---
