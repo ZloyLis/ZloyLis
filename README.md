@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Некоторые базовые моменты перехода на современный Angular](https://habr.com/ru/articles/991346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991346)
+- [Конструкт онтологий невозможного: как проектировать технологии, которых ещё не существует](https://habr.com/ru/articles/991374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991374)
+- [[Перевод] Я создал вдвое более быстрый лексер, но обнаружил, что узким местом был ввод-вывод](https://habr.com/ru/articles/989588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989588)
 - [Умные ставки на большой рост](https://habr.com/ru/articles/991242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991242)
 - [Паттерны кеширования: от Cache-Aside до Write-Behind. Как выбрать стратегию для своего сервиса](https://habr.com/ru/articles/991332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991332)
-- [Синтезатор на PSP с подключением MIDI клавиатуры](https://habr.com/ru/articles/991224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991224)
-- [Kafka для начинающих: обработка ошибок и Dead Letter Queues](https://habr.com/ru/articles/989608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989608)
-- [Вычислительная фотография как предчувствие: от фейковой Луны до смерти реальности](https://habr.com/ru/articles/991316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991316)
 <!-- BLOG-POST-LIST:END -->
 
 ---
