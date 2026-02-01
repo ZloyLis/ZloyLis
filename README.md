@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Код в машине. Android Automotive: С чего начать и куда жать](https://habr.com/ru/articles/991448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991448)
+- [Идентификатор пакета. Боль кроссплатформы](https://habr.com/ru/articles/991442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991442)
+- [Инференс нейросетевых моделей для табличных данных с помощью ONNX Runtime на C++](https://habr.com/ru/articles/991430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991430)
 - [Пишем историю игрушки:  восстанавливаем исходный код игры «Поле Чудес» 1992 года для MS-DOS](https://habr.com/ru/articles/991424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991424)
 - [Дайджест технических новостей, переводов и лонгридов инфослужбы Хабра за январь 2026 года](https://habr.com/ru/articles/986442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986442)
-- [Создаем Telegram-бота для отслеживания погоды за 5 минут с помощью Nyagram &lpar;а не очередного PizzaBot&rpar;](https://habr.com/ru/articles/991414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991414)
-- [Как я создал свой сканер и пришёл к выплатам на багбаунти](https://habr.com/ru/articles/991392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991392)
-- [Некоторые базовые моменты перехода на современный Angular](https://habr.com/ru/articles/991346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991346)
 <!-- BLOG-POST-LIST:END -->
 
 ---
