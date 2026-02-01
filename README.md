@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Интроспекция в Python на реальных примерах: как код узнает сам о себе](https://habr.com/ru/articles/991498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991498)
 - [Cложные запросы через паттерн Repository. Large Repository](https://habr.com/ru/articles/991494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991494)
 - [Продуктовая колористика: основы работы с цветом](https://habr.com/ru/articles/991464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991464)
 - [[Перевод] Как я устроился на копеечную ставку, чтобы решить нерешаемую задачу](https://habr.com/ru/companies/ruvds/articles/990594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990594)
 - [Код в машине. Android Automotive: С чего начать и куда жать](https://habr.com/ru/articles/991448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991448)
-- [Идентификатор пакета. Боль кроссплатформы](https://habr.com/ru/articles/991442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991442)
 <!-- BLOG-POST-LIST:END -->
 
 ---
