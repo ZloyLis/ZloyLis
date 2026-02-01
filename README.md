@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создаем Telegram-бота для отслеживания погоды за 5 минут с помощью Nyagram &lpar;а не очередного PizzaBot&rpar;](https://habr.com/ru/articles/991414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991414)
 - [Как я создал свой сканер и пришёл к выплатам на багбаунти](https://habr.com/ru/articles/991392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991392)
 - [Некоторые базовые моменты перехода на современный Angular](https://habr.com/ru/articles/991346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991346)
 - [Конструкт онтологий невозможного: как проектировать технологии, которых ещё не существует](https://habr.com/ru/articles/991374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991374)
 - [[Перевод] Я создал вдвое более быстрый лексер, но обнаружил, что узким местом был ввод-вывод](https://habr.com/ru/articles/989588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989588)
-- [Умные ставки на большой рост](https://habr.com/ru/articles/991242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991242)
 <!-- BLOG-POST-LIST:END -->
 
 ---
