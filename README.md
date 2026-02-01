@@ -37,7 +37,7 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [Монады на Java](https://habr.com/ru/articles/981318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981318)
 - [Последовательный анализ в AB-тестировании: ускоряем принятие решений с помощью mSPRT](https://habr.com/ru/articles/991582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991582)
-- [Он умер… и его даже ни разу не включали :&lpar;](https://habr.com/ru/articles/991578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991578)
+- [Он умер… и его даже ни разу не включали :-&lpar;](https://habr.com/ru/articles/991578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991578)
 - [От учебной проблемы до 1000 пользователей: как я писал интерактивный учебник по RxJS](https://habr.com/ru/articles/991572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991572)
 - [MagnaVerse. Гесферочисленность — от ошибки в озвучке Half-Life 2 к квантовому рендерингу](https://habr.com/ru/articles/991538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991538)
 <!-- BLOG-POST-LIST:END -->
