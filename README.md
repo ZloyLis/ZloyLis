@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Байки математика: как русские хакеры Трампу помогали](https://habr.com/ru/articles/991796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991796)
+- [[Перевод] Миграция Spring Boot 3.x → 4.0: 5 реальных проблем &lpar;и как их решить&rpar;](https://habr.com/ru/articles/991790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991790)
+- [Как работать с Kubernetes: ищем скрытые статьи затрат в облаке и пошагово все оптимизируем, чтобы сэкономить](https://habr.com/ru/companies/finops_ru/articles/991770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991770)
 - [Как мы «усложнили жизнь» автотестам и повысили качество тестирования](https://habr.com/ru/articles/991720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991720)
 - [GraphRAG: 8 способов укротить расширенный контекст у LLM](https://habr.com/ru/companies/oleg-bunin/articles/984340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984340)
-- [[Перевод] О ключах идемпотентности](https://habr.com/ru/companies/wunderfund/articles/988830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988830)
-- [Обзор 8 приложений To-Do List: как выбрать свой список дел](https://habr.com/ru/companies/leadertask/articles/991040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991040)
-- [Postman удобен ровно до тех пор, пока не слил секреты твоего прода](https://habr.com/ru/companies/haulmont/articles/990732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990732)
 <!-- BLOG-POST-LIST:END -->
 
 ---
