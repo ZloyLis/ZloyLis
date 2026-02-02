@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как и зачем писать свой DatabaseDialect для Kafka JDBC Sink](https://habr.com/ru/articles/991982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991982)
 - [Разработка приложения на Spring Boot, Java, База данных, профиль пользователя. Часть 1](https://habr.com/ru/articles/991974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991974)
 - [[Перевод] Управление ресурсами процессов с помощью контрольных групп Linux](https://habr.com/ru/companies/otus/articles/991970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991970)
 - [20 лет объяснял программистам, что делать. А теперь попробовал сам. Часть вторая](https://habr.com/ru/articles/991962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991962)
 - [Scala Digest. Выпуск 37](https://habr.com/ru/companies/tbank/articles/991840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991840)
-- [ИИ ускоряет разработку, но делает программистов тупее](https://habr.com/ru/articles/991920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991920)
 <!-- BLOG-POST-LIST:END -->
 
 ---
