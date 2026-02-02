@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Взламываем 40-летний донгл защиты от копирования](https://habr.com/ru/articles/991824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991824)
+- [Coordinator в iOS: как я перестал бояться кнопки «Назад» и полюбил навигацию](https://habr.com/ru/articles/991812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991812)
+- [Как я пытался сжимать смыслы вместо байтов](https://habr.com/ru/articles/991800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991800)
 - [Байки математика: как русские хакеры Трампу помогали](https://habr.com/ru/articles/991796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991796)
 - [[Перевод] Миграция Spring Boot 3.x → 4.0: 5 реальных проблем &lpar;и как их решить&rpar;](https://habr.com/ru/articles/991790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991790)
-- [Как работать с Kubernetes: ищем скрытые статьи затрат в облаке и пошагово все оптимизируем, чтобы сэкономить](https://habr.com/ru/companies/finops_ru/articles/991770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991770)
-- [Как мы «усложнили жизнь» автотестам и повысили качество тестирования](https://habr.com/ru/articles/991720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991720)
-- [GraphRAG: 8 способов укротить расширенный контекст у LLM](https://habr.com/ru/companies/oleg-bunin/articles/984340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984340)
 <!-- BLOG-POST-LIST:END -->
 
 ---
