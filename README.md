@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Пациент болен: как «продать» рефакторинг лиду и продакту](https://habr.com/ru/companies/dododev/articles/986812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986812)
-- [Работа в декрете: как я совмещаю part-time, проекты и материнство](https://habr.com/ru/articles/991672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991672)
-- [Из 1600 человек только 170 попадут в IT](https://habr.com/ru/articles/991646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991646)
-- [Машинное обучение для работы с текстами: подборка бесплатных курсов и материалов](https://habr.com/ru/companies/yandex_praktikum/articles/986742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986742)
-- [# TuiControl — Современный подход к созданию форм-компонентов](https://habr.com/ru/articles/991650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991650)
+- [Обзор 8 приложений To-Do List: как выбрать свой список дел](https://habr.com/ru/companies/leadertask/articles/991040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991040)
+- [Postman удобен ровно до тех пор, пока не слил секреты твоего прода](https://habr.com/ru/companies/haulmont/articles/990732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990732)
+- [Kotlin + Spring Boot: полный гайд по монолиту на 2026 год](https://habr.com/ru/companies/otus/articles/991716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991716)
+- [Переехали из многоэтажного монстра в уютную субурбию: как мы улучшаем процесс онбординга](https://habr.com/ru/companies/yoomoney/articles/991712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991712)
+- [Антирекурсия. Часть 1](https://habr.com/ru/articles/991708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991708)
 <!-- BLOG-POST-LIST:END -->
 
 ---
