@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Scala Digest. Выпуск 37](https://habr.com/ru/companies/tbank/articles/991840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991840)
+- [ИИ ускоряет разработку, но делает программистов тупее. Исследование Anthropic](https://habr.com/ru/articles/991920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991920)
+- [Питер Штайнбергер. Как работает автор OpenClaw [Clawdbot/Moltbot]](https://habr.com/ru/articles/991630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991630)
+- [Отображение на однолинейной схеме дополнительных элементов в nanoCAD BIM Электро](https://habr.com/ru/companies/nanosoft/articles/991896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991896)
 - [Замыкание в JavaScript — зачем функциям личное пространство](https://habr.com/ru/companies/selectel/articles/967088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=967088)
-- [[Перевод] Взламываем 40-летний донгл защиты от копирования](https://habr.com/ru/articles/991824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991824)
-- [Coordinator в iOS: как я перестал бояться кнопки «Назад» и полюбил навигацию](https://habr.com/ru/articles/991812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991812)
-- [Как я пытался сжимать смыслы вместо байтов](https://habr.com/ru/articles/991800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991800)
-- [Байки математика: как русские хакеры Трампу помогали](https://habr.com/ru/articles/991796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991796)
 <!-- BLOG-POST-LIST:END -->
 
 ---
