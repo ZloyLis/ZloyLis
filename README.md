@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы «усложнили жизнь» автотестам и повысили качество тестирования](https://habr.com/ru/articles/991720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991720)
+- [GraphRAG: 8 способов укротить расширенный контекст у LLM](https://habr.com/ru/companies/oleg-bunin/articles/984340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984340)
+- [[Перевод] О ключах идемпотентности](https://habr.com/ru/companies/wunderfund/articles/988830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988830)
 - [Обзор 8 приложений To-Do List: как выбрать свой список дел](https://habr.com/ru/companies/leadertask/articles/991040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991040)
 - [Postman удобен ровно до тех пор, пока не слил секреты твоего прода](https://habr.com/ru/companies/haulmont/articles/990732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990732)
-- [Kotlin + Spring Boot: полный гайд по монолиту на 2026 год](https://habr.com/ru/companies/otus/articles/991716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991716)
-- [Переехали из многоэтажного монстра в уютную субурбию: как мы улучшаем процесс онбординга](https://habr.com/ru/companies/yoomoney/articles/991712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991712)
-- [Антирекурсия. Часть 1](https://habr.com/ru/articles/991708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991708)
 <!-- BLOG-POST-LIST:END -->
 
 ---
