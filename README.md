@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [От контроллеров до операторов: моделирование меняет подход к автоматизации на всех уровнях АСУ ТП](https://habr.com/ru/articles/986186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986186)
-- [Монады на Java](https://habr.com/ru/articles/981318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981318)
-- [Последовательный анализ в AB-тестировании: ускоряем принятие решений с помощью mSPRT](https://habr.com/ru/articles/991582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991582)
-- [Он умер… и его даже ни разу не включали :-&lpar;](https://habr.com/ru/articles/991578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991578)
-- [От учебной проблемы до 1000 пользователей: как я писал интерактивный учебник по RxJS](https://habr.com/ru/articles/991572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991572)
+- [Пациент болен: как «продать» рефакторинг лиду и продакту](https://habr.com/ru/companies/dododev/articles/986812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986812)
+- [Работа в декрете: как я совмещаю part-time, проекты и материнство](https://habr.com/ru/articles/991672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991672)
+- [Из 1600 человек только 170 попадут в IT](https://habr.com/ru/articles/991646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991646)
+- [Машинное обучение для работы с текстами: подборка бесплатных курсов и материалов](https://habr.com/ru/companies/yandex_praktikum/articles/986742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986742)
+- [# TuiControl — Современный подход к созданию форм-компонентов](https://habr.com/ru/articles/991650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991650)
 <!-- BLOG-POST-LIST:END -->
 
 ---
