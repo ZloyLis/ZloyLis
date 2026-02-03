@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Про то, как я Storage Access Framework укрощал, да файлы в хранилище приручал](https://habr.com/ru/companies/psb/articles/991676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991676)
+- [Учимся предсказывать конверсию в завершение опроса. Часть 1](https://habr.com/ru/companies/bcs_company/articles/991710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991710)
 - [Год на заводе. Как я устроился в сопровождение на ЕВРАЗ НТМК, перестал бояться и полюбил промышленное айти](https://habr.com/ru/companies/evraz/articles/991928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991928)
 - [State-first архитектура: поиск другого способа управления бизнес-логикой](https://habr.com/ru/articles/992060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992060)
 - [Почему в споре iOS vs Android никто не говорит о главном](https://habr.com/ru/articles/992058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992058)
-- [Под капотом qDebug&lpar;&rpar;: как устроено логирование в Qt и что с этим можно сделать](https://habr.com/ru/articles/992048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992048)
-- [CPython — Сборка мусора изнутри, ч.4](https://habr.com/ru/articles/992026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
