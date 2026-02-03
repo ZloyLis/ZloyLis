@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Метод наименьших квадратов Гаусса с весовыми коэффициентами отклонений](https://habr.com/ru/articles/992372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992372)
+- [«Цифровой профиль онлайн» жив, даже после отключения REST API и полного перехода на СМЭВ](https://habr.com/ru/articles/992352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992352)
+- [Миграция системы Бизнес-планирования с Oracle на PostgreSQL: уложиться в 18 часов с минимальными рисками](https://habr.com/ru/companies/vtb/articles/992298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992298)
 - [[Перевод] $38 триллионов долга, пузырь ИИ и конец доллара. Крах, который сделает Великую депрессию детской забавой рядом](https://habr.com/ru/companies/bothub/articles/992202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992202)
 - [Катастрофоустойчивый Kubernetes: как использовать балансировщик MetalLB с BGP-anycast](https://habr.com/ru/companies/selectel/articles/992092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992092)
-- [Генерируем SQL–запросы на локальных моделях](https://habr.com/ru/companies/ecom_tech/articles/992238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992238)
-- [МБД Tantor XData 2B: практический опыт промышленной эксплуатации ARM-серверов для 1С](https://habr.com/ru/companies/tantor/articles/992288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992288)
-- [Ваша LLM стримит в никуда: разбираемся, как работать с дисконнектами в FastAPI](https://habr.com/ru/companies/tochka/articles/992134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992134)
 <!-- BLOG-POST-LIST:END -->
 
 ---
