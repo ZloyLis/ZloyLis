@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы учим стажеров разработке на Turbo Script, используя системный подход](https://habr.com/ru/companies/lansoft_career/articles/992020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992020)
+- [Уменьшаем зависания и оптимизируем потребление трафика: как команда VK Видео работает с viewport на Android](https://habr.com/ru/companies/vk/articles/981586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981586)
+- [Как не сломать Android-приложение при защите от реверса](https://habr.com/ru/companies/pt/articles/990092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990092)
+- [Интеграционные тесты: когда UI-автотесты проверяют не только кнопки, но и всю систему целиком](https://habr.com/ru/companies/rostelecom/articles/992116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992116)
 - [Финансовый язык для тех, кто пишет код, а не отчёты](https://habr.com/ru/companies/rostelecom/articles/992114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992114)
-- [Мы запихнули LifeOS в Telegram Mini App: как сделать сложный UI на React + Framer Motion и не сойти с ума](https://habr.com/ru/articles/992100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992100)
-- [Поддержка Flutter Impeller для ОС Аврора](https://habr.com/ru/companies/rostelecom/articles/992002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992002)
-- [Архитектор — это не прокачанный аналитик: калибровка перед переходом](https://habr.com/ru/articles/991352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991352)
-- [Кубик Рубика и криптография: механическая шифровальная машина](https://habr.com/ru/articles/991274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991274)
 <!-- BLOG-POST-LIST:END -->
 
 ---
