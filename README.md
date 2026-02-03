@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Интересные HTML и CSS фичи, которые почему-то обходят стороной](https://habr.com/ru/companies/ruvds/articles/991142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991142)
 - [Как мы рендерим видео на клиенте с помощью ffmpeg](https://habr.com/ru/companies/dalee_group/articles/987020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987020)
 - [Как работают ТСПУ и DPI: разбор механизмов фильтрации и блокировок трафика](https://habr.com/ru/articles/992232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992232)
 - [Мой первый DIY-гаджет: Игра на реакцию для двух игроков на ATmega328P &lpar;без Arduino&rpar;](https://habr.com/ru/articles/992230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992230)
 - [Как мы технически построили B2B SaaS-платформу: от требований и UI-прототипов до микросервисной архитектуры](https://habr.com/ru/articles/992198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992198)
-- [Гибридный поиск с QWEN3-Max и RoSBARTa или RAG на графах](https://habr.com/ru/articles/992194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992194)
 <!-- BLOG-POST-LIST:END -->
 
 ---
