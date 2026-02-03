@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Про то, как я Storage Access Framework укрощал, да файлы в хранилище приручал](https://habr.com/ru/companies/psb/articles/991676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991676)
-- [Учимся предсказывать конверсию в завершение опроса. Часть 1](https://habr.com/ru/companies/bcs_company/articles/991710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991710)
-- [Год на заводе. Как я устроился в сопровождение на ЕВРАЗ НТМК, перестал бояться и полюбил промышленное айти](https://habr.com/ru/companies/evraz/articles/991928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991928)
-- [State-first архитектура: поиск другого способа управления бизнес-логикой](https://habr.com/ru/articles/992060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992060)
-- [Почему в споре iOS vs Android никто не говорит о главном](https://habr.com/ru/articles/992058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992058)
+- [Финансовый язык для тех, кто пишет код, а не отчёты](https://habr.com/ru/companies/rostelecom/articles/992114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992114)
+- [Мы запихнули LifeOS в Telegram Mini App: как сделать сложный UI на React + Framer Motion и не сойти с ума](https://habr.com/ru/articles/992100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992100)
+- [Поддержка Flutter Impeller для ОС Аврора](https://habr.com/ru/companies/rostelecom/articles/992002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992002)
+- [Архитектор — это не прокачанный аналитик: калибровка перед переходом](https://habr.com/ru/articles/991352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991352)
+- [Кубик Рубика и криптография: механическая шифровальная машина](https://habr.com/ru/articles/991274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991274)
 <!-- BLOG-POST-LIST:END -->
 
 ---
