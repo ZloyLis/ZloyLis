@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы технически построили B2B SaaS-платформу: от требований и UI-прототипов до микросервисной архитектуры](https://habr.com/ru/articles/992198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992198)
+- [Гибридный поиск с QWEN3-Max и RoSBARTa или RAG на графах](https://habr.com/ru/articles/992194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992194)
 - [Вайбкодинг для 1С: как получить production-ready код с ИИ](https://habr.com/ru/articles/992176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992176)
 - [Для чего нужны параметры объекта? От создания элементов до выпуска документации в nanoCAD BIM Строительство](https://habr.com/ru/companies/nanosoft/articles/992170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992170)
 - [«Искусство визуализации в бизнесе». Разбираем новое издание бестселлера](https://habr.com/ru/companies/bhv_publishing/articles/992166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992166)
-- [Что смогут ИИ-агенты к 2030-му году](https://habr.com/ru/companies/ru_mts/articles/990794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990794)
-- [Как мы учим стажеров разработке на Turbo Script, используя системный подход](https://habr.com/ru/companies/lansoft_career/articles/992020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992020)
 <!-- BLOG-POST-LIST:END -->
 
 ---
