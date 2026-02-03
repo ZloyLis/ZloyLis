@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Паттерн Transactional Outbox на примере двух микросервисов на java](https://habr.com/ru/articles/991934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991934)
 - [PostgreSQL 19: Часть 3 или Коммитфест 2025-11](https://habr.com/ru/companies/postgrespro/articles/992426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992426)
 - [Moltbot: 83 сценария использования open-source AI-агента](https://habr.com/ru/articles/992416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992416)
 - [Моушен-графика для разработчиков: Remotion, Skills, немного стиля и любой ИИ-агент](https://habr.com/ru/articles/992392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992392)
 - [Метод наименьших квадратов Гаусса с весовыми коэффициентами отклонений](https://habr.com/ru/articles/992372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992372)
-- [«Цифровой профиль онлайн» жив, даже после отключения REST API и полного перехода на СМЭВ](https://habr.com/ru/articles/992352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992352)
 <!-- BLOG-POST-LIST:END -->
 
 ---
