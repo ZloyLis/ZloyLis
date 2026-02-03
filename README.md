@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Интересные HTML и CSS фичи, которые почему-то обходят стороной](https://habr.com/ru/companies/ruvds/articles/991142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991142)
-- [Как мы рендерим видео на клиенте с помощью ffmpeg](https://habr.com/ru/companies/dalee_group/articles/987020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987020)
-- [Как работают ТСПУ и DPI: разбор механизмов фильтрации и блокировок трафика](https://habr.com/ru/articles/992232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992232)
-- [Мой первый DIY-гаджет: Игра на реакцию для двух игроков на ATmega328P &lpar;без Arduino&rpar;](https://habr.com/ru/articles/992230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992230)
-- [Как мы технически построили B2B SaaS-платформу: от требований и UI-прототипов до микросервисной архитектуры](https://habr.com/ru/articles/992198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992198)
+- [[Перевод] $38 триллионов долга, пузырь ИИ и конец доллара. Крах, который сделает Великую депрессию детской забавой рядом](https://habr.com/ru/companies/bothub/articles/992202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992202)
+- [Катастрофоустойчивый Kubernetes: как использовать балансировщик MetalLB с BGP-anycast](https://habr.com/ru/companies/selectel/articles/992092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992092)
+- [Генерируем SQL–запросы на локальных моделях](https://habr.com/ru/companies/ecom_tech/articles/992238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992238)
+- [МБД Tantor XData 2B: практический опыт промышленной эксплуатации ARM-серверов для 1С](https://habr.com/ru/companies/tantor/articles/992288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992288)
+- [Ваша LLM стримит в никуда: разбираемся, как работать с дисконнектами в FastAPI](https://habr.com/ru/companies/tochka/articles/992134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992134)
 <!-- BLOG-POST-LIST:END -->
 
 ---
