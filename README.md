@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [AI заменит программистов через год. А пока — не может найти баг в конфиге nginx](https://habr.com/ru/articles/992642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992642)
 - [Организация производства Информационных систем. Часть 4. Предпроектное исследование. 4.1. Предмет автоматизации](https://habr.com/ru/articles/992532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992532)
 - [Почему AI-агенты такие медленные? Часть 1: Путь вайбкодера](https://habr.com/ru/companies/haulmont/articles/992138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992138)
 - [Требования к программному обеспечению](https://habr.com/ru/articles/992602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992602)
 - [Как измерить работу системного аналитика: метрики, которые говорят на языке бизнеса](https://habr.com/ru/articles/992604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992604)
-- [sys.settrace: как устроены дебаггеры, coverage и profilers в Python](https://habr.com/ru/companies/otus/articles/988880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988880)
 <!-- BLOG-POST-LIST:END -->
 
 ---
