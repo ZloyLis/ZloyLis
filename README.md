@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создание библиотеки на C++: Наследование vs Шаблоны. Часть I](https://habr.com/ru/companies/simbirsoft/articles/989896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989896)
+- [Внедрение мер ГОСТ 57580.1 в 2026 году](https://habr.com/ru/companies/aktiv-company/articles/992334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992334)
+- [Frontend Status: свежий дайджест фронтенда и AI — 04.02.2026](https://habr.com/ru/articles/992558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992558)
+- [Как подружить Spring Boot и Redis для эффективного кэширования](https://habr.com/ru/companies/selectel/articles/992502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992502)
 - [MongoDB, Clerk и Nginx-прокси: строим горизонтально масштабируемую архитектуру почти бесплатно](https://habr.com/ru/articles/992496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992496)
-- [WebSocket и RTK Query: живое общение в React-приложении](https://habr.com/ru/articles/992526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992526)
-- [Реклама в ChatGPT, Claude управляет марсоходом, драма в стартапе Миры Мурати: главные события января в ИИ](https://habr.com/ru/companies/magnus-tech/articles/992400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992400)
-- [Корпоративные стандарты АСУ ТП: какие эффекты они реально дают бизнесу](https://habr.com/ru/articles/990696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990696)
-- [Мониторинг Strimzi Kafka через kube-prometheus-stack](https://habr.com/ru/articles/992494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992494)
 <!-- BLOG-POST-LIST:END -->
 
 ---
