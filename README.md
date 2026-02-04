@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как я делал перенос по словам в редакторе far2l](https://habr.com/ru/articles/992736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992736)
-- [Контакторная схема останова электродвигателя насоса противовключением](https://habr.com/ru/articles/992734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992734)
-- [Как мы помогали Стэнфорду следить за акулами](https://habr.com/ru/companies/skbkontur/articles/992662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992662)
-- [[Перевод] Почему ваш Docker-контейнер взломают завтра &lpar;и как этого избежать&rpar;](https://habr.com/ru/companies/spring_aio/articles/992696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992696)
-- [ERP.Next: Архитектура автономных ERP на основе мультиагентного ИИ](https://habr.com/ru/companies/mt-integration/articles/992644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992644)
+- [Почему система найма работников не поменяется сама собой — и что ей действительно нужно, чтобы измениться](https://habr.com/ru/articles/992762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992762)
+- [Обзор QA-экосистемы Saby](https://habr.com/ru/companies/tensor/articles/992750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992750)
+- [[Перевод] Самый тупой способ повышения производительности](https://habr.com/ru/articles/992748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992748)
+- [Ошибка в $5 000 на TON из-за кода, написанного нейронкой](https://habr.com/ru/articles/992740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992740)
+- [[Перевод] Навайбкодился и спит: дыры в социальной сети для ИИ Moltbook](https://habr.com/ru/companies/ruvds/articles/992424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992424)
 <!-- BLOG-POST-LIST:END -->
 
 ---
