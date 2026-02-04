@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Создание библиотеки на C++: Наследование vs Шаблоны. Часть I](https://habr.com/ru/companies/simbirsoft/articles/989896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989896)
-- [Внедрение мер ГОСТ 57580.1 в 2026 году](https://habr.com/ru/companies/aktiv-company/articles/992334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992334)
-- [Frontend Status: свежий дайджест фронтенда и AI — 04.02.2026](https://habr.com/ru/articles/992558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992558)
-- [Как подружить Spring Boot и Redis для эффективного кэширования](https://habr.com/ru/companies/selectel/articles/992502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992502)
-- [MongoDB, Clerk и Nginx-прокси: строим горизонтально масштабируемую архитектуру почти бесплатно](https://habr.com/ru/articles/992496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992496)
+- [Организация производства Информационных систем. Часть 4. Предпроектное исследование. 4.1. Предмет автоматизации](https://habr.com/ru/articles/992532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992532)
+- [Почему AI-агенты такие медленные? Часть 1: Путь вайбкодера](https://habr.com/ru/companies/haulmont/articles/992138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992138)
+- [Требования к программному обеспечению](https://habr.com/ru/articles/992602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992602)
+- [Как измерить работу системного аналитика: метрики, которые говорят на языке бизнеса](https://habr.com/ru/articles/992604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992604)
+- [sys.settrace: как устроены дебаггеры, coverage и profilers в Python](https://habr.com/ru/companies/otus/articles/988880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988880)
 <!-- BLOG-POST-LIST:END -->
 
 ---
