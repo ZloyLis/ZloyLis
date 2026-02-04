@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Карта российских ИИ-платформ для аналитика](https://habr.com/ru/articles/992872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992872)
 - [OpenClaw/MoltBot/Clawdbot: разбираемся в AI-ассистенте, который взорвал GitHub за неделю](https://habr.com/ru/articles/991264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991264)
 - [Визуализация данных в Python с помощью библиотеки Plotly: база для новичков](https://habr.com/ru/companies/netologyru/articles/992594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992594)
 - [Как дизайн построил самую успешную компанию в мире](https://habr.com/ru/articles/992802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992802)
 - [Реализуем собственный Promise в JavaScript](https://habr.com/ru/articles/990688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990688)
-- [Новый подход к внедрению: замена Большого Взрыва и Parallel Running](https://habr.com/ru/articles/992798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992798)
 <!-- BLOG-POST-LIST:END -->
 
 ---
