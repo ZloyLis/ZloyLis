@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes и FluxCD: Восстановление кластера с хранением состояния, дампов и секретов в S3](https://habr.com/ru/articles/992482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992482)
 - [SQL-запросы, которые убивают ваш прод: учимся ловить и лечить Deadlocks](https://habr.com/ru/articles/992432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992432)
 - [Паттерн Transactional Outbox на примере двух микросервисов на java](https://habr.com/ru/articles/991934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991934)
 - [PostgreSQL 19: Часть 3 или Коммитфест 2025-11](https://habr.com/ru/companies/postgrespro/articles/992426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992426)
 - [Moltbot: 83 сценария использования open-source AI-агента](https://habr.com/ru/articles/992416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992416)
-- [Моушен-графика для разработчиков: Remotion, Skills, немного стиля и любой ИИ-агент](https://habr.com/ru/articles/992392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992392)
 <!-- BLOG-POST-LIST:END -->
 
 ---
