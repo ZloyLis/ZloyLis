@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я делал перенос по словам в редакторе far2l](https://habr.com/ru/articles/992736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992736)
+- [Контакторная схема останова электродвигателя насоса противовключением](https://habr.com/ru/articles/992734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992734)
+- [Как мы помогали Стэнфорду следить за акулами](https://habr.com/ru/companies/skbkontur/articles/992662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992662)
+- [[Перевод] Почему ваш Docker-контейнер взломают завтра &lpar;и как этого избежать&rpar;](https://habr.com/ru/companies/spring_aio/articles/992696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992696)
 - [ERP.Next: Архитектура автономных ERP на основе мультиагентного ИИ](https://habr.com/ru/companies/mt-integration/articles/992644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992644)
-- [Кукушка хвалит петуха: как работает LLM-AS-A-JUDGE](https://habr.com/ru/articles/992678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992678)
-- [Какие программы депонируют в Роспатенте промышленные предприятия](https://habr.com/ru/companies/onlinepatent/articles/992676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992676)
-- [Как мы посмотрели на юридический процесс как на поток данных](https://habr.com/ru/articles/992666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992666)
-- [ИИ в «Финаме»: от первого прототипа на Flutter до корпоративной платформы на 1000+ сотрудников](https://habr.com/ru/companies/finam_broker/articles/992654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992654)
 <!-- BLOG-POST-LIST:END -->
 
 ---
