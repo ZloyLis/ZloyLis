@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI заменит программистов через год. А пока — не может найти баг в конфиге nginx](https://habr.com/ru/articles/992642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992642)
-- [Организация производства Информационных систем. Часть 4. Предпроектное исследование. 4.1. Предмет автоматизации](https://habr.com/ru/articles/992532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992532)
-- [Почему AI-агенты такие медленные? Часть 1: Путь вайбкодера](https://habr.com/ru/companies/haulmont/articles/992138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992138)
-- [Требования к программному обеспечению](https://habr.com/ru/articles/992602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992602)
-- [Как измерить работу системного аналитика: метрики, которые говорят на языке бизнеса](https://habr.com/ru/articles/992604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992604)
+- [ERP.Next: Архитектура автономных ERP на основе мультиагентного ИИ](https://habr.com/ru/companies/mt-integration/articles/992644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992644)
+- [Кукушка хвалит петуха: как работает LLM-AS-A-JUDGE](https://habr.com/ru/articles/992678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992678)
+- [Какие программы депонируют в Роспатенте промышленные предприятия](https://habr.com/ru/companies/onlinepatent/articles/992676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992676)
+- [Как мы посмотрели на юридический процесс как на поток данных](https://habr.com/ru/articles/992666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992666)
+- [ИИ в «Финаме»: от первого прототипа на Flutter до корпоративной платформы на 1000+ сотрудников](https://habr.com/ru/companies/finam_broker/articles/992654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992654)
 <!-- BLOG-POST-LIST:END -->
 
 ---
