@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Этот процессор подарил детство сотням Хабровчан](https://habr.com/ru/articles/993028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993028)
+- [Как я боялся Copilot, и продолжаю боятся](https://habr.com/ru/articles/993026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993026)
 - [Статанализ — must-have для проектов с Codex/ClaudeCode](https://habr.com/ru/articles/993004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993004)
 - [Организация производства Информационных систем. Часть 4. Предпроектное исследование. 4.2. Предварительная оценка](https://habr.com/ru/articles/992998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992998)
 - [Под капотом Android Automotive: Что такое VHAL и почему это сердце машины](https://habr.com/ru/articles/992868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992868)
-- [Redis больше не нужен?! Реализуем реактивный кэш на чистом PostgreSQL и Go](https://habr.com/ru/articles/992990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992990)
-- [Go-разработчик в 2026 году: скилсет джуниора и ожидания рынка](https://habr.com/ru/companies/yandex_praktikum/articles/992284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992284)
 <!-- BLOG-POST-LIST:END -->
 
 ---
