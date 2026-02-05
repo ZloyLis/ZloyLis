@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Экономика выбора: Python, Java, Go при разных RPS. Деньги или скорость?](https://habr.com/ru/companies/oleg-bunin/articles/990930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990930)
+- [Сравнение методов решения систем линейных алгебраических уравнений](https://habr.com/ru/articles/992942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992942)
+- [muRPC: Реализация протокола JSON-RPC на C++](https://habr.com/ru/articles/992934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992934)
 - [В 3 ночи мой бот уверенно перепутал «колики» и «голод». Я всё равно его выпустил — и вот почему](https://habr.com/ru/articles/992782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992782)
 - [От «яблока» до «королевы»: как нейросети учатся понимать смысл слов через эмбеддинги](https://habr.com/ru/articles/992928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992928)
-- [Обработка 100 000 запросов с помощью виртуальных потоков Java и сравнение производительности с обычными потоками](https://habr.com/ru/articles/992714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992714)
-- [«Атлас Telegram» — как создавалась интерактивная карта с 500 000 каналами](https://habr.com/ru/articles/992910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992910)
-- [Разработка приложения на Spring Boot, Java, База данных, профиль пользователя. Часть 2](https://habr.com/ru/articles/992904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992904)
 <!-- BLOG-POST-LIST:END -->
 
 ---
