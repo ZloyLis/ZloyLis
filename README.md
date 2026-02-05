@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как английский язык незаметно влияет на вашу карьеру в IT](https://habr.com/ru/articles/993278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993278)
+- [GitHub Copilot Custom Agents: от универсального чата к специализированным ролям &lpar;на примере VS Code&rpar;](https://habr.com/ru/articles/993252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993252)
 - [Так как же всё-таки быстро конкатенировать строки в C++?](https://habr.com/ru/articles/993240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993240)
 - [Онбординг аналитика в новый проект](https://habr.com/ru/companies/wildberries/articles/993160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993160)
 - [Выходит ITIL &lpar;version 5&rpar;. Что изменилось?](https://habr.com/ru/companies/icl_group/articles/993214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993214)
-- [Что же такое DOD и почему мы это забыли?](https://habr.com/ru/articles/993234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993234)
-- [Telegram‑бот для &lpar;само&rpar;дисциплины на Python: aiogram 3, APScheduler и деплой на VDS](https://habr.com/ru/articles/993178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993178)
 <!-- BLOG-POST-LIST:END -->
 
 ---
