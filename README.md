@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter — для веб приложений, Jaspr — для веб сайтов](https://habr.com/ru/articles/993354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993354)
 - [Школы программирования с менторского плеча](https://habr.com/ru/articles/981032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981032)
 - [Baseline: январь 2026](https://habr.com/ru/articles/987464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987464)
 - [far2l и буфер обмена: ускоряем bracketed paste](https://habr.com/ru/articles/993348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993348)
 - [10 функций в Slack, которые, я надеюсь, никогда не будут реализованы](https://habr.com/ru/articles/993344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993344)
-- [Системный аналитик: полный разбор тестового задания на 2026 год](https://habr.com/ru/companies/otus/articles/992264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992264)
 <!-- BLOG-POST-LIST:END -->
 
 ---
