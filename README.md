@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Экономика выбора: Python, Java, Go при разных RPS. Деньги или скорость?](https://habr.com/ru/companies/oleg-bunin/articles/990930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990930)
-- [Сравнение методов решения систем линейных алгебраических уравнений](https://habr.com/ru/articles/992942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992942)
-- [muRPC: Реализация протокола JSON-RPC на C++](https://habr.com/ru/articles/992934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992934)
-- [В 3 ночи мой бот уверенно перепутал «колики» и «голод». Я всё равно его выпустил — и вот почему](https://habr.com/ru/articles/992782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992782)
-- [От «яблока» до «королевы»: как нейросети учатся понимать смысл слов через эмбеддинги](https://habr.com/ru/articles/992928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992928)
+- [Статанализ — must-have для проектов с Codex/ClaudeCode](https://habr.com/ru/articles/993004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993004)
+- [Организация производства Информационных систем. Часть 4. Предпроектное исследование. 4.2. Предварительная оценка](https://habr.com/ru/articles/992998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992998)
+- [Под капотом Android Automotive: Что такое VHAL и почему это сердце машины](https://habr.com/ru/articles/992868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992868)
+- [Redis больше не нужен?! Реализуем реактивный кэш на чистом PostgreSQL и Go](https://habr.com/ru/articles/992990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992990)
+- [Go-разработчик в 2026 году: скилсет джуниора и ожидания рынка](https://habr.com/ru/companies/yandex_praktikum/articles/992284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992284)
 <!-- BLOG-POST-LIST:END -->
 
 ---
