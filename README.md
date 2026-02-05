@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Системный аналитик: полный разбор тестового задания на 2026 год](https://habr.com/ru/companies/otus/articles/992264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992264)
+- [Как мы автоматизировали анализ бенчмарков: опыт команды Postgres Professional](https://habr.com/ru/companies/postgrespro/articles/993330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993330)
+- [Поиск решений управляемый данными. Детали механизма](https://habr.com/ru/articles/993320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993320)
 - [PG_EXPECTO: Взвешенная корреляция ожиданий &lpar;ВКО&rpar;](https://habr.com/ru/articles/993302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993302)
 - [Установка GrapheneOS через терминал Debian-based Linux](https://habr.com/ru/articles/993284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993284)
-- [Как английский язык незаметно влияет на вашу карьеру в IT](https://habr.com/ru/articles/993278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993278)
-- [GitHub Copilot Custom Agents: от универсального чата к специализированным ролям &lpar;на примере VS Code&rpar;](https://habr.com/ru/articles/993252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993252)
-- [Так как же всё-таки быстро конкатенировать строки в C++?](https://habr.com/ru/articles/993240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993240)
 <!-- BLOG-POST-LIST:END -->
 
 ---
