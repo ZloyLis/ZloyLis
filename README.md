@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Симуляция волн цунами на вращающейся гравитирующей сфере](https://habr.com/ru/articles/993080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993080)
+- [Как мы случайно сделали Semantic Wiki в Gramax](https://habr.com/ru/companies/gram_ax/articles/993064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993064)
+- [Юнит-тестирование для веб-разработчиков: концепции и аспекты, которых не найти в документации](https://habr.com/ru/companies/habr_rutube/articles/991330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991330)
 - [Этот процессор подарил детство сотням Хабровчан](https://habr.com/ru/articles/993028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993028)
 - [Как я боялся Copilot, и продолжаю боятся](https://habr.com/ru/articles/993026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993026)
-- [Статанализ — must-have для проектов с Codex/ClaudeCode](https://habr.com/ru/articles/993004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993004)
-- [Организация производства Информационных систем. Часть 4. Предпроектное исследование. 4.2. Предварительная оценка](https://habr.com/ru/articles/992998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992998)
-- [Под капотом Android Automotive: Что такое VHAL и почему это сердце машины](https://habr.com/ru/articles/992868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992868)
 <!-- BLOG-POST-LIST:END -->
 
 ---
