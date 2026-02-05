@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Vivaldi 7.8 для iOS: Магия на пальцах](https://habr.com/ru/companies/vivaldi/articles/993136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993136)
+- [Vivaldi 7.8 для Android: Закрепляй и контролируй](https://habr.com/ru/companies/vivaldi/articles/993120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993120)
+- [Маленький веб](https://habr.com/ru/articles/993094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993094)
 - [Симуляция волн цунами на вращающейся гравитирующей сфере](https://habr.com/ru/articles/993080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993080)
 - [Как мы случайно сделали Semantic Wiki в Gramax](https://habr.com/ru/companies/gram_ax/articles/993064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993064)
-- [Юнит-тестирование для веб-разработчиков: концепции и аспекты, которых не найти в документации](https://habr.com/ru/companies/habr_rutube/articles/991330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991330)
-- [Этот процессор подарил детство сотням Хабровчан](https://habr.com/ru/articles/993028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993028)
-- [Как я боялся Copilot, и продолжаю боятся](https://habr.com/ru/articles/993026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
