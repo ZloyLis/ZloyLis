@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обработка 100 000 запросов с помощью виртуальных потоков Java и сравнение производительности с обычными потоками](https://habr.com/ru/articles/992714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992714)
 - [«Атлас Telegram» — как создавалась интерактивная карта с 500 000 каналами](https://habr.com/ru/articles/992910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992910)
 - [Разработка приложения на Spring Boot, Java, База данных, профиль пользователя. Часть 2](https://habr.com/ru/articles/992904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992904)
 - [Лингвистика эмоджи и стикеров: рождение новой языковой системы](https://habr.com/ru/articles/992880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992880)
 - [Карта российских ИИ-платформ для аналитика](https://habr.com/ru/articles/992872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992872)
-- [OpenClaw/MoltBot/Clawdbot: разбираемся в AI-ассистенте, который взорвал GitHub за неделю](https://habr.com/ru/articles/991264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991264)
 <!-- BLOG-POST-LIST:END -->
 
 ---
