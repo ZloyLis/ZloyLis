@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что нового в GigaIDE за январь 2026](https://habr.com/ru/companies/sberbank/articles/991966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991966)
+- [5 ключевых IT-трендов 2026 года: от ИИ-агентов и Zero Trust до суверенных облаков](https://habr.com/ru/companies/selectel/articles/993000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993000)
+- [[Перевод] Стратегии партицирования базы данных: горизонтальное и вертикальное разделение](https://habr.com/ru/articles/984980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984980)
+- [Хватить мучить команду навороченным софтом. Как мы делаем систему управления проектами, в которую легко вкатиться](https://habr.com/ru/companies/yougile/articles/993106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993106)
 - [Vivaldi 7.8 для iOS: Магия на пальцах](https://habr.com/ru/companies/vivaldi/articles/993136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993136)
-- [Vivaldi 7.8 для Android: Закрепляй и контролируй](https://habr.com/ru/companies/vivaldi/articles/993120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993120)
-- [Маленький веб](https://habr.com/ru/articles/993094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993094)
-- [Симуляция волн цунами на вращающейся гравитирующей сфере](https://habr.com/ru/articles/993080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993080)
-- [Как мы случайно сделали Semantic Wiki в Gramax](https://habr.com/ru/companies/gram_ax/articles/993064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993064)
 <!-- BLOG-POST-LIST:END -->
 
 ---
