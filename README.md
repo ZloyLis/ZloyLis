@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Школы программирования с менторского плеча](https://habr.com/ru/articles/981032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981032)
+- [Baseline: январь 2026](https://habr.com/ru/articles/987464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987464)
+- [far2l и буфер обмена: ускоряем bracketed paste](https://habr.com/ru/articles/993348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993348)
+- [10 функций в Slack, которые, я надеюсь, никогда не будут реализованы](https://habr.com/ru/articles/993344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993344)
 - [Системный аналитик: полный разбор тестового задания на 2026 год](https://habr.com/ru/companies/otus/articles/992264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992264)
-- [Как мы автоматизировали анализ бенчмарков: опыт команды Postgres Professional](https://habr.com/ru/companies/postgrespro/articles/993330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993330)
-- [Поиск решений управляемый данными. Детали механизма](https://habr.com/ru/articles/993320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993320)
-- [PG_EXPECTO: Взвешенная корреляция ожиданий &lpar;ВКО&rpar;](https://habr.com/ru/articles/993302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993302)
-- [Установка GrapheneOS через терминал Debian-based Linux](https://habr.com/ru/articles/993284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993284)
 <!-- BLOG-POST-LIST:END -->
 
 ---
