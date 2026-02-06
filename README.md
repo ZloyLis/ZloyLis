@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Небоскребы на болоте: 3 фундаментальные ошибки разработчика на React](https://habr.com/ru/articles/993490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993490)
+- [Как мы запускаем LLM on-prem в Kubernetes и выжимаем максимум из GPU-кластера](https://habr.com/ru/companies/orion_soft/articles/993488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993488)
+- [Вредоносное ПО Mamont снова атакует РФ](https://habr.com/ru/companies/pm/articles/993182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993182)
+- [Сасфеликс 2.0 или «На 25% больше Стаса Васильева за теже деньги» / решаем проблему скукоженного Харламо](https://habr.com/ru/articles/993462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993462)
 - [Ахиллесова пята SharedPreferences и стоит ли внедрять Datastore как альтернативу](https://habr.com/ru/companies/alfa/articles/991556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991556)
-- [Выставить приложение в плей маркет и быть заблокированным через месяц](https://habr.com/ru/articles/993448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993448)
-- [Я почувствовал себя клоуном, подключая 5 библиотек ради устойчивого API-клиента](https://habr.com/ru/articles/993206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993206)
-- [Особенности совместного моделирования в nanoCAD BIM Строительство](https://habr.com/ru/companies/nanosoft/articles/993262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993262)
-- [[Перевод] Стив Джобс сделал 12 предсказаний в 1990 году. Они только что сбылись](https://habr.com/ru/companies/bothub/articles/993422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993422)
 <!-- BLOG-POST-LIST:END -->
 
 ---
