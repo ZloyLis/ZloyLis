@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дело о ненужной рекомендательной системе, сделанной с помощью AI](https://habr.com/ru/articles/993568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993568)
+- [Революция вырезов](https://habr.com/ru/articles/993310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993310)
+- [Единый сток для селлера на маркетплейсах или как мы на FBS и связках SKU шишки набивали](https://habr.com/ru/articles/993476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993476)
 - [[Перевод] Викторина о Гарри Поттере может предсказать ваши карьерные перспективы](https://habr.com/ru/articles/993540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993540)
 - [Подход к теме Generics](https://habr.com/ru/articles/993522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993522)
-- [Не поднимай смартфон, не совершай ошибку](https://habr.com/ru/companies/ruvds/articles/992468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992468)
-- [Тестирование в 2026: Manual VS Auto](https://habr.com/ru/articles/987172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987172)
-- [Небоскребы на болоте: 3 фундаментальные ошибки разработчика на React](https://habr.com/ru/articles/993490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993490)
 <!-- BLOG-POST-LIST:END -->
 
 ---
