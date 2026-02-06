@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Естественные преобразования. Часть 1](https://habr.com/ru/articles/993604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993604)
+- [Explyt Spring. Tools for MCP Server plugin](https://habr.com/ru/articles/986226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986226)
 - [Дело о ненужной рекомендательной системе, сделанной с помощью AI](https://habr.com/ru/articles/993568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993568)
 - [Революция вырезов](https://habr.com/ru/articles/993310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993310)
 - [Единый сток для селлера на маркетплейсах или как мы на FBS и связках SKU шишки набивали](https://habr.com/ru/articles/993476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993476)
-- [[Перевод] Викторина о Гарри Поттере может предсказать ваши карьерные перспективы](https://habr.com/ru/articles/993540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993540)
-- [Подход к теме Generics](https://habr.com/ru/articles/993522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993522)
 <!-- BLOG-POST-LIST:END -->
 
 ---
