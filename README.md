@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Пропадающая граница в sticky-таблице: баг CSS-рендеринга, найденный в React-проекте](https://habr.com/ru/companies/gnivc/articles/991636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991636)
-- [Создание системы по управлению цифровыми активами для базы данных PostGIS. Часть 1. Работа с геометрией объектов](https://habr.com/ru/articles/993636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993636)
-- [Опыт использования Линукс смартфона. Ubuntu Touch на Xiaomi Poco X3 NFC](https://habr.com/ru/articles/985820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985820)
-- [Grafana Operator — дорога к IAC или путь в никуда?](https://habr.com/ru/companies/kts/articles/993002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993002)
-- [HeadHunter виноват в сломанном найме](https://habr.com/ru/articles/993622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993622)
+- [Kotlin Symbol Processing: создаём свой процессор](https://habr.com/ru/companies/otus/articles/991044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991044)
+- [Cистема визуально-инерциальной навигации для дрона на C++](https://habr.com/ru/articles/993694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993694)
+- [Java Digest #32](https://habr.com/ru/companies/tbank/articles/993634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993634)
+- [Эволюция Spring: от борьбы с J2EE до реактивности и облаков](https://habr.com/ru/articles/993682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993682)
+- [Claude Opus 4.6 vs GPT-5.3 Codex: как выбрать модель под ваши задачи](https://habr.com/ru/articles/993676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993676)
 <!-- BLOG-POST-LIST:END -->
 
 ---
