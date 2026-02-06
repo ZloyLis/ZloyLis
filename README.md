@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Викторина о Гарри Поттере может предсказать ваши карьерные перспективы](https://habr.com/ru/articles/993540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993540)
+- [Подход к теме Generics](https://habr.com/ru/articles/993522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993522)
+- [Не поднимай смартфон, не совершай ошибку](https://habr.com/ru/companies/ruvds/articles/992468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992468)
+- [Тестирование в 2026: Manual VS Auto](https://habr.com/ru/articles/987172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987172)
 - [Небоскребы на болоте: 3 фундаментальные ошибки разработчика на React](https://habr.com/ru/articles/993490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993490)
-- [Как мы запускаем LLM on-prem в Kubernetes и выжимаем максимум из GPU-кластера](https://habr.com/ru/companies/orion_soft/articles/993488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993488)
-- [Вредоносное ПО Mamont снова атакует РФ](https://habr.com/ru/companies/pm/articles/993182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993182)
-- [Сасфеликс 2.0 или «На 25% больше Стаса Васильева за теже деньги» / решаем проблему скукоженного Харламо](https://habr.com/ru/articles/993462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993462)
-- [Ахиллесова пята SharedPreferences и стоит ли внедрять Datastore как альтернативу](https://habr.com/ru/companies/alfa/articles/991556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991556)
 <!-- BLOG-POST-LIST:END -->
 
 ---
