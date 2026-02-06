@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Интеграция зависимостей в iOS через Carthage in the wild](https://habr.com/ru/articles/993746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993746)
 - [[Перевод] Прибыль Tesla обвалилась вдвое. Маск нашёл выход – и это не автомобили](https://habr.com/ru/companies/bothub/articles/993432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993432)
 - [Продуктовая стратегия для высокотехнологичных рынков: как её написать и «продать» стейкхолдерам](https://habr.com/ru/companies/avito/articles/992118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992118)
 - [Революция в ИИ-вычислениях: Детерминированная рациональная арифметика с отложенным делением](https://habr.com/ru/articles/993726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993726)
 - [Kotlin Symbol Processing: создаём свой процессор](https://habr.com/ru/companies/otus/articles/991044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991044)
-- [Cистема визуально-инерциальной навигации для дрона на C++](https://habr.com/ru/articles/993694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993694)
 <!-- BLOG-POST-LIST:END -->
 
 ---
