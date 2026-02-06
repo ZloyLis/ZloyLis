@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ахиллесова пята SharedPreferences и стоит ли внедрять Datastore как альтернативу](https://habr.com/ru/companies/alfa/articles/991556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991556)
+- [Выставить приложение в плей маркет и быть заблокированным через месяц](https://habr.com/ru/articles/993448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993448)
+- [Я почувствовал себя клоуном, подключая 5 библиотек ради устойчивого API-клиента](https://habr.com/ru/articles/993206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993206)
+- [Особенности совместного моделирования в nanoCAD BIM Строительство](https://habr.com/ru/companies/nanosoft/articles/993262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993262)
 - [[Перевод] Стив Джобс сделал 12 предсказаний в 1990 году. Они только что сбылись](https://habr.com/ru/companies/bothub/articles/993422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993422)
-- [Полезная тулза для ревью чата с ИИ](https://habr.com/ru/articles/993418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993418)
-- [Flutter — для веб приложений, Jaspr — для веб сайтов](https://habr.com/ru/articles/993354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993354)
-- [Школы программирования с менторского плеча](https://habr.com/ru/articles/981032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981032)
-- [Baseline: январь 2026](https://habr.com/ru/articles/987464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987464)
 <!-- BLOG-POST-LIST:END -->
 
 ---
