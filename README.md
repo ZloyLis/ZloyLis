@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Продуктовая стратегия для высокотехнологичных рынков: как её написать и «продать» стейкхолдерам](https://habr.com/ru/companies/avito/articles/992118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992118)
+- [Революция в ИИ-вычислениях: Детерминированная рациональная арифметика с отложенным делением](https://habr.com/ru/articles/993726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993726)
 - [Kotlin Symbol Processing: создаём свой процессор](https://habr.com/ru/companies/otus/articles/991044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991044)
 - [Cистема визуально-инерциальной навигации для дрона на C++](https://habr.com/ru/articles/993694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993694)
 - [Java Digest #32](https://habr.com/ru/companies/tbank/articles/993634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993634)
-- [Эволюция Spring: от борьбы с J2EE до реактивности и облаков](https://habr.com/ru/articles/993682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993682)
-- [Claude Opus 4.6 vs GPT-5.3 Codex: как выбрать модель под ваши задачи](https://habr.com/ru/articles/993676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993676)
 <!-- BLOG-POST-LIST:END -->
 
 ---
