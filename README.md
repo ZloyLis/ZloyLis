@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Естественные преобразования. Часть 1](https://habr.com/ru/articles/993604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993604)
-- [Explyt Spring. Tools for MCP Server plugin](https://habr.com/ru/articles/986226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986226)
-- [Дело о ненужной рекомендательной системе, сделанной с помощью AI](https://habr.com/ru/articles/993568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993568)
-- [Революция вырезов](https://habr.com/ru/articles/993310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993310)
-- [Единый сток для селлера на маркетплейсах или как мы на FBS и связках SKU шишки набивали](https://habr.com/ru/articles/993476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993476)
+- [Пропадающая граница в sticky-таблице: баг CSS-рендеринга, найденный в React-проекте](https://habr.com/ru/companies/gnivc/articles/991636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991636)
+- [Создание системы по управлению цифровыми активами для базы данных PostGIS. Часть 1. Работа с геометрией объектов](https://habr.com/ru/articles/993636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993636)
+- [Опыт использования Линукс смартфона. Ubuntu Touch на Xiaomi Poco X3 NFC](https://habr.com/ru/articles/985820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985820)
+- [Grafana Operator — дорога к IAC или путь в никуда?](https://habr.com/ru/companies/kts/articles/993002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993002)
+- [HeadHunter виноват в сломанном найме](https://habr.com/ru/articles/993622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993622)
 <!-- BLOG-POST-LIST:END -->
 
 ---
