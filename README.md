@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От State к Event: как два sealed class закрывают архитектуру Android-экрана в Kotlin](https://habr.com/ru/articles/993884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993884)
+- [Git-хуки, которые не дают коммитить плохой код](https://habr.com/ru/articles/993870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993870)
+- [[Перевод] Ткачество 2.0: станок — прямо из 3D‑принтера, начинка — на Arduino](https://habr.com/ru/companies/selectel/articles/993790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993790)
+- [Crypto Orderbook или Биржевой стакан на криптобирже: взгляд изнутри, часть 1](https://habr.com/ru/articles/993864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993864)
 - [Батчинг запросов в Prisma: объединяем несколько запросов в один вызов БД](https://habr.com/ru/articles/993852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993852)
-- [Вот за счёт чего Opus 4.6 улучшил свои бенчмарки](https://habr.com/ru/companies/haulmont/articles/993704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993704)
-- [[Перевод] Как OpenAI собирается отобрать у Google рекламный рынок на $260 млрд](https://habr.com/ru/companies/bothub/articles/993838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993838)
-- [Математические основы рекуррентных нейросетей &lpar;детские вопросы и ответы, о которых не принято говорить&rpar;](https://habr.com/ru/articles/993824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993824)
-- [Способ расчета номеров для распределенных облачных систем на примере Яндекс Трекер](https://habr.com/ru/articles/993810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993810)
 <!-- BLOG-POST-LIST:END -->
 
 ---
