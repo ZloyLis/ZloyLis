@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Вот за счёт чего Opus 4.6 улучшил свои бенчмарки](https://habr.com/ru/companies/haulmont/articles/993704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993704)
+- [[Перевод] Как OpenAI собирается отобрать у Google рекламный рынок на $260 млрд](https://habr.com/ru/companies/bothub/articles/993838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993838)
 - [Математические основы рекуррентных нейросетей &lpar;детские вопросы и ответы, о которых не принято говорить&rpar;](https://habr.com/ru/articles/993824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993824)
 - [Способ расчета номеров для распределенных облачных систем на примере Яндекс Трекер](https://habr.com/ru/articles/993810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993810)
 - [Пять необычных смартфонов начала 2026 года: три экрана, активное охлаждение и проектор](https://habr.com/ru/companies/selectel/articles/993792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993792)
-- [MVVM+Coordinator+Factory: Святая Троица внедрения зависимостей](https://habr.com/ru/articles/993738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993738)
-- [Созвоны как токсин, но не яд: как я выкинул половину встреч и впервые за долгое время перестал умирать к вечеру](https://habr.com/ru/articles/993804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993804)
 <!-- BLOG-POST-LIST:END -->
 
 ---
