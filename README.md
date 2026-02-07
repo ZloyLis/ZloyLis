@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [MVVM+Coordinator+Factory: Святая Троица внедрения зависимостей](https://habr.com/ru/articles/993738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993738)
+- [Созвоны как токсин, но не яд: как я выкинул половину встреч и впервые за долгое время перестал умирать к вечеру](https://habr.com/ru/articles/993804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993804)
 - [Нужен ли сегодня минимализм в софте?](https://habr.com/ru/articles/993712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993712)
 - [Интеграция зависимостей в iOS через Carthage in the wild](https://habr.com/ru/articles/993746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993746)
 - [[Перевод] Прибыль Tesla обвалилась вдвое. Маск нашёл выход – и это не автомобили](https://habr.com/ru/companies/bothub/articles/993432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993432)
-- [Продуктовая стратегия для высокотехнологичных рынков: как её написать и «продать» стейкхолдерам](https://habr.com/ru/companies/avito/articles/992118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992118)
-- [Революция в ИИ-вычислениях: Детерминированная рациональная арифметика с отложенным делением](https://habr.com/ru/articles/993726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993726)
 <!-- BLOG-POST-LIST:END -->
 
 ---
