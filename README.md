@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Игра Сапёр на Unreal Engine &amp;gt; UMG &amp;gt; только C++ &amp;gt; Никаких Блупринтов](https://habr.com/ru/articles/993932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993932)
 - [Элитный вайбкодинг](https://habr.com/ru/articles/993904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993904)
 - [Синтез речи 2026: топ-5 бесплатных нейросетей для озвучки текста](https://habr.com/ru/companies/bothub/articles/993576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993576)
 - [От State к Event: как два sealed class закрывают архитектуру Android-экрана в Kotlin](https://habr.com/ru/articles/993884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993884)
 - [Git-хуки, которые не дают коммитить плохой код](https://habr.com/ru/articles/993870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993870)
-- [[Перевод] Ткачество 2.0: станок — прямо из 3D‑принтера, начинка — на Arduino](https://habr.com/ru/companies/selectel/articles/993790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993790)
 <!-- BLOG-POST-LIST:END -->
 
 ---
