@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Скрытая цена принуждения к выбору в интерфейсах](https://habr.com/ru/companies/bothub/articles/994144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994144)
 - [Опять за старое? Доступный или открытый код — вечное противостояние, а также продолжающийся рост многообразия лицензий](https://habr.com/ru/companies/beeline_cloud/articles/994118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994118)
 - [Локальное SEO: полный гайд по продвижению в 2026 году](https://habr.com/ru/articles/994106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994106)
 - [Мобильная разработка за неделю #618 &lpar;2 — 8 февраля&rpar;](https://habr.com/ru/articles/994102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994102)
 - [Как я писал библиотеку для локализации на Rust](https://habr.com/ru/articles/994098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994098)
-- [Эволюция классификаций шрифтов](https://habr.com/ru/articles/994082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994082)
 <!-- BLOG-POST-LIST:END -->
 
 ---
