@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Продвинутые RL алгоритмы: NPG, TRPO, PPO](https://habr.com/ru/articles/991622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991622)
 - [Уведомления от Claude Code в Telegram с Hooks](https://habr.com/ru/articles/993964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993964)
 - [Кто такой бизнес-аналитик](https://habr.com/ru/articles/952236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952236)
 - [Игра Сапёр на Unreal Engine &amp;gt; UMG &amp;gt; только C++ &amp;gt; Никаких Блупринтов](https://habr.com/ru/articles/993932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993932)
 - [Элитный вайбкодинг](https://habr.com/ru/articles/993904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993904)
-- [Синтез речи 2026: топ-5 бесплатных нейросетей для озвучки текста](https://habr.com/ru/companies/bothub/articles/993576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993576)
 <!-- BLOG-POST-LIST:END -->
 
 ---
