@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Локальное SEO: полный гайд по продвижению в 2026 году](https://habr.com/ru/articles/994106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994106)
+- [Мобильная разработка за неделю #618 &lpar;2 — 8 февраля&rpar;](https://habr.com/ru/articles/994102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994102)
+- [Как я писал библиотеку для локализации на Rust](https://habr.com/ru/articles/994098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994098)
+- [Эволюция классификаций шрифтов](https://habr.com/ru/articles/994082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994082)
 - [Profile page как в TikTok/Instagram на UIKit &lpar;iOS 15+&rpar;](https://habr.com/ru/articles/994088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994088)
-- [Как мы собрали фронт без фронтендера за неделю: AI-ассистент + дизайн-система](https://habr.com/ru/articles/994078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994078)
-- [I need your clothes, your boots and your SILVER. Или как связан рост стоимости серебра с ИИ-пузырём](https://habr.com/ru/articles/994072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994072)
-- [HDFS и Hive для CDC: строим хранилище данных в домашней лаборатории](https://habr.com/ru/articles/994062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994062)
-- [Как сделать программиста счастливее](https://habr.com/ru/articles/994056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994056)
 <!-- BLOG-POST-LIST:END -->
 
 ---
