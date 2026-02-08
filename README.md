@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [I need your clothes, your boots and your SILVER. Или как связан рост стоимости серебра с ИИ-пузырём](https://habr.com/ru/articles/994072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994072)
+- [HDFS и Hive для CDC: строим хранилище данных в домашней лаборатории](https://habr.com/ru/articles/994062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994062)
+- [Как сделать программиста счастливее](https://habr.com/ru/articles/994056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994056)
+- [Бесплатные AI-модели от Alibaba: 1M токенов на каждую модель Qwen через Сингапур](https://habr.com/ru/articles/994052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994052)
 - [[Перевод] Как обстоят дела с WebAssembly?](https://habr.com/ru/companies/ruvds/articles/992658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992658)
-- [Разрабатываем игру для Telegram с нуля](https://habr.com/ru/companies/amvera/articles/994030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994030)
-- [Nano Banana Pro. Реальное применение, а не мемные картинки](https://habr.com/ru/articles/993968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993968)
-- [000xpda или как я реверсил электронный дневник и нашел ключи в логах](https://habr.com/ru/articles/994014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994014)
-- [Зачем учить Go, когда есть ИИ? Запускаем Open Source проект «The Gopher Shop»](https://habr.com/ru/articles/994012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994012)
 <!-- BLOG-POST-LIST:END -->
 
 ---
