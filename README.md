@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [000xpda или как я реверсил электронный дневник и нашел ключи в логах](https://habr.com/ru/articles/994014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994014)
 - [Зачем учить Go, когда есть ИИ? Запускаем Open Source проект «The Gopher Shop»](https://habr.com/ru/articles/994012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994012)
 - [От статичной панорамы к интерактивной 3D-карте: создаём виртуальный тур на Pannellum](https://habr.com/ru/articles/994002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994002)
 - [Продвинутые RL алгоритмы: NPG, TRPO, PPO](https://habr.com/ru/articles/991622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991622)
 - [Уведомления от Claude Code в Telegram с Hooks](https://habr.com/ru/articles/993964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993964)
-- [Кто такой бизнес-аналитик](https://habr.com/ru/articles/952236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=952236)
 <!-- BLOG-POST-LIST:END -->
 
 ---
