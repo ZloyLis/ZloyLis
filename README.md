@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Profile page как в TikTok/Instagram на UIKit &lpar;iOS 15+&rpar;](https://habr.com/ru/articles/994088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994088)
+- [Как мы собрали фронт без фронтендера за неделю: AI-ассистент + дизайн-система](https://habr.com/ru/articles/994078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994078)
 - [I need your clothes, your boots and your SILVER. Или как связан рост стоимости серебра с ИИ-пузырём](https://habr.com/ru/articles/994072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994072)
 - [HDFS и Hive для CDC: строим хранилище данных в домашней лаборатории](https://habr.com/ru/articles/994062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994062)
 - [Как сделать программиста счастливее](https://habr.com/ru/articles/994056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994056)
-- [Бесплатные AI-модели от Alibaba: 1M токенов на каждую модель Qwen через Сингапур](https://habr.com/ru/articles/994052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994052)
-- [[Перевод] Как обстоят дела с WebAssembly?](https://habr.com/ru/companies/ruvds/articles/992658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992658)
 <!-- BLOG-POST-LIST:END -->
 
 ---
