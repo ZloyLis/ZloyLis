@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Не та 1С, которую вы знали: Полный гайд по технологии 1С: Элемент](https://habr.com/ru/articles/993216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993216)
 - [Пишем свою мобильную ОС с нуля на Rust. Часть 2. Менеджер памяти](https://habr.com/ru/articles/994228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994228)
 - [Как математика помогала выжить в 90-е](https://habr.com/ru/articles/994216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994216)
 - [[Перевод] Скрытая цена принуждения к выбору в интерфейсах](https://habr.com/ru/companies/bothub/articles/994144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994144)
 - [Опять за старое? Доступный или открытый код — вечное противостояние, а также продолжающийся рост многообразия лицензий](https://habr.com/ru/companies/beeline_cloud/articles/994118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994118)
-- [Мобильная разработка за неделю #618 &lpar;2 — 8 февраля&rpar;](https://habr.com/ru/articles/994102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994102)
 <!-- BLOG-POST-LIST:END -->
 
 ---
