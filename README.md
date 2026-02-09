@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Не та 1С, которую вы знали: Полный гайд по технологии 1С: Элемент](https://habr.com/ru/articles/993216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993216)
-- [Пишем свою мобильную ОС с нуля на Rust. Часть 2. Менеджер памяти](https://habr.com/ru/articles/994228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994228)
-- [Как математика помогала выжить в 90-е](https://habr.com/ru/articles/994216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994216)
-- [[Перевод] Скрытая цена принуждения к выбору в интерфейсах](https://habr.com/ru/companies/bothub/articles/994144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994144)
-- [Опять за старое? Доступный или открытый код — вечное противостояние, а также продолжающийся рост многообразия лицензий](https://habr.com/ru/companies/beeline_cloud/articles/994118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994118)
+- [Нейросети пока не заменят «кожаных мешков»](https://habr.com/ru/articles/994264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994264)
+- [Машинное обучение в бизнесе: подборка бесплатных курсов и материалов](https://habr.com/ru/companies/yandex_praktikum/articles/992164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992164)
+- [Почему SOAP и WSDL — ключ к успеху в создании веб-сервисов](https://habr.com/ru/articles/985802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985802)
+- [Магия AirDrop: Как Apple заставляет Bluetooth и Wi-Fi работать в одной упряжке](https://habr.com/ru/articles/993750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993750)
+- [Редизайн сайта Артемия Лебедева](https://habr.com/ru/articles/994258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994258)
 <!-- BLOG-POST-LIST:END -->
 
 ---
