@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Быстро, удобно, надежно. Выбери любые… Три?](https://habr.com/ru/articles/994226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994226)
+- [[Перевод] Метрика «Северная звезда»: как связать рост, аналитику и решения команд](https://habr.com/ru/articles/989600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989600)
+- [Полгода на включение: как мы построили онбординг в команде не по инструкции. Часть 1: от хаоса до осмысленной системы](https://habr.com/ru/companies/oleg-bunin/articles/987298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987298)
+- [HR против честности: почему правда мешает найти работу](https://habr.com/ru/articles/994304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994304)
 - [Нейросети пока не заменят «кожаных мешков»](https://habr.com/ru/articles/994264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994264)
-- [Машинное обучение в бизнесе: подборка бесплатных курсов и материалов](https://habr.com/ru/companies/yandex_praktikum/articles/992164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992164)
-- [Почему SOAP и WSDL — ключ к успеху в создании веб-сервисов](https://habr.com/ru/articles/985802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985802)
-- [Магия AirDrop: Как Apple заставляет Bluetooth и Wi-Fi работать в одной упряжке](https://habr.com/ru/articles/993750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993750)
-- [Редизайн сайта Артемия Лебедева](https://habr.com/ru/articles/994258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994258)
 <!-- BLOG-POST-LIST:END -->
 
 ---
