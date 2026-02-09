@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Быстро, удобно, надежно. Выбери любые… Три?](https://habr.com/ru/articles/994226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994226)
-- [[Перевод] Метрика «Северная звезда»: как связать рост, аналитику и решения команд](https://habr.com/ru/articles/989600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989600)
-- [Полгода на включение: как мы построили онбординг в команде не по инструкции. Часть 1: от хаоса до осмысленной системы](https://habr.com/ru/companies/oleg-bunin/articles/987298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987298)
-- [HR против честности: почему правда мешает найти работу](https://habr.com/ru/articles/994304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994304)
-- [Нейросети пока не заменят «кожаных мешков»](https://habr.com/ru/articles/994264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994264)
+- [Бинарная классификация: как работает логистическая регрессия](https://habr.com/ru/articles/994376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994376)
+- [Best practices в SSDLC: лучшие для вашего ПО](https://habr.com/ru/articles/994108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994108)
+- [Визуализация 2+1D в Виртуальной Вселенной](https://habr.com/ru/articles/994360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994360)
+- [Первая работа в QA: выбор компании, подготовка с ИИ и 7 красных флагов работодателя](https://habr.com/ru/companies/2gis/articles/986774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986774)
+- [Рынок промышленности в ближайшие 10-20 лет](https://habr.com/ru/articles/994348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994348)
 <!-- BLOG-POST-LIST:END -->
 
 ---
