@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Тестирование в спортивном программировании: приемы и советы](https://habr.com/ru/articles/994516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994516)
-- [Инвертирование равенства. Как реже стрелять себе в ногу в C-подобных языках](https://habr.com/ru/articles/994488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994488)
-- [Как я делаю своего голосового AI-ассистента: роботы пишут код и работают, когда я отдыхаю](https://habr.com/ru/articles/994454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994454)
-- [Когда жаба не душит: эксперимент с эмоциональным банкингом](https://habr.com/ru/companies/otpbank/articles/994428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994428)
-- [Как я резюме в стиле Fallout 2 с нуля делал или Дихотомия Вайбкодинга](https://habr.com/ru/articles/993924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993924)
+- [Индикация смены раскладки клавиатуры в виде лампы с RGB-светодиодом для Gnome](https://habr.com/ru/articles/994640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994640)
+- [Посадка на Луну](https://habr.com/ru/articles/993972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993972)
+- [Сравнение ИИ-гигантов: ChatGPT 5.2 vs Gemini 3 Pro vs Claude Opus 4.6](https://habr.com/ru/companies/bothub/articles/994636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994636)
+- [Как оптимизация промптов превратилась из шаманства в инженерную дисциплину](https://habr.com/ru/articles/994624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994624)
+- [Medallion в ClickHouse: DWH без миграций схемы](https://habr.com/ru/articles/991588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991588)
 <!-- BLOG-POST-LIST:END -->
 
 ---
