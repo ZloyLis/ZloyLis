@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Тестирование в спортивном программировании: приемы и советы](https://habr.com/ru/articles/994516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994516)
+- [Инвертирование равенства. Как реже стрелять себе в ногу в C-подобных языках](https://habr.com/ru/articles/994488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994488)
 - [Как я делаю своего голосового AI-ассистента: роботы пишут код и работают, когда я отдыхаю](https://habr.com/ru/articles/994454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994454)
 - [Когда жаба не душит: эксперимент с эмоциональным банкингом](https://habr.com/ru/companies/otpbank/articles/994428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994428)
 - [Как я резюме в стиле Fallout 2 с нуля делал или Дихотомия Вайбкодинга](https://habr.com/ru/articles/993924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993924)
-- [Как я сделал приложение для обхода Discord и YouTube на macOS &lpar;и Windows тоже&rpar;](https://habr.com/ru/articles/994412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994412)
-- [Git в браузере. Расширяем возможности с помощью LFS](https://habr.com/ru/companies/gram_ax/articles/994384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994384)
 <!-- BLOG-POST-LIST:END -->
 
 ---
