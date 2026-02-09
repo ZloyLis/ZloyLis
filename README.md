@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я резюме в стиле Fallout 2 с нуля делал или Дихотомия Вайбкодинга](https://habr.com/ru/articles/993924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993924)
+- [Как я сделал приложение для обхода Discord и YouTube на macOS &lpar;и Windows тоже&rpar;](https://habr.com/ru/articles/994412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994412)
+- [Git в браузере. Расширяем возможности с помощью LFS](https://habr.com/ru/companies/gram_ax/articles/994384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994384)
 - [Бинарная классификация: как работает логистическая регрессия](https://habr.com/ru/articles/994376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994376)
 - [Best practices в SSDLC: лучшие для вашего ПО](https://habr.com/ru/articles/994108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994108)
-- [Визуализация 2+1D в Виртуальной Вселенной](https://habr.com/ru/articles/994360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994360)
-- [Первая работа в QA: выбор компании, подготовка с ИИ и 7 красных флагов работодателя](https://habr.com/ru/companies/2gis/articles/986774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986774)
-- [Рынок промышленности в ближайшие 10-20 лет](https://habr.com/ru/articles/994348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994348)
 <!-- BLOG-POST-LIST:END -->
 
 ---
