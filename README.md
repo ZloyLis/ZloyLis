@@ -36,7 +36,7 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Вопросы через боль: как посчитать облако и не сойти с ума?](https://habr.com/ru/companies/finops_ru/articles/994980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994980)
-- [Firefox vs Chrome DevTools: Где что удобнее?](https://habr.com/ru/companies/timeweb/articles/991138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991138)
+- [Chrome DevTools — не панацея. Что умеет Firefox](https://habr.com/ru/companies/timeweb/articles/991138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991138)
 - [Qtek S200: современный взгляд на коммуникатор эпохи Windows Mobile](https://habr.com/ru/companies/ru_mts/articles/994942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994942)
 - [Метрики ИТ и CIO. Что есть хорошо, а что не очень](https://habr.com/ru/articles/994966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994966)
 - [XDP + Jenkins: высокоскоростной фильтр по TLS-отпечаткам](https://habr.com/ru/articles/994962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994962)
