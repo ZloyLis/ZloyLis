@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От идей к коду: проверяю теорию внимания на практике](https://habr.com/ru/articles/995070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995070)
+- [SIMDe, дополнение к DOD архетектуре](https://habr.com/ru/articles/995072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995072)
+- [Сервисворкер: когда Workbox уже слишком тяжёлый](https://habr.com/ru/articles/995064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995064)
 - [Ускоряем инференс в Python с ONNX](https://habr.com/ru/companies/otus/articles/991542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991542)
 - [C Django Rest Framework мы все дальше от Бога](https://habr.com/ru/articles/995010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995010)
-- [Вопросы через боль: как посчитать облако и не сойти с ума?](https://habr.com/ru/companies/finops_ru/articles/994980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994980)
-- [Chrome DevTools — не панацея. Что умеет Firefox](https://habr.com/ru/companies/timeweb/articles/991138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991138)
-- [Qtek S200: современный взгляд на коммуникатор эпохи Windows Mobile](https://habr.com/ru/companies/ru_mts/articles/994942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994942)
 <!-- BLOG-POST-LIST:END -->
 
 ---
