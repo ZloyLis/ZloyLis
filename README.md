@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Интерактивная поздравительная открытка на JavaScript](https://habr.com/ru/companies/ruvds/articles/993246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993246)
+- [Прощай, Ingress. Здравствуй, Gateway API](https://habr.com/ru/companies/gnivc/articles/992366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992366)
+- [ERP нового поколения. Объединение мультиагентных AI-платформ и микросервисной архитектуры](https://habr.com/ru/companies/mt-integration/articles/994898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994898)
 - [Zod: строгая валидация и удобная типизация. Опыт перехода](https://habr.com/ru/companies/banki/articles/994886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994886)
 - [Хихиканье вместо Snickers: руководство, как бизнесу переводить все на русский язык и не нарушить закон](https://habr.com/ru/articles/994884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994884)
-- [Книга: «Эффективный Node.js»](https://habr.com/ru/companies/piter/articles/992354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992354)
-- [Организация производства Информационных систем. Часть 5. Проектирование, дизайн, формирование требований](https://habr.com/ru/articles/994798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994798)
-- [Кубик Рубика и суперспособности. Как думают компьютер, робот и человек, когда решают кубик 3×3×3?](https://habr.com/ru/articles/994868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994868)
 <!-- BLOG-POST-LIST:END -->
 
 ---
