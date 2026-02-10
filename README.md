@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Интерактивная поздравительная открытка на JavaScript](https://habr.com/ru/companies/ruvds/articles/993246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993246)
-- [Прощай, Ingress. Здравствуй, Gateway API](https://habr.com/ru/companies/gnivc/articles/992366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992366)
-- [ERP нового поколения. Объединение мультиагентных AI-платформ и микросервисной архитектуры](https://habr.com/ru/companies/mt-integration/articles/994898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994898)
-- [Zod: строгая валидация и удобная типизация. Опыт перехода](https://habr.com/ru/companies/banki/articles/994886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994886)
-- [Хихиканье вместо Snickers: руководство, как бизнесу переводить все на русский язык и не нарушить закон](https://habr.com/ru/articles/994884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994884)
+- [Вопросы через боль: как посчитать облако и не сойти с ума?](https://habr.com/ru/companies/finops_ru/articles/994980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994980)
+- [Firefox vs Chrome DevTools: Где что удобнее?](https://habr.com/ru/companies/timeweb/articles/991138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991138)
+- [Qtek S200: современный взгляд на коммуникатор эпохи Windows Mobile](https://habr.com/ru/companies/ru_mts/articles/994942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994942)
+- [Метрики ИТ и CIO. Что есть хорошо, а что не очень](https://habr.com/ru/articles/994966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994966)
+- [XDP + Jenkins: высокоскоростной фильтр по TLS-отпечаткам](https://habr.com/ru/articles/994962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994962)
 <!-- BLOG-POST-LIST:END -->
 
 ---
