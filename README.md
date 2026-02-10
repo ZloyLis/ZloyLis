@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ксаверий, Терминус и языковые модели против кодировщиков](https://habr.com/ru/articles/994838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994838)
-- [Один primary в поле среди 800 миллионов пользователей — надо ли так делать?](https://habr.com/ru/articles/994662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994662)
-- [Глобальная область видимости в JavaScript](https://habr.com/ru/articles/994816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994816)
-- [Как мы автоматизировали чанкование для RAG в Gramax: от прототипа до 95%+ точности](https://habr.com/ru/companies/gram_ax/articles/994782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994782)
-- [Как сделать приложение без программиста: личный опыт контент-редактора Рунити](https://habr.com/ru/companies/runity/articles/994790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994790)
+- [Zod: строгая валидация и удобная типизация. Опыт перехода](https://habr.com/ru/companies/banki/articles/994886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994886)
+- [Хихиканье вместо Snickers: руководство, как бизнесу переводить все на русский язык и не нарушить закон](https://habr.com/ru/articles/994884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994884)
+- [Книга: «Эффективный Node.js»](https://habr.com/ru/companies/piter/articles/992354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992354)
+- [Организация производства Информационных систем. Часть 5. Проектирование, дизайн, формирование требований](https://habr.com/ru/articles/994798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994798)
+- [Кубик Рубика и суперспособности. Как думают компьютер, робот и человек, когда решают кубик 3×3×3?](https://habr.com/ru/articles/994868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994868)
 <!-- BLOG-POST-LIST:END -->
 
 ---
