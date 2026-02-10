@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [nanoCAD Механика PRO: принципы параметрического моделирования и автоматизации создания машиностроительной документации](https://habr.com/ru/companies/nanosoft/articles/994536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994536)
-- [Приложение на Go шаг за шагом. Часть 4: отправка сообщений об ошибках](https://habr.com/ru/companies/yandex_praktikum/articles/991602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991602)
-- [ПСБ + НСПК = сервис мгновенного обмена счетами и их оплаты «Запрос о платеже». Как это устроено?](https://habr.com/ru/companies/psb/articles/991700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991700)
-- [Ваше собеседование уже слили. Рынок, где работают «волки»](https://habr.com/ru/articles/993356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993356)
-- [Как перестать угадывать цены и довериться теории вероятностей. Хроника одного эксперимента](https://habr.com/ru/articles/993978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993978)
+- [Как сделать приложение без программиста: личный опыт контент-редактора Рунити](https://habr.com/ru/companies/runity/articles/994790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994790)
+- [[Перевод] Планировщик Go](https://habr.com/ru/companies/timeweb/articles/989782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989782)
+- [SSR vs CSR vs гибрид. Сравниваем подходы к рендерингу страниц Django-приложения](https://habr.com/ru/companies/selectel/articles/994576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994576)
+- [Cucumber должен умереть: Как с помощью BDR превратить код в отчеты без регулярок и регистрации?](https://habr.com/ru/articles/994732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994732)
+- [Zero Trust и LLM в корпорации, что это и зачем надо](https://habr.com/ru/articles/994746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994746)
 <!-- BLOG-POST-LIST:END -->
 
 ---
