@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ксаверий, Терминус и языковые модели против кодировщиков](https://habr.com/ru/articles/994838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994838)
+- [Один primary в поле среди 800 миллионов пользователей — надо ли так делать?](https://habr.com/ru/articles/994662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994662)
+- [Глобальная область видимости в JavaScript](https://habr.com/ru/articles/994816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994816)
+- [Как мы автоматизировали чанкование для RAG в Gramax: от прототипа до 95%+ точности](https://habr.com/ru/companies/gram_ax/articles/994782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994782)
 - [Как сделать приложение без программиста: личный опыт контент-редактора Рунити](https://habr.com/ru/companies/runity/articles/994790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994790)
-- [[Перевод] Планировщик Go](https://habr.com/ru/companies/timeweb/articles/989782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989782)
-- [SSR vs CSR vs гибрид. Сравниваем подходы к рендерингу страниц Django-приложения](https://habr.com/ru/companies/selectel/articles/994576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994576)
-- [Cucumber должен умереть: Как с помощью BDR превратить код в отчеты без регулярок и регистрации?](https://habr.com/ru/articles/994732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994732)
-- [Zero Trust и LLM в корпорации, что это и зачем надо](https://habr.com/ru/articles/994746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994746)
 <!-- BLOG-POST-LIST:END -->
 
 ---
