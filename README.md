@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [nanoCAD Механика PRO: принципы параметрического моделирования и автоматизации создания машиностроительной документации](https://habr.com/ru/companies/nanosoft/articles/994536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994536)
+- [Приложение на Go шаг за шагом. Часть 4: отправка сообщений об ошибках](https://habr.com/ru/companies/yandex_praktikum/articles/991602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991602)
+- [ПСБ + НСПК = сервис мгновенного обмена счетами и их оплаты «Запрос о платеже». Как это устроено?](https://habr.com/ru/companies/psb/articles/991700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991700)
+- [Ваше собеседование уже слили. Рынок, где работают «волки»](https://habr.com/ru/articles/993356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993356)
 - [Как перестать угадывать цены и довериться теории вероятностей. Хроника одного эксперимента](https://habr.com/ru/articles/993978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993978)
-- [Система частиц в The 13th Sign](https://habr.com/ru/articles/994682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994682)
-- [C/C++ вместе с Kotlin Multiplatform](https://habr.com/ru/articles/994654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994654)
-- [Индикация смены раскладки клавиатуры в виде лампы с RGB-светодиодом для Gnome](https://habr.com/ru/articles/994640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994640)
-- [Посадка на Луну](https://habr.com/ru/articles/993972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993972)
 <!-- BLOG-POST-LIST:END -->
 
 ---
