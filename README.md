@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [INSERT в StarRocks: как три кластера раскрыли цену commit protocol](https://habr.com/ru/articles/995484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995484)
+- [Кто такой SRE-инженер и чем он занимается в Авито](https://habr.com/ru/companies/avito/articles/992340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992340)
 - [[Перевод] HotSpot AOT-кэш: стартуем быстрее, греемся меньше](https://habr.com/ru/companies/spring_aio/articles/995398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995398)
 - [Безопасность Kubernetes: полный гайд для начинающих или как не повторить ошибку Tesla](https://habr.com/ru/companies/otus/articles/994136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994136)
 - [Три агента, один репозиторий, ноль менеджеров. Как я построил конвейер, где ИИ пишет, ревьюит и деплоит код](https://habr.com/ru/articles/995430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995430)
-- [Порешаем интересные задачки по алгебре](https://habr.com/ru/articles/995406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995406)
-- [Топ-5 бесплатных нейросетей для транскрибации речи с помощью ИИ](https://habr.com/ru/companies/bothub/articles/994476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994476)
 <!-- BLOG-POST-LIST:END -->
 
 ---
