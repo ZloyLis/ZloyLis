@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему юридические сервисы без data-подхода не масштабируются](https://habr.com/ru/articles/995326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995326)
+- [Солнечный трекер на Arduino](https://habr.com/ru/articles/995324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995324)
 - [Какие две проблемы пытается решить Entire — «GitHub для агентов» от экс-CEO GitHub](https://habr.com/ru/articles/995292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995292)
 - [Veai 5.4: изображения в чате, компрессия контекста и до 70% экономии на Anthropic](https://habr.com/ru/companies/veai/articles/995286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995286)
 - [[Перевод] Вайб-кодинг — это была подстава?](https://habr.com/ru/companies/bothub/articles/995260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995260)
-- [WebSocket на Go: от эксперимента до production-ready решения](https://habr.com/ru/articles/995284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995284)
-- [Как стать HR в IT-компании](https://habr.com/ru/companies/habr_career/articles/995266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995266)
 <!-- BLOG-POST-LIST:END -->
 
 ---
