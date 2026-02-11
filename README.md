@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Какие две проблемы пытается решить Entire — «GitHub для агентов» от экс-CEO GitHub](https://habr.com/ru/articles/995292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995292)
+- [Veai 5.4: изображения в чате, компрессия контекста и до 70% экономии на Anthropic](https://habr.com/ru/companies/veai/articles/995286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995286)
+- [[Перевод] Вайб-кодинг — это была подстава?](https://habr.com/ru/companies/bothub/articles/995260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995260)
+- [WebSocket на Go: от эксперимента до production-ready решения](https://habr.com/ru/articles/995284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995284)
 - [Как стать HR в IT-компании](https://habr.com/ru/companies/habr_career/articles/995266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995266)
-- [ИИ ускоряет ресёрч — и так же быстро может вас утопить](https://habr.com/ru/companies/skbkontur/articles/994836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994836)
-- [Frontend Status: свежий дайджест фронтенда и AI — 10.02.2026](https://habr.com/ru/articles/995086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995086)
-- [Детские книги про данные, логику и визуализацию](https://habr.com/ru/articles/995248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995248)
-- [[Перевод] Понимание бизнес-потребностей: как команде по данным оставаться востребованной](https://habr.com/ru/articles/989250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989250)
 <!-- BLOG-POST-LIST:END -->
 
 ---
