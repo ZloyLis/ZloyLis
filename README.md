@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Подключение авторизации через TG и VK или почувствуйте боль локальной разработки](https://habr.com/ru/articles/995504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995504)
+- [Методику аппроксимации функцией двух переменных](https://habr.com/ru/articles/995502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995502)
+- [Интеграция 40+ дилеров через REST API: как мы построили портал запчастей для Ростсельмаш](https://habr.com/ru/articles/995496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995496)
 - [INSERT в StarRocks: как три кластера раскрыли цену commit protocol](https://habr.com/ru/articles/995484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995484)
 - [Кто такой SRE-инженер и чем он занимается в Авито](https://habr.com/ru/companies/avito/articles/992340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992340)
-- [[Перевод] HotSpot AOT-кэш: стартуем быстрее, греемся меньше](https://habr.com/ru/companies/spring_aio/articles/995398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995398)
-- [Безопасность Kubernetes: полный гайд для начинающих или как не повторить ошибку Tesla](https://habr.com/ru/companies/otus/articles/994136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994136)
-- [Три агента, один репозиторий, ноль менеджеров. Как я построил конвейер, где ИИ пишет, ревьюит и деплоит код](https://habr.com/ru/articles/995430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995430)
 <!-- BLOG-POST-LIST:END -->
 
 ---
