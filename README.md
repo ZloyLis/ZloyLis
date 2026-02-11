@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [От идей к коду: проверяю теорию внимания на практике](https://habr.com/ru/articles/995070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995070)
-- [SIMDe, дополнение к DOD архетектуре](https://habr.com/ru/articles/995072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995072)
-- [Сервисворкер: когда Workbox уже слишком тяжёлый](https://habr.com/ru/articles/995064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995064)
-- [Ускоряем инференс в Python с ONNX](https://habr.com/ru/companies/otus/articles/991542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991542)
-- [C Django Rest Framework мы все дальше от Бога](https://habr.com/ru/articles/995010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995010)
+- [Аналитика аналитики. Как вести аналитику и исследования в IT и не только лучше](https://habr.com/ru/articles/995202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995202)
+- [Используем Coolify для хостинга проектов на своём VPS. Часть 3: деплой приложений](https://habr.com/ru/companies/timeweb/articles/993092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993092)
+- [Open source — это про людей. Как из зернышка прорастает дерево](https://habr.com/ru/companies/tbank/articles/994380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994380)
+- [[Перевод] AI-агенты, управляемые BPMN, убьют веб-формы](https://habr.com/ru/articles/995096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995096)
+- [Нужно ли обучать YOLO с нуля? Практические выводы](https://habr.com/ru/articles/994080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994080)
 <!-- BLOG-POST-LIST:END -->
 
 ---
