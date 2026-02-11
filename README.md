@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Почему юридические сервисы без data-подхода не масштабируются](https://habr.com/ru/articles/995326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995326)
-- [Солнечный трекер на Arduino](https://habr.com/ru/articles/995324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995324)
-- [Какие две проблемы пытается решить Entire — «GitHub для агентов» от экс-CEO GitHub](https://habr.com/ru/articles/995292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995292)
-- [Veai 5.4: изображения в чате, компрессия контекста и до 70% экономии на Anthropic](https://habr.com/ru/companies/veai/articles/995286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995286)
-- [[Перевод] Вайб-кодинг — это была подстава?](https://habr.com/ru/companies/bothub/articles/995260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995260)
+- [Все банки делают это — завышают проценты при досрочных и ежемесячных погашениях](https://habr.com/ru/companies/ruvds/articles/995052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995052)
+- [Мобильный ИИ как платформенный слой: Pixel 10 и iPhone 17 — on-device, приватное облако и границы доверия](https://habr.com/ru/companies/sberbank/articles/995386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995386)
+- [Встроенный поиск по документации в KodaCode. Сравниваем с Context7](https://habr.com/ru/companies/koda/articles/995364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995364)
+- [Мой опыт решения 50 задач по динамическому программированию из LeetCode-плана за 24 дня](https://habr.com/ru/articles/995376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995376)
+- [Используем паттерны C++ в ML: пишем тензор с factory, выделяем память и управляем динамическими типами](https://habr.com/ru/companies/yadro/articles/994326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994326)
 <!-- BLOG-POST-LIST:END -->
 
 ---
