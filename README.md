@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Все банки делают это — завышают проценты при досрочных и ежемесячных погашениях](https://habr.com/ru/companies/ruvds/articles/995052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995052)
-- [Мобильный ИИ как платформенный слой: Pixel 10 и iPhone 17 — on-device, приватное облако и границы доверия](https://habr.com/ru/companies/sberbank/articles/995386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995386)
-- [Встроенный поиск по документации в KodaCode. Сравниваем с Context7](https://habr.com/ru/companies/koda/articles/995364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995364)
-- [Мой опыт решения 50 задач по динамическому программированию из LeetCode-плана за 24 дня](https://habr.com/ru/articles/995376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995376)
-- [Используем паттерны C++ в ML: пишем тензор с factory, выделяем память и управляем динамическими типами](https://habr.com/ru/companies/yadro/articles/994326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994326)
+- [[Перевод] HotSpot AOT-кэш: стартуем быстрее, греемся меньше](https://habr.com/ru/companies/spring_aio/articles/995398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995398)
+- [Безопасность Kubernetes: полный гайд для начинающих или как не повторить ошибку Tesla](https://habr.com/ru/companies/otus/articles/994136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994136)
+- [Три агента, один репозиторий, ноль менеджеров. Как я построил конвейер, где ИИ пишет, ревьюит и деплоит код](https://habr.com/ru/articles/995430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995430)
+- [Порешаем интересные задачки по алгебре](https://habr.com/ru/articles/995406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995406)
+- [Топ-5 бесплатных нейросетей для транскрибации речи с помощью ИИ](https://habr.com/ru/companies/bothub/articles/994476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994476)
 <!-- BLOG-POST-LIST:END -->
 
 ---
