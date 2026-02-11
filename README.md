@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Аналитика аналитики. Как вести аналитику и исследования в IT и не только лучше](https://habr.com/ru/articles/995202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995202)
-- [Используем Coolify для хостинга проектов на своём VPS. Часть 3: деплой приложений](https://habr.com/ru/companies/timeweb/articles/993092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993092)
-- [Open source — это про людей. Как из зернышка прорастает дерево](https://habr.com/ru/companies/tbank/articles/994380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994380)
-- [[Перевод] AI-агенты, управляемые BPMN, убьют веб-формы](https://habr.com/ru/articles/995096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995096)
-- [Нужно ли обучать YOLO с нуля? Практические выводы](https://habr.com/ru/articles/994080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994080)
+- [Как стать HR в IT-компании](https://habr.com/ru/companies/habr_career/articles/995266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995266)
+- [ИИ ускоряет ресёрч — и так же быстро может вас утопить](https://habr.com/ru/companies/skbkontur/articles/994836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994836)
+- [Frontend Status: свежий дайджест фронтенда и AI — 10.02.2026](https://habr.com/ru/articles/995086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995086)
+- [Детские книги про данные, логику и визуализацию](https://habr.com/ru/articles/995248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995248)
+- [[Перевод] Понимание бизнес-потребностей: как команде по данным оставаться востребованной](https://habr.com/ru/articles/989250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989250)
 <!-- BLOG-POST-LIST:END -->
 
 ---
