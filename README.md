@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [PG_EXPECTO v.7: Комплексный статистический анализ ожиданий СУБД PostgreSQL](https://habr.com/ru/articles/995962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995962)
+- [Рынок труда — это галлюцинация: как нейросети нанимают нейросети, пока люди сидят без работы](https://habr.com/ru/articles/995960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995960)
+- [Notepad++: счетчики выделенных слов в StatusBar &lpar;python скрипт&rpar;](https://habr.com/ru/articles/995078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995078)
 - [Как мы готовили Kubernetes под ML-нагрузки: пошаговый гайд &lpar;и что пошло не так&rpar;](https://habr.com/ru/companies/sovcombank_technologies/articles/994534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994534)
 - [Хеш-таблица это не О&lpar;1&rpar;](https://habr.com/ru/articles/995544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995544)
-- [Один «странный» случай индексного сканирования](https://habr.com/ru/companies/gnivc/articles/992660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992660)
-- [[Перевод] Программирование, ориентированное на данные, для Java: за пределами record-классов](https://habr.com/ru/companies/spring_aio/articles/995824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995824)
-- [Как использовать Emby на iOS без подписки Emby Premier](https://habr.com/ru/articles/995826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995826)
 <!-- BLOG-POST-LIST:END -->
 
 ---
