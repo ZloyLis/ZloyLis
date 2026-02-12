@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Магия вне Хогвартса: как делать «дорогой» UI, не перегружая GPU](https://habr.com/ru/articles/995538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995538)
+- [Не искусственный интеллект: как устроена научная работа в российских ИИ-лабораториях в 2026](https://habr.com/ru/articles/995646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995646)
+- [Почему план «заменить разработчиков ИИ» превращается в техдолг и кадровый кризис](https://habr.com/ru/articles/995640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995640)
+- [[Перевод] Dart 3.11 — что нового в Dart?](https://habr.com/ru/articles/995624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995624)
 - [[Перевод] Flutter 3.41 — Что нового во Flutter?](https://habr.com/ru/articles/995604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995604)
-- [Реальные задачи с собеседований в Яндекс, VK, Ozon и Сбер — Go, Java, Python, React](https://habr.com/ru/articles/995600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995600)
-- [OpenCL, SYCL и матрицы](https://habr.com/ru/articles/994986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994986)
-- [Как я устал пересчитывать кгс/см² в бары и написал своё приложение на Python](https://habr.com/ru/articles/995558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995558)
-- [Подключение авторизации через TG и VK или почувствуйте боль локальной разработки](https://habr.com/ru/articles/995504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995504)
 <!-- BLOG-POST-LIST:END -->
 
 ---
