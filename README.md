@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ТОП-10 интернет-магазинов товаров для строительства и ремонта &lpar;DIY&rpar;: 60 удачных UX-решений](https://habr.com/ru/articles/995706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995706)
+- [Как устроена работа продуктовых аналитиков в 2026 году. Исследование ИТ-компаний](https://habr.com/ru/companies/lamoda/articles/995304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995304)
+- [Удалять нельзя добавлять](https://habr.com/ru/articles/995736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995736)
+- [Почему индустриальный подход к качеству важнее Agile-ритуалов](https://habr.com/ru/articles/995772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995772)
 - [«У меня нет метрик в портфеле и не знаю откуда их взять»](https://habr.com/ru/articles/995724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995724)
-- [Считаем ресурсы под PostgreSQL](https://habr.com/ru/articles/995722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995722)
-- [От vibe coding к Spec-Driven Development: как приручить скорость ИИ и довести проект до продакшена](https://habr.com/ru/companies/X5Tech/articles/995466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995466)
-- [10 000 RPS и доступность 99,99%: как устроено шардирование PG в процессинге Яндекс Такси](https://habr.com/ru/companies/yandex/articles/985030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985030)
-- [В умелых руках и LLM — балалайка](https://habr.com/ru/articles/995664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995664)
 <!-- BLOG-POST-LIST:END -->
 
 ---
