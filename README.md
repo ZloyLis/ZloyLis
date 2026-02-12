@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Flutter 3.41 — Что нового во Flutter?](https://habr.com/ru/articles/995604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995604)
 - [Реальные задачи с собеседований в Яндекс, VK, Ozon и Сбер — Go, Java, Python, React](https://habr.com/ru/articles/995600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995600)
 - [OpenCL, SYCL и матрицы](https://habr.com/ru/articles/994986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994986)
 - [Как я устал пересчитывать кгс/см² в бары и написал своё приложение на Python](https://habr.com/ru/articles/995558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995558)
 - [Подключение авторизации через TG и VK или почувствуйте боль локальной разработки](https://habr.com/ru/articles/995504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995504)
-- [Методику аппроксимации функцией двух переменных](https://habr.com/ru/articles/995502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995502)
 <!-- BLOG-POST-LIST:END -->
 
 ---
