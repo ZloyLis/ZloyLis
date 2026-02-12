@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как приблизить веб-звонки к нативному UX](https://habr.com/ru/articles/995676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995676)
+- [Пошаговое руководство: Установка отказоустойчивого кластера Kubernetes 1.35 с помощью kubeadm на Ubuntu 24.04](https://habr.com/ru/articles/995674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995674)
+- [Антипаттерны на питоне, которые меня победили](https://habr.com/ru/companies/timeweb/articles/988840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988840)
 - [Магия вне Хогвартса: как делать «дорогой» UI, не перегружая GPU](https://habr.com/ru/articles/995538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995538)
 - [Не искусственный интеллект: как устроена научная работа в российских ИИ-лабораториях в 2026](https://habr.com/ru/articles/995646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995646)
-- [Почему план «заменить разработчиков ИИ» превращается в техдолг и кадровый кризис](https://habr.com/ru/articles/995640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995640)
-- [[Перевод] Dart 3.11 — что нового в Dart?](https://habr.com/ru/articles/995624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995624)
-- [[Перевод] Flutter 3.41 — Что нового во Flutter?](https://habr.com/ru/articles/995604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995604)
 <!-- BLOG-POST-LIST:END -->
 
 ---
