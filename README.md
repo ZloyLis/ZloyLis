@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Хеш-таблица это не О&lpar;1&rpar;](https://habr.com/ru/articles/995544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995544)
+- [Один «странный» случай индексного сканирования](https://habr.com/ru/companies/gnivc/articles/992660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992660)
+- [[Перевод] Программирование, ориентированное на данные, для Java: за пределами record-классов](https://habr.com/ru/companies/spring_aio/articles/995824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995824)
 - [Как использовать Emby на iOS без подписки Emby Premier](https://habr.com/ru/articles/995826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995826)
 - [Грейд по коду, а не по трудовой: гибридный анализ репозиториев с помощью GraphCodeBERT и метрик](https://habr.com/ru/articles/995822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995822)
-- [Повысили производительность облака и добавили новые GPU: дайджест обновлений продуктов Selectel в январе](https://habr.com/ru/companies/selectel/articles/995748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995748)
-- [Создание физического движка при помощи BVH](https://habr.com/ru/articles/995794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995794)
-- [ТОП-10 интернет-магазинов товаров для строительства и ремонта &lpar;DIY&rpar;: 60 удачных UX-решений](https://habr.com/ru/articles/995706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995706)
 <!-- BLOG-POST-LIST:END -->
 
 ---
