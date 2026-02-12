@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как использовать Emby на iOS без подписки Emby Premier](https://habr.com/ru/articles/995826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995826)
+- [Грейд по коду, а не по трудовой: гибридный анализ репозиториев с помощью GraphCodeBERT и метрик](https://habr.com/ru/articles/995822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995822)
+- [Повысили производительность облака и добавили новые GPU: дайджест обновлений продуктов Selectel в январе](https://habr.com/ru/companies/selectel/articles/995748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995748)
 - [Создание физического движка при помощи BVH](https://habr.com/ru/articles/995794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995794)
 - [ТОП-10 интернет-магазинов товаров для строительства и ремонта &lpar;DIY&rpar;: 60 удачных UX-решений](https://habr.com/ru/articles/995706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995706)
-- [Как устроена работа продуктовых аналитиков в 2026 году. Исследование ИТ-компаний](https://habr.com/ru/companies/lamoda/articles/995304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995304)
-- [Удалять нельзя добавлять](https://habr.com/ru/articles/995736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995736)
-- [Почему индустриальный подход к качеству важнее Agile-ритуалов](https://habr.com/ru/articles/995772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995772)
 <!-- BLOG-POST-LIST:END -->
 
 ---
