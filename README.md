@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как приблизить веб-звонки к нативному UX](https://habr.com/ru/articles/995676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995676)
-- [Пошаговое руководство: Установка отказоустойчивого кластера Kubernetes 1.35 с помощью kubeadm на Ubuntu 24.04](https://habr.com/ru/articles/995674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995674)
-- [Антипаттерны на питоне, которые меня победили](https://habr.com/ru/companies/timeweb/articles/988840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988840)
-- [Магия вне Хогвартса: как делать «дорогой» UI, не перегружая GPU](https://habr.com/ru/articles/995538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995538)
-- [Не искусственный интеллект: как устроена научная работа в российских ИИ-лабораториях в 2026](https://habr.com/ru/articles/995646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995646)
+- [«У меня нет метрик в портфеле и не знаю откуда их взять»](https://habr.com/ru/articles/995724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995724)
+- [Считаем ресурсы под PostgreSQL](https://habr.com/ru/articles/995722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995722)
+- [От vibe coding к Spec-Driven Development: как приручить скорость ИИ и довести проект до продакшена](https://habr.com/ru/companies/X5Tech/articles/995466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995466)
+- [10 000 RPS и доступность 99,99%: как устроено шардирование PG в процессинге Яндекс Такси](https://habr.com/ru/companies/yandex/articles/985030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985030)
+- [В умелых руках и LLM — балалайка](https://habr.com/ru/articles/995664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995664)
 <!-- BLOG-POST-LIST:END -->
 
 ---
