@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создание физического движка при помощи BVH](https://habr.com/ru/articles/995794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995794)
 - [ТОП-10 интернет-магазинов товаров для строительства и ремонта &lpar;DIY&rpar;: 60 удачных UX-решений](https://habr.com/ru/articles/995706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995706)
 - [Как устроена работа продуктовых аналитиков в 2026 году. Исследование ИТ-компаний](https://habr.com/ru/companies/lamoda/articles/995304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995304)
 - [Удалять нельзя добавлять](https://habr.com/ru/articles/995736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995736)
 - [Почему индустриальный подход к качеству важнее Agile-ритуалов](https://habr.com/ru/articles/995772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995772)
-- [«У меня нет метрик в портфеле и не знаю откуда их взять»](https://habr.com/ru/articles/995724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995724)
 <!-- BLOG-POST-LIST:END -->
 
 ---
