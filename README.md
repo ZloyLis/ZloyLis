@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От идеи к экосистеме: Как я строю свой opensource-проект mute для пентеста](https://habr.com/ru/articles/996036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996036)
 - [Анатомия FPV-дрона на столе. Обзор учебного стенда FPV-Lab и опыт внедрения](https://habr.com/ru/articles/996028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996028)
 - [Я до сих пор бомблю от редизайна DuoLingo. Настолько, что сделал свой велосипед](https://habr.com/ru/articles/996022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996022)
 - [Сначала Firebase, теперь Telegram. Как доставлять сборки, когда всё ломается?](https://habr.com/ru/articles/996014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996014)
 - [PostgreSQL 19: Часть 4 или Коммитфест 2026-01](https://habr.com/ru/companies/postgrespro/articles/996010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996010)
-- [PG_EXPECTO v.7: Комплексный статистический анализ ожиданий СУБД PostgreSQL](https://habr.com/ru/articles/995962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995962)
 <!-- BLOG-POST-LIST:END -->
 
 ---
