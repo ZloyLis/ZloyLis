@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Импакт под прикрытием: почему российские ИТ-гиганты стесняются называть свои продукты социальными](https://habr.com/ru/articles/996336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996336)
+- [Стоит ли ходить на стажировки QA? Мой опыт в Ozon Tech от отклика и до нашей эры](https://habr.com/ru/companies/ozontech/articles/996238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996238)
+- [Планировщик задач для iOS: топ-8 актуальных приложений в 2026](https://habr.com/ru/companies/leadertask/articles/996316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996316)
 - [[Перевод] Подводные камни миграции на Swift 6, о которых стоит знать](https://habr.com/ru/companies/otus/articles/996304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996304)
 - [Digital Q.DataBase в Docker: быстрый старт с Oracle и MS SQL-совместимостью](https://habr.com/ru/companies/diasoft_company/articles/996300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996300)
-- [Гибкость технического интервью](https://habr.com/ru/articles/996296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996296)
-- [Тапают роботы, счастлив человек: как мы сделали робопалец для тестов устройств с мобильной ОС](https://habr.com/ru/companies/kaspersky/articles/993172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993172)
-- [Когда сертификация — это не бумажка: как мы перестраивали Nova под требования ФСТЭК России](https://habr.com/ru/companies/orion_soft/articles/996262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996262)
 <!-- BLOG-POST-LIST:END -->
 
 ---
