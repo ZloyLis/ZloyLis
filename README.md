@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Контент-заводы: как ИИ убивает интернет](https://habr.com/ru/articles/996412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996412)
 - [[Перевод] У AI-художников нет ролевых моделей](https://habr.com/ru/companies/bothub/articles/996100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996100)
 - [Отладка STM32 программатором J-LINK по SWD](https://habr.com/ru/articles/995996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995996)
 - [Импакт под прикрытием: почему российские ИТ-гиганты стесняются называть свои продукты социальными](https://habr.com/ru/articles/996336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996336)
 - [Стоит ли ходить на стажировки QA? Мой опыт в Ozon Tech от отклика и до нашей эры](https://habr.com/ru/companies/ozontech/articles/996238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996238)
-- [Планировщик задач для iOS: топ-8 актуальных приложений в 2026](https://habr.com/ru/companies/leadertask/articles/996316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996316)
 <!-- BLOG-POST-LIST:END -->
 
 ---
