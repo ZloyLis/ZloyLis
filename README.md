@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как материя становится антиматерией: тайна формулы Эйлера](https://habr.com/ru/articles/996074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996074)
-- [Как защитить ключи LUKS с помощью Рутокен ЭЦП 3.0 и алгоритмов ГОСТ Р 34.10-2012. Часть 3](https://habr.com/ru/companies/aktiv-company/articles/994834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994834)
-- [trackOpBits во Vue 3: как битовые маски ускоряют ReactiveEffect](https://habr.com/ru/articles/996052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996052)
-- [Game Engine 3 — создание игр и приложений без кода](https://habr.com/ru/articles/995984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995984)
-- [Как мы научились определять продвинутые автоответчики](https://habr.com/ru/articles/996044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996044)
+- [Редизайн Telegram: как Павел Дуров вновь разозлил пользователей](https://habr.com/ru/companies/onlinepatent/articles/996104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996104)
+- [Естественные преобразования. Часть 2](https://habr.com/ru/articles/993788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993788)
+- [Мертвые не кусаются, но светятся: как работает приложение Локатор в iOS в 2026 году](https://habr.com/ru/articles/995548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995548)
+- [3D-мозаики и скульптуры из кубиков Рубика](https://habr.com/ru/articles/996086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996086)
+- [Паттерн Transactional Outbox — обеспечиваем консистентность между микросервисами на примере Java](https://habr.com/ru/articles/996080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996080)
 <!-- BLOG-POST-LIST:END -->
 
 ---
