@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как искать проблемы по-новому](https://habr.com/ru/companies/skbkontur/articles/995872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995872)
+- [Тихие сбои React Compiler и как их исправить](https://habr.com/ru/companies/otus/articles/996174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996174)
 - [[Перевод] Шаблоны проектирования поглощения данных-01: пакетная обработка, потоковая передача и CDC — практическое руководство](https://habr.com/ru/companies/piter/articles/996148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996148)
 - [Почему ИИ ставит KPI выше безопасности людей: результаты бенчмарка ODCV-Bench](https://habr.com/ru/companies/bastion/articles/995322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995322)
 - [Создание системы по управлению цифровыми активами для базы данных PostGIS. Часть 2. Работа с текстом](https://habr.com/ru/articles/996128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996128)
-- [Редизайн Telegram: как Павел Дуров вновь разозлил пользователей](https://habr.com/ru/companies/onlinepatent/articles/996104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996104)
-- [Естественные преобразования. Часть 2](https://habr.com/ru/articles/993788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993788)
 <!-- BLOG-POST-LIST:END -->
 
 ---
