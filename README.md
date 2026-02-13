@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Я заразил 200 нейросетей вирусом. К 20-му поколению они выработали иммунитет — и разучились думать](https://habr.com/ru/articles/996244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996244)
-- [[Перевод] 12 инсайтов ведущего инженера OpenAI про разработку и внедрение AI](https://habr.com/ru/articles/996234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996234)
-- [Микро-CRM для микро-бизнеса или зачем сеньору пилить пет-проекты](https://habr.com/ru/articles/996216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996216)
-- [Обзор рынка ITSM/ESM-систем 2026: анализ лидеров — по внедрению, кастомизации и ценам](https://habr.com/ru/companies/simpleone/articles/996184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996184)
-- [Vulkan API. От нуля до первого треугольника](https://habr.com/ru/articles/992894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992894)
+- [[Перевод] Подводные камни миграции на Swift 6, о которых стоит знать](https://habr.com/ru/companies/otus/articles/996304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996304)
+- [Digital Q.DataBase в Docker: быстрый старт с Oracle и MS SQL-совместимостью](https://habr.com/ru/companies/diasoft_company/articles/996300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996300)
+- [Гибкость технического интервью](https://habr.com/ru/articles/996296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996296)
+- [Тапают роботы, счастлив человек: как мы сделали робопалец для тестов устройств с мобильной ОС](https://habr.com/ru/companies/kaspersky/articles/993172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993172)
+- [Когда сертификация — это не бумажка: как мы перестраивали Nova под требования ФСТЭК России](https://habr.com/ru/companies/orion_soft/articles/996262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996262)
 <!-- BLOG-POST-LIST:END -->
 
 ---
