@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [trackOpBits во Vue 3: как битовые маски ускоряют ReactiveEffect](https://habr.com/ru/articles/996052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996052)
+- [Game Engine 3 — создание игр и приложений без кода](https://habr.com/ru/articles/995984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995984)
 - [Как мы научились определять продвинутые автоответчики](https://habr.com/ru/articles/996044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996044)
 - [От идеи к экосистеме: Как я строю свой opensource-проект mute для пентеста](https://habr.com/ru/articles/996036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996036)
 - [Анатомия FPV-дрона на столе. Обзор учебного стенда FPV-Lab и опыт внедрения](https://habr.com/ru/articles/996028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996028)
-- [Я до сих пор бомблю от редизайна DuoLingo. Настолько, что сделал свой велосипед](https://habr.com/ru/articles/996022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996022)
-- [Сначала Firebase, теперь Telegram. Как доставлять сборки, когда всё ломается?](https://habr.com/ru/articles/996014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996014)
 <!-- BLOG-POST-LIST:END -->
 
 ---
