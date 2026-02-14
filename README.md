@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Немного об операторах New и Delete | C++](https://habr.com/ru/articles/996452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996452)
 - [Если “телега” больше не поедет: план Б для вайбкодеров, если заблокируют все мессенджеры](https://habr.com/ru/articles/996440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996440)
 - [Маски, Каскады, использование масок вместо циклов&lpar;В некоторых случаях&rpar; + Атомарные инструкции](https://habr.com/ru/articles/996432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996432)
 - [Контент-заводы: как ИИ убивает интернет](https://habr.com/ru/articles/996412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996412)
 - [[Перевод] У AI-художников нет ролевых моделей](https://habr.com/ru/companies/bothub/articles/996100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996100)
-- [Отладка STM32 программатором J-LINK по SWD](https://habr.com/ru/articles/995996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995996)
 <!-- BLOG-POST-LIST:END -->
 
 ---
