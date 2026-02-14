@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [25 железных правил проектирования баз данных в PostgreSQL](https://habr.com/ru/articles/996560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996560)
 - [Тип данных Real и его расхождение с реальностью при определении расстояния с помощью инкрементального энкодера](https://habr.com/ru/articles/996540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996540)
 - [View Transitions API: полное руководство по плавным переходам в браузере](https://habr.com/ru/articles/996498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996498)
 - [Кто выполняет функции системного аналитика в Германии?](https://habr.com/ru/articles/994178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994178)
 - [Небольшой тест LLM‑модели qwen3‑coder‑next:q8_0](https://habr.com/ru/articles/996486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996486)
-- [[Перевод] Структуры данных на практике. Глава 4: Массивы и локальность кэша](https://habr.com/ru/articles/992014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992014)
 <!-- BLOG-POST-LIST:END -->
 
 ---
