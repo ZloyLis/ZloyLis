@@ -36,10 +36,10 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Как QA-инженеру вырасти из джуна в руководителя?](https://habr.com/ru/companies/avito/articles/996160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996160)
-- [pineTERM — минималистичный, но мощный веб-терминал для UART](https://habr.com/ru/articles/996576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996576)
 - [Модуль sys в Python: интерфейс между вашим кодом и интерпретатором](https://habr.com/ru/articles/996564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996564)
 - [Как досчитать до бесконечности, если ты не Чак Норрис](https://habr.com/ru/articles/996470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996470)
 - [25 железных правил проектирования баз данных в PostgreSQL](https://habr.com/ru/articles/996560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996560)
+- [Тип данных Real и его расхождение с реальностью при определении расстояния с помощью инкрементального энкодера](https://habr.com/ru/articles/996540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996540)
 <!-- BLOG-POST-LIST:END -->
 
 ---
