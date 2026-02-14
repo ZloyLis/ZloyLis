@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [pineTERM — минималистичный, но мощный веб-терминал для UART](https://habr.com/ru/articles/996576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996576)
+- [Модуль sys в Python: интерфейс между вашим кодом и интерпретатором](https://habr.com/ru/articles/996564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996564)
+- [Как досчитать до бесконечности, если ты не Чак Норрис](https://habr.com/ru/articles/996470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996470)
 - [25 железных правил проектирования баз данных в PostgreSQL](https://habr.com/ru/articles/996560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996560)
 - [Тип данных Real и его расхождение с реальностью при определении расстояния с помощью инкрементального энкодера](https://habr.com/ru/articles/996540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996540)
-- [View Transitions API: полное руководство по плавным переходам в браузере](https://habr.com/ru/articles/996498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996498)
-- [Кто выполняет функции системного аналитика в Германии?](https://habr.com/ru/articles/994178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994178)
-- [Небольшой тест LLM‑модели qwen3‑coder‑next:q8_0](https://habr.com/ru/articles/996486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996486)
 <!-- BLOG-POST-LIST:END -->
 
 ---
