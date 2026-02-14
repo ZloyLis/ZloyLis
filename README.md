@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [View Transitions API: полное руководство по плавным переходам в браузере](https://habr.com/ru/articles/996498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996498)
+- [Кто выполняет функции системного аналитика в Германии?](https://habr.com/ru/articles/994178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994178)
+- [Небольшой тест LLM‑модели qwen3‑coder‑next:q8_0](https://habr.com/ru/articles/996486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996486)
+- [[Перевод] Структуры данных на практике. Глава 4: Массивы и локальность кэша](https://habr.com/ru/articles/992014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992014)
 - [Когда недостаточно ошибок I/II рода и нужно уточнить результат A/B теста](https://habr.com/ru/articles/996474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996474)
-- [Немного об операторах New и Delete | C++](https://habr.com/ru/articles/996452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996452)
-- [Если “телега” больше не поедет: план Б для вайбкодеров, если заблокируют все мессенджеры](https://habr.com/ru/articles/996440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996440)
-- [Маски, Каскады, использование масок вместо циклов&lpar;В некоторых случаях&rpar; + Атомарные инструкции](https://habr.com/ru/articles/996432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996432)
-- [Контент-заводы: как ИИ убивает интернет](https://habr.com/ru/articles/996412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996412)
 <!-- BLOG-POST-LIST:END -->
 
 ---
