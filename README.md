@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я написал Telegram-бота для SEO-аудита и не дал ему стать инструментом для атак](https://habr.com/ru/articles/996844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996844)
+- [Кризис ИИ – революция или эволюция?](https://habr.com/ru/articles/996832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996832)
+- [Школьная информатика в составлении тест-кейсов авторизации](https://habr.com/ru/articles/996838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996838)
+- [50 LLM-клеток пытались построить организм. Вот что получилось](https://habr.com/ru/articles/996836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996836)
 - [Nexus State: Современный менеджер состояния для JavaScript-приложений](https://habr.com/ru/articles/996812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996812)
-- [Обзор утилиты STM32CubeMonitor](https://habr.com/ru/articles/996774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996774)
-- [Меня уволили из-за ИИ, но я всё равно считаю себя инженером будущего](https://habr.com/ru/articles/996744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996744)
-- [Ты не устареваешь. Ты становишься волшебником](https://habr.com/ru/articles/996754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996754)
-- [Как я в 16 лет создал свой Pomodoro-таймер: месяц дисциплины и первые пользователи из 7 стран](https://habr.com/ru/articles/996734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996734)
 <!-- BLOG-POST-LIST:END -->
 
 ---
