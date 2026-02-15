@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Своя байт-код VM, шейдеры и 3 килобайта на всё: как я создавал игру за 7 дней](https://habr.com/ru/articles/996642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996642)
 - [«&lpar;Не&rpar;послушные рынки. Фрактальная революция в финансах» &lpar;ч.2&rpar;](https://habr.com/ru/articles/996554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996554)
 - [[Перевод] Почему системные вызовы обходятся дорого: углубляемся в дебри Linux](https://habr.com/ru/articles/996600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996600)
 - [Как QA-инженеру вырасти из джуна в руководителя?](https://habr.com/ru/companies/avito/articles/996160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996160)
 - [Модуль sys в Python: интерфейс между вашим кодом и интерпретатором](https://habr.com/ru/articles/996564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996564)
-- [Как досчитать до бесконечности, если ты не Чак Норрис](https://habr.com/ru/articles/996470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996470)
 <!-- BLOG-POST-LIST:END -->
 
 ---
