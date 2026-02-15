@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Эволюция ПО в разработке игр на практике: 1982 — IBM PC](https://habr.com/ru/articles/996664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996664)
+- [SDD &lpar;Spec-Driven Documentation&rpar; – фреймворк для разработки технической документации в репозитории](https://habr.com/ru/articles/996526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996526)
 - [Я добавил трейты и указатели в свой язык](https://habr.com/ru/articles/996654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996654)
 - [Своя байт-код VM, шейдеры и 3 килобайта на всё: как я создавал игру за 7 дней](https://habr.com/ru/articles/996642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996642)
 - [«&lpar;Не&rpar;послушные рынки. Фрактальная революция в финансах» &lpar;ч.2&rpar;](https://habr.com/ru/articles/996554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996554)
-- [[Перевод] Почему системные вызовы обходятся дорого: углубляемся в дебри Linux](https://habr.com/ru/articles/996600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996600)
-- [Как QA-инженеру вырасти из джуна в руководителя?](https://habr.com/ru/companies/avito/articles/996160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996160)
 <!-- BLOG-POST-LIST:END -->
 
 ---
