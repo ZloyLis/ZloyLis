@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Алгоритм мягкой обводки текста](https://habr.com/ru/articles/996884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996884)
+- [ReactiveEffect во Vue 3: что на самом деле исполняет вашу реактивность](https://habr.com/ru/articles/996880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996880)
 - [Как я написал Telegram-бота для SEO-аудита и не дал ему стать инструментом для атак](https://habr.com/ru/articles/996844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996844)
 - [Школьная информатика в составлении тест-кейсов авторизации](https://habr.com/ru/articles/996838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996838)
 - [50 LLM-клеток пытались построить организм. Вот что получилось](https://habr.com/ru/articles/996836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996836)
-- [Nexus State: Современный менеджер состояния для JavaScript-приложений](https://habr.com/ru/articles/996812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996812)
-- [Обзор утилиты STM32CubeMonitor](https://habr.com/ru/articles/996774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996774)
 <!-- BLOG-POST-LIST:END -->
 
 ---
