@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Меня уволили из-за ИИ, но я всё равно считаю себя инженером будущего](https://habr.com/ru/articles/996744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996744)
+- [Ты не устареваешь. Ты становишься волшебником](https://habr.com/ru/articles/996754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996754)
 - [Как я в 16 лет создал свой Pomodoro-таймер: месяц дисциплины и первые пользователи из 7 стран](https://habr.com/ru/articles/996734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996734)
 - [[Перевод] Нам следует больше беспокоиться о будущем роли джуниоров](https://habr.com/ru/companies/ruvds/articles/996202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996202)
 - [[Перевод] Как Uber масштабировал репликацию данных, чтобы ежедневно перемещать петабайты](https://habr.com/ru/articles/996726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996726)
-- [Мобильная разработка за неделю #619 &lpar;9 — 15 февраля&rpar;](https://habr.com/ru/articles/996720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996720)
-- [Почему я бросил шарпы?](https://habr.com/ru/articles/996718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996718)
 <!-- BLOG-POST-LIST:END -->
 
 ---
