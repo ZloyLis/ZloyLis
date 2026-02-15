@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я сделал рабочий pgAdmin4 Desktop для Arch Linux и почему это оказалось сложнее, чем кажется](https://habr.com/ru/articles/996696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996696)
 - [vCISO — это сотрудник или услуга?](https://habr.com/ru/articles/996320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996320)
 - [Java Rock Stars Meetup к нам приходит](https://habr.com/ru/companies/axiomjdk/articles/996230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996230)
 - [Эволюция ПО в разработке игр на практике: 1982 — IBM PC](https://habr.com/ru/articles/996664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996664)
 - [SDD &lpar;Spec-Driven Documentation&rpar; – фреймворк для разработки технической документации в репозитории](https://habr.com/ru/articles/996526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996526)
-- [Я добавил трейты и указатели в свой язык](https://habr.com/ru/articles/996654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996654)
 <!-- BLOG-POST-LIST:END -->
 
 ---
