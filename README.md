@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Интерактивные истории с ИИ](https://habr.com/ru/articles/996704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996704)
-- [Как я сделал рабочий pgAdmin4 Desktop для Arch Linux и почему это оказалось сложнее, чем кажется](https://habr.com/ru/articles/996696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996696)
-- [vCISO — это сотрудник или услуга?](https://habr.com/ru/articles/996320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996320)
-- [Java Rock Stars Meetup к нам приходит](https://habr.com/ru/companies/axiomjdk/articles/996230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996230)
-- [Эволюция ПО в разработке игр на практике: 1982 — IBM PC](https://habr.com/ru/articles/996664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996664)
+- [[Перевод] Как Uber масштабировал репликацию данных, чтобы ежедневно перемещать петабайты](https://habr.com/ru/articles/996726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996726)
+- [Мобильная разработка за неделю #619 &lpar;9 — 15 февраля&rpar;](https://habr.com/ru/articles/996720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996720)
+- [Почему я бросил шарпы?](https://habr.com/ru/articles/996718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996718)
+- [Тестируем популярные нейронки на одном промпте](https://habr.com/ru/articles/996708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996708)
+- [Как я строил бэкенд с ментальностью фронтендера: история одного провала](https://habr.com/ru/articles/996706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996706)
 <!-- BLOG-POST-LIST:END -->
 
 ---
