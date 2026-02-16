@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обзор на Claude Opus 4.6: разбор модели, тесты и сравнение](https://habr.com/ru/companies/bothub/articles/995726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995726)
+- [GraphQL и Go — gqlgen после года в проде: опыт, советы и выводы](https://habr.com/ru/companies/ru_mts/articles/994594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994594)
+- [1000 серверов и один RedFish: управляем собственным ЦОД, используя современный протокол от DMTF](https://habr.com/ru/companies/oleg-bunin/articles/991160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991160)
 - [Почему LLM продолжают генерировать ошибки в коде — и это не исправить масштабированием](https://habr.com/ru/articles/996968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996968)
 - [Подключаем российские AI-сервисы к OpenClaw: GigaChat, YandexGPT и Yandex 360](https://habr.com/ru/articles/996966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996966)
-- [Мобильное приложение Битрикс24: как создать полноценный рабочий инструмент для разных ролей](https://habr.com/ru/companies/bitrix/articles/995924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995924)
-- [Увольняем джуниора: автоматизируем анализ данных c Claude Code, Codex, Cursor, OpenCode](https://habr.com/ru/articles/996958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996958)
-- [Беда «войти в айти» или курсы тестировщика отзывы: Наконец, QA-курсы закрываются](https://habr.com/ru/articles/996678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996678)
 <!-- BLOG-POST-LIST:END -->
 
 ---
