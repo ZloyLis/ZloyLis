@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Выжимка из исследования Echoes of AI: ИИ-ассистенты не ломают поддерживаемость кода. Но есть нюансы](https://habr.com/ru/articles/996118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996118)
-- [iPhone 17e: карнавала не будет?](https://habr.com/ru/companies/mvideo/articles/996378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996378)
-- [[Перевод] 15 000 увольнений и волна багов: шокирующая связь между ИИ-кодированием и крахом Windows](https://habr.com/ru/companies/bothub/articles/996912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996912)
-- [Про LRU-кэш &lpar;в том числе — на собеседовании&rpar; — 3 способа реализации](https://habr.com/ru/articles/995916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995916)
-- [Защита LLM за 3ms: как я построил open-source иммунную систему для AI](https://habr.com/ru/articles/996896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996896)
+- [Автономная ecom-платформа на смену SAP Hybris: как мы решали задачи «БИ-БИ» с помощью кастомной архитектуры](https://habr.com/ru/articles/996948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996948)
+- [Беда “войти в айти” или курсы тестировщика отзывы: Наконец, QA-курсы закрываются](https://habr.com/ru/articles/996678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996678)
+- [UX-тупик: Как мы пытались впихнуть сложный поиск работы в кнопки ТГ, и почему пришлось переписывать фронтенд на Web](https://habr.com/ru/articles/996450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996450)
+- [Компьютерное зрение и обучение нейросетей: 12 бесплатных ресурсов для погружения в тему](https://habr.com/ru/companies/yandex_praktikum/articles/992168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992168)
+- [7 подводных камней собеседований, о которых кандидаты узнают слишком поздно](https://habr.com/ru/articles/966260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966260)
 <!-- BLOG-POST-LIST:END -->
 
 ---
