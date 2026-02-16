@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От MNIST к Transformer. Hello CUDA. Основы, Setup и наше первое ядро](https://habr.com/ru/articles/996610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996610)
+- [WebMCP: Революция в интеграции ИИ прямо в браузере](https://habr.com/ru/articles/1000086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000086)
 - [На связи! Все, что вы хотели знать о Всемирном дне радио](https://habr.com/ru/articles/1000030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000030)
 - [[Перевод] Как ускорить Android-приложение с помощью Baseline Profiles](https://habr.com/ru/companies/otus/articles/1000028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000028)
 - [OWASP Top 10 2025 — от кода к цепочке поставок: расширение границ безопасности](https://habr.com/ru/companies/pvs-studio/articles/996990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996990)
-- [[Перевод] Почему большие BPMN-процессы терпят неудачу — и как Теория остаточности показывает, что мы можем сделать лучше](https://habr.com/ru/articles/997096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=997096)
-- [Автономная ecom-платформа на смену SAP Hybris: как мы решали задачи «БИ-БИ» с помощью кастомной архитектуры](https://habr.com/ru/companies/qsoft/articles/1000002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000002)
 <!-- BLOG-POST-LIST:END -->
 
 ---
