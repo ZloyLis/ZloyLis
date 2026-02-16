@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Автономная ecom-платформа на смену SAP Hybris: как мы решали задачи «БИ-БИ» с помощью кастомной архитектуры](https://habr.com/ru/articles/996948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996948)
-- [Беда “войти в айти” или курсы тестировщика отзывы: Наконец, QA-курсы закрываются](https://habr.com/ru/articles/996678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996678)
-- [UX-тупик: Как мы пытались впихнуть сложный поиск работы в кнопки ТГ, и почему пришлось переписывать фронтенд на Web](https://habr.com/ru/articles/996450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996450)
-- [Компьютерное зрение и обучение нейросетей: 12 бесплатных ресурсов для погружения в тему](https://habr.com/ru/companies/yandex_praktikum/articles/992168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992168)
-- [7 подводных камней собеседований, о которых кандидаты узнают слишком поздно](https://habr.com/ru/articles/966260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966260)
+- [Почему LLM продолжают генерировать ошибки в коде — и это не исправить масштабированием](https://habr.com/ru/articles/996968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996968)
+- [Подключаем российские AI-сервисы к OpenClaw: GigaChat, YandexGPT и Yandex 360](https://habr.com/ru/articles/996966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996966)
+- [Мобильное приложение Битрикс24: как создать полноценный рабочий инструмент для разных ролей](https://habr.com/ru/companies/bitrix/articles/995924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995924)
+- [Увольняем джуниора: автоматизируем анализ данных c Claude Code, Codex, Cursor, OpenCode](https://habr.com/ru/articles/996958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996958)
+- [Беда «войти в айти» или курсы тестировщика отзывы: Наконец, QA-курсы закрываются](https://habr.com/ru/articles/996678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996678)
 <!-- BLOG-POST-LIST:END -->
 
 ---
