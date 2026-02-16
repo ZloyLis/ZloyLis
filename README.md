@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ротозумер: разбор классического демо-эффекта](https://habr.com/ru/articles/993976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993976)
+- [15 промптов ChatGPT для QA](https://habr.com/ru/articles/986376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986376)
 - [Обзор на Claude Opus 4.6: разбор модели, тесты и сравнение](https://habr.com/ru/companies/bothub/articles/995726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995726)
 - [GraphQL и Go — gqlgen после года в проде: опыт, советы и выводы](https://habr.com/ru/companies/ru_mts/articles/994594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994594)
 - [1000 серверов и один RedFish: управляем собственным ЦОД, используя современный протокол от DMTF](https://habr.com/ru/companies/oleg-bunin/articles/991160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991160)
-- [Почему LLM продолжают генерировать ошибки в коде — и это не исправить масштабированием](https://habr.com/ru/articles/996968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996968)
-- [Подключаем российские AI-сервисы к OpenClaw: GigaChat, YandexGPT и Yandex 360](https://habr.com/ru/articles/996966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996966)
 <!-- BLOG-POST-LIST:END -->
 
 ---
