@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [6 советов от практиков AI coding](https://habr.com/ru/articles/997098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=997098)
+- [«Лишний» этап](https://habr.com/ru/articles/997074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=997074)
+- [Hue для домашнего Hadoop: Docker, CSRF и неочевидные грабли](https://habr.com/ru/articles/996646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996646)
 - [Ротозумер: разбор классического демо-эффекта](https://habr.com/ru/articles/993976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993976)
 - [15 промптов ChatGPT для QA](https://habr.com/ru/articles/986376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986376)
-- [Обзор на Claude Opus 4.6: разбор модели, тесты и сравнение](https://habr.com/ru/companies/bothub/articles/995726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995726)
-- [GraphQL и Go — gqlgen после года в проде: опыт, советы и выводы](https://habr.com/ru/companies/ru_mts/articles/994594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994594)
-- [1000 серверов и один RedFish: управляем собственным ЦОД, используя современный протокол от DMTF](https://habr.com/ru/companies/oleg-bunin/articles/991160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991160)
 <!-- BLOG-POST-LIST:END -->
 
 ---
