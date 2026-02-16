@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Выйдет ли что-то из дачного хобби: строим WiFi-косилку](https://habr.com/ru/articles/986106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986106)
+- [Как я купил наушники AirPods 4 ANC и нарвался на подделку](https://habr.com/ru/articles/1000060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000060)
 - [mutex vs futex](https://habr.com/ru/articles/1000192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000192)
 - [«Важно доставлять, а не понимать» — идеальный способ работы с нейросетями](https://habr.com/ru/articles/1000140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000140)
 - [Backend-driven UI в Авито: от идеи к проду](https://habr.com/ru/companies/avito/articles/997010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=997010)
-- [От MNIST к Transformer. Hello CUDA. Основы, Setup и наше первое ядро](https://habr.com/ru/articles/996610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996610)
-- [WebMCP: Революция в интеграции ИИ прямо в браузере](https://habr.com/ru/articles/1000086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000086)
 <!-- BLOG-POST-LIST:END -->
 
 ---
