@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Выжимка из исследования Echoes of AI: ИИ-ассистенты не ломают поддерживаемость кода. Но есть нюансы](https://habr.com/ru/articles/996118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996118)
+- [iPhone 17e: карнавала не будет?](https://habr.com/ru/companies/mvideo/articles/996378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996378)
+- [[Перевод] 15 000 увольнений и волна багов: шокирующая связь между ИИ-кодированием и крахом Windows](https://habr.com/ru/companies/bothub/articles/996912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996912)
 - [Про LRU-кэш &lpar;в том числе — на собеседовании&rpar; — 3 способа реализации](https://habr.com/ru/articles/995916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995916)
 - [Защита LLM за 3ms: как я построил open-source иммунную систему для AI](https://habr.com/ru/articles/996896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996896)
-- [Алгоритм мягкой обводки текста](https://habr.com/ru/articles/996884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996884)
-- [ReactiveEffect во Vue 3: что на самом деле исполняет вашу реактивность](https://habr.com/ru/articles/996880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996880)
-- [Как я написал Telegram-бота для SEO-аудита и не дал ему стать инструментом для атак](https://habr.com/ru/articles/996844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996844)
 <!-- BLOG-POST-LIST:END -->
 
 ---
