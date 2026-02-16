@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Про LRU-кэш &lpar;в том числе — на собеседовании&rpar; — 3 способа реализации](https://habr.com/ru/articles/995916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995916)
+- [Защита LLM за 3ms: как я построил open-source иммунную систему для AI](https://habr.com/ru/articles/996896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996896)
 - [Алгоритм мягкой обводки текста](https://habr.com/ru/articles/996884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996884)
 - [ReactiveEffect во Vue 3: что на самом деле исполняет вашу реактивность](https://habr.com/ru/articles/996880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996880)
 - [Как я написал Telegram-бота для SEO-аудита и не дал ему стать инструментом для атак](https://habr.com/ru/articles/996844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996844)
-- [Школьная информатика в составлении тест-кейсов авторизации](https://habr.com/ru/articles/996838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996838)
-- [50 LLM-клеток пытались построить организм. Вот что получилось](https://habr.com/ru/articles/996836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996836)
 <!-- BLOG-POST-LIST:END -->
 
 ---
