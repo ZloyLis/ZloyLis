@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [6 советов от практиков AI coding](https://habr.com/ru/articles/997098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=997098)
-- [«Лишний» этап](https://habr.com/ru/articles/997074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=997074)
-- [Hue для домашнего Hadoop: Docker, CSRF и неочевидные грабли](https://habr.com/ru/articles/996646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996646)
-- [Ротозумер: разбор классического демо-эффекта](https://habr.com/ru/articles/993976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993976)
-- [15 промптов ChatGPT для QA](https://habr.com/ru/articles/986376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986376)
+- [На связи! Все, что вы хотели знать о Всемирном дне радио](https://habr.com/ru/articles/1000030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000030)
+- [[Перевод] Как ускорить Android-приложение с помощью Baseline Profiles](https://habr.com/ru/companies/otus/articles/1000028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000028)
+- [OWASP Top 10 2025 — от кода к цепочке поставок: расширение границ безопасности](https://habr.com/ru/companies/pvs-studio/articles/996990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996990)
+- [[Перевод] Почему большие BPMN-процессы терпят неудачу — и как Теория остаточности показывает, что мы можем сделать лучше](https://habr.com/ru/articles/997096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=997096)
+- [Автономная ecom-платформа на смену SAP Hybris: как мы решали задачи «БИ-БИ» с помощью кастомной архитектуры](https://habr.com/ru/companies/qsoft/articles/1000002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000002)
 <!-- BLOG-POST-LIST:END -->
 
 ---
