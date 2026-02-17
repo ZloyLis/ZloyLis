@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Маленький bool, сулящий большие беды](https://habr.com/ru/companies/cloud4y/articles/996168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996168)
+- [2022 vs 2024 vs 2026. Один сценарий: как меняется мышление, а не код](https://habr.com/ru/articles/1000460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000460)
 - [KaaS в проде: Tanzu, Kubespray и путь к Cluster API](https://habr.com/ru/companies/nubes/articles/1000412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000412)
 - [Разбираем фичи по кусочкам: атомарные коммиты как внутренняя дисциплина](https://habr.com/ru/companies/naumen/articles/1000386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000386)
 - [FreeAIr: доступ к локальной или корпоративной LLM из Visual Studio 2022/2026](https://habr.com/ru/articles/1000352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000352)
-- [Кружки юных программистов в СССР: как растили кадры без интернета](https://habr.com/ru/companies/hostkey/articles/1000402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000402)
-- [Как РСХБ Abbyy импортозамещал](https://habr.com/ru/companies/rshb/articles/1000384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000384)
 <!-- BLOG-POST-LIST:END -->
 
 ---
