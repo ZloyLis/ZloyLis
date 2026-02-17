@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Синий экран смерти. Как твой режим убивает тебя](https://habr.com/ru/companies/ruvds/articles/996388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996388)
-- [Keycloak как OIDC-провайдер для Kubernetes: наводим порядок с доступами](https://habr.com/ru/companies/gnivc/articles/992272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992272)
-- [[Перевод] От «DWH мертвы» до гибридных схем: эволюция Lakehouse за последние три года](https://habr.com/ru/articles/1000506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000506)
-- [pure-md5: Современная реализация MD5 для JavaScript с поддержкой TypeScript, стримов и нулевыми зависимостями](https://habr.com/ru/articles/1000484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000484)
-- [Инструменты навигации в GIGA IDE](https://habr.com/ru/companies/sberbank/articles/996426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996426)
+- [Лучшие напоминалки для iPhone: ТОП‑8 приложений](https://habr.com/ru/companies/leadertask/articles/1000564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000564)
+- [Activity Journal. Самоорганизация и анализ рабочего времени. На что уходят рабочие часы?](https://habr.com/ru/articles/1000568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000568)
+- [Долгожданный оператор _Countof](https://habr.com/ru/articles/1000228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000228)
+- [Как не попасть пальцем в небо: принятие решений на основе данных](https://habr.com/ru/companies/otus/articles/995378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995378)
+- [Почему многоагентные системы ломаются &lpar;и почему это нормально&rpar;](https://habr.com/ru/articles/1000546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000546)
 <!-- BLOG-POST-LIST:END -->
 
 ---
