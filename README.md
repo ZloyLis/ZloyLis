@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как стать программистом: от Intel 286 до Large Language Models](https://habr.com/ru/articles/1000710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000710)
 - [Слоистая архитектура для людей](https://habr.com/ru/articles/1000698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000698)
 - [Capacitor: от веба к мобильным приложениям. Часть 2. Как написать свой плагин &lpar;Android + iOS&rpar;](https://habr.com/ru/articles/1000690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000690)
 - [Обзор теории систем как области знаний](https://habr.com/ru/articles/1000682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000682)
 - [Почему статические сайты возвращаются и чему они научились](https://habr.com/ru/articles/1000610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000610)
-- [У врат проективной геометрии, или как возникает двойное отношение](https://habr.com/ru/articles/1000604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000604)
 <!-- BLOG-POST-LIST:END -->
 
 ---
