@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Маленький bool, сулящий большие беды](https://habr.com/ru/companies/cloud4y/articles/996168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996168)
-- [2022 vs 2024 vs 2026. Один сценарий: как меняется мышление, а не код](https://habr.com/ru/articles/1000460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000460)
-- [KaaS в проде: Tanzu, Kubespray и путь к Cluster API](https://habr.com/ru/companies/nubes/articles/1000412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000412)
-- [Разбираем фичи по кусочкам: атомарные коммиты как внутренняя дисциплина](https://habr.com/ru/companies/naumen/articles/1000386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000386)
-- [FreeAIr: доступ к локальной или корпоративной LLM из Visual Studio 2022/2026](https://habr.com/ru/articles/1000352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000352)
+- [Синий экран смерти. Как твой режим убивает тебя](https://habr.com/ru/companies/ruvds/articles/996388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996388)
+- [Keycloak как OIDC-провайдер для Kubernetes: наводим порядок с доступами](https://habr.com/ru/companies/gnivc/articles/992272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992272)
+- [[Перевод] От «DWH мертвы» до гибридных схем: эволюция Lakehouse за последние три года](https://habr.com/ru/articles/1000506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000506)
+- [pure-md5: Современная реализация MD5 для JavaScript с поддержкой TypeScript, стримов и нулевыми зависимостями](https://habr.com/ru/articles/1000484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000484)
+- [Инструменты навигации в GIGA IDE](https://habr.com/ru/companies/sberbank/articles/996426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996426)
 <!-- BLOG-POST-LIST:END -->
 
 ---
