@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Лучшие напоминалки для iPhone: ТОП‑8 приложений](https://habr.com/ru/companies/leadertask/articles/1000564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000564)
-- [Activity Journal. Самоорганизация и анализ рабочего времени. На что уходят рабочие часы?](https://habr.com/ru/articles/1000568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000568)
-- [Долгожданный оператор _Countof](https://habr.com/ru/articles/1000228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000228)
-- [Как не попасть пальцем в небо: принятие решений на основе данных](https://habr.com/ru/companies/otus/articles/995378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995378)
-- [Почему многоагентные системы ломаются &lpar;и почему это нормально&rpar;](https://habr.com/ru/articles/1000546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000546)
+- [Почему статические сайты возвращаются и чему они научились](https://habr.com/ru/articles/1000610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000610)
+- [У врат проективной геометрии, или как возникает двойное отношение](https://habr.com/ru/articles/1000604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000604)
+- [Вышел новый XBox 360 рекомпилятор RexGlue](https://habr.com/ru/articles/1000600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000600)
+- [Как векторные базы данных налаживают взаимопонимание между человечеством и роботами](https://habr.com/ru/companies/netologyru/articles/980814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980814)
+- [P =? NP: самая дорогая задача в мире, которая может перевернуть всё](https://habr.com/ru/companies/timeweb/articles/989676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989676)
 <!-- BLOG-POST-LIST:END -->
 
 ---
