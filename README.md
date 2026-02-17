@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [События плагинов и порядок их срабатывания при работе с пользовательскими полями Joomla и использовании FieldsHelper](https://habr.com/ru/articles/1000064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000064)
+- [Почему счета за облако растут, хотя инфраструктура не меняется?](https://habr.com/ru/companies/finops_ru/articles/1000252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000252)
+- [[Перевод] Топ-менеджеры Кремниевой долины в панике: что они знают об ИИ, чего не знаем мы](https://habr.com/ru/companies/bothub/articles/1000250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000250)
+- [Дизайн интерфейса: когда лучше ничего не менять. Часть 1](https://habr.com/ru/articles/1000230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000230)
 - [28 дней со Spring AI: от простого чата до полноценного инструмента](https://habr.com/ru/articles/979950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979950)
-- [Трансформер своими руками: с нуля до Numpy реализации и обучения](https://habr.com/ru/articles/982268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982268)
-- [Выйдет ли что-то из дачного хобби: строим WiFi-косилку](https://habr.com/ru/articles/986106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986106)
-- [Как я купил наушники AirPods 4 ANC и нарвался на подделку](https://habr.com/ru/articles/1000060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000060)
-- [mutex vs futex](https://habr.com/ru/articles/1000192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000192)
 <!-- BLOG-POST-LIST:END -->
 
 ---
