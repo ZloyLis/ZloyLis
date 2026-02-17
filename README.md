@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Слоистая архитектура для людей](https://habr.com/ru/articles/1000698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000698)
+- [Capacitor: от веба к мобильным приложениям. Часть 2. Как написать свой плагин &lpar;Android + iOS&rpar;](https://habr.com/ru/articles/1000690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000690)
+- [Обзор теории систем как области знаний](https://habr.com/ru/articles/1000682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000682)
 - [Почему статические сайты возвращаются и чему они научились](https://habr.com/ru/articles/1000610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000610)
 - [У врат проективной геометрии, или как возникает двойное отношение](https://habr.com/ru/articles/1000604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000604)
-- [Вышел новый XBox 360 рекомпилятор RexGlue](https://habr.com/ru/articles/1000600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000600)
-- [Как векторные базы данных налаживают взаимопонимание между человечеством и роботами](https://habr.com/ru/companies/netologyru/articles/980814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980814)
-- [P =? NP: самая дорогая задача в мире, которая может перевернуть всё](https://habr.com/ru/companies/timeweb/articles/989676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989676)
 <!-- BLOG-POST-LIST:END -->
 
 ---
