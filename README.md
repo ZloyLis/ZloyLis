@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как мы оцениваем качество ИИ с помощью ИИ](https://habr.com/ru/articles/1000270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000270)
-- [[Перевод] Топ-менеджеры Кремниевой долины в панике: что они знают об ИИ, чего не знаем мы](https://habr.com/ru/companies/bothub/articles/1000256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000256)
-- [Soft Skills для тестировщика: почему «мягкие» навыки важнее «жестких» скриптов](https://habr.com/ru/articles/992042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992042)
-- [События плагинов и порядок их срабатывания при работе с пользовательскими полями Joomla и использовании FieldsHelper](https://habr.com/ru/articles/1000064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000064)
-- [Почему счета за облако растут, хотя инфраструктура не меняется?](https://habr.com/ru/companies/finops_ru/articles/1000252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000252)
+- [Как мы научили Фурье отличать гирлянду от газонокосилки: детектирование сезонности товаров без ML](https://habr.com/ru/companies/lemana_tech/articles/1000264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000264)
+- [[Перевод] Как Майкл Абраш удвоил скорость Quake](https://habr.com/ru/articles/1000200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000200)
+- [Security Week 2608: вредоносные тестовые задания для программистов](https://habr.com/ru/companies/kaspersky/articles/996938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996938)
+- [Свод знаний PMBoK в проектах внедрения ERP-систем](https://habr.com/ru/articles/1000298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000298)
+- [Искусство бесшовных переходов в iOS от 60 FPS до идеального UX](https://habr.com/ru/articles/1000184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000184)
 <!-- BLOG-POST-LIST:END -->
 
 ---
