@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [KaaS в проде: Tanzu, Kubespray и путь к Cluster API](https://habr.com/ru/companies/nubes/articles/1000412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000412)
+- [Разбираем фичи по кусочкам: атомарные коммиты как внутренняя дисциплина](https://habr.com/ru/companies/naumen/articles/1000386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000386)
+- [FreeAIr: доступ к локальной или корпоративной LLM из Visual Studio 2022/2026](https://habr.com/ru/articles/1000352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000352)
+- [Кружки юных программистов в СССР: как растили кадры без интернета](https://habr.com/ru/companies/hostkey/articles/1000402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000402)
 - [Как РСХБ Abbyy импортозамещал](https://habr.com/ru/companies/rshb/articles/1000384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000384)
-- [Кто такой тимлид в IT, как им стать и сколько можно зарабатывать](https://habr.com/ru/companies/habr_career/articles/1000368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000368)
-- [EVPN-connector от VK Cloud: знакомим с первым Open-Source-компонентом нашего SDN Sprut](https://habr.com/ru/companies/vktech/articles/1000332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000332)
-- [Плохие практики в вёрстке](https://habr.com/ru/companies/ruvds/articles/995784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995784)
-- [Как мы научили Фурье отличать гирлянду от газонокосилки: детектирование сезонности товаров без ML](https://habr.com/ru/companies/lemana_tech/articles/1000264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000264)
 <!-- BLOG-POST-LIST:END -->
 
 ---
