@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как РСХБ Abbyy импортозамещал](https://habr.com/ru/companies/rshb/articles/1000384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000384)
+- [Кто такой тимлид в IT, как им стать и сколько можно зарабатывать](https://habr.com/ru/companies/habr_career/articles/1000368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000368)
+- [EVPN-connector от VK Cloud: знакомим с первым Open-Source-компонентом нашего SDN Sprut](https://habr.com/ru/companies/vktech/articles/1000332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000332)
+- [Плохие практики в вёрстке](https://habr.com/ru/companies/ruvds/articles/995784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995784)
 - [Как мы научили Фурье отличать гирлянду от газонокосилки: детектирование сезонности товаров без ML](https://habr.com/ru/companies/lemana_tech/articles/1000264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000264)
-- [[Перевод] Как Майкл Абраш удвоил скорость Quake](https://habr.com/ru/articles/1000200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000200)
-- [Security Week 2608: вредоносные тестовые задания для программистов](https://habr.com/ru/companies/kaspersky/articles/996938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996938)
-- [Свод знаний PMBoK в проектах внедрения ERP-систем](https://habr.com/ru/articles/1000298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000298)
-- [Искусство бесшовных переходов в iOS от 60 FPS до идеального UX](https://habr.com/ru/articles/1000184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000184)
 <!-- BLOG-POST-LIST:END -->
 
 ---
