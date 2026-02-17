@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [28 дней со Spring AI: от простого чата до полноценного инструмента](https://habr.com/ru/articles/979950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=979950)
 - [Трансформер своими руками: с нуля до Numpy реализации и обучения](https://habr.com/ru/articles/982268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982268)
 - [Выйдет ли что-то из дачного хобби: строим WiFi-косилку](https://habr.com/ru/articles/986106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986106)
 - [Как я купил наушники AirPods 4 ANC и нарвался на подделку](https://habr.com/ru/articles/1000060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000060)
 - [mutex vs futex](https://habr.com/ru/articles/1000192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000192)
-- [«Важно доставлять, а не понимать» — идеальный способ работы с нейросетями](https://habr.com/ru/articles/1000140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000140)
 <!-- BLOG-POST-LIST:END -->
 
 ---
