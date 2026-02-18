@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Я пишу свой терминал с нуля, чтобы понять как работает компьютер](https://habr.com/ru/articles/1000766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000766)
-- [Заглянуть под капот ИИ-агентов: новый инструмент раскрывает «магию» Claude Code](https://habr.com/ru/articles/1000764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000764)
-- [Как стать программистом: от Intel 286 до Large Language Models](https://habr.com/ru/articles/1000710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000710)
-- [Слоистая архитектура для людей](https://habr.com/ru/articles/1000698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000698)
-- [Capacitor: от веба к мобильным приложениям. Часть 2. Как написать свой плагин &lpar;Android + iOS&rpar;](https://habr.com/ru/articles/1000690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000690)
+- [Создание ведомости отделки помещений. Как быть в отсутствие специальных инструментов?](https://habr.com/ru/companies/nanosoft/articles/1000832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000832)
+- [Как мы делали «Cursor для неразработчиков», а сделали полноценного ИИ-агента «с руками»](https://habr.com/ru/articles/1000828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000828)
+- [Я обучил модель на 10 000 код-ревью, чтобы отсеять мусор. Она начала предсказывать увольнения](https://habr.com/ru/articles/1000718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000718)
+- [Настройка Git для одновременного fetch/push в несколько remotes. Синхронизация одной командой](https://habr.com/ru/articles/995074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995074)
+- [Я спросил у AI: «Заменишь ли ты меня?» и написал сервис за 2 часа](https://habr.com/ru/articles/1000816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000816)
 <!-- BLOG-POST-LIST:END -->
 
 ---
