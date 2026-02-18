@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Они создали это и теперь бегут: почему элита Кремниевой долины массово увольняется?](https://habr.com/ru/companies/bothub/articles/1000810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000810)
-- [Вытесняй и властвуй: еще раз про многозадачность](https://habr.com/ru/articles/1000924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000924)
-- [Frontend Status: свежий дайджест фронтенда и AI — 18.02.2026](https://habr.com/ru/articles/1000870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000870)
-- [Все, но не сразу: мастерство сосредоточенной декомпозиции](https://habr.com/ru/companies/sovcombank_technologies/articles/1000108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000108)
-- [Интеграция iiko и WFM: автоматизация расписания под почасовые продажи](https://habr.com/ru/articles/1000858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000858)
+- [ООО «АБТ» — оптимизация проектирования электросетей и освещения](https://habr.com/ru/articles/1000996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000996)
+- [Новые реактивные формы в Angular: Signal Forms API](https://habr.com/ru/companies/tbank/articles/1000906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000906)
+- [Выбор стека для веб-сайта: обзор типов рендеринга — SSR, SSG, CSR и другие](https://habr.com/ru/articles/1000986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000986)
+- [Роль, контекст, данные: формула рабочего промпта для кода](https://habr.com/ru/companies/itfb/articles/1000980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000980)
+- [Полезные фичи новой версии Go — 1.26](https://habr.com/ru/companies/avito/articles/1000616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000616)
 <!-- BLOG-POST-LIST:END -->
 
 ---
