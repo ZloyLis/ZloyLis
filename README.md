@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Создание ведомости отделки помещений. Как быть в отсутствие специальных инструментов?](https://habr.com/ru/companies/nanosoft/articles/1000832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000832)
-- [Как мы делали «Cursor для неразработчиков», а сделали полноценного ИИ-агента «с руками»](https://habr.com/ru/articles/1000828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000828)
-- [Я обучил модель на 10 000 код-ревью, чтобы отсеять мусор. Она начала предсказывать увольнения](https://habr.com/ru/articles/1000718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000718)
-- [Настройка Git для одновременного fetch/push в несколько remotes. Синхронизация одной командой](https://habr.com/ru/articles/995074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995074)
-- [Я спросил у AI: «Заменишь ли ты меня?» и написал сервис за 2 часа](https://habr.com/ru/articles/1000816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000816)
+- [Все, но не сразу: мастерство сосредоточенной декомпозиции](https://habr.com/ru/companies/sovcombank_technologies/articles/1000108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000108)
+- [Интеграция iiko и WFM: автоматизация расписания под почасовые продажи](https://habr.com/ru/articles/1000858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000858)
+- [Поиск программеров для устройств на процессорах Qualcomm](https://habr.com/ru/articles/1000852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000852)
+- [Шаблонные строки в Python 3.14: как получить контроль над интерполяцией данных](https://habr.com/ru/companies/digitalleague/articles/1000850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000850)
+- [PID без математики: как просто понять P, I и D](https://habr.com/ru/articles/1000846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000846)
 <!-- BLOG-POST-LIST:END -->
 
 ---
