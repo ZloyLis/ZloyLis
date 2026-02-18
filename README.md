@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Разрыв в неизменяемости: почему Java Records нужны оптики &lpar;Lenses&rpar;](https://habr.com/ru/companies/spring_aio/articles/1001066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001066)
-- [Как построить карту вызовов REST-API из JSON с помощью PlantUML: автоматизация архитектурных зависимостей](https://habr.com/ru/articles/1001060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001060)
-- [Как не отвлекаясь делать свою задачуМой личный опыт](https://habr.com/ru/articles/1001040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001040)
-- [Не убий: Гайд по UI/UX в Android Automotive, за который вас не посадят](https://habr.com/ru/articles/1001016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001016)
-- [ADR, архитектурные тесты и кейсы из прода: ресурсы, которые реально меняют код](https://habr.com/ru/articles/1001010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001010)
+- [Кейс: как ИИ-агент решил тестовое задание на позицию 1С-Аналитика](https://habr.com/ru/companies/1yes/articles/1001112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001112)
+- [[Перевод] От $250 млн до $25 млрд: как слияние с xAI может спасти или похоронить SpaceX](https://habr.com/ru/companies/bothub/articles/1000272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000272)
+- [Универсальный сервис динамического шардирования](https://habr.com/ru/articles/1001098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001098)
+- [Как я за 2,5 месяца написал строительный калькулятор на Flutter с ИИ-прорабом, 45+ калькуляторами и 8000 тестами](https://habr.com/ru/articles/1001080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001080)
+- [UX-прожарки: что жарим и с кем едим? Или как мы дополнительно исследуем интерфейсы](https://habr.com/ru/companies/bcs_company/articles/1000528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000528)
 <!-- BLOG-POST-LIST:END -->
 
 ---
