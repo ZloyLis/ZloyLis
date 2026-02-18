@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Они создали это и теперь бегут: почему элита Кремниевой долины массово увольняется?](https://habr.com/ru/companies/bothub/articles/1000810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000810)
 - [Вытесняй и властвуй: еще раз про многозадачность](https://habr.com/ru/articles/1000924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000924)
 - [Frontend Status: свежий дайджест фронтенда и AI — 18.02.2026](https://habr.com/ru/articles/1000870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000870)
 - [Все, но не сразу: мастерство сосредоточенной декомпозиции](https://habr.com/ru/companies/sovcombank_technologies/articles/1000108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000108)
 - [Интеграция iiko и WFM: автоматизация расписания под почасовые продажи](https://habr.com/ru/articles/1000858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000858)
-- [Поиск программеров для устройств на процессорах Qualcomm](https://habr.com/ru/articles/1000852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000852)
 <!-- BLOG-POST-LIST:END -->
 
 ---
