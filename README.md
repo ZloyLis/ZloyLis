@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Российские вузы продолжают выпускать толпы C# разработчиков для того чтобы что?](https://habr.com/ru/articles/996024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996024)
+- [Перезапрос упавшей статики](https://habr.com/ru/articles/1001150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001150)
+- [Научись говорить ртом](https://habr.com/ru/articles/1001140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001140)
 - [Кейс: как ИИ-агент решил тестовое задание на позицию 1С-Аналитика](https://habr.com/ru/companies/1yes/articles/1001112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001112)
 - [[Перевод] От $250 млн до $25 млрд: как слияние с xAI может спасти или похоронить SpaceX](https://habr.com/ru/companies/bothub/articles/1000272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000272)
-- [Универсальный сервис динамического шардирования](https://habr.com/ru/articles/1001098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001098)
-- [Как я за 2,5 месяца написал строительный калькулятор на Flutter с ИИ-прорабом, 45+ калькуляторами и 8000 тестами](https://habr.com/ru/articles/1001080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001080)
-- [UX-прожарки: что жарим и с кем едим? Или как мы дополнительно исследуем интерфейсы](https://habr.com/ru/companies/bcs_company/articles/1000528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000528)
 <!-- BLOG-POST-LIST:END -->
 
 ---
