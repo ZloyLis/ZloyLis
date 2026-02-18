@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [ООО «АБТ» — оптимизация проектирования электросетей и освещения](https://habr.com/ru/articles/1000996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000996)
-- [Новые реактивные формы в Angular: Signal Forms API](https://habr.com/ru/companies/tbank/articles/1000906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000906)
-- [Выбор стека для веб-сайта: обзор типов рендеринга — SSR, SSG, CSR и другие](https://habr.com/ru/articles/1000986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000986)
-- [Роль, контекст, данные: формула рабочего промпта для кода](https://habr.com/ru/companies/itfb/articles/1000980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000980)
-- [Полезные фичи новой версии Go — 1.26](https://habr.com/ru/companies/avito/articles/1000616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000616)
+- [[Перевод] Разрыв в неизменяемости: почему Java Records нужны оптики &lpar;Lenses&rpar;](https://habr.com/ru/companies/spring_aio/articles/1001066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001066)
+- [Как построить карту вызовов REST-API из JSON с помощью PlantUML: автоматизация архитектурных зависимостей](https://habr.com/ru/articles/1001060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001060)
+- [Как не отвлекаясь делать свою задачуМой личный опыт](https://habr.com/ru/articles/1001040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001040)
+- [Не убий: Гайд по UI/UX в Android Automotive, за который вас не посадят](https://habr.com/ru/articles/1001016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001016)
+- [ADR, архитектурные тесты и кейсы из прода: ресурсы, которые реально меняют код](https://habr.com/ru/articles/1001010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001010)
 <!-- BLOG-POST-LIST:END -->
 
 ---
