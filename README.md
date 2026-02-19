@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как мы упростили компонент из 272 миллионов комбинаций в дизайн-системе Яндекс 360](https://habr.com/ru/companies/yandex/articles/1000608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000608)
-- [Дизайн интерфейса: когда лучше ничего не менять. Часть 2](https://habr.com/ru/articles/1001226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001226)
-- [Scedel: DSL для описания схем данных](https://habr.com/ru/articles/1001184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001184)
-- [Я заменил Google на 50 строк Python. Через месяц я забыл, как пишется tar -xzf](https://habr.com/ru/articles/1001214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001214)
-- [Я пришёл в программирование из логистики. И в итоге начал строить систему по проверке кода](https://habr.com/ru/articles/1001200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001200)
+- [[Перевод] Шесть мыслей о генерации кода на C](https://habr.com/ru/articles/1001304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001304)
+- [Как менеджеру использовать ИИ-инструменты для быстрого прототипирования и создания внутренних продуктов для команды](https://habr.com/ru/companies/yandex_praktikum/articles/995864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995864)
+- [Yttri vs Альтернативы — без религиозных войн](https://habr.com/ru/articles/1001298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001298)
+- [[Перевод] ИИ не уничтожит вашу работу. Ее уничтожит стагнация — и вот почему](https://habr.com/ru/companies/bothub/articles/1001292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001292)
+- [[Перевод] Как устроен Codex](https://habr.com/ru/companies/ods/articles/1001012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001012)
 <!-- BLOG-POST-LIST:END -->
 
 ---
