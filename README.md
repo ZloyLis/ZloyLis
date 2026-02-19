@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [12 бит против 8 бит в камере для проведения металлографических исследований при помощи оптического микроскопа](https://habr.com/ru/articles/1001398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001398)
+- [Многогранный мониторинг Angie — продолжение истории](https://habr.com/ru/articles/997040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=997040)
+- [Система функционального контроля для микросхем AD7180BCPZ &amp;amp; ADV7343BSTZ](https://habr.com/ru/articles/1001372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001372)
 - [Шестидесятилетний заключённый и лабораторная крыса. F# на Godot. Часть 13. Общий сбор](https://habr.com/ru/companies/first/articles/1001216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001216)
 - [Декомпозируем систему и проектируем устойчивую микросервисную архитектуру](https://habr.com/ru/companies/otus/articles/1000626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000626)
-- [Полгода на включение: как мы построили онбординг в команде не по инструкции. Часть 2: геймификация, бадди и адаптация](https://habr.com/ru/companies/oleg-bunin/articles/987308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987308)
-- [Разбор доступности Moni для незрячих пользователей: взгляд незрячего разработчика](https://habr.com/ru/articles/1001316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001316)
-- [[Перевод] Шесть мыслей о генерации кода на C](https://habr.com/ru/articles/1001304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001304)
 <!-- BLOG-POST-LIST:END -->
 
 ---
