@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [6 инструментов для параллельного Claude Code: тестирую всё, чтобы вам не пришлось](https://habr.com/ru/articles/1001478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001478)
+- [Почему я стал ИТ-волонтером &amp;amp; Датасет новостей о противоречиях современного общества](https://habr.com/ru/companies/ods/articles/993122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993122)
+- [Организация производства Информационных систем. Часть 6. Разработка. 6.2. Имплементация проектного решения](https://habr.com/ru/articles/1001426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001426)
 - [[Перевод] Обратная сторона массивов в PostgreSQL](https://habr.com/ru/companies/magnus-tech/articles/990146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990146)
 - [12 бит против 8 бит в камере для проведения металлографических исследований при помощи оптического микроскопа](https://habr.com/ru/articles/1001398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001398)
-- [Многогранный мониторинг Angie — продолжение истории](https://habr.com/ru/articles/997040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=997040)
-- [Система функционального контроля для микросхем AD7180BCPZ &amp;amp; ADV7343BSTZ](https://habr.com/ru/articles/1001372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001372)
-- [Эволюция приоритизации: как мы перешли от харизмы стейкхолдеров к ROI](https://habr.com/ru/companies/vkusvill/articles/1001356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001356)
 <!-- BLOG-POST-LIST:END -->
 
 ---
