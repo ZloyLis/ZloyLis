@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Шестидесятилетний заключённый и лабораторная крыса. F# на Godot. Часть 13. Общий сбор](https://habr.com/ru/companies/first/articles/1001216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001216)
+- [Декомпозируем систему и проектируем устойчивую микросервисную архитектуру](https://habr.com/ru/companies/otus/articles/1000626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000626)
+- [Полгода на включение: как мы построили онбординг в команде не по инструкции. Часть 2: геймификация, бадди и адаптация](https://habr.com/ru/companies/oleg-bunin/articles/987308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987308)
+- [Разбор доступности Moni для незрячих пользователей: взгляд незрячего разработчика](https://habr.com/ru/articles/1001316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001316)
 - [[Перевод] Шесть мыслей о генерации кода на C](https://habr.com/ru/articles/1001304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001304)
-- [Как менеджеру использовать ИИ-инструменты для быстрого прототипирования и создания внутренних продуктов для команды](https://habr.com/ru/companies/yandex_praktikum/articles/995864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995864)
-- [Yttri vs Альтернативы — без религиозных войн](https://habr.com/ru/articles/1001298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001298)
-- [[Перевод] ИИ не уничтожит вашу работу. Ее уничтожит стагнация — и вот почему](https://habr.com/ru/companies/bothub/articles/1001292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001292)
-- [[Перевод] Как устроен Codex](https://habr.com/ru/companies/ods/articles/1001012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001012)
 <!-- BLOG-POST-LIST:END -->
 
 ---
