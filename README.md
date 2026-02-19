@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [6 инструментов для параллельного Claude Code: тестирую всё, чтобы вам не пришлось](https://habr.com/ru/articles/1001478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001478)
-- [Почему я стал ИТ-волонтером &amp;amp; Датасет новостей о противоречиях современного общества](https://habr.com/ru/companies/ods/articles/993122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993122)
-- [Организация производства Информационных систем. Часть 6. Разработка. 6.2. Имплементация проектного решения](https://habr.com/ru/articles/1001426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001426)
-- [[Перевод] Обратная сторона массивов в PostgreSQL](https://habr.com/ru/companies/magnus-tech/articles/990146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990146)
-- [12 бит против 8 бит в камере для проведения металлографических исследований при помощи оптического микроскопа](https://habr.com/ru/articles/1001398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001398)
+- [«Цифровое обрезание» для ВК Видео](https://habr.com/ru/articles/1001502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001502)
+- [Cвой Fusion 360! Как я делал свой САПР за новогодние выходные](https://habr.com/ru/companies/timeweb/articles/989824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989824)
+- [Алёна Рыбакина: «Путь в коммиттеры PostgreSQL начинается с первого ревью»](https://habr.com/ru/companies/postgrespro/articles/958052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958052)
+- [[Перевод] Секретное оружие физиков: почему спинтроника убьет современную электронику](https://habr.com/ru/companies/bothub/articles/1001352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001352)
+- [[Перевод] Руководство по ArchUnit — как модульно тестировать архитектуру](https://habr.com/ru/companies/spring_aio/articles/1001486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001486)
 <!-- BLOG-POST-LIST:END -->
 
 ---
