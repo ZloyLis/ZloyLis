@@ -35,8 +35,8 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Я пришёл в программирование из логистики. И в итоге начал строить “завод” по созданию кода &lpar;без команды&rpar;](https://habr.com/ru/articles/1001200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001200)
 - [RAG на PHP + Qdrant: быстрый MVP для внутренней базы знаний](https://habr.com/ru/articles/1001156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001156)
-- [Российские вузы продолжают выпускать толпы C# разработчиков для того чтобы что?](https://habr.com/ru/articles/996024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996024)
 - [Перезапрос упавшей статики](https://habr.com/ru/articles/1001150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001150)
 - [Научись говорить ртом](https://habr.com/ru/articles/1001140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001140)
 - [Кейс: как ИИ-агент решил тестовое задание на позицию 1С-Аналитика](https://habr.com/ru/companies/1yes/articles/1001112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001112)
