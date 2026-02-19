@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы упростили компонент из 272 миллионов комбинаций в дизайн-системе Яндекс 360](https://habr.com/ru/companies/yandex/articles/1000608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000608)
+- [Дизайн интерфейса: когда лучше ничего не менять. Часть 2](https://habr.com/ru/articles/1001226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001226)
 - [Scedel: DSL для описания схем данных](https://habr.com/ru/articles/1001184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001184)
 - [Я заменил Google на 50 строк Python. Через месяц я забыл, как пишется tar -xzf](https://habr.com/ru/articles/1001214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001214)
 - [Я пришёл в программирование из логистики. И в итоге начал строить систему по проверке кода](https://habr.com/ru/articles/1001200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001200)
-- [RAG на PHP + Qdrant: быстрый MVP для внутренней базы знаний](https://habr.com/ru/articles/1001156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001156)
-- [Перезапрос упавшей статики](https://habr.com/ru/articles/1001150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001150)
 <!-- BLOG-POST-LIST:END -->
 
 ---
