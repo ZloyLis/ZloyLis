@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Линтеры вне кода: как HTML, Markdown и YAML становятся предсказуемыми](https://habr.com/ru/articles/1001496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001496)
+- [Пилот взлететел, полет нормальный](https://habr.com/ru/articles/1001530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001530)
 - [«Цифровое обрезание» для ВК Видео](https://habr.com/ru/articles/1001502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001502)
 - [Cвой Fusion 360! Как я делал свой САПР за новогодние выходные](https://habr.com/ru/companies/timeweb/articles/989824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989824)
 - [Алёна Рыбакина: «Путь в коммиттеры PostgreSQL начинается с первого ревью»](https://habr.com/ru/companies/postgrespro/articles/958052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=958052)
-- [[Перевод] Секретное оружие физиков: почему спинтроника убьет современную электронику](https://habr.com/ru/companies/bothub/articles/1001352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001352)
-- [[Перевод] Руководство по ArchUnit — как модульно тестировать архитектуру](https://habr.com/ru/companies/spring_aio/articles/1001486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001486)
 <!-- BLOG-POST-LIST:END -->
 
 ---
