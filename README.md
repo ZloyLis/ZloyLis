@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Охота за красным fps](https://habr.com/ru/articles/993698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993698)
 - [Гайд-лонгрид: Как правильно читать User-Agent](https://habr.com/ru/articles/1001604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001604)
 - [[Перевод] Автоматическая модернизация кода на Go при помощи go fix](https://habr.com/ru/articles/1001030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001030)
 - [Программист микроконтроллеров: что спрашивают на собеседованиях](https://habr.com/ru/companies/yadro/articles/1001574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001574)
 - [Линтеры вне кода: как HTML, Markdown и YAML становятся предсказуемыми](https://habr.com/ru/articles/1001496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001496)
-- [Пилот взлететел, полет нормальный](https://habr.com/ru/articles/1001530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001530)
 <!-- BLOG-POST-LIST:END -->
 
 ---
