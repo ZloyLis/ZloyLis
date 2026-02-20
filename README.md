@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Агентская амнезия: как я решил эту проблему на Go](https://habr.com/ru/articles/1001912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001912)
+- [Как писать юнит-тесты, которые не ломаются](https://habr.com/ru/companies/avito/articles/1001170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001170)
 - [[Перевод] На что кодинг-агенты тратят наши токены](https://habr.com/ru/articles/1001866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001866)
 - [Два процесса, одна задача &lpar;КК, Глава 1&rpar;](https://habr.com/ru/companies/bar/articles/1001864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001864)
 - [Мобильное приложение Sminex: как мы строим единый бэкенд на современном стеке](https://habr.com/ru/companies/sminex_developer/articles/1001824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001824)
-- [С++ внутри PostgreSQL: удобство против традиций](https://habr.com/ru/companies/sberbank/articles/994900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994900)
-- [Как войти в IT через дизайн](https://habr.com/ru/companies/habr_career/articles/1001812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001812)
 <!-- BLOG-POST-LIST:END -->
 
 ---
