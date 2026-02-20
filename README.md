@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Книга «Game++. Устройство и оптимизация игрового движка»](https://habr.com/ru/companies/bhv_publishing/articles/1001720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001720)
+- [[Перевод] Андрей Карпаты только что создал полноценный GPT на 243 строках Python](https://habr.com/ru/companies/bothub/articles/1001696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001696)
 - [System Design для QA: о чём вас спросят на собеседовании](https://habr.com/ru/articles/1001692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001692)
 - [Почему IT-проекты жирные &lpar;опять&rpar;](https://habr.com/ru/articles/1001480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001480)
 - [Prompt injection для смелых духом: от zero-click атаки на 1.4B устройств до философского джейлбрейка](https://habr.com/ru/articles/1001690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001690)
-- [От гаданий к математике: Как PG_EXPECTO v.7 и DeepSeek превращают DBA-анализ из искусства в науку](https://habr.com/ru/articles/1001686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001686)
-- [Обманываем atomic](https://habr.com/ru/articles/1001634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001634)
 <!-- BLOG-POST-LIST:END -->
 
 ---
