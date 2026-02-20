@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Когда стойка умирает, а 5xx остаётся нулевым. Разбор скрытой деградации PostgreSQL](https://habr.com/ru/articles/1002056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002056)
 - [Data Structure Protocol &lpar;DSP&rpar;: как дать LLM-агентам «долговременную память» о большом репозитории](https://habr.com/ru/articles/1002040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002040)
 - [Самый быстрый XML парсер для iOS в 2026 году?](https://habr.com/ru/articles/1002030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002030)
 - [Первое знакомство с Rust](https://habr.com/ru/companies/otus/articles/1000836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000836)
 - [Как младенец с погремушкой объясняет крах государств](https://habr.com/ru/articles/1002012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002012)
-- [[Перевод] Как Anthropic убивает Биткоин?](https://habr.com/ru/companies/bothub/articles/1001718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001718)
 <!-- BLOG-POST-LIST:END -->
 
 ---
