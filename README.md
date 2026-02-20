@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Рекап для разработчика: как я собрал итоги года на основе GitHub и self-hosted LLM](https://habr.com/ru/companies/selectel/articles/1001728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001728)
 - [Техническая реализация безопасной системы сделок через модель эскроу &lpar;не гаранты, а математика&rpar;](https://habr.com/ru/articles/1001526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001526)
 - [Пользовательское требование — точка входа в документацию](https://habr.com/ru/articles/1001740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001740)
 - [Транспортная логистика в 1С:ERP: типовой функционал и кастомизация под специфику бизнеса](https://habr.com/ru/articles/1001736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001736)
 - [Нестандартные фичи Rust, которые вы полюбите](https://habr.com/ru/companies/beget/articles/995022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995022)
-- [Мини-компьютер на Arduino с интерпретатором BASIC: от идеи до реализации](https://habr.com/ru/companies/ozonbank/articles/1001396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001396)
 <!-- BLOG-POST-LIST:END -->
 
 ---
