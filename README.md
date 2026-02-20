@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [С++ внутри PostgreSQL: удобство против традиций](https://habr.com/ru/companies/sberbank/articles/994900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994900)
+- [Как войти в IT через дизайн](https://habr.com/ru/companies/habr_career/articles/1001812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001812)
 - [SQL за одну статью: от «SELECT *» до оконных функций и сложных JOIN-ов](https://habr.com/ru/articles/1001796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001796)
 - [Бабушка с долгом в полмиллиона, однопоточное ядро и другие грабли: как не повторить чужие архитектурные ошибки](https://habr.com/ru/companies/ibs/articles/1001780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001780)
 - [Рекап для разработчика: как я собрал итоги года на основе GitHub и self-hosted LLM](https://habr.com/ru/companies/selectel/articles/1001728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001728)
-- [Техническая реализация безопасной системы сделок через модель эскроу &lpar;не гаранты, а математика&rpar;](https://habr.com/ru/articles/1001526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001526)
-- [Пользовательское требование — точка входа в документацию](https://habr.com/ru/articles/1001740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001740)
 <!-- BLOG-POST-LIST:END -->
 
 ---
