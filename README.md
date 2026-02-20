@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Книга «Game++. Устройство и оптимизация игрового движка»](https://habr.com/ru/companies/bhv_publishing/articles/1001720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001720)
-- [[Перевод] Андрей Карпаты только что создал полноценный GPT на 243 строках Python](https://habr.com/ru/companies/bothub/articles/1001696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001696)
-- [System Design для QA: о чём вас спросят на собеседовании](https://habr.com/ru/articles/1001692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001692)
-- [Почему IT-проекты жирные &lpar;опять&rpar;](https://habr.com/ru/articles/1001480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001480)
-- [Prompt injection для смелых духом: от zero-click атаки на 1.4B устройств до философского джейлбрейка](https://habr.com/ru/articles/1001690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001690)
+- [Техническая реализация безопасной системы сделок через модель эскроу &lpar;не гаранты, а математика&rpar;](https://habr.com/ru/articles/1001526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001526)
+- [Пользовательское требование — точка входа в документацию](https://habr.com/ru/articles/1001740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001740)
+- [Транспортная логистика в 1С:ERP: типовой функционал и кастомизация под специфику бизнеса](https://habr.com/ru/articles/1001736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001736)
+- [Нестандартные фичи Rust, которые вы полюбите](https://habr.com/ru/companies/beget/articles/995022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995022)
+- [Мини-компьютер на Arduino с интерпретатором BASIC: от идеи до реализации](https://habr.com/ru/companies/ozonbank/articles/1001396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001396)
 <!-- BLOG-POST-LIST:END -->
 
 ---
