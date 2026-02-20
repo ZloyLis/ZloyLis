@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Параллельная обработка Kafka сообщений с гарантией at-least-once в условиях медленного внешнего сервиса](https://habr.com/ru/articles/1001670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001670)
-- [Как скринридер «видит» сайт: DOM, accessibility tree и API простыми словами](https://habr.com/ru/articles/1001642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001642)
-- [Kawai-Focus 2.3: логика приложения на TypeScript](https://habr.com/ru/articles/1001638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001638)
-- [Научитесь слушать не жопой](https://habr.com/ru/articles/1001636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001636)
-- [Охота за красным fps](https://habr.com/ru/articles/993698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993698)
+- [System Design для QA: о чём вас спросят на собеседовании](https://habr.com/ru/articles/1001692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001692)
+- [Почему IT-проекты жирные &lpar;опять&rpar;](https://habr.com/ru/articles/1001480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001480)
+- [Prompt injection для смелых духом: от zero-click атаки на 1.4B устройств до философского джейлбрейка](https://habr.com/ru/articles/1001690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001690)
+- [От гаданий к математике: Как PG_EXPECTO v.7 и DeepSeek превращают DBA-анализ из искусства в науку](https://habr.com/ru/articles/1001686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001686)
+- [Обманываем atomic](https://habr.com/ru/articles/1001634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001634)
 <!-- BLOG-POST-LIST:END -->
 
 ---
