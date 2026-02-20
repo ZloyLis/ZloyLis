@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От миграции к сотрудничеству: опыт перехода на Pixso](https://habr.com/ru/companies/kaspersky/articles/1001916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001916)
+- [[Перевод] Ceylon и NULL: как сделать null нормальным](https://habr.com/ru/companies/spring_aio/articles/1001982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001982)
+- [План аварийного восстановления &lpar;Disaster Recovery Plan, DRP&rpar; DWH — зачем он нужен и как работает](https://habr.com/ru/articles/1001966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001966)
 - [Агентская амнезия: как я решил эту проблему на Go](https://habr.com/ru/articles/1001912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001912)
 - [Как писать юнит-тесты, которые не ломаются](https://habr.com/ru/companies/avito/articles/1001170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001170)
-- [[Перевод] На что кодинг-агенты тратят наши токены](https://habr.com/ru/articles/1001866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001866)
-- [Два процесса, одна задача &lpar;КК, Глава 1&rpar;](https://habr.com/ru/companies/bar/articles/1001864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001864)
-- [Мобильное приложение Sminex: как мы строим единый бэкенд на современном стеке](https://habr.com/ru/companies/sminex_developer/articles/1001824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001824)
 <!-- BLOG-POST-LIST:END -->
 
 ---
