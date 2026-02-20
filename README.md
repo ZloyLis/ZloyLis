@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Параллельная обработка Kafka сообщений с гарантией at-least-once в условиях медленного внешнего сервиса](https://habr.com/ru/articles/1001670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001670)
 - [Как скринридер «видит» сайт: DOM, accessibility tree и API простыми словами](https://habr.com/ru/articles/1001642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001642)
 - [Kawai-Focus 2.3: логика приложения на TypeScript](https://habr.com/ru/articles/1001638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001638)
 - [Научитесь слушать не жопой](https://habr.com/ru/articles/1001636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001636)
 - [Охота за красным fps](https://habr.com/ru/articles/993698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993698)
-- [Гайд-лонгрид: Как правильно читать User-Agent](https://habr.com/ru/articles/1001604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001604)
 <!-- BLOG-POST-LIST:END -->
 
 ---
