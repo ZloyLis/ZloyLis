@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [От миграции к сотрудничеству: опыт перехода на Pixso](https://habr.com/ru/companies/kaspersky/articles/1001916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001916)
-- [[Перевод] Ceylon и NULL: как сделать null нормальным](https://habr.com/ru/companies/spring_aio/articles/1001982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001982)
-- [План аварийного восстановления &lpar;Disaster Recovery Plan, DRP&rpar; DWH — зачем он нужен и как работает](https://habr.com/ru/articles/1001966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001966)
-- [Агентская амнезия: как я решил эту проблему на Go](https://habr.com/ru/articles/1001912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001912)
-- [Как писать юнит-тесты, которые не ломаются](https://habr.com/ru/companies/avito/articles/1001170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001170)
+- [Как младенец с погремушкой объясняет крах государств](https://habr.com/ru/articles/1002012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002012)
+- [[Перевод] Как Anthropic убивает Биткоин?](https://habr.com/ru/companies/bothub/articles/1001718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001718)
+- [Canvas-конфетти без библиотек: пишем систему частиц и физику на чистом JS](https://habr.com/ru/articles/1001462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001462)
+- [О дивный новый код](https://habr.com/ru/articles/1002000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002000)
+- [От MNIST к Transformer. Часть 2. Основы работы с памятью](https://habr.com/ru/articles/1001886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001886)
 <!-- BLOG-POST-LIST:END -->
 
 ---
