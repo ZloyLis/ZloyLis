@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [FastAPI на AMD FX-8320: оптимизация P99 latency в условиях ограниченных ресурсов &lpar;HDD, DDR3&rpar;](https://habr.com/ru/articles/1002312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002312)
 - [Самый удобный и минималистичный workflow для macOS &lpar;vim-centric&rpar;](https://habr.com/ru/articles/1002308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002308)
 - [Решаем уравнение Бомбелли, или Почему квадратных корней из отрицательных чисел не бывает](https://habr.com/ru/articles/1002304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002304)
 - [Мониторинг, который не бесит: почему мы перестали использовать Uptime Kuma и написали свой SaaS с поддержкой UDP/ICMP](https://habr.com/ru/articles/1002300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002300)
 - [Пассивная атака: история революции на Уолл-стрит](https://habr.com/ru/articles/1002022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002022)
-- [[Перевод] Правило 3-2-1: почему базовый принцип резервного копирования перестал быть достаточным](https://habr.com/ru/articles/1002278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002278)
 <!-- BLOG-POST-LIST:END -->
 
 ---
