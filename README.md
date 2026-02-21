@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пассивная атака: история революции на Уолл-стрит](https://habr.com/ru/articles/1002022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002022)
+- [[Перевод] Правило 3-2-1: почему базовый принцип резервного копирования перестал быть достаточным](https://habr.com/ru/articles/1002278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002278)
 - [M23-Spectrum: инициализация весов нейросети через теорию групп Матьё](https://habr.com/ru/articles/1002272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002272)
 - [Как я ускорил работу с Claude Code в 2 раза: разбираем Agentation](https://habr.com/ru/articles/1000726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000726)
 - [Трудности разработки Java-игр: каким был мобильный геймдев нулевых? [Длиннопост про разработку]](https://habr.com/ru/companies/timeweb/articles/1001674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001674)
-- [Garbage Collector от мала до велика или как создаются и отчищаются ваши объекты](https://habr.com/ru/articles/1002194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002194)
-- [Как я перестал «вайбкодить» с LLM и собрал процесс разработки, который не разваливает проект](https://habr.com/ru/articles/1002200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002200)
 <!-- BLOG-POST-LIST:END -->
 
 ---
