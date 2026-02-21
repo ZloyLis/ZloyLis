@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Системный аналитик по-польски](https://habr.com/ru/articles/994548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994548)
+- [Как бэкенд-инженер и ИИ-агенты пилили SaaS-продукт по обучению с флешкартами и ИИ-тренером](https://habr.com/ru/articles/1002084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002084)
 - [Лампочка 2](https://habr.com/ru/articles/1002078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002078)
 - [Zator: Специализированный язык программирования для построения генеративных пайплайнов через KoboldCpp и StableDiffusion](https://habr.com/ru/articles/1002076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002076)
 - [Когда стойка умирает, а 5xx остаётся нулевым. Разбор скрытой деградации PostgreSQL](https://habr.com/ru/articles/1002056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002056)
-- [Data Structure Protocol &lpar;DSP&rpar;: как дать LLM-агентам «долговременную память» о большом репозитории](https://habr.com/ru/articles/1002040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002040)
-- [Самый быстрый XML парсер для iOS в 2026 году?](https://habr.com/ru/articles/1002030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002030)
 <!-- BLOG-POST-LIST:END -->
 
 ---
