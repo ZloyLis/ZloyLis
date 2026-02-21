@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Garbage Collector от мала до велика или как создаются и отчищаются ваши объекты](https://habr.com/ru/articles/1002194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002194)
+- [Как я перестал “вайбкодить” с LLM и собрал процесс разработки, который не разваливает проект](https://habr.com/ru/articles/1002200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002200)
+- [47 миллионов инструментов в реалтайме: как устроена архитектура MarketData в Финаме](https://habr.com/ru/companies/finam_broker/articles/1001328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001328)
 - [Как я запилил Skill для $mol, чтобы Claude Code перестал писать на React](https://habr.com/ru/articles/1002192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002192)
 - [Парсинг, боль и AI-напарник: Как я в 16 лет строил Open Source API и оптимизировал Postgres](https://habr.com/ru/articles/1002178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002178)
-- [PicoClaw — ваш персональный помощник](https://habr.com/ru/articles/1002170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002170)
-- [Формат text-only снова популярен? Вайб старого интернета в техноблогах — для чтения на выходных](https://habr.com/ru/companies/beeline_cloud/articles/1002086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002086)
-- [Почему Discord не работал, хотя тесты говорили «ОК» — разбор и исправление UnblockPro v2.0](https://habr.com/ru/articles/1002160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002160)
 <!-- BLOG-POST-LIST:END -->
 
 ---
