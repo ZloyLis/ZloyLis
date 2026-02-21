@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как выбрать язык программирования новичку: Обзор ситуации на 2026](https://habr.com/ru/articles/1002224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002224)
+- [Как я ускорил работу с Claude Code в 2 раза: разбираем Agentation](https://habr.com/ru/articles/1000726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000726)
 - [Трудности разработки Java-игр: каким был мобильный геймдев нулевых? [Длиннопост про разработку]](https://habr.com/ru/companies/timeweb/articles/1001674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001674)
 - [Garbage Collector от мала до велика или как создаются и отчищаются ваши объекты](https://habr.com/ru/articles/1002194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002194)
 - [Как я перестал «вайбкодить» с LLM и собрал процесс разработки, который не разваливает проект](https://habr.com/ru/articles/1002200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002200)
-- [47 миллионов инструментов в реалтайме: как устроена архитектура MarketData в Финаме](https://habr.com/ru/companies/finam_broker/articles/1001328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001328)
-- [Как я запилил Skill для $mol, чтобы Claude Code перестал писать на React](https://habr.com/ru/articles/1002192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002192)
 <!-- BLOG-POST-LIST:END -->
 
 ---
