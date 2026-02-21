@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Парсинг, боль и AI-напарник: Как я в 16 лет строил Open Source API и оптимизировал Postgres](https://habr.com/ru/articles/1002178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002178)
 - [PicoClaw — ваш персональный помощник](https://habr.com/ru/articles/1002170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002170)
 - [Формат text-only снова популярен? Вайб старого интернета в техноблогах — для чтения на выходных](https://habr.com/ru/companies/beeline_cloud/articles/1002086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002086)
 - [Почему Discord не работал, хотя тесты говорили «ОК» — разбор и исправление UnblockPro v2.0](https://habr.com/ru/articles/1002160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002160)
 - [Мой тимлид не пишет код 3 года. Почему он — лучший тимлид, с которым я работал](https://habr.com/ru/articles/1002120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002120)
-- [Системный аналитик по-польски](https://habr.com/ru/articles/994548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994548)
 <!-- BLOG-POST-LIST:END -->
 
 ---
