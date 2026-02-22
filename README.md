@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему сокращения в IT связаны с низкоквалифицированными работниками, а не с ИИ](https://habr.com/ru/articles/1002476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002476)
+- [Инфуры. Методы достижения AGI](https://habr.com/ru/articles/1002468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002468)
 - [Мобильная разработка за неделю #620 &lpar;16 — 22 февраля&rpar;](https://habr.com/ru/articles/1002444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002444)
 - [Как я реализовал криптографически доказуемые чаты в своём мессенджере: Ed25519 + хеш-цепочка](https://habr.com/ru/articles/1002436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002436)
 - [«Я напишу вам CLAUDE.md, и всё полетит»: как я провалил первую неделю внедрения ИИ и что пришлось менять](https://habr.com/ru/articles/1002432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002432)
-- [Codeforces не только для олимпиадников: как контесты дают реальное конкурентное преимущество](https://habr.com/ru/articles/1002430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002430)
-- [CDC Consumer с криптографической подписью: от Kafka до Hive](https://habr.com/ru/articles/1002410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002410)
 <!-- BLOG-POST-LIST:END -->
 
 ---
