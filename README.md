@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я реализовал криптографически доказуемые чаты в своём мессенджере: Ed25519 + хеш-цепочка](https://habr.com/ru/articles/1002436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002436)
+- [«Я напишу вам CLAUDE.md, и всё полетит»: как я провалил первую неделю внедрения ИИ и что пришлось менять](https://habr.com/ru/articles/1002432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002432)
+- [Codeforces не только для олимпиадников: как контесты дают реальное конкурентное преимущество](https://habr.com/ru/articles/1002430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002430)
 - [CDC Consumer с криптографической подписью: от Kafka до Hive](https://habr.com/ru/articles/1002410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002410)
 - [Принципы DOD в C++: Часть 1. Оптимизация структур](https://habr.com/ru/articles/1002408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002408)
-- [mise — утилита необходимая каждому разработчику и в каждом проекте](https://habr.com/ru/articles/1002390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002390)
-- [Как я сделал полностью бесплатное Android-приложение для задач и финансов — и почему не взял ни копейки](https://habr.com/ru/articles/1002356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002356)
-- [Ваш браузер — это узкое место для OpenClaw](https://habr.com/ru/articles/1002342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002342)
 <!-- BLOG-POST-LIST:END -->
 
 ---
