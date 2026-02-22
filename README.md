@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Писать код проще, чем книгу о том, как писать код](https://habr.com/ru/articles/1002546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002546)
+- [[Перевод] Как мы улучшили время загрузки React Native приложения в 10 раз](https://habr.com/ru/articles/1002542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002542)
 - [Получение списка и содержимого чатов Telegram с помощью TDLib &lpar;на примере Kotlin&rpar;](https://habr.com/ru/articles/1002516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002516)
 - [Цифровое Домостроительство: Дерево новой этики](https://habr.com/ru/articles/1002514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002514)
 - [Почему сокращения в IT связаны с низкоквалифицированными работниками, а не с ИИ](https://habr.com/ru/articles/1002476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002476)
-- [Инфуры. Методы достижения AGI](https://habr.com/ru/articles/1002468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002468)
-- [Мобильная разработка за неделю #620 &lpar;16 — 22 февраля&rpar;](https://habr.com/ru/articles/1002444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002444)
 <!-- BLOG-POST-LIST:END -->
 
 ---
