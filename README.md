@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [CDC Consumer с криптографической подписью: от Kafka до Hive](https://habr.com/ru/articles/1002410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002410)
+- [Принципы DOD в C++: Часть 1. Оптимизация структур](https://habr.com/ru/articles/1002408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002408)
 - [mise — утилита необходимая каждому разработчику и в каждом проекте](https://habr.com/ru/articles/1002390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002390)
 - [Как я сделал полностью бесплатное Android-приложение для задач и финансов — и почему не взял ни копейки](https://habr.com/ru/articles/1002356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002356)
 - [Ваш браузер — это узкое место для OpenClaw](https://habr.com/ru/articles/1002342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002342)
-- [Отправить ли интеграционную платформу UTL в утиль?](https://habr.com/ru/articles/1002338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002338)
-- [[Перевод] 10 миллиардов устройств работают на его коде. Он поддерживает его в одиночку. Теперь его атакует ИИ](https://habr.com/ru/companies/bothub/articles/1002324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002324)
 <!-- BLOG-POST-LIST:END -->
 
 ---
