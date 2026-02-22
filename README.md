@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ваш браузер — это узкое место для OpenClaw](https://habr.com/ru/articles/1002342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002342)
+- [Отправить ли интеграционную платформу UTL в утиль?](https://habr.com/ru/articles/1002338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002338)
 - [[Перевод] 10 миллиардов устройств работают на его коде. Он поддерживает его в одиночку. Теперь его атакует ИИ](https://habr.com/ru/companies/bothub/articles/1002324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002324)
 - [Быстрый запуск виртуального WEB сервера для новичка. Для создание своего простого прокси за 3 копейки](https://habr.com/ru/articles/1002316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002316)
 - [FastAPI на AMD FX-8320: оптимизация P99 latency в условиях ограниченных ресурсов &lpar;HDD, DDR3&rpar;](https://habr.com/ru/articles/1002312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002312)
-- [Самый удобный и минималистичный workflow для macOS &lpar;vim-centric&rpar;](https://habr.com/ru/articles/1002308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002308)
-- [Решаем уравнение Бомбелли, или Почему квадратных корней из отрицательных чисел не бывает](https://habr.com/ru/articles/1002304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002304)
 <!-- BLOG-POST-LIST:END -->
 
 ---
