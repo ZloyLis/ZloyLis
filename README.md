@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Получение списка и содержимого чатов Telegram с помощью TDLib &lpar;на примере Kotlin&rpar;](https://habr.com/ru/articles/1002516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002516)
 - [Цифровое Домостроительство: Дерево новой этики](https://habr.com/ru/articles/1002514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002514)
 - [Почему сокращения в IT связаны с низкоквалифицированными работниками, а не с ИИ](https://habr.com/ru/articles/1002476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002476)
 - [Инфуры. Методы достижения AGI](https://habr.com/ru/articles/1002468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002468)
 - [Мобильная разработка за неделю #620 &lpar;16 — 22 февраля&rpar;](https://habr.com/ru/articles/1002444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002444)
-- [Как я реализовал криптографически доказуемые чаты в своём мессенджере: Ed25519 + хеш-цепочка](https://habr.com/ru/articles/1002436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002436)
 <!-- BLOG-POST-LIST:END -->
 
 ---
