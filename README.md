@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как войти в Open Source? С нуля до первого контрибьюта](https://habr.com/ru/articles/1002530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002530)
+- [Три аккаунта ChatGPT и один прокси: как перестать следить за лимитами](https://habr.com/ru/articles/1002258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002258)
+- [Архитектурная бомба замедленного действия](https://habr.com/ru/articles/1002604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002604)
+- [Как продают иллюзию входа в QA в 2026 году](https://habr.com/ru/articles/978968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978968)
 - [Давайте объединим линейную и геометрическую алгебры. На простом примере. Часть 1](https://habr.com/ru/articles/1002526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002526)
-- [Авторизация 2026: Почему вам больше не нужна форма регистрации &lpar;и как внедрить Яндекс ID, VK и Google&rpar;](https://habr.com/ru/articles/1002544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002544)
-- [Величайший системный кризис человечества: в шаге от катастрофы XXI века](https://habr.com/ru/articles/1000966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000966)
-- [Писать код проще, чем книгу о том, как писать код](https://habr.com/ru/articles/1002546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002546)
-- [[Перевод] Как мы улучшили время загрузки React Native приложения в 10 раз](https://habr.com/ru/articles/1002542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002542)
 <!-- BLOG-POST-LIST:END -->
 
 ---
