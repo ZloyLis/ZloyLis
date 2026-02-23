@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Я дал 100 AI-агентам равный бюджет — они изобрели кредиты под 15%](https://habr.com/ru/articles/1001646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001646)
+- [Избавляемся от утечек памяти в Angular с withExperimentalAutoCleanupInjectors](https://habr.com/ru/articles/1002642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002642)
+- [Что пугает лично меня в развитии искусственных помощников](https://habr.com/ru/articles/1002644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002644)
+- [Как запустить новый XBox 360 рекомпилятор RexGlue](https://habr.com/ru/articles/1002640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002640)
 - [Вайбкодинг убил индустрию, или поминки по синьор-разработчикам](https://habr.com/ru/articles/1002634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002634)
-- [Организация репозитория программных пакетов с ограниченным доступом в Linux](https://habr.com/ru/articles/1002454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002454)
-- [Зачем джуну Open Source? И как начать?](https://habr.com/ru/articles/1002530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002530)
-- [Три аккаунта ChatGPT и один прокси: как перестать следить за лимитами](https://habr.com/ru/articles/1002258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002258)
-- [Архитектурная бомба замедленного действия](https://habr.com/ru/articles/1002604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002604)
 <!-- BLOG-POST-LIST:END -->
 
 ---
