@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Структуры данных на практике. Глава 5: Связанные списки — убийцы кэша](https://habr.com/ru/articles/996210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996210)
+- [Как я сделал автоматический перевод постов у себя в блоге с помощью ChatGPT](https://habr.com/ru/articles/1002656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002656)
 - [Я дал 100 AI-агентам равный бюджет — они изобрели кредиты под 15%](https://habr.com/ru/articles/1001646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001646)
 - [Избавляемся от утечек памяти в Angular с withExperimentalAutoCleanupInjectors](https://habr.com/ru/articles/1002642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002642)
 - [Что пугает лично меня в развитии искусственных помощников](https://habr.com/ru/articles/1002644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002644)
-- [Как запустить новый XBox 360 рекомпилятор RexGlue](https://habr.com/ru/articles/1002640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002640)
-- [Вайбкодинг убил индустрию, или поминки по синьор-разработчикам](https://habr.com/ru/articles/1002634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002634)
 <!-- BLOG-POST-LIST:END -->
 
 ---
