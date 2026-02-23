@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пример оптимизации интерфейса динамического списка в мобильном приложении, сделанном на 1С при помощи HTML + CSS](https://habr.com/ru/articles/1002726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002726)
+- [Про открытость АСУ ТП по мотивам дискуссий в комментариях](https://habr.com/ru/articles/1002720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002720)
+- [Как мы победили утечки памяти в реактивных веб-компонентах &lpar;RWC&rpar;](https://habr.com/ru/articles/1002708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002708)
+- [Хватит покупать курсы. Соберите портфолио на реальных кейсах. 3 разбора + чек-лист](https://habr.com/ru/articles/1002700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002700)
 - [Отвечаю на популярные вопросы по HTML и CSS с собеседований джунов-фронтендеров](https://habr.com/ru/companies/ruvds/articles/1001440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001440)
-- [[Перевод] 3D-шейдер реального времени на Game Boy Color](https://habr.com/ru/articles/995412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995412)
-- [Заметки на полях: Изолируем Lua окружение в C++ приложении. Часть 3/3](https://habr.com/ru/articles/991960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991960)
-- [[Перевод] Структуры данных на практике. Глава 5: Связанные списки — убийцы кэша](https://habr.com/ru/articles/996210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996210)
-- [Как я сделал автоматический перевод постов у себя в блоге с помощью ChatGPT](https://habr.com/ru/articles/1002656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002656)
 <!-- BLOG-POST-LIST:END -->
 
 ---
