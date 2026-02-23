@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как войти в Open Source? С нуля до первого контрибьюта](https://habr.com/ru/articles/1002530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002530)
+- [Вайбкодинг убил индустрию, или поминки по синьор-разработчикам](https://habr.com/ru/articles/1002634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002634)
+- [Организация репозитория программных пакетов с ограниченным доступом в Linux](https://habr.com/ru/articles/1002454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002454)
+- [Зачем джуну Open Source? И как начать?](https://habr.com/ru/articles/1002530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002530)
 - [Три аккаунта ChatGPT и один прокси: как перестать следить за лимитами](https://habr.com/ru/articles/1002258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002258)
 - [Архитектурная бомба замедленного действия](https://habr.com/ru/articles/1002604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002604)
-- [Как продают иллюзию входа в QA в 2026 году](https://habr.com/ru/articles/978968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978968)
-- [Давайте объединим линейную и геометрическую алгебры. На простом примере. Часть 1](https://habr.com/ru/articles/1002526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002526)
 <!-- BLOG-POST-LIST:END -->
 
 ---
