@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Sonnet 4.6 vs ChatGPT 5.2: кто же лучше?](https://habr.com/ru/companies/bothub/articles/1002746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002746)
+- [Мы устали делать вид. Почему пора перестать «внедрять и мигрировать» и начать создавать](https://habr.com/ru/articles/1002736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002736)
+- [[Перевод] Одна строка кода, которая заблокировала 102 потока](https://habr.com/ru/articles/1002732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002732)
 - [Пример оптимизации интерфейса динамического списка в мобильном приложении, сделанном на 1С при помощи HTML + CSS](https://habr.com/ru/articles/1002726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002726)
 - [Про открытость АСУ ТП по мотивам дискуссий в комментариях](https://habr.com/ru/articles/1002720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002720)
-- [Как мы победили утечки памяти в реактивных веб-компонентах &lpar;RWC&rpar;](https://habr.com/ru/articles/1002708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002708)
-- [Хватит покупать курсы. Соберите портфолио на реальных кейсах. 3 разбора + чек-лист](https://habr.com/ru/articles/1002700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002700)
-- [Отвечаю на популярные вопросы по HTML и CSS с собеседований джунов-фронтендеров](https://habr.com/ru/companies/ruvds/articles/1001440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001440)
 <!-- BLOG-POST-LIST:END -->
 
 ---
