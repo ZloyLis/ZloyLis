@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Хроники цифровых заводов. Уровни их проблемы](https://habr.com/ru/articles/1002810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002810)
 - [Notte CLI: автоматизация браузера и развёртывание функций прямо из терминала](https://habr.com/ru/articles/1002800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002800)
 - [KMP, XCode и 5% мазохистов: как мы писали AI-агентов на 4 платформы](https://habr.com/ru/articles/1002744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002744)
 - [Генерация лабиринтов с использованием алгоритма Recursive backtracker](https://habr.com/ru/articles/1002460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002460)
 - [Claude Sonnet 4.6 vs ChatGPT 5.2: кто же лучше?](https://habr.com/ru/companies/bothub/articles/1002746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002746)
-- [Мы устали делать вид. Почему пора перестать «внедрять и мигрировать» и начать создавать](https://habr.com/ru/articles/1002736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002736)
 <!-- BLOG-POST-LIST:END -->
 
 ---
