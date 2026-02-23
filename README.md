@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Давайте объединим линейную и геометрическую алгебры. На простом примере. Часть 1](https://habr.com/ru/articles/1002526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002526)
+- [Авторизация 2026: Почему вам больше не нужна форма регистрации &lpar;и как внедрить Яндекс ID, VK и Google&rpar;](https://habr.com/ru/articles/1002544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002544)
+- [Величайший системный кризис человечества: в шаге от катастрофы XXI века](https://habr.com/ru/articles/1000966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000966)
 - [Писать код проще, чем книгу о том, как писать код](https://habr.com/ru/articles/1002546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002546)
 - [[Перевод] Как мы улучшили время загрузки React Native приложения в 10 раз](https://habr.com/ru/articles/1002542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002542)
-- [Получение списка и содержимого чатов Telegram с помощью TDLib &lpar;на примере Kotlin&rpar;](https://habr.com/ru/articles/1002516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002516)
-- [Цифровое Домостроительство: Дерево новой этики](https://habr.com/ru/articles/1002514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002514)
-- [Почему сокращения в IT связаны с низкоквалифицированными работниками, а не с ИИ](https://habr.com/ru/articles/1002476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002476)
 <!-- BLOG-POST-LIST:END -->
 
 ---
