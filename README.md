@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Цифровая экология: делаем веб легче для планеты](https://habr.com/ru/companies/sberbank/articles/1003044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003044)
+- [Как я добавил 10 фич в Android-приложение за один заход: Todo Budget v4.0](https://habr.com/ru/articles/1003034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003034)
+- [Долг оптимизацией красен: как мы в МойОфис объединили борьбу с легаси и увеличение производительности таблиц](https://habr.com/ru/companies/ncloudtech/articles/1001468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001468)
+- [История о том, как я устал от галлюцинаций ИИ и собрал инструкцию для нейронки](https://habr.com/ru/articles/1003032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003032)
 - [Приведение типа в C++](https://habr.com/ru/articles/1003004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003004)
-- [Как организовать тестовую среду, сохраняя покой владельца данных](https://habr.com/ru/companies/neoflex/articles/1003000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003000)
-- [[Перевод] Read-only-права в Kubernetes, позволяющие выполнить любой код: разбор критической уязвимости в популярных Helm-чартах](https://habr.com/ru/companies/flant/articles/1001778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001778)
-- [ИИ в Agile-команде. Цифровой помощник, железный дровосек или коллега?](https://habr.com/ru/companies/inferit/articles/1002972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002972)
-- [Продуктовая колористика: рабочий инструментарий](https://habr.com/ru/articles/1002964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002964)
 <!-- BLOG-POST-LIST:END -->
 
 ---
