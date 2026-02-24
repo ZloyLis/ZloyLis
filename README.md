@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Проблема ретроспективного внедрения интернационализации &lpar;i18n&rpar;](https://habr.com/ru/articles/1003276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003276)
+- [Забыть про Backprop: Как я собрал «Термодинамический Мозг» с фазой сна и митозом, который влезет в Arduino](https://habr.com/ru/articles/1003270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003270)
+- [Фотонный проц на одной инструкции: как Akhetonics строит комп из чистого света. И почему это куда сложнее, чем кажется](https://habr.com/ru/articles/1003266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003266)
 - [Законъ о запрете иностранных словъ… в разработке](https://habr.com/ru/articles/1003246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003246)
 - [ТЕХНИКА ПРИНЯТИЯ РЕШЕНИЙ «КВАДРАТ ДЕКАРТА» НА ПРИМЕРЕ СЦЕНЫ ИЗ «МАТРИЦЫ»](https://habr.com/ru/articles/1003238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003238)
-- [Telescope: Kubernetes как ещё один источник логов](https://habr.com/ru/articles/1003206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003206)
-- [Security Week 2609: новые варианты атак ClickFix](https://habr.com/ru/companies/kaspersky/articles/1002934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002934)
-- [Непотребные алгоритмы, ненормальные трюки и всевозможные хаки на C](https://habr.com/ru/companies/timeweb/articles/990110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990110)
 <!-- BLOG-POST-LIST:END -->
 
 ---
