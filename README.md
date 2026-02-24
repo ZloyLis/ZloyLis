@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Агглютинативный код: почему будущее IT требует смены лингвистического фундамента](https://habr.com/ru/articles/1002926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002926)
-- [Ваше iOS-приложение не закончено, если им не может пользоваться незрячий: Гайд по Accessibility](https://habr.com/ru/articles/1002142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002142)
-- [Запустили Роллаут — чтобы вы могли сделать макеты для своего финтех-приложения за неделю](https://habr.com/ru/articles/1002880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002880)
-- [Enovia умерла, да здравствует JMatrixPlatform: пересобираю легендарную платформу на Java и Vue](https://habr.com/ru/articles/1000970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000970)
-- [Параллельный поиск в PostgreSQL: Погружение в архитектуру и производительность pg-smart-search SDK](https://habr.com/ru/articles/1002834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002834)
+- [ИИ в Agile-команде. Цифровой помощник, железный дровосек или коллега?](https://habr.com/ru/companies/inferit/articles/1002972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002972)
+- [Продуктовая колористика: рабочий инструментарий](https://habr.com/ru/articles/1002964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002964)
+- [Что не учитывают паттерны и почему мы не получаем то, что ожидаем?](https://habr.com/ru/companies/alfa/articles/972714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972714)
+- [Погружение в eBPF и XDP вместе с Go](https://habr.com/ru/companies/oleg-bunin/articles/991074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991074)
+- [Пишем плагин для semantic-release](https://habr.com/ru/companies/banki/articles/980600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980600)
 <!-- BLOG-POST-LIST:END -->
 
 ---
