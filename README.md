@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Telescope: Kubernetes как ещё один источник логов](https://habr.com/ru/articles/1003206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003206)
 - [Security Week 2609: новые варианты атак ClickFix](https://habr.com/ru/companies/kaspersky/articles/1002934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002934)
 - [Непотребные алгоритмы, ненормальные трюки и всевозможные хаки на C](https://habr.com/ru/companies/timeweb/articles/990110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990110)
 - [Конфигурация как пакет: наводим порядок в Conan так, чтобы не было мучительно больно](https://habr.com/ru/articles/1003146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003146)
 - [git-wt — AI First обёртка для git worktrees на чистом Bash](https://habr.com/ru/articles/1003134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003134)
-- [LWLock:LockManager, fastpath и всё-всё-всё](https://habr.com/ru/companies/gnivc/articles/993938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993938)
 <!-- BLOG-POST-LIST:END -->
 
 ---
