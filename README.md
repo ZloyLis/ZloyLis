@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Разбитое сердце, или Ускорение в 100 раз из-за одной дурацкой строки](https://habr.com/ru/companies/ruvds/articles/1002140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002140)
 - [Цифровая экология: делаем веб легче для планеты](https://habr.com/ru/companies/sberbank/articles/1003044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003044)
 - [Как я добавил 10 фич в Android-приложение за один заход: Todo Budget v4.0](https://habr.com/ru/articles/1003034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003034)
 - [Долг оптимизацией красен: как мы в МойОфис объединили борьбу с легаси и увеличение производительности таблиц](https://habr.com/ru/companies/ncloudtech/articles/1001468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001468)
 - [История о том, как я устал от галлюцинаций ИИ и собрал инструкцию для нейронки](https://habr.com/ru/articles/1003032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003032)
-- [Приведение типа в C++](https://habr.com/ru/articles/1003004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003004)
 <!-- BLOG-POST-LIST:END -->
 
 ---
