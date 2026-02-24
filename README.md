@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Разбитое сердце, или Ускорение в 100 раз из-за одной дурацкой строки](https://habr.com/ru/companies/ruvds/articles/1002140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002140)
-- [Цифровая экология: делаем веб легче для планеты](https://habr.com/ru/companies/sberbank/articles/1003044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003044)
-- [Как я добавил 10 фич в Android-приложение за один заход: Todo Budget v4.0](https://habr.com/ru/articles/1003034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003034)
-- [Долг оптимизацией красен: как мы в МойОфис объединили борьбу с легаси и увеличение производительности таблиц](https://habr.com/ru/companies/ncloudtech/articles/1001468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001468)
-- [История о том, как я устал от галлюцинаций ИИ и собрал инструкцию для нейронки](https://habr.com/ru/articles/1003032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003032)
+- [Конфигурация как пакет: наводим порядок в Conan так, чтобы не было мучительно больно](https://habr.com/ru/articles/1003146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003146)
+- [git-wt — AI First обёртка для git worktrees на чистом Bash](https://habr.com/ru/articles/1003134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003134)
+- [LWLock:LockManager, fastpath и всё-всё-всё](https://habr.com/ru/companies/gnivc/articles/993938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993938)
+- [Как читать новости об ИИ и отличать прорыв от пресс-релиза. И как относиться к заголовкам про «ИИ отнимет работу»](https://habr.com/ru/articles/1003130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003130)
+- [Мы знаем как готовить БД. Но индустрия изменилась: что бы я заложил в OLTP-БД с нуля](https://habr.com/ru/articles/1003102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003102)
 <!-- BLOG-POST-LIST:END -->
 
 ---
