@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Агглютинативный код: почему будущее IT требует смены лингвистического фундамента](https://habr.com/ru/articles/1002926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002926)
+- [Ваше iOS-приложение не закончено, если им не может пользоваться незрячий: Гайд по Accessibility](https://habr.com/ru/articles/1002142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002142)
+- [Запустили Роллаут — чтобы вы могли сделать макеты для своего финтех-приложения за неделю](https://habr.com/ru/articles/1002880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002880)
 - [Enovia умерла, да здравствует JMatrixPlatform: пересобираю легендарную платформу на Java и Vue](https://habr.com/ru/articles/1000970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000970)
 - [Параллельный поиск в PostgreSQL: Погружение в архитектуру и производительность pg-smart-search SDK](https://habr.com/ru/articles/1002834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002834)
-- [Технологии в основе VK Видео: от загрузки файла до кадра на экране зрителя](https://habr.com/ru/companies/vk/articles/1000000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000000)
-- [Как выжить в срочном проекте: тушим пожар и не сгораем сами](https://habr.com/ru/companies/psb/articles/1002870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002870)
-- [Авиабилеты, Claude, антибот-системы и реверс-инжиниринг API: как личная проблема превратилась в SaaS за 3 недели](https://habr.com/ru/articles/1002856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002856)
 <!-- BLOG-POST-LIST:END -->
 
 ---
