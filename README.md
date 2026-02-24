@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Приведение типа в C++](https://habr.com/ru/articles/1003004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003004)
+- [Как организовать тестовую среду, сохраняя покой владельца данных](https://habr.com/ru/companies/neoflex/articles/1003000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003000)
+- [[Перевод] Read-only-права в Kubernetes, позволяющие выполнить любой код: разбор критической уязвимости в популярных Helm-чартах](https://habr.com/ru/companies/flant/articles/1001778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001778)
 - [ИИ в Agile-команде. Цифровой помощник, железный дровосек или коллега?](https://habr.com/ru/companies/inferit/articles/1002972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002972)
 - [Продуктовая колористика: рабочий инструментарий](https://habr.com/ru/articles/1002964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002964)
-- [Что не учитывают паттерны и почему мы не получаем то, что ожидаем?](https://habr.com/ru/companies/alfa/articles/972714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=972714)
-- [Погружение в eBPF и XDP вместе с Go](https://habr.com/ru/companies/oleg-bunin/articles/991074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991074)
-- [Пишем плагин для semantic-release](https://habr.com/ru/companies/banki/articles/980600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980600)
 <!-- BLOG-POST-LIST:END -->
 
 ---
