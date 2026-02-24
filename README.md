@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Spring AI для BPM-ориентированных команд](https://habr.com/ru/companies/haulmont/articles/1002584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002584)
-- [Переверни его. Переверни наоборот](https://habr.com/ru/articles/1002854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002854)
-- [Хаос-инжиниринг Strimzi Kafka: проверка устойчивости к сбоям через Chaos Mesh](https://habr.com/ru/articles/1002846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002846)
-- [Шифрование метаданных в мессенджере: HMAC-SHA256 анонимные пары, timing obfuscation и отравление собственных логов](https://habr.com/ru/articles/1002812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002812)
-- [Notte CLI: автоматизация браузера и развёртывание функций прямо из терминала](https://habr.com/ru/articles/1002800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002800)
+- [Enovia умерла, да здравствует JMatrixPlatform: пересобираю легендарную платформу на Java и Vue](https://habr.com/ru/articles/1000970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000970)
+- [Параллельный поиск в PostgreSQL: Погружение в архитектуру и производительность pg-smart-search SDK](https://habr.com/ru/articles/1002834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002834)
+- [Технологии в основе VK Видео: от загрузки файла до кадра на экране зрителя](https://habr.com/ru/companies/vk/articles/1000000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000000)
+- [Как выжить в срочном проекте: тушим пожар и не сгораем сами](https://habr.com/ru/companies/psb/articles/1002870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002870)
+- [Авиабилеты, Claude, антибот-системы и реверс-инжиниринг API: как личная проблема превратилась в SaaS за 3 недели](https://habr.com/ru/articles/1002856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002856)
 <!-- BLOG-POST-LIST:END -->
 
 ---
