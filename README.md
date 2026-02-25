@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Интервью с автором первой русскоязычной книги о современном техническом писательстве](https://habr.com/ru/companies/gram_ax/articles/1003374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003374)
-- [Как мы оптимизировали компоненты во фронтенде: работа с импортами и package.json](https://habr.com/ru/companies/kryptonite/articles/1002916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002916)
-- [Потрошим расширения VS Code: как XSS превращается в кражу ваших SSH-ключей](https://habr.com/ru/articles/1003368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003368)
-- [Линейные модели в машинном обучении: подборка бесплатных ресурсов](https://habr.com/ru/companies/yandex_praktikum/articles/1001402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001402)
-- [Предоставьте мне разрешение к…](https://habr.com/ru/companies/beget/articles/1001096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001096)
+- [Frontend Status: свежий дайджест фронтенда и AI — 25.02.2026](https://habr.com/ru/articles/1003410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003410)
+- [Как я в одиночку написал полноценное финансовое Android-приложение на Jetpack Compose](https://habr.com/ru/articles/1003400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003400)
+- [Согласованность API по принципу единого источника истины](https://habr.com/ru/articles/1003398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003398)
+- [SoC Design Challenge 2026: собираем подводные камни 2025 года и анонсируем новый трек хакатона](https://habr.com/ru/companies/yadro/articles/1003394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003394)
+- [Мошенники позвонили моему ИИ-деду. Он продержал их 31 минуту и записал всё](https://habr.com/ru/companies/timeweb/articles/1001118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001118)
 <!-- BLOG-POST-LIST:END -->
 
 ---
