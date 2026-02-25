@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как подготовить приложение к эпохе ИИ](https://habr.com/ru/articles/996272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996272)
+- [Подключаем дешёвый USB-сканер отпечатков пальцев Chipsailing CS9711 в Linux](https://habr.com/ru/articles/1003468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003468)
+- [Покрытие регресса автотестами: практический опыт внедрения E2E](https://habr.com/ru/articles/1003428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003428)
+- [[Перевод] Как за сутки обойти миллиард веб-страниц](https://habr.com/ru/articles/1003120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003120)
 - [S3 Архипелаг: как мы в Диасофте построили свое объектное хранилище](https://habr.com/ru/companies/diasoft_company/articles/1003442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003442)
-- [Не доверяй и проверяй: как PAM-системы работают в архитектуре Zero Trust](https://habr.com/ru/companies/solarsecurity/articles/1003424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003424)
-- [Как бы выглядел интернет, если бы Adobe не убила Flash](https://habr.com/ru/companies/ruvds/articles/1002822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002822)
-- [Оптимизация стоимости владения K8s-кластерами в AWS и YC](https://habr.com/ru/companies/oleg-bunin/articles/990720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990720)
-- [Frontend Status: свежий дайджест фронтенда и AI — 25.02.2026](https://habr.com/ru/articles/1003410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003410)
 <!-- BLOG-POST-LIST:END -->
 
 ---
