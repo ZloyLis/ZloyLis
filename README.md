@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [История о том, как государство сделало всех нас бета-тестерами](https://habr.com/ru/articles/1003672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003672)
 - [C++: экономим на спичках](https://habr.com/ru/articles/1003644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003644)
 - [Отражаем атаку на IOMMU](https://habr.com/ru/companies/kaspersky/articles/992032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992032)
 - [Восхитительный Range Syntax в CSS](https://habr.com/ru/articles/1002216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002216)
 - [IP Гайд: Как правильно читать IP-адреса в антифроде](https://habr.com/ru/articles/1001664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001664)
-- [[Перевод] Оптимизация Java-приложений для Arm64 в облаке](https://habr.com/ru/companies/spring_aio/articles/1003602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003602)
 <!-- BLOG-POST-LIST:END -->
 
 ---
