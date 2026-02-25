@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Я научил свою собаку играть в Vibe Code Games](https://habr.com/ru/articles/1003546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003546)
+- [Об одной задаче из физтеховского задачника по аналитической механике](https://habr.com/ru/articles/1003534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003534)
 - [Open Source-джентльмены 2026: Обзор самых ярких GitHub-проектов, определивших начало года](https://habr.com/ru/articles/1003526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003526)
 - [Изнанка абсолютной власти единственного тестировщика](https://habr.com/ru/companies/tochka/articles/989072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989072)
 - [Как я решил вкатиться в Android разработку через вайбкодинг. Часть 2. Ну или разработка мобильного приложения через ИИ](https://habr.com/ru/articles/1002446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002446)
-- [Мой взгляд на работу с техдолгом](https://habr.com/ru/companies/alfa/articles/1002882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002882)
-- [Как мы организовали работу с Persistent Volume в кластере](https://habr.com/ru/companies/tbank/articles/1003054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003054)
 <!-- BLOG-POST-LIST:END -->
 
 ---
