@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как подготовить приложение к эпохе ИИ](https://habr.com/ru/articles/996272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996272)
-- [Подключаем дешёвый USB-сканер отпечатков пальцев Chipsailing CS9711 в Linux](https://habr.com/ru/articles/1003468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003468)
-- [Покрытие регресса автотестами: практический опыт внедрения E2E](https://habr.com/ru/articles/1003428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003428)
-- [[Перевод] Как за сутки обойти миллиард веб-страниц](https://habr.com/ru/articles/1003120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003120)
-- [S3 Архипелаг: как мы в Диасофте построили свое объектное хранилище](https://habr.com/ru/companies/diasoft_company/articles/1003442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003442)
+- [Open Source-джентльмены 2026: Обзор самых ярких GitHub-проектов, определивших начало года](https://habr.com/ru/articles/1003526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003526)
+- [Изнанка абсолютной власти единственного тестировщика](https://habr.com/ru/companies/tochka/articles/989072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=989072)
+- [Как я решил вкатиться в Android разработку через вайбкодинг. Часть 2. Ну или разработка мобильного приложения через ИИ](https://habr.com/ru/articles/1002446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002446)
+- [Мой взгляд на работу с техдолгом](https://habr.com/ru/companies/alfa/articles/1002882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002882)
+- [Как мы организовали работу с Persistent Volume в кластере](https://habr.com/ru/companies/tbank/articles/1003054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003054)
 <!-- BLOG-POST-LIST:END -->
 
 ---
