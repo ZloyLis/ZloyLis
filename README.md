@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Survival analysis, или предсказание смерти пациента](https://habr.com/ru/articles/1003338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003338)
-- [CodeWiki Skill: как заставить AI-агента написать документацию к вашему коду](https://habr.com/ru/articles/1002424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002424)
-- [Множество Мандельброта. 32-бит TrueColor. 60 FPS. 80-бит long double. OpenMP. Суперсэмплинг 2x2 &lpar;4 прохода&rpar;. И цвета](https://habr.com/ru/articles/1001498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001498)
-- [Создание системы по управлению цифровыми активами для базы данных PostGIS. Часть 3. Семантические связи между таблицами](https://habr.com/ru/articles/1003252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003252)
-- [[Перевод] LWLock:LockManager, fastpath блокировки в PostgreSQL 18](https://habr.com/ru/articles/1003330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003330)
+- [Интервью с автором первой русскоязычной книги о современном техническом писательстве](https://habr.com/ru/companies/gram_ax/articles/1003374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003374)
+- [Как мы оптимизировали компоненты во фронтенде: работа с импортами и package.json](https://habr.com/ru/companies/kryptonite/articles/1002916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002916)
+- [Потрошим расширения VS Code: как XSS превращается в кражу ваших SSH-ключей](https://habr.com/ru/articles/1003368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003368)
+- [Линейные модели в машинном обучении: подборка бесплатных ресурсов](https://habr.com/ru/companies/yandex_praktikum/articles/1001402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001402)
+- [Предоставьте мне разрешение к…](https://habr.com/ru/companies/beget/articles/1001096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001096)
 <!-- BLOG-POST-LIST:END -->
 
 ---
