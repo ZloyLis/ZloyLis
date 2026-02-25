@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Почему мы в Профи.ру выбрали монорепозиторий, а не микрофронтенды](https://habr.com/ru/companies/profi_ru/articles/1003566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003566)
-- [[Перевод] Инженерия данных: паттерны проектирования](https://habr.com/ru/companies/bhv_publishing/articles/1003452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003452)
-- [[Перевод] Я научил свою собаку играть в Vibe Code Games](https://habr.com/ru/articles/1003546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003546)
-- [Об одной задаче из физтеховского задачника по аналитической механике](https://habr.com/ru/articles/1003534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003534)
-- [Open Source-джентльмены 2026: Обзор самых ярких GitHub-проектов, определивших начало года](https://habr.com/ru/articles/1003526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003526)
+- [C++: экономим на спичках](https://habr.com/ru/articles/1003644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003644)
+- [Отражаем атаку на IOMMU](https://habr.com/ru/companies/kaspersky/articles/992032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992032)
+- [Восхитительный Range Syntax в CSS](https://habr.com/ru/articles/1002216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002216)
+- [IP Гайд: Как правильно читать IP-адреса в антифроде](https://habr.com/ru/articles/1001664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001664)
+- [[Перевод] Оптимизация Java-приложений для Arm64 в облаке](https://habr.com/ru/companies/spring_aio/articles/1003602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003602)
 <!-- BLOG-POST-LIST:END -->
 
 ---
