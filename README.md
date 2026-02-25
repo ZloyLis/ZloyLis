@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [S3 Архипелаг: как мы в Диасофте построили свое объектное хранилище](https://habr.com/ru/companies/diasoft_company/articles/1003442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003442)
+- [Не доверяй и проверяй: как PAM-системы работают в архитектуре Zero Trust](https://habr.com/ru/companies/solarsecurity/articles/1003424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003424)
+- [Как бы выглядел интернет, если бы Adobe не убила Flash](https://habr.com/ru/companies/ruvds/articles/1002822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002822)
+- [Оптимизация стоимости владения K8s-кластерами в AWS и YC](https://habr.com/ru/companies/oleg-bunin/articles/990720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990720)
 - [Frontend Status: свежий дайджест фронтенда и AI — 25.02.2026](https://habr.com/ru/articles/1003410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003410)
-- [Как я в одиночку написал полноценное финансовое Android-приложение на Jetpack Compose](https://habr.com/ru/articles/1003400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003400)
-- [Согласованность API по принципу единого источника истины](https://habr.com/ru/articles/1003398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003398)
-- [SoC Design Challenge 2026: собираем подводные камни 2025 года и анонсируем новый трек хакатона](https://habr.com/ru/companies/yadro/articles/1003394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003394)
-- [Мошенники позвонили моему ИИ-деду. Он продержал их 31 минуту и записал всё](https://habr.com/ru/companies/timeweb/articles/1001118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001118)
 <!-- BLOG-POST-LIST:END -->
 
 ---
