@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создание системы по управлению цифровыми активами для базы данных PostGIS. Часть 3. Семантические связи между таблицами](https://habr.com/ru/articles/1003252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003252)
+- [[Перевод] LWLock:LockManager, fastpath блокировки в PostgreSQL 18](https://habr.com/ru/articles/1003330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003330)
 - [Три стакана на двоих: самая эффективная коммуникация](https://habr.com/ru/articles/1002764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002764)
 - [«Разблокируй телефон» — как я реализовал фейковый мессенджер для допроса](https://habr.com/ru/articles/1002826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002826)
 - [Проблема ретроспективного внедрения интернационализации &lpar;i18n&rpar;](https://habr.com/ru/articles/1003276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003276)
-- [Забыть про Backprop: Как я собрал «Термодинамический Мозг» с фазой сна и митозом, который влезет в Arduino](https://habr.com/ru/articles/1003270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003270)
-- [Фотонный проц на одной инструкции: как Akhetonics строит комп из чистого света. И почему это куда сложнее, чем кажется](https://habr.com/ru/articles/1003266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003266)
 <!-- BLOG-POST-LIST:END -->
 
 ---
