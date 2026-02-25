@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Survival analysis, или предсказание смерти пациента](https://habr.com/ru/articles/1003338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003338)
+- [CodeWiki Skill: как заставить AI-агента написать документацию к вашему коду](https://habr.com/ru/articles/1002424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002424)
+- [Множество Мандельброта. 32-бит TrueColor. 60 FPS. 80-бит long double. OpenMP. Суперсэмплинг 2x2 &lpar;4 прохода&rpar;. И цвета](https://habr.com/ru/articles/1001498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001498)
 - [Создание системы по управлению цифровыми активами для базы данных PostGIS. Часть 3. Семантические связи между таблицами](https://habr.com/ru/articles/1003252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003252)
 - [[Перевод] LWLock:LockManager, fastpath блокировки в PostgreSQL 18](https://habr.com/ru/articles/1003330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003330)
-- [Три стакана на двоих: самая эффективная коммуникация](https://habr.com/ru/articles/1002764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002764)
-- [«Разблокируй телефон» — как я реализовал фейковый мессенджер для допроса](https://habr.com/ru/articles/1002826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002826)
-- [Проблема ретроспективного внедрения интернационализации &lpar;i18n&rpar;](https://habr.com/ru/articles/1003276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003276)
 <!-- BLOG-POST-LIST:END -->
 
 ---
