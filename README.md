@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Как настроить swap в Linux, чтобы поды не убивались и не вытеснялись](https://habr.com/ru/companies/flant/articles/1001270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001270)
-- [От диплома до продакшена: Часть 2: Как я проектировал опыт пользователя](https://habr.com/ru/articles/1001908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001908)
-- [[Перевод] Выполнение HTTP-запросов в Node.js](https://habr.com/ru/articles/1003750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003750)
-- [Технарь пишет статью с AI: пайплайн, слои и чеклист](https://habr.com/ru/articles/1003722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003722)
-- [Декларация &lpar;не&rpar;зависимостей для ESM](https://habr.com/ru/articles/1003708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003708)
+- [Синхронный реактивный двигатель — спящий гигант электропривода: моделирование и оптимальное управление](https://habr.com/ru/articles/1003666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003666)
+- [История веб-сокетов: от идеи к стандарту &lpar;и при чем здесь игрушечная железная дорога?&rpar;](https://habr.com/ru/articles/1003840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003840)
+- [JavaScript: заметка о свойствах source ToggleEvent и closedBy HTMLDialogElement](https://habr.com/ru/companies/timeweb/articles/984310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984310)
+- [От макетов до кода: как AI-прототипы упростили жизнь разработчикам и тестировщикам](https://habr.com/ru/companies/selectel/articles/1003506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003506)
+- [Как слить токен авторизации через виджет iOS — и как этого не допустить](https://habr.com/ru/articles/1002244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002244)
 <!-- BLOG-POST-LIST:END -->
 
 ---
