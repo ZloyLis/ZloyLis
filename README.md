@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Зачем платить за курсы, если AI может стать вашим тренером? Реальный опыт экономии](https://habr.com/ru/companies/garage8/articles/1004158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004158)
-- [Что нового в OpenIDE 2025.3: Java 25, Spring MCP, Go, Docker и JavaScript/TypeScript](https://habr.com/ru/companies/haulmont/articles/1004128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004128)
-- [Documentation-Driven Development: как мы генерируем Go-код из OpenAPI-спецификаций](https://habr.com/ru/companies/ru_mts/articles/1003562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003562)
-- [Суверенный интернет стучится в наши двери](https://habr.com/ru/articles/1004134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004134)
-- [Интуитивная модель индуцированной гравитации: попытка визуализации](https://habr.com/ru/articles/1004098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004098)
+- [Системный аналитик в эпоху ChatGPT: эволюция или революция](https://habr.com/ru/companies/netologyru/articles/1003524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003524)
+- [[Перевод] На краю математики. Перевод интервью Теренса Тао изданию The Atlantic](https://habr.com/ru/companies/technokratos/articles/1004192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004192)
+- [Неевклидова геометрия. Основы](https://habr.com/ru/articles/1004184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004184)
+- [Сборка мусора в V8: Scavenger, Mark and Sweep и Tri-color Marking](https://habr.com/ru/articles/1003728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003728)
+- [Партиционирование PostgreSQL: опыт команды Геосервисов](https://habr.com/ru/companies/wildberries/articles/1000514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000514)
 <!-- BLOG-POST-LIST:END -->
 
 ---
