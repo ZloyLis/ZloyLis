@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как настроить swap в Linux, чтобы поды не убивались и не вытеснялись](https://habr.com/ru/companies/flant/articles/1001270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001270)
 - [От диплома до продакшена: Часть 2: Как я проектировал опыт пользователя](https://habr.com/ru/articles/1001908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001908)
 - [[Перевод] Выполнение HTTP-запросов в Node.js](https://habr.com/ru/articles/1003750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003750)
 - [Технарь пишет статью с AI: пайплайн, слои и чеклист](https://habr.com/ru/articles/1003722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003722)
 - [Декларация &lpar;не&rpar;зависимостей для ESM](https://habr.com/ru/articles/1003708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003708)
-- [Память в JavaScript: Stack и Heap](https://habr.com/ru/articles/1003702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003702)
 <!-- BLOG-POST-LIST:END -->
 
 ---
