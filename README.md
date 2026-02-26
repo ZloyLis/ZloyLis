@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Эволюция инструментария: как плагины Figma меняют профессию дизайнера интерфейсов](https://habr.com/ru/companies/severstal/articles/1003960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003960)
+- [Юридический техдолг: как он появляется и почему его не видят](https://habr.com/ru/articles/1004044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004044)
+- [400 000 вникуда: почему новички бросают профессию после дорогих курсов](https://habr.com/ru/articles/1004032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004032)
+- [Platformize It! Часть 2: Расширяем Kubernetes с помощью API Aggregation Layer](https://habr.com/ru/companies/aenix/articles/1004014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004014)
 - [FinOps на практике: фаза Inform и управление облачными затратами с помощью штатных инструментов](https://habr.com/ru/companies/finops_ru/articles/1003980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003980)
-- [Veai 5.5: поддержка SKILLs, режимы агента Plan и Review, авторевью и ограничение зоны редактирования](https://habr.com/ru/companies/veai/articles/1003958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003958)
-- [18 решений для фильтрации и сортировки товаров в интернет-магазине, которые упростят выбор и повысят конверсию](https://habr.com/ru/articles/1003946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003946)
-- [Организация производства Информационных систем. Часть 7. Внедрение &lpar;Развертывание&rpar;, ввод в эксплуатацию](https://habr.com/ru/articles/1003922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003922)
-- [Forza Tarantool: разработка на C для встроенного сервера приложений](https://habr.com/ru/companies/vk/articles/1003846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003846)
 <!-- BLOG-POST-LIST:END -->
 
 ---
