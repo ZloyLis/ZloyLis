@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Документ, которого не существует: боль тестовых заданий в геймдеве](https://habr.com/ru/articles/1004254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004254)
+- [Пространства имен: как не устроить войну имен в своем проекте](https://habr.com/ru/companies/otus/articles/1001562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001562)
 - [Линейная регрессия: от теории до production](https://habr.com/ru/articles/1004248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004248)
 - [5 ошибок accessibility в дизайне интерфейсов, которые ломают UX](https://habr.com/ru/articles/1004246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004246)
 - [Вайбкодинг – не для гуманитариев? Юрист сделал кривой поиск по PDF и просит помощи…](https://habr.com/ru/articles/1004232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004232)
-- [Системный аналитик в эпоху ChatGPT: эволюция или революция](https://habr.com/ru/companies/netologyru/articles/1003524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003524)
-- [[Перевод] На краю математики. Перевод интервью Теренса Тао изданию The Atlantic](https://habr.com/ru/companies/technokratos/articles/1004192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004192)
 <!-- BLOG-POST-LIST:END -->
 
 ---
