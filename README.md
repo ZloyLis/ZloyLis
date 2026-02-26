@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Вайбкодинг для ленивых: читаем видео на YouTube](https://habr.com/ru/articles/1004320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004320)
 - [Мелочи ИИ-шной жизни. Как GitHub Copilot Hook может помочь совершенствовать ваш английский параллельно с вайбкодингом](https://habr.com/ru/articles/1004276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004276)
 - [Как заставить мозг выполнять те действия, которые вам нужны, а не те, которые хочется](https://habr.com/ru/articles/1004272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004272)
 - [Как не поехать кукухой и всё успеть: выстраиваем рабочую систему из привычек](https://habr.com/ru/articles/1004270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004270)
 - [Документ, которого не существует: боль тестовых заданий в геймдеве](https://habr.com/ru/articles/1004254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004254)
-- [Пространства имен: как не устроить войну имен в своем проекте](https://habr.com/ru/companies/otus/articles/1001562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001562)
 <!-- BLOG-POST-LIST:END -->
 
 ---
