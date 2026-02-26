@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Эволюция инструментария: как плагины Figma меняют профессию дизайнера интерфейсов](https://habr.com/ru/companies/severstal/articles/1003960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003960)
-- [Юридический техдолг: как он появляется и почему его не видят](https://habr.com/ru/articles/1004044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004044)
-- [400 000 вникуда: почему новички бросают профессию после дорогих курсов](https://habr.com/ru/articles/1004032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004032)
-- [Platformize It! Часть 2: Расширяем Kubernetes с помощью API Aggregation Layer](https://habr.com/ru/companies/aenix/articles/1004014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004014)
-- [FinOps на практике: фаза Inform и управление облачными затратами с помощью штатных инструментов](https://habr.com/ru/companies/finops_ru/articles/1003980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003980)
+- [Зачем платить за курсы, если AI может стать вашим тренером? Реальный опыт экономии](https://habr.com/ru/companies/garage8/articles/1004158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004158)
+- [Что нового в OpenIDE 2025.3: Java 25, Spring MCP, Go, Docker и JavaScript/TypeScript](https://habr.com/ru/companies/haulmont/articles/1004128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004128)
+- [Documentation-Driven Development: как мы генерируем Go-код из OpenAPI-спецификаций](https://habr.com/ru/companies/ru_mts/articles/1003562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003562)
+- [Суверенный интернет стучится в наши двери](https://habr.com/ru/articles/1004134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004134)
+- [Интуитивная модель индуцированной гравитации: попытка визуализации](https://habr.com/ru/articles/1004098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004098)
 <!-- BLOG-POST-LIST:END -->
 
 ---
