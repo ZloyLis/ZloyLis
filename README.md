@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Теория струн подсказала ученым решение концептуальной проблемы в алгебраической геометрии](https://habr.com/ru/companies/first/articles/1003376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003376)
+- [От одного магазина к омни-сервису: как мы объединили 5 форматов в одном приложении](https://habr.com/ru/companies/lentatech/articles/1001036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001036)
+- [Edge AI: почти всё о видеокамерах с искусственным интеллектом. Часть 1](https://habr.com/ru/companies/oleg-bunin/articles/986058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986058)
+- [ИИ бот-модератор 2 — Формирование структуры](https://habr.com/ru/articles/1003886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003886)
 - [Синхронный реактивный двигатель — спящий гигант электропривода: моделирование и оптимальное управление](https://habr.com/ru/articles/1003666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003666)
-- [История веб-сокетов: от идеи к стандарту &lpar;и при чем здесь игрушечная железная дорога?&rpar;](https://habr.com/ru/articles/1003840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003840)
-- [JavaScript: заметка о свойствах source ToggleEvent и closedBy HTMLDialogElement](https://habr.com/ru/companies/timeweb/articles/984310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=984310)
-- [От макетов до кода: как AI-прототипы упростили жизнь разработчикам и тестировщикам](https://habr.com/ru/companies/selectel/articles/1003506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003506)
-- [Как слить токен авторизации через виджет iOS — и как этого не допустить](https://habr.com/ru/articles/1002244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002244)
 <!-- BLOG-POST-LIST:END -->
 
 ---
