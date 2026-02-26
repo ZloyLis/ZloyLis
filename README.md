@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Теория струн подсказала ученым решение концептуальной проблемы в алгебраической геометрии](https://habr.com/ru/companies/first/articles/1003376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003376)
-- [От одного магазина к омни-сервису: как мы объединили 5 форматов в одном приложении](https://habr.com/ru/companies/lentatech/articles/1001036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001036)
-- [Edge AI: почти всё о видеокамерах с искусственным интеллектом. Часть 1](https://habr.com/ru/companies/oleg-bunin/articles/986058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986058)
-- [ИИ бот-модератор 2 — Формирование структуры](https://habr.com/ru/articles/1003886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003886)
-- [Синхронный реактивный двигатель — спящий гигант электропривода: моделирование и оптимальное управление](https://habr.com/ru/articles/1003666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003666)
+- [FinOps на практике: фаза Inform и управление облачными затратами с помощью штатных инструментов](https://habr.com/ru/companies/finops_ru/articles/1003980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003980)
+- [Veai 5.5: поддержка SKILLs, режимы агента Plan и Review, авторевью и ограничение зоны редактирования](https://habr.com/ru/companies/veai/articles/1003958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003958)
+- [18 решений для фильтрации и сортировки товаров в интернет-магазине, которые упростят выбор и повысят конверсию](https://habr.com/ru/articles/1003946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003946)
+- [Организация производства Информационных систем. Часть 7. Внедрение &lpar;Развертывание&rpar;, ввод в эксплуатацию](https://habr.com/ru/articles/1003922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003922)
+- [Forza Tarantool: разработка на C для встроенного сервера приложений](https://habr.com/ru/companies/vk/articles/1003846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003846)
 <!-- BLOG-POST-LIST:END -->
 
 ---
