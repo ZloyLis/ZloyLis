@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Линейная регрессия: от теории до production](https://habr.com/ru/articles/1004248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004248)
+- [5 ошибок accessibility в дизайне интерфейсов, которые ломают UX](https://habr.com/ru/articles/1004246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004246)
+- [Вайбкодинг – не для гуманитариев? Юрист сделал кривой поиск по PDF и просит помощи…](https://habr.com/ru/articles/1004232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004232)
 - [Системный аналитик в эпоху ChatGPT: эволюция или революция](https://habr.com/ru/companies/netologyru/articles/1003524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003524)
 - [[Перевод] На краю математики. Перевод интервью Теренса Тао изданию The Atlantic](https://habr.com/ru/companies/technokratos/articles/1004192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004192)
-- [Неевклидова геометрия. Основы](https://habr.com/ru/articles/1004184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004184)
-- [Сборка мусора в V8: Scavenger, Mark and Sweep и Tri-color Marking](https://habr.com/ru/articles/1003728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003728)
-- [Партиционирование PostgreSQL: опыт команды Геосервисов](https://habr.com/ru/companies/wildberries/articles/1000514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000514)
 <!-- BLOG-POST-LIST:END -->
 
 ---
