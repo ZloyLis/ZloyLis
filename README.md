@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Подсказка вместо мышления: как автогенерация кода меняет junior и middle за один год](https://habr.com/ru/articles/1004344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004344)
+- [16 лет в деле: Разбор вступительных в Школу программистов hh.ru](https://habr.com/ru/companies/hh/articles/1004174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004174)
+- [Инклюзивность без галочки: как мы внедряли доступность в большой продукт и не развалили архитектуру](https://habr.com/ru/articles/1004332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004332)
 - [Вайбкодинг для ленивых: читаем видео на YouTube](https://habr.com/ru/articles/1004320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004320)
 - [Мелочи ИИ-шной жизни. Как GitHub Copilot Hook может помочь совершенствовать ваш английский параллельно с вайбкодингом](https://habr.com/ru/articles/1004276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004276)
-- [Как заставить мозг выполнять те действия, которые вам нужны, а не те, которые хочется](https://habr.com/ru/articles/1004272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004272)
-- [Как не поехать кукухой и всё успеть: выстраиваем рабочую систему из привычек](https://habr.com/ru/articles/1004270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004270)
-- [Документ, которого не существует: боль тестовых заданий в геймдеве](https://habr.com/ru/articles/1004254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004254)
 <!-- BLOG-POST-LIST:END -->
 
 ---
