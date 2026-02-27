@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Развлекаюсь, вжимая игру на WebAssembly в одно сообщение мессенджера](https://habr.com/ru/articles/1004054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004054)
-- [Virtual DOM: что я понял после сотен проведенных собеседований](https://habr.com/ru/articles/1004312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004312)
-- [PG_EXPECTO v.7 + DeepSeek: Статистический анализ инцидентов производительности СУБД PostgreSQL](https://habr.com/ru/articles/1004358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004358)
-- [Web Audio API, lamejs и 0 байт на бэкенде: пишу MP3-склейщик целиком в браузере](https://habr.com/ru/articles/1004356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004356)
-- [На одном собесе меня похвалили за то, что я не писал код. На другом — не зачли тестовое за то же самое](https://habr.com/ru/articles/1004280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004280)
+- [Нет времени на тесты — через неделю релиз](https://habr.com/ru/articles/1004396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004396)
+- [Как мы тестируем тесты в Отелло: эволюция работы с flaky-тестами](https://habr.com/ru/companies/2gis/articles/995782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995782)
+- [[Перевод] Этот уникальный японский веб-дизайн](https://habr.com/ru/companies/ruvds/articles/1003532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003532)
+- [Литания: создаем свой язык программирования с лексером, парсером и интерпретатором](https://habr.com/ru/companies/selectel/articles/1003948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003948)
+- [Запуск DOOM на Siglent SDS5000X](https://habr.com/ru/companies/bizone/articles/1004308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004308)
 <!-- BLOG-POST-LIST:END -->
 
 ---
