@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Интеграция утилиты Artistic Style в скрипт сборки прошивки](https://habr.com/ru/articles/1004610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004610)
+- [Как фронтенд получает данные с сервера: лучшие практики 2026](https://habr.com/ru/companies/otus/articles/994238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994238)
 - [Сессионные вычислители — залог успеха аналитики будущего](https://habr.com/ru/companies/postgrespro/articles/1003600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003600)
 - [Скриншоты не победить, но скрейпинг можно удорожить: 4 слоя защиты изображений на UGC-платформе](https://habr.com/ru/articles/1004580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004580)
 - [Как мы написали React Native библиотеку для Яндекс Карт за два дня с Claude](https://habr.com/ru/articles/1004576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004576)
-- [Календари для iOS: 12 лучших приложений для iPhone в 2026 году](https://habr.com/ru/companies/leadertask/articles/1004548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004548)
-- [Как стандарты W3C и блокчейн формируют цифровое доверие в России](https://habr.com/ru/companies/diasoft_company/articles/1004560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004560)
 <!-- BLOG-POST-LIST:END -->
 
 ---
