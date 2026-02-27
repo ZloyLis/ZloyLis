@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нужна ли программисту пассионарность](https://habr.com/ru/companies/sberbank/articles/1004502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004502)
 - [Контейнер под капотом, или Как четыре syscall&#39;а изменили подход к эксплуатации ПО](https://habr.com/ru/companies/vk/articles/1004422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004422)
 - [L4-балансировка и защита от DDoS-атак](https://habr.com/ru/companies/oleg-bunin/articles/996310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996310)
 - [Как мигрировать кусочек Яндекс Такси с PostgreSQL на YDB и перестать считать подключения к шардам](https://habr.com/ru/companies/yandex/articles/1001532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001532)
 - [С чего начать путь в мобильную разработку](https://habr.com/ru/companies/habr_career/articles/1004428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004428)
-- [Видеоуроки по созданию пользовательских проемов в nanoCAD BIM Строительство](https://habr.com/ru/companies/nanosoft/articles/1004426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004426)
 <!-- BLOG-POST-LIST:END -->
 
 ---
