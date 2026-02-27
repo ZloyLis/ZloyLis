@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Транслятор РПГ М-220. Рукописи не горят](https://habr.com/ru/articles/1004768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004768)
 - [Если бы я начинала свой путь в IT заново](https://habr.com/ru/articles/1004764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004764)
 - [Повторяем профиль Телеграмма, используя Metaballs ит](https://habr.com/ru/articles/1004752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004752)
 - [Как стать аналитиком с нуля &lpar;и не потратить на это много денег&rpar;](https://habr.com/ru/articles/1004742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004742)
 - [Аудитор: Человеко-Ориентированный Трекер Эволюции Библиотек](https://habr.com/ru/articles/1004286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004286)
-- [Джун, который знает всё, или почему Senior пишет простой код: как я пишу ВКР по грейдированию программистов](https://habr.com/ru/articles/1004696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004696)
 <!-- BLOG-POST-LIST:END -->
 
 ---
