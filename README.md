@@ -35,7 +35,7 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как стать аналитиком с нуля](https://habr.com/ru/articles/1004742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004742)
+- [Как стать аналитиком с нуля &lpar;и не потратить на это много денег&rpar;](https://habr.com/ru/articles/1004742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004742)
 - [Аудитор: Человеко-Ориентированный Трекер Эволюции Библиотек](https://habr.com/ru/articles/1004286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004286)
 - [Джун, который знает всё, или почему Senior пишет простой код: как я пишу ВКР по грейдированию программистов](https://habr.com/ru/articles/1004696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004696)
 - [Linux в Windows + VSC](https://habr.com/ru/articles/1004704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004704)
