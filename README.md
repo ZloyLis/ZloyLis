@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Джун, который знает всё, или почему Senior пишет простой код: как я пишу ВКР по грейдированию программистов](https://habr.com/ru/articles/1004696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004696)
+- [Linux в Windows + VSC](https://habr.com/ru/articles/1004704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004704)
+- [Как мы улучшили рекомендации для пользователей Авито с помощью трансформенной персонализации](https://habr.com/ru/companies/avito/articles/1004694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004694)
+- [Зачем аналитику математика](https://habr.com/ru/articles/1004692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004692)
 - [Интеграция утилиты Artistic Style в скрипт сборки прошивки](https://habr.com/ru/articles/1004610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004610)
-- [Как фронтенд получает данные с сервера: лучшие практики 2026](https://habr.com/ru/companies/otus/articles/994238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994238)
-- [Сессионные вычислители — залог успеха аналитики будущего](https://habr.com/ru/companies/postgrespro/articles/1003600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003600)
-- [Скриншоты не победить, но скрейпинг можно удорожить: 4 слоя защиты изображений на UGC-платформе](https://habr.com/ru/articles/1004580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004580)
-- [Как мы написали React Native библиотеку для Яндекс Карт за два дня с Claude](https://habr.com/ru/articles/1004576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004576)
 <!-- BLOG-POST-LIST:END -->
 
 ---
