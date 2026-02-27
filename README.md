@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [PG_EXPECTO v.7 + DeepSeek: Статистический анализ инцидентов производительности СУБД PostgreSQL](https://habr.com/ru/articles/1004358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004358)
+- [Web Audio API, lamejs и 0 байт на бэкенде: пишу MP3-склейщик целиком в браузере](https://habr.com/ru/articles/1004356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004356)
+- [На одном собесе меня похвалили за то, что я не писал код. На другом — не зачли тестовое за то же самое](https://habr.com/ru/articles/1004280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004280)
 - [Подсказка вместо мышления: как автогенерация кода меняет junior и middle за один год](https://habr.com/ru/articles/1004344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004344)
 - [16 лет в деле: Разбор вступительных в Школу программистов hh.ru](https://habr.com/ru/companies/hh/articles/1004174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004174)
-- [Инклюзивность без галочки: как мы внедряли доступность в большой продукт и не развалили архитектуру](https://habr.com/ru/articles/1004332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004332)
-- [Вайбкодинг для ленивых: читаем видео на YouTube](https://habr.com/ru/articles/1004320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004320)
-- [Мелочи ИИ-шной жизни. Как GitHub Copilot Hook может помочь совершенствовать ваш английский параллельно с вайбкодингом](https://habr.com/ru/articles/1004276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004276)
 <!-- BLOG-POST-LIST:END -->
 
 ---
