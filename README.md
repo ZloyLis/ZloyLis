@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Нет времени на тесты — через неделю релиз](https://habr.com/ru/articles/1004396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004396)
-- [Как мы тестируем тесты в Отелло: эволюция работы с flaky-тестами](https://habr.com/ru/companies/2gis/articles/995782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995782)
-- [[Перевод] Этот уникальный японский веб-дизайн](https://habr.com/ru/companies/ruvds/articles/1003532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003532)
-- [Литания: создаем свой язык программирования с лексером, парсером и интерпретатором](https://habr.com/ru/companies/selectel/articles/1003948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003948)
-- [Запуск DOOM на Siglent SDS5000X](https://habr.com/ru/companies/bizone/articles/1004308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004308)
+- [Как мигрировать кусочек Яндекс Такси с PostgreSQL на YDB &lpar;СУБД Яндекса&rpar; и перестать считать подключения к шардам](https://habr.com/ru/companies/ydb/articles/1001532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001532)
+- [С чего начать путь в мобильную разработку](https://habr.com/ru/companies/habr_career/articles/1004428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004428)
+- [Видеоуроки по созданию пользовательских проемов в nanoCAD BIM Строительство](https://habr.com/ru/companies/nanosoft/articles/1004426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004426)
+- [Platform API в Рег.облаке: унификация протокола доступа и архитектурная база для публичных и приватных облаков](https://habr.com/ru/companies/runity/articles/1004424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004424)
+- [Что в бургерной тебе моей? Российские vs западные AI-генераторы лендингов](https://habr.com/ru/articles/1004404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004404)
 <!-- BLOG-POST-LIST:END -->
 
 ---
