@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Вычислительная геометрия чипсины](https://habr.com/ru/articles/1004522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004522)
-- [Нужна ли программисту пассионарность](https://habr.com/ru/companies/sberbank/articles/1004502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004502)
-- [Контейнер под капотом, или Как четыре syscall&#39;а изменили подход к эксплуатации ПО](https://habr.com/ru/companies/vk/articles/1004422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004422)
-- [L4-балансировка и защита от DDoS-атак](https://habr.com/ru/companies/oleg-bunin/articles/996310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996310)
-- [Как мигрировать кусочек Яндекс Такси с PostgreSQL на YDB и перестать считать подключения к шардам](https://habr.com/ru/companies/yandex/articles/1001532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001532)
+- [Скриншоты не победить, но скрейпинг можно удорожить: 4 слоя защиты изображений на UGC-платформе](https://habr.com/ru/articles/1004580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004580)
+- [Как мы написали React Native библиотеку для Яндекс Карт за два дня с Claude](https://habr.com/ru/articles/1004576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004576)
+- [Календари для iOS: 12 лучших приложений для iPhone в 2026 году](https://habr.com/ru/companies/leadertask/articles/1004548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004548)
+- [Как стандарты W3C и блокчейн формируют цифровое доверие в России](https://habr.com/ru/companies/diasoft_company/articles/1004560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004560)
+- [Отказоустойчивый PostgreSQL для почты RuPost: Patroni + etcd + HAProxy за три ВМ](https://habr.com/ru/companies/cloud4y/articles/1004556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004556)
 <!-- BLOG-POST-LIST:END -->
 
 ---
