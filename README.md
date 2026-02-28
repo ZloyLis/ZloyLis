@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ох уж эти join-ы: 4 способа ускорить ваши запросы в 10 раз](https://habr.com/ru/articles/1004888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004888)
+- [Когда успешная миграция сломалась, а партиционирование превратилось в cross-cluster move](https://habr.com/ru/companies/wildberries/articles/1000530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000530)
+- [Разработка под eCommerce, пулинг объектов в .NET, менеджмент и open source — чтение на выходные от нашей DIY-платформы](https://habr.com/ru/companies/beeline_cloud/articles/1004776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004776)
+- [Java на диете: 45 МБ RAM и старт за 1.4 с. Смертный приговор классическим JVM?](https://habr.com/ru/articles/1004874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004874)
 - [Анатомия WebSocket: человечный разбор RFC 6455](https://habr.com/ru/articles/1004772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004772)
-- [Переезд с MySQL на PostgreSQL в Laravel: как мы перенесли гео сервис и не сошли с ума](https://habr.com/ru/articles/1004826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004826)
-- [No more physical toys](https://habr.com/ru/articles/1004824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004824)
-- [Скормил нейросети 40 статей ПИК с Хабра: RAG-бот на GigaChat для BIM без опыта в разработке](https://habr.com/ru/articles/1004802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004802)
-- [Python уже не торт? Как и почему меняются приоритеты разработчиков](https://habr.com/ru/companies/ru_mts/articles/1003638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003638)
 <!-- BLOG-POST-LIST:END -->
 
 ---
