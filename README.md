@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Скормил нейросети 40 статей ПИК с Хабра: RAG-бот на GigaChat для BIM без опыта в разработке](https://habr.com/ru/articles/1004802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004802)
+- [Python уже не торт? Как и почему меняются приоритеты разработчиков](https://habr.com/ru/companies/ru_mts/articles/1003638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003638)
+- [[Перевод] 14-летний подросток предложил оригами для создания прочных укрытий](https://habr.com/ru/articles/1004760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004760)
 - [JWT: как работает, зачем нужен и когда лучше не использовать](https://habr.com/ru/articles/1004790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004790)
 - [Транслятор РПГ М-220. Рукописи не горят](https://habr.com/ru/articles/1004768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004768)
-- [Если бы я начинала свой путь в IT заново](https://habr.com/ru/articles/1004764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004764)
-- [Повторяем профиль Телеграмма, используя Metaballs ит](https://habr.com/ru/articles/1004752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004752)
-- [Как стать аналитиком с нуля &lpar;и не потратить на это много денег&rpar;](https://habr.com/ru/articles/1004742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004742)
 <!-- BLOG-POST-LIST:END -->
 
 ---
