@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Переезд с MySQL на PostgreSQL в Laravel: как мы перенесли гео сервис и не сошли с ума](https://habr.com/ru/articles/1004826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004826)
+- [No more physical toys](https://habr.com/ru/articles/1004824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004824)
 - [Скормил нейросети 40 статей ПИК с Хабра: RAG-бот на GigaChat для BIM без опыта в разработке](https://habr.com/ru/articles/1004802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004802)
 - [Python уже не торт? Как и почему меняются приоритеты разработчиков](https://habr.com/ru/companies/ru_mts/articles/1003638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003638)
 - [[Перевод] 14-летний подросток предложил оригами для создания прочных укрытий](https://habr.com/ru/articles/1004760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004760)
-- [JWT: как работает, зачем нужен и когда лучше не использовать](https://habr.com/ru/articles/1004790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004790)
-- [Транслятор РПГ М-220. Рукописи не горят](https://habr.com/ru/articles/1004768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004768)
 <!-- BLOG-POST-LIST:END -->
 
 ---
