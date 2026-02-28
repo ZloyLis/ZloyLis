@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Пишем игру для Commodore-64 в 2020-е: ретроспектива](https://habr.com/ru/articles/1005040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005040)
 - [Инженер будущего не пишет код. Он строит обвязку для агентов](https://habr.com/ru/articles/1005032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005032)
 - [От нуля к единице: MCP и много другого на пути к его пониманию](https://habr.com/ru/articles/1005028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005028)
 - [Сайты от ИИ выглядят как сайты от ИИ — попробуем это исправить](https://habr.com/ru/articles/1004960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004960)
 - [Ultimate guide по веб-компонентам](https://habr.com/ru/articles/994666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994666)
-- [Тайна Samsung, которая стоила жизни тысячам смартфонов](https://habr.com/ru/companies/timeweb/articles/1004318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004318)
 <!-- BLOG-POST-LIST:END -->
 
 ---
