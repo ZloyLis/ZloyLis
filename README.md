@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Data Mesh, Data Fabric, Lakehouse: разбираем модные термины](https://habr.com/ru/articles/1005062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005062)
 - [Кастомная галерея на iOS: от лага на 60 000 фото до lazy-загрузки и Combine](https://habr.com/ru/articles/1005060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005060)
 - [[Перевод] Пишем игру для Commodore-64 в 2020-е: ретроспектива](https://habr.com/ru/articles/1005040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005040)
 - [Инженер будущего не пишет код. Он строит обвязку для агентов](https://habr.com/ru/articles/1005032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005032)
 - [От нуля к единице: MCP и много другого на пути к его пониманию](https://habr.com/ru/articles/1005028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005028)
-- [Сайты от ИИ выглядят как сайты от ИИ — попробуем это исправить](https://habr.com/ru/articles/1004960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004960)
 <!-- BLOG-POST-LIST:END -->
 
 ---
