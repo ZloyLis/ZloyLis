@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сделка с совестью на хакатоне или «Как победить с нерабочим кодом?» История одной команды…](https://habr.com/ru/articles/1004940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004940)
 - [Автоматизированный анализ графита по ISO 945: архитектура и инженерная реализация модуля](https://habr.com/ru/articles/1004932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004932)
 - [Полный деплой Strapi CMS + Nuxt.js на Ubuntu](https://habr.com/ru/articles/1004920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004920)
 - [Как я 3 года делал мобильное приложение](https://habr.com/ru/articles/1004912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004912)
 - [ТОП-10+1 “Золотых правил оптимизаций Java 21+: как заставить JIT петь, а GraalVM — летать”](https://habr.com/ru/articles/1004906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004906)
-- [Ох уж эти join-ы: 4 способа ускорить ваши запросы в 10 раз](https://habr.com/ru/articles/1004888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004888)
 <!-- BLOG-POST-LIST:END -->
 
 ---
