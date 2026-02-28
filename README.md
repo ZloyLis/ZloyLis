@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сайты от ИИ выглядят как сайты от ИИ — попробуем это исправить](https://habr.com/ru/articles/1004960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004960)
+- [Ultimate guide по веб-компонентам](https://habr.com/ru/articles/994666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994666)
 - [Тайна Samsung, которая стоила жизни тысячам смартфонов](https://habr.com/ru/companies/timeweb/articles/1004318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004318)
 - [Сделка с совестью на хакатоне или «Как победить с нерабочим кодом?» История одной команды…](https://habr.com/ru/articles/1004940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004940)
 - [Автоматизированный анализ графита по ISO 945: архитектура и инженерная реализация модуля](https://habr.com/ru/articles/1004932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004932)
-- [Полный деплой Strapi CMS + Nuxt.js на Ubuntu](https://habr.com/ru/articles/1004920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004920)
-- [Как я 3 года делал мобильное приложение](https://habr.com/ru/articles/1004912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004912)
 <!-- BLOG-POST-LIST:END -->
 
 ---
