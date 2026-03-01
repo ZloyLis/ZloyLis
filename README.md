@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Когда нужен BFF и стоит ли смешивать его с API gateway](https://habr.com/ru/articles/1005128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005128)
-- [Почему функции rand и lrand48 из glibc годятся только для Тетриса: о случайных числах всерьёз](https://habr.com/ru/articles/1005118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005118)
-- [[Перевод] Как заставить старенькую Kindle показывать время прибытия автобусов](https://habr.com/ru/companies/ruvds/articles/1004360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004360)
-- [Pandas на Python: От чтения CSV до сложной аналитики за 1 статью](https://habr.com/ru/articles/1005114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005114)
-- [Webhook в Telegram и Discord: как подключить и чем лучше polling](https://habr.com/ru/companies/amvera/articles/1005112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005112)
+- [OpenClaw 211K звёзд GitHub — накрутка или органика? Forensic-анализ на данных](https://habr.com/ru/articles/1005152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005152)
+- [LTS, обновления и поддержка &lpar;support&rpar;: где в Java путают термины и кто за это платит](https://habr.com/ru/companies/axiomjdk/articles/1005126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005126)
+- [Фильтр Нижних Частот на Триггерах Шмитта](https://habr.com/ru/articles/1003262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003262)
+- [Интересный хак для упрощения сложных SELECT в Postgres](https://habr.com/ru/articles/1005138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005138)
+- [ИИ идеально подходит для создания инструментов и небольших сайтов](https://habr.com/ru/articles/1005140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005140)
 <!-- BLOG-POST-LIST:END -->
 
 ---
