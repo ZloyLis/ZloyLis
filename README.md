@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ловушки времени](https://habr.com/ru/articles/987232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987232)
+- [Как математика изменила оригами, а оригами изменило нашу жизнь](https://habr.com/ru/articles/1005218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005218)
+- [Все не любят мониторинг. Настраиваю для CDC-пайплайна: Victoria Metrics, Grafana и алерты в Telegram](https://habr.com/ru/articles/1005210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005210)
 - [15 млн. и 10 мес. экономии с помощью Вайбкодинга. Как я создал свой продукт с нуля до релиза. Полный гайд](https://habr.com/ru/articles/1005204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005204)
 - [Telegram Bot API 9.5: Пользовательские теги и форматирование времени](https://habr.com/ru/articles/1005194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005194)
-- [Что такое функция и функциональные требования? &lpar;по ГОСТ&rpar;](https://habr.com/ru/articles/1005192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005192)
-- [[Перевод] Когда использовать параллельный стрим в Java](https://habr.com/ru/companies/spring_aio/articles/1005180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005180)
-- [Мобильная разработка за неделю #621 &lpar;23 февраля — 1 марта&rpar;](https://habr.com/ru/articles/1005164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005164)
 <!-- BLOG-POST-LIST:END -->
 
 ---
