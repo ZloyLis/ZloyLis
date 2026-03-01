@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Codex с телефона, пока ты не за компьютером &lpar;даже с контролем git изменений&rpar;](https://habr.com/ru/articles/1005146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005146)
 - [Ловушки времени](https://habr.com/ru/articles/987232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987232)
 - [Как математика изменила оригами, а оригами изменило нашу жизнь](https://habr.com/ru/articles/1005218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005218)
 - [Все не любят мониторинг. Настраиваю для CDC-пайплайна: Victoria Metrics, Grafana и алерты в Telegram](https://habr.com/ru/articles/1005210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005210)
 - [15 млн. и 10 мес. экономии с помощью Вайбкодинга. Как я создал свой продукт с нуля до релиза. Полный гайд](https://habr.com/ru/articles/1005204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005204)
-- [Telegram Bot API 9.5: Пользовательские теги и форматирование времени](https://habr.com/ru/articles/1005194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005194)
 <!-- BLOG-POST-LIST:END -->
 
 ---
