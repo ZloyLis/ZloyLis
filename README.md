@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Telegram Bot API 9.3: Пользовательские теги и форматирование времени](https://habr.com/ru/articles/1005194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005194)
+- [15 млн. и 10 мес. экономии с помощью Вайбкодинга. Как я создал свой продукт с нуля до релиза. Полный гайд](https://habr.com/ru/articles/1005204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005204)
+- [Telegram Bot API 9.5: Пользовательские теги и форматирование времени](https://habr.com/ru/articles/1005194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005194)
 - [Что такое функция и функциональные требования? &lpar;по ГОСТ&rpar;](https://habr.com/ru/articles/1005192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005192)
 - [[Перевод] Когда использовать параллельный стрим в Java](https://habr.com/ru/companies/spring_aio/articles/1005180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005180)
 - [Мобильная разработка за неделю #621 &lpar;23 февраля — 1 марта&rpar;](https://habr.com/ru/articles/1005164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005164)
-- [OpenClaw 211K звёзд GitHub — накрутка или органика? Forensic-анализ на данных](https://habr.com/ru/articles/1005152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005152)
 <!-- BLOG-POST-LIST:END -->
 
 ---
