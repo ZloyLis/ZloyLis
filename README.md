@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я устал дебажить MAX API, отреверсил их вебхуки и отучил Cursor галлюцинировать](https://habr.com/ru/articles/1005282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005282)
 - [Почему ReAct-агенты ломаются в продакшене и чем их заменить](https://habr.com/ru/articles/1005280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005280)
 - [SQL для ритейла: пример 5 задач, которые я решала как аналитик ассортимента](https://habr.com/ru/articles/1005262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005262)
 - [Baseline: февраль 2026 или самый скучный выпуск](https://habr.com/ru/articles/994274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994274)
 - [Как дата саинтист имиджборду писал](https://habr.com/ru/articles/1005248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005248)
-- [Codex с телефона, пока ты не за компьютером &lpar;даже с контролем git изменений&rpar;](https://habr.com/ru/articles/1005146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005146)
 <!-- BLOG-POST-LIST:END -->
 
 ---
