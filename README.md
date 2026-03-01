@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Когда нужен BFF и стоит ли смешивать его с API gateway](https://habr.com/ru/articles/1005128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005128)
 - [Почему функции rand и lrand48 из glibc годятся только для Тетриса: о случайных числах всерьёз](https://habr.com/ru/articles/1005118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005118)
 - [[Перевод] Как заставить старенькую Kindle показывать время прибытия автобусов](https://habr.com/ru/companies/ruvds/articles/1004360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004360)
 - [Pandas на Python: От чтения CSV до сложной аналитики за 1 статью](https://habr.com/ru/articles/1005114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005114)
 - [Webhook в Telegram и Discord: как подключить и чем лучше polling](https://habr.com/ru/companies/amvera/articles/1005112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005112)
-- [Элитный вайбкодинг: вид с другой стороны](https://habr.com/ru/articles/1005086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005086)
 <!-- BLOG-POST-LIST:END -->
 
 ---
