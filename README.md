@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему функции rand и lrand48 из glibc годятся только для Тетриса: о случайных числах всерьёз](https://habr.com/ru/articles/1005118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005118)
+- [[Перевод] Как заставить старенькую Kindle показывать время прибытия автобусов](https://habr.com/ru/companies/ruvds/articles/1004360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004360)
+- [Pandas на Python: От чтения CSV до сложной аналитики за 1 статью](https://habr.com/ru/articles/1005114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005114)
+- [Webhook в Telegram и Discord: как подключить и чем лучше polling](https://habr.com/ru/companies/amvera/articles/1005112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005112)
 - [Элитный вайбкодинг: вид с другой стороны](https://habr.com/ru/articles/1005086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005086)
-- [[Перевод] Дыра в безопасности, которая обошлась Google в $1 млн. Что скрывает релиз Linux 7.0?](https://habr.com/ru/companies/bothub/articles/1005084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005084)
-- [Я сделал курс по JS, но он бесполезен](https://habr.com/ru/articles/1002540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002540)
-- [Дайджест технических новостей, переводов и лонгридов инфослужбы Хабра за февраль 2026 года](https://habr.com/ru/articles/993922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993922)
-- [Data Mesh, Data Fabric, Lakehouse: разбираем модные термины](https://habr.com/ru/articles/1005062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005062)
 <!-- BLOG-POST-LIST:END -->
 
 ---
