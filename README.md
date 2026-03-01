@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Элитный вайбкодинг: вид с другой стороны](https://habr.com/ru/articles/1005086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005086)
+- [[Перевод] Дыра в безопасности, которая обошлась Google в $1 млн. Что скрывает релиз Linux 7.0?](https://habr.com/ru/companies/bothub/articles/1005084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005084)
 - [Я сделал курс по JS, но он бесполезен](https://habr.com/ru/articles/1002540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002540)
 - [Дайджест технических новостей, переводов и лонгридов инфослужбы Хабра за февраль 2026 года](https://habr.com/ru/articles/993922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993922)
 - [Data Mesh, Data Fabric, Lakehouse: разбираем модные термины](https://habr.com/ru/articles/1005062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005062)
-- [Кастомная галерея на iOS: от лага на 60 000 фото до lazy-загрузки и Combine](https://habr.com/ru/articles/1005060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005060)
-- [[Перевод] Пишем игру для Commodore-64 в 2020-е: ретроспектива](https://habr.com/ru/articles/1005040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005040)
 <!-- BLOG-POST-LIST:END -->
 
 ---
