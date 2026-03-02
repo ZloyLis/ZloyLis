@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Минимальный продакшн-шаблон для Next.js приложения](https://habr.com/ru/articles/1005690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005690)
+- [Не Vibe-Coding, а инженерия с AI: как я за полгода сделал Android-приложение: социальный трекер привычек](https://habr.com/ru/articles/1005684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005684)
 - [Разработка архитектуры приложения с использованием слоёв, подслоёв и архитектурных блоков](https://habr.com/ru/articles/1005628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005628)
 - [От скалярной тоски к SIMD-эйфории: как подружить IDA Pro с инструкциями RISC-V P Extension](https://habr.com/ru/companies/kaspersky/articles/1005630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005630)
 - [Трамп запретил госструктурам работать с Claude, а Альтман тут же подписал контракт с Пентагоном](https://habr.com/ru/companies/haulmont/articles/1005546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005546)
-- [[Перевод] Нетипичные оптимизации в PostgreSQL, или Креативное ускорение запросов](https://habr.com/ru/companies/postgrespro/articles/1001194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001194)
-- [Scala Digest. Выпуск 38](https://habr.com/ru/companies/tbank/articles/1005586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005586)
 <!-- BLOG-POST-LIST:END -->
 
 ---
