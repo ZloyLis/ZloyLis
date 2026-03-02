@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Путь айтишника: как преодолевать все изменения на рынке и оставаться востребованным](https://habr.com/ru/companies/yandex_praktikum/articles/1001610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001610)
 - [SQL: Разбор задачи «Анализ покупательской корзины» на примере ритейла](https://habr.com/ru/articles/1005284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005284)
 - [Как и зачем мы следим за качеством руды от забоя до сепаратора](https://habr.com/ru/companies/evraz/articles/1004138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004138)
 - [SearXNG + Claude Code: бесплатный веб-поиск вместо $10 за 1000 запросов](https://habr.com/ru/articles/1005310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005310)
 - [Когнитивный инжиниринг: почему ваш код — это слепок вашей психики &lpar;Каскад 1&rpar;](https://habr.com/ru/companies/bft/articles/1005308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005308)
-- [AI Red Teaming: спор с Grok — Часть 3. Атаки на модель: jailbreaks, thinking tokens и системный промпт](https://habr.com/ru/articles/1005304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005304)
 <!-- BLOG-POST-LIST:END -->
 
 ---
