@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Записки оптимизатора 1С &lpar;ч.15&rpar;. Параллелизм запросов 1С в PostgreSQL](https://habr.com/ru/companies/softpoint/articles/1005446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005446)
+- [10 Chrome-расширений для QA. Часть 3: данные, UI и безопасность](https://habr.com/ru/articles/980216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980216)
+- [Полгода на включение: как мы построили онбординг в команде не по инструкции. Часть 3: Self-Assessment, 1:1 и честная ОС](https://habr.com/ru/companies/oleg-bunin/articles/987314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987314)
 - [Изучаем FastAPI за одну статью: от «Hello World» до структурированного API](https://habr.com/ru/articles/1005390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005390)
 - [Как я добавил функциональность в приложение Telegram с помощью ИИ](https://habr.com/ru/companies/alfa/articles/1001558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001558)
-- [Нет соединения — не значит нет UX. Как не потерять доверие пользователя вместе с интернетом](https://habr.com/ru/articles/1002388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002388)
-- [Почему IT-отрасль — феномен XXI века?](https://habr.com/ru/articles/1005362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005362)
-- [Что будет с джунами в эпоху ИИ-кодинга?](https://habr.com/ru/articles/1005360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005360)
 <!-- BLOG-POST-LIST:END -->
 
 ---
