@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Изучаем FastAPI за одну статью: от «Hello World» до структурированного API](https://habr.com/ru/articles/1005390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005390)
+- [Как я добавил функциональность в приложение Telegram с помощью ИИ](https://habr.com/ru/companies/alfa/articles/1001558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001558)
 - [Нет соединения — не значит нет UX. Как не потерять доверие пользователя вместе с интернетом](https://habr.com/ru/articles/1002388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002388)
 - [Почему IT-отрасль — феномен XXI века?](https://habr.com/ru/articles/1005362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005362)
 - [Что будет с джунами в эпоху ИИ-кодинга?](https://habr.com/ru/articles/1005360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005360)
-- [Почему macro_rules! может не остановиться и что с этим делает Rust](https://habr.com/ru/companies/beget/articles/996886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996886)
-- [Инженер данных с нуля — опыт ненулевого эксперта](https://habr.com/ru/articles/1004468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004468)
 <!-- BLOG-POST-LIST:END -->
 
 ---
