@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Дыра безопасности в Ze-Post: как подменить личность любого пользователя в мессенджере MAX](https://habr.com/ru/articles/1005618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005618)
-- [Event-Driven подход в пет-проекте: автоматизация Telegram-канала на NiFi, Kafka и n8n](https://habr.com/ru/articles/1005602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005602)
-- [Эволюция архитектуры ERP-систем: от микросервисов к полностью управляемым адаптивным системам](https://habr.com/ru/articles/1005510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005510)
-- [Лутбоксы: что скрывается за борьбой с ними](https://habr.com/ru/articles/1005584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005584)
-- [Как сделать релизы скучными: production baseline на Kubernetes и GitLab CI/CD](https://habr.com/ru/articles/1004956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004956)
+- [Разработка архитектуры приложения с использованием слоёв, подслоёв и архитектурных блоков](https://habr.com/ru/articles/1005628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005628)
+- [От скалярной тоски к SIMD-эйфории: как подружить IDA Pro с инструкциями RISC-V P Extension](https://habr.com/ru/companies/kaspersky/articles/1005630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005630)
+- [Трамп запретил госструктурам работать с Claude, а Альтман тут же подписал контракт с Пентагоном](https://habr.com/ru/companies/haulmont/articles/1005546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005546)
+- [[Перевод] Нетипичные оптимизации в PostgreSQL, или Креативное ускорение запросов](https://habr.com/ru/companies/postgrespro/articles/1001194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001194)
+- [Scala Digest. Выпуск 38](https://habr.com/ru/companies/tbank/articles/1005586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005586)
 <!-- BLOG-POST-LIST:END -->
 
 ---
