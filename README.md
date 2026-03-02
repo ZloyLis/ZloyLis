@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Проблема не в промпте: как Claude Code плывет на длинных задачах и как управлять контекстом](https://habr.com/ru/articles/1004994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004994)
-- [Нейросеть на пассажирском сиденье: Скрещиваем Android Automotive и Machine Learning](https://habr.com/ru/articles/1005332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005332)
-- [Оптимизация Lineage 2 GeoData драйвера](https://habr.com/ru/articles/1000082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000082)
-- [Путь айтишника: как преодолевать все изменения на рынке и оставаться востребованным](https://habr.com/ru/companies/yandex_praktikum/articles/1001610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001610)
-- [SQL: Разбор задачи «Анализ покупательской корзины» на примере ритейла](https://habr.com/ru/articles/1005284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005284)
+- [Нет соединения — не значит нет UX. Как не потерять доверие пользователя вместе с интернетом](https://habr.com/ru/articles/1002388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002388)
+- [Почему IT-отрасль — феномен XXI века?](https://habr.com/ru/articles/1005362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005362)
+- [Что будет с джунами в эпоху ИИ-кодинга?](https://habr.com/ru/articles/1005360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005360)
+- [Почему macro_rules! может не остановиться и что с этим делает Rust](https://habr.com/ru/companies/beget/articles/996886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996886)
+- [Инженер данных с нуля — опыт ненулевого эксперта](https://habr.com/ru/articles/1004468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004468)
 <!-- BLOG-POST-LIST:END -->
 
 ---
