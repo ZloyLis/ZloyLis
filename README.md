@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Мир снов, сгенерированный компьютером: виртуальная реальность для процессора 286](https://habr.com/ru/articles/1005536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005536)
-- [Flutter в феврале: релизы Flutter и Dart, Roadmap 2026, Toyota Fluorite и главное из экосистемы](https://habr.com/ru/articles/1005518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005518)
-- [60 бесплатных уроков марта: от React и Docker до архитектуры, DWH и ИИ](https://habr.com/ru/companies/otus/articles/996110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996110)
-- [Как меня опрокинул автоматический скоринг Сбера](https://habr.com/ru/articles/1005464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005464)
-- [react-ui-kit-forms: новая библиотека для работы на React в стиле Angular](https://habr.com/ru/companies/cloud_x/articles/1005500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005500)
+- [Дыра безопасности в Ze-Post: как подменить личность любого пользователя в мессенджере MAX](https://habr.com/ru/articles/1005618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005618)
+- [Event-Driven подход в пет-проекте: автоматизация Telegram-канала на NiFi, Kafka и n8n](https://habr.com/ru/articles/1005602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005602)
+- [Эволюция архитектуры ERP-систем: от микросервисов к полностью управляемым адаптивным системам](https://habr.com/ru/articles/1005510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005510)
+- [Лутбоксы: что скрывается за борьбой с ними](https://habr.com/ru/articles/1005584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005584)
+- [Как сделать релизы скучными: production baseline на Kubernetes и GitLab CI/CD](https://habr.com/ru/articles/1004956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004956)
 <!-- BLOG-POST-LIST:END -->
 
 ---
