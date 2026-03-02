@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [SQL: Разбор задачи «Анализ покупательской корзины» на примере ритейла](https://habr.com/ru/articles/1005284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005284)
+- [Как и зачем мы следим за качеством руды от забоя до сепаратора](https://habr.com/ru/companies/evraz/articles/1004138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004138)
+- [SearXNG + Claude Code: бесплатный веб-поиск вместо $10 за 1000 запросов](https://habr.com/ru/articles/1005310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005310)
 - [Когнитивный инжиниринг: почему ваш код — это слепок вашей психики &lpar;Каскад 1&rpar;](https://habr.com/ru/companies/bft/articles/1005308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005308)
 - [AI Red Teaming: спор с Grok — Часть 3. Атаки на модель: jailbreaks, thinking tokens и системный промпт](https://habr.com/ru/articles/1005304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005304)
-- [AI Red Teaming: спор с Grok на месяц рекламы — 12 часов, 61 уязвимость, root в Kubernetes](https://habr.com/ru/articles/1005300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005300)
-- [Как разрабатывать моды на Minecraft с помощью Temporal API?](https://habr.com/ru/articles/1005292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005292)
-- [Как я устал дебажить MAX API, отреверсил их вебхуки и отучил Cursor галлюцинировать](https://habr.com/ru/articles/1005282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005282)
 <!-- BLOG-POST-LIST:END -->
 
 ---
