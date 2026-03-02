@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как меня опрокинул автоматический скоринг Сбера](https://habr.com/ru/articles/1005464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005464)
+- [react-ui-kit-forms: новая библиотека для работы на React в стиле Angular](https://habr.com/ru/companies/cloud_x/articles/1005500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005500)
+- [[Перевод] Третья эпоха разработки ПО с помощью ИИ](https://habr.com/ru/articles/1005494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005494)
+- [ChessTer – если бы терминатор играл в шахматы](https://habr.com/ru/companies/timeweb/articles/994132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994132)
 - [Между логином и 401: как устроена JWT-авторизация во Flutter](https://habr.com/ru/companies/friflex/articles/1005474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005474)
-- [Записки оптимизатора 1С &lpar;ч.15&rpar;. Параллелизм запросов 1С в PostgreSQL](https://habr.com/ru/companies/softpoint/articles/1005446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005446)
-- [10 Chrome-расширений для QA. Часть 3: данные, UI и безопасность](https://habr.com/ru/articles/980216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=980216)
-- [Полгода на включение: как мы построили онбординг в команде не по инструкции. Часть 3: Self-Assessment, 1:1 и честная ОС](https://habr.com/ru/companies/oleg-bunin/articles/987314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=987314)
-- [Изучаем FastAPI за одну статью: от «Hello World» до структурированного API](https://habr.com/ru/articles/1005390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005390)
 <!-- BLOG-POST-LIST:END -->
 
 ---
