@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Если вы умеете делать хороший code review, вы умеете работать с AI-агентами](https://habr.com/ru/articles/1005730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005730)
+- [Пусть ваш AI пишет тесты. Имба, о которой не знает ни один вайбкодер](https://habr.com/ru/articles/1005732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005732)
+- [MQTT: доставка при потере связи](https://habr.com/ru/articles/1005718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005718)
+- [Gemini 3.1 Pro vs Claude Opus 4.6 – сравнение февральских новинок](https://habr.com/ru/companies/bothub/articles/1005724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005724)
 - [Больше моделей, больше возможностей: зачем мы вводим подписки в Kodacode](https://habr.com/ru/companies/koda/articles/1005608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005608)
-- [Минимальный продакшн-шаблон для Next.js приложения](https://habr.com/ru/articles/1005690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005690)
-- [Не Vibe-Coding, а инженерия с AI: как я за полгода сделал Android-приложение: социальный трекер привычек](https://habr.com/ru/articles/1005684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005684)
-- [Разработка архитектуры приложения с использованием слоёв, подслоёв и архитектурных блоков](https://habr.com/ru/articles/1005628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005628)
-- [От скалярной тоски к SIMD-эйфории: как подружить IDA Pro с инструкциями RISC-V P Extension](https://habr.com/ru/companies/kaspersky/articles/1005630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005630)
 <!-- BLOG-POST-LIST:END -->
 
 ---
