@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Проблема не в промпте: как Claude Code плывет на длинных задачах и как управлять контекстом](https://habr.com/ru/articles/1004994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004994)
+- [Нейросеть на пассажирском сиденье: Скрещиваем Android Automotive и Machine Learning](https://habr.com/ru/articles/1005332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005332)
+- [Оптимизация Lineage 2 GeoData драйвера](https://habr.com/ru/articles/1000082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000082)
 - [Путь айтишника: как преодолевать все изменения на рынке и оставаться востребованным](https://habr.com/ru/companies/yandex_praktikum/articles/1001610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001610)
 - [SQL: Разбор задачи «Анализ покупательской корзины» на примере ритейла](https://habr.com/ru/articles/1005284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005284)
-- [Как и зачем мы следим за качеством руды от забоя до сепаратора](https://habr.com/ru/companies/evraz/articles/1004138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004138)
-- [SearXNG + Claude Code: бесплатный веб-поиск вместо $10 за 1000 запросов](https://habr.com/ru/articles/1005310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005310)
-- [Когнитивный инжиниринг: почему ваш код — это слепок вашей психики &lpar;Каскад 1&rpar;](https://habr.com/ru/companies/bft/articles/1005308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005308)
 <!-- BLOG-POST-LIST:END -->
 
 ---
