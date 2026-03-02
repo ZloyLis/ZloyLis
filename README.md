@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Мир снов, сгенерированный компьютером: виртуальная реальность для процессора 286](https://habr.com/ru/articles/1005536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005536)
+- [Flutter в феврале: релизы Flutter и Dart, Roadmap 2026, Toyota Fluorite и главное из экосистемы](https://habr.com/ru/articles/1005518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005518)
+- [60 бесплатных уроков марта: от React и Docker до архитектуры, DWH и ИИ](https://habr.com/ru/companies/otus/articles/996110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996110)
 - [Как меня опрокинул автоматический скоринг Сбера](https://habr.com/ru/articles/1005464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005464)
 - [react-ui-kit-forms: новая библиотека для работы на React в стиле Angular](https://habr.com/ru/companies/cloud_x/articles/1005500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005500)
-- [[Перевод] Третья эпоха разработки ПО с помощью ИИ](https://habr.com/ru/articles/1005494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005494)
-- [ChessTer – если бы терминатор играл в шахматы](https://habr.com/ru/companies/timeweb/articles/994132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994132)
-- [Между логином и 401: как устроена JWT-авторизация во Flutter](https://habr.com/ru/companies/friflex/articles/1005474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005474)
 <!-- BLOG-POST-LIST:END -->
 
 ---
