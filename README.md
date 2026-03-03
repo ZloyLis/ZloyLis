@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [BlackBerry — история короля корпоративного сегмента](https://habr.com/ru/companies/ispsystem/articles/1005788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005788)
 - [sudo исполняется 45. Вашему контейнеру — всё равно](https://habr.com/ru/articles/1005738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005738)
 - [[Перевод] Если вы умеете делать хороший code review, вы умеете работать с AI-агентами](https://habr.com/ru/articles/1005730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005730)
 - [Пусть ваш AI пишет тесты. Имба, о которой не знает ни один вайбкодер](https://habr.com/ru/articles/1005732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005732)
 - [MQTT: доставка при потере связи](https://habr.com/ru/articles/1005718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005718)
-- [Gemini 3.1 Pro vs Claude Opus 4.6 – сравнение февральских новинок](https://habr.com/ru/companies/bothub/articles/1005724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005724)
 <!-- BLOG-POST-LIST:END -->
 
 ---
