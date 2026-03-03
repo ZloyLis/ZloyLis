@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [SQL для аналитика в ритейле: разбор 4 задач с данными &lpar;от простого к сложному&rpar;](https://habr.com/ru/articles/1006210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006210)
+- [CJM для аналитика: что это, зачем нужно и как строить на данных &lpar;с примерами SQL скриптов&rpar;](https://habr.com/ru/articles/1006206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006206)
 - [Assassin’s Creed: Shadows — проливая свет. Художественный обзор и внутреннее устройство игры. Guest Post](https://habr.com/ru/articles/1006186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006186)
 - [Бойтесь буквы «M». Самый странный баг в моей жизни](https://habr.com/ru/articles/1006164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006164)
 - [От Vibe Coding к Agentic Engineering: что изменилось в ИИ-разработке за 1 год](https://habr.com/ru/articles/1006096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006096)
-- [Тест-кейсы из функциональных требований](https://habr.com/ru/articles/1005752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005752)
-- [Как ускорить тесты проекта в 6 раз: от 10 минут к 101 секунде](https://habr.com/ru/articles/1003592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003592)
 <!-- BLOG-POST-LIST:END -->
 
 ---
