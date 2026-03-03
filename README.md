@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что упало — не пропало? EXC_BAD_ACCESS vs. LLDB](https://habr.com/ru/companies/ivi/articles/1003668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003668)
 - [Decima-8: Нейроморфная архитектура, оперирующая уровнями энергии](https://habr.com/ru/articles/1005762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005762)
 - [Фидбэк-лайт: как тратить меньше времени и сил на обратную связь, сохраняя её эффективность](https://habr.com/ru/companies/avito/articles/1003814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003814)
 - [Как нарезать Android-монолит с помощью compile-time плагинов?](https://habr.com/ru/companies/alfa/articles/1002998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002998)
 - [Как я создала локального AI-ассистента для системного аналитика: от Telegram-бота до полноценного помощника &lpar;часть 1&rpar;](https://habr.com/ru/articles/1005874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005874)
-- [Почему AI не может полноценно участвовать в разработке на С++](https://habr.com/ru/companies/yadro/articles/1003670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003670)
 <!-- BLOG-POST-LIST:END -->
 
 ---
