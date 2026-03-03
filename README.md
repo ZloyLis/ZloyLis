@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Почему я выкинул Nginx Proxy Manager и написал 5 скриптов: Nginx на стероидах](https://habr.com/ru/articles/1005816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005816)
-- [Чистая архитектура — красивая сказка для собеседований](https://habr.com/ru/articles/1005814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005814)
-- [Мегаминкс – кубик Рубика на максималках, где человек всё ещё быстрее машины. Робот МФТИ в погоне за рекордом](https://habr.com/ru/articles/1004990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004990)
-- [ИИ уже читает ваш сайт, но по каким правилам? LLMs.txt, robots.txt и контроль агентов](https://habr.com/ru/articles/1004924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004924)
-- [Структура-ориентированная кодовая база для агента](https://habr.com/ru/articles/1005800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005800)
+- [Можно ли собрать BI-дашборды за 4 часа, если ты не аналитик? Эксперимент с MCP, PostgreSQL и Modus BI](https://habr.com/ru/companies/modusbi/articles/1005652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005652)
+- [Как мы изобрели PHP, но в 10 раз медленнее: почему React Server Components – это архитектурный тупик](https://habr.com/ru/articles/1005838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005838)
+- [Изучаем HTML за одну статью: без воды, таблиц и боли](https://habr.com/ru/articles/1005834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005834)
+- [Асинхронная архитектура на CQRS: гайд по внедрению в 2026 году](https://habr.com/ru/companies/otus/articles/994156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994156)
+- [Реализация SOD-контролей в бизнес-процессах и ERP-системах](https://habr.com/ru/articles/1005830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005830)
 <!-- BLOG-POST-LIST:END -->
 
 ---
