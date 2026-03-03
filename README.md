@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Decima-8: Нейроморфная архитектура, оперирующая уровнями энергии](https://habr.com/ru/articles/1005762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005762)
+- [Фидбэк-лайт: как тратить меньше времени и сил на обратную связь, сохраняя её эффективность](https://habr.com/ru/companies/avito/articles/1003814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003814)
+- [Как нарезать Android-монолит с помощью compile-time плагинов?](https://habr.com/ru/companies/alfa/articles/1002998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002998)
+- [Как я создала локального AI-ассистента для системного аналитика: от Telegram-бота до полноценного помощника &lpar;часть 1&rpar;](https://habr.com/ru/articles/1005874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005874)
 - [Почему AI не может полноценно участвовать в разработке на С++](https://habr.com/ru/companies/yadro/articles/1003670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003670)
-- [B2B-Discovery: как провести 50+ интервью с крупным бизнесом за 3 месяца и не сойти с ума](https://habr.com/ru/companies/lansoft_career/articles/1005422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005422)
-- [Автоматизация публикаций в Telegram: бот для интерактивных постов и автоматического управления доступом к чатам](https://habr.com/ru/articles/1005704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005704)
-- [Telegram-бот для дисциплины: от монолита к модульности, реферальной системе и тотемным животным](https://habr.com/ru/articles/1005754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005754)
-- [Coreness Flow: локальный AI-агент без облака и без лишнего кода](https://habr.com/ru/articles/1005176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005176)
 <!-- BLOG-POST-LIST:END -->
 
 ---
