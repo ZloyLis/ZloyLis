@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Структура-ориентированная кодовая база для агента](https://habr.com/ru/articles/1005800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005800)
+- [Security Week 2610: новые атаки на разработчиков ПО](https://habr.com/ru/companies/kaspersky/articles/1005432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005432)
 - [BlackBerry — история короля корпоративного сегмента](https://habr.com/ru/companies/ispsystem/articles/1005788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005788)
 - [sudo исполняется 45. Вашему контейнеру — всё равно](https://habr.com/ru/articles/1005738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005738)
 - [[Перевод] Если вы умеете делать хороший code review, вы умеете работать с AI-агентами](https://habr.com/ru/articles/1005730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005730)
-- [Пусть ваш AI пишет тесты. Имба, о которой не знает ни один вайбкодер](https://habr.com/ru/articles/1005732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005732)
-- [MQTT: доставка при потере связи](https://habr.com/ru/articles/1005718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005718)
 <!-- BLOG-POST-LIST:END -->
 
 ---
