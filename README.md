@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Пишешь код, а звучит музыка. Как я сделал бесплатную лайвкодинг-платформу для создания музыки с ИИ-агентом](https://habr.com/ru/articles/1006070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006070)
-- [Хотел сделать предустановленные теги. Передумал. Вот почему &lpar;кейс из моего SaaS-проекта&rpar;](https://habr.com/ru/articles/1006056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006056)
-- [Между молотом и наковальней: как выживает IT-специалист в эпоху «регулируемого» интернета](https://habr.com/ru/articles/1006048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006048)
-- [Data Mesh vs централизованная модель: выбираем оптимальный подход к управлению данными](https://habr.com/ru/companies/vk/articles/1005846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005846)
-- [Все паттерны в автоматизации тестирования](https://habr.com/ru/articles/1004628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004628)
+- [Как ускорить тесты проекта в 6 раз: от 10 минут к 101 секунде](https://habr.com/ru/articles/1003592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003592)
+- [Паттерны проектирования](https://habr.com/ru/articles/1006094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006094)
+- [Скам для айтишников. Вредоносные репозитории в процессе найма](https://habr.com/ru/companies/gnivc/articles/1005784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005784)
+- [Как обычному разработчику попасть в open source и стоит ли это делать](https://habr.com/ru/companies/ru_mts/articles/1005558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005558)
+- [Бросил tmux и написал свой инструмент](https://habr.com/ru/articles/1005094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005094)
 <!-- BLOG-POST-LIST:END -->
 
 ---
