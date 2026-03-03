@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От Vibe Coding к Agentic Engineering: что изменилось в ИИ-разработке за 1 год](https://habr.com/ru/articles/1006096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006096)
 - [Тест-кейсы из функциональных требований](https://habr.com/ru/articles/1005752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005752)
 - [Как ускорить тесты проекта в 6 раз: от 10 минут к 101 секунде](https://habr.com/ru/articles/1003592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003592)
 - [Паттерны проектирования](https://habr.com/ru/articles/1006094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006094)
 - [Скам для айтишников. Вредоносные репозитории в процессе найма](https://habr.com/ru/companies/gnivc/articles/1005784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005784)
-- [Как обычному разработчику попасть в open source и стоит ли это делать](https://habr.com/ru/companies/ru_mts/articles/1005558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005558)
 <!-- BLOG-POST-LIST:END -->
 
 ---
