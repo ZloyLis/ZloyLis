@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему я выкинул Nginx Proxy Manager и написал 5 скриптов: Nginx на стероидах](https://habr.com/ru/articles/1005816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005816)
+- [Чистая архитектура — красивая сказка для собеседований](https://habr.com/ru/articles/1005814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005814)
+- [Мегаминкс – кубик Рубика на максималках, где человек всё ещё быстрее машины. Робот МФТИ в погоне за рекордом](https://habr.com/ru/articles/1004990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004990)
+- [ИИ уже читает ваш сайт, но по каким правилам? LLMs.txt, robots.txt и контроль агентов](https://habr.com/ru/articles/1004924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004924)
 - [Структура-ориентированная кодовая база для агента](https://habr.com/ru/articles/1005800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005800)
-- [Security Week 2610: новые атаки на разработчиков ПО](https://habr.com/ru/companies/kaspersky/articles/1005432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005432)
-- [BlackBerry — история короля корпоративного сегмента](https://habr.com/ru/companies/ispsystem/articles/1005788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005788)
-- [sudo исполняется 45. Вашему контейнеру — всё равно](https://habr.com/ru/articles/1005738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005738)
-- [[Перевод] Если вы умеете делать хороший code review, вы умеете работать с AI-агентами](https://habr.com/ru/articles/1005730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005730)
 <!-- BLOG-POST-LIST:END -->
 
 ---
