@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Что упало — не пропало? EXC_BAD_ACCESS vs. LLDB](https://habr.com/ru/companies/ivi/articles/1003668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003668)
-- [Decima-8: Нейроморфная архитектура, оперирующая уровнями энергии](https://habr.com/ru/articles/1005762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005762)
-- [Фидбэк-лайт: как тратить меньше времени и сил на обратную связь, сохраняя её эффективность](https://habr.com/ru/companies/avito/articles/1003814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003814)
-- [Как нарезать Android-монолит с помощью compile-time плагинов?](https://habr.com/ru/companies/alfa/articles/1002998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002998)
-- [Как я создала локального AI-ассистента для системного аналитика: от Telegram-бота до полноценного помощника &lpar;часть 1&rpar;](https://habr.com/ru/articles/1005874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005874)
+- [Data Mesh vs централизованная модель: выбираем оптимальный подход к управлению данными](https://habr.com/ru/companies/vktech/articles/1005846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005846)
+- [Все паттерны в автоматизации тестирования](https://habr.com/ru/articles/1004628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004628)
+- [[Перевод] Часы Лампорта](https://habr.com/ru/companies/spring_aio/articles/1005934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005934)
+- [Словарус.рф 2.0 — русская замена иностранных слов](https://habr.com/ru/articles/1006002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006002)
+- [ПОЧЕМУ В РОССИЙСКИХ КОЛЛЕДЖАХ ГОТОВЯТ IT-СПЕЦИАЛИСТОВ БЕЗ АНГЛИЙСКОГО](https://habr.com/ru/articles/1005998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005998)
 <!-- BLOG-POST-LIST:END -->
 
 ---
