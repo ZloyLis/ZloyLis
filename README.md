@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Mesh vs централизованная модель: выбираем оптимальный подход к управлению данными](https://habr.com/ru/companies/vktech/articles/1005846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005846)
+- [Пишешь код, а звучит музыка. Как я сделал бесплатную лайвкодинг-платформу для создания музыки с ИИ-агентом](https://habr.com/ru/articles/1006070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006070)
+- [Хотел сделать предустановленные теги. Передумал. Вот почему &lpar;кейс из моего SaaS-проекта&rpar;](https://habr.com/ru/articles/1006056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006056)
+- [Между молотом и наковальней: как выживает IT-специалист в эпоху «регулируемого» интернета](https://habr.com/ru/articles/1006048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006048)
+- [Data Mesh vs централизованная модель: выбираем оптимальный подход к управлению данными](https://habr.com/ru/companies/vk/articles/1005846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005846)
 - [Все паттерны в автоматизации тестирования](https://habr.com/ru/articles/1004628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004628)
-- [[Перевод] Часы Лампорта](https://habr.com/ru/companies/spring_aio/articles/1005934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005934)
-- [Словарус.рф 2.0 — русская замена иностранных слов](https://habr.com/ru/articles/1006002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006002)
-- [ПОЧЕМУ В РОССИЙСКИХ КОЛЛЕДЖАХ ГОТОВЯТ IT-СПЕЦИАЛИСТОВ БЕЗ АНГЛИЙСКОГО](https://habr.com/ru/articles/1005998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005998)
 <!-- BLOG-POST-LIST:END -->
 
 ---
