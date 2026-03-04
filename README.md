@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Выделение памяти в Go](https://habr.com/ru/companies/timeweb/articles/1000232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000232)
-- [Пишем первое приложение с AI-стартером, чтобы видеть прибыли и убытки](https://habr.com/ru/companies/bitrix/articles/1006012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006012)
-- [Как мы запускали курс «Нейронауки и нейроинтерфейсы» в Центральном университете для IT-специальностей](https://habr.com/ru/articles/1006284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006284)
-- [Стек наблюдаемости &lpar;observability&rpar; в MWS Container Platform](https://habr.com/ru/companies/ru_mts/articles/1005890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005890)
-- [Коллекции в Java: алгоритмическая сложность и как не тормозить код](https://habr.com/ru/companies/otus/articles/994152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994152)
+- [EXPLAIN ANALYZE: как находить узкие места в запросах PostgreSQL](https://habr.com/ru/companies/first/articles/1006278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006278)
+- [Векторный поиск в PostgreSQL: PGVector, SQLAlchemy и FastAPI](https://habr.com/ru/articles/1006364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006364)
+- [Как мы отслеживаем производительность веб-сервисов, или Дело «Скорости»](https://habr.com/ru/companies/sberdevices/articles/1006020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006020)
+- [Альтман и Амодеи снова в размолвке, Пентагон вербует ИИ-лаборатории: главные события февраля в ИИ](https://habr.com/ru/companies/magnus-tech/articles/1004972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004972)
+- [Edge AI: почти всё о видеокамерах с искусственным интеллектом. Часть 2](https://habr.com/ru/companies/oleg-bunin/articles/986066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986066)
 <!-- BLOG-POST-LIST:END -->
 
 ---
