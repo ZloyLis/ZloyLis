@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы запускали курс «Нейронауки и нейроинтерфейсы» в Центральном университете для IT-специальностей](https://habr.com/ru/articles/1006284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006284)
+- [Стек наблюдаемости &lpar;observability&rpar; в MWS Container Platform](https://habr.com/ru/companies/ru_mts/articles/1005890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005890)
+- [Коллекции в Java: алгоритмическая сложность и как не тормозить код](https://habr.com/ru/companies/otus/articles/994152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994152)
+- [Propensity Score Matching: как строить аналоги A/B-тестов, когда эксперименты невозможны](https://habr.com/ru/companies/yandex/articles/1004060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004060)
 - [Исполняемые спецификации — эффективная работа с кодинг-агентами](https://habr.com/ru/articles/1006140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006140)
-- [Импортозамещение на практике. Опыт перехода Сбера на новую геоплатформу](https://habr.com/ru/companies/sberbank/articles/1000312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000312)
-- [Tailwind CSS v4 против MUI, Ant Design и Styled Components: архитектурный разбор](https://habr.com/ru/articles/1006248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006248)
-- [SQL для аналитика в ритейле: разбор 4 задач с данными &lpar;от простого к сложному&rpar;](https://habr.com/ru/articles/1006210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006210)
-- [CJM для аналитика: что это, зачем нужно и как строить на данных &lpar;с примерами SQL скриптов&rpar;](https://habr.com/ru/articles/1006206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006206)
 <!-- BLOG-POST-LIST:END -->
 
 ---
