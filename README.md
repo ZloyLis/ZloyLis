@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Провалить собеседование за 2 минуты: Разбор ответа на вопрос «Расскажите о себе»](https://habr.com/ru/articles/1006426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006426)
-- [Малоизвестная возможность Swift: for case let, о которой не знают многие iOS-разработчики](https://habr.com/ru/articles/1006412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006412)
-- [Применение модели C4 в работе системного аналитика](https://habr.com/ru/companies/sovcombank_technologies/articles/1005872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005872)
-- [Российский мессенджер MAX замечен в обращении к иностранным сервисам определения IP и серверам конкурентов](https://habr.com/ru/articles/1006394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006394)
-- [Как я создавала AI-агента для проверки ТЗ: история одного эксперимента](https://habr.com/ru/articles/1006372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006372)
+- [Подборка ITAM-систем: ТОП-8 лучших решений для управления ИТ-активами](https://habr.com/ru/companies/simpleone/articles/1006468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006468)
+- [От неизвестной схемы до защищённой БД: полный цикл защиты данных в Tantor Certified 17](https://habr.com/ru/companies/tantor/articles/1006092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006092)
+- [Бизнес-логика первична, микросервисы — вторичны](https://habr.com/ru/articles/1006458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006458)
+- [DevOpsConf 2026: «Онтико» меняет рынок IT-конференций](https://habr.com/ru/companies/oleg-bunin/articles/1006390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006390)
+- [Анонимные функции и функциональные инструменты в Python: От lambda до встроенных функций](https://habr.com/ru/articles/1006454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006454)
 <!-- BLOG-POST-LIST:END -->
 
 ---
