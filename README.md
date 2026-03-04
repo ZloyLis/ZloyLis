@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Kotlin для новичков: от установки IDE до первого проекта](https://habr.com/ru/companies/otus/articles/994146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994146)
+- [Робот из того, что ты выбросил: революция, которая осталась незамеченной](https://habr.com/ru/articles/1006480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006480)
+- [Головоломка Ханойские башни на Java](https://habr.com/ru/articles/1006476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006476)
+- [[Перевод] Одна формула, позволяющая понять 3D-графику](https://habr.com/ru/companies/ruvds/articles/1003014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003014)
 - [Подборка ITAM-систем: ТОП-8 лучших решений для управления ИТ-активами](https://habr.com/ru/companies/simpleone/articles/1006468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006468)
-- [От неизвестной схемы до защищённой БД: полный цикл защиты данных в Tantor Certified 17](https://habr.com/ru/companies/tantor/articles/1006092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006092)
-- [Бизнес-логика первична, микросервисы — вторичны](https://habr.com/ru/articles/1006458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006458)
-- [DevOpsConf 2026: «Онтико» меняет рынок IT-конференций](https://habr.com/ru/companies/oleg-bunin/articles/1006390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006390)
-- [Анонимные функции и функциональные инструменты в Python: От lambda до встроенных функций](https://habr.com/ru/articles/1006454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006454)
 <!-- BLOG-POST-LIST:END -->
 
 ---
