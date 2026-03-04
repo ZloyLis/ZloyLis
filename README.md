@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нити и волокна &lpar;Threads &amp;amp; Fibers&rpar;](https://habr.com/ru/articles/1006576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006576)
 - [Вертикальный timeline для видео — спорно?](https://habr.com/ru/articles/1006522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006522)
 - [ТОП-5 сервисов по налоговому мониторингу: обзор решений для бизнеса](https://habr.com/ru/articles/1006520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006520)
 - [Kotlin для новичков: от установки IDE до первого проекта](https://habr.com/ru/companies/otus/articles/994146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994146)
 - [Робот из того, что ты выбросил: революция, которая осталась незамеченной](https://habr.com/ru/articles/1006480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006480)
-- [Головоломка Ханойские башни на Java](https://habr.com/ru/articles/1006476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006476)
 <!-- BLOG-POST-LIST:END -->
 
 ---
