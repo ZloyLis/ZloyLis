@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Где в postgresql хранится default-значение созданной колонки?](https://habr.com/ru/articles/1006636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006636)
+- [Знать ≠ уметь: как не стать заложником иллюзии знаний](https://habr.com/ru/articles/1006608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006608)
+- [Обманываем систему мониторинга Discord-серверов: self-bot + LLM против капчи](https://habr.com/ru/articles/1006630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006630)
 - [Профилирование и PGO в LLVM](https://habr.com/ru/articles/1006620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006620)
 - [10 900 тестов: Как мы обеспечиваем качество в PingZen, или Почему ваш мониторинг должен быть протестирован](https://habr.com/ru/articles/1006610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006610)
-- [Как AI-агенты заменили мне продуктовую команду](https://habr.com/ru/articles/1006606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006606)
-- [Геймдев без иллюзий: что нужно знать заранее, если хотите создать игру](https://habr.com/ru/companies/netologyru/articles/1006006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006006)
-- [Я делаю инструменты, которыми реально пользуются. Вот как это устроено](https://habr.com/ru/articles/1006586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006586)
 <!-- BLOG-POST-LIST:END -->
 
 ---
