@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Chief AI Officer](https://habr.com/ru/articles/1006660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006660)
 - [Где в postgresql хранится default-значение созданной колонки?](https://habr.com/ru/articles/1006636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006636)
 - [Знать ≠ уметь: как не стать заложником иллюзии знаний](https://habr.com/ru/articles/1006608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006608)
 - [Обманываем систему мониторинга Discord-серверов: self-bot + LLM против капчи](https://habr.com/ru/articles/1006630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006630)
 - [Профилирование и PGO в LLVM](https://habr.com/ru/articles/1006620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006620)
-- [10 900 тестов: Как мы обеспечиваем качество в PingZen, или Почему ваш мониторинг должен быть протестирован](https://habr.com/ru/articles/1006610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006610)
 <!-- BLOG-POST-LIST:END -->
 
 ---
