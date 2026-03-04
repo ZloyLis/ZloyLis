@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Провалить собеседование за 2 минуты: Разбор ответа на вопрос «Расскажите о себе»](https://habr.com/ru/articles/1006426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006426)
+- [Малоизвестная возможность Swift: for case let, о которой не знают многие iOS-разработчики](https://habr.com/ru/articles/1006412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006412)
+- [Применение модели C4 в работе системного аналитика](https://habr.com/ru/companies/sovcombank_technologies/articles/1005872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005872)
 - [Российский мессенджер MAX замечен в обращении к иностранным сервисам определения IP и серверам конкурентов](https://habr.com/ru/articles/1006394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006394)
 - [Как я создавала AI-агента для проверки ТЗ: история одного эксперимента](https://habr.com/ru/articles/1006372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006372)
-- [EXPLAIN ANALYZE: как находить узкие места в запросах PostgreSQL](https://habr.com/ru/companies/first/articles/1006278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006278)
-- [Векторный поиск в PostgreSQL: PGVector, SQLAlchemy и FastAPI](https://habr.com/ru/articles/1006364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006364)
-- [Как мы отслеживаем производительность веб-сервисов, или Дело «Скорости»](https://habr.com/ru/companies/sberdevices/articles/1006020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006020)
 <!-- BLOG-POST-LIST:END -->
 
 ---
