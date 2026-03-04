@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Российский мессенджер MAX замечен в обращении к иностранным сервисам определения IP и серверам конкурентов](https://habr.com/ru/articles/1006394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006394)
+- [Как я создавала AI-агента для проверки ТЗ: история одного эксперимента](https://habr.com/ru/articles/1006372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006372)
 - [EXPLAIN ANALYZE: как находить узкие места в запросах PostgreSQL](https://habr.com/ru/companies/first/articles/1006278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006278)
 - [Векторный поиск в PostgreSQL: PGVector, SQLAlchemy и FastAPI](https://habr.com/ru/articles/1006364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006364)
 - [Как мы отслеживаем производительность веб-сервисов, или Дело «Скорости»](https://habr.com/ru/companies/sberdevices/articles/1006020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006020)
-- [Альтман и Амодеи снова в размолвке, Пентагон вербует ИИ-лаборатории: главные события февраля в ИИ](https://habr.com/ru/companies/magnus-tech/articles/1004972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004972)
-- [Edge AI: почти всё о видеокамерах с искусственным интеллектом. Часть 2](https://habr.com/ru/companies/oleg-bunin/articles/986066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=986066)
 <!-- BLOG-POST-LIST:END -->
 
 ---
