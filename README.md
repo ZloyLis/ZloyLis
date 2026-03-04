@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Выделение памяти в Go](https://habr.com/ru/companies/timeweb/articles/1000232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000232)
+- [Пишем первое приложение с AI-стартером, чтобы видеть прибыли и убытки](https://habr.com/ru/companies/bitrix/articles/1006012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006012)
 - [Как мы запускали курс «Нейронауки и нейроинтерфейсы» в Центральном университете для IT-специальностей](https://habr.com/ru/articles/1006284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006284)
 - [Стек наблюдаемости &lpar;observability&rpar; в MWS Container Platform](https://habr.com/ru/companies/ru_mts/articles/1005890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005890)
 - [Коллекции в Java: алгоритмическая сложность и как не тормозить код](https://habr.com/ru/companies/otus/articles/994152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994152)
-- [Propensity Score Matching: как строить аналоги A/B-тестов, когда эксперименты невозможны](https://habr.com/ru/companies/yandex/articles/1004060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004060)
-- [Исполняемые спецификации — эффективная работа с кодинг-агентами](https://habr.com/ru/articles/1006140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006140)
 <!-- BLOG-POST-LIST:END -->
 
 ---
