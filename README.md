@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Вертикальный timeline для видео — спорно?](https://habr.com/ru/articles/1006522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006522)
+- [ТОП-5 сервисов по налоговому мониторингу: обзор решений для бизнеса](https://habr.com/ru/articles/1006520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006520)
 - [Kotlin для новичков: от установки IDE до первого проекта](https://habr.com/ru/companies/otus/articles/994146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994146)
 - [Робот из того, что ты выбросил: революция, которая осталась незамеченной](https://habr.com/ru/articles/1006480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006480)
 - [Головоломка Ханойские башни на Java](https://habr.com/ru/articles/1006476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006476)
-- [[Перевод] Одна формула, позволяющая понять 3D-графику](https://habr.com/ru/companies/ruvds/articles/1003014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003014)
-- [Подборка ITAM-систем: ТОП-8 лучших решений для управления ИТ-активами](https://habr.com/ru/companies/simpleone/articles/1006468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006468)
 <!-- BLOG-POST-LIST:END -->
 
 ---
