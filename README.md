@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Обзор книг для анализа данных](https://habr.com/ru/articles/1007024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007024)
+- [Skaro — AI-оркестратор полного цикла разработки](https://habr.com/ru/articles/1007048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007048)
+- [Обзор книг аналитика данных](https://habr.com/ru/articles/1007024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007024)
 - [От картинки к системе разработки проектов](https://habr.com/ru/articles/1007018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007018)
 - [Frontend Status: свежий дайджест фронтенда и AI — 05.03.2026](https://habr.com/ru/articles/1007014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007014)
 - [О радости программирования и невесомости достижений](https://habr.com/ru/articles/1007010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007010)
-- [Как HR-командам сократить расходы — сэкономить, но не сжечь людей](https://habr.com/ru/companies/itarena/articles/1007004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007004)
 <!-- BLOG-POST-LIST:END -->
 
 ---
