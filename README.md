@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Комментарии, которые пережили ошибки](https://habr.com/ru/companies/pvs-studio/articles/1006734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006734)
+- [Переход MultiXactOffset на 64 бита в Postgres](https://habr.com/ru/companies/postgrespro/articles/1006080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006080)
 - [CRM, регуляторные ограничения и автоматизация: как мы выстроили надёжный процесс релизов](https://habr.com/ru/articles/1006692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006692)
 - [[Перевод] Async Coalescing: 5 стратегий объединения асинхронных запросов](https://habr.com/ru/articles/1006676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006676)
 - [Chief AI Officer](https://habr.com/ru/articles/1006660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006660)
-- [Где в postgresql хранится default-значение созданной колонки?](https://habr.com/ru/articles/1006636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006636)
-- [Знать ≠ уметь: как не стать заложником иллюзии знаний](https://habr.com/ru/articles/1006608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006608)
 <!-- BLOG-POST-LIST:END -->
 
 ---
