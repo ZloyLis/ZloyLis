@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Комментарии, которые пережили ошибки](https://habr.com/ru/companies/pvs-studio/articles/1006734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006734)
-- [Переход MultiXactOffset на 64 бита в Postgres](https://habr.com/ru/companies/postgrespro/articles/1006080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006080)
-- [CRM, регуляторные ограничения и автоматизация: как мы выстроили надёжный процесс релизов](https://habr.com/ru/articles/1006692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006692)
-- [[Перевод] Async Coalescing: 5 стратегий объединения асинхронных запросов](https://habr.com/ru/articles/1006676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006676)
-- [Chief AI Officer](https://habr.com/ru/articles/1006660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006660)
+- [Мониторинга много, управляемости нет: “зонтик” — не ещё один мониторинг, а слой управления ИТ-ландшафтом](https://habr.com/ru/companies/monq/articles/1006794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006794)
+- [Сравнение MVI и KoTEA](https://habr.com/ru/articles/1006782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006782)
+- [[Перевод] Структуры данных на практике. Глава 6: Стеки и очереди](https://habr.com/ru/articles/1000968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000968)
+- [Как за неделю собрать курс для отдела поддержки по базе знаний компании](https://habr.com/ru/companies/teamly/articles/1006770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006770)
+- [А если бы весь код был закрыт?](https://habr.com/ru/articles/1006656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006656)
 <!-- BLOG-POST-LIST:END -->
 
 ---
