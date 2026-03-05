@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Мониторинга много, управляемости нет: “зонтик” — не ещё один мониторинг, а слой управления ИТ-ландшафтом](https://habr.com/ru/companies/monq/articles/1006794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006794)
-- [Сравнение MVI и KoTEA](https://habr.com/ru/articles/1006782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006782)
-- [[Перевод] Структуры данных на практике. Глава 6: Стеки и очереди](https://habr.com/ru/articles/1000968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000968)
-- [Как за неделю собрать курс для отдела поддержки по базе знаний компании](https://habr.com/ru/companies/teamly/articles/1006770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006770)
-- [А если бы весь код был закрыт?](https://habr.com/ru/articles/1006656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006656)
+- [Ищем решение для удаленной аттестации приложений на macOS &lpar;приз — Mac Mini&rpar;](https://habr.com/ru/articles/1006814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006814)
+- [Распил монолита в 2026: а может, не надо? Как AI переворачивает закон Конвея](https://habr.com/ru/articles/1006536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006536)
+- [Я устал каждый раз собирать проект с нуля — и сделал универсальный Docker+Python-шаблон](https://habr.com/ru/articles/1006822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006822)
+- [Неизвестные известные алгоритмы и трюки на языке C](https://habr.com/ru/companies/timeweb/articles/993776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993776)
+- [Фишинг-тесты 2.0: внедряем HADI для предсказуемой безопасности](https://habr.com/ru/companies/bastion/articles/1001820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001820)
 <!-- BLOG-POST-LIST:END -->
 
 ---
