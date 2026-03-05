@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обучаем нейросеть онлайн](https://habr.com/ru/articles/1007114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007114)
 - [Установка Java за 5 минут: JDK 21 или 25 — что выбрать новичку в 2026 году](https://habr.com/ru/companies/otus/articles/994150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994150)
 - [[Перевод] Введение в модели согласованности](https://habr.com/ru/companies/spring_aio/articles/1006474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006474)
 - [Skaro — AI-оркестратор полного цикла разработки](https://habr.com/ru/articles/1007048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007048)
 - [Обзор книг аналитика данных](https://habr.com/ru/articles/1007024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007024)
-- [От картинки к системе разработки проектов](https://habr.com/ru/articles/1007018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007018)
 <!-- BLOG-POST-LIST:END -->
 
 ---
