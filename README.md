@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ищем решение для удаленной аттестации приложений на macOS &lpar;приз — Mac Mini&rpar;](https://habr.com/ru/articles/1006814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006814)
-- [Распил монолита в 2026: а может, не надо? Как AI переворачивает закон Конвея](https://habr.com/ru/articles/1006536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006536)
-- [Я устал каждый раз собирать проект с нуля — и сделал универсальный Docker+Python-шаблон](https://habr.com/ru/articles/1006822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006822)
-- [Неизвестные известные алгоритмы и трюки на языке C](https://habr.com/ru/companies/timeweb/articles/993776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993776)
-- [Фишинг-тесты 2.0: внедряем HADI для предсказуемой безопасности](https://habr.com/ru/companies/bastion/articles/1001820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001820)
+- [Я год проработал «меридиантом». Или как я придумал профессию, потому что надоело быть просто аналитиком](https://habr.com/ru/articles/1006872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006872)
+- [Один кластер, чтобы править всеми: централизованное автомасштабирование в Kubernetes](https://habr.com/ru/companies/k2tech/articles/1006862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006862)
+- [Месседжер MAX следит за пользователями VPN? Реверс инжиниринг говорит — да](https://habr.com/ru/articles/1006666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006666)
+- [Мозги и смартфоны](https://habr.com/ru/articles/1006668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006668)
+- [Зачем нужен companion object в Hilt-модулях](https://habr.com/ru/articles/1006844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006844)
 <!-- BLOG-POST-LIST:END -->
 
 ---
