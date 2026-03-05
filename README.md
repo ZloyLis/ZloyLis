@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработка после разработчиков. Что оставит AI?](https://habr.com/ru/articles/1006912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006912)
+- [PEP — это не стиль. это язык, которым ты думаешь о коде](https://habr.com/ru/articles/1006908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006908)
+- [Разворачиваем self-hosted Matrix: Synapse + OIDC + LiveKit + подписанные обновления](https://habr.com/ru/articles/1006904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006904)
+- [Качаем навыки на онлайн-курсах: продуктовое мышление — навык, которого не хватает большинству IT-маркетологов](https://habr.com/ru/companies/habr_career/articles/1006898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006898)
 - [Я год проработал «меридиантом». Или как я придумал профессию, потому что надоело быть просто аналитиком](https://habr.com/ru/articles/1006872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006872)
-- [Один кластер, чтобы править всеми: централизованное автомасштабирование в Kubernetes](https://habr.com/ru/companies/k2tech/articles/1006862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006862)
-- [Месседжер MAX следит за пользователями VPN? Реверс инжиниринг говорит — да](https://habr.com/ru/articles/1006666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006666)
-- [Мозги и смартфоны](https://habr.com/ru/articles/1006668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006668)
-- [Зачем нужен companion object в Hilt-модулях](https://habr.com/ru/articles/1006844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006844)
 <!-- BLOG-POST-LIST:END -->
 
 ---
