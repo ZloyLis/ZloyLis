@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [CRM, регуляторные ограничения и автоматизация: как мы выстроили надёжный процесс релизов](https://habr.com/ru/articles/1006692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006692)
+- [[Перевод] Async Coalescing: 5 стратегий объединения асинхронных запросов](https://habr.com/ru/articles/1006676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006676)
 - [Chief AI Officer](https://habr.com/ru/articles/1006660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006660)
 - [Где в postgresql хранится default-значение созданной колонки?](https://habr.com/ru/articles/1006636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006636)
 - [Знать ≠ уметь: как не стать заложником иллюзии знаний](https://habr.com/ru/articles/1006608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006608)
-- [Обманываем систему мониторинга Discord-серверов: self-bot + LLM против капчи](https://habr.com/ru/articles/1006630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006630)
-- [Профилирование и PGO в LLVM](https://habr.com/ru/articles/1006620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006620)
 <!-- BLOG-POST-LIST:END -->
 
 ---
