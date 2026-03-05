@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Подключение к GitHub по SSH: для новичков](https://habr.com/ru/articles/1006970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006970)
+- [Неплоский мир: как мы делаем рельеф настоящим](https://habr.com/ru/companies/2gis/articles/1004084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004084)
 - [Разработка после разработчиков. Что оставит AI?](https://habr.com/ru/articles/1006912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006912)
-- [PEP — это не стиль. это язык, которым ты думаешь о коде](https://habr.com/ru/articles/1006908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006908)
+- [PEP — это не стиль, это язык, которым ты думаешь о коде](https://habr.com/ru/articles/1006908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006908)
 - [Разворачиваем self-hosted Matrix: Synapse + OIDC + LiveKit + подписанные обновления](https://habr.com/ru/articles/1006904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006904)
-- [Качаем навыки на онлайн-курсах: продуктовое мышление — навык, которого не хватает большинству IT-маркетологов](https://habr.com/ru/companies/habr_career/articles/1006898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006898)
-- [Я год проработал «меридиантом». Или как я придумал профессию, потому что надоело быть просто аналитиком](https://habr.com/ru/articles/1006872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006872)
 <!-- BLOG-POST-LIST:END -->
 
 ---
