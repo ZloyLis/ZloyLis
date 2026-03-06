@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Теорема Гаусса‑Маркова и ее условия](https://habr.com/ru/articles/1007552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007552)
+- [Хоткеи, которые я реально использую каждый день — справочник за 10 лет разработки](https://habr.com/ru/articles/1007548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007548)
+- [РСПКДС: мнемонический шаблон для  обработки данных в Dart -шпаргалка для начинающих](https://habr.com/ru/articles/1007542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007542)
 - [Todo Budget v5.0: переписал весь UI с нуля на Jetpack Compose — и теперь ищу тех, кто его сломает](https://habr.com/ru/articles/1007530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007530)
 - [Способы Повышения Надежности Встраиваемого ПО](https://habr.com/ru/articles/1002662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002662)
-- [Кто зарабатывает на бирже на самом деле: инструменты, игроки и стратегии](https://habr.com/ru/articles/1007528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007528)
-- [Java для автотестов: первые шаги с нуля](https://habr.com/ru/companies/otus/articles/994164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994164)
-- [Траектория манёвра летательного аппарата: от школьной геометрии до реального полёта](https://habr.com/ru/articles/1007036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007036)
 <!-- BLOG-POST-LIST:END -->
 
 ---
