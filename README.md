@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Todo Budget v5.0: переписал весь UI с нуля на Jetpack Compose — и теперь ищу тех, кто его сломает](https://habr.com/ru/articles/1007530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007530)
+- [Способы Повышения Надежности Встраиваемого ПО](https://habr.com/ru/articles/1002662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002662)
+- [Кто зарабатывает на бирже на самом деле: инструменты, игроки и стратегии](https://habr.com/ru/articles/1007528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007528)
 - [Java для автотестов: первые шаги с нуля](https://habr.com/ru/companies/otus/articles/994164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994164)
 - [Траектория манёвра летательного аппарата: от школьной геометрии до реального полёта](https://habr.com/ru/articles/1007036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007036)
-- [Darts: библиотека для временных рядов](https://habr.com/ru/companies/otus/articles/1003098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003098)
-- [Pandas: 4 вопроса, которые мучают 51% Python-разработчиков — и их правильные ответы](https://habr.com/ru/articles/1007452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007452)
-- [Как расти QA-инженеру: инструменты, которые действительно работают](https://habr.com/ru/companies/avito/articles/1007298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007298)
 <!-- BLOG-POST-LIST:END -->
 
 ---
