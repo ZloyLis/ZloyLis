@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Траектория манёвра летательного аппарата: от школьной геометрии до реального полёта](https://habr.com/ru/articles/1007036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007036)
 - [Darts: библиотека для временных рядов](https://habr.com/ru/companies/otus/articles/1003098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003098)
 - [Pandas: 4 вопроса, которые мучают 51% Python-разработчиков — и их правильные ответы](https://habr.com/ru/articles/1007452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007452)
 - [Как расти QA-инженеру: инструменты, которые действительно работают](https://habr.com/ru/companies/avito/articles/1007298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007298)
 - [FunGP: питоничность против церемониальности JavaCard](https://habr.com/ru/articles/1007392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007392)
-- [Программисты больше не нужны. А я?](https://habr.com/ru/companies/kts/articles/1007434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007434)
 <!-- BLOG-POST-LIST:END -->
 
 ---
