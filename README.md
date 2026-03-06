@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Методология статистического анализа производительности СУБД: опыт применения PG_EXPECTO v.7 на реальном инциденте](https://habr.com/ru/articles/1007168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007168)
 - [Судьба или заслуга??](https://habr.com/ru/articles/1007126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007126)
 - [Exadata на Postgres, или старые архитектурные проблемы и их решение](https://habr.com/ru/companies/tantor/articles/1007038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007038)
 - [Self-Aware MCP Server: инструменты контекста реального мира для AI-агента](https://habr.com/ru/articles/1007122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007122)
 - [Обучаем нейросеть онлайн](https://habr.com/ru/articles/1007114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007114)
-- [Установка Java за 5 минут: JDK 21 или 25 — что выбрать новичку в 2026 году](https://habr.com/ru/companies/otus/articles/994150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994150)
 <!-- BLOG-POST-LIST:END -->
 
 ---
