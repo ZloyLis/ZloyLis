@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] «Создание встраиваемых систем». Обзор книги](https://habr.com/ru/companies/bhv_publishing/articles/1007294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007294)
+- [Copyright больше не защищает ваш код](https://habr.com/ru/companies/spring_aio/articles/1007268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007268)
+- [Tomcat vs WildFly: как выбрать сервер приложений и почему не нужно ограничиваться одним решением](https://habr.com/ru/companies/diasoft_company/articles/1007282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007282)
 - [Как я пишу адекватный код с помощью ИИ](https://habr.com/ru/articles/1006934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006934)
 - [Собственная облачная LLM на 16 ГБ VRAM — часть 1: базовая сборка, tools и MCP](https://habr.com/ru/companies/selectel/articles/1005504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005504)
-- [«Улучшили выполнение» не означает «улучшили обучение»: обзор доклада о парадоксах внедрения ИИ в сфере образования](https://habr.com/ru/companies/ru_mts/articles/1006762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006762)
-- [Обновления GigaIDE за февраль 2026](https://habr.com/ru/companies/sberbank/articles/1006448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006448)
-- [Российский интеллектуальный силовой модуль для судовых преобразователей частоты. Часть 2](https://habr.com/ru/articles/1005656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005656)
 <!-- BLOG-POST-LIST:END -->
 
 ---
