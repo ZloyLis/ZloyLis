@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Darts: библиотека для временных рядов](https://habr.com/ru/companies/otus/articles/1003098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003098)
+- [Pandas: 4 вопроса, которые мучают 51% Python-разработчиков — и их правильные ответы](https://habr.com/ru/articles/1007452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007452)
+- [Как расти QA-инженеру: инструменты, которые действительно работают](https://habr.com/ru/companies/avito/articles/1007298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007298)
+- [FunGP: питоничность против церемониальности JavaCard](https://habr.com/ru/articles/1007392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007392)
 - [Программисты больше не нужны. А я?](https://habr.com/ru/companies/kts/articles/1007434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007434)
-- [Почему селлеры на маркетплейсах не понимают, прибыльны ли они на самом деле](https://habr.com/ru/articles/1007432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007432)
-- [Корпоративная память как инфраструктура: как мы построили RAG-систему внутри ИТ-компании с промышленной экспертизой](https://habr.com/ru/companies/zyfra/articles/1007356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007356)
-- [HR покажи мне KPI](https://habr.com/ru/articles/1007424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007424)
-- [Обзор AI-ассистентов для кодинга: от автодополнения к агентским системам](https://habr.com/ru/companies/veai/articles/1007398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007398)
 <!-- BLOG-POST-LIST:END -->
 
 ---
