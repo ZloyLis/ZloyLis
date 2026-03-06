@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Digest #33](https://habr.com/ru/companies/tbank/articles/1007232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007232)
+- [Анатомия современного антифрода и автоматизация мультиаккаунтинга: Технический разбор AdsPower и его Local API](https://habr.com/ru/articles/1007152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007152)
 - [[Перевод] «Создание встраиваемых систем». Обзор книги](https://habr.com/ru/companies/bhv_publishing/articles/1007294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007294)
-- [Copyright больше не защищает ваш код](https://habr.com/ru/companies/spring_aio/articles/1007268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007268)
+- [Copyright больше не защищает ваш код](https://habr.com/ru/companies/haulmont/articles/1007268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007268)
 - [Tomcat vs WildFly: как выбрать сервер приложений и почему не нужно ограничиваться одним решением](https://habr.com/ru/companies/diasoft_company/articles/1007282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007282)
-- [Как я пишу адекватный код с помощью ИИ](https://habr.com/ru/articles/1006934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006934)
-- [Собственная облачная LLM на 16 ГБ VRAM — часть 1: базовая сборка, tools и MCP](https://habr.com/ru/companies/selectel/articles/1005504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005504)
 <!-- BLOG-POST-LIST:END -->
 
 ---
