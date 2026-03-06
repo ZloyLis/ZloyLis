@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Магия ИИ-банкинга 5.0 и её разоблачение](https://habr.com/ru/articles/1007554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007554)
 - [Теорема Гаусса‑Маркова и ее условия](https://habr.com/ru/articles/1007552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007552)
 - [Хоткеи, которые я реально использую каждый день — справочник за 10 лет разработки](https://habr.com/ru/articles/1007548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007548)
 - [РСПКДС: мнемонический шаблон для  обработки данных в Dart -шпаргалка для начинающих](https://habr.com/ru/articles/1007542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007542)
 - [Todo Budget v5.0: переписал весь UI с нуля на Jetpack Compose — и теперь ищу тех, кто его сломает](https://habr.com/ru/articles/1007530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007530)
-- [Способы Повышения Надежности Встраиваемого ПО](https://habr.com/ru/articles/1002662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002662)
 <!-- BLOG-POST-LIST:END -->
 
 ---
