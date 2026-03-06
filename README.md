@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновления GigaIDE за февраль 2026](https://habr.com/ru/companies/sberbank/articles/1006448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006448)
 - [Российский интеллектуальный силовой модуль для судовых преобразователей частоты. Часть 2](https://habr.com/ru/articles/1005656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005656)
 - [Онлайн-магистратуры ИТМО и НИЯУ МИФИ в партнёрстве с Практикумом: как поступить в 2026 году](https://habr.com/ru/companies/yandex_praktikum/articles/1006772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006772)
 - [Вы знали, что с помощью LLM можно вывести подход Architecture as Code на новый уровень?](https://habr.com/ru/companies/bcs_company/articles/1006944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006944)
 - [Методология статистического анализа производительности СУБД: опыт применения PG_EXPECTO v.7 на реальном инциденте](https://habr.com/ru/articles/1007168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007168)
-- [Судьба или заслуга??](https://habr.com/ru/articles/1007126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007126)
 <!-- BLOG-POST-LIST:END -->
 
 ---
