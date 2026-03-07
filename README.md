@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Инструментарий аналитика данных: что реально нужно освоить в 2026 году](https://habr.com/ru/articles/1007780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007780)
+- [[Перевод] Код — дешёвка. Покажи мне, как ты общаешься](https://habr.com/ru/articles/1007770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007770)
+- [SQL: 3 задачи по анализу торгового пространства для ритейла](https://habr.com/ru/articles/1007766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007766)
+- [В городе Че. И это всё о нём](https://habr.com/ru/articles/1007762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007762)
 - [Flame: Системный язык программирования на C и LLVM с мета-исключениями и Memory Safety без Borrow Checker](https://habr.com/ru/articles/1007758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007758)
-- [Как я автоматизировал юридическую рутину](https://habr.com/ru/articles/1007750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007750)
-- [Модели OSI и TCP/IP своими словами](https://habr.com/ru/articles/1007746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007746)
-- [Как я решил автоматизировать контент-маркетинг с помощью AI — и почему один](https://habr.com/ru/articles/1007744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007744)
-- [Превращаем MIDI клавиатуру в синтезатор. Часть 1. Железо](https://habr.com/ru/articles/982570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982570)
 <!-- BLOG-POST-LIST:END -->
 
 ---
