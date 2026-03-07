@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Закурсорить мечту. Часть 3: ТЗ &lpar;техническое задание&rpar;](https://habr.com/ru/articles/1007806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007806)
 - [Управление предпусковым подогревателем Webasto](https://habr.com/ru/articles/1007790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007790)
 - [Инструментарий аналитика данных: что реально нужно освоить в 2026 году](https://habr.com/ru/articles/1007780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007780)
 - [[Перевод] Код — дешёвка. Покажи мне, как ты общаешься](https://habr.com/ru/articles/1007770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007770)
 - [SQL: 3 задачи по анализу торгового пространства для ритейла](https://habr.com/ru/articles/1007766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007766)
-- [В городе Че. И это всё о нём](https://habr.com/ru/articles/1007762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007762)
 <!-- BLOG-POST-LIST:END -->
 
 ---
