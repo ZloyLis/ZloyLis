@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Визуальный инспектор аудиографов на Web Audio API: мотивация, архитектура и опыт разработки](https://habr.com/ru/articles/1007526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007526)
 - [« DeepSeek, сделай мне робота!»: техническая исповедь, карта минного поля и полные файлы проекта](https://habr.com/ru/articles/1007546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007546)
 - [Vue DnD Kit v2: революция в мире Drag N Drop для Vue.js](https://habr.com/ru/articles/1007680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007680)
 - [Как расследуют кибератаки: полный разбор Incident Response](https://habr.com/ru/articles/1007662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007662)
 - [Закурсорить мечту. Часть 2: Технологический стек](https://habr.com/ru/articles/1007652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007652)
-- [[Перевод] У файтингов проблема с продукт-дизайном &lpar;перевод&rpar;](https://habr.com/ru/articles/1007654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007654)
 <!-- BLOG-POST-LIST:END -->
 
 ---
