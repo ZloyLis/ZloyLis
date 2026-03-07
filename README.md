@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Flame: Системный язык программирования на C и LLVM с мета-исключениями и Memory Safety без Borrow Checker](https://habr.com/ru/articles/1007758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007758)
+- [Как я автоматизировал юридическую рутину](https://habr.com/ru/articles/1007750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007750)
 - [Модели OSI и TCP/IP своими словами](https://habr.com/ru/articles/1007746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007746)
 - [Как я решил автоматизировать контент-маркетинг с помощью AI — и почему один](https://habr.com/ru/articles/1007744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007744)
 - [Превращаем MIDI клавиатуру в синтезатор. Часть 1. Железо](https://habr.com/ru/articles/982570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982570)
-- [Как и зачем я разработал визуальный инспектор аудиографов на Web Audio API](https://habr.com/ru/articles/1007526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007526)
-- [« DeepSeek, сделай мне робота!»: техническая исповедь, карта минного поля и полные файлы проекта](https://habr.com/ru/articles/1007546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007546)
 <!-- BLOG-POST-LIST:END -->
 
 ---
