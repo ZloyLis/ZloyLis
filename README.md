@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Закурсорить мечту. Часть 2: Технологический стек](https://habr.com/ru/articles/1007652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007652)
+- [[Перевод] У файтингов проблема с продукт-дизайном &lpar;перевод&rpar;](https://habr.com/ru/articles/1007654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007654)
 - [Как я дал ИИ-ассистенту доступ к JFR, jcmd и jps через MCP](https://habr.com/ru/articles/1007642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007642)
 - [[Перевод] Агент под прикрытием: Как один заголовок-промпт на GitHub помог взломать 4000 компьютеров](https://habr.com/ru/companies/bothub/articles/1007638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007638)
 - [Робот с видеонаблюдением и отслеживанием объекта](https://habr.com/ru/articles/1007628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007628)
-- [Kafka для начинающих: Apache Avro и Schema Registry &lpar;теория&rpar;](https://habr.com/ru/articles/992422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992422)
-- [Закурсорить мечту. Часть 1: А стоит ли пробовать?](https://habr.com/ru/articles/1007610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007610)
 <!-- BLOG-POST-LIST:END -->
 
 ---
