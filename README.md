@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Kafka для начинающих: Apache Avro и Schema Registry &lpar;теория&rpar;](https://habr.com/ru/articles/992422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=992422)
+- [Закурсорить мечту. Часть 1: А стоит ли пробовать?](https://habr.com/ru/articles/1007610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007610)
 - [Как я на 8 марта написал AI-Wish-лист по книге «Пять языков любви» — и автоматизировал романтику](https://habr.com/ru/articles/1007566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007566)
 - [История моего пути из медицины в IT](https://habr.com/ru/articles/1007582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007582)
 - [ИИ будет писать код. Но кто возьмёт ответственность за жизнь программного обеспечения?](https://habr.com/ru/articles/1007562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007562)
-- [Магия ИИ-банкинга 5.0 и её разоблачение](https://habr.com/ru/articles/1007554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007554)
-- [Теорема Гаусса‑Маркова и ее условия](https://habr.com/ru/articles/1007552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007552)
 <!-- BLOG-POST-LIST:END -->
 
 ---
