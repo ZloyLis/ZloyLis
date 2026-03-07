@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Визуальный инспектор аудиографов на Web Audio API: мотивация, архитектура и опыт разработки](https://habr.com/ru/articles/1007526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007526)
+- [Модели OSI и TCP/IP своими словами](https://habr.com/ru/articles/1007746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007746)
+- [Как я решил автоматизировать контент-маркетинг с помощью AI — и почему один](https://habr.com/ru/articles/1007744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007744)
+- [Превращаем MIDI клавиатуру в синтезатор. Часть 1. Железо](https://habr.com/ru/articles/982570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982570)
+- [Как и зачем я разработал визуальный инспектор аудиографов на Web Audio API](https://habr.com/ru/articles/1007526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007526)
 - [« DeepSeek, сделай мне робота!»: техническая исповедь, карта минного поля и полные файлы проекта](https://habr.com/ru/articles/1007546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007546)
-- [Vue DnD Kit v2: революция в мире Drag N Drop для Vue.js](https://habr.com/ru/articles/1007680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007680)
-- [Как расследуют кибератаки: полный разбор Incident Response](https://habr.com/ru/articles/1007662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007662)
-- [Закурсорить мечту. Часть 2: Технологический стек](https://habr.com/ru/articles/1007652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007652)
 <!-- BLOG-POST-LIST:END -->
 
 ---
