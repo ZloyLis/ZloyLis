@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как расследуют кибератаки: полный разбор Incident Response](https://habr.com/ru/articles/1007662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007662)
 - [Закурсорить мечту. Часть 2: Технологический стек](https://habr.com/ru/articles/1007652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007652)
 - [[Перевод] У файтингов проблема с продукт-дизайном &lpar;перевод&rpar;](https://habr.com/ru/articles/1007654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007654)
 - [Как я дал ИИ-ассистенту доступ к JFR, jcmd и jps через MCP](https://habr.com/ru/articles/1007642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007642)
 - [[Перевод] Агент под прикрытием: Как один заголовок-промпт на GitHub помог взломать 4000 компьютеров](https://habr.com/ru/companies/bothub/articles/1007638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007638)
-- [Робот с видеонаблюдением и отслеживанием объекта](https://habr.com/ru/articles/1007628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007628)
 <!-- BLOG-POST-LIST:END -->
 
 ---
