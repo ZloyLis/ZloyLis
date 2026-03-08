@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [conditionals-spring-boot: расширяем возможности @Conditional](https://habr.com/ru/articles/1008018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008018)
 - [Нескучное программирование. Обобщения &lpar;ч.1&rpar;](https://habr.com/ru/articles/1007998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007998)
 - [5 SQL‑ошибок](https://habr.com/ru/articles/1008000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008000)
 - [ИИ-агент сказал «сделано». Но сделал ли он на самом деле?](https://habr.com/ru/articles/1007990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007990)
 - [Mini-Shell: Часть 2 — Pipes, фоновые процессы и управление задачами](https://habr.com/ru/articles/1007988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007988)
-- [Как посчитать MDE?](https://habr.com/ru/articles/1007986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007986)
 <!-- BLOG-POST-LIST:END -->
 
 ---
