@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработка CRM для ресторана с нуля: зачем я написал бэкенд для сайта на конструкторе](https://habr.com/ru/articles/1007978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007978)
+- [Святой грааль от Рэй Далио](https://habr.com/ru/articles/1007874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007874)
 - [Telegram-бот вместо Excel-рутины: как я автоматизировал рутину с помощью Python](https://habr.com/ru/articles/1007960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007960)
 - [Asset Catalog – скрытый bottleneck сборки iOS. Разбираемся, как распараллелить компиляцию Asset’ов](https://habr.com/ru/articles/1007956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007956)
 - [Инвалидация nginx кэша](https://habr.com/ru/articles/1007944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007944)
-- [[Перевод] Технологические основы сайтов Wikimedia](https://habr.com/ru/articles/1007822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007822)
-- [GridKit Enhanced: Enterprise-функции для TanStack Table](https://habr.com/ru/articles/1007896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007896)
 <!-- BLOG-POST-LIST:END -->
 
 ---
