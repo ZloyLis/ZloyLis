@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [GridKit Enhanced: Enterprise-функции для TanStack Table](https://habr.com/ru/articles/1007896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007896)
+- [Я навайбкодил расширение для VS Code, чтобы не вайбкодить с Claude Code &lpar;и пример, как вообще нужно разрабатывать с AI&rpar;](https://habr.com/ru/articles/1007842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007842)
+- [[Перевод] L в аббревиатуре LLM означает «ложь»](https://habr.com/ru/articles/1007624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007624)
 - [[Перевод] Почему первый вызов моей malloc всегда аллоцирует 72 КБ?](https://habr.com/ru/companies/ruvds/articles/1006290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006290)
 - [Почему сотрудники — главная уязвимость любой компании](https://habr.com/ru/articles/1007672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007672)
-- [Почему бизнес хочет FIFO и почему это не всегда «серебряная пуля»](https://habr.com/ru/articles/1007834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007834)
-- [Закурсорить мечту. Часть 3: ТЗ &lpar;техническое задание&rpar;](https://habr.com/ru/articles/1007806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007806)
-- [Управление предпусковым подогревателем Webasto](https://habr.com/ru/articles/1007790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007790)
 <!-- BLOG-POST-LIST:END -->
 
 ---
