@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как ускорить создание реплики PostgreSQL: pgBackRest вместо pg_basebackup](https://habr.com/ru/companies/otus/articles/1006120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006120)
+- [Почему я решила создать мобильное приложение для здоровья и во сколько мне это обошлось](https://habr.com/ru/articles/1008098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008098)
 - [Agile — от горнолыжного курорта до стандартной практики IT](https://habr.com/ru/articles/1008058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008058)
 - [Мобильная разработка за неделю #622 &lpar;2 — 9 марта&rpar;](https://habr.com/ru/articles/1008054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008054)
 - [Пишем быстрые API-автотесты без флаков, стендов и боли: изоляционный подход в CI/CD](https://habr.com/ru/articles/978660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978660)
-- [Одна Rust-библиотека вместо шести Python-пакетов — или как я перестала запускать фит и идти за кофе](https://habr.com/ru/articles/1008048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008048)
-- [Облака в 2026: почему ритейлеры возвращаются на землю и как не прогадать с выбором](https://habr.com/ru/articles/1007814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007814)
 <!-- BLOG-POST-LIST:END -->
 
 ---
