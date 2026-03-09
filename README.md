@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [В MAX есть доступ к фото по ссылке: Уязвимость или нет? По ФСТЭК и CVSS](https://habr.com/ru/articles/1008200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008200)
+- [[Перевод] Настройка отображения материалов в Joomla](https://habr.com/ru/articles/1008184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008184)
+- [Как мы делаем приложение для научного нетворкинга в университете](https://habr.com/ru/articles/1008172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008172)
 - [Функциональный язык программирования Hobbes](https://habr.com/ru/articles/1008138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008138)
 - [[Перевод] Лаксианский делириум](https://habr.com/ru/articles/1008132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008132)
-- [Пользователь уходит из приложения: рынок забирают API, данные и ИИ-агенты](https://habr.com/ru/articles/1008124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008124)
-- [Как портировать XBOX 360 игру на ПК с помощью RexGlue &lpar;2 часть&rpar;](https://habr.com/ru/articles/1008110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008110)
-- [[Перевод] Как ускорить создание реплики PostgreSQL: pgBackRest вместо pg_basebackup](https://habr.com/ru/companies/otus/articles/1006120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006120)
 <!-- BLOG-POST-LIST:END -->
 
 ---
