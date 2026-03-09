@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Agile — от горнолыжного курорта до стандартной практики IT](https://habr.com/ru/articles/1008058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008058)
+- [Мобильная разработка за неделю #622 &lpar;2 — 9 марта&rpar;](https://habr.com/ru/articles/1008054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008054)
 - [Пишем быстрые API-автотесты без флаков, стендов и боли: изоляционный подход в CI/CD](https://habr.com/ru/articles/978660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978660)
 - [Одна Rust-библиотека вместо шести Python-пакетов — или как я перестала запускать фит и идти за кофе](https://habr.com/ru/articles/1008048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008048)
 - [Облака в 2026: почему ритейлеры возвращаются на землю и как не прогадать с выбором](https://habr.com/ru/articles/1007814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007814)
-- [conditionals-spring-boot: расширяем возможности @Conditional](https://habr.com/ru/articles/1008018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008018)
-- [Нескучное программирование. Обобщения &lpar;ч.1&rpar;](https://habr.com/ru/articles/1007998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007998)
 <!-- BLOG-POST-LIST:END -->
 
 ---
