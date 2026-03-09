@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пишем быстрые API-автотесты без флаков, стендов и боли: изоляционный подход в CI/CD](https://habr.com/ru/articles/978660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978660)
+- [Одна Rust-библиотека вместо шести Python-пакетов — или как я перестала запускать фит и идти за кофе](https://habr.com/ru/articles/1008048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008048)
+- [Облака в 2026: почему ритейлеры возвращаются на землю и как не прогадать с выбором](https://habr.com/ru/articles/1007814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007814)
 - [conditionals-spring-boot: расширяем возможности @Conditional](https://habr.com/ru/articles/1008018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008018)
 - [Нескучное программирование. Обобщения &lpar;ч.1&rpar;](https://habr.com/ru/articles/1007998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007998)
-- [5 SQL‑ошибок](https://habr.com/ru/articles/1008000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008000)
-- [ИИ-агент сказал «сделано». Но сделал ли он на самом деле?](https://habr.com/ru/articles/1007990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007990)
-- [Mini-Shell: Часть 2 — Pipes, фоновые процессы и управление задачами](https://habr.com/ru/articles/1007988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007988)
 <!-- BLOG-POST-LIST:END -->
 
 ---
