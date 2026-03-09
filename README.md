@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дорога к звездам начинается на Земле](https://habr.com/ru/articles/1008272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008272)
+- [Обратная сторона лаконичности знаков в языках программирования](https://habr.com/ru/articles/1008266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008266)
+- [Эволюция Telegram-бота на локальной LLM от болтуна до мини-игр, генерации фото, возможности выбора модели](https://habr.com/ru/articles/1008248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008248)
 - [Бот из бытовой боли](https://habr.com/ru/articles/1008218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008218)
 - [Как веб-студии грамотно оформить отношения с командой, чтобы избежать юридических споров?](https://habr.com/ru/articles/1008212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008212)
-- [В MAX есть доступ к фото по ссылке: Уязвимость или нет? По ФСТЭК и CVSS](https://habr.com/ru/articles/1008200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008200)
-- [[Перевод] Настройка отображения материалов в Joomla](https://habr.com/ru/articles/1008184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008184)
-- [Как мы делаем приложение для научного нетворкинга в университете](https://habr.com/ru/articles/1008172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008172)
 <!-- BLOG-POST-LIST:END -->
 
 ---
