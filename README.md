@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Бот из бытовой боли](https://habr.com/ru/articles/1008218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008218)
+- [Как веб-студии грамотно оформить отношения с командой, чтобы избежать юридических споров?](https://habr.com/ru/articles/1008212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008212)
 - [В MAX есть доступ к фото по ссылке: Уязвимость или нет? По ФСТЭК и CVSS](https://habr.com/ru/articles/1008200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008200)
 - [[Перевод] Настройка отображения материалов в Joomla](https://habr.com/ru/articles/1008184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008184)
 - [Как мы делаем приложение для научного нетворкинга в университете](https://habr.com/ru/articles/1008172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008172)
-- [Функциональный язык программирования Hobbes](https://habr.com/ru/articles/1008138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008138)
-- [[Перевод] Лаксианский делириум](https://habr.com/ru/articles/1008132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008132)
 <!-- BLOG-POST-LIST:END -->
 
 ---
