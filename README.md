@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как построить DWDM-сеть в России](https://habr.com/ru/articles/1008314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008314)
 - [Системная инженерия в бизнесе: архитектурный подход к построению компании, который корпорации применяют уже 50 лет](https://habr.com/ru/articles/1008278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008278)
 - [IDE понимает ваш код. AI-агент — нет. Это можно исправить](https://habr.com/ru/articles/1008274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008274)
 - [Дорога к звездам начинается на Земле](https://habr.com/ru/articles/1008272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008272)
 - [Обратная сторона лаконичности знаков в языках программирования](https://habr.com/ru/articles/1008266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008266)
-- [Эволюция Telegram-бота на локальной LLM от болтуна до мини-игр, генерации фото, возможности выбора модели](https://habr.com/ru/articles/1008248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008248)
 <!-- BLOG-POST-LIST:END -->
 
 ---
