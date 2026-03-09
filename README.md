@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пользователь уходит из приложения: рынок забирают API, данные и ИИ-агенты](https://habr.com/ru/articles/1008124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008124)
 - [Как портировать XBOX 360 игру на ПК с помощью RexGlue &lpar;2 часть&rpar;](https://habr.com/ru/articles/1008110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008110)
 - [[Перевод] Как ускорить создание реплики PostgreSQL: pgBackRest вместо pg_basebackup](https://habr.com/ru/companies/otus/articles/1006120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006120)
 - [Почему я решила создать мобильное приложение для здоровья и во сколько мне это обошлось](https://habr.com/ru/articles/1008098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008098)
 - [Agile — от горнолыжного курорта до стандартной практики IT](https://habr.com/ru/articles/1008058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008058)
-- [Мобильная разработка за неделю #622 &lpar;2 — 9 марта&rpar;](https://habr.com/ru/articles/1008054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008054)
 <!-- BLOG-POST-LIST:END -->
 
 ---
