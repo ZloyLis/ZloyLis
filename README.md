@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Конструктор табличных значений, UNNEST&lpar;&rpar;, TABLE&lpar;&rpar;, STRING_SPLIT&lpar;&rpar;, JSON_TABLE&lpar;&rpar; — замена временным таблицам в SQL](https://habr.com/ru/articles/1007836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007836)
-- [Как уместить опыт в одностраничный PDF](https://habr.com/ru/articles/1008348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008348)
-- [Unreal Engine 5.4 + C++ + MacOS Tahoe + Android build = Build Successful](https://habr.com/ru/articles/1008334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008334)
-- [Контракт вместо настроек: чего я жду от OLTP-БД](https://habr.com/ru/articles/1007602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007602)
-- [Как построить DWDM-сеть в России](https://habr.com/ru/articles/1008314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008314)
+- [Поколение JSON: цена удобных абстракций и упадок культуры ресурсов](https://habr.com/ru/articles/1007800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007800)
+- [Time-Travel Debugging: почему Ctrl+Z это только начало](https://habr.com/ru/articles/1008222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008222)
+- [Победить дракона: что общего между Data Science и игрой Dungeons &amp;amp; Dragons](https://habr.com/ru/companies/yandex_praktikum/articles/1007134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007134)
+- [Когда curl перестаёт работать: многоуровневый детект ботов и где в этой схеме живёт облачный браузер](https://habr.com/ru/articles/1005068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005068)
+- [AI-агент с долгосрочной памятью: строю личного аналитика с Claude Code](https://habr.com/ru/articles/1007940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007940)
 <!-- BLOG-POST-LIST:END -->
 
 ---
