@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Почему мы запретили нашему агенту работать 24/7](https://habr.com/ru/articles/1008626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008626)
-- [Как реализовать WebSocket на Android и не сойти с ума](https://habr.com/ru/companies/betboom/articles/1007816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007816)
-- [Оркестрация ИИ-агентов в 2026: как 3 агента заменили отдел из 5 человек &lpar;кейс российской компании&rpar;](https://habr.com/ru/articles/1008598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008598)
-- [Advisory locks в PostgreSQL: распределённая блокировка без Redis, которая у вас уже есть](https://habr.com/ru/companies/otus/articles/1004230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004230)
-- [Школьная математика против цифрового бессмертия сайдлоадинга](https://habr.com/ru/articles/1008588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008588)
+- [[Перевод] Создание процедурной карты шестиугольников при помощи коллапса волновой функции](https://habr.com/ru/articles/1008562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008562)
+- [Как за 22 часа я собрала полноценный UI-прототип корпоративной системы с помощью ИИ](https://habr.com/ru/companies/technokratos/articles/1008644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008644)
+- [Создание библиотеки на C++: Теги, признаки и концепции. Часть II](https://habr.com/ru/companies/simbirsoft/articles/1006800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006800)
+- [Подходы к разработке в пост-ИИ эпоху](https://habr.com/ru/articles/1008636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008636)
+- [Как аналитику 1С почувствовать себя Сеньором](https://habr.com/ru/articles/1008634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008634)
 <!-- BLOG-POST-LIST:END -->
 
 ---
