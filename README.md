@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Платформа для 50000 приложений: как собрать инфраструктуру и выжить](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/1004584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004584)
+- [AI-продакт и результат: как рождаются продукты, которые приносят деньги](https://habr.com/ru/companies/beeline_cloud/articles/1008580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008580)
+- [Околоенотная грамота, или Как я создавал генератор паролей](https://habr.com/ru/companies/vktech/articles/1006810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006810)
+- [Безвозвратное удаление — самая сложная операция в ЦОД](https://habr.com/ru/articles/1008566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008566)
 - [Как мы перевели корпоративную 1С с MS SQL на Digital Q.DataBase без переписывания кода](https://habr.com/ru/companies/diasoft_company/articles/1008552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008552)
-- [Медицинский экзоскелет](https://habr.com/ru/articles/1008530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008530)
-- [Книга: «Фундаментальный подход к программной архитектуре. 2-е межд. изд.»](https://habr.com/ru/companies/piter/articles/1007448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007448)
-- [Как стать ML-инженером](https://habr.com/ru/companies/habr_career/articles/1008512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008512)
-- [Как построить карьеру системного аналитика в банке: от junior-анализа до лида](https://habr.com/ru/companies/rshb/articles/1008494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008494)
 <!-- BLOG-POST-LIST:END -->
 
 ---
