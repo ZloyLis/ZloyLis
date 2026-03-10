@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Computer Vision модель в борьбе с галлюцинациями LLM. Оправданный оверинжиниринг?](https://habr.com/ru/articles/1007788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007788)
-- [Понятия способ, случай, действие и его свобода, причина, измерение, предположение и его верность, игра, поведение и ум](https://habr.com/ru/articles/1008420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008420)
-- [#[inline] в Rust — это не про инлайнинг. И вот почему вы расставляете его не там](https://habr.com/ru/companies/beget/articles/1006598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006598)
-- [Как мы построили витрины данных из разрозненных микросервисов](https://habr.com/ru/companies/greenatom/articles/1007324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007324)
-- [Время в BPMN](https://habr.com/ru/companies/haulmont/articles/1007466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007466)
+- [Архитектурный монстр Франкенштейна в Альфа-банке](https://habr.com/ru/companies/alfa/articles/1007374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007374)
+- [Разбор заданий по аналитике или как Яндекс отнял почти 6 часов моей жизни](https://habr.com/ru/articles/1008460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008460)
+- [База данных литературы в Obsidian. Bases vs DB Folder](https://habr.com/ru/articles/1007518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007518)
+- [2026 — год внедрения XLA: почему SLA больше недостаточно](https://habr.com/ru/companies/alp_itsm/articles/1008410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008410)
+- [Project Valhalla: революция в памяти Java](https://habr.com/ru/companies/domclick/articles/1004646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004646)
 <!-- BLOG-POST-LIST:END -->
 
 ---
