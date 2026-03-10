@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы перевели корпоративную 1С с MS SQL на Digital Q.DataBase без переписывания кода](https://habr.com/ru/companies/diasoft_company/articles/1008552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008552)
+- [Медицинский экзоскелет](https://habr.com/ru/articles/1008530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008530)
+- [Книга: «Фундаментальный подход к программной архитектуре. 2-е межд. изд.»](https://habr.com/ru/companies/piter/articles/1007448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007448)
+- [Как стать ML-инженером](https://habr.com/ru/companies/habr_career/articles/1008512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008512)
 - [Как построить карьеру системного аналитика в банке: от junior-анализа до лида](https://habr.com/ru/companies/rshb/articles/1008494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008494)
-- [Современный HTML и CSS. 5 фич, которые уже пора использовать](https://habr.com/ru/companies/ruvds/articles/1006540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006540)
-- [Как я перестал верстать чеки в коде и написал визуальный редактор шаблонов для Flutter](https://habr.com/ru/articles/1008478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008478)
-- [Запустить легко, эксплуатировать сложно: год жизни SOC «Газпром-Медиа Холдинга»](https://habr.com/ru/companies/bastion/articles/1008436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008436)
-- [Архитектурный монстр Франкенштейна](https://habr.com/ru/companies/alfa/articles/1007374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007374)
 <!-- BLOG-POST-LIST:END -->
 
 ---
