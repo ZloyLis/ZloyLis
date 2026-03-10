@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Какая нейросеть лидирует в генерации кода сейчас? ChatGPT vs Gemini vs Claude](https://habr.com/ru/companies/bothub/articles/1008722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008722)
+- [Управляемые блокировки в 1С](https://habr.com/ru/companies/otus/articles/1005778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005778)
 - [Четырёхдневка, Opus 4.6 против Кнута и Cursor внутри JetBrains IDE](https://habr.com/ru/companies/haulmont/articles/1008708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008708)
 - [Security Week 2611: атаки на мобильные устройства в 2025 году](https://habr.com/ru/companies/kaspersky/articles/1008574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008574)
 - [[Перевод] Как C#‑строки и Dapper тихо убивают ваши индексы сервера SQL](https://habr.com/ru/articles/1007740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007740)
-- [[Перевод] Создание процедурной карты шестиугольников при помощи коллапса волновой функции](https://habr.com/ru/articles/1008562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008562)
-- [Как за 22 часа я собрала полноценный UI-прототип корпоративной системы с помощью ИИ](https://habr.com/ru/companies/technokratos/articles/1008644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008644)
 <!-- BLOG-POST-LIST:END -->
 
 ---
