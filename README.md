@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Поколение JSON: цена удобных абстракций и упадок культуры ресурсов](https://habr.com/ru/articles/1007800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007800)
-- [Time-Travel Debugging: почему Ctrl+Z это только начало](https://habr.com/ru/articles/1008222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008222)
-- [Победить дракона: что общего между Data Science и игрой Dungeons &amp;amp; Dragons](https://habr.com/ru/companies/yandex_praktikum/articles/1007134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007134)
-- [Когда curl перестаёт работать: многоуровневый детект ботов и где в этой схеме живёт облачный браузер](https://habr.com/ru/articles/1005068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005068)
-- [AI-агент с долгосрочной памятью: строю личного аналитика с Claude Code](https://habr.com/ru/articles/1007940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007940)
+- [Computer Vision модель в борьбе с галлюцинациями LLM. Оправданный оверинжиниринг?](https://habr.com/ru/articles/1007788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007788)
+- [Понятия способ, случай, действие и его свобода, причина, измерение, предположение и его верность, игра, поведение и ум](https://habr.com/ru/articles/1008420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008420)
+- [#[inline] в Rust — это не про инлайнинг. И вот почему вы расставляете его не там](https://habr.com/ru/companies/beget/articles/1006598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006598)
+- [Как мы построили витрины данных из разрозненных микросервисов](https://habr.com/ru/companies/greenatom/articles/1007324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007324)
+- [Время в BPMN](https://habr.com/ru/companies/haulmont/articles/1007466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007466)
 <!-- BLOG-POST-LIST:END -->
 
 ---
