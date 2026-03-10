@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Конструктор табличных значений, UNNEST&lpar;&rpar;, TABLE&lpar;&rpar;, STRING_SPLIT&lpar;&rpar;, JSON_TABLE&lpar;&rpar; — замена временным таблицам в SQL](https://habr.com/ru/articles/1007836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007836)
+- [Как уместить опыт в одностраничный PDF](https://habr.com/ru/articles/1008348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008348)
 - [Unreal Engine 5.4 + C++ + MacOS Tahoe + Android build = Build Successful](https://habr.com/ru/articles/1008334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008334)
 - [Контракт вместо настроек: чего я жду от OLTP-БД](https://habr.com/ru/articles/1007602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007602)
 - [Как построить DWDM-сеть в России](https://habr.com/ru/articles/1008314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008314)
-- [Системная инженерия в бизнесе: архитектурный подход к построению компании, который корпорации применяют уже 50 лет](https://habr.com/ru/articles/1008278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008278)
-- [IDE понимает ваш код. AI-агент — нет. Это можно исправить](https://habr.com/ru/articles/1008274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008274)
 <!-- BLOG-POST-LIST:END -->
 
 ---
