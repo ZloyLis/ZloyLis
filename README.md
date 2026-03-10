@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Платформа для 50000 приложений: как собрать инфраструктуру и выжить](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/1004584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004584)
-- [AI-продакт и результат: как рождаются продукты, которые приносят деньги](https://habr.com/ru/companies/beeline_cloud/articles/1008580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008580)
-- [Околоенотная грамота, или Как я создавал генератор паролей](https://habr.com/ru/companies/vktech/articles/1006810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006810)
-- [Безвозвратное удаление — самая сложная операция в ЦОД](https://habr.com/ru/articles/1008566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008566)
-- [Как мы перевели корпоративную 1С с MS SQL на Digital Q.DataBase без переписывания кода](https://habr.com/ru/companies/diasoft_company/articles/1008552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008552)
+- [Почему мы запретили нашему агенту работать 24/7](https://habr.com/ru/articles/1008626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008626)
+- [Как реализовать WebSocket на Android и не сойти с ума](https://habr.com/ru/companies/betboom/articles/1007816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007816)
+- [Оркестрация ИИ-агентов в 2026: как 3 агента заменили отдел из 5 человек &lpar;кейс российской компании&rpar;](https://habr.com/ru/articles/1008598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008598)
+- [Advisory locks в PostgreSQL: распределённая блокировка без Redis, которая у вас уже есть](https://habr.com/ru/companies/otus/articles/1004230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004230)
+- [Школьная математика против цифрового бессмертия сайдлоадинга](https://habr.com/ru/articles/1008588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008588)
 <!-- BLOG-POST-LIST:END -->
 
 ---
