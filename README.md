@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Архитектурный монстр Франкенштейна в Альфа-банке](https://habr.com/ru/companies/alfa/articles/1007374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007374)
-- [Разбор заданий по аналитике или как Яндекс отнял почти 6 часов моей жизни](https://habr.com/ru/articles/1008460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008460)
-- [База данных литературы в Obsidian. Bases vs DB Folder](https://habr.com/ru/articles/1007518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007518)
-- [2026 — год внедрения XLA: почему SLA больше недостаточно](https://habr.com/ru/companies/alp_itsm/articles/1008410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008410)
-- [Project Valhalla: революция в памяти Java](https://habr.com/ru/companies/domclick/articles/1004646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004646)
+- [Как построить карьеру системного аналитика в банке: от junior-анализа до лида](https://habr.com/ru/companies/rshb/articles/1008494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008494)
+- [Современный HTML и CSS. 5 фич, которые уже пора использовать](https://habr.com/ru/companies/ruvds/articles/1006540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006540)
+- [Как я перестал верстать чеки в коде и написал визуальный редактор шаблонов для Flutter](https://habr.com/ru/articles/1008478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008478)
+- [Запустить легко, эксплуатировать сложно: год жизни SOC «Газпром-Медиа Холдинга»](https://habr.com/ru/companies/bastion/articles/1008436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008436)
+- [Архитектурный монстр Франкенштейна](https://habr.com/ru/companies/alfa/articles/1007374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007374)
 <!-- BLOG-POST-LIST:END -->
 
 ---
