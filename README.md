@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [АСУТП на молочном заводе и я: 2004 — настоящее время](https://habr.com/ru/articles/1009102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009102)
-- [FinOps на практике: фаза Optimize. Как оптимизировать расходы на облако без ущерба для бизнеса](https://habr.com/ru/companies/finops_ru/articles/1009100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009100)
-- [Как сделать двунаправленный бесконечный скролл в React](https://habr.com/ru/articles/1009096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009096)
-- [Схема Функциональной структуры &lpar;по ГОСТ&rpar;](https://habr.com/ru/articles/1009090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009090)
-- [Почему промышленная робототехника выбирает полную интеграцию ROS2](https://habr.com/ru/articles/1008812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008812)
+- [Как я пытался чинить анимацию в LazyColumn](https://habr.com/ru/companies/tbank/articles/1009014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009014)
+- [Замыкания, декораторы и nonlocal в Python: Путешествие от переменной до элегантного кода](https://habr.com/ru/articles/1009132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009132)
+- [8 лучших календарей для Android с поддержкой русского языка](https://habr.com/ru/companies/leadertask/articles/1009120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009120)
+- [Миграция с Polling на Debezium](https://habr.com/ru/companies/wildberries/articles/1006890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006890)
+- [Domain-Driven Design: полный гайд по моделированию домена в 2026 году](https://habr.com/ru/companies/otus/articles/994158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994158)
 <!-- BLOG-POST-LIST:END -->
 
 ---
