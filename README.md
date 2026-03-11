@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [50 миллионов человек каждый день открывают Duolingo — и до сих пор не могут заказать кофе](https://habr.com/ru/articles/1008996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008996)
 - [[Перевод] Разница между параллельными и распределёнными вычислениями](https://habr.com/ru/companies/spring_aio/articles/1008990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008990)
 - [Как Нейроюрист ищет по миллионам юридических документов с помощью векторного поиска YDB](https://habr.com/ru/companies/yandex/articles/990288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990288)
 - [Повторный вход в акторы в Swift](https://habr.com/ru/companies/otus/articles/1005782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005782)
 - [Написал шахматный движок для 6×6 Crazyhouse — стал #1 на chess.com, а потом меня забанили](https://habr.com/ru/articles/1008978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008978)
-- [О специфике разработки приложений под Smart TV: личный опыт перехода от веба к ТВ](https://habr.com/ru/companies/vk/articles/1008506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008506)
 <!-- BLOG-POST-LIST:END -->
 
 ---
