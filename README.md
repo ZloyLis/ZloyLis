@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Собеседования в Яндекс и ВК &lpar;бэкенд, февраль 2026&rpar; — этапы, задачки, впечатления](https://habr.com/ru/articles/1006022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006022)
+- [[Перевод] Когда кластер решает, что ваш под «лишний»: гид по всем вариантам вытеснения](https://habr.com/ru/companies/flant/articles/993612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993612)
 - [SQL в 2026 для аналитика &lpar;с чего начать, где учиться и что реально нужно знать&rpar;](https://habr.com/ru/articles/1008826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008826)
 - [Цифровая капсула времени на чистом Go: почему для вечности не нужны базы данных и фреймворки](https://habr.com/ru/articles/1008806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008806)
 - [Как я прошел на основу в Школе 21](https://habr.com/ru/articles/1008802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008802)
-- [Как победить перфекционизм и учиться в фоновом режиме](https://habr.com/ru/articles/1008786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008786)
-- [Под капотом Beetroot: как я написал менеджер буфера обмена на Tauri v2 и Rust с установщиком 6 МБ](https://habr.com/ru/articles/1008770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008770)
 <!-- BLOG-POST-LIST:END -->
 
 ---
