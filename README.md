@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Разработчики смотрят не туда: AI меняет саму механику разработки](https://habr.com/ru/articles/1008828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008828)
-- [Собеседования в Яндекс и ВК &lpar;бэкенд, февраль 2026&rpar; — этапы, задачки, впечатления](https://habr.com/ru/articles/1006022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006022)
-- [[Перевод] Когда кластер решает, что ваш под «лишний»: гид по всем вариантам вытеснения](https://habr.com/ru/companies/flant/articles/993612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993612)
-- [SQL в 2026 для аналитика &lpar;с чего начать, где учиться и что реально нужно знать&rpar;](https://habr.com/ru/articles/1008826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008826)
-- [Цифровая капсула времени на чистом Go: почему для вечности не нужны базы данных и фреймворки](https://habr.com/ru/articles/1008806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008806)
+- [Принципы DOD в C++: Часть 2. AoS, SoA. Мнимая панацея для быстродействия](https://habr.com/ru/articles/1005564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005564)
+- [Организуем хаос, часть 2: как аналитику эффективно подготовиться ко встрече по сбору требований с заказчиком](https://habr.com/ru/companies/korus_consulting/articles/1008892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008892)
+- [Разработка через капсулы. Опыт, который нельзя потерять: что такое капсула и зачем она нужна](https://habr.com/ru/articles/1008454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008454)
+- [Сети в Kubernetes: руководство для сетевого инженера](https://habr.com/ru/companies/cloud4y/articles/1008692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008692)
+- [Краеведы на Pastvu годами спорят откуда сделан снимок – вычислил это математически за секунды](https://habr.com/ru/articles/1008816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008816)
 <!-- BLOG-POST-LIST:END -->
 
 ---
