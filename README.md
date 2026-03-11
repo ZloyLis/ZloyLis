@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Принципы DOD в C++: Часть 2. AoS, SoA. Мнимая панацея для быстродействия](https://habr.com/ru/articles/1005564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005564)
-- [Организуем хаос, часть 2: как аналитику эффективно подготовиться ко встрече по сбору требований с заказчиком](https://habr.com/ru/companies/korus_consulting/articles/1008892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008892)
-- [Разработка через капсулы. Опыт, который нельзя потерять: что такое капсула и зачем она нужна](https://habr.com/ru/articles/1008454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008454)
-- [Сети в Kubernetes: руководство для сетевого инженера](https://habr.com/ru/companies/cloud4y/articles/1008692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008692)
-- [Краеведы на Pastvu годами спорят откуда сделан снимок – вычислил это математически за секунды](https://habr.com/ru/articles/1008816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008816)
+- [Строим небоскрёб из LEGO: как вайбкодинг перестал быть игрушкой — мой стек для MVP SaaS сервиса, за который не стыдно](https://habr.com/ru/articles/1000752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000752)
+- [База по архитектуре приложений для начинающих разработчиков ПО](https://habr.com/ru/articles/1008926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008926)
+- [Будущее разработки: как быть впереди рынка, а не догонять его](https://habr.com/ru/companies/yandex_praktikum/articles/1004644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004644)
+- [Защита программ без IF: ретро-анализ библиотеки TViorProtect &lpar;Delphi 7&rpar;](https://habr.com/ru/articles/1008824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008824)
+- [5 фатальных ошибок при работе с Pandas &lpar;и как их избежать&rpar;](https://habr.com/ru/articles/1008910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008910)
 <!-- BLOG-POST-LIST:END -->
 
 ---
