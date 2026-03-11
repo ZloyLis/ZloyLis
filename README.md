@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Шардинг* с равномерным распределением](https://habr.com/ru/articles/1008762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008762)
 - [Почему у нас нет кешей L5?](https://habr.com/ru/articles/1009130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009130)
 - [Как я пытался чинить анимацию в Jetpack Compose LazyColumn](https://habr.com/ru/companies/tbank/articles/1009014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009014)
 - [Замыкания, декораторы и nonlocal в Python: Путешествие от переменной до элегантного кода](https://habr.com/ru/articles/1009132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009132)
 - [8 лучших календарей для Android с поддержкой русского языка](https://habr.com/ru/companies/leadertask/articles/1009120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009120)
-- [Миграция с Polling на Debezium](https://habr.com/ru/companies/wildberries/articles/1006890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006890)
 <!-- BLOG-POST-LIST:END -->
 
 ---
