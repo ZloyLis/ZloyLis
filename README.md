@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Строим небоскрёб из LEGO: как вайбкодинг перестал быть игрушкой — мой стек для MVP SaaS сервиса, за который не стыдно](https://habr.com/ru/articles/1000752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000752)
-- [База по архитектуре приложений для начинающих разработчиков ПО](https://habr.com/ru/articles/1008926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008926)
-- [Будущее разработки: как быть впереди рынка, а не догонять его](https://habr.com/ru/companies/yandex_praktikum/articles/1004644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004644)
-- [Защита программ без IF: ретро-анализ библиотеки TViorProtect &lpar;Delphi 7&rpar;](https://habr.com/ru/articles/1008824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008824)
-- [5 фатальных ошибок при работе с Pandas &lpar;и как их избежать&rpar;](https://habr.com/ru/articles/1008910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008910)
+- [[Перевод] Разница между параллельными и распределёнными вычислениями](https://habr.com/ru/companies/spring_aio/articles/1008990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008990)
+- [Как Нейроюрист ищет по миллионам юридических документов с помощью векторного поиска YDB](https://habr.com/ru/companies/yandex/articles/990288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=990288)
+- [Повторный вход в акторы в Swift](https://habr.com/ru/companies/otus/articles/1005782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005782)
+- [Написал шахматный движок для 6×6 Crazyhouse — стал #1 на chess.com, а потом меня забанили](https://habr.com/ru/articles/1008978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008978)
+- [О специфике разработки приложений под Smart TV: личный опыт перехода от веба к ТВ](https://habr.com/ru/companies/vk/articles/1008506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008506)
 <!-- BLOG-POST-LIST:END -->
 
 ---
