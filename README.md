@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Отсечь змейке хвост: останавливаем разнос базы данных, когда времени на это нет](https://habr.com/ru/companies/avito/articles/1009204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009204)
+- [1 700 коммитов без единой строчки руками: как я построил production-приложение на Elixir силами AI](https://habr.com/ru/articles/1009406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009406)
+- [Anthropic и Open AI поддержали мой open source проект Databasus в рамках поддержки OSS проектов](https://habr.com/ru/articles/1009404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009404)
+- [Проблемы ИТ-архитектуры](https://habr.com/ru/articles/1009402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009402)
 - [Рекап, он же wrapped — что это и делать ли в своём приложении](https://habr.com/ru/companies/alfa/articles/1006562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006562)
-- [5 библиотек, которые помогут улучшить UX в вашем React Native-приложении](https://habr.com/ru/articles/1009370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009370)
-- [Туннелирование трафика: простое решение на Go](https://habr.com/ru/articles/1009328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009328)
-- [ETH Strategy: сравнение двух ИИ-аудитов от ИИ](https://habr.com/ru/articles/1009336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009336)
-- [Книга: «По-моему, неплохо. Конструктивные код-ревью»](https://habr.com/ru/companies/piter/articles/1009012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009012)
 <!-- BLOG-POST-LIST:END -->
 
 ---
