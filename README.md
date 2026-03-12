@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Детекция рейсов карьерных самосвалов методом шаблонной векторизации: архитектура, алгоритмы и инженерный анализ](https://habr.com/ru/articles/1009248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009248)
+- [Свой Remote Desktop за пару вечеров: не написав ни строчки кода](https://habr.com/ru/articles/1009242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009242)
 - [Какую именно технологическую революцию не замечают многие](https://habr.com/ru/articles/1009234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009234)
 - [Персональный ГеоОрганайзер «Места»](https://habr.com/ru/articles/1009226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009226)
 - [Шардинг* с равномерным распределением](https://habr.com/ru/articles/1008762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008762)
-- [Почему у нас нет кешей L5?](https://habr.com/ru/articles/1009130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009130)
-- [Как я пытался чинить анимацию в Jetpack Compose LazyColumn](https://habr.com/ru/companies/tbank/articles/1009014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009014)
 <!-- BLOG-POST-LIST:END -->
 
 ---
