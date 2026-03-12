@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как я уволился с работы, потому что компания не хотела активно внедрять ИИ-технологии](https://habr.com/ru/articles/1009270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009270)
-- [Детекция рейсов карьерных самосвалов методом шаблонной векторизации: архитектура, алгоритмы и инженерный анализ](https://habr.com/ru/articles/1009248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009248)
-- [Свой Remote Desktop за пару вечеров: не написав ни строчки кода](https://habr.com/ru/articles/1009242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009242)
-- [Какую именно технологическую революцию не замечают многие](https://habr.com/ru/articles/1009234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009234)
-- [Персональный ГеоОрганайзер «Места»](https://habr.com/ru/articles/1009226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009226)
+- [Symbiote.js — изоморфные веб-компоненты &lpar;клиент + сервер&rpar;](https://habr.com/ru/articles/1008822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008822)
+- [Информационный шум в IT: как учиться, когда контента слишком много](https://habr.com/ru/companies/ozontech/articles/1007450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007450)
+- [ИИ-ассистенты разработчика в 2025 году: переломный момент в истории разработки программного обеспечения](https://habr.com/ru/companies/sberbank/articles/1008768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008768)
+- [ОДК-СТАР: Engee замещает MATLAB/Simulink](https://habr.com/ru/companies/etmc_exponenta/articles/1008616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008616)
+- [Фильтр Калмана: от простого к сложному](https://habr.com/ru/articles/991860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991860)
 <!-- BLOG-POST-LIST:END -->
 
 ---
