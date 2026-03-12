@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Линейная алгебра для нейросетей: векторы на практике](https://habr.com/ru/articles/1001896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001896)
+- [Мой плохой код — это ваша вина](https://habr.com/ru/companies/timeweb/articles/1007538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007538)
+- [Немезида для хаоса: как мы построили событийную архитектуру для 500+ интеграций](https://habr.com/ru/companies/yandex/articles/1007378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007378)
+- [Frontend Status: свежий дайджест фронтенда и AI — 12.03.2026](https://habr.com/ru/articles/1009296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009296)
 - [Symbiote.js — изоморфные веб-компоненты &lpar;клиент + сервер&rpar;](https://habr.com/ru/articles/1008822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008822)
-- [Информационный шум в IT: как учиться, когда контента слишком много](https://habr.com/ru/companies/ozontech/articles/1007450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007450)
-- [ИИ-ассистенты разработчика в 2025 году: переломный момент в истории разработки программного обеспечения](https://habr.com/ru/companies/sberbank/articles/1008768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008768)
-- [ОДК-СТАР: Engee замещает MATLAB/Simulink](https://habr.com/ru/companies/etmc_exponenta/articles/1008616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008616)
-- [Фильтр Калмана: от простого к сложному](https://habr.com/ru/articles/991860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991860)
 <!-- BLOG-POST-LIST:END -->
 
 ---
