@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Temporal: 9-летний путь к исправлению времени в JavaScript](https://habr.com/ru/articles/1009474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009474)
-- [Генерация коммитов, ручной запуск Skills и быстрые действия в чате: Veai 5.6](https://habr.com/ru/companies/veai/articles/1009426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009426)
-- [Тренажёр по BPMN: дистанционное банковское обслуживание](https://habr.com/ru/articles/1007438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007438)
-- [Блеск и нищета Cluster API Kubernetes](https://habr.com/ru/companies/chislitellab/articles/1009028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009028)
-- [10 причин попробовать Effect TS/Основы Effect TS](https://habr.com/ru/articles/1009458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009458)
+- [Ищи работу правильно — как не ошибиться в важном выборе](https://habr.com/ru/articles/1009526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009526)
+- [Добавили флагманские серверы для AI-тренинга и новые образы в AI-маркетплейс: дайджест февральских новостей Selectel](https://habr.com/ru/companies/selectel/articles/1009492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009492)
+- [Когда код начинают писать машины: что реально изменится в программировании](https://habr.com/ru/articles/1009504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009504)
+- [Как мы оперативно на PostgreSQL переезжали, или Новые грани применения Dapper](https://habr.com/ru/companies/ru_mts/articles/1008680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008680)
+- [От MNIST к Transformer. Часть 3. Умножение тензоров. Пишем Linear Layer](https://habr.com/ru/articles/1008948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008948)
 <!-- BLOG-POST-LIST:END -->
 
 ---
