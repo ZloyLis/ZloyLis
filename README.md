@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разбираемся с ошибкой no empty local buffer available в PostgreSQL 18](https://habr.com/ru/companies/tantor/articles/1009548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009548)
+- [Антипаттерны и best practices карьеры в IT](https://habr.com/ru/articles/1009540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009540)
+- [Ещё один архитектор правил для ИИ-агентов](https://habr.com/ru/articles/1009534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009534)
 - [Ищи работу правильно — как не ошибиться в важном выборе](https://habr.com/ru/articles/1009526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009526)
 - [Добавили флагманские серверы для AI-тренинга и новые образы в AI-маркетплейс: дайджест февральских новостей Selectel](https://habr.com/ru/companies/selectel/articles/1009492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009492)
-- [Когда код начинают писать машины: что реально изменится в программировании](https://habr.com/ru/articles/1009504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009504)
-- [Как мы оперативно на PostgreSQL переезжали, или Новые грани применения Dapper](https://habr.com/ru/companies/ru_mts/articles/1008680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008680)
-- [От MNIST к Transformer. Часть 3. Умножение тензоров. Пишем Linear Layer](https://habr.com/ru/articles/1008948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008948)
 <!-- BLOG-POST-LIST:END -->
 
 ---
