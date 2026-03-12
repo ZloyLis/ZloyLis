@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [75 проектов в IntelliJ IDEA: как я перестал тонуть в Recent Projects и написал свой плагин](https://habr.com/ru/articles/1009602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009602)
 - [Git для новичков: ветки, коммиты и первый pull request](https://habr.com/ru/companies/otus/articles/994162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994162)
 - [[Перевод] Почему они хотят избавиться от инженеров-программистов](https://habr.com/ru/articles/1009570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009570)
 - [Vibe Coding vs Deep Development: Почему я использую ИИ тоннами, но никогда не позволю ему думать за меня](https://habr.com/ru/articles/1009568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009568)
 - [Разбираемся с ошибкой no empty local buffer available в PostgreSQL 18](https://habr.com/ru/companies/tantor/articles/1009548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009548)
-- [Антипаттерны и best practices карьеры в IT](https://habr.com/ru/articles/1009540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009540)
 <!-- BLOG-POST-LIST:END -->
 
 ---
