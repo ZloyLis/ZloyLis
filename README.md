@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я уволился с работы, потому что компания не хотела активно внедрять ИИ-технологии](https://habr.com/ru/articles/1009270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009270)
 - [Детекция рейсов карьерных самосвалов методом шаблонной векторизации: архитектура, алгоритмы и инженерный анализ](https://habr.com/ru/articles/1009248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009248)
 - [Свой Remote Desktop за пару вечеров: не написав ни строчки кода](https://habr.com/ru/articles/1009242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009242)
 - [Какую именно технологическую революцию не замечают многие](https://habr.com/ru/articles/1009234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009234)
 - [Персональный ГеоОрганайзер «Места»](https://habr.com/ru/articles/1009226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009226)
-- [Шардинг* с равномерным распределением](https://habr.com/ru/articles/1008762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008762)
 <!-- BLOG-POST-LIST:END -->
 
 ---
