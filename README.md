@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Отсечь змейке хвост: останавливаем разнос базы данных, когда времени на это нет](https://habr.com/ru/companies/avito/articles/1009204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009204)
-- [1 700 коммитов без единой строчки руками: как я построил production-приложение на Elixir силами AI](https://habr.com/ru/articles/1009406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009406)
-- [Anthropic и Open AI поддержали мой open source проект Databasus в рамках поддержки OSS проектов](https://habr.com/ru/articles/1009404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009404)
-- [Проблемы ИТ-архитектуры](https://habr.com/ru/articles/1009402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009402)
-- [Рекап, он же wrapped — что это и делать ли в своём приложении](https://habr.com/ru/companies/alfa/articles/1006562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006562)
+- [[Перевод] Temporal: 9-летний путь к исправлению времени в JavaScript](https://habr.com/ru/articles/1009474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009474)
+- [Генерация коммитов, ручной запуск Skills и быстрые действия в чате: Veai 5.6](https://habr.com/ru/companies/veai/articles/1009426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009426)
+- [Тренажёр по BPMN: дистанционное банковское обслуживание](https://habr.com/ru/articles/1007438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007438)
+- [Блеск и нищета Cluster API Kubernetes](https://habr.com/ru/companies/chislitellab/articles/1009028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009028)
+- [10 причин попробовать Effect TS/Основы Effect TS](https://habr.com/ru/articles/1009458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009458)
 <!-- BLOG-POST-LIST:END -->
 
 ---
