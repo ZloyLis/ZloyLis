@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Линейная алгебра для нейросетей: векторы на практике](https://habr.com/ru/articles/1001896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001896)
-- [Мой плохой код — это ваша вина](https://habr.com/ru/companies/timeweb/articles/1007538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007538)
-- [Немезида для хаоса: как мы построили событийную архитектуру для 500+ интеграций](https://habr.com/ru/companies/yandex/articles/1007378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007378)
-- [Frontend Status: свежий дайджест фронтенда и AI — 12.03.2026](https://habr.com/ru/articles/1009296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009296)
-- [Symbiote.js — изоморфные веб-компоненты &lpar;клиент + сервер&rpar;](https://habr.com/ru/articles/1008822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008822)
+- [Туннелирование трафика: простое решение на Go](https://habr.com/ru/articles/1009328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009328)
+- [ETH Strategy: сравнение двух ИИ-аудитов от ИИ](https://habr.com/ru/articles/1009336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009336)
+- [Книга: «По-моему, неплохо. Конструктивные код-ревью»](https://habr.com/ru/companies/piter/articles/1009012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009012)
+- [А что на входе? Разбираем структуру данных для AI-агента](https://habr.com/ru/articles/1007056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007056)
+- [Черная магия unsafe в Go: практические примеры и ошибки использования. Часть 1](https://habr.com/ru/companies/oleg-bunin/articles/1006044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006044)
 <!-- BLOG-POST-LIST:END -->
 
 ---
