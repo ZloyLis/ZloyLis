@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Рекап, он же wrapped — что это и делать ли в своём приложении](https://habr.com/ru/companies/alfa/articles/1006562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006562)
+- [5 библиотек, которые помогут улучшить UX в вашем React Native-приложении](https://habr.com/ru/articles/1009370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009370)
 - [Туннелирование трафика: простое решение на Go](https://habr.com/ru/articles/1009328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009328)
 - [ETH Strategy: сравнение двух ИИ-аудитов от ИИ](https://habr.com/ru/articles/1009336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009336)
 - [Книга: «По-моему, неплохо. Конструктивные код-ревью»](https://habr.com/ru/companies/piter/articles/1009012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009012)
-- [А что на входе? Разбираем структуру данных для AI-агента](https://habr.com/ru/articles/1007056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007056)
-- [Черная магия unsafe в Go: практические примеры и ошибки использования. Часть 1](https://habr.com/ru/companies/oleg-bunin/articles/1006044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006044)
 <!-- BLOG-POST-LIST:END -->
 
 ---
