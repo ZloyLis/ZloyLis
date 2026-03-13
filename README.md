@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Никого не повышают за простые решения](https://habr.com/ru/companies/ruvds/articles/1009034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009034)
 - [Что происходит с разработчиками, когда ИИ берёт на себя 80% их работы](https://habr.com/ru/companies/sberbank/articles/1009838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009838)
 - [Удаленная аттестация приложения на macOS &lpar;отсутствует&rpar;: как мы затестили решения и пришли к альтернативной гипотезе](https://habr.com/ru/articles/1009826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009826)
 - [У вас скорее всего не получится сделать статистически обоснованный подбор личных жизненных привычек и БАДов](https://habr.com/ru/articles/1009762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009762)
 - [Почему `SUM&lpar;&rpar; OVER &lpar;ORDER BY ...&rpar;` иногда считает «неправильно»: разбираем оконные фреймы в SQL](https://habr.com/ru/articles/1009552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009552)
-- [У Symbiote.js — серьезные проблемы](https://habr.com/ru/articles/1009550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009550)
 <!-- BLOG-POST-LIST:END -->
 
 ---
