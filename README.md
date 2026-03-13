@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Тайный язык кода, Паскаль и Столяров: мой путь в программировании](https://habr.com/ru/articles/1009966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009966)
 - [Как обнаружить заказной негатив с помощью скриптов](https://habr.com/ru/articles/1010014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010014)
 - [Мой овердофига усложненный Майнкрафт сервер](https://habr.com/ru/articles/1009634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009634)
 - [[Перевод] Как я пишу прибыльные приложения в одиночку &lpar;Идея + Build + Marketing Guide&rpar;](https://habr.com/ru/articles/1010004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010004)
 - [Почему полезны неудачи, или Cекреты успешных патчей в PostgreSQL](https://habr.com/ru/companies/postgrespro/articles/966746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966746)
-- [[Перевод] Перебазирование в Magit](https://habr.com/ru/articles/1008988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008988)
 <!-- BLOG-POST-LIST:END -->
 
 ---
