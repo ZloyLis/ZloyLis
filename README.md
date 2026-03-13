@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как обнаружить заказной негатив с помощью скриптов](https://habr.com/ru/articles/1010014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010014)
+- [Мой овердофига усложненный Майнкрафт сервер](https://habr.com/ru/articles/1009634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009634)
+- [[Перевод] Как я пишу прибыльные приложения в одиночку &lpar;Идея + Build + Marketing Guide&rpar;](https://habr.com/ru/articles/1010004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010004)
 - [Почему полезны неудачи, или Cекреты успешных патчей в PostgreSQL](https://habr.com/ru/companies/postgrespro/articles/966746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966746)
 - [[Перевод] Перебазирование в Magit](https://habr.com/ru/articles/1008988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008988)
-- [Claude Cowork в браузере: 10 сценариев для автоматизации рутины](https://habr.com/ru/articles/1009958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009958)
-- [Java без розовых очков: какие знания отделяют грейды](https://habr.com/ru/companies/ibs/articles/1009952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009952)
-- [[Перевод] Никого не повышают за простые решения](https://habr.com/ru/companies/ruvds/articles/1009034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009034)
 <!-- BLOG-POST-LIST:END -->
 
 ---
