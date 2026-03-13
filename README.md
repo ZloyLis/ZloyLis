@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Цена контекста в агентной разработке: почему bottleneck — не код, а внимание человека](https://habr.com/ru/articles/1008344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008344)
+- [RxJS в Angular: 5 операторов, которые превращают хаос данных в симфонию](https://habr.com/ru/companies/ruvds/articles/1008646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008646)
+- [Эволюция пушей: как мы превратили полезный инструмент в цифровой абьюз и почему гранулярность — наш единственный выход](https://habr.com/ru/articles/1009754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009754)
 - [Как я помогла веб-дизайнеру получить 128 000 рублей за разработанный им сайт, выиграв спор с заказчиком в суде](https://habr.com/ru/articles/1009720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009720)
 - [Март, Jetty и утекшая память](https://habr.com/ru/articles/1009702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009702)
-- [[Перевод] Масштабирование LLM: от одного чипа до ЦОДа. Глава 1. Теоретические основы](https://habr.com/ru/articles/1008206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008206)
-- [Оптимизация PostgreSQL 17: от конфигуратора «Тантор Лабс» до PG_EXPECTO и DeepSeek](https://habr.com/ru/articles/1009690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009690)
-- [OpenCost в Yandex Cloud — расчёт стоимости Kubernetes по ценам Yandex Cloud](https://habr.com/ru/articles/1009678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009678)
 <!-- BLOG-POST-LIST:END -->
 
 ---
