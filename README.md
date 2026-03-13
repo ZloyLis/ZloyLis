@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему полезны неудачи, или Cекреты успешных патчей в PostgreSQL](https://habr.com/ru/companies/postgrespro/articles/966746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=966746)
+- [[Перевод] Перебазирование в Magit](https://habr.com/ru/articles/1008988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008988)
+- [Claude Cowork в браузере: 10 сценариев для автоматизации рутины](https://habr.com/ru/articles/1009958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009958)
+- [Java без розовых очков: какие знания отделяют грейды](https://habr.com/ru/companies/ibs/articles/1009952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009952)
 - [[Перевод] Никого не повышают за простые решения](https://habr.com/ru/companies/ruvds/articles/1009034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009034)
-- [Что происходит с разработчиками, когда ИИ берёт на себя 80% их работы](https://habr.com/ru/companies/sberbank/articles/1009838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009838)
-- [Удаленная аттестация приложения на macOS &lpar;отсутствует&rpar;: как мы затестили решения и пришли к альтернативной гипотезе](https://habr.com/ru/articles/1009826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009826)
-- [У вас скорее всего не получится сделать статистически обоснованный подбор личных жизненных привычек и БАДов](https://habr.com/ru/articles/1009762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009762)
-- [Почему `SUM&lpar;&rpar; OVER &lpar;ORDER BY ...&rpar;` иногда считает «неправильно»: разбираем оконные фреймы в SQL](https://habr.com/ru/articles/1009552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009552)
 <!-- BLOG-POST-LIST:END -->
 
 ---
