@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Оптимизация PostgreSQL 17: от конфигуратора «Тантор Лабс» до PG_EXPECTO и DeepSeek](https://habr.com/ru/articles/1009690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009690)
+- [OpenCost в Yandex Cloud — расчёт стоимости Kubernetes по ценам Yandex Cloud](https://habr.com/ru/articles/1009678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009678)
+- [VRack2 — Кот аристократ в мире локальной автоматизации](https://habr.com/ru/articles/1003080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003080)
+- [Нейросети против открытого кода: Malus автоматизировал легальный обход лицензий](https://habr.com/ru/articles/1009662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009662)
 - [Я написал мессенджер с серверами и голосовыми каналами. Один. Рассказываю зачем и как](https://habr.com/ru/articles/1009658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009658)
-- [Как я интегрировал GigaChat API в свой проект: опыт создания AI-ассистента с голосовым управлением](https://habr.com/ru/articles/1009650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009650)
-- [Как мы управляем арсеналом из 500 тестовых стендов: инфраструктурный опыт hh.ru](https://habr.com/ru/companies/hh/articles/1009596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009596)
-- [[Перевод] Vite 8.0: долгожданный Rolldown](https://habr.com/ru/companies/first/articles/1009646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009646)
-- [SLAY-ASR, или как я перестал волноваться и полюбил тренировать модели](https://habr.com/ru/articles/1009614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009614)
 <!-- BLOG-POST-LIST:END -->
 
 ---
