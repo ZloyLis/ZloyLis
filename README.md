@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Я написал мессенджер с серверами и голосовыми каналами. Один. Рассказываю зачем и как](https://habr.com/ru/articles/1009658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009658)
+- [Как я интегрировал GigaChat API в свой проект: опыт создания AI-ассистента с голосовым управлением](https://habr.com/ru/articles/1009650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009650)
+- [Как мы управляем арсеналом из 500 тестовых стендов: инфраструктурный опыт hh.ru](https://habr.com/ru/companies/hh/articles/1009596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009596)
+- [[Перевод] Vite 8.0: долгожданный Rolldown](https://habr.com/ru/companies/first/articles/1009646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009646)
 - [SLAY-ASR, или как я перестал волноваться и полюбил тренировать модели](https://habr.com/ru/articles/1009614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009614)
-- [Взаимное исключение в Java: от synchronized к Lock](https://habr.com/ru/articles/1009610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009610)
-- [75 проектов в IntelliJ IDEA: как я перестал тонуть в Recent Projects и написал свой плагин](https://habr.com/ru/articles/1009602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009602)
-- [Git для новичков: ветки, коммиты и первый pull request](https://habr.com/ru/companies/otus/articles/994162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=994162)
-- [[Перевод] Почему они хотят избавиться от инженеров-программистов](https://habr.com/ru/articles/1009570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009570)
 <!-- BLOG-POST-LIST:END -->
 
 ---
