@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я помогла веб-дизайнеру получить 128 000 рублей за разработанный им сайт, выиграв спор с заказчиком в суде](https://habr.com/ru/articles/1009720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009720)
+- [Март, Jetty и утекшая память](https://habr.com/ru/articles/1009702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009702)
+- [[Перевод] Масштабирование LLM: от одного чипа до ЦОДа. Глава 1. Теоретические основы](https://habr.com/ru/articles/1008206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008206)
 - [Оптимизация PostgreSQL 17: от конфигуратора «Тантор Лабс» до PG_EXPECTO и DeepSeek](https://habr.com/ru/articles/1009690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009690)
 - [OpenCost в Yandex Cloud — расчёт стоимости Kubernetes по ценам Yandex Cloud](https://habr.com/ru/articles/1009678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009678)
-- [VRack2 — Кот аристократ в мире локальной автоматизации](https://habr.com/ru/articles/1003080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003080)
-- [Нейросети против открытого кода: Malus автоматизировал легальный обход лицензий](https://habr.com/ru/articles/1009662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009662)
-- [Я написал мессенджер с серверами и голосовыми каналами. Один. Рассказываю зачем и как](https://habr.com/ru/articles/1009658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009658)
 <!-- BLOG-POST-LIST:END -->
 
 ---
