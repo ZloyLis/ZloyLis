@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Цена контекста в агентной разработке: почему bottleneck — не код, а внимание человека](https://habr.com/ru/articles/1008344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008344)
-- [RxJS в Angular: 5 операторов, которые превращают хаос данных в симфонию](https://habr.com/ru/companies/ruvds/articles/1008646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008646)
-- [Эволюция пушей: как мы превратили полезный инструмент в цифровой абьюз и почему гранулярность — наш единственный выход](https://habr.com/ru/articles/1009754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009754)
-- [Как я помогла веб-дизайнеру получить 128 000 рублей за разработанный им сайт, выиграв спор с заказчиком в суде](https://habr.com/ru/articles/1009720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009720)
-- [Март, Jetty и утекшая память](https://habr.com/ru/articles/1009702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009702)
+- [Удаленная аттестация приложения на macOS &lpar;отсутствует&rpar;: как мы затестили решения и пришли к альтернативной гипотезе](https://habr.com/ru/articles/1009826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009826)
+- [У вас скорее всего не получится сделать статистически обоснованный подбор личных жизненных привычек и БАДов](https://habr.com/ru/articles/1009762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009762)
+- [Почему `SUM&lpar;&rpar; OVER &lpar;ORDER BY ...&rpar;` иногда считает «неправильно»: разбираем оконные фреймы в SQL](https://habr.com/ru/articles/1009552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009552)
+- [У Symbiote.js — серьезные проблемы](https://habr.com/ru/articles/1009550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009550)
+- [Когда фронтенд перестаёт быть игрушкой: пишем собственный реактивный движок на JavaScript](https://habr.com/ru/articles/1009790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009790)
 <!-- BLOG-POST-LIST:END -->
 
 ---
