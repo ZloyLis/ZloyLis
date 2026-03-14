@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Эд Торп — математический вундеркинд и человек для всех рынков](https://habr.com/ru/articles/1010106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010106)
 - [Эмуляция АСУ ТП: технические решения и практические аспекты реализации](https://habr.com/ru/articles/1010220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010220)
 - [Обзор управления встречами в Yandex Calendar и интеграция с Telemost](https://habr.com/ru/articles/1010232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010232)
 - [От конечных автоматов к биомиметике: детерминированный ИИ больше не нужен](https://habr.com/ru/articles/1010184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010184)
 - [Universität или Fachhochschule: что выбрать для бакалавриата по CS/AI в Германии](https://habr.com/ru/articles/1010176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010176)
-- [Создал антиспам бота онлайн за 30 мин](https://habr.com/ru/articles/1010158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010158)
 <!-- BLOG-POST-LIST:END -->
 
 ---
