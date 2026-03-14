@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Собрал EdTech-платформу за неделю. Разбираю свой workflow по шагам](https://habr.com/ru/articles/1010294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010294)
+- [Python Standard Library для спортивного программирования](https://habr.com/ru/articles/1010290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010290)
+- [Reactive Route — новый роутер для разных фреймворков и реактивных систем в 2 КБ](https://habr.com/ru/articles/1010012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010012)
 - [Эд Торп — математический вундеркинд и человек для всех рынков](https://habr.com/ru/articles/1010106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010106)
 - [Эмуляция АСУ ТП: технические решения и практические аспекты реализации](https://habr.com/ru/articles/1010220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010220)
-- [Обзор управления встречами в Yandex Calendar и интеграция с Telemost](https://habr.com/ru/articles/1010232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010232)
-- [От конечных автоматов к биомиметике: детерминированный ИИ больше не нужен](https://habr.com/ru/articles/1010184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010184)
-- [Universität или Fachhochschule: что выбрать для бакалавриата по CS/AI в Германии](https://habr.com/ru/articles/1010176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010176)
 <!-- BLOG-POST-LIST:END -->
 
 ---
