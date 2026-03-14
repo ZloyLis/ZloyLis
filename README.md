@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создал антиспам бота онлайн за 30 мин](https://habr.com/ru/articles/1010158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010158)
+- [Пишем браузерное расширение для НСПД](https://habr.com/ru/articles/1010154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010154)
 - [DevOps в 2026 году: перспективы профессии и как онлайн-магистратура помогает прокачать нужные рынку навыки](https://habr.com/ru/companies/yandex_praktikum/articles/1009828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009828)
 - [Три попытки, академ и истерика перед собесом: как я поступала в Школу анализа данных Яндекса](https://habr.com/ru/articles/1010094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010094)
 - [Как я пытался сделать идеальный нечёткий поиск &lpar;и почему в итоге пришлось писать 5 уровней скоринга&rpar;](https://habr.com/ru/articles/1010086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010086)
-- [Архитектура вместо синтаксиса: CodeSpeak — язык разработки следующего поколения, использующий силу LLM спецификаций](https://habr.com/ru/articles/1010082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010082)
-- [Как я портировал свою программу с Windows на macOS за один промт в Claude Code, ну почти…](https://habr.com/ru/articles/1007536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007536)
 <!-- BLOG-POST-LIST:END -->
 
 ---
