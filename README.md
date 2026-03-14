@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Архитектура вместо синтаксиса: CodeSpeak — язык разработки следующего поколения, использующий силу LLM спецификаций](https://habr.com/ru/articles/1010082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010082)
+- [Как я портировал свою программу с Windows на macOS за один промт в Claude Code, ну почти…](https://habr.com/ru/articles/1007536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007536)
 - [[Перевод] Как мы подружили однопоточный C++ с многопоточным Rust](https://habr.com/ru/articles/1010062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010062)
 - [Неофициальный Python-клиент для alphaxiv: как мы нашли скрытый API и упаковали его в пакет](https://habr.com/ru/articles/1010046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010046)
 - [Облачные модели Ollama в задачах code review — честное сравнение на примерах](https://habr.com/ru/articles/1010048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010048)
-- [Тайный язык кода, Паскаль и Столяров: мой путь в программировании](https://habr.com/ru/articles/1009966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009966)
-- [Как обнаружить заказной негатив с помощью скриптов](https://habr.com/ru/articles/1010014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010014)
 <!-- BLOG-POST-LIST:END -->
 
 ---
