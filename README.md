@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Три попытки, академ и истерика перед собесом: как я поступала в Школу анализа данных Яндекса](https://habr.com/ru/articles/1010094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010094)
+- [Как я пытался сделать идеальный нечёткий поиск &lpar;и почему в итоге пришлось писать 5 уровней скоринга&rpar;](https://habr.com/ru/articles/1010086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010086)
 - [Архитектура вместо синтаксиса: CodeSpeak — язык разработки следующего поколения, использующий силу LLM спецификаций](https://habr.com/ru/articles/1010082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010082)
 - [Как я портировал свою программу с Windows на macOS за один промт в Claude Code, ну почти…](https://habr.com/ru/articles/1007536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007536)
 - [[Перевод] Как мы подружили однопоточный C++ с многопоточным Rust](https://habr.com/ru/articles/1010062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010062)
-- [Неофициальный Python-клиент для alphaxiv: как мы нашли скрытый API и упаковали его в пакет](https://habr.com/ru/articles/1010046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010046)
-- [Облачные модели Ollama в задачах code review — честное сравнение на примерах](https://habr.com/ru/articles/1010048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010048)
 <!-- BLOG-POST-LIST:END -->
 
 ---
