@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [АСУ ТП для нефтепровода 20 лет спустя. Старые программы в новые контролеры](https://habr.com/ru/articles/1010566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010566)
 - [Как я пришел от architecture as code к живой архитектурной модели](https://habr.com/ru/companies/flowc/articles/1010400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010400)
-- [Как я сделал новостной агрегатор с MCP‑сервером, AI‑чатом и Telegram‑ботом](https://habr.com/ru/articles/1010502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010502)
+- [Дроны над Дубаем и новостной агрегатор: Flask, MCP-сервер, AI-агент и Telegram-бот](https://habr.com/ru/articles/1010502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010502)
 - [re!think it: Как я уместил корпоративный бэкенд в один промпт &lpar;История сборки&rpar;](https://habr.com/ru/articles/1010518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010518)
 - [Google убивает независимый Android. Обращение и 19 аргументов против насильной регистрации разработчиков](https://habr.com/ru/articles/1010504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010504)
-- [Технический директор играет по-взрослому: JavaFX в хобби-проектах](https://habr.com/ru/articles/1008706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008706)
 <!-- BLOG-POST-LIST:END -->
 
 ---
