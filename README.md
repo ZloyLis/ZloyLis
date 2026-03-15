@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Elvis-модификатор доступа в C#](https://habr.com/ru/articles/1008298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008298)
+- [22 протокола мониторинга в PingZen: от пинга до Playwright-сценариев](https://habr.com/ru/articles/1010322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010322)
+- [ProcessEvent на стероидах: сериализуемые вызовы функций в UE5 или как я готовлю материал для статей](https://habr.com/ru/articles/1010256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010256)
 - [Запускаем LLM на AMD RX580: разбор проблем ROCm, Ollama и реальный GPU inference](https://habr.com/ru/articles/1010358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010358)
 - [Вcеуровневый подход и сопоставительное изучение английского языка](https://habr.com/ru/articles/1010330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010330)
-- [Что реально нужно знать в Python начинающему аналитику](https://habr.com/ru/articles/1010316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010316)
-- [Навигация по длинным AI-диалогам: расширение для браузера](https://habr.com/ru/articles/1010312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010312)
-- [Как я за выходные собрала сервис озвучки книг на FastAPI + Edge TTS + Telegram Mini App](https://habr.com/ru/articles/1010306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010306)
 <!-- BLOG-POST-LIST:END -->
 
 ---
