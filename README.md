@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Обесценивание и эксплуатация: к чему пришёл Open Source](https://habr.com/ru/companies/ruvds/articles/1009654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009654)
 - [Мобильная разработка за неделю #623 &lpar;10 — 15 марта&rpar;](https://habr.com/ru/articles/1010380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010380)
 - [Elvis-модификатор доступа в C#](https://habr.com/ru/articles/1008298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008298)
 - [22 протокола мониторинга в PingZen: от пинга до Playwright-сценариев](https://habr.com/ru/articles/1010322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010322)
 - [ProcessEvent на стероидах: сериализуемые вызовы функций в UE5 или как я готовлю материал для статей](https://habr.com/ru/articles/1010256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010256)
-- [Запускаем LLM на AMD RX580: разбор проблем ROCm, Ollama и реальный GPU inference](https://habr.com/ru/articles/1010358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010358)
 <!-- BLOG-POST-LIST:END -->
 
 ---
