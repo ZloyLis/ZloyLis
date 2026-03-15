@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Google убивает независимый Android. Обращение и 19 аргументов против насильной регистрации разработчиков](https://habr.com/ru/articles/1010504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010504)
 - [Технический директор играет по-взрослому: JavaFX в хобби-проектах](https://habr.com/ru/articles/1008706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008706)
 - [Халява уходит из разработки Агентов](https://habr.com/ru/articles/1010236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010236)
 - [Слепое пятно LLM-разработки: контекст за пределами кода](https://habr.com/ru/articles/1010478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010478)
 - [.NET под микроскопом | процессы, метаданные, AOT и GC](https://habr.com/ru/articles/1010474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010474)
-- [Как отменить или откатить коммит в Git командами reset, revert и restore](https://habr.com/ru/companies/amvera/articles/1010466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010466)
 <!-- BLOG-POST-LIST:END -->
 
 ---
