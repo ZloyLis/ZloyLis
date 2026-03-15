@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я пришел от architecture as code к живой архитектурной модели](https://habr.com/ru/companies/flowc/articles/1010400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010400)
+- [Как я сделал новостной агрегатор с MCP‑сервером, AI‑чатом и Telegram‑ботом](https://habr.com/ru/articles/1010502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010502)
 - [re!think it: Как я уместил корпоративный бэкенд в один промпт &lpar;История сборки&rpar;](https://habr.com/ru/articles/1010518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010518)
 - [Google убивает независимый Android. Обращение и 19 аргументов против насильной регистрации разработчиков](https://habr.com/ru/articles/1010504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010504)
 - [Технический директор играет по-взрослому: JavaFX в хобби-проектах](https://habr.com/ru/articles/1008706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008706)
-- [Халява уходит из разработки Агентов](https://habr.com/ru/articles/1010236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010236)
-- [Слепое пятно LLM-разработки: контекст за пределами кода](https://habr.com/ru/articles/1010478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010478)
 <!-- BLOG-POST-LIST:END -->
 
 ---
