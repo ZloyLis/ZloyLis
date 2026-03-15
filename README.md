@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Вcеуровневый подход и сопоставительное изучение английского языка](https://habr.com/ru/articles/1010330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010330)
 - [Что реально нужно знать в Python начинающему аналитику](https://habr.com/ru/articles/1010316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010316)
 - [Навигация по длинным AI-диалогам: расширение для браузера](https://habr.com/ru/articles/1010312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010312)
 - [Как я за выходные собрала сервис озвучки книг на FastAPI + Edge TTS + Telegram Mini App](https://habr.com/ru/articles/1010306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010306)
 - [Собрал EdTech-платформу за неделю. Разбираю свой workflow по шагам](https://habr.com/ru/articles/1010294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010294)
-- [Python Standard Library для спортивного программирования](https://habr.com/ru/articles/1010290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010290)
 <!-- BLOG-POST-LIST:END -->
 
 ---
