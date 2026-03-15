@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как отменить или откатить коммит в Git командами reset, revert и restore](https://habr.com/ru/companies/amvera/articles/1010466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010466)
+- [Хлеб на закваске как управляемый процесс](https://habr.com/ru/companies/yoomoney/articles/1010460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010460)
+- [Прямая трансляция во Flutter через WebCodecs: как пришлось написать свой декодер](https://habr.com/ru/articles/1010458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010458)
 - [Лифт не знает, куда ехать. И это лучший алгоритм, который мы придумали](https://habr.com/ru/articles/1010314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010314)
 - [[Перевод] 8 уровней агентной инженерии](https://habr.com/ru/articles/1010430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010430)
-- [[Перевод] Обесценивание и эксплуатация: к чему пришёл Open Source](https://habr.com/ru/companies/ruvds/articles/1009654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009654)
-- [Мобильная разработка за неделю #623 &lpar;10 — 15 марта&rpar;](https://habr.com/ru/articles/1010380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010380)
-- [Elvis-модификатор доступа в C#](https://habr.com/ru/articles/1008298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008298)
 <!-- BLOG-POST-LIST:END -->
 
 ---
