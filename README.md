@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Raspberry Pi 5 – CEF или WebKit для off-screen рендера?](https://habr.com/ru/articles/1010626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010626)
-- [А давайте переложим данные из unordered_map в unordered_map](https://habr.com/ru/articles/1010588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010588)
-- [Идеальный Open Source проект, что ты такое?](https://habr.com/ru/articles/1010580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010580)
-- [АСУ ТП для нефтепровода 20 лет спустя. Старые программы в новые контролеры](https://habr.com/ru/articles/1010566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010566)
-- [Как я пришел от architecture as code к живой архитектурной модели](https://habr.com/ru/companies/flowc/articles/1010400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010400)
+- [Что такое dataLayer на самом деле: от аналитиков — разработчикам](https://habr.com/ru/articles/1010398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010398)
+- [Вход в QA в 2026 году: как действовать, когда рынок против вас](https://habr.com/ru/articles/978972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978972)
+- [Создание библиотеки на C++. Часть III](https://habr.com/ru/companies/simbirsoft/articles/1009928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009928)
+- [Внедряем Yandex MapKit SDK в SwiftUI приложение. Пишем Demo проект](https://habr.com/ru/articles/1010642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010642)
+- [Несколько мобильных приложений в одном Appium‑проекте: как это можно организовать](https://habr.com/ru/articles/1010216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010216)
 <!-- BLOG-POST-LIST:END -->
 
 ---
