@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Системный подход к Agile: исследование совместимостей Java библиотек [лонг]](https://habr.com/ru/articles/1010714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010714)
-- [Собеседование QA-инженера в 2026: От HR до оффера. Гайд по этапам и вопросам для manual и automation](https://habr.com/ru/articles/1007736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007736)
-- [Пишем декларативный Package.swift: DSL для модульной архитектуры iOS проекта](https://habr.com/ru/articles/1010564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010564)
-- [Как мы сделали автогенерацию контента для риелторов в мобильном приложении](https://habr.com/ru/articles/1010674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010674)
-- [Искусство просить отзывы: как легально поднять рейтинг до 4.9 и не взбесить пользователя](https://habr.com/ru/articles/1009880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009880)
+- [Безумие препроцессора: внедряем do-нотацию для монад из Haskell в C++](https://habr.com/ru/companies/timeweb/articles/1003272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003272)
+- [Почему Кант до сих пор актуален, когда мы говорим о квантовой физике и сознании](https://habr.com/ru/articles/1010762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010762)
+- [Как плохое ТЗ может удвоить стоимость проекта](https://habr.com/ru/companies/otus/articles/1010742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010742)
+- [Топ-8 опенсорс‑инструментов, которые необходимы разработчику в кубере](https://habr.com/ru/companies/pt/articles/1009520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009520)
+- [Запускаем MarkText на FreeBSD](https://habr.com/ru/articles/1010732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010732)
 <!-- BLOG-POST-LIST:END -->
 
 ---
