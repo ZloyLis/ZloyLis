@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Что такое dataLayer на самом деле: от аналитиков — разработчикам](https://habr.com/ru/articles/1010398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010398)
-- [Вход в QA в 2026 году: как действовать, когда рынок против вас](https://habr.com/ru/articles/978972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=978972)
-- [Создание библиотеки на C++. Часть III](https://habr.com/ru/companies/simbirsoft/articles/1009928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009928)
-- [Внедряем Yandex MapKit SDK в SwiftUI приложение. Пишем Demo проект](https://habr.com/ru/articles/1010642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010642)
-- [Несколько мобильных приложений в одном Appium‑проекте: как это можно организовать](https://habr.com/ru/articles/1010216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010216)
+- [Системный подход к Agile: исследование совместимостей Java библиотек [лонг]](https://habr.com/ru/articles/1010714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010714)
+- [Собеседование QA-инженера в 2026: От HR до оффера. Гайд по этапам и вопросам для manual и automation](https://habr.com/ru/articles/1007736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007736)
+- [Пишем декларативный Package.swift: DSL для модульной архитектуры iOS проекта](https://habr.com/ru/articles/1010564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010564)
+- [Как мы сделали автогенерацию контента для риелторов в мобильном приложении](https://habr.com/ru/articles/1010674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010674)
+- [Искусство просить отзывы: как легально поднять рейтинг до 4.9 и не взбесить пользователя](https://habr.com/ru/articles/1009880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009880)
 <!-- BLOG-POST-LIST:END -->
 
 ---
