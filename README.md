@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Raspberry Pi 5 – CEF или WebKit для off-screen рендера?](https://habr.com/ru/articles/1010626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010626)
 - [А давайте переложим данные из unordered_map в unordered_map](https://habr.com/ru/articles/1010588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010588)
 - [Идеальный Open Source проект, что ты такое?](https://habr.com/ru/articles/1010580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010580)
 - [АСУ ТП для нефтепровода 20 лет спустя. Старые программы в новые контролеры](https://habr.com/ru/articles/1010566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010566)
 - [Как я пришел от architecture as code к живой архитектурной модели](https://habr.com/ru/companies/flowc/articles/1010400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010400)
-- [Дроны над Дубаем и новостной агрегатор: Flask, MCP-сервер, AI-агент и Telegram-бот](https://habr.com/ru/articles/1010502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010502)
 <!-- BLOG-POST-LIST:END -->
 
 ---
