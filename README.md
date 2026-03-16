@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Владение и локальность](https://habr.com/ru/articles/1010798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010798)
-- [Ускоряем вставку данных в PostgreSQL](https://habr.com/ru/companies/axiomjdk/articles/1010606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010606)
-- [Eloquent Guard: как ловить N+1 и медленные запросы в Laravel, не зарываясь в vendor](https://habr.com/ru/articles/1010822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010822)
-- [Интересные кейсы про ADR + ИИ](https://habr.com/ru/companies/gram_ax/articles/1010500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010500)
-- [Как мы нашли своё решение для миграции и репликации данных в РСХБ](https://habr.com/ru/companies/rshb/articles/1010760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010760)
+- [[Перевод] Temporal: долгий процесс решения проблемы времени в JavaScript](https://habr.com/ru/companies/ruvds/articles/1009494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009494)
+- [[Перевод] Как писать изолированные интеграционные тесты с Testcontainers](https://habr.com/ru/companies/otus/articles/1010786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010786)
+- [Что больнее OT или CRDT в совместном редактировании? И почему до сих пор нет идеала?](https://habr.com/ru/companies/ncloudtech/articles/1009742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009742)
+- [Вы считаете ИИ-ускорение неправильно, сливая бюджет в трубу, пока 7 из 10 проектов умирают ещё на этапе пилотов](https://habr.com/ru/articles/1010854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010854)
+- [Рекурсивная энергия самореферентной связности: как мы научили видеокарту добывать энергию из структуры](https://habr.com/ru/articles/1010870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010870)
 <!-- BLOG-POST-LIST:END -->
 
 ---
