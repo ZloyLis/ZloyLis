@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Продуктовые метрики: пример расчета на SQL](https://habr.com/ru/articles/1010980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010980)
+- [Architecture As Code &lpar;AaC&rpar;: от рисунка на салфетке к инструменту анализа](https://habr.com/ru/companies/infotecs_tech/articles/1010010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010010)
+- [Хроники Agent Driven Development трансформации .1: улучшаем agent feedback loop](https://habr.com/ru/articles/1010148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010148)
+- [SimpleGen: первый шаг в разработку на SimpleOne с помощью AI](https://habr.com/ru/companies/simpleone/articles/1010918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010918)
 - [Мобильное приложение Ватерпас: DewDrop. Реальная история…](https://habr.com/ru/articles/1010936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010936)
-- [Как зарабатывают на проблемах пользователей?](https://habr.com/ru/articles/1010910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010910)
-- [Как выжать максимум из подписки Google AI: параллельные агенты и кросс-модельный консенсус](https://habr.com/ru/articles/1010880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010880)
-- [Считаем логарифмы в уме](https://habr.com/ru/companies/selectel/articles/1010820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010820)
-- [[Перевод] Изменения в G1/Parallel/Serial GC в JDK 26](https://habr.com/ru/companies/spring_aio/articles/1010904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010904)
 <!-- BLOG-POST-LIST:END -->
 
 ---
