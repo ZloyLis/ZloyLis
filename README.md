@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Temporal: долгий процесс решения проблемы времени в JavaScript](https://habr.com/ru/companies/ruvds/articles/1009494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009494)
-- [[Перевод] Как писать изолированные интеграционные тесты с Testcontainers](https://habr.com/ru/companies/otus/articles/1010786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010786)
-- [Что больнее OT или CRDT в совместном редактировании? И почему до сих пор нет идеала?](https://habr.com/ru/companies/ncloudtech/articles/1009742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009742)
-- [Вы считаете ИИ-ускорение неправильно, сливая бюджет в трубу, пока 7 из 10 проектов умирают ещё на этапе пилотов](https://habr.com/ru/articles/1010854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010854)
-- [Рекурсивная энергия самореферентной связности: как мы научили видеокарту добывать энергию из структуры](https://habr.com/ru/articles/1010870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010870)
+- [Мобильное приложение Ватерпас: DewDrop. Реальная история…](https://habr.com/ru/articles/1010936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010936)
+- [Как зарабатывают на проблемах пользователей?](https://habr.com/ru/articles/1010910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010910)
+- [Как выжать максимум из подписки Google AI: параллельные агенты и кросс-модельный консенсус](https://habr.com/ru/articles/1010880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010880)
+- [Считаем логарифмы в уме](https://habr.com/ru/companies/selectel/articles/1010820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010820)
+- [[Перевод] Изменения в G1/Parallel/Serial GC в JDK 26](https://habr.com/ru/companies/spring_aio/articles/1010904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010904)
 <!-- BLOG-POST-LIST:END -->
 
 ---
