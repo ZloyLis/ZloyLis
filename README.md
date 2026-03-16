@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT 5.4 Pro: обзор, бенчмарки, сравнение](https://habr.com/ru/companies/bothub/articles/1011040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011040)
 - [Разбираем net/http на практике. Часть 2.1: POST, файлы и in-memory хранилище](https://habr.com/ru/articles/1011028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011028)
 - [Введение в высокопроизводительные вычисления на С++ для CPU](https://habr.com/ru/articles/1011014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011014)
 - [Моделирование футбольной зональной опеки: кинематика точки на службе у защитника](https://habr.com/ru/articles/1009584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009584)
 - [Продуктовые метрики: пример расчета на SQL](https://habr.com/ru/articles/1010980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010980)
-- [Architecture As Code &lpar;AaC&rpar;: от рисунка на салфетке к инструменту анализа](https://habr.com/ru/companies/infotecs_tech/articles/1010010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010010)
 <!-- BLOG-POST-LIST:END -->
 
 ---
