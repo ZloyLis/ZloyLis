@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Безумие препроцессора: внедряем do-нотацию для монад из Haskell в C++](https://habr.com/ru/companies/timeweb/articles/1003272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003272)
-- [Почему Кант до сих пор актуален, когда мы говорим о квантовой физике и сознании](https://habr.com/ru/articles/1010762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010762)
-- [Как плохое ТЗ может удвоить стоимость проекта](https://habr.com/ru/companies/otus/articles/1010742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010742)
-- [Топ-8 опенсорс‑инструментов, которые необходимы разработчику в кубере](https://habr.com/ru/companies/pt/articles/1009520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009520)
-- [Запускаем MarkText на FreeBSD](https://habr.com/ru/articles/1010732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010732)
+- [Владение и локальность](https://habr.com/ru/articles/1010798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010798)
+- [Ускоряем вставку данных в PostgreSQL](https://habr.com/ru/companies/axiomjdk/articles/1010606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010606)
+- [Eloquent Guard: как ловить N+1 и медленные запросы в Laravel, не зарываясь в vendor](https://habr.com/ru/articles/1010822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010822)
+- [Интересные кейсы про ADR + ИИ](https://habr.com/ru/companies/gram_ax/articles/1010500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010500)
+- [Как мы нашли своё решение для миграции и репликации данных в РСХБ](https://habr.com/ru/companies/rshb/articles/1010760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010760)
 <!-- BLOG-POST-LIST:END -->
 
 ---
