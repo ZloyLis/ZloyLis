@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Специфические методы шардирования](https://habr.com/ru/articles/1011106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011106)
+- [Почему ИИ выдаёт глупый код — и как это исправить](https://habr.com/ru/articles/1008086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008086)
+- [Множество Мандельброта. Суперсэмплинг 8x8 &lpar;64 прохода&rpar; — впервые в мире](https://habr.com/ru/articles/1010052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010052)
 - [Можно ли торговать, не анализируя рынок? Небольшое исследование](https://habr.com/ru/articles/1010348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010348)
 - [Security Week 2612: ненастоящая уязвимость в архивах ZIP](https://habr.com/ru/companies/kaspersky/articles/1010894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010894)
-- [ChatGPT 5.4 Pro: обзор, бенчмарки, сравнение](https://habr.com/ru/companies/bothub/articles/1011040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011040)
-- [Разбираем net/http на практике. Часть 2.1: POST, файлы и in-memory хранилище](https://habr.com/ru/articles/1011028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011028)
-- [Введение в высокопроизводительные вычисления на С++ для CPU](https://habr.com/ru/articles/1011014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011014)
 <!-- BLOG-POST-LIST:END -->
 
 ---
