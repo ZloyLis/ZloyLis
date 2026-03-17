@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как я делал эконом-вариант датчика качества воздуха для своего Home Assistant и что из этого вышло](https://habr.com/ru/companies/timeweb/articles/1005312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005312)
-- [Разбираем подводные камни, ошибки и лучшие практики при разработке Kubernetes-операторов. Часть 2](https://habr.com/ru/companies/sberbank/articles/1010886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010886)
-- [Разработка DWH для начинающих](https://habr.com/ru/articles/1011294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011294)
-- [Где в IT платят больше всего: топ-3 направления](https://habr.com/ru/companies/habr_career/articles/1011286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011286)
-- [Event Loop для начинающих. Не так страшно, как вам рассказывали](https://habr.com/ru/articles/1011258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011258)
+- [Как я написал Qt-приложение, почти не написав код](https://habr.com/ru/articles/1011420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011420)
+- [Мир ИТ и открытого ПО в 2026-м: в бой идут одни мейнтейнеры](https://habr.com/ru/companies/ru_mts/articles/1011092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011092)
+- [В поиске секретов. iOS Пентест. Часть третья](https://habr.com/ru/companies/technokratos/articles/1011416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011416)
+- [Helm чарты. Проходим тех собеседование используя метод «дворца памяти»](https://habr.com/ru/articles/1011404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011404)
+- [Как заставить Android Studio ругаться на код по вашим правилам: создаем пользовательские Lint и Detekt](https://habr.com/ru/companies/sovcombank_technologies/articles/1005922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005922)
 <!-- BLOG-POST-LIST:END -->
 
 ---
