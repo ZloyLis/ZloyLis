@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Авторизация — это про «изобретать велосипед», возиться с OpenSource, или о чем? Авториза — как сервис-альтернатива](https://habr.com/ru/articles/985274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985274)
-- [Как выбрать систему для управления ИТ-активами: критерии, ошибки и практика 2026](https://habr.com/ru/companies/simpleone/articles/1010902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010902)
-- [Рефлексия в Unreal Engine или как движок знает о вашем коде всё](https://habr.com/ru/articles/1010248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010248)
-- [Почему многие неверно реализуют MVVM или способы создания абстракций](https://habr.com/ru/companies/psb/articles/1010690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010690)
-- [Специфические методы шардирования](https://habr.com/ru/articles/1011106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011106)
+- [«Ну вроде едет». Мой самописный мессенджер готов к публичной порке. Начнём?](https://habr.com/ru/articles/1011194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011194)
+- [Определение фактического профиля нагрузки в PostgreSQL и динамические состояния БД](https://habr.com/ru/companies/vtb/articles/1011188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011188)
+- [Почему наш язык — худший язык для программирования](https://habr.com/ru/articles/1011178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011178)
+- [[Перевод] Почему математики ненавидят фильм «Умница Уилл Хантинг»](https://habr.com/ru/articles/1011078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011078)
+- [Автоматизируем сканирование инфраструктуры: скрипт 3.0 для Сканер-ВС 7](https://habr.com/ru/companies/selectel/articles/1009276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009276)
 <!-- BLOG-POST-LIST:END -->
 
 ---
