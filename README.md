@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Event Loop для начинающих. Не так страшно, как вам рассказывали](https://habr.com/ru/articles/1011258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011258)
+- [Реальность как математическая структура: новые аргументы в пользу гипотезы математической Вселенной](https://habr.com/ru/articles/1011250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011250)
+- [Книга: «Spring Security. 4-е изд.»](https://habr.com/ru/companies/piter/articles/1009816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009816)
 - [Ферма коммуникаций: система принятия решений для UI-промо в мобильном приложении](https://habr.com/ru/companies/vk/articles/1010840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010840)
 - [[Перевод] Две скрученные фигуры разрешают многовековую топологическую загадку](https://habr.com/ru/companies/first/articles/1010700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010700)
-- [Как часто менять телефон: считаю стоимость владения в рублях](https://habr.com/ru/articles/1011198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011198)
-- [Ой, всё упало: 4+ способа достать креш-отчет с iOS-приложения](https://habr.com/ru/articles/1011212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011212)
-- [Дизайн в 2026: скорость без смысла не работает. Взгляд дизайн-лидов крупных брендов](https://habr.com/ru/articles/1011210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011210)
 <!-- BLOG-POST-LIST:END -->
 
 ---
