@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Можно ли торговать, не анализируя рынок? Небольшое исследование](https://habr.com/ru/articles/1010348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010348)
 - [Security Week 2612: ненастоящая уязвимость в архивах ZIP](https://habr.com/ru/companies/kaspersky/articles/1010894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010894)
 - [ChatGPT 5.4 Pro: обзор, бенчмарки, сравнение](https://habr.com/ru/companies/bothub/articles/1011040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011040)
 - [Разбираем net/http на практике. Часть 2.1: POST, файлы и in-memory хранилище](https://habr.com/ru/articles/1011028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011028)
 - [Введение в высокопроизводительные вычисления на С++ для CPU](https://habr.com/ru/articles/1011014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011014)
-- [Моделирование футбольной зональной опеки: кинематика точки на службе у защитника](https://habr.com/ru/articles/1009584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009584)
 <!-- BLOG-POST-LIST:END -->
 
 ---
