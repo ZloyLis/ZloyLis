@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я делал эконом-вариант датчика качества воздуха для своего Home Assistant и что из этого вышло](https://habr.com/ru/companies/timeweb/articles/1005312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005312)
+- [Разбираем подводные камни, ошибки и лучшие практики при разработке Kubernetes-операторов. Часть 2](https://habr.com/ru/companies/sberbank/articles/1010886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010886)
 - [Разработка DWH для начинающих](https://habr.com/ru/articles/1011294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011294)
 - [Где в IT платят больше всего: топ-3 направления](https://habr.com/ru/companies/habr_career/articles/1011286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011286)
 - [Event Loop для начинающих. Не так страшно, как вам рассказывали](https://habr.com/ru/articles/1011258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011258)
-- [Реальность как математическая структура: новые аргументы в пользу гипотезы математической Вселенной](https://habr.com/ru/articles/1011250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011250)
-- [Книга: «Spring Security. 4-е изд.»](https://habr.com/ru/companies/piter/articles/1009816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009816)
 <!-- BLOG-POST-LIST:END -->
 
 ---
