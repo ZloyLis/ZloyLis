@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Интеграция автоматической установки eSIM на Android](https://habr.com/ru/articles/1011526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011526)
 - [Почему JavaScript-функция RegExp.escape&lpar;&rpar; экранирует латинские буквы, пробелы и ухо луны](https://habr.com/ru/articles/982866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982866)
 - [Рецепт пельменей получил офер, а JetBrains выпускает ещё одну IDE](https://habr.com/ru/companies/haulmont/articles/1011468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011468)
 - [Как маскировать персональные данные на изображениях: наш эксперимент с OCR и NER](https://habr.com/ru/companies/redmadrobot/articles/1011450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011450)
 - [Как мы прокачиваем HealthScore для 6000+ витрин и готовим DWH к AI](https://habr.com/ru/companies/avito/articles/1011332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011332)
-- [Laravel 13. Что нового?](https://habr.com/ru/articles/1011426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011426)
 <!-- BLOG-POST-LIST:END -->
 
 ---
