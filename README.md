@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [«Ну вроде едет». Мой самописный мессенджер готов к публичной порке. Начнём?](https://habr.com/ru/articles/1011194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011194)
-- [Определение фактического профиля нагрузки в PostgreSQL и динамические состояния БД](https://habr.com/ru/companies/vtb/articles/1011188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011188)
-- [Почему наш язык — худший язык для программирования](https://habr.com/ru/articles/1011178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011178)
-- [[Перевод] Почему математики ненавидят фильм «Умница Уилл Хантинг»](https://habr.com/ru/articles/1011078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011078)
-- [Автоматизируем сканирование инфраструктуры: скрипт 3.0 для Сканер-ВС 7](https://habr.com/ru/companies/selectel/articles/1009276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009276)
+- [Ферма коммуникаций: система принятия решений для UI-промо в мобильном приложении](https://habr.com/ru/companies/vk/articles/1010840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010840)
+- [[Перевод] Две скрученные фигуры разрешают многовековую топологическую загадку](https://habr.com/ru/companies/first/articles/1010700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010700)
+- [Как часто менять телефон: считаю стоимость владения в рублях](https://habr.com/ru/articles/1011198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011198)
+- [Ой, всё упало: 4+ способа достать креш-отчет с iOS-приложения](https://habr.com/ru/articles/1011212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011212)
+- [Дизайн в 2026: скорость без смысла не работает. Взгляд дизайн-лидов крупных брендов](https://habr.com/ru/articles/1011210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011210)
 <!-- BLOG-POST-LIST:END -->
 
 ---
