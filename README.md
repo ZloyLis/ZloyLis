@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Авторизация — это про «изобретать велосипед», возиться с OpenSource, или о чем? Авториза — как сервис-альтернатива](https://habr.com/ru/articles/985274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=985274)
+- [Как выбрать систему для управления ИТ-активами: критерии, ошибки и практика 2026](https://habr.com/ru/companies/simpleone/articles/1010902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010902)
+- [Рефлексия в Unreal Engine или как движок знает о вашем коде всё](https://habr.com/ru/articles/1010248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010248)
+- [Почему многие неверно реализуют MVVM или способы создания абстракций](https://habr.com/ru/companies/psb/articles/1010690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010690)
 - [Специфические методы шардирования](https://habr.com/ru/articles/1011106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011106)
-- [Почему ИИ выдаёт глупый код — и как это исправить](https://habr.com/ru/articles/1008086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008086)
-- [Множество Мандельброта. Суперсэмплинг 8x8 &lpar;64 прохода&rpar; — впервые в мире](https://habr.com/ru/articles/1010052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010052)
-- [Можно ли торговать, не анализируя рынок? Небольшое исследование](https://habr.com/ru/articles/1010348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010348)
-- [Security Week 2612: ненастоящая уязвимость в архивах ZIP](https://habr.com/ru/companies/kaspersky/articles/1010894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010894)
 <!-- BLOG-POST-LIST:END -->
 
 ---
