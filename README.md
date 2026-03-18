@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [JS — мне сегодня 30 лет](https://habr.com/ru/companies/sberbank/articles/996724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996724)
-- [Как я ускорил Python-скрипт в 42 раза, убрав один незаметный цикл](https://habr.com/ru/articles/1011582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011582)
-- [Множество Мандельброта. Суперсэмплинг 2x2 &lpar;4 прохода&rpar;. DwmFlush — синхронизация с монитором 60 fps](https://habr.com/ru/articles/1011430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011430)
-- [Интеграция автоматической установки eSIM на Android](https://habr.com/ru/articles/1011526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011526)
-- [Почему JavaScript-функция RegExp.escape&lpar;&rpar; экранирует латинские буквы, пробелы и ухо луны](https://habr.com/ru/articles/982866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982866)
+- [Асинхронность в Python для senior interview: от asyncio до выбора правильной реализации под задачу](https://habr.com/ru/articles/1011544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011544)
+- [У нас есть почта дома: настраиваем почтовый сервер Mailu в Kubernetes](https://habr.com/ru/articles/1011636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011636)
+- [Эпические баги: как один Break положил телефонную сеть по всему США в 1990 г](https://habr.com/ru/companies/beget/articles/1009300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009300)
+- [Почему наш язык — лучший язык для программирования &lpar;ответ на манифест из 70-х&rpar;](https://habr.com/ru/articles/1011618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011618)
+- [Сложные вычисления — в минимальном объёме памяти](https://habr.com/ru/companies/ruvds/articles/1011548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011548)
 <!-- BLOG-POST-LIST:END -->
 
 ---
