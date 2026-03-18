@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] 7 уроков от Андерса Хейлсберга: архитектора C# и TypeScript](https://habr.com/ru/articles/1011876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011876)
+- [Flex vs Grid: объяснение разницы на практике](https://habr.com/ru/companies/timeweb/articles/1004986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004986)
 - [[Перевод] Страница на 49 мегабайт](https://habr.com/ru/companies/ruvds/articles/1011026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011026)
 - [DevOps для всех. Как мы запускали внутреннее обучение в MWS для смежных ролей](https://habr.com/ru/companies/ru_mts/articles/1010940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010940)
 - [Расширяем библиотеку топознаков в nanoCAD GeoniCS Топоплан: пошаговое руководство](https://habr.com/ru/companies/nanosoft/articles/1011782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011782)
-- [WebFlux, Virtual Threads и все-все-все](https://habr.com/ru/articles/1011538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011538)
-- [[Перевод] О размерах пула соединений](https://habr.com/ru/companies/spring_aio/articles/1011770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011770)
 <!-- BLOG-POST-LIST:END -->
 
 ---
