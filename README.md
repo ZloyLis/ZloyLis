@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Расширяем библиотеку топознаков в nanoCAD GeoniCS Топоплан: пошаговое руководство](https://habr.com/ru/companies/nanosoft/articles/1011782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011782)
+- [WebFlux, Virtual Threads и все-все-все](https://habr.com/ru/articles/1011538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011538)
 - [[Перевод] О размерах пула соединений](https://habr.com/ru/companies/spring_aio/articles/1011770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011770)
 - [Самый популярный язык программирования — Excel. И он Тьюринг-полный](https://habr.com/ru/articles/1011748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011748)
 - [Пишем Pac-Man на чистом JavaScript: ностальгия, «Пиксели» и туман войны](https://habr.com/ru/companies/ruvds/articles/1009948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009948)
-- [Четыре Kubernetes-платформы в реальных сценариях эксплуатации: за скобками документации](https://habr.com/ru/companies/k2tech/articles/1011288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011288)
-- [Школьное образование в Германии: что о нем нужно знать с точки зрения поступления в университет](https://habr.com/ru/articles/1011084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011084)
 <!-- BLOG-POST-LIST:END -->
 
 ---
