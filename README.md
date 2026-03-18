@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Асинхронность в Python для senior interview: от asyncio до выбора правильной реализации под задачу](https://habr.com/ru/articles/1011544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011544)
-- [У нас есть почта дома: настраиваем почтовый сервер Mailu в Kubernetes](https://habr.com/ru/articles/1011636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011636)
-- [Эпические баги: как один Break положил телефонную сеть по всему США в 1990 г](https://habr.com/ru/companies/beget/articles/1009300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009300)
-- [Почему наш язык — лучший язык для программирования &lpar;ответ на манифест из 70-х&rpar;](https://habr.com/ru/articles/1011618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011618)
-- [Сложные вычисления — в минимальном объёме памяти](https://habr.com/ru/companies/ruvds/articles/1011548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011548)
+- [Туннелирование трафика: простое решение на Go 2](https://habr.com/ru/articles/1011676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011676)
+- [[Перевод] Skills для Claude Code: огромный гайд от инженера Anthropic](https://habr.com/ru/articles/1011524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011524)
+- [Знакомство с командой платформы веб](https://habr.com/ru/companies/ivi/articles/1011654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011654)
+- [Добавляем в бизнес-портал Битрикс24 роботов для автоматизации](https://habr.com/ru/companies/bitrix/articles/1011418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011418)
+- [Зачем разработчику Computer Science — и почему мы добавили её в курсы Практикума](https://habr.com/ru/companies/yandex_praktikum/articles/1005672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005672)
 <!-- BLOG-POST-LIST:END -->
 
 ---
