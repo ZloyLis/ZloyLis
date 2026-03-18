@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пишем Pac-Man на чистом JavaScript: ностальгия, «Пиксели» и туман войны](https://habr.com/ru/companies/ruvds/articles/1009948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009948)
+- [Четыре Kubernetes-платформы в реальных сценариях эксплуатации: за скобками документации](https://habr.com/ru/companies/k2tech/articles/1011288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011288)
+- [Школьное образование в Германии: что о нем нужно знать с точки зрения поступления в университет](https://habr.com/ru/articles/1011084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011084)
+- [Codemod в JavaScript: как менять сотни файлов кода с помощью jscodeshift](https://habr.com/ru/companies/banki/articles/1011580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011580)
 - [Туннелирование трафика: простое решение на Go 2](https://habr.com/ru/articles/1011676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011676)
-- [[Перевод] Skills для Claude Code: огромный гайд от инженера Anthropic](https://habr.com/ru/articles/1011524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011524)
-- [Знакомство с командой платформы веб](https://habr.com/ru/companies/ivi/articles/1011654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011654)
-- [Добавляем в бизнес-портал Битрикс24 роботов для автоматизации](https://habr.com/ru/companies/bitrix/articles/1011418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011418)
-- [Зачем разработчику Computer Science — и почему мы добавили её в курсы Практикума](https://habr.com/ru/companies/yandex_praktikum/articles/1005672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005672)
 <!-- BLOG-POST-LIST:END -->
 
 ---
