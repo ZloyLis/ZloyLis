@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Заповеди нейрохейтера](https://habr.com/ru/articles/1011892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011892)
+- [# 10 ошибок рефакторинга](https://habr.com/ru/articles/1011794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011794)
+- [Нескучное программирование. Обобщения &lpar;ч.2&rpar;](https://habr.com/ru/articles/1011012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011012)
+- [Где я нахожусь: попытка навигации между отсебятиной и авангардом](https://habr.com/ru/articles/1011944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011944)
+- [Почему SAST на правилах не видит 50% уязвимостей: опыт аудита собственной кодовой базы](https://habr.com/ru/articles/1011938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011938)
 - [[Перевод] 7 уроков от Андерса Хейлсберга: архитектора C# и TypeScript](https://habr.com/ru/articles/1011876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011876)
-- [Flex vs Grid: объяснение разницы на практике](https://habr.com/ru/companies/timeweb/articles/1004986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004986)
-- [[Перевод] Страница на 49 мегабайт](https://habr.com/ru/companies/ruvds/articles/1011026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011026)
-- [DevOps для всех. Как мы запускали внутреннее обучение в MWS для смежных ролей](https://habr.com/ru/companies/ru_mts/articles/1010940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010940)
 <!-- BLOG-POST-LIST:END -->
 
 ---
