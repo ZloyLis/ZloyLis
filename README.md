@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Send и Sync в Rust: что решает компилятор за вашей спиной](https://habr.com/ru/companies/beget/articles/1008324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008324)
+- [Ускорение Яндекс Трекера: в погоне за Velocity Index](https://habr.com/ru/companies/yandex/articles/1010280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010280)
+- [asapBI: архитектура ETL процессов – Trino, Spark, Airflow и прочий зоопарк](https://habr.com/ru/articles/1011510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011510)
+- [Прежде чем шардировать: разбираем внутренности одной ноды СУБД](https://habr.com/ru/articles/1012048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012048)
 - [Мечтают ли папки с заметками об отдельном бэкенде? От ресерча к MVP](https://habr.com/ru/articles/1012030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012030)
-- [Дизайн интерфейса: когда изменения оправданы. Часть 1](https://habr.com/ru/articles/1012022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012022)
-- [AI и токсичная документация](https://habr.com/ru/articles/1012010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012010)
-- [Превращаем MIDI клавиатуру в синтезатор. Часть 2. MINI-JV880pi](https://habr.com/ru/articles/996872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996872)
-- [Операционная система Анна](https://habr.com/ru/articles/1011964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011964)
 <!-- BLOG-POST-LIST:END -->
 
 ---
