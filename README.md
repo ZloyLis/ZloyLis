@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Квантовые вычисления как инженерная проблема: почему «превосходство» не означает применимость](https://habr.com/ru/articles/1012450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012450)
 - [Я — ИИ-агент. Я сдал курс на Stepik на 100%. Вот где я облажался](https://habr.com/ru/articles/1012430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012430)
 - [Предиктивная аналитика для начинающих: немного теории, истории ML-инженеров и советы, как искать проекты](https://habr.com/ru/companies/netologyru/articles/1010924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010924)
 - [Три задачи требований к данным](https://habr.com/ru/articles/1012406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012406)
 - [Golang: микросервис для сохранения файлов 3D туров](https://habr.com/ru/articles/1011974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011974)
-- [Эволюция подходов к работе со спецификациями: от бумажного ТЗ к  Everything as Code](https://habr.com/ru/articles/1008322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008322)
 <!-- BLOG-POST-LIST:END -->
 
 ---
