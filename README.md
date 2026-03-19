@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы внедрили бота, чтобы слайды делали сами себя](https://habr.com/ru/companies/avito/articles/1011788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011788)
+- [[Перевод] Почему VACUUM не спасает от раздувания индексов в PostgreSQL](https://habr.com/ru/companies/otus/articles/1012266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012266)
+- [[Перевод] Slug — GPU‑рендеринг шрифтов из кривых Безье лицензирован MIT](https://habr.com/ru/articles/1011786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011786)
 - [MiniMax‑M2.7 теперь доступен через облако Ollama: подробный обзор](https://habr.com/ru/articles/1012342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012342)
 - [1000 объектов, React и Claude: как я сделал интерактивную карту завода не будучи программистом](https://habr.com/ru/articles/1012334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012334)
-- [AI Code Completion: как мы добавили умный фильтр и перестали показывать лишнее](https://habr.com/ru/companies/tbank/articles/1012196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012196)
-- [Я перестал пользоваться Anki и сделал своё приложение для изучения языков](https://habr.com/ru/articles/1012012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012012)
-- [Проверяем навыки DevOps-инженеров. Проверим ваши?](https://habr.com/ru/companies/kts/articles/1009588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009588)
 <!-- BLOG-POST-LIST:END -->
 
 ---
