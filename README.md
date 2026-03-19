@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [От события до дашборда в облаках: практика по созданию потоковой платформы на Kubernetes](https://habr.com/ru/companies/vktech/articles/1010746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010746)
+- [Я перестал пользоваться Anki и сделал своё приложение для изучения языков](https://habr.com/ru/articles/1012012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012012)
+- [Проверяем навыки DevOps-инженеров. Проверим ваши?](https://habr.com/ru/companies/kts/articles/1009588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009588)
+- [Автоматизированное определение величины зерна стали по ASTM E112, ISO 643 и ГОСТ 5639 с использованием OpenCV](https://habr.com/ru/articles/1012280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012280)
+- [От события до дашборда в облаках: практика по созданию потоковой платформы на Kubernetes](https://habr.com/ru/companies/vk/articles/1010746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010746)
 - [Три года в одиночку: как я строил бэкенд-фреймворк поверх Next.js и что из этого вышло](https://habr.com/ru/articles/1011948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011948)
-- [Внедрение ИИ в бизнес: где он реально окупается и как автоматизировать бизнес-процессы](https://habr.com/ru/articles/1012186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012186)
-- [Год назад Claude Code не умел составить план. Сейчас у него миллион токенов и 9 субагентов](https://habr.com/ru/articles/1012184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012184)
-- [Маленький LLM-чат на Python с Ollama и LiteLLM. Часть 1: ставим окружение и пишем первый запрос](https://habr.com/ru/articles/1012182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012182)
 <!-- BLOG-POST-LIST:END -->
 
 ---
