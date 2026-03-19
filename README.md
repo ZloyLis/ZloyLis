@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Три года в одиночку: как я строил бэкенд-фреймворк поверх Next.js и что из этого вышло](https://habr.com/ru/articles/1011948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011948)
 - [Внедрение ИИ в бизнес: где он реально окупается и как автоматизировать бизнес-процессы](https://habr.com/ru/articles/1012186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012186)
 - [Год назад Claude Code не умел составить план. Сейчас у него миллион токенов и 9 субагентов](https://habr.com/ru/articles/1012184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012184)
 - [Маленький LLM-чат на Python с Ollama и LiteLLM. Часть 1: ставим окружение и пишем первый запрос](https://habr.com/ru/articles/1012182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012182)
 - [Закон Конвэя внутри нас: инженерные системы ломаются по тем же причинам, что и люди](https://habr.com/ru/companies/X5Tech/articles/1005562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005562)
-- [Параметризация Pytest: когда файловая коллекция становится тест-кейсами](https://habr.com/ru/companies/infowatch/articles/1012040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012040)
 <!-- BLOG-POST-LIST:END -->
 
 ---
