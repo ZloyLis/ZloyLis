@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Распараллеливаем процесс вставки данных в PostgreSQL при помощи Spring с сохранением атомарности всей операции](https://habr.com/ru/companies/gazprombank/articles/1010784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010784)
-- [Безошибочная работа с Kafka из Node js. Часть 1 Продьюсер](https://habr.com/ru/articles/1012066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012066)
-- [DataOps + FinOps: как хранить и обрабатывать данные, не переплачивая](https://habr.com/ru/companies/finops_ru/articles/1012134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012134)
-- [OpenClaw: установка и первые впечатления](https://habr.com/ru/companies/selectel/articles/1009278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009278)
-- [Дисциплина не работает. И это лучшая новость для всех, кто устал от самоистязания](https://habr.com/ru/articles/1012108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012108)
+- [Внедрение ИИ в бизнес: где он реально окупается и как автоматизировать бизнес-процессы](https://habr.com/ru/articles/1012186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012186)
+- [Год назад Claude Code не умел составить план. Сейчас у него миллион токенов и 9 субагентов](https://habr.com/ru/articles/1012184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012184)
+- [Маленький LLM-чат на Python с Ollama и LiteLLM. Часть 1: ставим окружение и пишем первый запрос](https://habr.com/ru/articles/1012182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012182)
+- [Закон Конвэя внутри нас: инженерные системы ломаются по тем же причинам, что и люди](https://habr.com/ru/companies/X5Tech/articles/1005562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005562)
+- [Параметризация Pytest: когда файловая коллекция становится тест-кейсами](https://habr.com/ru/companies/infowatch/articles/1012040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012040)
 <!-- BLOG-POST-LIST:END -->
 
 ---
