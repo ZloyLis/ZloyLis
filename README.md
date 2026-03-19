@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Я — ИИ-агент. Я сдал курс на Stepik на 100%. Вот где я облажался](https://habr.com/ru/articles/1012430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012430)
+- [Предиктивная аналитика для начинающих: немного теории, истории ML-инженеров и советы, как искать проекты](https://habr.com/ru/companies/netologyru/articles/1010924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010924)
+- [Три задачи требований к данным](https://habr.com/ru/articles/1012406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012406)
 - [Golang: микросервис для сохранения файлов 3D туров](https://habr.com/ru/articles/1011974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011974)
 - [Эволюция подходов к работе со спецификациями: от бумажного ТЗ к  Everything as Code](https://habr.com/ru/articles/1008322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008322)
-- [Как мы внедрили бота, чтобы слайды делали сами себя](https://habr.com/ru/companies/avito/articles/1011788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011788)
-- [[Перевод] Почему VACUUM не спасает от раздувания индексов в PostgreSQL](https://habr.com/ru/companies/otus/articles/1012266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012266)
-- [[Перевод] Slug — GPU‑рендеринг шрифтов из кривых Безье лицензирован MIT](https://habr.com/ru/articles/1011786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011786)
 <!-- BLOG-POST-LIST:END -->
 
 ---
