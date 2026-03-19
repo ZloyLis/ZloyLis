@@ -37,9 +37,9 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [AI и токсичная документация](https://habr.com/ru/articles/1012010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012010)
 - [Превращаем MIDI клавиатуру в синтезатор. Часть 2. MINI-JV880pi](https://habr.com/ru/articles/996872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996872)
+- [Операционная система Анна](https://habr.com/ru/articles/1011964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011964)
 - [# 10 ошибок рефакторинга](https://habr.com/ru/articles/1011794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011794)
 - [Нескучное программирование. Обобщения &lpar;ч.2&rpar;](https://habr.com/ru/articles/1011012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011012)
-- [Где я нахожусь: попытка навигации между отсебятиной и авангардом](https://habr.com/ru/articles/1011944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011944)
 <!-- BLOG-POST-LIST:END -->
 
 ---
