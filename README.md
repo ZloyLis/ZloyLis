@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [MiniMax‑M2.7 теперь доступен через облако Ollama: подробный обзор](https://habr.com/ru/articles/1012342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012342)
+- [1000 объектов, React и Claude: как я сделал интерактивную карту завода не будучи программистом](https://habr.com/ru/articles/1012334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012334)
+- [AI Code Completion: как мы добавили умный фильтр и перестали показывать лишнее](https://habr.com/ru/companies/tbank/articles/1012196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012196)
 - [Я перестал пользоваться Anki и сделал своё приложение для изучения языков](https://habr.com/ru/articles/1012012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012012)
 - [Проверяем навыки DevOps-инженеров. Проверим ваши?](https://habr.com/ru/companies/kts/articles/1009588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009588)
-- [Автоматизированное определение величины зерна стали по ASTM E112, ISO 643 и ГОСТ 5639 с использованием OpenCV](https://habr.com/ru/articles/1012280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012280)
-- [От события до дашборда в облаках: практика по созданию потоковой платформы на Kubernetes](https://habr.com/ru/companies/vk/articles/1010746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010746)
-- [Три года в одиночку: как я строил бэкенд-фреймворк поверх Next.js и что из этого вышло](https://habr.com/ru/articles/1011948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011948)
 <!-- BLOG-POST-LIST:END -->
 
 ---
