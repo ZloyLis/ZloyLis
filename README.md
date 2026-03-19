@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Send и Sync в Rust: что решает компилятор за вашей спиной](https://habr.com/ru/companies/beget/articles/1008324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008324)
-- [Ускорение Яндекс Трекера: в погоне за Velocity Index](https://habr.com/ru/companies/yandex/articles/1010280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010280)
-- [asapBI: архитектура ETL процессов – Trino, Spark, Airflow и прочий зоопарк](https://habr.com/ru/articles/1011510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011510)
-- [Прежде чем шардировать: разбираем внутренности одной ноды СУБД](https://habr.com/ru/articles/1012048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012048)
-- [Мечтают ли папки с заметками об отдельном бэкенде? От ресерча к MVP](https://habr.com/ru/articles/1012030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012030)
+- [Распараллеливаем процесс вставки данных в PostgreSQL при помощи Spring с сохранением атомарности всей операции](https://habr.com/ru/companies/gazprombank/articles/1010784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010784)
+- [Безошибочная работа с Kafka из Node js. Часть 1 Продьюсер](https://habr.com/ru/articles/1012066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012066)
+- [DataOps + FinOps: как хранить и обрабатывать данные, не переплачивая](https://habr.com/ru/companies/finops_ru/articles/1012134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012134)
+- [OpenClaw: установка и первые впечатления](https://habr.com/ru/companies/selectel/articles/1009278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009278)
+- [Дисциплина не работает. И это лучшая новость для всех, кто устал от самоистязания](https://habr.com/ru/articles/1012108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012108)
 <!-- BLOG-POST-LIST:END -->
 
 ---
