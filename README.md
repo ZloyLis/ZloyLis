@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [По чему Kafka недостаточно: гарантированная доставка сообщений в распределённых системах](https://habr.com/ru/articles/1012512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012512)
 - [Можно ли собрать рабочий сайт через ИИ, зная только базовый HTML](https://habr.com/ru/companies/tensor/articles/1012316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012316)
 - [Часть 4: Обучение и валидация модели — 250 эпох, 94.55% точности и борьба с переобучением](https://habr.com/ru/articles/1012042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012042)
 - [Ваша личная ИИ-корпорация: Paperclip сам нанимает ИИ-агентов, распределяет задачи, соблюдает дедлайны и бюджет](https://habr.com/ru/articles/1012490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012490)
 - [Как я избавился от 502 при деплое Next.js: PM2 reload, подводные камни и сравнение с Kubernetes](https://habr.com/ru/articles/1012142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012142)
-- [Квантовые вычисления как инженерная проблема: почему «превосходство» не означает применимость](https://habr.com/ru/articles/1012450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012450)
 <!-- BLOG-POST-LIST:END -->
 
 ---
