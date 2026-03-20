@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обходим российские блокировки и шлем РКН куда подальше](https://habr.com/ru/articles/1012782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012782)
+- [[Перевод] Signal Forms в Angular](https://habr.com/ru/companies/otus/articles/1012734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012734)
+- [[Перевод] Netflix: практическое применение Vector API, которое спасло CPU](https://habr.com/ru/companies/spring_aio/articles/1012732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012732)
+- [Обработка результатов лазерного сканирования в nanoCAD на примерах трубопроводов и тепловой камеры. Опыт «СибИАЦ»](https://habr.com/ru/companies/nanosoft/articles/1012720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012720)
 - [Как не стоит писать функциональные требования для Технического Задания](https://habr.com/ru/articles/1012658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012658)
-- [[Перевод] Как доверить ИИ рефакторинг кода: простой пример на Java](https://habr.com/ru/companies/piter/articles/1012638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012638)
-- [Почему джунов не всегда берут в ИТ и кто будет работать?](https://habr.com/ru/articles/1012420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012420)
-- [Вместо оффера — троян. Как фейковые рекрутеры крадут телефоны и деньги соискателей](https://habr.com/ru/articles/1012408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012408)
-- [ВУЗ, курсы или самоучка: кого на самом деле берут в IT в 2026 году](https://habr.com/ru/articles/1012394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012394)
 <!-- BLOG-POST-LIST:END -->
 
 ---
