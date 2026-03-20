@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Внедрение SEO в цикл разработки SDLC](https://habr.com/ru/articles/1012932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012932)
 - [Я написал кэш для API на Go за 120 строк кода — и PostgreSQL перестал быть узким местом &lpar;ускорение в 7 раз&rpar;](https://habr.com/ru/articles/1012928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012928)
 - [Адаптивная мимикрия: как обмануть DPI, имитируя цифровой след пользователя](https://habr.com/ru/articles/1012926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012926)
 - [Как мы ускорили SQL-запросы: реальные кейсы оптимизации PostgreSQL](https://habr.com/ru/articles/1012922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012922)
 - [Kotlin для новичков: переменные и базовые операции — полный гайд 2026](https://habr.com/ru/companies/otus/articles/1008352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008352)
-- [Сколько на самом деле стоит LOG_INFO&lpar;&rpar;: benchmark библиотек логирования C++](https://habr.com/ru/articles/1012874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012874)
 <!-- BLOG-POST-LIST:END -->
 
 ---
