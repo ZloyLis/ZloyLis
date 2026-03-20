@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сколько на самом деле стоит LOG_INFO&lpar;&rpar;: benchmark библиотек логирования C++](https://habr.com/ru/articles/1012874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012874)
 - [JavaScript без мифов: синтаксический сахар, карьера и рынок — интервью с Дмитрием Колотильщиковым](https://habr.com/ru/articles/1012410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012410)
 - [Я пишу бэкенд на Gleam. Вот что я понял за полгода](https://habr.com/ru/articles/1012802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012802)
 - [Цифра в каске: итоги сезона Heavy Digital на Хабре](https://habr.com/ru/specials/1012788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012788)
 - [Обходим российские блокировки и шлем РКН куда подальше](https://habr.com/ru/articles/1012782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012782)
-- [[Перевод] Signal Forms в Angular](https://habr.com/ru/companies/otus/articles/1012734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012734)
 <!-- BLOG-POST-LIST:END -->
 
 ---
