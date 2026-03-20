@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как не стоит писать функциональные требования для Технического Задания](https://habr.com/ru/articles/1012658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012658)
+- [[Перевод] Как доверить ИИ рефакторинг кода: простой пример на Java](https://habr.com/ru/companies/piter/articles/1012638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012638)
 - [Почему джунов не всегда берут в ИТ и кто будет работать?](https://habr.com/ru/articles/1012420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012420)
 - [Вместо оффера — троян. Как фейковые рекрутеры крадут телефоны и деньги соискателей](https://habr.com/ru/articles/1012408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012408)
 - [ВУЗ, курсы или самоучка: кого на самом деле берут в IT в 2026 году](https://habr.com/ru/articles/1012394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012394)
-- [Как иммерсивные исследования в трейдинге изменили наш взгляд на пользователя и продукт. Опыт БКС Форекс](https://habr.com/ru/companies/bcs_company/articles/1012616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012616)
-- [Автоматическая генерация UI-настроек: от типа данных к готовому интерфейсу](https://habr.com/ru/companies/naumen/articles/1012090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012090)
 <!-- BLOG-POST-LIST:END -->
 
 ---
