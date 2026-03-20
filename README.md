@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Kotlin для новичков: переменные и базовые операции — полный гайд 2026](https://habr.com/ru/companies/otus/articles/1008352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008352)
 - [Сколько на самом деле стоит LOG_INFO&lpar;&rpar;: benchmark библиотек логирования C++](https://habr.com/ru/articles/1012874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012874)
 - [JavaScript без мифов: синтаксический сахар, карьера и рынок — интервью с Дмитрием Колотильщиковым](https://habr.com/ru/articles/1012410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012410)
 - [Я пишу бэкенд на Gleam. Вот что я понял за полгода](https://habr.com/ru/articles/1012802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012802)
 - [Цифра в каске: итоги сезона Heavy Digital на Хабре](https://habr.com/ru/specials/1012788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012788)
-- [Обходим российские блокировки и шлем РКН куда подальше](https://habr.com/ru/articles/1012782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012782)
 <!-- BLOG-POST-LIST:END -->
 
 ---
