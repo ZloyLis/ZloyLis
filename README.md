@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Автогенерация тестов в IDE: как RAG + LLM превращают ручные сценарии в код](https://habr.com/ru/companies/sberbank/articles/1011830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011830)
+- [Когда искать работу? Сезоны найма](https://habr.com/ru/articles/1012578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012578)
 - [[Перевод] Ваш редактор кода сам пишет, сам тестирует и сам деплоит. Так ли это хорошо на самом деле?](https://habr.com/ru/companies/bothub/articles/1012510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012510)
 - [Разбираем net/http на практике. Часть 2.2: Архитектура и безопасность. Внедряем Clean Architecture, хэшируем пароли](https://habr.com/ru/articles/1012470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012470)
 - [ML-пайплайны в Kubernetes: от первой строки кода до автоскейлинга и за его пределами](https://habr.com/ru/companies/cloud_ru/articles/1011810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011810)
-- [PG_EXPECTO и математическая статистика: как метод голосования повышает достоверность рекомендаций ИИ для PostgreSQL](https://habr.com/ru/articles/1012544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012544)
-- [Маленький LLM-чат на Python с Ollama и LiteLLM. Часть 2: делаем консольный чат](https://habr.com/ru/articles/1012506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012506)
 <!-- BLOG-POST-LIST:END -->
 
 ---
