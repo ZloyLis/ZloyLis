@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Автогенерация тестов в IDE: как RAG + LLM превращают ручные сценарии в код](https://habr.com/ru/companies/sberbank/articles/1011830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011830)
-- [Когда искать работу? Сезоны найма](https://habr.com/ru/articles/1012578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012578)
-- [[Перевод] Ваш редактор кода сам пишет, сам тестирует и сам деплоит. Так ли это хорошо на самом деле?](https://habr.com/ru/companies/bothub/articles/1012510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012510)
-- [Разбираем net/http на практике. Часть 2.2: Архитектура и безопасность. Внедряем Clean Architecture, хэшируем пароли](https://habr.com/ru/articles/1012470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012470)
-- [ML-пайплайны в Kubernetes: от первой строки кода до автоскейлинга и за его пределами](https://habr.com/ru/companies/cloud_ru/articles/1011810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011810)
+- [Почему джунов не всегда берут в ИТ и кто будет работать?](https://habr.com/ru/articles/1012420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012420)
+- [Вместо оффера — троян. Как фейковые рекрутеры крадут телефоны и деньги соискателей](https://habr.com/ru/articles/1012408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012408)
+- [ВУЗ, курсы или самоучка: кого на самом деле берут в IT в 2026 году](https://habr.com/ru/articles/1012394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012394)
+- [Как иммерсивные исследования в трейдинге изменили наш взгляд на пользователя и продукт. Опыт БКС Форекс](https://habr.com/ru/companies/bcs_company/articles/1012616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012616)
+- [Автоматическая генерация UI-настроек: от типа данных к готовому интерфейсу](https://habr.com/ru/companies/naumen/articles/1012090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012090)
 <!-- BLOG-POST-LIST:END -->
 
 ---
