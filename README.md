@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript без мифов: синтаксический сахар, карьера и рынок — интервью с Дмитрием Колотильщиковым](https://habr.com/ru/articles/1012410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012410)
+- [Я пишу бэкенд на Gleam. Вот что я понял за полгода](https://habr.com/ru/articles/1012802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012802)
+- [Цифра в каске: итоги сезона Heavy Digital на Хабре](https://habr.com/ru/specials/1012788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012788)
 - [Обходим российские блокировки и шлем РКН куда подальше](https://habr.com/ru/articles/1012782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012782)
 - [[Перевод] Signal Forms в Angular](https://habr.com/ru/companies/otus/articles/1012734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012734)
-- [[Перевод] Netflix: практическое применение Vector API, которое спасло CPU](https://habr.com/ru/companies/spring_aio/articles/1012732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012732)
-- [Обработка результатов лазерного сканирования в nanoCAD на примерах трубопроводов и тепловой камеры. Опыт «СибИАЦ»](https://habr.com/ru/companies/nanosoft/articles/1012720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012720)
-- [Как не стоит писать функциональные требования для Технического Задания](https://habr.com/ru/articles/1012658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012658)
 <!-- BLOG-POST-LIST:END -->
 
 ---
