@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Структуры данных на практике. Глава 7: Хэш-таблицы и конфликты кэша](https://habr.com/ru/articles/1002404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002404)
 - [4 подхода к использованию LLM в разработке](https://habr.com/ru/articles/1012842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012842)
 - [Дизайн-токены: полный гайд по архитектуре и неймингу c примерами и задачками](https://habr.com/ru/articles/1012980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012980)
 - [Конкурсные списки: как публичные СНИЛС и приказы о зачислениях создают риск для персональных данных](https://habr.com/ru/articles/1012954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012954)
 - [Внедрение SEO в цикл разработки SDLC](https://habr.com/ru/articles/1012932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012932)
-- [Я написал кэш для API на Go за 120 строк кода — и PostgreSQL перестал быть узким местом &lpar;ускорение в 7 раз&rpar;](https://habr.com/ru/articles/1012928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012928)
 <!-- BLOG-POST-LIST:END -->
 
 ---
