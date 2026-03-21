@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему программисты стали писать медленный код и это почти никого не волнует](https://habr.com/ru/articles/1013014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013014)
 - [Data, ML, CV и NLP: как освоить актуальные для рынка специальности вместе с фундаментальной базой](https://habr.com/ru/companies/yandex_praktikum/articles/1012866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012866)
 - [[Перевод] Структуры данных на практике. Глава 7: Хэш-таблицы и конфликты кэша](https://habr.com/ru/articles/1002404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002404)
 - [4 подхода к использованию LLM в разработке](https://habr.com/ru/articles/1012842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012842)
 - [Дизайн-токены: полный гайд по архитектуре и неймингу c примерами и задачками](https://habr.com/ru/articles/1012980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012980)
-- [Конкурсные списки: как публичные СНИЛС и приказы о зачислениях создают риск для персональных данных](https://habr.com/ru/articles/1012954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012954)
 <!-- BLOG-POST-LIST:END -->
 
 ---
