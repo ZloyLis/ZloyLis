@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ-агенты и Flutter: как сделать интеграционные тесты частью процесса разработки](https://habr.com/ru/articles/1013156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013156)
 - [Пари века](https://habr.com/ru/articles/1013080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013080)
 - [Доктор Java лечит моторы: от симптомов к диагнозу](https://habr.com/ru/articles/1013118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013118)
 - [Вспоминает что такое CRUD на примере десктопного менеджера на Python](https://habr.com/ru/articles/1013114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013114)
 - [Топ 12 агентов для генерации кода: Cursor, Copilot, Claude Code…](https://habr.com/ru/companies/bothub/articles/1013102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013102)
-- [Локальная LLM для кодинга за 12 минут: LM Studio, Kilo Code и четыре бесплатных облачных варианта](https://habr.com/ru/companies/haulmont/articles/1012626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012626)
 <!-- BLOG-POST-LIST:END -->
 
 ---
