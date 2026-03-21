@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Вспоминает что такое CRUD на примере десктопного менеджера на Python](https://habr.com/ru/articles/1013114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013114)
 - [Топ 12 агентов для генерации кода: Cursor, Copilot, Claude Code…](https://habr.com/ru/companies/bothub/articles/1013102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013102)
 - [Локальная LLM для кодинга за 12 минут: LM Studio, Kilo Code и четыре бесплатных облачных варианта](https://habr.com/ru/companies/haulmont/articles/1012626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012626)
 - [Почему программисты стали писать медленный код и это почти никого не волнует](https://habr.com/ru/articles/1013014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013014)
 - [Data, ML, CV и NLP: как освоить актуальные для рынка специальности вместе с фундаментальной базой](https://habr.com/ru/companies/yandex_praktikum/articles/1012866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012866)
-- [[Перевод] Структуры данных на практике. Глава 7: Хэш-таблицы и конфликты кэша](https://habr.com/ru/articles/1002404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002404)
 <!-- BLOG-POST-LIST:END -->
 
 ---
