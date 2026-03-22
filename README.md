@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Андрей Карпати: с декабря агенты перевернули мою работу, а большинство людей этого даже не заметили](https://habr.com/ru/articles/1013280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013280)
 - [FullSpec для FullStack: фреймворк, который вы всё равно себе напишете](https://habr.com/ru/articles/1013272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013272)
 - [Процессор в вашем компьютере угадывает будущее. И ошибается в 5% случаев](https://habr.com/ru/articles/1013098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013098)
 - [Элементарные свойства элементарных функций с точки зрения современного анализа](https://habr.com/ru/articles/1013252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013252)
 - [[Перевод] Мы переписали наш парсер WASM с Rust на TypeScript — и он ускорился в три раза](https://habr.com/ru/articles/1013058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013058)
-- [Как определить выпуклость многоугольника на C: от геометрии к коду](https://habr.com/ru/articles/1013262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013262)
 <!-- BLOG-POST-LIST:END -->
 
 ---
