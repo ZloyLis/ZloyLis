@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Задача по механике. Решаем разными способами и обобщаем](https://habr.com/ru/articles/1013148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013148)
-- [ИИ-агенты и Flutter: как сделать интеграционные тесты частью процесса разработки](https://habr.com/ru/articles/1013156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013156)
-- [Пари века](https://habr.com/ru/articles/1013080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013080)
-- [Доктор Java лечит моторы: от симптомов к диагнозу](https://habr.com/ru/articles/1013118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013118)
-- [Вспоминает что такое CRUD на примере десктопного менеджера на Python](https://habr.com/ru/articles/1013114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013114)
+- [Развиваем проект: добавляем новые возможности в десктопное приложение](https://habr.com/ru/articles/1013222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013222)
+- [Как за выходные собрать сайт-визитку на чистом HTML/CSS использую нейронки](https://habr.com/ru/articles/1012668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012668)
+- [Проксирование в UI автотестах с mitmproxy](https://habr.com/ru/articles/1013218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013218)
+- [Бродим по лабиринту](https://habr.com/ru/articles/1013192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013192)
+- [По следам конференции PG BootСamp Russia 2026](https://habr.com/ru/articles/1013210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013210)
 <!-- BLOG-POST-LIST:END -->
 
 ---
