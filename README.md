@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Метрика на ключевое событие в MVP без тяжёлой аналитики](https://habr.com/ru/articles/1013258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013258)
-- [Продуктивность начинается не с пиццы. А с устранения очевидного корпоративного идиотизма](https://habr.com/ru/articles/1013236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013236)
-- [OpenAI Codex на двух устройствах: как синхронизировать сессии без боли](https://habr.com/ru/articles/1013224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013224)
-- [Развиваем проект: добавляем новые возможности в десктопное приложение](https://habr.com/ru/articles/1013222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013222)
-- [Как за выходные собрать сайт-визитку на чистом HTML/CSS использую нейронки](https://habr.com/ru/articles/1012668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012668)
+- [FullSpec для FullStack: фреймворк, который вы всё равно себе напишете](https://habr.com/ru/articles/1013272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013272)
+- [Процессор в вашем компьютере угадывает будущее. И ошибается в 5% случаев](https://habr.com/ru/articles/1013098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013098)
+- [Элементарные свойства элементарных функций с точки зрения современного анализа](https://habr.com/ru/articles/1013252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013252)
+- [[Перевод] Мы переписали наш парсер WASM с Rust на TypeScript — и он ускорился в три раза](https://habr.com/ru/articles/1013058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013058)
+- [Как определить выпуклость многоугольника на C: от геометрии к коду](https://habr.com/ru/articles/1013262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013262)
 <!-- BLOG-POST-LIST:END -->
 
 ---
