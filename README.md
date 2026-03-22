@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Он создал “шпионский спутник” из открытых данных. Через день ему написал Palantir](https://habr.com/ru/companies/bothub/articles/1013382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013382)
+- [Аутентификация и авторизация пользователей — неочевидная боль в разработке](https://habr.com/ru/articles/1012812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012812)
 - [Как разговаривать с малознакомыми людьми, гайд](https://habr.com/ru/articles/1013350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013350)
 - [Как я писал сервис авторизации на Rust…](https://habr.com/ru/articles/1013338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013338)
 - [Нативный код в .NET-библиотеке и как его готовить](https://habr.com/ru/articles/1013334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013334)
-- [Как я перестал бояться Claude Code и научил его не ломать мои проекты](https://habr.com/ru/articles/1013330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013330)
-- [Мобильная разработка за неделю #624 &lpar;16 — 22 марта&rpar;](https://habr.com/ru/articles/1013328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013328)
 <!-- BLOG-POST-LIST:END -->
 
 ---
