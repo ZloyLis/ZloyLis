@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я писал сервис авторизации на Rust…](https://habr.com/ru/articles/1013338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013338)
+- [Нативный код в .NET-библиотеке и как его готовить](https://habr.com/ru/articles/1013334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013334)
 - [Как я перестал бояться Claude Code и научил его не ломать мои проекты](https://habr.com/ru/articles/1013330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013330)
 - [Мобильная разработка за неделю #624 &lpar;16 — 22 марта&rpar;](https://habr.com/ru/articles/1013328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013328)
 - [RAG: как Филин Палыч-реранкер навел порядок в цифровом королевстве](https://habr.com/ru/articles/1011992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011992)
-- [Ипотека или вклад?](https://habr.com/ru/articles/1013310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013310)
-- [BP Tracker: считываем давление с тонометра камерой iPhone. Часть 1 — выбор стека и первый экран](https://habr.com/ru/articles/1013308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013308)
 <!-- BLOG-POST-LIST:END -->
 
 ---
