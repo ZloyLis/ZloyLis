@@ -37,7 +37,7 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [Как я собрал statusline для Claude Code с мониторингом VPS за одну сессию](https://habr.com/ru/articles/1013414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013414)
 - [SMS в MikroTik: Читай меня полностью](https://habr.com/ru/articles/1013408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013408)
-- [От слов к числам: как машина узнаёт, о чём текст](https://habr.com/ru/articles/1013404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013404)
+- [От слов к числам: как компьютер узнаёт, о чём текст](https://habr.com/ru/articles/1013404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013404)
 - [Массовая слежка по Bluetooth](https://habr.com/ru/companies/globalsign/articles/1013398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013398)
 - [[Перевод] Он создал “шпионский спутник” из открытых данных. Через день ему написал Palantir](https://habr.com/ru/companies/bothub/articles/1013382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013382)
 <!-- BLOG-POST-LIST:END -->
