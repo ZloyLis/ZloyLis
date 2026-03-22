@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Метрика на ключевое событие в MVP без тяжёлой аналитики](https://habr.com/ru/articles/1013258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013258)
+- [Продуктивность начинается не с пиццы. А с устранения очевидного корпоративного идиотизма](https://habr.com/ru/articles/1013236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013236)
+- [OpenAI Codex на двух устройствах: как синхронизировать сессии без боли](https://habr.com/ru/articles/1013224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013224)
 - [Развиваем проект: добавляем новые возможности в десктопное приложение](https://habr.com/ru/articles/1013222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013222)
 - [Как за выходные собрать сайт-визитку на чистом HTML/CSS использую нейронки](https://habr.com/ru/articles/1012668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012668)
-- [Проксирование в UI автотестах с mitmproxy](https://habr.com/ru/articles/1013218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013218)
-- [Бродим по лабиринту](https://habr.com/ru/articles/1013192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013192)
-- [По следам конференции PG BootСamp Russia 2026](https://habr.com/ru/articles/1013210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013210)
 <!-- BLOG-POST-LIST:END -->
 
 ---
