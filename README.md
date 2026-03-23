@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] В чёрных дырах могут скрываться экзотические простые числа](https://habr.com/ru/articles/1014016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014016)
 - [Вы и я не знаем ни JavaScript ни какой-либо другой язык](https://habr.com/ru/articles/1014012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014012)
 - [Как я сделал Roomify — AI-визуализатор интерьеров на React и Puter](https://habr.com/ru/articles/1014010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014010)
 - [Самостоятельная установка программ на iOS и IpadOS](https://habr.com/ru/articles/1013990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013990)
 - [Микросервисы: как выбрать между синхронной блокировкой и событийной архитектурой?](https://habr.com/ru/companies/otus/articles/1008366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008366)
-- [Как я сделал шифрование поверх MAX, когда приватность стала роскошью](https://habr.com/ru/articles/1013960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013960)
 <!-- BLOG-POST-LIST:END -->
 
 ---
