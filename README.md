@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [СХД, ESXi и LUN ID: теория, практика и немного боли](https://habr.com/ru/companies/jetinfosystems/articles/1013566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013566)
+- [Веб-графика, которая вредит: что разработчики делают не так](https://habr.com/ru/companies/alfa/articles/1012848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012848)
 - [[Перевод] SDLC мертв. AI-агенты его убили](https://habr.com/ru/articles/1013498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013498)
 - [Замена ERP без рисков: почему важен инженерный подход](https://habr.com/ru/companies/haulmont/articles/1009258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009258)
 - [AI-ассистент для алертов: как n8n + LLM](https://habr.com/ru/articles/1011352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011352)
-- [[Перевод] Вас заменит ИИ? Нет. И вот одна причина, которую не получится обойти](https://habr.com/ru/companies/bothub/articles/1013510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013510)
-- [Как 30 лет боли в интеграции привели нас к собственной платформе](https://habr.com/ru/companies/diasoft_company/articles/1009996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009996)
 <!-- BLOG-POST-LIST:END -->
 
 ---
