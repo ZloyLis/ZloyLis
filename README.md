@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Самостоятельная установка программ на iOS и IpadOS](https://habr.com/ru/articles/1013990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013990)
 - [Микросервисы: как выбрать между синхронной блокировкой и событийной архитектурой?](https://habr.com/ru/companies/otus/articles/1008366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008366)
 - [Как я сделал шифрование поверх MAX, когда приватность стала роскошью](https://habr.com/ru/articles/1013960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013960)
 - [Скам в службе доставки магазина DNS &lpar;но это не точно&rpar;](https://habr.com/ru/articles/1013952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013952)
 - [Security Week 2613: уязвимости в дешевых устройствах IP-KVM](https://habr.com/ru/companies/kaspersky/articles/1013722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013722)
-- [Каскадная репликация в BiHA: строим геораспределённые кластеры правильно](https://habr.com/ru/companies/postgrespro/articles/1013938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013938)
 <!-- BLOG-POST-LIST:END -->
 
 ---
