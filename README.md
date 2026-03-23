@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Week 2613: уязвимости в дешевых устройствах IP-KVM](https://habr.com/ru/companies/kaspersky/articles/1013722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013722)
+- [Каскадная репликация в BiHA: строим геораспределённые кластеры правильно](https://habr.com/ru/companies/postgrespro/articles/1013938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013938)
+- [Чистые функции в html шаблонах Angular](https://habr.com/ru/articles/1013922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013922)
+- [[Перевод] Храните данные в мышах](https://habr.com/ru/articles/1013900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013900)
 - [Как с помощью A/B-платформы найти лучшее решение, если вариантов слишком много, чтобы тестировать все?](https://habr.com/ru/companies/ozontech/articles/1012750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012750)
-- [AbortController в Node.js: отмена чего угодно](https://habr.com/ru/companies/otus/articles/1012728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012728)
-- [Как я собрал AI-оркестратор расследования продовых инцидентов на `SKILL.md`, субагентах и API](https://habr.com/ru/articles/1013858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013858)
-- [ИИ съедает джунов, а вместе с ними племенной фонд индустрии](https://habr.com/ru/articles/1013842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013842)
-- [О цифровой доступности: как постигать интернет без визуальных интерфейсов](https://habr.com/ru/companies/ispsystem/articles/1013824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013824)
 <!-- BLOG-POST-LIST:END -->
 
 ---
