@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [iOS network frameworks и HTTP TCP Server внутри приложения](https://habr.com/ru/articles/991366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991366)
-- [Персональная математическая лаборатория: AI-агент + Wolfram Engine + мессенджер на домашнем Mac mini](https://habr.com/ru/articles/1013474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013474)
-- [Как я собрал statusline для Claude Code с мониторингом VPS за одну сессию](https://habr.com/ru/articles/1013414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013414)
-- [SMS в MikroTik: Читай меня полностью](https://habr.com/ru/articles/1013408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013408)
-- [От слов к числам: как компьютер узнаёт, о чём текст](https://habr.com/ru/articles/1013404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013404)
+- [[Перевод] SDLC мертв. AI-агенты его убили](https://habr.com/ru/articles/1013498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013498)
+- [Замена ERP без рисков: почему важен инженерный подход](https://habr.com/ru/companies/haulmont/articles/1009258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009258)
+- [AI-ассистент для алертов: как n8n + LLM](https://habr.com/ru/articles/1011352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011352)
+- [[Перевод] Вас заменит ИИ? Нет. И вот одна причина, которую не получится обойти](https://habr.com/ru/companies/bothub/articles/1013510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013510)
+- [Как 30 лет боли в интеграции привели нас к собственной платформе](https://habr.com/ru/companies/diasoft_company/articles/1009996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009996)
 <!-- BLOG-POST-LIST:END -->
 
 ---
