@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я собрал AI-оркестратор расследования продовых инцидентов на `SKILL.md`, субагентах и API](https://habr.com/ru/articles/1013858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013858)
+- [ИИ съедает джунов, а вместе с ними племенной фонд индустрии](https://habr.com/ru/articles/1013842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013842)
+- [О цифровой доступности: как постигать интернет без визуальных интерфейсов](https://habr.com/ru/companies/ispsystem/articles/1013824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013824)
+- [Модульная система Sass: руководство по @use](https://habr.com/ru/articles/1013818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013818)
 - [[Перевод] Три причины раздувания JavaScript](https://habr.com/ru/articles/1013772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013772)
-- [Как я пытался трудоустроиться в Яндекс в 2026](https://habr.com/ru/articles/1002878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002878)
-- [Когда API недостаточно: асинхронные уведомления в SPA](https://habr.com/ru/articles/1013758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013758)
-- [Capacitor: от веба к мобильным приложениям. Часть 3. OTA обновления в обход сторов](https://habr.com/ru/articles/1013754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013754)
-- [Когда код лучше документации: чат с 1С-конфигурацией вместо ИТС](https://habr.com/ru/companies/1yes/articles/1013742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013742)
 <!-- BLOG-POST-LIST:END -->
 
 ---
