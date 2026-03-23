@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [iOS network frameworks и HTTP TCP Server внутри приложения](https://habr.com/ru/articles/991366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=991366)
 - [Персональная математическая лаборатория: AI-агент + Wolfram Engine + мессенджер на домашнем Mac mini](https://habr.com/ru/articles/1013474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013474)
 - [Как я собрал statusline для Claude Code с мониторингом VPS за одну сессию](https://habr.com/ru/articles/1013414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013414)
 - [SMS в MikroTik: Читай меня полностью](https://habr.com/ru/articles/1013408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013408)
 - [От слов к числам: как компьютер узнаёт, о чём текст](https://habr.com/ru/articles/1013404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013404)
-- [Массовая слежка по Bluetooth](https://habr.com/ru/companies/globalsign/articles/1013398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013398)
 <!-- BLOG-POST-LIST:END -->
 
 ---
