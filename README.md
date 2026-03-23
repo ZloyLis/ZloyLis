@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [AI vs аналитик: кто кого заменит](https://habr.com/ru/companies/garage8/articles/1013596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013596)
+- [RAW — единственный оригинал фотографии. Всё остальное постобработка](https://habr.com/ru/companies/ruvds/articles/1010432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010432)
+- [AI без Python: как исправить документацию и внедрить RAG в JVM-стеке](https://habr.com/ru/companies/raiffeisenbank/articles/1012666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012666)
+- [Как применяют LLM с RAG в экосистеме ML-моделей поддержки Лемана Тех? Кейс](https://habr.com/ru/companies/oleg-bunin/articles/1000554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000554)
 - [СХД, ESXi и LUN ID: теория, практика и немного боли](https://habr.com/ru/companies/jetinfosystems/articles/1013566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013566)
-- [Веб-графика, которая вредит: что разработчики делают не так](https://habr.com/ru/companies/alfa/articles/1012848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012848)
-- [[Перевод] SDLC мертв. AI-агенты его убили](https://habr.com/ru/articles/1013498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013498)
-- [Замена ERP без рисков: почему важен инженерный подход](https://habr.com/ru/companies/haulmont/articles/1009258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009258)
-- [AI-ассистент для алертов: как n8n + LLM](https://habr.com/ru/articles/1011352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011352)
 <!-- BLOG-POST-LIST:END -->
 
 ---
