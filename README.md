@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI vs аналитик: кто кого заменит](https://habr.com/ru/companies/garage8/articles/1013596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013596)
-- [RAW — единственный оригинал фотографии. Всё остальное постобработка](https://habr.com/ru/companies/ruvds/articles/1010432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010432)
-- [AI без Python: как исправить документацию и внедрить RAG в JVM-стеке](https://habr.com/ru/companies/raiffeisenbank/articles/1012666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012666)
-- [Как применяют LLM с RAG в экосистеме ML-моделей поддержки Лемана Тех? Кейс](https://habr.com/ru/companies/oleg-bunin/articles/1000554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1000554)
-- [СХД, ESXi и LUN ID: теория, практика и немного боли](https://habr.com/ru/companies/jetinfosystems/articles/1013566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013566)
+- [Делаем интернет-радио с ИИ за один вечер](https://habr.com/ru/articles/1013708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013708)
+- [Зачем айтишникам английский и где учить язык](https://habr.com/ru/companies/habr_career/articles/1013702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013702)
+- [[Перевод] Flutter Widget Previewer: разработка UI без запуска приложения](https://habr.com/ru/companies/otus/articles/1013696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013696)
+- [Как я превратил Android-смартфоны в распределенную сеть мониторинга &lpar;и спас свои нервы&rpar;](https://habr.com/ru/articles/1013686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013686)
+- [Fame to Flame: как мы за два месяца собрали VK Mini App на 80 000 пользователей и собственный видеостриминг](https://habr.com/ru/companies/doubletapp/articles/1013494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013494)
 <!-- BLOG-POST-LIST:END -->
 
 ---
