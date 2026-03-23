@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Делаем интернет-радио с ИИ за один вечер](https://habr.com/ru/articles/1013708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013708)
-- [Зачем айтишникам английский и где учить язык](https://habr.com/ru/companies/habr_career/articles/1013702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013702)
-- [[Перевод] Flutter Widget Previewer: разработка UI без запуска приложения](https://habr.com/ru/companies/otus/articles/1013696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013696)
-- [Как я превратил Android-смартфоны в распределенную сеть мониторинга &lpar;и спас свои нервы&rpar;](https://habr.com/ru/articles/1013686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013686)
-- [Fame to Flame: как мы за два месяца собрали VK Mini App на 80 000 пользователей и собственный видеостриминг](https://habr.com/ru/companies/doubletapp/articles/1013494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013494)
+- [[Перевод] Три причины раздувания JavaScript](https://habr.com/ru/articles/1013772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013772)
+- [Как я пытался трудоустроиться в Яндекс в 2026](https://habr.com/ru/articles/1002878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1002878)
+- [Когда API недостаточно: асинхронные уведомления в SPA](https://habr.com/ru/articles/1013758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013758)
+- [Capacitor: от веба к мобильным приложениям. Часть 3. OTA обновления в обход сторов](https://habr.com/ru/articles/1013754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013754)
+- [Когда код лучше документации: чат с 1С-конфигурацией вместо ИТС](https://habr.com/ru/companies/1yes/articles/1013742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013742)
 <!-- BLOG-POST-LIST:END -->
 
 ---
