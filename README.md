@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как с помощью A/B-платформы найти лучшее решение, если вариантов слишком много, чтобы тестировать все?](https://habr.com/ru/companies/ozontech/articles/1012750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012750)
+- [AbortController в Node.js: отмена чего угодно](https://habr.com/ru/companies/otus/articles/1012728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012728)
 - [Как я собрал AI-оркестратор расследования продовых инцидентов на `SKILL.md`, субагентах и API](https://habr.com/ru/articles/1013858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013858)
 - [ИИ съедает джунов, а вместе с ними племенной фонд индустрии](https://habr.com/ru/articles/1013842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013842)
 - [О цифровой доступности: как постигать интернет без визуальных интерфейсов](https://habr.com/ru/companies/ispsystem/articles/1013824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013824)
-- [Модульная система Sass: руководство по @use](https://habr.com/ru/articles/1013818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013818)
-- [[Перевод] Три причины раздувания JavaScript](https://habr.com/ru/articles/1013772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013772)
 <!-- BLOG-POST-LIST:END -->
 
 ---
