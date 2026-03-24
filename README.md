@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Применение модели Захмана в проектах внедрения, поддержки и развития ERP-систем](https://habr.com/ru/articles/1014002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014002)
-- [Как аналитики данных используют нейросети для бизнес-пользователей и что такое разговорная аналитика](https://habr.com/ru/companies/yandex_praktikum/articles/1004552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1004552)
-- [Как мы масштабировали ИТ-команду и чуть не потеряли проект](https://habr.com/ru/companies/magnit/articles/1013800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013800)
-- [Переход от классической интеграционной шины к интеграционной платформе нового поколения с ИИ](https://habr.com/ru/companies/mws/articles/995220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995220)
-- [Как мы вычистили англицизмы из платформы: практический разбор русификации под новый закон](https://habr.com/ru/companies/lanit/articles/1010888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010888)
+- [Почему JTBD, Octalysis и теория потребностей не работают по отдельности: системная оценка продукта](https://habr.com/ru/articles/1014142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014142)
+- [Debug‑web: консольный отладчик для прода](https://habr.com/ru/companies/itfb/articles/1011080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011080)
+- [Заменить нельзя оставить: как DataLens мигрировал с Highcharts](https://habr.com/ru/companies/yandex/articles/1013626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013626)
+- [Разработка через капсулы. Капсулы и AI-агенты: как передать опыт разработчика машине](https://habr.com/ru/articles/1014136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014136)
+- [Как Alfa AI помогает с анализом обратной связи кандидатов на вакансии системного аналитика банка](https://habr.com/ru/companies/alfa/articles/1012126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012126)
 <!-- BLOG-POST-LIST:END -->
 
 ---
