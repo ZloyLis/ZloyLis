@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Метод Компонентов – Роскошный максимум инженерии](https://habr.com/ru/articles/1014448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014448)
 - [Развиваем проект: фильтрация, поиск и экспорт данных](https://habr.com/ru/articles/1014408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014408)
 - [Строим перспективу по изображению](https://habr.com/ru/articles/1014374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014374)
 - [BRIN, GIN, B‑Tree: полный гайд по индексам PostgreSQL для highload](https://habr.com/ru/companies/otus/articles/1008372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008372)
 - [[Перевод] Как математика стала такой абстрактной?](https://habr.com/ru/articles/1013920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013920)
-- [Как перестать наступать на грабли в Go: набор рабочих рецептов](https://habr.com/ru/companies/ruvds/articles/1012798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012798)
 <!-- BLOG-POST-LIST:END -->
 
 ---
