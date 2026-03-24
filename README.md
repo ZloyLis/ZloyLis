@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разбираем net/http на практике. Часть 2.3: Динамические маршруты, cookie-аутентификация и управление доступом](https://habr.com/ru/articles/1014000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014000)
+- [6 языков из 6 по ГОСТ Р 71207-2024: как я перестал гадать по двадцати строкам вокруг вызова](https://habr.com/ru/articles/1014046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014046)
 - [Почему вайбкодинг не убьёт нормальную разработку &lpar;взгляд маркетолога&rpar;](https://habr.com/ru/articles/1014034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014034)
 - [Установка Claude AI &lpar;Клод ИИ&rpar; Code на зарубежный VPS для обхода санкций и как купить подписку в России](https://habr.com/ru/companies/paybeam/articles/1013254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013254)
 - [[Перевод] В чёрных дырах могут скрываться экзотические простые числа](https://habr.com/ru/articles/1014016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014016)
-- [Вы и я не знаем ни JavaScript ни какой-либо другой язык](https://habr.com/ru/articles/1014012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014012)
-- [Как я сделал Roomify — AI-визуализатор интерьеров на React и Puter](https://habr.com/ru/articles/1014010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014010)
 <!-- BLOG-POST-LIST:END -->
 
 ---
