@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как перестать наступать на грабли в Go: набор рабочих рецептов](https://habr.com/ru/companies/ruvds/articles/1012798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012798)
+- [Стадии принятия ИИ в разработке: почему команда саботирует его внедрение и что с этим делать](https://habr.com/ru/articles/1013898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013898)
+- [С плохим ИИ-кодом всё ясно, а как добиться хорошего?](https://habr.com/ru/companies/kodik/articles/1014328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014328)
 - [[Перевод] Некоторые мысли о проектировании библиотек &lpar;с примерами на Go&rpar;](https://habr.com/ru/articles/1014318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014318)
 - [Боже, как же я ошибался](https://habr.com/ru/companies/profi_ru/articles/1014282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014282)
-- [Как я перенес консольное приложение в Rust + WASM и выложил на GitLab Pages](https://habr.com/ru/articles/1014026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014026)
-- [Claude Code: маршрут обучения и полезные ресурсы vol.2 &lpar;2026&rpar;](https://habr.com/ru/articles/1014278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014278)
-- [Обзор «Аметум ESB»](https://habr.com/ru/companies/w_code/articles/1014262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014262)
 <!-- BLOG-POST-LIST:END -->
 
 ---
