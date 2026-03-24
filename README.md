@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Stable Diffusion 3.5 medium на Apple M1 16Gb](https://habr.com/ru/articles/1014496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014496)
+- [Пайплайны, bounce-back и cron для ИИ-агентов на одной подписке Google AI](https://habr.com/ru/articles/1014502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014502)
 - [[Перевод] JavaScript считает все данные датами](https://habr.com/ru/articles/1014486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014486)
 - [Проектирование солнечного трекера. Ч.1: нужно ли вообще поворачивать панели за Солнцем?](https://habr.com/ru/articles/1014286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014286)
 - [Spring Boot Actuator: полный гайд по мониторингу в 2026](https://habr.com/ru/companies/otus/articles/1008360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008360)
-- [JMatrixPlatform: как я теперь за 5 минут загружаю данные, на которые другие тратят дни](https://habr.com/ru/articles/1014236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014236)
-- [Просто о циркулянтах и их связи с дискретным преобразованием Фурье](https://habr.com/ru/articles/1014466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014466)
 <!-- BLOG-POST-LIST:END -->
 
 ---
