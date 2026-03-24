@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Каждый чайник — личность. Заметки об интеграциях в Умном доме Сбер](https://habr.com/ru/companies/sberdevices/articles/1013736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013736)
-- [Делаем админку из подручных средств](https://habr.com/ru/companies/ecom_tech/articles/1008228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008228)
-- [Apache AGE под нагрузкой: что происходит, когда графы внутри PostgreSQL начинают по-настоящему тестировать](https://habr.com/ru/companies/postgrespro/articles/1012716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012716)
-- [Почему Роспатент откажет: ошибка, из-за которой вы не запатентуете свою разработку](https://habr.com/ru/articles/1014186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014186)
-- [Почему JTBD, Octalysis и теория потребностей не работают по отдельности: системная оценка продукта](https://habr.com/ru/articles/1014142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014142)
+- [Claude Code: маршрут обучения и полезные ресурсы vol.2 &lpar;2026&rpar;](https://habr.com/ru/articles/1014278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014278)
+- [Обзор «Аметум ESB»](https://habr.com/ru/companies/w_code/articles/1014262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014262)
+- [Производственный календарь в контексте разработки ПО](https://habr.com/ru/articles/1014248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014248)
+- [Как в Авито построили систему мониторинга BGP](https://habr.com/ru/companies/avito/articles/1012780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012780)
+- [От шутки к популярному продукту: история создания ИИ-фоторедактора и кейс победителя VK Dev Grants 2025](https://habr.com/ru/companies/vk/articles/1011864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011864)
 <!-- BLOG-POST-LIST:END -->
 
 ---
