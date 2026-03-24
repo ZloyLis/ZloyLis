@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Каждый чайник — личность. Заметки об интеграциях в Умном доме Сбер](https://habr.com/ru/companies/sberdevices/articles/1013736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013736)
+- [Делаем админку из подручных средств](https://habr.com/ru/companies/ecom_tech/articles/1008228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008228)
+- [Apache AGE под нагрузкой: что происходит, когда графы внутри PostgreSQL начинают по-настоящему тестировать](https://habr.com/ru/companies/postgrespro/articles/1012716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012716)
+- [Почему Роспатент откажет: ошибка, из-за которой вы не запатентуете свою разработку](https://habr.com/ru/articles/1014186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014186)
 - [Почему JTBD, Octalysis и теория потребностей не работают по отдельности: системная оценка продукта](https://habr.com/ru/articles/1014142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014142)
-- [Debug‑web: консольный отладчик для прода](https://habr.com/ru/companies/itfb/articles/1011080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011080)
-- [Заменить нельзя оставить: как DataLens мигрировал с Highcharts](https://habr.com/ru/companies/yandex/articles/1013626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013626)
-- [Разработка через капсулы. Капсулы и AI-агенты: как передать опыт разработчика машине](https://habr.com/ru/articles/1014136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014136)
-- [Как Alfa AI помогает с анализом обратной связи кандидатов на вакансии системного аналитика банка](https://habr.com/ru/companies/alfa/articles/1012126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012126)
 <!-- BLOG-POST-LIST:END -->
 
 ---
