@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мой путь от «обычной работы» в офисе — в продуктовый дизайн](https://habr.com/ru/articles/1014066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014066)
+- [Архитектор-методолог: от Discovery и Delivery к IT-Governance через TOGAF и Change Management](https://habr.com/ru/articles/1013640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013640)
+- [Yet Another генератор статической документации для онтологических моделей данных](https://habr.com/ru/articles/1014020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014020)
 - [Разбираем net/http на практике. Часть 2.3: Динамические маршруты, cookie-аутентификация и управление доступом](https://habr.com/ru/articles/1014000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014000)
 - [6 языков из 6 по ГОСТ Р 71207-2024: как я перестал гадать по двадцати строкам вокруг вызова](https://habr.com/ru/articles/1014046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014046)
-- [Почему вайбкодинг не убьёт нормальную разработку &lpar;взгляд маркетолога&rpar;](https://habr.com/ru/articles/1014034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014034)
-- [Установка Claude AI &lpar;Клод ИИ&rpar; Code на зарубежный VPS для обхода санкций и как купить подписку в России](https://habr.com/ru/companies/paybeam/articles/1013254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013254)
-- [[Перевод] В чёрных дырах могут скрываться экзотические простые числа](https://habr.com/ru/articles/1014016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014016)
 <!-- BLOG-POST-LIST:END -->
 
 ---
