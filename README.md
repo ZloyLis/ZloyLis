@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Некоторые мысли о проектировании библиотек &lpar;с примерами на Go&rpar;](https://habr.com/ru/articles/1014318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014318)
+- [Боже, как же я ошибался](https://habr.com/ru/companies/profi_ru/articles/1014282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014282)
+- [Как я перенес консольное приложение в Rust + WASM и выложил на GitLab Pages](https://habr.com/ru/articles/1014026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014026)
 - [Claude Code: маршрут обучения и полезные ресурсы vol.2 &lpar;2026&rpar;](https://habr.com/ru/articles/1014278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014278)
 - [Обзор «Аметум ESB»](https://habr.com/ru/companies/w_code/articles/1014262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014262)
-- [Производственный календарь в контексте разработки ПО](https://habr.com/ru/articles/1014248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014248)
-- [Как в Авито построили систему мониторинга BGP](https://habr.com/ru/companies/avito/articles/1012780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012780)
-- [От шутки к популярному продукту: история создания ИИ-фоторедактора и кейс победителя VK Dev Grants 2025](https://habr.com/ru/companies/vk/articles/1011864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011864)
 <!-- BLOG-POST-LIST:END -->
 
 ---
