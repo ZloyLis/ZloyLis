@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как работают события аналитики и кто их придумывает](https://habr.com/ru/articles/964458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964458)
 - [Voters в Symfony](https://habr.com/ru/companies/otus/articles/1013732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013732)
 - [От костылей к биекции: как я писал генератор судоку на JS](https://habr.com/ru/articles/1014522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014522)
 - [Векторный поиск в PostgreSQL: pgvector, pgvectorscale или VectorChord?](https://habr.com/ru/articles/1014516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014516)
 - [Stable Diffusion 3.5 medium на Apple M1 16Gb](https://habr.com/ru/articles/1014496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014496)
-- [Пайплайны, bounce-back и cron для ИИ-агентов на одной подписке Google AI](https://habr.com/ru/articles/1014502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014502)
 <!-- BLOG-POST-LIST:END -->
 
 ---
