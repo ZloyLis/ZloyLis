@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Множественная регрессия: Расширяем горизонты прогнозирования](https://habr.com/ru/articles/1015102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015102)
+- [FE-разработчики, перестаньте буквально воспринимать дизайн](https://habr.com/ru/articles/1015100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015100)
 - [Как настроить сериализацию Kotlin Any с поддержкой Parcelable и Serializable в Android](https://habr.com/ru/companies/alfa/articles/1013158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013158)
 - [Гайд по Git для начинающих: основные команды, работа с ветками и типичные ошибки](https://habr.com/ru/companies/netologyru/articles/1012264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012264)
 - [[Перевод] Что происходит с подписочной моделью в приложениях: уроки, тренды и ориентиры на 2026 год](https://habr.com/ru/articles/1015000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015000)
-- [Автоматизация создания тестов: связка NotebookLM + Gemini + Google Apps Script](https://habr.com/ru/articles/1014564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014564)
-- [CodeClone 2.0.0b1: когда детектора клонов уже мало](https://habr.com/ru/articles/1014978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014978)
 <!-- BLOG-POST-LIST:END -->
 
 ---
