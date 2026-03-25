@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как я построил «аниме-завод»: систему, которая сама превращает эпизоды в YouTube Shorts](https://habr.com/ru/articles/1014810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014810)
-- [Мониторинг LTE модемов: Из dBm и палок](https://habr.com/ru/articles/1014040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014040)
-- [Релиз Java 26, Xiaomi в топе и сертификация вайбкодеров](https://habr.com/ru/companies/haulmont/articles/1014802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014802)
-- [[Перевод] Почему вещественные числа такие странные](https://habr.com/ru/articles/1014764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014764)
-- [Ursina 3D-игры. Определение расстояния между двумя объектами](https://habr.com/ru/articles/1014780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014780)
+- [Почему все хотят автоматические релизы и кому они на самом деле нужны](https://habr.com/ru/companies/tbank/articles/1014122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014122)
+- [Как не дать knowledge base устареть](https://habr.com/ru/articles/1014868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014868)
+- [[Перевод] Вайбкодинг есть, а вайбрезультатов нет?](https://habr.com/ru/articles/1014858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014858)
+- [Как построить прогноз, которому верит бизнес: от Excel до нейросетей за полгода](https://habr.com/ru/articles/1014852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014852)
+- [5 ошибок при разработке продукта с LLM под капотом – разбор реальных болей живого проекта](https://habr.com/ru/companies/reksoft/articles/1014796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014796)
 <!-- BLOG-POST-LIST:END -->
 
 ---
