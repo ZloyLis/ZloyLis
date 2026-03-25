@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [AsmX G4 Raptor: Как мы сделали ассемблер нативным токеном и избавились от боли inline asm](https://habr.com/ru/articles/1014674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014674)
-- [AI дизайн вышел на новый уровень](https://habr.com/ru/articles/1014666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014666)
-- [Go и искусство ставить подножку разработчику: разоблачение](https://habr.com/ru/articles/1014664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014664)
-- [Психофизиологические механизмы усвоения информации, почему-то не учитывающиеся в методиках изучения английского языка](https://habr.com/ru/articles/1014650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014650)
-- [Поиск в коллекциях или когда O&lpar;N&rpar; быстрее O&lpar;1&rpar;](https://habr.com/ru/companies/skbkontur/articles/1012968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012968)
+- [Vibe-design в 2026LLM агент во Fuion360 шестеренками крутил](https://habr.com/ru/articles/1014736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014736)
+- [C3D PolyShaper: современные возможности и перспективы развития](https://habr.com/ru/companies/ascon/articles/1014720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014720)
+- [Что не так с веб-компонентами?](https://habr.com/ru/articles/1014708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014708)
+- [Логи: всё, что нужно знать тестировщику](https://habr.com/ru/articles/1014648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014648)
+- [PostgreSQL: транзакции, блокировки и почему Serializable падает](https://habr.com/ru/articles/1011996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011996)
 <!-- BLOG-POST-LIST:END -->
 
 ---
