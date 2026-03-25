@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Widgetbook: мост между сore командой, дизайнерами и продуктовыми командами](https://habr.com/ru/companies/rshb/articles/1012706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012706)
-- [Джуниор системный аналитик в 2026: ожидания рынка, поиск работы и первые задачи](https://habr.com/ru/companies/yandex_praktikum/articles/1011402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011402)
-- [Ребрендинг глазами разработчика: как мы переходили к единому кластеру «КИОН»](https://habr.com/ru/companies/ru_mts/articles/1009168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009168)
-- [Можно и не клонировать: зачем GitVerse сделал новый веб-редактор кода](https://habr.com/ru/companies/sberbank/articles/1009372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009372)
-- [Иностранные слова в брендинге и интерфейсах IT- компании. Что изменилось с 1 марта 2026](https://habr.com/ru/articles/1014598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014598)
+- [AsmX G4 Raptor: Как мы сделали ассемблер нативным токеном и избавились от боли inline asm](https://habr.com/ru/articles/1014674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014674)
+- [AI дизайн вышел на новый уровень](https://habr.com/ru/articles/1014666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014666)
+- [Go и искусство ставить подножку разработчику: разоблачение](https://habr.com/ru/articles/1014664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014664)
+- [Психофизиологические механизмы усвоения информации, почему-то не учитывающиеся в методиках изучения английского языка](https://habr.com/ru/articles/1014650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014650)
+- [Поиск в коллекциях или когда O&lpar;N&rpar; быстрее O&lpar;1&rpar;](https://habr.com/ru/companies/skbkontur/articles/1012968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012968)
 <!-- BLOG-POST-LIST:END -->
 
 ---
