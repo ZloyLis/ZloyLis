@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Spring Data. На пути к более строгой типизации](https://habr.com/ru/companies/spring_aio/articles/1014920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014920)
-- [Будни разработки моего онлайн-САПР КонтрБагCAD](https://habr.com/ru/companies/timeweb/articles/1006682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006682)
-- [Как скачать Интернет?](https://habr.com/ru/articles/1013974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013974)
-- [Испанский в кармане: Архитектура Telegram-бота с локальным Whisper.cpp, AI-диалогами и оценкой произношения](https://habr.com/ru/articles/1014888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014888)
-- [Почему все хотят автоматические релизы и кому они на самом деле нужны](https://habr.com/ru/companies/tbank/articles/1014122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014122)
+- [[Перевод] Что происходит с подписочной моделью в приложениях: уроки, тренды и ориентиры на 2026 год](https://habr.com/ru/articles/1015000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015000)
+- [Автоматизация создания тестов: связка NotebookLM + Gemini + Google Apps Script](https://habr.com/ru/articles/1014564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014564)
+- [CodeClone 2.0.0b1: когда детектора клонов уже мало](https://habr.com/ru/articles/1014978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014978)
+- [Светлячки, или природный клеточный автомат](https://habr.com/ru/articles/1014892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014892)
+- [Если требований нет, а тестировать хочется](https://habr.com/ru/articles/1014968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014968)
 <!-- BLOG-POST-LIST:END -->
 
 ---
