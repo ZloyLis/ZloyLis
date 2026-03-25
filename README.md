@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Widgetbook: мост между сore командой, дизайнерами и продуктовыми командами](https://habr.com/ru/companies/rshb/articles/1012706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012706)
+- [Джуниор системный аналитик в 2026: ожидания рынка, поиск работы и первые задачи](https://habr.com/ru/companies/yandex_praktikum/articles/1011402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011402)
+- [Ребрендинг глазами разработчика: как мы переходили к единому кластеру «КИОН»](https://habr.com/ru/companies/ru_mts/articles/1009168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009168)
 - [Можно и не клонировать: зачем GitVerse сделал новый веб-редактор кода](https://habr.com/ru/companies/sberbank/articles/1009372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009372)
 - [Иностранные слова в брендинге и интерфейсах IT- компании. Что изменилось с 1 марта 2026](https://habr.com/ru/articles/1014598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014598)
-- [Как рисовать игровые облака для чайников](https://habr.com/ru/articles/1014588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014588)
-- [Зависимости, которых не существует: как фильтрация искажает данные и что такое коллайдеры](https://habr.com/ru/articles/1014586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014586)
-- [Дизайн интерфейса: когда изменения оправданы. Часть 2](https://habr.com/ru/articles/1014578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014578)
 <!-- BLOG-POST-LIST:END -->
 
 ---
