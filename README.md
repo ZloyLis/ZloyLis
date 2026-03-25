@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Аварийные учения в Kubernetes: выключили часть нод и проверили, переживут ли это сервисы](https://habr.com/ru/articles/1014580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014580)
+- [NodaLogic платформа бизнес-логики, построенная специально под AI-генерацию](https://habr.com/ru/articles/1011090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011090)
+- [Как я сдавал ЕГЭ по физике и профильной математике. Личный опыт](https://habr.com/ru/articles/1014458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014458)
+- [Агентная разработка в VS Code: Глубокая настройка RooCode для максимальной эффективности](https://habr.com/ru/articles/1014352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014352)
 - [Фронтендеры, хватит покрывать тестами каждую строчку кода – это безумие](https://habr.com/ru/articles/1014558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014558)
-- [Как работают события аналитики и кто их придумывает](https://habr.com/ru/articles/964458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=964458)
-- [Voters в Symfony](https://habr.com/ru/companies/otus/articles/1013732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013732)
-- [От костылей к биекции: как я писал генератор судоку на JS](https://habr.com/ru/articles/1014522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014522)
-- [Векторный поиск в PostgreSQL: pgvector, pgvectorscale или VectorChord?](https://habr.com/ru/articles/1014516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014516)
 <!-- BLOG-POST-LIST:END -->
 
 ---
