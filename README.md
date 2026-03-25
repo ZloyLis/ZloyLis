@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Spring Data. На пути к более строгой типизации](https://habr.com/ru/companies/spring_aio/articles/1014920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014920)
+- [Будни разработки моего онлайн-САПР КонтрБагCAD](https://habr.com/ru/companies/timeweb/articles/1006682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006682)
+- [Как скачать Интернет?](https://habr.com/ru/articles/1013974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013974)
+- [Испанский в кармане: Архитектура Telegram-бота с локальным Whisper.cpp, AI-диалогами и оценкой произношения](https://habr.com/ru/articles/1014888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014888)
 - [Почему все хотят автоматические релизы и кому они на самом деле нужны](https://habr.com/ru/companies/tbank/articles/1014122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014122)
-- [Как не дать knowledge base устареть](https://habr.com/ru/articles/1014868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014868)
-- [[Перевод] Вайбкодинг есть, а вайбрезультатов нет?](https://habr.com/ru/articles/1014858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014858)
-- [Как построить прогноз, которому верит бизнес: от Excel до нейросетей за полгода](https://habr.com/ru/articles/1014852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014852)
-- [5 ошибок при разработке продукта с LLM под капотом – разбор реальных болей живого проекта](https://habr.com/ru/companies/reksoft/articles/1014796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014796)
 <!-- BLOG-POST-LIST:END -->
 
 ---
