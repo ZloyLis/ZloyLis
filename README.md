@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe-design в 2026LLM агент во Fuion360 шестеренками крутил](https://habr.com/ru/articles/1014736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014736)
-- [C3D PolyShaper: современные возможности и перспективы развития](https://habr.com/ru/companies/ascon/articles/1014720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014720)
-- [Что не так с веб-компонентами?](https://habr.com/ru/articles/1014708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014708)
-- [Логи: всё, что нужно знать тестировщику](https://habr.com/ru/articles/1014648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014648)
-- [PostgreSQL: транзакции, блокировки и почему Serializable падает](https://habr.com/ru/articles/1011996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011996)
+- [Ursina 3D-игры. Определение расстояния между двумя объектами](https://habr.com/ru/articles/1014780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014780)
+- [Как разработать устройство с нуля. Прибор измерения ёмкости конденсаторов](https://habr.com/ru/articles/1014768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014768)
+- [Solar webProxy и современные SWG](https://habr.com/ru/companies/solarsecurity/articles/1014638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014638)
+- [Что происходит в российском DevOps-ландшафте прямо сейчас: 13 инструментов с продуктовой аллеи](https://habr.com/ru/companies/oleg-bunin/articles/1014406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014406)
+- [Интеграция с китайскими картами Baidu — с настройкой полигонов и кластеризацией](https://habr.com/ru/companies/dalee_group/articles/1013878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013878)
 <!-- BLOG-POST-LIST:END -->
 
 ---
