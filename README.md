@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я прошел ад публикации в App Store и Google Play и вывел первые деньги](https://habr.com/ru/articles/1015122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015122)
+- [Нужен ли синопсис технической документации? Личный опыт разработки](https://habr.com/ru/articles/1015118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015118)
 - [ONYX: self-hosted мессенджер с LAN-режимом — история одного инди-проекта](https://habr.com/ru/articles/1015116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015116)
 - [Множественная регрессия: Расширяем горизонты прогнозирования](https://habr.com/ru/articles/1015102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015102)
 - [FE-разработчики, перестаньте буквально воспринимать дизайн](https://habr.com/ru/articles/1015100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015100)
-- [Как настроить сериализацию Kotlin Any с поддержкой Parcelable и Serializable в Android](https://habr.com/ru/companies/alfa/articles/1013158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013158)
-- [Гайд по Git для начинающих: основные команды, работа с ветками и типичные ошибки](https://habr.com/ru/companies/netologyru/articles/1012264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012264)
 <!-- BLOG-POST-LIST:END -->
 
 ---
