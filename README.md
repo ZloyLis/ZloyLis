@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [UX-исследование первой сессии и активации в DeFi приложениях](https://habr.com/ru/articles/993780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993780)
-- [Система компоновки данных в 1С](https://habr.com/ru/companies/otus/articles/1012736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012736)
-- [GitLab CI кажется сложным, если не знать этих трюков: как убрать дублирование и ускорить пайплайны в 3 раза](https://habr.com/ru/companies/flant/articles/1014176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014176)
-- [Vue.js Amsterdam 2026: будущее экосистемы Vite](https://habr.com/ru/companies/first/articles/1015150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015150)
-- [JWT авторизация в FastAPI: от теории до работающего кода](https://habr.com/ru/articles/1015148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015148)
+- [Calico на Orange Pi не поднимается](https://habr.com/ru/articles/1015212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015212)
+- [[Перевод] Разработчик ковырял API Cursor и нашёл секрет самого громкого запуска года](https://habr.com/ru/companies/bothub/articles/1015156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015156)
+- [Ловушки удобного синтаксиса языка Kotlin. Как миграция на Kotlin 2.2+ может сломать ваш проект и как его починить](https://habr.com/ru/companies/domclick/articles/1013318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013318)
+- [Чему обучить проектную команду в ИТ, чтобы ускорить релизы и сэкономить бюджет](https://habr.com/ru/companies/teamly/articles/1015202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015202)
+- [Безопасный file upload в Go: 7 атак на загрузку файлов и как мы их закрывали](https://habr.com/ru/articles/1015082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015082)
 <!-- BLOG-POST-LIST:END -->
 
 ---
