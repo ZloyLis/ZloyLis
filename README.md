@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как заставить LLM считать точно: генерация кода вместо генерации ответов](https://habr.com/ru/articles/1015434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015434)
-- [От нуля до продакшена: как команда без ML-экспертизы построила AI-ассистента для звонков](https://habr.com/ru/articles/1015430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015430)
-- [CyBOK. Глава 3. Законы и регуляторные нормы. Часть 7](https://habr.com/ru/companies/securityvison/articles/1015398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015398)
-- [Компилятор сократил x/x — и оказался «прав». Урок математики, который преподал gcc](https://habr.com/ru/articles/1015382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015382)
-- [Vivaldi 7.9 для мобильных устройств — Удобно и красиво](https://habr.com/ru/companies/vivaldi/articles/1015370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015370)
+- [Вайб-кодинг: конструктор для профи или магия для новичков? Разбираемся на реальном кейсе](https://habr.com/ru/companies/rostelecom/articles/1015504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015504)
+- [Неудобные вопросы про бэкап PostgreSQL: где заканчивается СУБД и начинается оркестрация](https://habr.com/ru/companies/hstx/articles/1015500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015500)
+- [Вайбкодинг без страховки превращает код в долг. Я обвязал Claude CPG-конвейером](https://habr.com/ru/articles/1015476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015476)
+- [Что внутри «Штурвала 2.13». Декларативная установка, containerd 2.x, профили кластеров и прочее](https://habr.com/ru/companies/chislitellab/articles/1014916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014916)
+- [Вот почему твоему ИИ-агенту нужен ACP в IDE](https://habr.com/ru/companies/haulmont/articles/1015342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015342)
 <!-- BLOG-POST-LIST:END -->
 
 ---
