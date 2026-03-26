@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] 10 веб-API, заменяющих многие библиотеки JavaScript](https://habr.com/ru/articles/1015134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015134)
-- [Как вытаскивать требования из бизнеса: инструкция по расшифровке «политического» языка](https://habr.com/ru/articles/1015130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015130)
-- [Как я прошел ад публикации в App Store и Google Play и вывел первые деньги](https://habr.com/ru/articles/1015122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015122)
-- [Нужен ли синопсис технической документации? Личный опыт разработки](https://habr.com/ru/articles/1015118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015118)
-- [ONYX: self-hosted мессенджер с LAN-режимом — история одного инди-проекта](https://habr.com/ru/articles/1015116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015116)
+- [UX-исследование первой сессии и активации в DeFi приложениях](https://habr.com/ru/articles/993780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=993780)
+- [Система компоновки данных в 1С](https://habr.com/ru/companies/otus/articles/1012736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012736)
+- [GitLab CI кажется сложным, если не знать этих трюков: как убрать дублирование и ускорить пайплайны в 3 раза](https://habr.com/ru/companies/flant/articles/1014176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014176)
+- [Vue.js Amsterdam 2026: будущее экосистемы Vite](https://habr.com/ru/companies/first/articles/1015150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015150)
+- [JWT авторизация в FastAPI: от теории до работающего кода](https://habr.com/ru/articles/1015148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015148)
 <!-- BLOG-POST-LIST:END -->
 
 ---
