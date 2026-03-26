@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Calico на Orange Pi не поднимается](https://habr.com/ru/articles/1015212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015212)
-- [[Перевод] Разработчик ковырял API Cursor и нашёл секрет самого громкого запуска года](https://habr.com/ru/companies/bothub/articles/1015156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015156)
-- [Ловушки удобного синтаксиса языка Kotlin. Как миграция на Kotlin 2.2+ может сломать ваш проект и как его починить](https://habr.com/ru/companies/domclick/articles/1013318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013318)
-- [Чему обучить проектную команду в ИТ, чтобы ускорить релизы и сэкономить бюджет](https://habr.com/ru/companies/teamly/articles/1015202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015202)
-- [Безопасный file upload в Go: 7 атак на загрузку файлов и как мы их закрывали](https://habr.com/ru/articles/1015082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015082)
+- [[Перевод] Как найти подозрительные логины из разных стран за 2 часа в PostgreSQL](https://habr.com/ru/companies/otus/articles/1014814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014814)
+- [Что умеют школьники, которые через 5 лет будут нашими коллегами](https://habr.com/ru/companies/X5Tech/articles/1013734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013734)
+- [Как AI-копилоты изменили мой рабочий процесс во фронтенде — и где с треском провалились](https://habr.com/ru/articles/1015256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015256)
+- [Настройка проекта для AI-агентов](https://habr.com/ru/articles/1015252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015252)
+- [Как убрать virtual и не сойти с ума: велосипедные генераторы через type loopholes](https://habr.com/ru/companies/timeweb/articles/1006490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006490)
 <!-- BLOG-POST-LIST:END -->
 
 ---
