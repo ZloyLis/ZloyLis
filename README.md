@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Как найти подозрительные логины из разных стран за 2 часа в PostgreSQL](https://habr.com/ru/companies/otus/articles/1014814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014814)
-- [Что умеют школьники, которые через 5 лет будут нашими коллегами](https://habr.com/ru/companies/X5Tech/articles/1013734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013734)
-- [Как AI-копилоты изменили мой рабочий процесс во фронтенде — и где с треском провалились](https://habr.com/ru/articles/1015256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015256)
-- [Настройка проекта для AI-агентов](https://habr.com/ru/articles/1015252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015252)
-- [Как убрать virtual и не сойти с ума: велосипедные генераторы через type loopholes](https://habr.com/ru/companies/timeweb/articles/1006490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006490)
+- [[Перевод] Рендеринг — это не про сервер](https://habr.com/ru/articles/1015354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015354)
+- [91% малвари используют DNS. Кто и чем его защищает в России и мире](https://habr.com/ru/articles/1014854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014854)
+- [# 10 ошибок API](https://habr.com/ru/articles/1013924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013924)
+- [Как мы в Диасофт автоматизировали автотесты с помощью ИИ](https://habr.com/ru/companies/diasoft_company/articles/1015322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015322)
+- [FLUX.2-dev GGUF Q4_K_M на Apple Silicon: куда уходят 29 гигабайт?](https://habr.com/ru/articles/1015320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015320)
 <!-- BLOG-POST-LIST:END -->
 
 ---
