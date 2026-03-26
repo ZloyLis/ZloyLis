@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Вайб-кодинг: конструктор для профи или магия для новичков? Разбираемся на реальном кейсе](https://habr.com/ru/companies/rostelecom/articles/1015504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015504)
-- [Неудобные вопросы про бэкап PostgreSQL: где заканчивается СУБД и начинается оркестрация](https://habr.com/ru/companies/hstx/articles/1015500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015500)
-- [Вайбкодинг без страховки превращает код в долг. Я обвязал Claude CPG-конвейером](https://habr.com/ru/articles/1015476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015476)
-- [Что внутри «Штурвала 2.13». Декларативная установка, containerd 2.x, профили кластеров и прочее](https://habr.com/ru/companies/chislitellab/articles/1014916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014916)
-- [Вот почему твоему ИИ-агенту нужен ACP в IDE](https://habr.com/ru/companies/haulmont/articles/1015342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015342)
+- [Мы нашли самых быстрых девопсов. Пора поздравить их](https://habr.com/ru/companies/kts/articles/1015366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015366)
+- [В инфобез со студенческой скамьи: как пройти фейсконтроль рекрутера, если ты джун](https://habr.com/ru/companies/rostelecom/articles/1015064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015064)
+- [[Перевод] «ИИ масштабнее, чем Covid»? Почему 85 миллионов человек ошибаются насчёт ИИ и рабочих мест](https://habr.com/ru/companies/bothub/articles/1015162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015162)
+- [[Перевод] DPoP: что это такое, как работает и почему Bearer-токенов недостаточно](https://habr.com/ru/companies/spring_aio/articles/1015544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015544)
+- [Практики разработки на Python](https://habr.com/ru/companies/graviton/articles/1015460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015460)
 <!-- BLOG-POST-LIST:END -->
 
 ---
