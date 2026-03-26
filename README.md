@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Рендеринг — это не про сервер](https://habr.com/ru/articles/1015354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015354)
-- [91% малвари используют DNS. Кто и чем его защищает в России и мире](https://habr.com/ru/articles/1014854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014854)
-- [# 10 ошибок API](https://habr.com/ru/articles/1013924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013924)
-- [Как мы в Диасофт автоматизировали автотесты с помощью ИИ](https://habr.com/ru/companies/diasoft_company/articles/1015322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015322)
-- [FLUX.2-dev GGUF Q4_K_M на Apple Silicon: куда уходят 29 гигабайт?](https://habr.com/ru/articles/1015320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015320)
+- [Как заставить LLM считать точно: генерация кода вместо генерации ответов](https://habr.com/ru/articles/1015434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015434)
+- [От нуля до продакшена: как команда без ML-экспертизы построила AI-ассистента для звонков](https://habr.com/ru/articles/1015430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015430)
+- [CyBOK. Глава 3. Законы и регуляторные нормы. Часть 7](https://habr.com/ru/companies/securityvison/articles/1015398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015398)
+- [Компилятор сократил x/x — и оказался «прав». Урок математики, который преподал gcc](https://habr.com/ru/articles/1015382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015382)
+- [Vivaldi 7.9 для мобильных устройств — Удобно и красиво](https://habr.com/ru/companies/vivaldi/articles/1015370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015370)
 <!-- BLOG-POST-LIST:END -->
 
 ---
