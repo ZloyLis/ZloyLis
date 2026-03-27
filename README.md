@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Проектирование бесплатного API с пользовательскими данными: почему я отказался от jsonplaceholder](https://habr.com/ru/articles/1015906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015906)
+- [От сетевых эффектов до функций Ляпунова: как математические модели объясняют поведение систем и сообществ](https://habr.com/ru/companies/avito/articles/1015014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015014)
 - [Разработка мигратора кода с использованием ИИ на примере миграции с Linaria на CSS Modules](https://habr.com/ru/companies/lemana_tech/articles/1011388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011388)
 - [Как я сделал глобальный семантический поиск для Telegram](https://habr.com/ru/articles/1015876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015876)
 - [Как проектировать интеграции с Kafka](https://habr.com/ru/companies/ingos_it/articles/1015314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015314)
-- [clipboard-mcp: даём AI-ассистентам доступ к буферу обмена](https://habr.com/ru/articles/1015844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015844)
-- [Как поддерживать корпоративную карту в рабочем состоянии, чтобы AI не начинал ошибаться](https://habr.com/ru/companies/1forma/articles/1015848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015848)
 <!-- BLOG-POST-LIST:END -->
 
 ---
