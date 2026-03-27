@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Я вскрыл платёжный терминал «Сбера» — внутри оказалась игровая консоль и телефон](https://habr.com/ru/companies/ruvds/articles/1014332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014332)
-- [RAG-бот на YandexGPT без Python и оркестраторов. Кейс внедрения «Яндекс Агента» в медицине](https://habr.com/ru/companies/qsoft/articles/1015934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015934)
-- [Fury: Как за 4 месяца разработки мессенджера с нуля не сойти с ума](https://habr.com/ru/articles/1015920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015920)
-- [Closed-world assumption в Java](https://habr.com/ru/companies/pvs-studio/articles/1015722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015722)
-- [Как мы подружили DataLens и OpenMetadata: архитектура, код и подводные камни](https://habr.com/ru/companies/magnit/articles/1015708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015708)
+- [Книга «PostgreSQL 16. Оптимизация запросов»: учимся читать мысли планировщика](https://habr.com/ru/companies/postgrespro/articles/1014956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014956)
+- [Всё про ИТ-архитектуру: монолит и микросервисы, системное мышление — интервью с Филиппом Дельгядо](https://habr.com/ru/articles/1015988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015988)
+- [Как воспроизводить WebRTC видео на Qt клиенте](https://habr.com/ru/articles/1016020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016020)
+- [Мультимодальность и более предсказуемый UX: релиз KodaCode 0.8.0](https://habr.com/ru/companies/koda/articles/1015972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015972)
+- [Почему ваш пароль уже взломан &lpar;и как это исправить&rpar;](https://habr.com/ru/articles/1015996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015996)
 <!-- BLOG-POST-LIST:END -->
 
 ---
