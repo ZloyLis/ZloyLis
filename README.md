@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [EvaTeam Workflow Enhancer — userscript для нормального отображения процессов](https://habr.com/ru/articles/1015656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015656)
 - [Тестирование Vue-приложений изнутри: props, Pinia и Network без proxy и dev-сборки](https://habr.com/ru/articles/1015638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015638)
 - [Бекэнд на fastify для няшных котят &lpar;aura8&rpar;](https://habr.com/ru/articles/1015634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015634)
 - [UseCase или как описывать бизнес-процессы в коде](https://habr.com/ru/articles/1012988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012988)
 - [Ночью все кошки серы, а using&#39;и одинаковы](https://habr.com/ru/articles/1015492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015492)
-- [Как я тестирую API: чеклист и подходы, и автоматизация](https://habr.com/ru/articles/1015576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015576)
 <!-- BLOG-POST-LIST:END -->
 
 ---
