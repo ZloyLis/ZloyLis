@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Приказ ФСТЭК России № 117: полный обзор нововведений и практическое руководство по переходу от Приказа № 17](https://habr.com/ru/articles/1016070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016070)
+- [URL как источник правды в Next.js App Router](https://habr.com/ru/articles/1016068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016068)
+- [vLLM Production Stack. Часть 1: Базовые возможности vLLM](https://habr.com/ru/articles/1016062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016062)
 - [Главная проблема vibe coding — не vibe debugging](https://habr.com/ru/articles/1016056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016056)
 - [[Перевод] Изучаем eBPF: программирование ядра Linux для улучшения безопасности, сетевых функций и наблюдаемости](https://habr.com/ru/companies/bhv_publishing/articles/1016054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016054)
-- [Книга «PostgreSQL 16. Оптимизация запросов»: учимся читать мысли планировщика](https://habr.com/ru/companies/postgrespro/articles/1014956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014956)
-- [Всё про ИТ-архитектуру: монолит и микросервисы, системное мышление — интервью с Филиппом Дельгядо](https://habr.com/ru/articles/1015988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015988)
-- [Как воспроизводить WebRTC видео на Qt клиенте](https://habr.com/ru/articles/1016020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016020)
 <!-- BLOG-POST-LIST:END -->
 
 ---
