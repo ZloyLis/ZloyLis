@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [PG_EXPECTO v.7: Анализ инцидента производительности высоконагруженной СУБД &lpar;CPU=200 RAM=1TB&rpar;](https://habr.com/ru/articles/1015712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015712)
-- [Headless CMS на Go — самая минималистичная система управления сайтом](https://habr.com/ru/articles/1015710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015710)
-- [Frontend Status: свежий дайджест фронтенда и AI — 27.03.2026](https://habr.com/ru/articles/1015700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015700)
-- [[Перевод] Секреты C# для начинающих](https://habr.com/ru/companies/otus/articles/1014984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014984)
-- [От логинов до SQL: какие бреши в web-приложениях ищут хакеры и как их устранить](https://habr.com/ru/articles/1015688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015688)
+- [Айсберг Claude Code: 30+ возможностей от новичка до автоматизации](https://habr.com/ru/companies/yoomoney/articles/1015548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015548)
+- [Приключения с Go и YDB Serverless: как я уложился в бесплатный тир Yandex Cloud после Spring Boot и PostgreSQL](https://habr.com/ru/articles/1015774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015774)
+- [should render — и что? Как мы перестали тестировать разметку и начали тестировать поведение](https://habr.com/ru/articles/1015772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015772)
+- [Бизнес-романы: как разобраться в основах бизнеса и не только — без скучных лекций и учебников](https://habr.com/ru/companies/yandex_praktikum/articles/1014182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014182)
+- [Как выстроить систему обучения проектной команды в IT: пошаговый алгоритм](https://habr.com/ru/companies/teamly/articles/1015754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015754)
 <!-- BLOG-POST-LIST:END -->
 
 ---
