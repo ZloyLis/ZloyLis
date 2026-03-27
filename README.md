@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Проектирование бесплатного API с пользовательскими данными: почему я отказался от jsonplaceholder](https://habr.com/ru/articles/1015906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015906)
-- [От сетевых эффектов до функций Ляпунова: как математические модели объясняют поведение систем и сообществ](https://habr.com/ru/companies/avito/articles/1015014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015014)
-- [Разработка мигратора кода с использованием ИИ на примере миграции с Linaria на CSS Modules](https://habr.com/ru/companies/lemana_tech/articles/1011388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011388)
-- [Как я сделал глобальный семантический поиск для Telegram](https://habr.com/ru/articles/1015876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015876)
-- [Как проектировать интеграции с Kafka](https://habr.com/ru/companies/ingos_it/articles/1015314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015314)
+- [Я вскрыл платёжный терминал «Сбера» — внутри оказалась игровая консоль и телефон](https://habr.com/ru/companies/ruvds/articles/1014332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014332)
+- [RAG-бот на YandexGPT без Python и оркестраторов. Кейс внедрения «Яндекс Агента» в медицине](https://habr.com/ru/companies/qsoft/articles/1015934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015934)
+- [Fury: Как за 4 месяца разработки мессенджера с нуля не сойти с ума](https://habr.com/ru/articles/1015920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015920)
+- [Closed-world assumption в Java](https://habr.com/ru/companies/pvs-studio/articles/1015722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015722)
+- [Как мы подружили DataLens и OpenMetadata: архитектура, код и подводные камни](https://habr.com/ru/companies/magnit/articles/1015708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015708)
 <!-- BLOG-POST-LIST:END -->
 
 ---
