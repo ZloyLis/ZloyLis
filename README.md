@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как собрать систему захвата ниши: семантика, архитектура сайта, LLM-пайплайн и подготовка к AI-поиску](https://habr.com/ru/articles/1016128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016128)
 - [Как спасти данные из Телеграма](https://habr.com/ru/articles/1016102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016102)
 - [Как я хотел одного AI-агента, а получил целую деревню](https://habr.com/ru/articles/1016096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016096)
 - [Приказ ФСТЭК России № 117: полный обзор нововведений и практическое руководство по переходу от Приказа № 17](https://habr.com/ru/articles/1016070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016070)
 - [URL как источник правды в Next.js App Router](https://habr.com/ru/articles/1016068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016068)
-- [vLLM Production Stack. Часть 1: Базовые возможности vLLM](https://habr.com/ru/articles/1016062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016062)
 <!-- BLOG-POST-LIST:END -->
 
 ---
