@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [PrimeCode — графический интерфейс для OpenCode CLI в VS Code](https://habr.com/ru/articles/1015670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015670)
-- [«Лёгкие маршруты» в 2ГИС: рассказываем про алгоритмы и новую систему штрафов](https://habr.com/ru/companies/2gis/articles/1015140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015140)
-- [Вайбкодинг за выходные: как ручной QA-инженер собрал свой «Тиндер для кино» с помощью ИИ](https://habr.com/ru/articles/1015666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015666)
-- [EvaTeam Workflow Enhancer — userscript для нормального отображения процессов](https://habr.com/ru/articles/1015656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015656)
-- [Тестирование Vue-приложений изнутри: props, Pinia и Network без proxy и dev-сборки](https://habr.com/ru/articles/1015638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015638)
+- [PG_EXPECTO v.7: Анализ инцидента производительности высоконагруженной СУБД &lpar;CPU=200 RAM=1TB&rpar;](https://habr.com/ru/articles/1015712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015712)
+- [Headless CMS на Go — самая минималистичная система управления сайтом](https://habr.com/ru/articles/1015710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015710)
+- [Frontend Status: свежий дайджест фронтенда и AI — 27.03.2026](https://habr.com/ru/articles/1015700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015700)
+- [[Перевод] Секреты C# для начинающих](https://habr.com/ru/companies/otus/articles/1014984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014984)
+- [От логинов до SQL: какие бреши в web-приложениях ищут хакеры и как их устранить](https://habr.com/ru/articles/1015688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015688)
 <!-- BLOG-POST-LIST:END -->
 
 ---
