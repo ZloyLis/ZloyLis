@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Главная проблема vibe coding — не vibe debugging](https://habr.com/ru/articles/1016056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016056)
+- [[Перевод] Изучаем eBPF: программирование ядра Linux для улучшения безопасности, сетевых функций и наблюдаемости](https://habr.com/ru/companies/bhv_publishing/articles/1016054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016054)
 - [Книга «PostgreSQL 16. Оптимизация запросов»: учимся читать мысли планировщика](https://habr.com/ru/companies/postgrespro/articles/1014956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014956)
 - [Всё про ИТ-архитектуру: монолит и микросервисы, системное мышление — интервью с Филиппом Дельгядо](https://habr.com/ru/articles/1015988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015988)
 - [Как воспроизводить WebRTC видео на Qt клиенте](https://habr.com/ru/articles/1016020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016020)
-- [Мультимодальность и более предсказуемый UX: релиз KodaCode 0.8.0](https://habr.com/ru/companies/koda/articles/1015972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015972)
-- [Почему ваш пароль уже взломан &lpar;и как это исправить&rpar;](https://habr.com/ru/articles/1015996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015996)
 <!-- BLOG-POST-LIST:END -->
 
 ---
