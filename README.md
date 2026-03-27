@@ -37,7 +37,7 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [[Перевод] Полный текст интервью Теренса Тао: Кеплер, Ньютон и подлинная природа математического открытия](https://habr.com/ru/articles/1014398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014398)
 - [Кажется, во мне умирает программист](https://habr.com/ru/articles/1016136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016136)
-- [ПИД-регулятор — это просто](https://habr.com/ru/articles/1016090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016090)
+- [ПИД-регулятор — это весело](https://habr.com/ru/articles/1016090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016090)
 - [Как собрать систему захвата ниши: семантика, архитектура сайта, LLM-пайплайн и подготовка к AI-поиску](https://habr.com/ru/articles/1016128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016128)
 - [Как спасти данные из Телеграма](https://habr.com/ru/articles/1016102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016102)
 <!-- BLOG-POST-LIST:END -->
