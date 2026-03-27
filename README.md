@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Айсберг Claude Code: 30+ возможностей от новичка до автоматизации](https://habr.com/ru/companies/yoomoney/articles/1015548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015548)
-- [Приключения с Go и YDB Serverless: как я уложился в бесплатный тир Yandex Cloud после Spring Boot и PostgreSQL](https://habr.com/ru/articles/1015774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015774)
-- [should render — и что? Как мы перестали тестировать разметку и начали тестировать поведение](https://habr.com/ru/articles/1015772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015772)
-- [Бизнес-романы: как разобраться в основах бизнеса и не только — без скучных лекций и учебников](https://habr.com/ru/companies/yandex_praktikum/articles/1014182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014182)
-- [Как выстроить систему обучения проектной команды в IT: пошаговый алгоритм](https://habr.com/ru/companies/teamly/articles/1015754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015754)
+- [Как проектировать интеграции с Kafka](https://habr.com/ru/companies/ingos_it/articles/1015314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015314)
+- [clipboard-mcp: даём AI-ассистентам доступ к буферу обмена](https://habr.com/ru/articles/1015844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015844)
+- [Как поддерживать корпоративную карту в рабочем состоянии, чтобы AI не начинал ошибаться](https://habr.com/ru/companies/1forma/articles/1015848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015848)
+- [Приложение sketches — доска для набросок](https://habr.com/ru/articles/1015828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015828)
+- [Директории в чате, очередь сообщений и авто-retry: Veai 5.7](https://habr.com/ru/companies/veai/articles/1015824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015824)
 <!-- BLOG-POST-LIST:END -->
 
 ---
