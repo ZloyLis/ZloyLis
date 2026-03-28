@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [CEO навайбкодил прототип. Почему после этого команда не обязана работать вдвое быстрее](https://habr.com/ru/articles/1016360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016360)
 - [Советы тем, кто боится поступать в ШАД &lpar;на своём примере&rpar;](https://habr.com/ru/articles/1016354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016354)
 - [Операционная система Анна версия 0.0.60](https://habr.com/ru/articles/1016350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016350)
 - [Управляю мобильной связью через AI-агента: skill для сбермобайл](https://habr.com/ru/articles/1016328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016328)
 - [Выходные — для развития: Пара открытых книг и ресурсов для &lpar;глубокого&rpar; погружения в инженерию данных](https://habr.com/ru/companies/beeline_cloud/articles/1014908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014908)
-- [Геройский движок на javascript](https://habr.com/ru/articles/1016298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016298)
 <!-- BLOG-POST-LIST:END -->
 
 ---
