@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Health Score для PostgreSQL: один показатель вместо 150 метрик](https://habr.com/ru/articles/1016288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016288)
 - [Design‑First в действии: API на Spring с OpenAPI Generator](https://habr.com/ru/companies/otus/articles/1008384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008384)
 - [Как я часами смотрел на голубей в слоумо: мой опыт создания 3D-анимации для веба](https://habr.com/ru/articles/1016224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016224)
 - [Красивый скриншот вашего кода](https://habr.com/ru/articles/1016194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016194)
 - [Чем профильная онлайн-магистратура может помочь разработчикам оставаться востребованными в 2026 году](https://habr.com/ru/companies/yandex_praktikum/articles/1016064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016064)
-- [Как React обновляет UI: trigger → render → commit](https://habr.com/ru/articles/1016180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016180)
 <!-- BLOG-POST-LIST:END -->
 
 ---
