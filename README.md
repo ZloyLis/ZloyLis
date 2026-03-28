@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Геройский движок на javascript](https://habr.com/ru/articles/1016298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016298)
+- [Что внутри у кнопочного телефона: полный анализ схемотехники](https://habr.com/ru/companies/timeweb/articles/1015794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015794)
+- [Температурное поле круглой конфорки](https://habr.com/ru/articles/1016120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016120)
 - [Health Score для PostgreSQL: один показатель вместо 150 метрик](https://habr.com/ru/articles/1016288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016288)
 - [Design‑First в действии: API на Spring с OpenAPI Generator](https://habr.com/ru/companies/otus/articles/1008384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008384)
-- [Как я часами смотрел на голубей в слоумо: мой опыт создания 3D-анимации для веба](https://habr.com/ru/articles/1016224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016224)
-- [Красивый скриншот вашего кода](https://habr.com/ru/articles/1016194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016194)
-- [Чем профильная онлайн-магистратура может помочь разработчикам оставаться востребованными в 2026 году](https://habr.com/ru/companies/yandex_praktikum/articles/1016064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016064)
 <!-- BLOG-POST-LIST:END -->
 
 ---
