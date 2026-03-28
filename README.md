@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Управляю мобильной связью через AI-агента: skill для сбермобайл](https://habr.com/ru/articles/1016328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016328)
+- [Выходные — для развития: Пара открытых книг и ресурсов для &lpar;глубокого&rpar; погружения в инженерию данных](https://habr.com/ru/companies/beeline_cloud/articles/1014908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014908)
 - [Геройский движок на javascript](https://habr.com/ru/articles/1016298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016298)
 - [Что внутри у кнопочного телефона: полный анализ схемотехники](https://habr.com/ru/companies/timeweb/articles/1015794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015794)
 - [Температурное поле круглой конфорки](https://habr.com/ru/articles/1016120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016120)
-- [Health Score для PostgreSQL: один показатель вместо 150 метрик](https://habr.com/ru/articles/1016288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016288)
-- [Design‑First в действии: API на Spring с OpenAPI Generator](https://habr.com/ru/companies/otus/articles/1008384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008384)
 <!-- BLOG-POST-LIST:END -->
 
 ---
