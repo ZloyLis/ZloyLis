@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Чем профильная онлайн-магистратура может помочь разработчикам оставаться востребованными в 2026 году](https://habr.com/ru/companies/yandex_praktikum/articles/1016064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016064)
+- [Как React обновляет UI: trigger → render → commit](https://habr.com/ru/articles/1016180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016180)
 - [Как пережить блокировку GitHub-аккаунта и почему к ней лучше подготовиться заранее](https://habr.com/ru/articles/1016144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016144)
 - [Max.ru Bot API: Пишем своего бота для обратной связи. Часть 1. MVP](https://habr.com/ru/articles/1016164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016164)
 - [Я протестировал 30+ голосовых AI-движков и собрал переводчик быстрее Google Meet. Бенчмарки, цены, грабли](https://habr.com/ru/articles/1016156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016156)
-- [[Перевод] Полный текст интервью Теренса Тао: Кеплер, Ньютон и подлинная природа математического открытия](https://habr.com/ru/articles/1014398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014398)
-- [Кажется, во мне умирает программист](https://habr.com/ru/articles/1016136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016136)
 <!-- BLOG-POST-LIST:END -->
 
 ---
