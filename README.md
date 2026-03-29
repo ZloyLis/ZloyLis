@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Смарт контракты для дисциплины](https://habr.com/ru/articles/1016526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016526)
+- [Довели. Поднял корпоративный мессенджер локально](https://habr.com/ru/companies/cloud_ru/articles/1015550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015550)
+- [Как я учу C, делая ASCII игру](https://habr.com/ru/articles/1016516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016516)
 - [Реальные правила вайб-кодинга от Anthropic](https://habr.com/ru/articles/1016510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016510)
 - [[Перевод] Где же все эти приложения, создаваемые с помощью ИИ?](https://habr.com/ru/companies/ruvds/articles/1015278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015278)
-- [Продвижение сайтов в Новосибирске. Дикое SEO начала 00-х](https://habr.com/ru/articles/1016452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016452)
-- [Мобильная разработка за неделю #625 &lpar;23 — 29 марта&rpar;](https://habr.com/ru/articles/1016450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016450)
-- [Возврат значений из функций в x86-64: регистры, память и скрытые аргументы](https://habr.com/ru/articles/1016440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016440)
 <!-- BLOG-POST-LIST:END -->
 
 ---
