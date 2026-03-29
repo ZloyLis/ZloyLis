@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Внутренняя поверхность полой Земли: проектируем механику ходьбы](https://habr.com/ru/articles/1016622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016622)
+- [[Перевод] Структуры данных на практике. Глава 10: B-деревья и деревья, эффективно использующие кэш](https://habr.com/ru/articles/1013048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013048)
+- [«Вечнозеленый» спор —&amp;gt; Должен ли руководитель разработки &lpar;engineering manager&rpar; программировать наравне с командой?](https://habr.com/ru/companies/beeline_cloud/articles/1016100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016100)
 - [Машина Тьюринга в Minecraft](https://habr.com/ru/articles/1016582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016582)
 - [Node.js → Rust: 5-10x ускорение без знания Rust](https://habr.com/ru/articles/1016576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016576)
-- [Отладка Программ Уровнями Логирования &lpar;или Медицинская Карта Вашей Программы&rpar;](https://habr.com/ru/articles/1016480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016480)
-- [Завязывайте с вайбкодингом! Серьезно](https://habr.com/ru/articles/1016554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016554)
-- [Go, TUN и UDP: пишем сетевой relay с гибкой конфигурацией](https://habr.com/ru/articles/1016296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016296)
 <!-- BLOG-POST-LIST:END -->
 
 ---
