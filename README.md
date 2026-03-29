@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Смарт контракты для дисциплины](https://habr.com/ru/articles/1016526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016526)
-- [Довели. Поднял корпоративный мессенджер локально](https://habr.com/ru/companies/cloud_ru/articles/1015550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015550)
-- [Как я учу C, делая ASCII игру](https://habr.com/ru/articles/1016516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016516)
-- [Реальные правила вайб-кодинга от Anthropic](https://habr.com/ru/articles/1016510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016510)
-- [[Перевод] Где же все эти приложения, создаваемые с помощью ИИ?](https://habr.com/ru/companies/ruvds/articles/1015278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015278)
+- [Отладка Программ Уровнями Логирования &lpar;или Медицинская Карта Вашей Программы&rpar;](https://habr.com/ru/articles/1016480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016480)
+- [Завязывайте с вайбкодингом! Серьезно](https://habr.com/ru/articles/1016554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016554)
+- [Go, TUN и UDP: пишем сетевой relay с гибкой конфигурацией](https://habr.com/ru/articles/1016296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016296)
+- [project-graph-mcp: навигация по проекту для ИИ-агента](https://habr.com/ru/articles/1016402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016402)
+- [Альтернативный способ задать дифференциал в геометрической алгебре](https://habr.com/ru/articles/1016486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016486)
 <!-- BLOG-POST-LIST:END -->
 
 ---
