@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Образовательные программы CS/AI в Германии без немецкого языка: варианты, о которых мало кто знает](https://habr.com/ru/articles/1016406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016406)
+- [Блокчейн-голосования для национальных выборов: архитектура устойчивости](https://habr.com/ru/articles/1016410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016410)
+- [Как Достоевский решил проблему объяснимости ИИ и помог Эйнштейну](https://habr.com/ru/articles/1016434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016434)
+- [GDB для тех, кто думает, что отладка — это фантастика](https://habr.com/ru/articles/1016430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016430)
 - [Как получить безлимитный доступ к Claude Sonnet 4.5 бесплатно и без VPN](https://habr.com/ru/articles/1016426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016426)
-- [Вайбкодим .EXE под Windows с GUI на AutoHotkey v2](https://habr.com/ru/articles/1016392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016392)
-- [[Перевод] Тренды мобильных приложений в Скандинавии &lpar;2025 год&rpar;](https://habr.com/ru/articles/1016388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016388)
-- [OpenClaw на русском: делаем перевод без форка через reverse proxy и JS-оверлей](https://habr.com/ru/articles/1016372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016372)
-- [СССР как «фабрика сложных технологий»: 15 ключевых открытий и продуктов 1917–1991 и их создатели](https://habr.com/ru/articles/1016370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016370)
 <!-- BLOG-POST-LIST:END -->
 
 ---
