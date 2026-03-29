@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Где же все эти приложения, создаваемые с помощью ИИ?](https://habr.com/ru/companies/ruvds/articles/1015278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015278)
 - [Продвижение сайтов в Новосибирске. Дикое SEO начала 00-х](https://habr.com/ru/articles/1016452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016452)
 - [Мобильная разработка за неделю #625 &lpar;23 — 29 марта&rpar;](https://habr.com/ru/articles/1016450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016450)
 - [Возврат значений из функций в x86-64: регистры, память и скрытые аргументы](https://habr.com/ru/articles/1016440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016440)
 - [Почему применение SaaS/IDaaS для аутентификации и авторизации наиболее эффективно, сравнение](https://habr.com/ru/articles/1013524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013524)
-- [Образовательные программы CS/AI в Германии без немецкого языка: варианты, о которых мало кто знает](https://habr.com/ru/articles/1016406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016406)
 <!-- BLOG-POST-LIST:END -->
 
 ---
