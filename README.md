@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Продвижение сайтов в Новосибирске. Дикое SEO начала 00-х](https://habr.com/ru/articles/1016452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016452)
+- [Мобильная разработка за неделю #625 &lpar;23 — 29 марта&rpar;](https://habr.com/ru/articles/1016450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016450)
+- [Возврат значений из функций в x86-64: регистры, память и скрытые аргументы](https://habr.com/ru/articles/1016440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016440)
+- [Почему применение SaaS/IDaaS для аутентификации и авторизации наиболее эффективно, сравнение](https://habr.com/ru/articles/1013524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013524)
 - [Образовательные программы CS/AI в Германии без немецкого языка: варианты, о которых мало кто знает](https://habr.com/ru/articles/1016406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016406)
-- [Блокчейн-голосования для национальных выборов: архитектура устойчивости](https://habr.com/ru/articles/1016410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016410)
-- [Как Достоевский решил проблему объяснимости ИИ и помог Эйнштейну](https://habr.com/ru/articles/1016434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016434)
-- [GDB для тех, кто думает, что отладка — это фантастика](https://habr.com/ru/articles/1016430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016430)
-- [Как получить безлимитный доступ к Claude Sonnet 4.5 бесплатно и без VPN](https://habr.com/ru/articles/1016426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016426)
 <!-- BLOG-POST-LIST:END -->
 
 ---
