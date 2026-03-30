@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как улучшить пейволл в мобильном приложении](https://habr.com/ru/articles/1017184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017184)
+- [[Перевод] Что открыл Гёдель](https://habr.com/ru/articles/1017176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017176)
 - [Security Week 2614: атака класса supply chain на библиотеку LiteLLM](https://habr.com/ru/companies/kaspersky/articles/1016674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016674)
 - [Лучшие промпты для генерации кода и программистов](https://habr.com/ru/companies/bothub/articles/1017096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017096)
 - [DI‑контейнер Symfony: autowiring, теги и compiler passes](https://habr.com/ru/companies/otus/articles/1013768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013768)
-- [Мы сделали лучший REST фреймворк для Django](https://habr.com/ru/articles/1017036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017036)
-- [Чёрт, опять этот CSS. Коллекция кейсов, когда CSS бесит](https://habr.com/ru/companies/ruvds/articles/1015020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015020)
 <!-- BLOG-POST-LIST:END -->
 
 ---
