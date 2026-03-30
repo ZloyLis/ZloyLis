@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Если ваш админ — самурай или «обнять и плакать»](https://habr.com/ru/articles/1016684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016684)
-- [[Перевод] Долг понимания — скрытая цена кода, сгенерированного искусственным интеллектом](https://habr.com/ru/articles/1016680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016680)
-- [Наконец-то нашел Android Service своей мечты после того, как потерял его 13 лет назад](https://habr.com/ru/articles/1016662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016662)
-- [Парсер‑комбинаторы «с нуля»](https://habr.com/ru/articles/1016632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016632)
-- [Внутренняя поверхность полой Земли: проектируем механику ходьбы](https://habr.com/ru/articles/1016622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016622)
+- [[Перевод] Структуры данных на практике. Глава 11: Префиксные деревья и базисные деревья](https://habr.com/ru/articles/1015900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015900)
+- [11 ошибок предпроектного обследования 1С, которые превращают внедрение в арбитраж](https://habr.com/ru/articles/1016726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016726)
+- [Разворачиваем корпоративный мессенджер в условиях цифровой неопределённости](https://habr.com/ru/companies/cloud4y/articles/1014836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014836)
+- [Зачем нужны нефункциональные требования к ПО и откуда их взять](https://habr.com/ru/companies/ru_mts/articles/1015866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015866)
+- [Сжатый свет: обманываем Гейзенберга и наблюдаем черные дыры](https://habr.com/ru/articles/1016698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016698)
 <!-- BLOG-POST-LIST:END -->
 
 ---
