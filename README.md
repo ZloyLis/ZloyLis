@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Структуры данных на практике. Глава 11: Префиксные деревья и базисные деревья](https://habr.com/ru/articles/1015900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015900)
-- [11 ошибок предпроектного обследования 1С, которые превращают внедрение в арбитраж](https://habr.com/ru/articles/1016726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016726)
-- [Разворачиваем корпоративный мессенджер в условиях цифровой неопределённости](https://habr.com/ru/companies/cloud4y/articles/1014836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014836)
-- [Зачем нужны нефункциональные требования к ПО и откуда их взять](https://habr.com/ru/companies/ru_mts/articles/1015866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015866)
-- [Сжатый свет: обманываем Гейзенберга и наблюдаем черные дыры](https://habr.com/ru/articles/1016698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016698)
+- [Зачем и как избавляться от незаменимых сотрудников](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/1003870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003870)
+- [Разбираем подводные камни, ошибки и лучшие практики при разработке Kubernetes-операторов. Часть 3](https://habr.com/ru/companies/sberbank/articles/1015936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015936)
+- [Новый народный мессенджер России. Можно, а зачем?](https://habr.com/ru/articles/1016784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016784)
+- [Конец преимущества корпораций: как вайбкодинг уравнял малый бизнес с энтерпрайзом в автоматизации](https://habr.com/ru/companies/yandex_praktikum/articles/1016722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016722)
+- [[Перевод] 37 советов и приемов по написанию качественных тестов для фронтенда](https://habr.com/ru/companies/timeweb/articles/1006680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006680)
 <!-- BLOG-POST-LIST:END -->
 
 ---
