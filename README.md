@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Зачем и как избавляться от незаменимых сотрудников](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/1003870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1003870)
-- [Разбираем подводные камни, ошибки и лучшие практики при разработке Kubernetes-операторов. Часть 3](https://habr.com/ru/companies/sberbank/articles/1015936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015936)
-- [Новый народный мессенджер России. Можно, а зачем?](https://habr.com/ru/articles/1016784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016784)
-- [Конец преимущества корпораций: как вайбкодинг уравнял малый бизнес с энтерпрайзом в автоматизации](https://habr.com/ru/companies/yandex_praktikum/articles/1016722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016722)
-- [[Перевод] 37 советов и приемов по написанию качественных тестов для фронтенда](https://habr.com/ru/companies/timeweb/articles/1006680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006680)
+- [Какие документы должны быть на сайте?](https://habr.com/ru/articles/1016864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016864)
+- [«СибИАЦ» ускоряет получение 2D-чертежей из модели в nanoCAD BIM Строительство](https://habr.com/ru/companies/nanosoft/articles/1016832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016832)
+- [Записки оптимизатора 1С &lpar;ч.16&rpar;. Риски падения Postgres: потребление и высвобождение памяти процессами postgres](https://habr.com/ru/companies/softpoint/articles/1016828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016828)
+- [Почему главный вопрос философии больше не имеет смысла: что квантовая физика говорит о материи и сознании](https://habr.com/ru/articles/1016824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016824)
+- [Почему хаос в данных убивает продажи и как правильная архитектура спасает ритейл](https://habr.com/ru/companies/qsoft/articles/1016816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016816)
 <!-- BLOG-POST-LIST:END -->
 
 ---
