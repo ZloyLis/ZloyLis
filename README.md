@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Если ваш админ — самурай или «обнять и плакать»](https://habr.com/ru/articles/1016684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016684)
+- [[Перевод] Долг понимания — скрытая цена кода, сгенерированного искусственным интеллектом](https://habr.com/ru/articles/1016680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016680)
 - [Наконец-то нашел Android Service своей мечты после того, как потерял его 13 лет назад](https://habr.com/ru/articles/1016662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016662)
 - [Парсер‑комбинаторы «с нуля»](https://habr.com/ru/articles/1016632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016632)
 - [Внутренняя поверхность полой Земли: проектируем механику ходьбы](https://habr.com/ru/articles/1016622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016622)
-- [[Перевод] Структуры данных на практике. Глава 10: B-деревья и деревья, эффективно использующие кэш](https://habr.com/ru/articles/1013048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013048)
-- [«Вечнозеленый» спор —&amp;gt; Должен ли руководитель разработки &lpar;engineering manager&rpar; программировать наравне с командой?](https://habr.com/ru/companies/beeline_cloud/articles/1016100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016100)
 <!-- BLOG-POST-LIST:END -->
 
 ---
