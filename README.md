@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Объединяем уровни абстракции: обобщаем артефакты анализа для общего видения концепта задачи](https://habr.com/ru/articles/1016962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016962)
+- [Concepts в C++: шаблоны, которые наконец‑то понятны](https://habr.com/ru/companies/otus/articles/1015248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015248)
+- [Enterprise‑мониторинг на Zabbix: пороги, зависимости, антиспам и кастомные скрипты](https://habr.com/ru/companies/k2tech/articles/1016902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016902)
+- [12 слов вместо номера телефона: как мы сделали мессенджер невидимым для файрволов](https://habr.com/ru/articles/1016900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016900)
 - [Какие документы должны быть на сайте?](https://habr.com/ru/articles/1016864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016864)
-- [«СибИАЦ» ускоряет получение 2D-чертежей из модели в nanoCAD BIM Строительство](https://habr.com/ru/companies/nanosoft/articles/1016832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016832)
-- [Записки оптимизатора 1С &lpar;ч.16&rpar;. Риски падения Postgres: потребление и высвобождение памяти процессами postgres](https://habr.com/ru/companies/softpoint/articles/1016828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016828)
-- [Почему главный вопрос философии больше не имеет смысла: что квантовая физика говорит о материи и сознании](https://habr.com/ru/articles/1016824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016824)
-- [Почему хаос в данных убивает продажи и как правильная архитектура спасает ритейл](https://habr.com/ru/companies/qsoft/articles/1016816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016816)
 <!-- BLOG-POST-LIST:END -->
 
 ---
