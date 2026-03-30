@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Чёрт, опять этот CSS. Коллекция кейсов, когда CSS бесит](https://habr.com/ru/companies/ruvds/articles/1015020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015020)
+- [[Перевод] OpenTelemetry со Spring Boot](https://habr.com/ru/companies/spring_aio/articles/1017016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017016)
+- [Микросервисы или Low-code? Разбираем возможности Nuxeo на примере ипотечного конвейера](https://habr.com/ru/articles/1017012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017012)
+- [Оплату Apple с мобильного счёта запретят в России, как оплатить App Store теперь и что будет дальше?](https://habr.com/ru/companies/paybeam/articles/1016948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016948)
 - [Объединяем уровни абстракции: обобщаем артефакты анализа для общего видения концепта задачи](https://habr.com/ru/articles/1016962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016962)
-- [Concepts в C++: шаблоны, которые наконец‑то понятны](https://habr.com/ru/companies/otus/articles/1015248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015248)
-- [Enterprise‑мониторинг на Zabbix: пороги, зависимости, антиспам и кастомные скрипты](https://habr.com/ru/companies/k2tech/articles/1016902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016902)
-- [12 слов вместо номера телефона: как мы сделали мессенджер невидимым для файрволов](https://habr.com/ru/articles/1016900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016900)
-- [Какие документы должны быть на сайте?](https://habr.com/ru/articles/1016864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016864)
 <!-- BLOG-POST-LIST:END -->
 
 ---
