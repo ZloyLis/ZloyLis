@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Мы использовали LLM в разработке ровно год. Рассказываю о реальных результатах](https://habr.com/ru/articles/1014292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014292)
-- [ИИ-агенты никому не нужны](https://habr.com/ru/articles/1017342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017342)
-- [«Поставить себя на ваше место». Мы занялись метаболизмом ИИ](https://habr.com/ru/articles/1017336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017336)
-- [Как поход в кино превратился в сессию системного дизайна](https://habr.com/ru/articles/1017332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017332)
-- [Архитектура vs Цели: почему при выборе платформы мы забываем спросить: «Зачем?»](https://habr.com/ru/companies/usetech/articles/1017298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017298)
+- [Генерация больших Excel отчетов без таймаутов: опыт внедрения Spring Batch](https://habr.com/ru/articles/1017220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017220)
+- [Как стать аналитиком данных и сколько можно зарабатывать](https://habr.com/ru/companies/habr_career/articles/1017412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017412)
+- [Records в C#: Классы, которые пишут код за вас](https://habr.com/ru/companies/otus/articles/1016500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016500)
+- [Замыкания в JavaScript](https://habr.com/ru/articles/1017374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017374)
+- [UI + API как единый интеграционный контур](https://habr.com/ru/companies/rostelecom/articles/1017370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017370)
 <!-- BLOG-POST-LIST:END -->
 
 ---
