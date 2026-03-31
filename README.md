@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Интервью Гвидо ван Россума с core-разработчиком Python Бреттом Кэнноном](https://habr.com/ru/articles/1017676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017676)
+- [RFC 69.69: Протокол SOS &lpar;Sex Over SMS&rpar;, спецификация](https://habr.com/ru/articles/1017720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017720)
 - [Один вход для всех: как мы строили Gateway и выходили из хаоса nginx + Lua](https://habr.com/ru/companies/ispring/articles/1017690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017690)
 - [Колобок](https://habr.com/ru/articles/1015046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015046)
 - [Обзор смартфона Infinix NOTE 60](https://habr.com/ru/articles/1017702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017702)
-- [Парсинг тарифов интернета и ТВ. Selenium + BeautifulSoup: трудности динамического контента и защиты от ботов](https://habr.com/ru/articles/1017230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017230)
-- [Гонка вооружений. Почему античиты всегда проигрывают?](https://habr.com/ru/articles/1017654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017654)
 <!-- BLOG-POST-LIST:END -->
 
 ---
