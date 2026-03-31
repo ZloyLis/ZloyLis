@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Хватит просто писать код, попробуйте в нём выжить. Представляем GitCrab 1.0](https://habr.com/ru/articles/1006158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006158)
 - [[Перевод] Интервью Гвидо ван Россума с core-разработчиком Python Бреттом Кэнноном](https://habr.com/ru/articles/1017676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017676)
 - [RFC 69.69: Протокол SOS &lpar;Sex Over SMS&rpar;, спецификация](https://habr.com/ru/articles/1017720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017720)
 - [Один вход для всех: как мы строили Gateway и выходили из хаоса nginx + Lua](https://habr.com/ru/companies/ispring/articles/1017690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017690)
 - [Колобок](https://habr.com/ru/articles/1015046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015046)
-- [Обзор смартфона Infinix NOTE 60](https://habr.com/ru/articles/1017702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017702)
 <!-- BLOG-POST-LIST:END -->
 
 ---
