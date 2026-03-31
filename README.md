@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Парсинг тарифов интернета и ТВ. Selenium + BeautifulSoup: трудности динамического контента и защиты от ботов](https://habr.com/ru/articles/1017230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017230)
+- [Гонка вооружений. Почему античиты всегда проигрывают?](https://habr.com/ru/articles/1017654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017654)
 - [Галлюцинации LLM — это артефакты сжатия. И это объясняет вообще всё](https://habr.com/ru/articles/1017612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017612)
 - [Observability в финтехе: связываем клик пользователя с падением интеграции](https://habr.com/ru/articles/1017650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017650)
 - [ИИ управляет КОМПАС-3D — и это уже можно трогать руками](https://habr.com/ru/articles/1017630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017630)
-- [От Google таблиц к DataLens + PostgreSQL: как мы делали BI-систему для WB и Ozon](https://habr.com/ru/articles/1017624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017624)
-- [Запустил свой open source проект на 3 площадках для стартапов. Вот что получилось](https://habr.com/ru/articles/1017604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017604)
 <!-- BLOG-POST-LIST:END -->
 
 ---
