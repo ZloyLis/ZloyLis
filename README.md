@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Запустил свой open source проект на 3 площадках для стартапов. Вот что получилось](https://habr.com/ru/articles/1017604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017604)
+- [Информационный мусор в интерфейсах](https://habr.com/ru/articles/1017602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017602)
+- [Kaspresso: cравниваем скриншоты и упрощаем проверку дизайна](https://habr.com/ru/companies/kaspersky/articles/1015854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015854)
+- [Утекли исходники Claude Code](https://habr.com/ru/companies/bar/articles/1017574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017574)
 - [Как Swift работает с памятью: подробный гайд для разработчиков. Часть 1](https://habr.com/ru/companies/avito/articles/1017162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017162)
-- [SAFe, платформенные команды и ИИ в разработке: как устроен IT в MANGO OFFICE](https://habr.com/ru/companies/mango_telecom/articles/1017534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017534)
-- [Люди набирают 100%, GPT-5.4 — 0,26%, а Google хватило всего лишь 3-бит](https://habr.com/ru/companies/haulmont/articles/1017460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017460)
-- [Налог на неэффективность: как новая тарифная модель меняет экономику ЦОДов](https://habr.com/ru/companies/openyard/articles/1017482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017482)
-- [Как мы приручили JMX-файл на 50 000 строк: декомпозиция JMeter-тестов для нормального code review](https://habr.com/ru/articles/1017472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017472)
 <!-- BLOG-POST-LIST:END -->
 
 ---
