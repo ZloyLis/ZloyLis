@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Настройка сети в Kubernetes: основы CNI](https://habr.com/ru/companies/flant/articles/1015810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015810)
+- [AI это не совсем IT](https://habr.com/ru/articles/1017216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017216)
+- [Лиды не люди](https://habr.com/ru/companies/2gis/articles/1015270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015270)
 - [Долой иерархию и роли: о том, как LLM-агенты самоорганизуются лучше, чем мы их проектируем](https://habr.com/ru/articles/1017200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017200)
 - [[Перевод] Как улучшить пейволл в мобильном приложении](https://habr.com/ru/articles/1017184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017184)
-- [[Перевод] Что открыл Гёдель](https://habr.com/ru/articles/1017176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017176)
-- [Security Week 2614: атака класса supply chain на библиотеку LiteLLM](https://habr.com/ru/companies/kaspersky/articles/1016674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016674)
-- [Лучшие промпты для генерации кода и программистов](https://habr.com/ru/companies/bothub/articles/1017096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017096)
 <!-- BLOG-POST-LIST:END -->
 
 ---
