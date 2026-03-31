@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Галлюцинации LLM — это артефакты сжатия. И это объясняет вообще всё](https://habr.com/ru/articles/1017612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017612)
+- [Observability в финтехе: связываем клик пользователя с падением интеграции](https://habr.com/ru/articles/1017650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017650)
+- [ИИ управляет КОМПАС-3D — и это уже можно трогать руками](https://habr.com/ru/articles/1017630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017630)
+- [От Google таблиц к DataLens + PostgreSQL: как мы делали BI-систему для WB и Ozon](https://habr.com/ru/articles/1017624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017624)
 - [Запустил свой open source проект на 3 площадках для стартапов. Вот что получилось](https://habr.com/ru/articles/1017604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017604)
-- [Информационный мусор в интерфейсах](https://habr.com/ru/articles/1017602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017602)
-- [Kaspresso: cравниваем скриншоты и упрощаем проверку дизайна](https://habr.com/ru/companies/kaspersky/articles/1015854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015854)
-- [Утекли исходники Claude Code](https://habr.com/ru/companies/bar/articles/1017574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017574)
-- [Как Swift работает с памятью: подробный гайд для разработчиков. Часть 1](https://habr.com/ru/companies/avito/articles/1017162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017162)
 <!-- BLOG-POST-LIST:END -->
 
 ---
