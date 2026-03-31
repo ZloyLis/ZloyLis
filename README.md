@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Один вход для всех: как мы строили Gateway и выходили из хаоса nginx + Lua](https://habr.com/ru/companies/ispring/articles/1017690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017690)
+- [Колобок](https://habr.com/ru/articles/1015046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015046)
+- [Обзор смартфона Infinix NOTE 60](https://habr.com/ru/articles/1017702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017702)
 - [Парсинг тарифов интернета и ТВ. Selenium + BeautifulSoup: трудности динамического контента и защиты от ботов](https://habr.com/ru/articles/1017230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017230)
 - [Гонка вооружений. Почему античиты всегда проигрывают?](https://habr.com/ru/articles/1017654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017654)
-- [Галлюцинации LLM — это артефакты сжатия. И это объясняет вообще всё](https://habr.com/ru/articles/1017612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017612)
-- [Observability в финтехе: связываем клик пользователя с падением интеграции](https://habr.com/ru/articles/1017650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017650)
-- [ИИ управляет КОМПАС-3D — и это уже можно трогать руками](https://habr.com/ru/articles/1017630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017630)
 <!-- BLOG-POST-LIST:END -->
 
 ---
