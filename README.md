@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Почему искусственный интеллект не может заменить врачей и ученых, но может им помочь](https://habr.com/ru/articles/1017292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017292)
-- [Эпические баги: как переиспользование вызова функции принесло убыток в $450.000.000](https://habr.com/ru/companies/beget/articles/1012834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012834)
-- [Математическое программирование vs RL: может ли ИИ догнать классику в оптимизации?](https://habr.com/ru/articles/1013720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013720)
-- [AiConf 2026: переход от теории к практике](https://habr.com/ru/companies/oleg-bunin/articles/1017262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017262)
-- [Ну когда уже мы перестанем писать код???](https://habr.com/ru/articles/1017272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017272)
+- [Мы использовали LLM в разработке ровно год. Рассказываю о реальных результатах](https://habr.com/ru/articles/1014292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014292)
+- [ИИ-агенты никому не нужны](https://habr.com/ru/articles/1017342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017342)
+- [«Поставить себя на ваше место». Мы занялись метаболизмом ИИ](https://habr.com/ru/articles/1017336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017336)
+- [Как поход в кино превратился в сессию системного дизайна](https://habr.com/ru/articles/1017332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017332)
+- [Архитектура vs Цели: почему при выборе платформы мы забываем спросить: «Зачем?»](https://habr.com/ru/companies/usetech/articles/1017298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017298)
 <!-- BLOG-POST-LIST:END -->
 
 ---
