@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы приручили JMX-файл на 50 000 строк: декомпозиция JMeter-тестов для нормального code review](https://habr.com/ru/articles/1017472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017472)
+- [MCP vs Thin MCP: где AI агенты теряют скорость](https://habr.com/ru/companies/raft/articles/1011860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011860)
+- [От Telegram-бота к web-приложению: как я перестал бороться с Excel и начал строить систему](https://habr.com/ru/articles/1017450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017450)
 - [Генерация больших Excel отчетов без таймаутов: опыт внедрения Spring Batch](https://habr.com/ru/articles/1017220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017220)
 - [Как стать аналитиком данных и сколько можно зарабатывать](https://habr.com/ru/companies/habr_career/articles/1017412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017412)
-- [Records в C#: Классы, которые пишут код за вас](https://habr.com/ru/companies/otus/articles/1016500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016500)
-- [Замыкания в JavaScript](https://habr.com/ru/articles/1017374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017374)
-- [UI + API как единый интеграционный контур](https://habr.com/ru/companies/rostelecom/articles/1017370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017370)
 <!-- BLOG-POST-LIST:END -->
 
 ---
