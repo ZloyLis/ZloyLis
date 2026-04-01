@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Дайджест технических новостей, переводов и лонгридов инфослужбы Хабра за март 2026 года](https://habr.com/ru/articles/1005080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1005080)
-- [Хватит просто писать код, попробуйте в нём выжить. Представляем GitCrab 1.0](https://habr.com/ru/articles/1006158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1006158)
-- [[Перевод] Интервью Гвидо ван Россума с core-разработчиком Python Бреттом Кэнноном](https://habr.com/ru/articles/1017676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017676)
-- [RFC 69.69: Протокол SOS &lpar;Sex Over SMS&rpar;, спецификация](https://habr.com/ru/articles/1017720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017720)
-- [Один вход для всех: как мы строили Gateway и выходили из хаоса nginx + Lua](https://habr.com/ru/companies/ispring/articles/1017690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017690)
+- [76 открытых уроков апреля: от OpenAPI и Symfony до SQL, SIEM и Spark](https://habr.com/ru/companies/otus/articles/1017002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017002)
+- [Круглые тензоры: как докатиться до AGI и сэкономить память](https://habr.com/ru/companies/airi/articles/1015792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015792)
+- [Хватит винить кривые руки. Твой язык программирования энергетически тебе не подходит](https://habr.com/ru/companies/timeweb/articles/1017214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017214)
+- [Три невероятно глупых вопроса от гуманитария о последствиях бесконечного генерирования ИИ-кода](https://habr.com/ru/companies/alfa/articles/1017042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017042)
+- [[Перевод] ИИ-агенты не справляются не потому что тупые](https://habr.com/ru/articles/1017788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017788)
 <!-- BLOG-POST-LIST:END -->
 
 ---
