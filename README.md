@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Задача внешней баллистики. Первая часть. Аналитическое решение](https://habr.com/ru/articles/1016454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016454)
-- [Scala Digest. Выпуск 39](https://habr.com/ru/companies/tbank/articles/1017922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017922)
-- [Я заменил целую команду разработки на ИИ. 0 рублей, 2 недели, 2 приложения](https://habr.com/ru/articles/1017748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017748)
-- [Работа с Telegram Bot API: https, commands, send или как создать бота](https://habr.com/ru/companies/amvera/articles/1017924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017924)
-- [Ленточная библиотека SL150 не должна была существовать](https://habr.com/ru/companies/jetinfosystems/articles/1017904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017904)
+- [OpenIDE Plugin: от нуля до Bug Bounty — учимся создавать  плагины и давим баги](https://habr.com/ru/companies/haulmont/articles/1017968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017968)
+- [Гайд системного аналитика по корректировкам витрин](https://habr.com/ru/companies/neoflex/articles/1017992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017992)
+- [Рейтинг языков программирования на GitHub: анализ 2024–2025 в JupyterLab и Anaconda](https://habr.com/ru/companies/hostkey/articles/1017990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017990)
+- [Скорочтение — скрытый гем. Спасение в эпоху LLM](https://habr.com/ru/articles/1017978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017978)
+- [Место Питона, Си и Паскаля в образовательном процессе](https://habr.com/ru/articles/1017594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017594)
 <!-- BLOG-POST-LIST:END -->
 
 ---
