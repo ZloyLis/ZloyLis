@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От вайб-кодинга к вайб-охране кода: что делать прямо сейчас](https://habr.com/ru/articles/1018188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018188)
+- [[Перевод] Мета-теория связей 0.0.3](https://habr.com/ru/articles/1018142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018142)
+- [Spring, kafka, неблокирующий retry, лаги](https://habr.com/ru/articles/1018174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018174)
+- [Вся музыка, все фотографии и весь Wi-Fi работают на одном трюке. Ему 200 лет](https://habr.com/ru/articles/1018172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018172)
 - [Асинхронное логирование в C++ — не серебряная пуля: что на самом деле ограничивает производительность](https://habr.com/ru/articles/1017842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017842)
-- [Как найти UB, которое никто не хочет замечать: разбираем clang-tidy изнутри](https://habr.com/ru/companies/yadro/articles/1017930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017930)
-- [Evil Merge: как малварь пряталась в git merge-коммите 3,5 месяца](https://habr.com/ru/articles/1018124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018124)
-- [Как продвигать сайт в 2026 году. SEO и GEO](https://habr.com/ru/articles/1016942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016942)
-- [Насмотренность — ловушка. Что на самом деле развивает продуктового дизайнера](https://habr.com/ru/companies/garage8/articles/1018080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018080)
 <!-- BLOG-POST-LIST:END -->
 
 ---
