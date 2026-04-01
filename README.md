@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Вебхуки в Битрикс24: автоматизация CRM без написания приложений](https://habr.com/ru/companies/otus/articles/1017116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017116)
-- [Геораспределенное резервирование Postgres при помощи Debezium](https://habr.com/ru/companies/oleg-bunin/articles/1001862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001862)
-- [Пакет yx_virtual_device: опенсорс‑инструмент для упрощения тестирования Flutter‑приложений](https://habr.com/ru/companies/yandex/articles/1016888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016888)
-- [Почему PostgreSQL не использует ваш индекс](https://habr.com/ru/articles/1011998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011998)
-- [Математическая модель полета комаров](https://habr.com/ru/companies/ua-hosting/articles/1017344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017344)
+- [Задача внешней баллистики. Первая часть. Аналитическое решение](https://habr.com/ru/articles/1016454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016454)
+- [Scala Digest. Выпуск 39](https://habr.com/ru/companies/tbank/articles/1017922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017922)
+- [Я заменил целую команду разработки на ИИ. 0 рублей, 2 недели, 2 приложения](https://habr.com/ru/articles/1017748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017748)
+- [Работа с Telegram Bot API: https, commands, send или как создать бота](https://habr.com/ru/companies/amvera/articles/1017924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017924)
+- [Ленточная библиотека SL150 не должна была существовать](https://habr.com/ru/companies/jetinfosystems/articles/1017904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017904)
 <!-- BLOG-POST-LIST:END -->
 
 ---
