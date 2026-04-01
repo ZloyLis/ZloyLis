@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenIDE Plugin: от нуля до Bug Bounty — учимся создавать  плагины и давим баги](https://habr.com/ru/companies/haulmont/articles/1017968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017968)
-- [Гайд системного аналитика по корректировкам витрин](https://habr.com/ru/companies/neoflex/articles/1017992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017992)
-- [Рейтинг языков программирования на GitHub: анализ 2024–2025 в JupyterLab и Anaconda](https://habr.com/ru/companies/hostkey/articles/1017990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017990)
-- [Скорочтение — скрытый гем. Спасение в эпоху LLM](https://habr.com/ru/articles/1017978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017978)
-- [Место Питона, Си и Паскаля в образовательном процессе](https://habr.com/ru/articles/1017594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017594)
+- [Оптимизация производительности во Flutter](https://habr.com/ru/articles/1017468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017468)
+- [Ведьма, чума, компьютер и ИИ: как человечество приручало неизвестное](https://habr.com/ru/articles/1017532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017532)
+- [Как автор книг по Kotlin проверял мой проект: разбор ошибок в Coroutines и архитектуре](https://habr.com/ru/articles/1018040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018040)
+- [Игровые серверы на Cozystack: первоапрельская нешутка](https://habr.com/ru/companies/aenix/articles/1018034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018034)
+- [Apple Developer enrollment и Unknown Error: как «неизвестная» ошибка оказалась региональным ограничением](https://habr.com/ru/articles/1018018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018018)
 <!-- BLOG-POST-LIST:END -->
 
 ---
