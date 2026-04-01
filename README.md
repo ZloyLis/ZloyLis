@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Symfony Serializer](https://habr.com/ru/companies/otus/articles/1013750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013750)
 - [Почему при 136 рпс и 150 рпс лимита наблюдалось 7 рпс ошибок 429](https://habr.com/ru/articles/1018202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018202)
 - [От вайб-кодинга к вайб-охране кода: что делать прямо сейчас](https://habr.com/ru/articles/1018188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018188)
 - [[Перевод] Мета-теория связей 0.0.3](https://habr.com/ru/articles/1018142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018142)
 - [Spring, kafka, неблокирующий retry, лаги](https://habr.com/ru/articles/1018174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018174)
-- [Вся музыка, все фотографии и весь Wi-Fi работают на одном трюке. Ему 200 лет](https://habr.com/ru/articles/1018172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018172)
 <!-- BLOG-POST-LIST:END -->
 
 ---
