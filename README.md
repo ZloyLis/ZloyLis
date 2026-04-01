@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Оптимизация производительности во Flutter](https://habr.com/ru/articles/1017468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017468)
-- [Ведьма, чума, компьютер и ИИ: как человечество приручало неизвестное](https://habr.com/ru/articles/1017532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017532)
-- [Как автор книг по Kotlin проверял мой проект: разбор ошибок в Coroutines и архитектуре](https://habr.com/ru/articles/1018040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018040)
-- [Игровые серверы на Cozystack: первоапрельская нешутка](https://habr.com/ru/companies/aenix/articles/1018034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018034)
-- [Apple Developer enrollment и Unknown Error: как «неизвестная» ошибка оказалась региональным ограничением](https://habr.com/ru/articles/1018018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018018)
+- [Как найти UB, которое никто не хочет замечать: разбираем clang-tidy изнутри](https://habr.com/ru/companies/yadro/articles/1017930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017930)
+- [Evil Merge: как малварь пряталась в git merge-коммите 3,5 месяца](https://habr.com/ru/articles/1018124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018124)
+- [Профессия разработчик полностью исчезнет в ближайшем будущем](https://habr.com/ru/articles/1018120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018120)
+- [Как продвигать сайт в 2026 году. SEO и GEO](https://habr.com/ru/articles/1016942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016942)
+- [Насмотренность — ловушка. Что на самом деле развивает продуктового дизайнера](https://habr.com/ru/companies/garage8/articles/1018080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018080)
 <!-- BLOG-POST-LIST:END -->
 
 ---
