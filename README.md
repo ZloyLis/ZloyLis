@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [76 открытых уроков апреля: от OpenAPI и Symfony до SQL, SIEM и Spark](https://habr.com/ru/companies/otus/articles/1017002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017002)
-- [Круглые тензоры: как докатиться до AGI и сэкономить память](https://habr.com/ru/companies/airi/articles/1015792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015792)
-- [Хватит винить кривые руки. Твой язык программирования энергетически тебе не подходит](https://habr.com/ru/companies/timeweb/articles/1017214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017214)
-- [Три невероятно глупых вопроса от гуманитария о последствиях бесконечного генерирования ИИ-кода](https://habr.com/ru/companies/alfa/articles/1017042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017042)
-- [[Перевод] ИИ-агенты не справляются не потому что тупые](https://habr.com/ru/articles/1017788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017788)
+- [Вебхуки в Битрикс24: автоматизация CRM без написания приложений](https://habr.com/ru/companies/otus/articles/1017116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017116)
+- [Геораспределенное резервирование Postgres при помощи Debezium](https://habr.com/ru/companies/oleg-bunin/articles/1001862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1001862)
+- [Пакет yx_virtual_device: опенсорс‑инструмент для упрощения тестирования Flutter‑приложений](https://habr.com/ru/companies/yandex/articles/1016888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016888)
+- [Почему PostgreSQL не использует ваш индекс](https://habr.com/ru/articles/1011998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011998)
+- [Математическая модель полета комаров](https://habr.com/ru/companies/ua-hosting/articles/1017344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017344)
 <!-- BLOG-POST-LIST:END -->
 
 ---
