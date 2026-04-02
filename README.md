@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [CLI через Segger J-Link RTT на ARM Cortex-M &lpar;или однопортовая лапароскопия&rpar;](https://habr.com/ru/articles/1018168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018168)
 - [Authorization без middleware: как я завернул Casbin в декораторы для FastAPI](https://habr.com/ru/articles/1018670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018670)
 - [Десктопный агент «Союз»: безопасный и бесплатный, теперь Open Source](https://habr.com/ru/articles/1018246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018246)
 - [Оптимизация запросов в Spring Data JDBC](https://habr.com/ru/companies/spring_aio/articles/1010558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010558)
 - [Почему я написал Ёбифай: свой планировщик для фоновых задач на Python](https://habr.com/ru/articles/1018646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018646)
-- [Руководство по оптимизации производительности сайта](https://habr.com/ru/articles/1018636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018636)
 <!-- BLOG-POST-LIST:END -->
 
 ---
