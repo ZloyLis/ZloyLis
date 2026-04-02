@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как меняется delivery, когда в команде появляются агенты](https://habr.com/ru/articles/1012654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012654)
+- [Компилятор C в compile-time](https://habr.com/ru/articles/1018504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018504)
+- [Оптимизация запроса: SQL запрос выполнялся 5 минут, а после правок 2 секунды](https://habr.com/ru/articles/1018484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018484)
 - [Кейс Клаудмастер: как редизайн интерфейса управления облачных бюджетов увеличил глубину сессии в 5 раз](https://habr.com/ru/companies/inferit/articles/1018460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018460)
 - [OpenAI закрывают Sora, MiniMax обучает сама себя, Nvidia ставит на Миру Мурати: главные события марта в ИИ](https://habr.com/ru/companies/magnus-tech/articles/1017658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017658)
-- [Что прокачивать на каждом грейде: навыки джуна, мидла и синьора](https://habr.com/ru/companies/yandex_praktikum/articles/1018036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018036)
-- [Flutter-дайджест: март 2026](https://habr.com/ru/articles/1018402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018402)
-- [TypeScript в Next.js как система контрактов, а не типизация ради типизации](https://habr.com/ru/articles/1018382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018382)
 <!-- BLOG-POST-LIST:END -->
 
 ---
