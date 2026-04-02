@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как настроить автоматические пины из статей сайта в Pinterest](https://habr.com/ru/articles/1018734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018734)
+- [Прохождение машины Stacked на Hack The Box](https://habr.com/ru/articles/1018730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018730)
 - [Повезло или сам добился? Как оценить](https://habr.com/ru/articles/1018716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018716)
 - [Apple хочет чтобы я купил Mac за 200к. У меня два приложения в App Store и ни одного макбука](https://habr.com/ru/articles/1018714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018714)
 - [Память для LLM-чата на Python. Часть 3: добавляем историю сообщений и контекст](https://habr.com/ru/articles/1018688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018688)
-- [CLI через Segger J-Link RTT на ARM Cortex-M &lpar;или однопортовая лапароскопия&rpar;](https://habr.com/ru/articles/1018168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018168)
-- [Authorization без middleware: как я завернул Casbin в декораторы для FastAPI](https://habr.com/ru/articles/1018670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018670)
 <!-- BLOG-POST-LIST:END -->
 
 ---
