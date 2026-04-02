@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Разбор задач по System Design. Проектируем Ticketmaster](https://habr.com/ru/articles/1018516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018516)
-- [Гайд для малышей: как перегнать дизайн из Figma в код](https://habr.com/ru/articles/1018064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018064)
-- [Создаем Java обертку для C++ класса в Android приложении, а также реализуем обратные вызовы из нэйтива](https://habr.com/ru/articles/1017486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017486)
-- [Кэширование сетевых запросов в Ktorfit с помощью Ktor Plugins](https://habr.com/ru/articles/956950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956950)
-- [Первый в своем роде ИИ помощник на вашем телефоне](https://habr.com/ru/articles/1018570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018570)
+- [Лучшие YouTube-каналы по Data и Product Analytics, которые прокачивают английский &lpar;и мышление&rpar;](https://habr.com/ru/articles/1018610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018610)
+- [Продвинутый RBAC: роли, статусы, теги без боли и страданий](https://habr.com/ru/articles/1017810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017810)
+- [Как я детей вайбкодингу учил](https://habr.com/ru/articles/1018594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018594)
+- [Как Swift работает с памятью: подробный гайд для разработчиков. Часть 2](https://habr.com/ru/companies/avito/articles/1017248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017248)
+- [Параллелизм с общим состоянием в Rust](https://habr.com/ru/articles/1018592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018592)
 <!-- BLOG-POST-LIST:END -->
 
 ---
