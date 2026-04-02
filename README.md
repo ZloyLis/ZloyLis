@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ваша LLM галлюцинирует? Наденьте на неё экзоскелет — и заставьте работать по правилам](https://habr.com/ru/articles/1018238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018238)
-- [Как я взломал «исходный код» Вселенной на MacBook Pro и закрыл 90% экзопланет для жизни](https://habr.com/ru/articles/1018248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018248)
-- [Claude Code бесплатно: как использовать ии бесплатно в 2026 году](https://habr.com/ru/articles/1018234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018234)
-- [Symfony Serializer](https://habr.com/ru/companies/otus/articles/1013750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013750)
-- [Почему при 136 рпс и 150 рпс лимита наблюдалось 7 рпс ошибок 429](https://habr.com/ru/articles/1018202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018202)
+- [Передаем код правильно](https://habr.com/ru/articles/1018272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018272)
+- [Вайбкодинг — это смерть AGI. Claude это доказал](https://habr.com/ru/articles/1018270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018270)
+- [Кастомная аналитика для Wildberries и Ozon — WBOZYA-dash](https://habr.com/ru/articles/1017808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017808)
+- [Программист-дирижёр: как ИИ и Industry 4.0 меняет роль инженера](https://habr.com/ru/companies/diasoft_company/articles/1018082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018082)
+- [РБПО по ГОСТ: где на самом деле ломается безопасность кода](https://habr.com/ru/companies/diasoft_company/articles/1018104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018104)
 <!-- BLOG-POST-LIST:END -->
 
 ---
