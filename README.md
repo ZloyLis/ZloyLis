@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как меняется delivery, когда в команде появляются агенты](https://habr.com/ru/articles/1012654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012654)
-- [Компилятор C в compile-time](https://habr.com/ru/articles/1018504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018504)
-- [Оптимизация запроса: SQL запрос выполнялся 5 минут, а после правок 2 секунды](https://habr.com/ru/articles/1018484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018484)
-- [Кейс Клаудмастер: как редизайн интерфейса управления облачных бюджетов увеличил глубину сессии в 5 раз](https://habr.com/ru/companies/inferit/articles/1018460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018460)
-- [OpenAI закрывают Sora, MiniMax обучает сама себя, Nvidia ставит на Миру Мурати: главные события марта в ИИ](https://habr.com/ru/companies/magnus-tech/articles/1017658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017658)
+- [[Перевод] Разбор задач по System Design. Проектируем Ticketmaster](https://habr.com/ru/articles/1018516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018516)
+- [Гайд для малышей: как перегнать дизайн из Figma в код](https://habr.com/ru/articles/1018064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018064)
+- [Создаем Java обертку для C++ класса в Android приложении, а также реализуем обратные вызовы из нэйтива](https://habr.com/ru/articles/1017486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017486)
+- [Кэширование сетевых запросов в Ktorfit с помощью Ktor Plugins](https://habr.com/ru/articles/956950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=956950)
+- [Первый в своем роде ИИ помощник на вашем телефоне](https://habr.com/ru/articles/1018570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018570)
 <!-- BLOG-POST-LIST:END -->
 
 ---
