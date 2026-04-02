@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Передаем код правильно](https://habr.com/ru/articles/1018272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018272)
-- [Вайбкодинг — это смерть AGI. Claude это доказал](https://habr.com/ru/articles/1018270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018270)
-- [Кастомная аналитика для Wildberries и Ozon — WBOZYA-dash](https://habr.com/ru/articles/1017808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017808)
-- [Программист-дирижёр: как ИИ и Industry 4.0 меняет роль инженера](https://habr.com/ru/companies/diasoft_company/articles/1018082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018082)
-- [РБПО по ГОСТ: где на самом деле ломается безопасность кода](https://habr.com/ru/companies/diasoft_company/articles/1018104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018104)
+- [Статья, в которой я рассуждаю о разных видах code review](https://habr.com/ru/companies/alfa/articles/1017452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017452)
+- [Как мы пережили цветовой кризис в RuStore и нашли путь к тёмной стороне темы](https://habr.com/ru/companies/vk/articles/1017912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017912)
+- [Микросервис потоковой конвертации видео &lpar;Python, FFmpeg&rpar;](https://habr.com/ru/companies/domclick/articles/1015534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015534)
+- [Оптимизация Flutter-приложения: списки, build&lpar;&rpar; и утечки памяти](https://habr.com/ru/companies/friflex/articles/1018320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018320)
+- [Типичные ошибки новичков в FPGA: от выбора платы до неинтуитивных кнопок](https://habr.com/ru/companies/yadro/articles/1017628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017628)
 <!-- BLOG-POST-LIST:END -->
 
 ---
