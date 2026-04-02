@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter-дайджест: март 2026](https://habr.com/ru/articles/1018402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018402)
+- [TypeScript в Next.js как система контрактов, а не типизация ради типизации](https://habr.com/ru/articles/1018382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018382)
+- [Оперативная память, и когда она подешевеет](https://habr.com/ru/companies/x-com/articles/1018366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018366)
+- [AI пишет код быстрее, а архитектура не успевает: три направления работы Go-команд сегодня](https://habr.com/ru/companies/oleg-bunin/articles/1016856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016856)
 - [Статья, в которой я рассуждаю о разных видах code review](https://habr.com/ru/companies/alfa/articles/1017452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017452)
-- [Как мы пережили цветовой кризис в RuStore и нашли путь к тёмной стороне темы](https://habr.com/ru/companies/vk/articles/1017912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017912)
-- [Микросервис потоковой конвертации видео &lpar;Python, FFmpeg&rpar;](https://habr.com/ru/companies/domclick/articles/1015534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015534)
-- [Оптимизация Flutter-приложения: списки, build&lpar;&rpar; и утечки памяти](https://habr.com/ru/companies/friflex/articles/1018320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018320)
-- [Типичные ошибки новичков в FPGA: от выбора платы до неинтуитивных кнопок](https://habr.com/ru/companies/yadro/articles/1017628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017628)
 <!-- BLOG-POST-LIST:END -->
 
 ---
