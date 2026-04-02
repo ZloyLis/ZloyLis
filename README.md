@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кейс Клаудмастер: как редизайн интерфейса управления облачных бюджетов увеличил глубину сессии в 5 раз](https://habr.com/ru/companies/inferit/articles/1018460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018460)
+- [OpenAI закрывают Sora, MiniMax обучает сама себя, Nvidia ставит на Миру Мурати: главные события марта в ИИ](https://habr.com/ru/companies/magnus-tech/articles/1017658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017658)
+- [Что прокачивать на каждом грейде: навыки джуна, мидла и синьора](https://habr.com/ru/companies/yandex_praktikum/articles/1018036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018036)
 - [Flutter-дайджест: март 2026](https://habr.com/ru/articles/1018402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018402)
 - [TypeScript в Next.js как система контрактов, а не типизация ради типизации](https://habr.com/ru/articles/1018382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018382)
-- [Оперативная память, и когда она подешевеет](https://habr.com/ru/companies/x-com/articles/1018366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018366)
-- [AI пишет код быстрее, а архитектура не успевает: три направления работы Go-команд сегодня](https://habr.com/ru/companies/oleg-bunin/articles/1016856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016856)
-- [Статья, в которой я рассуждаю о разных видах code review](https://habr.com/ru/companies/alfa/articles/1017452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017452)
 <!-- BLOG-POST-LIST:END -->
 
 ---
