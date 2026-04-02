@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я взломал «исходный код» Вселенной на MacBook Pro и закрыл 90% экзопланет для жизни](https://habr.com/ru/articles/1018248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018248)
 - [Claude Code бесплатно: как использовать ии бесплатно в 2026 году](https://habr.com/ru/articles/1018234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018234)
 - [Symfony Serializer](https://habr.com/ru/companies/otus/articles/1013750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013750)
 - [Почему при 136 рпс и 150 рпс лимита наблюдалось 7 рпс ошибок 429](https://habr.com/ru/articles/1018202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018202)
 - [От вайб-кодинга к вайб-охране кода: что делать прямо сейчас](https://habr.com/ru/articles/1018188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018188)
-- [[Перевод] Мета-теория связей 0.0.3](https://habr.com/ru/articles/1018142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018142)
 <!-- BLOG-POST-LIST:END -->
 
 ---
