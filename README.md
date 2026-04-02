@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Лучшие YouTube-каналы по Data и Product Analytics, которые прокачивают английский &lpar;и мышление&rpar;](https://habr.com/ru/articles/1018610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018610)
-- [Продвинутый RBAC: роли, статусы, теги без боли и страданий](https://habr.com/ru/articles/1017810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017810)
-- [Как я детей вайбкодингу учил](https://habr.com/ru/articles/1018594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018594)
-- [Как Swift работает с памятью: подробный гайд для разработчиков. Часть 2](https://habr.com/ru/companies/avito/articles/1017248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017248)
-- [Параллелизм с общим состоянием в Rust](https://habr.com/ru/articles/1018592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018592)
+- [Authorization без middleware: как я завернул Casbin в декораторы для FastAPI](https://habr.com/ru/articles/1018670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018670)
+- [Десктопный агент «Союз»: безопасный и бесплатный, теперь Open Source](https://habr.com/ru/articles/1018246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018246)
+- [Оптимизация запросов в Spring Data JDBC](https://habr.com/ru/companies/spring_aio/articles/1010558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010558)
+- [Почему я написал Ёбифай: свой планировщик для фоновых задач на Python](https://habr.com/ru/articles/1018646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018646)
+- [Руководство по оптимизации производительности сайта](https://habr.com/ru/articles/1018636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018636)
 <!-- BLOG-POST-LIST:END -->
 
 ---
