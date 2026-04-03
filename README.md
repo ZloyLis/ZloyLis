@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Делаем лимиты ИИ почти бесконечными: умный роутер, который режет затраты на токены в разы и делает их почти бесплатными](https://habr.com/ru/articles/1018952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018952)
-- [PromptPilot: шедулер задач для Claude Code, Codex и других AI CLI](https://habr.com/ru/articles/1018950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018950)
-- [[Перевод] Аудит сайта, который навайбкодил CEO Y Combinator](https://habr.com/ru/articles/1018938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018938)
-- [х3 бюджета на запрос — фреймворк SCALE для AI-фичи, которую нельзя убить](https://habr.com/ru/articles/1018920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018920)
-- [Как тестировать API прямо в IDE, или почему я больше не использую Postman](https://habr.com/ru/companies/haulmont/articles/1018588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018588)
+- [Мифы о веб-фреймворке $mol](https://habr.com/ru/articles/1019030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019030)
+- [Роботы vs бизнес-процессы в Битрикс24: когда что использовать и как не запутаться](https://habr.com/ru/companies/otus/articles/1018096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018096)
+- [[Перевод] Семантический слой: что это и зачем нужен](https://habr.com/ru/articles/1019020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019020)
+- [Контролируемая эволюция RAG-системы: оценка mcp серверов и кеширование результатов запрос-ответ](https://habr.com/ru/articles/1019018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019018)
+- [Вышло 12-е издание книги «Postgres. Первое знакомство»](https://habr.com/ru/companies/postgrespro/articles/1015728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015728)
 <!-- BLOG-POST-LIST:END -->
 
 ---
