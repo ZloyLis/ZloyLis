@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Python: с чего начинать, где брать знания и как не бросить после первых трудностей — интервью с Алексеем Голобурдиным](https://habr.com/ru/articles/1019068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019068)
 - [Мифы о веб-фреймворке $mol](https://habr.com/ru/articles/1019030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019030)
 - [Роботы vs бизнес-процессы в Битрикс24: когда что использовать и как не запутаться](https://habr.com/ru/companies/otus/articles/1018096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018096)
 - [[Перевод] Семантический слой: что это и зачем нужен](https://habr.com/ru/articles/1019020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019020)
 - [Контролируемая эволюция RAG-системы: оценка mcp серверов и кеширование результатов запрос-ответ](https://habr.com/ru/articles/1019018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019018)
-- [Вышло 12-е издание книги «Postgres. Первое знакомство»](https://habr.com/ru/companies/postgrespro/articles/1015728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015728)
 <!-- BLOG-POST-LIST:END -->
 
 ---
