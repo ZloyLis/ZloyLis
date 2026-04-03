@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Делаем лимиты ИИ почти бесконечными: умный роутер, который режет затраты на токены в разы и делает их почти бесплатными](https://habr.com/ru/articles/1018952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018952)
+- [PromptPilot: шедулер задач для Claude Code, Codex и других AI CLI](https://habr.com/ru/articles/1018950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018950)
+- [[Перевод] Аудит сайта, который навайбкодил CEO Y Combinator](https://habr.com/ru/articles/1018938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018938)
 - [х3 бюджета на запрос — фреймворк SCALE для AI-фичи, которую нельзя убить](https://habr.com/ru/articles/1018920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018920)
 - [Как тестировать API прямо в IDE, или почему я больше не использую Postman](https://habr.com/ru/companies/haulmont/articles/1018588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018588)
-- [Создал с нуля библиотеку для JasperReports, которая делает работу с ним легкой](https://habr.com/ru/articles/1018888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018888)
-- [Проверяем веб-расчёт потерь в шинах на соответствие стандартам](https://habr.com/ru/articles/1018564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018564)
-- [Frontend Status: свежий дайджест фронтенда и AI — 03.04.2026](https://habr.com/ru/articles/1018828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018828)
 <!-- BLOG-POST-LIST:END -->
 
 ---
