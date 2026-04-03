@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [PG_EXPECTO vs GENTLEMAN v10.2: почему детальный промпт побеждает универсальную инструкцию](https://habr.com/ru/articles/1018796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018796)
+- [Rust прячет инструменты там, где вы их не ищете](https://habr.com/ru/companies/beget/articles/1009984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009984)
+- [[Перевод] Agentis Memory — Redis-совместимое хранилище со встроенным векторным поиском и локальными эмбеддингами](https://habr.com/ru/articles/1018784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018784)
+- [ИИ-агенты защищают друг друга от отключения: анализ уязвимостей в передовых моделях](https://habr.com/ru/articles/1018774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018774)
 - [Как я построил автоматический сервис защиты данных: FastAPI + Marzban + Docker](https://habr.com/ru/articles/1018760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018760)
-- [[Перевод] «Что нового в Swift» Март 2026](https://habr.com/ru/articles/1018698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018698)
-- [Локальные 200B уже не выглядят фантастикой: что меняют Bonsai и TurboQuant](https://habr.com/ru/articles/1018736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018736)
-- [Как настроить автоматические пины из статей сайта в Pinterest](https://habr.com/ru/articles/1018734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018734)
-- [Прохождение машины Stacked на Hack The Box](https://habr.com/ru/articles/1018730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018730)
 <!-- BLOG-POST-LIST:END -->
 
 ---
