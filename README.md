@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [PG_EXPECTO vs GENTLEMAN v10.2: почему детальный промпт побеждает универсальную инструкцию](https://habr.com/ru/articles/1018796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018796)
-- [Rust прячет инструменты там, где вы их не ищете](https://habr.com/ru/companies/beget/articles/1009984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009984)
-- [[Перевод] Agentis Memory — Redis-совместимое хранилище со встроенным векторным поиском и локальными эмбеддингами](https://habr.com/ru/articles/1018784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018784)
-- [ИИ-агенты защищают друг друга от отключения: анализ уязвимостей в передовых моделях](https://habr.com/ru/articles/1018774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018774)
-- [Как я построил автоматический сервис защиты данных: FastAPI + Marzban + Docker](https://habr.com/ru/articles/1018760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018760)
+- [Проверяем веб-расчёт потерь в шинах на соответствие стандартам](https://habr.com/ru/articles/1018564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018564)
+- [Frontend Status: свежий дайджест фронтенда и AI — 03.04.2026](https://habr.com/ru/articles/1018828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018828)
+- [Как добавить свое расширение в DevTools и взаимодействовать с кодом приложения](https://habr.com/ru/companies/friflex/articles/1018820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018820)
+- [С++26 — готов! Итоги встречи ISO C++ в Кройдоне](https://habr.com/ru/companies/yandex/articles/1015474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015474)
+- [Обновляем токен авторизации при помощи Dio](https://habr.com/ru/articles/1018286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018286)
 <!-- BLOG-POST-LIST:END -->
 
 ---
