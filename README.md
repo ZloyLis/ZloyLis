@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создал с нуля библиотеку для JasperReports, которая делает работу с ним легкой](https://habr.com/ru/articles/1018888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018888)
 - [Проверяем веб-расчёт потерь в шинах на соответствие стандартам](https://habr.com/ru/articles/1018564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018564)
 - [Frontend Status: свежий дайджест фронтенда и AI — 03.04.2026](https://habr.com/ru/articles/1018828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018828)
 - [Как добавить свое расширение в DevTools и взаимодействовать с кодом приложения](https://habr.com/ru/companies/friflex/articles/1018820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018820)
 - [С++26 — готов! Итоги встречи ISO C++ в Кройдоне](https://habr.com/ru/companies/yandex/articles/1015474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015474)
-- [Обновляем токен авторизации при помощи Dio](https://habr.com/ru/articles/1018286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018286)
 <!-- BLOG-POST-LIST:END -->
 
 ---
