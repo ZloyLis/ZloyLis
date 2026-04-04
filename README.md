@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пробуем использовать бесплатные ИИ для написания кода](https://habr.com/ru/articles/1019326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019326)
+- [Как контролировать расходы, если денег уже не осталось: разбор механик тотального контроля в 6 PFM-сервисах](https://habr.com/ru/articles/1019320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019320)
 - [Теорема о мажорировании: как сравнивать решения систем ОДУ через их правые части](https://habr.com/ru/articles/1019258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019258)
 - [Как же устал это слышать: «React для создания сложных приложений, а Vue так уж…»](https://habr.com/ru/articles/1019294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019294)
 - [Как я в одиночку сделал систему аналитики для Clubs в EA FC, потому что нормальной статистики там просто нет](https://habr.com/ru/articles/1019286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019286)
-- [Интересный способ сгруппировать натуральный ряд](https://habr.com/ru/articles/1019254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019254)
-- [Почему argsort&lpar;argsort&lpar;x&rpar;&rpar; возвращает ранги элементов массива](https://habr.com/ru/articles/1019144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019144)
 <!-- BLOG-POST-LIST:END -->
 
 ---
