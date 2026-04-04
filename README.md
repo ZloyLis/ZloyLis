@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нужны ли сейчас джуны-разработчики, если есть вайбкодинг?](https://habr.com/ru/articles/1019166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019166)
+- [Как я запустил AI-ассистента на старом Xiaomi 11T, который пылился в ящике](https://habr.com/ru/articles/1019164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019164)
 - [Почему «база знаний в продукте» – это не Wikipedia, а политика доверия](https://habr.com/ru/articles/1019134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019134)
 - [[Перевод] Раздувание памяти JDK 17 в контейнерах: разбор инцидента](https://habr.com/ru/companies/spring_aio/articles/1019086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019086)
 - [Python: с чего начинать, где брать знания и как не бросить после первых трудностей — интервью с Алексеем Голобурдиным](https://habr.com/ru/articles/1019068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019068)
-- [Мифы о веб-фреймворке $mol](https://habr.com/ru/articles/1019030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019030)
-- [Роботы vs бизнес-процессы в Битрикс24: когда что использовать и как не запутаться](https://habr.com/ru/companies/otus/articles/1018096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018096)
 <!-- BLOG-POST-LIST:END -->
 
 ---
