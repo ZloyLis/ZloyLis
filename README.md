@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Digest # 34](https://habr.com/ru/companies/tbank/articles/1019192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019192)
+- [Экономика безопасности кода или почему Rust не нужен](https://habr.com/ru/articles/1019182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019182)
+- [Почему специалист по кибербезопасности — одна из самых востребованных профессий в 2026 году. И что нужно, чтобы им стать](https://habr.com/ru/companies/yandex_praktikum/articles/1018988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018988)
 - [Как я настроил OpenClaw для зоопарка landings для своей компании](https://habr.com/ru/articles/1019176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019176)
 - [# 10 ошибок Configuration Management](https://habr.com/ru/articles/1017166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017166)
-- [Я устал настраивать ПК и написал свое приложение для Windows на Flutter](https://habr.com/ru/articles/1019174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019174)
-- [Почему одна запись может изменить KPI: разложение агрегированных метрик на вклад отдельных событий](https://habr.com/ru/articles/1019170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019170)
-- [Нужны ли сейчас джуны-разработчики, если есть вайбкодинг?](https://habr.com/ru/articles/1019166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019166)
 <!-- BLOG-POST-LIST:END -->
 
 ---
