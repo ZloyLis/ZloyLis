@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему «база знаний в продукте» – это не Wikipedia, а политика доверия](https://habr.com/ru/articles/1019134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019134)
 - [[Перевод] Раздувание памяти JDK 17 в контейнерах: разбор инцидента](https://habr.com/ru/companies/spring_aio/articles/1019086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019086)
 - [Python: с чего начинать, где брать знания и как не бросить после первых трудностей — интервью с Алексеем Голобурдиным](https://habr.com/ru/articles/1019068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019068)
 - [Мифы о веб-фреймворке $mol](https://habr.com/ru/articles/1019030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019030)
 - [Роботы vs бизнес-процессы в Битрикс24: когда что использовать и как не запутаться](https://habr.com/ru/companies/otus/articles/1018096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018096)
-- [[Перевод] Семантический слой: что это и зачем нужен](https://habr.com/ru/articles/1019020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019020)
 <!-- BLOG-POST-LIST:END -->
 
 ---
