@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Отрицание, торг, Макс и ИИ](https://habr.com/ru/articles/1019270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019270)
 - [Интересный способ сгруппировать натуральный ряд](https://habr.com/ru/articles/1019254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019254)
 - [Почему argsort&lpar;argsort&lpar;x&rpar;&rpar; возвращает ранги элементов массива](https://habr.com/ru/articles/1019144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019144)
 - [Как я искал мягкий вход в программирование — и сделал Stepwise](https://habr.com/ru/articles/1019244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019244)
 - [Как мы потеряли GitBook за 5 минут и нашли Gramax — open-source альтернативу, которую теперь используем сами](https://habr.com/ru/articles/1019230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019230)
-- [Что не так с веб-компонентами?](https://habr.com/ru/articles/1019206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019206)
 <!-- BLOG-POST-LIST:END -->
 
 ---
