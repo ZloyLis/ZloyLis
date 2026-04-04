@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я настроил OpenClaw для зоопарка landings для своей компании](https://habr.com/ru/articles/1019176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019176)
+- [# 10 ошибок Configuration Management](https://habr.com/ru/articles/1017166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017166)
+- [Я устал настраивать ПК и написал свое приложение для Windows на Flutter](https://habr.com/ru/articles/1019174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019174)
+- [Почему одна запись может изменить KPI: разложение агрегированных метрик на вклад отдельных событий](https://habr.com/ru/articles/1019170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019170)
 - [Нужны ли сейчас джуны-разработчики, если есть вайбкодинг?](https://habr.com/ru/articles/1019166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019166)
-- [Как я запустил AI-ассистента на старом Xiaomi 11T, который пылился в ящике](https://habr.com/ru/articles/1019164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019164)
-- [Почему «база знаний в продукте» – это не Wikipedia, а политика доверия](https://habr.com/ru/articles/1019134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019134)
-- [[Перевод] Раздувание памяти JDK 17 в контейнерах: разбор инцидента](https://habr.com/ru/companies/spring_aio/articles/1019086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019086)
-- [Python: с чего начинать, где брать знания и как не бросить после первых трудностей — интервью с Алексеем Голобурдиным](https://habr.com/ru/articles/1019068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019068)
 <!-- BLOG-POST-LIST:END -->
 
 ---
