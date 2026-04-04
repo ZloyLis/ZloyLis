@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что не так с веб-компонентами?](https://habr.com/ru/articles/1019206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019206)
+- [Тихая сторона крипторынка: что на самом деле стоит за «магией» торговых ботов](https://habr.com/ru/articles/1019202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019202)
 - [«Фронтенд умер»? Жаль, что я узнала об этом только после четырех лет учебы](https://habr.com/ru/articles/1019196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019196)
 - [Java Digest # 34](https://habr.com/ru/companies/tbank/articles/1019192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019192)
 - [Экономика безопасности кода или почему Rust не нужен](https://habr.com/ru/articles/1019182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019182)
-- [Почему специалист по кибербезопасности — одна из самых востребованных профессий в 2026 году. И что нужно, чтобы им стать](https://habr.com/ru/companies/yandex_praktikum/articles/1018988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018988)
-- [Как я настроил OpenClaw для зоопарка landings для своей компании](https://habr.com/ru/articles/1019176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019176)
 <!-- BLOG-POST-LIST:END -->
 
 ---
