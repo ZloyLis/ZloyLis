@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему argsort&lpar;argsort&lpar;x&rpar;&rpar; возвращает ранги элементов массива](https://habr.com/ru/articles/1019144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019144)
+- [Как я искал мягкий вход в программирование — и сделал Stepwise](https://habr.com/ru/articles/1019244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019244)
+- [Как мы потеряли GitBook за 5 минут и нашли Gramax — open-source альтернативу, которую теперь используем сами](https://habr.com/ru/articles/1019230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019230)
 - [Что не так с веб-компонентами?](https://habr.com/ru/articles/1019206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019206)
 - [Тихая сторона крипторынка: что на самом деле стоит за «магией» торговых ботов](https://habr.com/ru/articles/1019202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019202)
-- [«Фронтенд умер»? Жаль, что я узнала об этом только после четырех лет учебы](https://habr.com/ru/articles/1019196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019196)
-- [Java Digest # 34](https://habr.com/ru/companies/tbank/articles/1019192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019192)
-- [Экономика безопасности кода или почему Rust не нужен](https://habr.com/ru/articles/1019182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019182)
 <!-- BLOG-POST-LIST:END -->
 
 ---
