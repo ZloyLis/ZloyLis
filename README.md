@@ -35,8 +35,8 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как же устал это слышать: «React для создания сложных приложений, а Vue так уж…»](https://habr.com/ru/articles/1019294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019294)
 - [Как я в одиночку сделал систему аналитики для Clubs в EA FC, потому что нормальной статистики там просто нет](https://habr.com/ru/articles/1019286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019286)
-- [Отрицание, торг, Макс и ИИ](https://habr.com/ru/articles/1019270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019270)
 - [Интересный способ сгруппировать натуральный ряд](https://habr.com/ru/articles/1019254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019254)
 - [Почему argsort&lpar;argsort&lpar;x&rpar;&rpar; возвращает ранги элементов массива](https://habr.com/ru/articles/1019144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019144)
 - [Как я искал мягкий вход в программирование — и сделал Stepwise](https://habr.com/ru/articles/1019244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019244)
