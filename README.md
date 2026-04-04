@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как правильно называть маршруты в Vue Router: два простых правила, которые спасут ваш проект](https://habr.com/ru/articles/1019348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019348)
+- [[Перевод] TearDown: зарядное устройство OnePlus 100W SuperVOOC GaN](https://habr.com/ru/articles/1019338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019338)
+- [Анатомия чистильщика ссылок: как не сломать веб в Manifest V3](https://habr.com/ru/articles/1019334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019334)
+- [Я сделал язык программирования ради статьи на Хабр](https://habr.com/ru/articles/1010530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010530)
 - [Пробуем использовать бесплатные ИИ для написания кода](https://habr.com/ru/articles/1019326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019326)
-- [Как контролировать расходы, если денег уже не осталось: разбор механик тотального контроля в 6 PFM-сервисах](https://habr.com/ru/articles/1019320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019320)
-- [Теорема о мажорировании: как сравнивать решения систем ОДУ через их правые части](https://habr.com/ru/articles/1019258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019258)
-- [Как же устал это слышать: «React для создания сложных приложений, а Vue так уж…»](https://habr.com/ru/articles/1019294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019294)
-- [Как я в одиночку сделал систему аналитики для Clubs в EA FC, потому что нормальной статистики там просто нет](https://habr.com/ru/articles/1019286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019286)
 <!-- BLOG-POST-LIST:END -->
 
 ---
