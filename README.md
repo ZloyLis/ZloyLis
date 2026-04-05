@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Rwal: Как я пишу кросс-платформенный менеджер обоев на C++20 в 10 классе](https://habr.com/ru/articles/1019502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019502)
+- [Я не программист. Я два месяца учил нейросеть не подлизывать](https://habr.com/ru/articles/1019444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019444)
+- [Почему ИИ‑агенты лезут в терминал и ломают прод, и как Veai заставляет их работать по‑человечески в IDE](https://habr.com/ru/companies/veai/articles/1019498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019498)
 - [Работая 6/1 по 12 часов и закрывая при этом школы мы заживем лучше? Вы бредите?](https://habr.com/ru/articles/1019474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019474)
 - [Zig вместо C: пишем высокопроизводительный CLI-инструмент и заменяем 3000 строк C-кода](https://habr.com/ru/articles/1019466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019466)
-- [Задача внешней баллистики. Вторая часть](https://habr.com/ru/articles/1019390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019390)
-- [33 несчастья или история одного проекта](https://habr.com/ru/articles/1019456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019456)
-- [Где вырастают разработчики компиляторов, JVM и рантаймов: СПИСОК-2026](https://habr.com/ru/companies/axiomjdk/articles/1019438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019438)
 <!-- BLOG-POST-LIST:END -->
 
 ---
