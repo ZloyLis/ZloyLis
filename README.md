@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Где вырастают разработчики компиляторов, JVM и рантаймов: СПИСОК-2026](https://habr.com/ru/companies/axiomjdk/articles/1019438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019438)
+- [Как я поднял AmneziaWG 2.0 на роутере ASUS: DPI, GeoIP и веб-интерфейс](https://habr.com/ru/articles/1019440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019440)
 - [Что всё таки не так с веб компонентами](https://habr.com/ru/articles/1019420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019420)
 - [Мобильная разработка за неделю #626 &lpar;30 марта — 5 апреля&rpar;](https://habr.com/ru/articles/1019408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019408)
 - [[Перевод] Исследование макросов @Generable и @Guide во фреймворке FoundationModels](https://habr.com/ru/articles/1019392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019392)
-- [[Перевод] Использование фреймворка Foundation Models для локального ИИ в SwiftUI](https://habr.com/ru/articles/1019388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019388)
-- [Оживляем UI на мобилках с Sensor API](https://habr.com/ru/articles/1010328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010328)
 <!-- BLOG-POST-LIST:END -->
 
 ---
