@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Работая 6/1 по 12 часов и закрывая при этом школы мы заживем лучше? Вы бредите?](https://habr.com/ru/articles/1019474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019474)
+- [Zig вместо C: пишем высокопроизводительный CLI-инструмент и заменяем 3000 строк C-кода](https://habr.com/ru/articles/1019466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019466)
+- [Задача внешней баллистики. Вторая часть](https://habr.com/ru/articles/1019390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019390)
+- [33 несчастья или история одного проекта](https://habr.com/ru/articles/1019456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019456)
 - [Где вырастают разработчики компиляторов, JVM и рантаймов: СПИСОК-2026](https://habr.com/ru/companies/axiomjdk/articles/1019438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019438)
-- [Как я поднял AmneziaWG 2.0 на роутере ASUS: DPI, GeoIP и веб-интерфейс](https://habr.com/ru/articles/1019440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019440)
-- [Что всё таки не так с веб компонентами](https://habr.com/ru/articles/1019420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019420)
-- [Мобильная разработка за неделю #626 &lpar;30 марта — 5 апреля&rpar;](https://habr.com/ru/articles/1019408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019408)
-- [[Перевод] Исследование макросов @Generable и @Guide во фреймворке FoundationModels](https://habr.com/ru/articles/1019392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019392)
 <!-- BLOG-POST-LIST:END -->
 
 ---
