@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная разработка за неделю #626 &lpar;30 марта — 5 апреля&rpar;](https://habr.com/ru/articles/1019408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019408)
 - [[Перевод] Исследование макросов @Generable и @Guide во фреймворке FoundationModels](https://habr.com/ru/articles/1019392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019392)
 - [[Перевод] Использование фреймворка Foundation Models для локального ИИ в SwiftUI](https://habr.com/ru/articles/1019388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019388)
 - [Оживляем UI на мобилках с Sensor API](https://habr.com/ru/articles/1010328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010328)
 - [EXPLAIN Prettier или пост-процессинг планов запросов в Postgres](https://habr.com/ru/companies/postgrespro/articles/1019340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019340)
-- [Как правильно называть маршруты в Vue Router: два простых правила, которые спасут ваш проект](https://habr.com/ru/articles/1019348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019348)
 <!-- BLOG-POST-LIST:END -->
 
 ---
