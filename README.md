@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Конференция Яндекс-разработчиков по JVM-языкам, бекендеры собрались обсудить будущее Java-подобных языков](https://habr.com/ru/articles/1019622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019622)
+- [PostgreSQL. ltree. JPA. Использование в микросервисах](https://habr.com/ru/articles/1019556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019556)
 - [Room 3 — новый мажор «комнаты». И да, теперь с поддержкой wasmJs](https://habr.com/ru/articles/1019598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019598)
 - [Стратификационный анализ ECDSA-подписей и дефектных режимов генерации nonce](https://habr.com/ru/articles/1019612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019612)
 - [А системный аналитик нам зачем?](https://habr.com/ru/articles/1019594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019594)
-- [Массовая слежка по WiFi](https://habr.com/ru/companies/globalsign/articles/1019582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019582)
-- [Как я перестал платить за мусорные лиды](https://habr.com/ru/articles/1019560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019560)
 <!-- BLOG-POST-LIST:END -->
 
 ---
