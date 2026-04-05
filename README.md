@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Оживляем UI на мобилках с Sensor API](https://habr.com/ru/articles/1010328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010328)
 - [EXPLAIN Prettier или пост-процессинг планов запросов в Postgres](https://habr.com/ru/companies/postgrespro/articles/1019340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019340)
 - [Как правильно называть маршруты в Vue Router: два простых правила, которые спасут ваш проект](https://habr.com/ru/articles/1019348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019348)
 - [[Перевод] TearDown: зарядное устройство OnePlus 100W SuperVOOC GaN](https://habr.com/ru/articles/1019338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019338)
 - [Анатомия чистильщика ссылок: как не сломать веб в Manifest V3](https://habr.com/ru/articles/1019334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019334)
-- [Я сделал язык программирования ради статьи на Хабр](https://habr.com/ru/articles/1010530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010530)
 <!-- BLOG-POST-LIST:END -->
 
 ---
