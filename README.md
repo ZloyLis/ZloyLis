@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Монолит с отчётами на 30 секунд: как я переписал архитектуру и что из этого вышло](https://habr.com/ru/articles/1019516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019516)
+- [Почему на фронте нет GRPC?](https://habr.com/ru/articles/1019510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019510)
 - [Rwal: Как я пишу кросс-платформенный менеджер обоев на C++20 в 10 классе](https://habr.com/ru/articles/1019502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019502)
 - [Я не программист. Я два месяца учил нейросеть не подлизывать](https://habr.com/ru/articles/1019444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019444)
 - [Почему ИИ‑агенты лезут в терминал и ломают прод, и как Veai заставляет их работать по‑человечески в IDE](https://habr.com/ru/companies/veai/articles/1019498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019498)
-- [Работая 6/1 по 12 часов и закрывая при этом школы мы заживем лучше? Вы бредите?](https://habr.com/ru/articles/1019474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019474)
-- [Zig вместо C: пишем высокопроизводительный CLI-инструмент и заменяем 3000 строк C-кода](https://habr.com/ru/articles/1019466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019466)
 <!-- BLOG-POST-LIST:END -->
 
 ---
