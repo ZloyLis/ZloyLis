@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Как подготовить BPM-среду к работе с ИИ-агентами](https://habr.com/ru/articles/1019680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019680)
-- [System Design. Как пройти в любую компанию](https://habr.com/ru/articles/1019726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019726)
-- [Как мы подружили фронтенд с четырьмя платформами и сократили время разработки в два раза](https://habr.com/ru/companies/tochka/articles/1017312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017312)
-- [Почему IT-найм сломан — и что будет с рынком в 2026 году](https://habr.com/ru/articles/977890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977890)
-- [Как устроен мой сайт в 2026 году: Astro, 300р. VPS и никакого Vercel](https://habr.com/ru/articles/1019514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019514)
+- [На что способна новая модель NVIDIA — Nemotron 3 Super 120B. Бенчмарки, тесты и интеграция в Luxms BI](https://habr.com/ru/companies/luxms_bi/articles/1019774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019774)
+- [Марио Цехнер: движок для OpenClaw и ценовой сговор на яйцах](https://habr.com/ru/companies/ruvds/articles/1014824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014824)
+- [Не настраивайте локальное окружение вручную. Devcontainers — уже пора! Часть первая](https://habr.com/ru/companies/oleg-bunin/articles/1009972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009972)
+- [ClickHouse не тормозит, но заставляет глаз дергаться. CTE](https://habr.com/ru/articles/1019754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019754)
+- [Мой AI-агент рапортовал 83 успешных действия. Реальных было 16](https://habr.com/ru/articles/1019736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019736)
 <!-- BLOG-POST-LIST:END -->
 
 ---
