@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [MCP не умер: почему ИИ-агенты тонут в контексте](https://habr.com/ru/articles/1019866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019866)
+- [CUBA: почему она спасала мои хакатоны и убивала мои продакшн-проекты](https://habr.com/ru/articles/1019864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019864)
+- [NextAuth + Django JWT без второй авторизации и ручного хаоса токенов](https://habr.com/ru/articles/1019856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019856)
 - [Модальные окна в React: архитектура управления для сложных интерфейсов](https://habr.com/ru/articles/1019824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019824)
 - [Ретро-консоль в руках программиста](https://habr.com/ru/companies/timeweb/articles/1007556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007556)
-- [Цифровой двойник, SDD и Agentic RAG: эволюция корпоративной архитектуры банка изнутри](https://habr.com/ru/companies/raiffeisenbank/articles/1018776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018776)
-- [Учительская рутина: как я автоматизировал Дневник.ру](https://habr.com/ru/articles/1019780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019780)
-- [На что способна новая модель NVIDIA — Nemotron 3 Super 120B. Бенчмарки, тесты и интеграция в Luxms BI](https://habr.com/ru/companies/luxms_bi/articles/1019774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019774)
 <!-- BLOG-POST-LIST:END -->
 
 ---
