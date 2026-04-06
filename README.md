@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Идеальный Store в Pinia &lpar;Vue&rpar;](https://habr.com/ru/articles/1020074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020074)
+- [Когда UI-kit начинает дрейфовать: плагин для WebStorm против поломок React-контрактов](https://habr.com/ru/articles/1020070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020070)
+- [Неразработчик + чат с ИИ + Android Studio: промежуточные результаты после публикации двух приложений](https://habr.com/ru/articles/1020060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020060)
 - [Решение ошибки You do not have required role or permission to perform an operation](https://habr.com/ru/articles/1020052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020052)
 - [Миграция базы данных в Legacy системах](https://habr.com/ru/articles/1020048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020048)
-- [Лишние вычисления](https://habr.com/ru/articles/1019082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019082)
-- [Как мы построили речевую аналитику для кол-центров и начали анализировать тысячи звонков](https://habr.com/ru/companies/avito/articles/1020006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020006)
-- [Web-панель v2 для для управления VPN серверами](https://habr.com/ru/articles/1020018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020018)
 <!-- BLOG-POST-LIST:END -->
 
 ---
