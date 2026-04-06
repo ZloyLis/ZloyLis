@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Почему LLM-агенты в CI/CD выбирают читерство вместо решения задачи](https://habr.com/ru/articles/1019634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019634)
-- [Запускаю свой продукт. Часть 1: поиск идеи, которая выстрелит и будет мотивировать продолжать](https://habr.com/ru/articles/1019632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019632)
-- [Как рассчитать трассу DWDM](https://habr.com/ru/articles/1019630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019630)
-- [Конференция Яндекс-разработчиков по JVM-языкам, бекендеры собрались обсудить будущее Java-подобных языков](https://habr.com/ru/articles/1019622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019622)
-- [PostgreSQL. ltree. JPA. Использование в микросервисах](https://habr.com/ru/articles/1019556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019556)
+- [[Перевод] Как подготовить BPM-среду к работе с ИИ-агентами](https://habr.com/ru/articles/1019680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019680)
+- [System Design. Как пройти в любую компанию](https://habr.com/ru/articles/1019726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019726)
+- [Как мы подружили фронтенд с четырьмя платформами и сократили время разработки в два раза](https://habr.com/ru/companies/tochka/articles/1017312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017312)
+- [Почему IT-найм сломан — и что будет с рынком в 2026 году](https://habr.com/ru/articles/977890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=977890)
+- [Как устроен мой сайт в 2026 году: Astro, 300р. VPS и никакого Vercel](https://habr.com/ru/articles/1019514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019514)
 <!-- BLOG-POST-LIST:END -->
 
 ---
