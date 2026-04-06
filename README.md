@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы построили речевую аналитику для кол-центров и начали анализировать тысячи звонков](https://habr.com/ru/companies/avito/articles/1020006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020006)
 - [Web-панель v2 для для управления VPN серверами](https://habr.com/ru/articles/1020018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020018)
 - [Иллюзия логики: как я доказал, что LLM-агенты игнорируют факты, и почему Chain-of-Thought делает только хуже](https://habr.com/ru/articles/1020016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020016)
 - [Десятки «кораблей Тесея» уже готовы, еще тысячи на подходе! Новый спор вокруг применения ИИ в опенсорсе](https://habr.com/ru/companies/beeline_cloud/articles/1019600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019600)
 - [Почему ваш персонаж телепортируется при высоком FPS: float precision в играх](https://habr.com/ru/articles/1020002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020002)
-- [Pomodoro Music, или свой Pomodoro-таймер для музыки без вайб-кодинга и приложений](https://habr.com/ru/articles/1019968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019968)
 <!-- BLOG-POST-LIST:END -->
 
 ---
