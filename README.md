@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему LLM-агенты в CI/CD выбирают читерство вместо решения задачи](https://habr.com/ru/articles/1019634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019634)
+- [Запускаю свой продукт. Часть 1: поиск идеи, которая выстрелит и будет мотивировать продолжать](https://habr.com/ru/articles/1019632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019632)
 - [Как рассчитать трассу DWDM](https://habr.com/ru/articles/1019630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019630)
 - [Конференция Яндекс-разработчиков по JVM-языкам, бекендеры собрались обсудить будущее Java-подобных языков](https://habr.com/ru/articles/1019622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019622)
 - [PostgreSQL. ltree. JPA. Использование в микросервисах](https://habr.com/ru/articles/1019556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019556)
-- [Room 3 — новый мажор «комнаты». И да, теперь с поддержкой wasmJs](https://habr.com/ru/articles/1019598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019598)
-- [Стратификационный анализ ECDSA-подписей и дефектных режимов генерации nonce](https://habr.com/ru/articles/1019612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019612)
 <!-- BLOG-POST-LIST:END -->
 
 ---
