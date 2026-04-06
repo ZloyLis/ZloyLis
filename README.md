@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Модальные окна в React: архитектура управления для сложных интерфейсов](https://habr.com/ru/articles/1019824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019824)
+- [Ретро-консоль в руках программиста](https://habr.com/ru/companies/timeweb/articles/1007556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007556)
+- [Цифровой двойник, SDD и Agentic RAG: эволюция корпоративной архитектуры банка изнутри](https://habr.com/ru/companies/raiffeisenbank/articles/1018776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018776)
+- [Учительская рутина: как я автоматизировал Дневник.ру](https://habr.com/ru/articles/1019780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019780)
 - [На что способна новая модель NVIDIA — Nemotron 3 Super 120B. Бенчмарки, тесты и интеграция в Luxms BI](https://habr.com/ru/companies/luxms_bi/articles/1019774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019774)
-- [Марио Цехнер: движок для OpenClaw и ценовой сговор на яйцах](https://habr.com/ru/companies/ruvds/articles/1014824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014824)
-- [Не настраивайте локальное окружение вручную. Devcontainers — уже пора! Часть первая](https://habr.com/ru/companies/oleg-bunin/articles/1009972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009972)
-- [ClickHouse не тормозит, но заставляет глаз дергаться. CTE](https://habr.com/ru/articles/1019754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019754)
-- [Мой AI-агент рапортовал 83 успешных действия. Реальных было 16](https://habr.com/ru/articles/1019736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019736)
 <!-- BLOG-POST-LIST:END -->
 
 ---
