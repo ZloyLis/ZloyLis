@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как получить палитру доминирующих цветов из изображения](https://habr.com/ru/companies/gnivc/articles/1017060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017060)
+- [[Перевод] Claude Code слил 512 000 строк кода. Никто не разобрался в архитектуре. Утечка показала, что это не обёртка, а ОС](https://habr.com/ru/companies/bothub/articles/1019942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019942)
+- [Критерии выживания и случайность](https://habr.com/ru/articles/1019932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019932)
+- [Claude отключил мне OpenClaw. Штош… я написал замену TG+Claude Max по oAuth](https://habr.com/ru/articles/1019914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019914)
 - [MCP не умер: почему ИИ-агенты тонут в контексте](https://habr.com/ru/articles/1019866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019866)
-- [CUBA: почему она спасала мои хакатоны и убивала мои продакшн-проекты](https://habr.com/ru/articles/1019864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019864)
-- [NextAuth + Django JWT без второй авторизации и ручного хаоса токенов](https://habr.com/ru/articles/1019856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019856)
-- [Модальные окна в React: архитектура управления для сложных интерфейсов](https://habr.com/ru/articles/1019824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019824)
-- [Ретро-консоль в руках программиста](https://habr.com/ru/companies/timeweb/articles/1007556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1007556)
 <!-- BLOG-POST-LIST:END -->
 
 ---
