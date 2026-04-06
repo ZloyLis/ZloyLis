@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как получить палитру доминирующих цветов из изображения](https://habr.com/ru/companies/gnivc/articles/1017060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017060)
-- [[Перевод] Claude Code слил 512 000 строк кода. Никто не разобрался в архитектуре. Утечка показала, что это не обёртка, а ОС](https://habr.com/ru/companies/bothub/articles/1019942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019942)
-- [Критерии выживания и случайность](https://habr.com/ru/articles/1019932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019932)
-- [Claude отключил мне OpenClaw. Штош… я написал замену TG+Claude Max по oAuth](https://habr.com/ru/articles/1019914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019914)
-- [MCP не умер: почему ИИ-агенты тонут в контексте](https://habr.com/ru/articles/1019866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019866)
+- [Десятки «кораблей Тесея» уже готовы, еще тысячи на подходе! Новый спор вокруг применения ИИ в опенсорсе](https://habr.com/ru/companies/beeline_cloud/articles/1019600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019600)
+- [Почему ваш персонаж телепортируется при высоком FPS: float precision в играх](https://habr.com/ru/articles/1020002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020002)
+- [Pomodoro Music, или свой Pomodoro таймер для музыки без вайбкодинга и приложений](https://habr.com/ru/articles/1019968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019968)
+- [AIVPN: VPN-протокол с мимикрией трафика и автоматической сменой профиля](https://habr.com/ru/articles/1019962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019962)
+- [Один сервер — три правды: почему ИТ, бухгалтерия и закупки не могут договориться](https://habr.com/ru/companies/simpleone/articles/1019960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019960)
 <!-- BLOG-POST-LIST:END -->
 
 ---
