@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Решение ошибки You do not have required role or permission to perform an operation](https://habr.com/ru/articles/1020052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020052)
+- [Миграция базы данных в Legacy системах](https://habr.com/ru/articles/1020048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020048)
+- [Лишние вычисления](https://habr.com/ru/articles/1019082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019082)
 - [Как мы построили речевую аналитику для кол-центров и начали анализировать тысячи звонков](https://habr.com/ru/companies/avito/articles/1020006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020006)
 - [Web-панель v2 для для управления VPN серверами](https://habr.com/ru/articles/1020018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020018)
-- [Иллюзия логики: как я доказал, что LLM-агенты игнорируют факты, и почему Chain-of-Thought делает только хуже](https://habr.com/ru/articles/1020016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020016)
-- [Десятки «кораблей Тесея» уже готовы, еще тысячи на подходе! Новый спор вокруг применения ИИ в опенсорсе](https://habr.com/ru/companies/beeline_cloud/articles/1019600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019600)
-- [Почему ваш персонаж телепортируется при высоком FPS: float precision в играх](https://habr.com/ru/articles/1020002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020002)
 <!-- BLOG-POST-LIST:END -->
 
 ---
