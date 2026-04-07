@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [9 CSS-лайфхаков для улучшения пользовательского опыта](https://habr.com/ru/companies/ruvds/articles/1018112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018112)
-- [Утечки памяти в замыканиях JavaScript](https://habr.com/ru/articles/1020246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020246)
-- [Playwright + Appium + WebdriverIO: как эта связка усиливает тестирование гибридного Android-приложения](https://habr.com/ru/companies/fix_price/articles/1020244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020244)
-- [Как мы обновили экран «Вы записаны» и выросли по ключевым метрикам](https://habr.com/ru/companies/docdoc/articles/1019088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019088)
-- [Зная эти паттерны ты решишь 60% задач на собеседовании](https://habr.com/ru/articles/1020222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020222)
+- [Утечка Claude Code, Cursor 3 и конец халявы от Anthropic](https://habr.com/ru/companies/haulmont/articles/1020298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020298)
+- [Децентрализованная оркестрация на RabbitMQ вместо Apache Camel](https://habr.com/ru/articles/1017242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017242)
+- [[Перевод] Ты не можешь построить жизнеспособную дизайн-систему на Tailwind — Часть 1](https://habr.com/ru/articles/1020132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020132)
+- [TypeScript врёт — а вы об этом не знаете. Валидация ответов сервера](https://habr.com/ru/articles/1020268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020268)
+- [[Перевод] Кризис в физике элементарных частиц: есть ли свет в конце туннеля?](https://habr.com/ru/companies/first/articles/1020184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020184)
 <!-- BLOG-POST-LIST:END -->
 
 ---
