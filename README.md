@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Hibernate merge: начали за здравие, закончили за упокой](https://habr.com/ru/companies/spring_aio/articles/1020426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020426)
+- [Лампа с цифровым джинном: как я упрашивал ИИ unit-тесты писать](https://habr.com/ru/companies/wildberries/articles/1017466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017466)
 - [0.0023 секунды на генерацию: зачем я собрал «стальной» движок на PHP в эпоху жирных CMS](https://habr.com/ru/articles/1020412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020412)
 - [Почему не стоит вытаскивать требования из законов и НПА с помощью ИИ через голый Zero Shot](https://habr.com/ru/articles/1020406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020406)
 - [Почему кнопка «Пожаловаться» — одна из самых дорогих фич продукта](https://habr.com/ru/companies/vk/articles/1020370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020370)
-- [Получаем данные из API маркетплейсов без ошибок 429 и 50x — очевидный, неочевидный прием и костыль](https://habr.com/ru/articles/1020124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020124)
-- [Kotlin для новичков: всё об условиях и циклах за 15 минут](https://habr.com/ru/companies/otus/articles/1008358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008358)
 <!-- BLOG-POST-LIST:END -->
 
 ---
