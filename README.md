@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Пещерная ИИ = эффективность и экономия](https://habr.com/ru/articles/1020308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020308)
-- [Кратко о CVSS: как оценивать критичность уязвимостей](https://habr.com/ru/articles/1020310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020310)
-- [Утечка Claude Code, Cursor 3 и конец халявы от Anthropic](https://habr.com/ru/companies/haulmont/articles/1020298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020298)
-- [Децентрализованная оркестрация на RabbitMQ вместо Apache Camel](https://habr.com/ru/articles/1017242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017242)
-- [[Перевод] Ты не можешь построить жизнеспособную дизайн-систему на Tailwind — Часть 1](https://habr.com/ru/articles/1020132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020132)
+- [0.0023 секунды на генерацию: зачем я собрал «стальной» движок на PHP в эпоху жирных CMS](https://habr.com/ru/articles/1020412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020412)
+- [Почему не стоит вытаскивать требования из законов и НПА с помощью ИИ через голый Zero Shot](https://habr.com/ru/articles/1020406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020406)
+- [Почему кнопка «Пожаловаться» — одна из самых дорогих фич продукта](https://habr.com/ru/companies/vk/articles/1020370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020370)
+- [Получаем данные из API маркетплейсов без ошибок 429 и 50x — очевидный, неочевидный прием и костыль](https://habr.com/ru/articles/1020124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020124)
+- [Kotlin для новичков: всё об условиях и циклах за 15 минут](https://habr.com/ru/companies/otus/articles/1008358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008358)
 <!-- BLOG-POST-LIST:END -->
 
 ---
