@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как идеальная CRM для СТО столкнулась с реальностью: уроки пятилетнего проекта](https://habr.com/ru/articles/1020182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020182)
-- [Свод знаний по бизнес-анализу BABoK в проектах внедрения корпоративных информационных систем](https://habr.com/ru/articles/1020098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020098)
-- [Из-за критической уязвимости VLESS клиентов скоро все ваши VPN будут заблокированы](https://habr.com/ru/articles/1020080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020080)
-- [TrustYFox: путь от пет‑проекта до LLM‑инструмента для поиска уязвимостей](https://habr.com/ru/companies/yandex/articles/1013714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013714)
-- [Замена STM32CubeIDE и переход в среду VSCode для Embedded-разработки](https://habr.com/ru/articles/1020160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020160)
+- [9 CSS-лайфхаков для улучшения пользовательского опыта](https://habr.com/ru/companies/ruvds/articles/1018112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018112)
+- [Утечки памяти в замыканиях JavaScript](https://habr.com/ru/articles/1020246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020246)
+- [Playwright + Appium + WebdriverIO: как эта связка усиливает тестирование гибридного Android-приложения](https://habr.com/ru/companies/fix_price/articles/1020244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020244)
+- [Как мы обновили экран «Вы записаны» и выросли по ключевым метрикам](https://habr.com/ru/companies/docdoc/articles/1019088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019088)
+- [Зная эти паттерны ты решишь 60% задач на собеседовании](https://habr.com/ru/articles/1020222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020222)
 <!-- BLOG-POST-LIST:END -->
 
 ---
