@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes без магии: запускаем первый кластер, разбираем архитектуру и взаимодействие компонентов](https://habr.com/ru/companies/netologyru/articles/1020538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020538)
 - [Мобильное приложение DogPlanner. Перезагрузка…](https://habr.com/ru/articles/1020510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020510)
 - [Симуляция мира 1С в MiroFish: неделя ада, $300 на токены и один точный прогноз](https://habr.com/ru/companies/1yes/articles/1020504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020504)
 - [EXPLAIN ANALYZE в PostgreSQL: читаем планы выполнения экспертно](https://habr.com/ru/companies/otus/articles/1014452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014452)
 - [Как создать настоящий приватный мессенджер?](https://habr.com/ru/articles/1020480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020480)
-- [Как сделать онлайн-шопинг удобнее: 50 UX-приемов от лучших интернет-магазинов одежды](https://habr.com/ru/articles/1020478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020478)
 <!-- BLOG-POST-LIST:END -->
 
 ---
