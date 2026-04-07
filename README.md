@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Какой я аналитик?](https://habr.com/ru/articles/1020014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020014)
-- [Как рисовать для 1С бизнес-процессы, не забывая их главного участника](https://habr.com/ru/articles/1020120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020120)
-- [[Перевод] Разработка во времена страха](https://habr.com/ru/articles/1020118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020118)
-- [Как собрать дашборд для анализа алготрейдинга без программирования: кейс на HTML + LLM](https://habr.com/ru/articles/1019640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019640)
-- [Пост-квантовый гибридный алгоритм шифрования для высоко-нагруженных систем с реализацией на TypeScript](https://habr.com/ru/articles/1020092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020092)
+- [Как идеальная CRM для СТО столкнулась с реальностью: уроки пятилетнего проекта](https://habr.com/ru/articles/1020182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020182)
+- [Свод знаний по бизнес-анализу BABoK в проектах внедрения корпоративных информационных систем](https://habr.com/ru/articles/1020098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020098)
+- [Из-за критической уязвимости VLESS клиентов скоро все ваши VPN будут заблокированы](https://habr.com/ru/articles/1020080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020080)
+- [TrustYFox: путь от пет‑проекта до LLM‑инструмента для поиска уязвимостей](https://habr.com/ru/companies/yandex/articles/1013714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013714)
+- [Замена STM32CubeIDE и переход в среду VSCode для Embedded-разработки](https://habr.com/ru/articles/1020160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020160)
 <!-- BLOG-POST-LIST:END -->
 
 ---
