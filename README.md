@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пещерная ИИ = эффективность и экономия](https://habr.com/ru/articles/1020308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020308)
+- [Кратко о CVSS: как оценивать критичность уязвимостей](https://habr.com/ru/articles/1020310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020310)
 - [Утечка Claude Code, Cursor 3 и конец халявы от Anthropic](https://habr.com/ru/companies/haulmont/articles/1020298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020298)
 - [Децентрализованная оркестрация на RabbitMQ вместо Apache Camel](https://habr.com/ru/articles/1017242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017242)
 - [[Перевод] Ты не можешь построить жизнеспособную дизайн-систему на Tailwind — Часть 1](https://habr.com/ru/articles/1020132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020132)
-- [TypeScript врёт — а вы об этом не знаете. Валидация ответов сервера](https://habr.com/ru/articles/1020268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020268)
-- [[Перевод] Кризис в физике элементарных частиц: есть ли свет в конце туннеля?](https://habr.com/ru/companies/first/articles/1020184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020184)
 <!-- BLOG-POST-LIST:END -->
 
 ---
