@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Какой я аналитик?](https://habr.com/ru/articles/1020014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020014)
+- [Как рисовать для 1С бизнес-процессы, не забывая их главного участника](https://habr.com/ru/articles/1020120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020120)
+- [[Перевод] Разработка во времена страха](https://habr.com/ru/articles/1020118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020118)
 - [Как собрать дашборд для анализа алготрейдинга без программирования: кейс на HTML + LLM](https://habr.com/ru/articles/1019640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019640)
 - [Пост-квантовый гибридный алгоритм шифрования для высоко-нагруженных систем с реализацией на TypeScript](https://habr.com/ru/articles/1020092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020092)
-- [Идеальный Store в Pinia &lpar;Vue&rpar;](https://habr.com/ru/articles/1020074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020074)
-- [Когда UI-kit начинает дрейфовать: плагин для WebStorm против поломок React-контрактов](https://habr.com/ru/articles/1020070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020070)
-- [Неразработчик + чат с ИИ + Android Studio: промежуточные результаты после публикации двух приложений](https://habr.com/ru/articles/1020060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020060)
 <!-- BLOG-POST-LIST:END -->
 
 ---
