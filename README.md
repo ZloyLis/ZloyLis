@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenClaw и память без амнезии: что выбрать между Lossless Claw, OpenViking, ByteRover, MemPalace и LLM Wiki](https://habr.com/ru/articles/1020860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020860)
-- [[Перевод] Программирование как построение теории: почему ИИ-агенты усложняют понимание кода](https://habr.com/ru/articles/1020862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020862)
-- [[Перевод] Закулисье стримов: три года прямых эфиров в Netflix](https://habr.com/ru/companies/wunderfund/articles/1020778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020778)
-- [Как дизайн‑токены ускорили дизайн‑код в VK Tech](https://habr.com/ru/companies/vk/articles/1020010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020010)
-- [Мультиагентная система без LangChain: почему абстракции ломаются и как строить production на чистом Python](https://habr.com/ru/articles/1020810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020810)
+- [Agent Harness: одна LLM, разные результаты — в чем секрет?](https://habr.com/ru/articles/1020918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020918)
+- [Парсим MDN и пишем оффлайн RAG-MCP](https://habr.com/ru/articles/1019930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019930)
+- [Частотный анализ сервопривода или как научить робота правильно ходить](https://habr.com/ru/articles/1020780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020780)
+- [Одна за всех? Как я организовала более 100+ встреч QA-комьюнити и не выгорела](https://habr.com/ru/companies/avito/articles/1016966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016966)
+- [Задача внешней баллистики. Третья часть](https://habr.com/ru/articles/1020176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020176)
 <!-- BLOG-POST-LIST:END -->
 
 ---
