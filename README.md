@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы научили AI-агента пользоваться IDE: дебаг, рефакторинг и run-конфигурации. Что нового в Veai 5.8](https://habr.com/ru/companies/veai/articles/1020760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020760)
+- [GuardDo Pixel против GrapheneOS: российское решение против «правильного» ответа](https://habr.com/ru/articles/1012832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012832)
+- [[Перевод] Зачем нужна специализация варпов. Разбор сложных случаев](https://habr.com/ru/articles/1020950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020950)
+- [Архитектура мультиканального Discord/Telegram voice-бота на Spring Boot: архитектура, грабли и production-решения](https://habr.com/ru/articles/1020928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020928)
 - [Agent Harness: одна LLM, разные результаты — в чем секрет?](https://habr.com/ru/articles/1020918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020918)
-- [Парсим MDN и пишем оффлайн RAG-MCP](https://habr.com/ru/articles/1019930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019930)
-- [Частотный анализ сервопривода или как научить робота правильно ходить](https://habr.com/ru/articles/1020780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020780)
-- [Одна за всех? Как я организовала более 100+ встреч QA-комьюнити и не выгорела](https://habr.com/ru/companies/avito/articles/1016966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016966)
-- [Задача внешней баллистики. Третья часть](https://habr.com/ru/articles/1020176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020176)
 <!-- BLOG-POST-LIST:END -->
 
 ---
