@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Укрощаем рыночный хаос: Пишем Liquid Neural Network &lpar;LNN&rpar; на PyTorch для алготрейдинга](https://habr.com/ru/articles/1020630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020630)
-- [Краткий справочник про внимания &lpar;self-attention, cross-attention, multi-head attention&rpar;](https://habr.com/ru/articles/1020624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020624)
-- [Direct2D #8: О &lpar;WIC&rpar; Windows Imaging Component](https://habr.com/ru/articles/1020590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020590)
-- [Критерии выживания и случайность — 2](https://habr.com/ru/articles/1020586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020586)
-- [Как я обошёл блокировку Anthropic для сторонних агентов и вернул все на подписку — пошаговый гайд](https://habr.com/ru/articles/1020570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020570)
+- [TTF-DOOM: как я запустил 3D-рейкастер внутри TrueType-шрифта](https://habr.com/ru/articles/1020668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020668)
+- [Стриминг ответов в Telegram-боте: новый API и 100 строк Python](https://habr.com/ru/articles/1019836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019836)
+- [Применение DDD. Разрешение кризиса DDD-сообщества](https://habr.com/ru/articles/1020588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020588)
+- [ИИ меняет экономику ИТ-проектов](https://habr.com/ru/articles/1020600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020600)
+- [Как мы потеряли 3500 ключей и вновь нашли их: локализуем приложение без ручного труда](https://habr.com/ru/companies/yandex/articles/1019008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019008)
 <!-- BLOG-POST-LIST:END -->
 
 ---
