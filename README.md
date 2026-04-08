@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как мы научили AI-агента пользоваться IDE: дебаг, рефакторинг и run-конфигурации. Что нового в Veai 5.8](https://habr.com/ru/companies/veai/articles/1020760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020760)
-- [GuardDo Pixel против GrapheneOS: российское решение против «правильного» ответа](https://habr.com/ru/articles/1012832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012832)
-- [[Перевод] Зачем нужна специализация варпов. Разбор сложных случаев](https://habr.com/ru/articles/1020950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020950)
-- [Архитектура мультиканального Discord/Telegram voice-бота на Spring Boot: архитектура, грабли и production-решения](https://habr.com/ru/articles/1020928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020928)
-- [Agent Harness: одна LLM, разные результаты — в чем секрет?](https://habr.com/ru/articles/1020918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020918)
+- [Показываю, как я заменил JSON на TOON в LLM-промптах и сэкономил 40% токенов](https://habr.com/ru/companies/cloud_ru/articles/1020430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020430)
+- [Почему не стоит писать ТЗ на внедрение ИИ с помощью ИИ](https://habr.com/ru/articles/1021022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021022)
+- [[Перевод] Персонализированное ценообразование: как работает, как его обнаружить и как им управлять](https://habr.com/ru/articles/1021020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021020)
+- [[Перевод] Баг на тёмной стороне Луны](https://habr.com/ru/articles/1021012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021012)
+- [Я написал симулятор квантового поля на Java. Вот что из этого вышло](https://habr.com/ru/articles/1021008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021008)
 <!-- BLOG-POST-LIST:END -->
 
 ---
