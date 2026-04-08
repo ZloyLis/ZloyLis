@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему я перестал писать bash-скрипты и написал свой язык](https://habr.com/ru/articles/1020728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020728)
+- [Как мы запустили 35B LLM на видеокарте за $500: внутри ZINC inference engine](https://habr.com/ru/articles/1020702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020702)
+- [Cruzo — минималистичный UI-фреймворк без лишней сложности](https://habr.com/ru/articles/1020698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020698)
+- [Что даёт воспроизводимая среда разработки и как развернуть контейнеры на VPS](https://habr.com/ru/companies/bitrix/articles/1019878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019878)
 - [TTF-DOOM: как я запустил 3D-рейкастер внутри TrueType-шрифта](https://habr.com/ru/articles/1020668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020668)
-- [Стриминг ответов в Telegram-боте: новый API и 100 строк Python](https://habr.com/ru/articles/1019836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019836)
-- [Применение DDD. Разрешение кризиса DDD-сообщества](https://habr.com/ru/articles/1020588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020588)
-- [ИИ меняет экономику ИТ-проектов](https://habr.com/ru/articles/1020600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020600)
-- [Как мы потеряли 3500 ключей и вновь нашли их: локализуем приложение без ручного труда](https://habr.com/ru/companies/yandex/articles/1019008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019008)
 <!-- BLOG-POST-LIST:END -->
 
 ---
