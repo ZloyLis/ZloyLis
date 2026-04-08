@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Укрощаем рыночный хаос: Пишем Liquid Neural Network &lpar;LNN&rpar; на PyTorch для алготрейдинга](https://habr.com/ru/articles/1020630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020630)
+- [Краткий справочник про внимания &lpar;self-attention, cross-attention, multi-head attention&rpar;](https://habr.com/ru/articles/1020624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020624)
 - [Direct2D #8: О &lpar;WIC&rpar; Windows Imaging Component](https://habr.com/ru/articles/1020590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020590)
 - [Критерии выживания и случайность — 2](https://habr.com/ru/articles/1020586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020586)
 - [Как я обошёл блокировку Anthropic для сторонних агентов и вернул все на подписку — пошаговый гайд](https://habr.com/ru/articles/1020570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020570)
-- [Kubernetes без магии: запускаем первый кластер, разбираем архитектуру и взаимодействие компонентов](https://habr.com/ru/companies/netologyru/articles/1020538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020538)
-- [Мобильное приложение DogPlanner. Перезагрузка…](https://habr.com/ru/articles/1020510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020510)
 <!-- BLOG-POST-LIST:END -->
 
 ---
