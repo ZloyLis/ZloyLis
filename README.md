@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От утилитарного Telegram-бота до полноценной PWA-панели управления VPS: эволюция проекта &lpar;v1.13.0 — v1.21.1&rpar;](https://habr.com/ru/articles/1021084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021084)
 - [Код без автора](https://habr.com/ru/articles/1021068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021068)
 - [[Перевод] Расширение поддержки IDE Swift](https://habr.com/ru/articles/1021058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021058)
 - [Показываю, как я заменил JSON на TOON в LLM-промптах и сэкономил 40% токенов](https://habr.com/ru/companies/cloud_ru/articles/1020430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020430)
 - [Почему не стоит писать ТЗ на внедрение ИИ с помощью ИИ](https://habr.com/ru/articles/1021022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021022)
-- [[Перевод] Персонализированное ценообразование: как работает, как его обнаружить и как им управлять](https://habr.com/ru/articles/1021020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021020)
 <!-- BLOG-POST-LIST:END -->
 
 ---
