@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Почему я перестал писать bash-скрипты и написал свой язык](https://habr.com/ru/articles/1020728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020728)
-- [Как мы запустили 35B LLM на видеокарте за $500: внутри ZINC inference engine](https://habr.com/ru/articles/1020702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020702)
-- [Cruzo — минималистичный UI-фреймворк без лишней сложности](https://habr.com/ru/articles/1020698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020698)
-- [Что даёт воспроизводимая среда разработки и как развернуть контейнеры на VPS](https://habr.com/ru/companies/bitrix/articles/1019878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019878)
-- [TTF-DOOM: как я запустил 3D-рейкастер внутри TrueType-шрифта](https://habr.com/ru/articles/1020668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020668)
+- [Мультиагентная система без LangChain: почему абстракции ломаются и как строить production на чистом Python](https://habr.com/ru/articles/1020810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020810)
+- [P2P в РФ: почему нужна система, а не протокол](https://habr.com/ru/articles/1020794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020794)
+- [Основы безопасности веб-приложений для бизнеса](https://habr.com/ru/articles/1020806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020806)
+- [Обновления функциональности GigaIDE за март 2026](https://habr.com/ru/companies/sberbank/articles/1019478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019478)
+- [Обзор Platformeco](https://habr.com/ru/companies/w_code/articles/1020790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020790)
 <!-- BLOG-POST-LIST:END -->
 
 ---
