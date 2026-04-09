@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Pretext – библиотека, которая считает текстовую вёрстку в 500 раз быстрее браузера. Зачем это нужно и как работает](https://habr.com/ru/articles/1020058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020058)
+- [Как бы я рассказал про линейную регрессию &lpar;если б меня кто-то спросил&rpar;](https://habr.com/ru/articles/1013998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013998)
 - [Странное тестовое задание или как упустить работу мечты](https://habr.com/ru/articles/1021510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021510)
 - [Kotlin для новичков: всё о функциях за 15 минут](https://habr.com/ru/companies/otus/articles/1008354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008354)
-- [Приложение полностью написанное AI](https://habr.com/ru/articles/1021492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021492)
-- [Полтора года без ручного кода: почему инструкции ИИ-агенту не заменяют инженерную дисциплину](https://habr.com/ru/articles/1021474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021474)
-- [Как я строил Smart Search для анализа вакансий: семантика, 152-ФЗ и борьба за экономию токенов](https://habr.com/ru/articles/1021466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021466)
+- [Анонс приложения полностью написанное AI](https://habr.com/ru/articles/1021492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021492)
 <!-- BLOG-POST-LIST:END -->
 
 ---
