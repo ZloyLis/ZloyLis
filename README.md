@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Как кодинг-агенты используют инструменты, память и контекст репозитория, чтобы писать код лучше](https://habr.com/ru/articles/1021168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021168)
-- [Быстрее и проще: nanoCAD GeoniCS вместо Civil 3D в работе маркшейдерской службы «Русского Угля»](https://habr.com/ru/companies/nanosoft/articles/1021156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021156)
-- [От линейного текста к семантическому графу: строим knowledge‑extraction‑пайплайн для учёбы](https://habr.com/ru/companies/yandex/articles/1019928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019928)
-- [Заставляем Flipper Zero и M5StickC Plus2 работать вместе](https://habr.com/ru/articles/1021102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021102)
-- [Искусство промптинга, или Как варить кашу из топора правильно](https://habr.com/ru/companies/yandex_praktikum/articles/1020202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020202)
+- [Книга: «Архитектура медальона. Проектирование с помощью Delta Lake и Spark»](https://habr.com/ru/companies/piter/articles/1021230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021230)
+- [Три разработки студентов ИМШ, которые могут изменить ИТ-индустрию](https://habr.com/ru/companies/vk/articles/1020964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020964)
+- [Что «убило» BlackBerry](https://habr.com/ru/companies/k2tech/articles/1021218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021218)
+- [To AI or not to AI или «будь на правильной стороне прогресса»](https://habr.com/ru/articles/1021210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021210)
+- [Нормализация состояния в React через реестр сущностей: паттерн на Zustand с рекурсивным парсингом и мягкими удалениями](https://habr.com/ru/articles/1019110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019110)
 <!-- BLOG-POST-LIST:END -->
 
 ---
