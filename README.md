@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [BIT-BANGING ИНТЕРФЕЙСА ПО ПОЛНОЙ](https://habr.com/ru/articles/1021360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021360)
-- [Я календарь переверну — и снова 5 апреля: CPU-утилизация во имя интернационализации](https://habr.com/ru/companies/tbank/articles/1021330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021330)
-- [Зачем конструктору опросов свой MCP-сервер &lpar;и почему мы не жалеем&rpar;](https://habr.com/ru/articles/1021350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021350)
-- [Как использовать koda-cli в своей IDE без терминала](https://habr.com/ru/companies/koda/articles/1019902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019902)
-- [Аврора Центр: как мы помогаем банкам собирать биометрию на отечественных устройствах](https://habr.com/ru/companies/rostelecom/articles/1021310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021310)
+- [Как я строил Smart Search для анализа вакансий: семантика, 152-ФЗ и борьба за экономию токенов](https://habr.com/ru/articles/1021466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021466)
+- [[Перевод] Масштабируем OpenClaw: Docker, Kubernetes и отказоустойчивость](https://habr.com/ru/companies/basis/articles/1021406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021406)
+- [Не трогай наш реактор. Мы тут 100 лет без вашей математики работали](https://habr.com/ru/companies/sibur_official/articles/1020938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020938)
+- [Работаем с Claude Code на десктопе из России](https://habr.com/ru/companies/ruvds/articles/1020062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020062)
+- [WebSocket и SSE просто, для собеседований и не только](https://habr.com/ru/articles/1021414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021414)
 <!-- BLOG-POST-LIST:END -->
 
 ---
