@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как использовать koda-cli в своей IDE без терминала](https://habr.com/ru/companies/koda/articles/1019902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019902)
+- [Аврора Центр: как мы помогаем банкам собирать биометрию на отечественных устройствах](https://habr.com/ru/companies/rostelecom/articles/1021310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021310)
+- [Что утечка исходного кода Claude Code показала о будущем AI-агентов](https://habr.com/ru/articles/1020088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020088)
+- [Я научил виртуальную камеру быть оператором: как устроен алгоритм face tracking для Shorts/Reels](https://habr.com/ru/articles/1021278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021278)
 - [Книга: «Архитектура медальона. Проектирование с помощью Delta Lake и Spark»](https://habr.com/ru/companies/piter/articles/1021230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021230)
-- [Три разработки студентов ИМШ, которые могут изменить ИТ-индустрию](https://habr.com/ru/companies/vk/articles/1020964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020964)
-- [Что «убило» BlackBerry](https://habr.com/ru/companies/k2tech/articles/1021218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021218)
-- [To AI or not to AI или «будь на правильной стороне прогресса»](https://habr.com/ru/articles/1021210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021210)
-- [Нормализация состояния в React через реестр сущностей: паттерн на Zustand с рекурсивным парсингом и мягкими удалениями](https://habr.com/ru/articles/1019110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019110)
 <!-- BLOG-POST-LIST:END -->
 
 ---
