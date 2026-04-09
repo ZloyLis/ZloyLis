@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Странное тестовое задание или как упустить работу мечты](https://habr.com/ru/articles/1021510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021510)
+- [Kotlin для новичков: всё о функциях за 15 минут](https://habr.com/ru/companies/otus/articles/1008354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008354)
+- [Приложение полностью написанное AI](https://habr.com/ru/articles/1021492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021492)
+- [Полтора года без ручного кода: почему инструкции ИИ-агенту не заменяют инженерную дисциплину](https://habr.com/ru/articles/1021474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021474)
 - [Как я строил Smart Search для анализа вакансий: семантика, 152-ФЗ и борьба за экономию токенов](https://habr.com/ru/articles/1021466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021466)
-- [[Перевод] Масштабируем OpenClaw: Docker, Kubernetes и отказоустойчивость](https://habr.com/ru/companies/basis/articles/1021406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021406)
-- [Не трогай наш реактор. Мы тут 100 лет без вашей математики работали](https://habr.com/ru/companies/sibur_official/articles/1020938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020938)
-- [Работаем с Claude Code на десктопе из России](https://habr.com/ru/companies/ruvds/articles/1020062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020062)
-- [WebSocket и SSE просто, для собеседований и не только](https://habr.com/ru/articles/1021414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021414)
 <!-- BLOG-POST-LIST:END -->
 
 ---
