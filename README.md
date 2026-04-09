@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [BIT-BANGING ИНТЕРФЕЙСА ПО ПОЛНОЙ](https://habr.com/ru/articles/1021360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021360)
+- [Я календарь переверну — и снова 5 апреля: CPU-утилизация во имя интернационализации](https://habr.com/ru/companies/tbank/articles/1021330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021330)
+- [Зачем конструктору опросов свой MCP-сервер &lpar;и почему мы не жалеем&rpar;](https://habr.com/ru/articles/1021350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021350)
 - [Как использовать koda-cli в своей IDE без терминала](https://habr.com/ru/companies/koda/articles/1019902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019902)
 - [Аврора Центр: как мы помогаем банкам собирать биометрию на отечественных устройствах](https://habr.com/ru/companies/rostelecom/articles/1021310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021310)
-- [Что утечка исходного кода Claude Code показала о будущем AI-агентов](https://habr.com/ru/articles/1020088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020088)
-- [Я научил виртуальную камеру быть оператором: как устроен алгоритм face tracking для Shorts/Reels](https://habr.com/ru/articles/1021278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021278)
-- [Книга: «Архитектура медальона. Проектирование с помощью Delta Lake и Spark»](https://habr.com/ru/companies/piter/articles/1021230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021230)
 <!-- BLOG-POST-LIST:END -->
 
 ---
