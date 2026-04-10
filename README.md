@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kotlin без «воды»: новая книга для тех, кто хочет изучить язык на практике](https://habr.com/ru/companies/bhv_publishing/articles/1021726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021726)
-- [Нюансы локализации приложений в Lazarus IDE](https://habr.com/ru/articles/1021718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021718)
-- [Ангелы на кончике иглы 2.0, или История в трёх частях, с прологом и эпилогом — о нейросетях и PostgreSQL](https://habr.com/ru/articles/1021694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021694)
-- [Ахиллесова пята C++ и будущая р̶е̶ эволюция](https://habr.com/ru/articles/1021684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021684)
-- [Механика двухконтурной системы. Часть 2](https://habr.com/ru/articles/1021682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021682)
+- [Семь вещей, которые нельзя делать из-за стирания типов в Java](https://habr.com/ru/articles/1021808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021808)
+- [JSON_TABLE в PostgreSQL: превращаем JSON в реляционные данные одним запросом](https://habr.com/ru/companies/otus/articles/1015526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015526)
+- [Атом смысла: от частиц к свойствам](https://habr.com/ru/articles/1021798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021798)
+- [FiT календарь тренировок — финал трилогии пет-проекта](https://habr.com/ru/articles/1021790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021790)
+- [[Перевод] Почему я всё ещё выбираю MCP, а не Skills](https://habr.com/ru/companies/haulmont/articles/1021768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021768)
 <!-- BLOG-POST-LIST:END -->
 
 ---
