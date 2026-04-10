@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Свой корпус или готовый? С чего начать новичку в электронике](https://habr.com/ru/articles/1021620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021620)
-- [Сегодня мы построим свою локальную модель на смартфоне. С блэкджеком и WebUI](https://habr.com/ru/articles/1021610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021610)
-- [Рефакторил-рефакторил, и почти всё переписал в итоге](https://habr.com/ru/articles/1021594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021594)
-- [QA в CI/CD: как перестать гонять тесты руками и настроить это один раз](https://habr.com/ru/articles/1021592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021592)
-- [Критерии выживания и случайность — 3](https://habr.com/ru/articles/1021556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021556)
+- [Как создать ИИ аватар в Telegram Mini App: React, Django, HeyGen API и генерация видео](https://habr.com/ru/articles/1021678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021678)
+- [Как я выбираю моменты для Shorts: почему LLM + транскрипт почти всегда дают мусор](https://habr.com/ru/articles/1021552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021552)
+- [Разработка программного обеспечения для систем, критичных к безопасности, на основе требований](https://habr.com/ru/companies/atom/articles/1017048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017048)
+- [Как мы построили платформу агентов для Алисы AI — и почему пришлось написать сервер поверх Temporal](https://habr.com/ru/companies/yandex/articles/1020282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020282)
+- [Несколько тупых, но очень эффективных промптов для Codex для всех проектов](https://habr.com/ru/articles/1021590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021590)
 <!-- BLOG-POST-LIST:END -->
 
 ---
