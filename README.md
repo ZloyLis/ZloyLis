@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обзор учебно-тренировочной электронной платы JZ-F407VET6](https://habr.com/ru/articles/988494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988494)
+- [Мой фреймворк для агентной разработки с Claude Code](https://habr.com/ru/articles/1022050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022050)
 - [Как я автоматизировал управление информацией и оптимизировал рабочие процессы. История Sapiens OS](https://habr.com/ru/articles/1022042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022042)
 - [[Перевод] Самый простой способ устроить утечку памяти в Java](https://habr.com/ru/companies/spring_aio/articles/1022018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022018)
 - [Что делать с архитектурным дрифтом в эпоху ИИ?](https://habr.com/ru/companies/flowc/articles/1021766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021766)
-- [Перестаньте мешать пользователям: гайд по дружелюбным модальным окнам](https://habr.com/ru/companies/severstal/articles/1022004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022004)
-- [Будни аналитика ИБ: отчеты, уязвимости и реальная безопасность](https://habr.com/ru/companies/pt/articles/1021732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021732)
 <!-- BLOG-POST-LIST:END -->
 
 ---
