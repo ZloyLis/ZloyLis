@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Как я с помощью автоматизации выиграл iPhone от McDonald’s](https://habr.com/ru/companies/ruvds/articles/1021162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021162)
-- [Началось: меня забанили в Claude Code на аккаунте за $200](https://habr.com/ru/articles/1021936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021936)
-- [Кто хочет стать инсайт-волшебником, или Нейроинтегральное прогнозирование](https://habr.com/ru/articles/1021928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021928)
-- [Как доводить сложные задачи до конца, когда всё меняется на ходу — переосмысление международных платежей в OTP Бизнес](https://habr.com/ru/companies/otpbank/articles/1021876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021876)
-- [Room или SQLite? Как не писать SQL запросы вручную на Android](https://habr.com/ru/articles/1021890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021890)
+- [Стили интеграции: от файлов до событий — как выбрать правильно](https://habr.com/ru/companies/otus/articles/1008376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008376)
+- [Три гвоздя в крышку гроба Claude Code, которые они забили сами](https://habr.com/ru/articles/1021994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021994)
+- [Как устроена транскрипция в Jitsi Meet: Jigasi, SIP и путь до EMR](https://habr.com/ru/articles/1021992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021992)
+- [Собираем ML-платформу на базе Kubernetes: Yandex Cloud, JupyterHub, Dask и S3](https://habr.com/ru/companies/kts/articles/1021976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021976)
+- [Рейтинг Рунета без «миллионных оборотов»: как туда попасть и зачем нужен аукцион – интервью с Анатолием Денисовым](https://habr.com/ru/articles/1021974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021974)
 <!-- BLOG-POST-LIST:END -->
 
 ---
