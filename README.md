@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как сделать мобильное приложение удобным и уникальным: 8 шагов от идеи до тестирования](https://habr.com/ru/articles/1021856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021856)
-- [Топ 15 нейросетей для учебы в 2026 году: ИИ для студентов/школьников](https://habr.com/ru/companies/bothub/articles/1021828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021828)
-- [Расширение для Chrome, которое спасает от рейдов на Twitch](https://habr.com/ru/articles/1021824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021824)
-- [Куда идет программирование на самом деле?](https://habr.com/ru/articles/1021822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021822)
-- [Команда не стала работать быстрее: 8 уровней агентной инженерии](https://habr.com/ru/companies/veai/articles/1021816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021816)
+- [[Перевод] Как я с помощью автоматизации выиграл iPhone от McDonald’s](https://habr.com/ru/companies/ruvds/articles/1021162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021162)
+- [Началось: меня забанили в Claude Code на аккаунте за $200](https://habr.com/ru/articles/1021936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021936)
+- [Кто хочет стать инсайт-волшебником, или Нейроинтегральное прогнозирование](https://habr.com/ru/articles/1021928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021928)
+- [Как доводить сложные задачи до конца, когда всё меняется на ходу — переосмысление международных платежей в OTP Бизнес](https://habr.com/ru/companies/otpbank/articles/1021876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021876)
+- [Room или SQLite? Как не писать SQL запросы вручную на Android](https://habr.com/ru/articles/1021890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021890)
 <!-- BLOG-POST-LIST:END -->
 
 ---
