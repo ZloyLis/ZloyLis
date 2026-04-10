@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Semantic terminal: AI-генератор однострочников по описанию на естественном языке](https://habr.com/ru/articles/1022056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022056)
 - [Обзор учебно-тренировочной электронной платы JZ-F407VET6](https://habr.com/ru/articles/988494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988494)
 - [Мой фреймворк для агентной разработки с Claude Code](https://habr.com/ru/articles/1022050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022050)
 - [Как я автоматизировал управление информацией и оптимизировал рабочие процессы. История Sapiens OS](https://habr.com/ru/articles/1022042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022042)
 - [[Перевод] Самый простой способ устроить утечку памяти в Java](https://habr.com/ru/companies/spring_aio/articles/1022018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022018)
-- [Что делать с архитектурным дрифтом в эпоху ИИ?](https://habr.com/ru/companies/flowc/articles/1021766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021766)
 <!-- BLOG-POST-LIST:END -->
 
 ---
