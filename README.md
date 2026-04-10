@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Самый простой способ устроить утечку памяти в Java](https://habr.com/ru/companies/spring_aio/articles/1022018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022018)
+- [Что делать с архитектурным дрифтом в эпоху ИИ?](https://habr.com/ru/companies/flowc/articles/1021766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021766)
+- [Перестаньте мешать пользователям: гайд по дружелюбным модальным окнам](https://habr.com/ru/companies/severstal/articles/1022004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022004)
+- [Будни аналитика ИБ: отчеты, уязвимости и реальная безопасность](https://habr.com/ru/companies/pt/articles/1021732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021732)
 - [Стили интеграции: от файлов до событий — как выбрать правильно](https://habr.com/ru/companies/otus/articles/1008376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008376)
-- [Три гвоздя в крышку гроба Claude Code, которые они забили сами](https://habr.com/ru/articles/1021994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021994)
-- [Как устроена транскрипция в Jitsi Meet: Jigasi, SIP и путь до EMR](https://habr.com/ru/articles/1021992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021992)
-- [Собираем ML-платформу на базе Kubernetes: Yandex Cloud, JupyterHub, Dask и S3](https://habr.com/ru/companies/kts/articles/1021976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021976)
-- [Рейтинг Рунета без «миллионных оборотов»: как туда попасть и зачем нужен аукцион – интервью с Анатолием Денисовым](https://habr.com/ru/articles/1021974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021974)
 <!-- BLOG-POST-LIST:END -->
 
 ---
