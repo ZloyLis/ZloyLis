@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [QA в CI/CD: как перестать гонять тесты руками и настроить это один раз](https://habr.com/ru/articles/1021592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021592)
 - [Критерии выживания и случайность — 3](https://habr.com/ru/articles/1021556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021556)
 - [REST API: гайд по проектированию от принципов до боевых кейсов](https://habr.com/ru/companies/otus/articles/1008370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1008370)
-- [Pretext – библиотека, которая считает текстовую вёрстку в 500 раз быстрее браузера. Зачем это нужно и как работает](https://habr.com/ru/articles/1020058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020058)
+- [Pretext — библиотека, которая считает текстовую вёрстку в 500 раз быстрее браузера. Зачем это нужно и как работает](https://habr.com/ru/articles/1020058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020058)
 - [Как бы я рассказал про линейную регрессию &lpar;если б меня кто-то спросил&rpar;](https://habr.com/ru/articles/1013998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013998)
-- [Странное тестовое задание или как упустить работу мечты](https://habr.com/ru/articles/1021510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021510)
 <!-- BLOG-POST-LIST:END -->
 
 ---
