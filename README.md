@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как создать ИИ аватар в Telegram Mini App: React, Django, HeyGen API и генерация видео](https://habr.com/ru/articles/1021678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021678)
-- [Как я выбираю моменты для Shorts: почему LLM + транскрипт почти всегда дают мусор](https://habr.com/ru/articles/1021552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021552)
-- [Разработка программного обеспечения для систем, критичных к безопасности, на основе требований](https://habr.com/ru/companies/atom/articles/1017048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017048)
-- [Как мы построили платформу агентов для Алисы AI — и почему пришлось написать сервер поверх Temporal](https://habr.com/ru/companies/yandex/articles/1020282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020282)
-- [Несколько тупых, но очень эффективных промптов для Codex для всех проектов](https://habr.com/ru/articles/1021590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021590)
+- [Kotlin без «воды»: новая книга для тех, кто хочет изучить язык на практике](https://habr.com/ru/companies/bhv_publishing/articles/1021726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021726)
+- [Нюансы локализации приложений в Lazarus IDE](https://habr.com/ru/articles/1021718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021718)
+- [Ангелы на кончике иглы 2.0, или История в трёх частях, с прологом и эпилогом — о нейросетях и PostgreSQL](https://habr.com/ru/articles/1021694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021694)
+- [Ахиллесова пята C++ и будущая р̶е̶ эволюция](https://habr.com/ru/articles/1021684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021684)
+- [Механика двухконтурной системы. Часть 2](https://habr.com/ru/articles/1021682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021682)
 <!-- BLOG-POST-LIST:END -->
 
 ---
