@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Baseline: март 2026 или самый насыщенный выпуск](https://habr.com/ru/articles/1018200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018200)
+- [DiffQuant: прямая оптимизация коэффициента Шарпа через дифференцируемый торговый симулятор](https://habr.com/ru/articles/1022254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022254)
 - [Галлюцинация продуктивности](https://habr.com/ru/articles/1022236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022236)
 - [Генерация видео с помощью Wan2.2: установка и первые впечатления](https://habr.com/ru/companies/selectel/articles/1022232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022232)
 - [Облако своими руками для расчета пространственных стержней методом конечных элементов на Node js, React js и Three js](https://habr.com/ru/articles/1022206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022206)
-- [Методология «Модель систем»](https://habr.com/ru/articles/1022188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022188)
-- [Продакт в 2026 году: чем занимается, как им стать и почему цифровому бизнесу без него никуда](https://habr.com/ru/companies/yandex_praktikum/articles/1021868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021868)
 <!-- BLOG-POST-LIST:END -->
 
 ---
