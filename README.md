@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Методология «Модель систем»](https://habr.com/ru/articles/1022188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022188)
+- [Продакт в 2026 году: чем занимается, как им стать и почему цифровому бизнесу без него никуда](https://habr.com/ru/companies/yandex_praktikum/articles/1021868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021868)
+- [Что могло бы помочь в дальнейшем развитии C++, но вряд ли произойдет](https://habr.com/ru/articles/1022142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022142)
 - [Как я не создал Multiroom, а использовал существующий](https://habr.com/ru/articles/1022124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022124)
 - [Semantic terminal: AI-генератор однострочников по описанию на естественном языке](https://habr.com/ru/articles/1022056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022056)
-- [Обзор учебно-тренировочной электронной платы JZ-F407VET6](https://habr.com/ru/articles/988494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=988494)
-- [Мой фреймворк для агентной разработки с Claude Code](https://habr.com/ru/articles/1022050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022050)
-- [Как я автоматизировал управление информацией и оптимизировал рабочие процессы. История Sapiens OS](https://habr.com/ru/articles/1022042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022042)
 <!-- BLOG-POST-LIST:END -->
 
 ---
