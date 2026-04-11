@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Галлюцинация продуктивности](https://habr.com/ru/articles/1022236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022236)
+- [Генерация видео с помощью Wan2.2: установка и первые впечатления](https://habr.com/ru/companies/selectel/articles/1022232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022232)
 - [Облако своими руками для расчета пространственных стержней методом конечных элементов на Node js, React js и Three js](https://habr.com/ru/articles/1022206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022206)
 - [Методология «Модель систем»](https://habr.com/ru/articles/1022188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022188)
 - [Продакт в 2026 году: чем занимается, как им стать и почему цифровому бизнесу без него никуда](https://habr.com/ru/companies/yandex_praktikum/articles/1021868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021868)
-- [Что могло бы помочь в дальнейшем развитии C++, но вряд ли произойдет](https://habr.com/ru/articles/1022142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022142)
-- [Как я не создал Multiroom, а использовал существующий](https://habr.com/ru/articles/1022124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022124)
 <!-- BLOG-POST-LIST:END -->
 
 ---
