@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Науки Зюки. Сказка](https://habr.com/ru/articles/1022374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022374)
+- [Join таблиц в реальном времени на Apache Flink &lpar; Часть 3 &rpar;](https://habr.com/ru/articles/1022368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022368)
 - [Kafka для начинающих: Apache Avro и Schema Registry &lpar;практика&rpar;](https://habr.com/ru/articles/1018944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018944)
 - [Дизайн на 100 миллионов: как мы пересобирали главную страницу Госуслуг](https://habr.com/ru/articles/1022358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022358)
 - [Хроники Облачного княжества: как я приручал монолит‑дракона](https://habr.com/ru/articles/1022326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022326)
-- [Палитра команд: VSCode был прав — это удобно](https://habr.com/ru/articles/1021812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021812)
-- [Как писать промпты для разработки: опыт, который экономит часы](https://habr.com/ru/articles/1022292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022292)
 <!-- BLOG-POST-LIST:END -->
 
 ---
