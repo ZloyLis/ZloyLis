@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [HttpClient в Spring 7: замена FeignClient или нет?](https://habr.com/ru/articles/1022466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022466)
-- [Как установить бесплатный SSL-сертификат и настроить HTTPS на домене](https://habr.com/ru/companies/amvera/articles/1022448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022448)
-- [Я собрал все медицинские данные семьи в одном сервисе и подключил Claude Opus. Рассказываю что из этого вышло](https://habr.com/ru/articles/1022450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022450)
-- [Как мы перестали молиться на AI и собрали параноидальный конвейер для МРТ &lpar;с открытым кодом&rpar;](https://habr.com/ru/articles/1022436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022436)
-- [Как я перестал мучить людей дисклеймерами и научил нейросеть заполнять фильтры](https://habr.com/ru/articles/1022434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022434)
+- [Мобильная разработка за неделю #627 &lpar;6 марта — 12 апреля&rpar;](https://habr.com/ru/articles/1022510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022510)
+- [Программа смены фона рабочего стола](https://habr.com/ru/articles/1022508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022508)
+- [Как мы строим OLTP-ядро: от API-контрактов до eBPF-проб](https://habr.com/ru/articles/1022506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022506)
+- [История компьютеризации ставок на спорт](https://habr.com/ru/articles/1022500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022500)
+- [Критическая уязвимость VLESS клиентов? Подержите мое пиво…](https://habr.com/ru/articles/1022422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022422)
 <!-- BLOG-POST-LIST:END -->
 
 ---
