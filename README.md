@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как установить бесплатный SSL-сертификат и настроить HTTPS на домене](https://habr.com/ru/companies/amvera/articles/1022448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022448)
+- [Я собрал все медицинские данные семьи в одном сервисе и подключил Claude Opus. Рассказываю что из этого вышло](https://habr.com/ru/articles/1022450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022450)
 - [Как мы перестали молиться на AI и собрали параноидальный конвейер для МРТ &lpar;с открытым кодом&rpar;](https://habr.com/ru/articles/1022436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022436)
 - [Как я перестал мучить людей дисклеймерами и научил нейросеть заполнять фильтры](https://habr.com/ru/articles/1022434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022434)
 - [AGC или как перестать подстраивать громкость вручную](https://habr.com/ru/articles/1022424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022424)
-- [Идеальный Outline в Unity 6: Пишем эффект обводки под новый URP Render Graph](https://habr.com/ru/articles/1022412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022412)
-- [[Перевод] Космическая лестница расстояний](https://habr.com/ru/articles/1016202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016202)
 <!-- BLOG-POST-LIST:END -->
 
 ---
