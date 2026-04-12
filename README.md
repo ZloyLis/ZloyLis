@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Маяк в пустыне: Kotlin DSL для Android-шейдеров](https://habr.com/ru/articles/1022546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022546)
+- [Как я сэкономил 57 000 ₽ на софте на маркетплейсах лицензий](https://habr.com/ru/articles/1022524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022524)
 - [Мобильная разработка за неделю #627 &lpar;6 марта — 12 апреля&rpar;](https://habr.com/ru/articles/1022510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022510)
 - [Программа смены фона рабочего стола](https://habr.com/ru/articles/1022508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022508)
 - [Как мы строим OLTP-ядро: от API-контрактов до eBPF-проб](https://habr.com/ru/articles/1022506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022506)
-- [История компьютеризации ставок на спорт](https://habr.com/ru/articles/1022500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022500)
-- [Критическая уязвимость VLESS клиентов? Подержите мое пиво…](https://habr.com/ru/articles/1022422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022422)
 <!-- BLOG-POST-LIST:END -->
 
 ---
