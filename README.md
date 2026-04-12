@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мой CLAUDE.md — 582 строки. Вот зачем](https://habr.com/ru/articles/1022578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022578)
+- [[Перевод] Запускаю Gemma 4 локально в LM Studio: 51 токен/с и Claude Code без интернета](https://habr.com/ru/companies/bothub/articles/1022574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022574)
 - [Маяк в пустыне: Kotlin DSL для Android-шейдеров](https://habr.com/ru/articles/1022546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022546)
 - [Как я сэкономил 57 000 ₽ на софте на маркетплейсах лицензий](https://habr.com/ru/articles/1022524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022524)
 - [Мобильная разработка за неделю #627 &lpar;6 марта — 12 апреля&rpar;](https://habr.com/ru/articles/1022510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022510)
-- [Программа смены фона рабочего стола](https://habr.com/ru/articles/1022508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022508)
-- [Как мы строим OLTP-ядро: от API-контрактов до eBPF-проб](https://habr.com/ru/articles/1022506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022506)
 <!-- BLOG-POST-LIST:END -->
 
 ---
