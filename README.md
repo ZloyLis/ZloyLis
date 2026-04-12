@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Идеальный Outline в Unity 6: Пишем эффект обводки под новый URP Render Graph](https://habr.com/ru/articles/1022412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022412)
 - [[Перевод] Космическая лестница расстояний](https://habr.com/ru/articles/1016202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016202)
 - [DevGlossary: инженерный словарь терминов программирования в Markdown](https://habr.com/ru/articles/1022396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022396)
 - [Отправим стукачей в ГУЛАГ](https://habr.com/ru/articles/1022390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022390)
 - [[Перевод] Экономика космической индустрии и конкурентоспособность ракетного топлива лунного происхождения](https://habr.com/ru/articles/1019344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019344)
-- [Науки Зюки. Сказка](https://habr.com/ru/articles/1022374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022374)
 <!-- BLOG-POST-LIST:END -->
 
 ---
