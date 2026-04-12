@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Бизнес-визуализации, или графики, которые недооценивают](https://habr.com/ru/articles/1022608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022608)
 - [Моё путешествие в трёхмерное пространство: история о «программном» Франкенштейне и множестве открытий](https://habr.com/ru/articles/1022594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022594)
 - [Хранение классифицированных данных](https://habr.com/ru/articles/1022584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022584)
 - [Мой CLAUDE.md — 582 строки. Вот зачем](https://habr.com/ru/articles/1022578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022578)
 - [[Перевод] Запускаю Gemma 4 локально в LM Studio: 51 токен/с и Claude Code без интернета](https://habr.com/ru/companies/bothub/articles/1022574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022574)
-- [Маяк в пустыне: Kotlin DSL для Android-шейдеров](https://habr.com/ru/articles/1022546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022546)
 <!-- BLOG-POST-LIST:END -->
 
 ---
