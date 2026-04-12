@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы перестали молиться на AI и собрали параноидальный конвейер для МРТ &lpar;с открытым кодом&rpar;](https://habr.com/ru/articles/1022436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022436)
+- [Как я перестал мучить людей дисклеймерами и научил нейросеть заполнять фильтры](https://habr.com/ru/articles/1022434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022434)
+- [AGC или как перестать подстраивать громкость вручную](https://habr.com/ru/articles/1022424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022424)
 - [Идеальный Outline в Unity 6: Пишем эффект обводки под новый URP Render Graph](https://habr.com/ru/articles/1022412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022412)
 - [[Перевод] Космическая лестница расстояний](https://habr.com/ru/articles/1016202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016202)
-- [DevGlossary: инженерный словарь терминов программирования в Markdown](https://habr.com/ru/articles/1022396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022396)
-- [Отправим стукачей в ГУЛАГ](https://habr.com/ru/articles/1022390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022390)
-- [[Перевод] Экономика космической индустрии и конкурентоспособность ракетного топлива лунного происхождения](https://habr.com/ru/articles/1019344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019344)
 <!-- BLOG-POST-LIST:END -->
 
 ---
