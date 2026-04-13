@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Можно ли запустить корпоративную BI+ETL-систему за 1,5 млн рублей? Часть 2: Modus ETL &amp;amp; Modus BI](https://habr.com/ru/companies/w_code/articles/1022844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022844)
-- [Вынесение бизнес‑логики из BLoC в use‑cases: прагматичный взгляд на архитектуру Flutter](https://habr.com/ru/articles/1022838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022838)
-- [SherlockOps, или как мы победили мониторинг](https://habr.com/ru/articles/1022830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022830)
-- [Как школьная идея «списка желаний» превратилась в сервис на 70 000 пользователей](https://habr.com/ru/articles/1022808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022808)
-- [Dart на бекенде: почему его бросила бывшая](https://habr.com/ru/articles/1022790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022790)
+- [Как стать инди-разработчиком в 40+ лет без опыта и образования](https://habr.com/ru/articles/1022950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022950)
+- [Создаем WCAG-доступный DatePicker на React: как Claude пишет основу, а мы доводим до ума](https://habr.com/ru/articles/1022918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022918)
+- [[Перевод] «Замедлиться, чтобы ускориться»: почему ИИ повышает цену ошибок в требованиях и архитектуре](https://habr.com/ru/companies/otus/articles/1021840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021840)
+- [Многопоточная среда в разработке JAVA](https://habr.com/ru/articles/1022934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022934)
+- [Plumb Messenger, или все-таки Titanium? Как я подсматривал у больших дядь и собирал свой бэкендовый конструктор](https://habr.com/ru/articles/1022582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022582)
 <!-- BLOG-POST-LIST:END -->
 
 ---
