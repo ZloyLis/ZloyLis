@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Можно ли запустить корпоративную BI+ETL-систему за 1,5 млн рублей? Часть 2: Modus ETL &amp;amp; Modus BI](https://habr.com/ru/companies/w_code/articles/1022844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022844)
+- [Вынесение бизнес‑логики из BLoC в use‑cases: прагматичный взгляд на архитектуру Flutter](https://habr.com/ru/articles/1022838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022838)
+- [SherlockOps, или как мы победили мониторинг](https://habr.com/ru/articles/1022830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022830)
+- [Как школьная идея «списка желаний» превратилась в сервис на 70 000 пользователей](https://habr.com/ru/articles/1022808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022808)
 - [Dart на бекенде: почему его бросила бывшая](https://habr.com/ru/articles/1022790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022790)
-- [Китайский домовой существует в вашей сети, доказано Спецлабом](https://habr.com/ru/companies/speclab/articles/1022738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022738)
-- [GIN‑индексы для JSONB в PostgreSQL: jsonb_ops vs jsonb_path_ops](https://habr.com/ru/companies/otus/articles/1015518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015518)
-- [Книга про разработку под iOS на русском: разбираем единственный актуальный учебник по SwiftUI](https://habr.com/ru/companies/bhv_publishing/articles/1022756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022756)
-- [[Перевод] DuckDB как микро-хранилище: заменяем «ETL + Postgres» одним файлом, одним движком](https://habr.com/ru/articles/1022746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022746)
 <!-- BLOG-POST-LIST:END -->
 
 ---
