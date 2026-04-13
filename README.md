@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Бизнес-визуализации, или графики, которые недооценивают](https://habr.com/ru/articles/1022608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022608)
-- [Моё путешествие в трёхмерное пространство: история о «программном» Франкенштейне и множестве открытий](https://habr.com/ru/articles/1022594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022594)
-- [Хранение классифицированных данных](https://habr.com/ru/articles/1022584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022584)
-- [Мой CLAUDE.md — 582 строки. Вот зачем](https://habr.com/ru/articles/1022578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022578)
-- [[Перевод] Запускаю Gemma 4 локально в LM Studio: 51 токен/с и Claude Code без интернета](https://habr.com/ru/companies/bothub/articles/1022574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022574)
+- [ИИ-агент — не программист: пять наблюдений и три следствия](https://habr.com/ru/articles/1022560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022560)
+- [Почему в архитектуре платформы мы выбрали Apache APISIX](https://habr.com/ru/companies/severstal/articles/1022034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022034)
+- [От рефакторинга до психотерапевта: как мы переписывали карточку задачи в Битрикс24](https://habr.com/ru/companies/bitrix/articles/1021848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021848)
+- [Мотивация, оптимизация, коробочка, жабочка и «налог на усталость»](https://habr.com/ru/articles/1022674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022674)
+- [Как Rust реализует трейт-объекты и почему dyn Trait медленнее дженериков](https://habr.com/ru/companies/beget/articles/1016672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016672)
 <!-- BLOG-POST-LIST:END -->
 
 ---
