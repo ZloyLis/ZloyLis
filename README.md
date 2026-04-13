@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Промпты для DeepSeek: как писать запросы, чтобы получить максимум от бесплатной нейросети](https://habr.com/ru/articles/1023036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023036)
+- [На один плюс больше. Сервер Mobian на OnePlus 6. Оказалось слишком просто](https://habr.com/ru/articles/1023028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023028)
+- [Тихий даунгрейд: reasoning depth Claude Code просел на 73% — разбор 6852 сессий](https://habr.com/ru/articles/1023020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023020)
 - [Сделал MVP за 3 дня, а потом неделю прикручивал оплату. Оно того стоило?](https://habr.com/ru/articles/1023006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023006)
 - [[Перевод] JPA 4. Переосмысление Hibernate](https://habr.com/ru/companies/spring_aio/articles/1022564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022564)
-- [Kafka. WebClient. Feign. WebSocket. Или как общаются микросервисы](https://habr.com/ru/articles/1022974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022974)
-- [Как стать инди-разработчиком в 40+ лет без опыта и образования](https://habr.com/ru/articles/1022950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022950)
-- [Создаем WCAG-доступный DatePicker на React: как Claude пишет основу, а мы доводим до ума](https://habr.com/ru/articles/1022918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022918)
 <!-- BLOG-POST-LIST:END -->
 
 ---
