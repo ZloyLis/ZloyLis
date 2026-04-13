@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сделал MVP за 3 дня, а потом неделю прикручивал оплату. Оно того стоило?](https://habr.com/ru/articles/1023006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023006)
+- [[Перевод] JPA 4. Переосмысление Hibernate](https://habr.com/ru/companies/spring_aio/articles/1022564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022564)
+- [Kafka. WebClient. Feign. WebSocket. Или как общаются микросервисы](https://habr.com/ru/articles/1022974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022974)
 - [Как стать инди-разработчиком в 40+ лет без опыта и образования](https://habr.com/ru/articles/1022950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022950)
 - [Создаем WCAG-доступный DatePicker на React: как Claude пишет основу, а мы доводим до ума](https://habr.com/ru/articles/1022918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022918)
-- [[Перевод] «Замедлиться, чтобы ускориться»: почему ИИ повышает цену ошибок в требованиях и архитектуре](https://habr.com/ru/companies/otus/articles/1021840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021840)
-- [Многопоточная среда в разработке JAVA](https://habr.com/ru/articles/1022934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022934)
-- [Plumb Messenger, или все-таки Titanium? Как я подсматривал у больших дядь и собирал свой бэкендовый конструктор](https://habr.com/ru/articles/1022582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022582)
 <!-- BLOG-POST-LIST:END -->
 
 ---
