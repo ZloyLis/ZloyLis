@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Превращаем Сlaude Code в дизайнера мирового уровня: генерация UI-компонентов, тем и аудит по гайдлайнам](https://habr.com/ru/articles/1023084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023084)
+- [ИИ-аватар по фото бесплатно: создаю говорящее видео из фотографии в Telegram за 2 минуты](https://habr.com/ru/articles/1023082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023082)
 - [Claude: как пользоваться нейросетью в России в 2026 году](https://habr.com/ru/companies/bothub/articles/1023070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023070)
 - [Security Week 2616: взлом сайта CPU-Z и HWMonitor](https://habr.com/ru/companies/kaspersky/articles/1022908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022908)
 - [Как я написал свою библиотеку валидации схем и создал свою альтернативу Zod](https://habr.com/ru/articles/1023038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023038)
-- [Промпты для DeepSeek: как писать запросы, чтобы получить максимум от бесплатной нейросети](https://habr.com/ru/articles/1023036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023036)
-- [На один плюс больше. Сервер Mobian на OnePlus 6. Оказалось слишком просто](https://habr.com/ru/articles/1023028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023028)
 <!-- BLOG-POST-LIST:END -->
 
 ---
