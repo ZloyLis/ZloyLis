@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Вайб-код для настоящих инженеров: старые практики в новых реалиях](https://habr.com/ru/articles/1023094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023094)
-- [Превращаем Сlaude Code в дизайнера мирового уровня: генерация UI-компонентов, тем и аудит по гайдлайнам](https://habr.com/ru/articles/1023084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023084)
-- [ИИ-аватар по фото бесплатно: создаю говорящее видео из фотографии в Telegram за 2 минуты](https://habr.com/ru/articles/1023082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023082)
-- [Claude: как пользоваться нейросетью в России в 2026 году](https://habr.com/ru/companies/bothub/articles/1023070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023070)
-- [Security Week 2616: взлом сайта CPU-Z и HWMonitor](https://habr.com/ru/companies/kaspersky/articles/1022908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022908)
+- [ARG внутри интерфейса: как я добавил метаигру в SPA и зачем это вообще нужно](https://habr.com/ru/articles/1023102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023102)
+- [Database-клиент для GigaIDE](https://habr.com/ru/companies/sberbank/articles/1015262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015262)
+- [Как не выгорать и к чему я пришел](https://habr.com/ru/articles/1023162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023162)
+- [Как я сделал PWA-приложение для заметок и ссылок за вечер &lpar;и почему оно работает без интернета&rpar;](https://habr.com/ru/articles/1023144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023144)
+- [MCP-серверы для всей команды: от локального запуска, до централизованного доступа](https://habr.com/ru/articles/1022288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022288)
 <!-- BLOG-POST-LIST:END -->
 
 ---
