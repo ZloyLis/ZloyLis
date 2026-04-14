@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Пара детективов с поиском багов в мобильных приложениях банков](https://habr.com/ru/companies/centicore_group/articles/1022782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022782)
-- [Ставим Claude Code на Windows как профессионалы](https://habr.com/ru/articles/1022624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022624)
-- [CSN vs MVCC Postgres: решаем проблему Long Fork аномалии и причем тут деградация Postgres при тысячах SAVEPOINT-ов](https://habr.com/ru/companies/tantor/articles/1023250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023250)
-- [Мост для ко-симуляции в Icarus Verilog и NGSpice](https://habr.com/ru/articles/1023270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023270)
-- [COBOL: 65 лет в ядре мировой экономики](https://habr.com/ru/companies/onlinepatent/articles/1023236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023236)
+- [Как филолог сделал приложение. Первый опыт](https://habr.com/ru/articles/1023412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023412)
+- [Как мы сделали PWA для управления ремонтными проектами: от чата до ИИ-дизайнера интерьеров](https://habr.com/ru/articles/1023398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023398)
+- [От iptables к nftables: O&lpar;n&rpar; против O&lpar;1&rpar; на практике](https://habr.com/ru/companies/gnivc/articles/1017706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017706)
+- [Мой путь к качественному сну после перехода на удаленку: изучаю, тестирую, применяю](https://habr.com/ru/companies/rostelecom/articles/1023388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023388)
+- [[Перевод] USB для разработчиков ПО: введение в создание драйверов](https://habr.com/ru/articles/1023354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023354)
 <!-- BLOG-POST-LIST:END -->
 
 ---
