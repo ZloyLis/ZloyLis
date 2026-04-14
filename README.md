@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Моя коллекция полезных HTML-фич](https://habr.com/ru/companies/ruvds/articles/1021090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021090)
-- [Пробуем на себе: LLM в разработке](https://habr.com/ru/articles/1023080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023080)
-- [БАЗЫ ДАННЫХ db. SQL, REDIS, СУБД](https://habr.com/ru/articles/1023194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023194)
-- [[Перевод] Предварительная загрузка изображений с помощью JavaScript](https://habr.com/ru/companies/timeweb/articles/1020138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020138)
-- [Формы в Angular: от Reactive Forms к Signal Forms](https://habr.com/ru/companies/domclick/articles/1018180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018180)
+- [Пара детективов с поиском багов в мобильных приложениях банков](https://habr.com/ru/companies/centicore_group/articles/1022782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022782)
+- [Ставим Claude Code на Windows как профессионалы](https://habr.com/ru/articles/1022624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022624)
+- [CSN vs MVCC Postgres: решаем проблему Long Fork аномалии и причем тут деградация Postgres при тысячах SAVEPOINT-ов](https://habr.com/ru/companies/tantor/articles/1023250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023250)
+- [Мост для ко-симуляции в Icarus Verilog и NGSpice](https://habr.com/ru/articles/1023270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023270)
+- [COBOL: 65 лет в ядре мировой экономики](https://habr.com/ru/companies/onlinepatent/articles/1023236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023236)
 <!-- BLOG-POST-LIST:END -->
 
 ---
