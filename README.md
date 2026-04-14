@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Вайб-код для настоящих инженеров: старые практики в новых реалиях](https://habr.com/ru/articles/1023094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023094)
 - [Превращаем Сlaude Code в дизайнера мирового уровня: генерация UI-компонентов, тем и аудит по гайдлайнам](https://habr.com/ru/articles/1023084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023084)
 - [ИИ-аватар по фото бесплатно: создаю говорящее видео из фотографии в Telegram за 2 минуты](https://habr.com/ru/articles/1023082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023082)
 - [Claude: как пользоваться нейросетью в России в 2026 году](https://habr.com/ru/companies/bothub/articles/1023070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023070)
 - [Security Week 2616: взлом сайта CPU-Z и HWMonitor](https://habr.com/ru/companies/kaspersky/articles/1022908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022908)
-- [Как я написал свою библиотеку валидации схем и создал свою альтернативу Zod](https://habr.com/ru/articles/1023038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023038)
 <!-- BLOG-POST-LIST:END -->
 
 ---
