@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Постбеки на языке бизнеса: чек-лист для переговоров с партнёром](https://habr.com/ru/articles/1023588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023588)
+- [Как правильно реализовать кнопку «Назад» во Vue: просто о сложном](https://habr.com/ru/articles/1023578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023578)
 - [Требования в Agile: полный гайд с работающими практиками](https://habr.com/ru/companies/otus/articles/1022184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022184)
 - [Как выжить на рынке найма в 2026 году](https://habr.com/ru/companies/netologyru/articles/1022848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022848)
 - [[Перевод] Что такое качественный инжиниринг? Ключ к созданию более качественных, быстрых и надёжных продуктов](https://habr.com/ru/articles/1023484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023484)
-- [Работа с автотестами внутри TMS](https://habr.com/ru/articles/1023456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023456)
-- [Claude Mythos, Java 26 и пещерный человек с 16 000 звёзд на GitHub](https://habr.com/ru/companies/haulmont/articles/1023450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023450)
 <!-- BLOG-POST-LIST:END -->
 
 ---
