@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как выжить на рынке найма в 2026 году](https://habr.com/ru/companies/netologyru/articles/1022848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022848)
+- [[Перевод] Что такое качественный инжиниринг? Ключ к созданию более качественных, быстрых и надёжных продуктов](https://habr.com/ru/articles/1023484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023484)
 - [Работа с автотестами внутри TMS](https://habr.com/ru/articles/1023456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023456)
 - [Claude Mythos, Java 26 и пещерный человек с 16 000 звёзд на GitHub](https://habr.com/ru/companies/haulmont/articles/1023450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023450)
 - [[Перевод] Как написать собственную версию Traceroute](https://habr.com/ru/articles/1023442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023442)
-- [Как работает Stream api и в чем разница с Flux](https://habr.com/ru/articles/1023438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023438)
-- [WebGPU, библиотека Orillusion и кастомные шейдеры: как я создавал 4D Тессеракт](https://habr.com/ru/articles/1023432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023432)
 <!-- BLOG-POST-LIST:END -->
 
 ---
