@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [ARG внутри интерфейса: как я добавил метаигру в SPA и зачем это вообще нужно](https://habr.com/ru/articles/1023102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023102)
-- [Database-клиент для GigaIDE](https://habr.com/ru/companies/sberbank/articles/1015262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1015262)
-- [Как не выгорать и к чему я пришел](https://habr.com/ru/articles/1023162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023162)
-- [Как я сделал PWA-приложение для заметок и ссылок за вечер &lpar;и почему оно работает без интернета&rpar;](https://habr.com/ru/articles/1023144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023144)
-- [MCP-серверы для всей команды: от локального запуска, до централизованного доступа](https://habr.com/ru/articles/1022288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022288)
+- [Моя коллекция полезных HTML-фич](https://habr.com/ru/companies/ruvds/articles/1021090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021090)
+- [Пробуем на себе: LLM в разработке](https://habr.com/ru/articles/1023080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023080)
+- [БАЗЫ ДАННЫХ db. SQL, REDIS, СУБД](https://habr.com/ru/articles/1023194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023194)
+- [[Перевод] Предварительная загрузка изображений с помощью JavaScript](https://habr.com/ru/companies/timeweb/articles/1020138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020138)
+- [Формы в Angular: от Reactive Forms к Signal Forms](https://habr.com/ru/companies/domclick/articles/1018180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018180)
 <!-- BLOG-POST-LIST:END -->
 
 ---
