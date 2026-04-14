@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как филолог сделал приложение. Первый опыт](https://habr.com/ru/articles/1023412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023412)
-- [Как мы сделали PWA для управления ремонтными проектами: от чата до ИИ-дизайнера интерьеров](https://habr.com/ru/articles/1023398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023398)
-- [От iptables к nftables: O&lpar;n&rpar; против O&lpar;1&rpar; на практике](https://habr.com/ru/companies/gnivc/articles/1017706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017706)
-- [Мой путь к качественному сну после перехода на удаленку: изучаю, тестирую, применяю](https://habr.com/ru/companies/rostelecom/articles/1023388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023388)
-- [[Перевод] USB для разработчиков ПО: введение в создание драйверов](https://habr.com/ru/articles/1023354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023354)
+- [Работа с автотестами внутри TMS](https://habr.com/ru/articles/1023456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023456)
+- [Claude Mythos, Java 26 и пещерный человек с 16 000 звёзд на GitHub](https://habr.com/ru/companies/haulmont/articles/1023450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023450)
+- [[Перевод] Как написать собственную версию Traceroute](https://habr.com/ru/articles/1023442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023442)
+- [Как работает Stream api и в чем разница с Flux](https://habr.com/ru/articles/1023438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023438)
+- [WebGPU, библиотека Orillusion и кастомные шейдеры: как я создавал 4D Тессеракт](https://habr.com/ru/articles/1023432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023432)
 <!-- BLOG-POST-LIST:END -->
 
 ---
