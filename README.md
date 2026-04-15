@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как построить надёжный обмен сообщениями в микросервисах: лучшие практики для enterprise](https://habr.com/ru/companies/otus/articles/1022190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022190)
+- [Мультимодальные модели – грубый и дорогой инструмент](https://habr.com/ru/articles/1023916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023916)
 - [Первые слои кода: как наши решения сегодня определяют архитектуру ИИ на десятилетия](https://habr.com/ru/companies/ru_mts/articles/1023872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023872)
 - [Разработка нового статического анализатора: PVS-Studio JavaScript](https://habr.com/ru/companies/pvs-studio/articles/1023894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023894)
 - [[Перевод] Как приглашение на вакансию мечты превращается в атаку](https://habr.com/ru/companies/ruvds/articles/1022898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022898)
-- [nxs-universal-chart v3.0: новое поколение универсального Helm-чарта](https://habr.com/ru/articles/1023822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023822)
-- [Guardrails для LLM на Java: как приручить промпт‑инъекции и токсичные ответы](https://habr.com/ru/articles/1023782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023782)
 <!-- BLOG-POST-LIST:END -->
 
 ---
