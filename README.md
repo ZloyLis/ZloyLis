@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [QA и Dev в командах разработки: есть ли правильная пропорция или всё зависит](https://habr.com/ru/articles/1021580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021580)
-- [Как мы погрузились в теорию компиляторов и написали свой транслятор кода](https://habr.com/ru/companies/yandex/articles/1021956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021956)
-- [Что такое вайбкодинг и где этому научиться](https://habr.com/ru/companies/habr_career/articles/1023624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023624)
-- [Программисты опять не как все, даже выгорают по-особенному — разбираемся почему](https://habr.com/ru/companies/ispsystem/articles/1023602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023602)
-- [Бесплатный API для нейросетей от NVIDIA: 100+ моделей, OpenAI-совместимый эндпоинт и 40 запросов в минуту](https://habr.com/ru/articles/1023592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023592)
+- [«Приходила уставшая, ставила таймер на два часа и училась»: как я стала DevOps-инженером](https://habr.com/ru/companies/yandex_praktikum/articles/1023660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023660)
+- [Фреймворк отказоустойчивости для интерфейсов разговорного ИИ](https://habr.com/ru/articles/1023700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023700)
+- [Как измерить лидерство: история модели компетенций тимлида в hh.ru](https://habr.com/ru/companies/hh/articles/1016034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016034)
+- [Как мы перестали мерить качество ответов RAG-поиска «на глаз» и начали нормально сравнивать](https://habr.com/ru/companies/gram_ax/articles/1020248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020248)
+- [Как команда технических писателей начала мерить качество документации. Эволюция редакции на примере человечества](https://habr.com/ru/companies/tbank/articles/1021520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021520)
 <!-- BLOG-POST-LIST:END -->
 
 ---
