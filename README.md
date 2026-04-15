@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [QA и Dev в командах разработки: есть ли правильная пропорция или всё зависит](https://habr.com/ru/articles/1021580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021580)
+- [Как мы погрузились в теорию компиляторов и написали свой транслятор кода](https://habr.com/ru/companies/yandex/articles/1021956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021956)
+- [Что такое вайбкодинг и где этому научиться](https://habr.com/ru/companies/habr_career/articles/1023624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023624)
 - [Программисты опять не как все, даже выгорают по-особенному — разбираемся почему](https://habr.com/ru/companies/ispsystem/articles/1023602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023602)
 - [Бесплатный API для нейросетей от NVIDIA: 100+ моделей, OpenAI-совместимый эндпоинт и 40 запросов в минуту](https://habr.com/ru/articles/1023592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023592)
-- [Постбеки на языке бизнеса: чек-лист для переговоров с партнёром](https://habr.com/ru/articles/1023588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023588)
-- [Как правильно реализовать кнопку «Назад» во Vue: просто о сложном](https://habr.com/ru/articles/1023578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023578)
-- [Требования в Agile: полный гайд с работающими практиками](https://habr.com/ru/companies/otus/articles/1022184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022184)
 <!-- BLOG-POST-LIST:END -->
 
 ---
