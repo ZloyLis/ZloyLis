@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Первые слои кода: как наши решения сегодня определяют архитектуру ИИ на десятилетия](https://habr.com/ru/companies/ru_mts/articles/1023872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023872)
+- [Разработка нового статического анализатора: PVS-Studio JavaScript](https://habr.com/ru/companies/pvs-studio/articles/1023894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023894)
 - [[Перевод] Как приглашение на вакансию мечты превращается в атаку](https://habr.com/ru/companies/ruvds/articles/1022898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022898)
 - [nxs-universal-chart v3.0: новое поколение универсального Helm-чарта](https://habr.com/ru/articles/1023822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023822)
 - [Guardrails для LLM на Java: как приручить промпт‑инъекции и токсичные ответы](https://habr.com/ru/articles/1023782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023782)
-- [Деконструкция Go: модель памяти, happens-before и почему ваш код работает](https://habr.com/ru/articles/1023762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023762)
-- [Как мы подружили QA и unit-тесты через Allure &lpar;и встроили их в регресс&rpar;](https://habr.com/ru/companies/banki/articles/1021854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021854)
 <!-- BLOG-POST-LIST:END -->
 
 ---
