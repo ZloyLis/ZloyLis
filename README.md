@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Guardrails для LLM на Java: как приручить промпт‑инъекции и токсичные ответы](https://habr.com/ru/articles/1023782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023782)
+- [Деконструкция Go: модель памяти, happens-before и почему ваш код работает](https://habr.com/ru/articles/1023762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023762)
 - [Как мы подружили QA и unit-тесты через Allure &lpar;и встроили их в регресс&rpar;](https://habr.com/ru/companies/banki/articles/1021854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021854)
 - [AI в ИБ RuStore: от ревью задач и кода до AI-DAST](https://habr.com/ru/companies/vk/articles/1023662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023662)
 - [Не общались напрямую. Как мы построили устойчивую связку Диадок-Битрикс24](https://habr.com/ru/articles/1023702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023702)
-- [[Перевод] Мой 14-летний путь отказа от ORM: череда инсайтов, приведшая к созданию SQL-First кодогенератора для PostgreSQL](https://habr.com/ru/articles/1023704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023704)
-- [[Перевод] Анализ технологии Denuvo](https://habr.com/ru/articles/1019076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019076)
 <!-- BLOG-POST-LIST:END -->
 
 ---
