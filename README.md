@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Управление агентом с телефона через Telegram теперь в KodaCode](https://habr.com/ru/companies/koda/articles/1024296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024296)
+- [[Перевод] System Design: проектируем сервис заказа такси](https://habr.com/ru/articles/1022478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022478)
 - [Почему ваш корпоративный английский — это «очередная печенька»](https://habr.com/ru/articles/1024184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024184)
 - [Вайбдебаггинг — уже реальность? Мы дали ИИ-агенту отладчик и проверили](https://habr.com/ru/companies/veai/articles/1024264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024264)
-- [Ко мне пришёл инженер и сказал: у меня тут конфиг на 2000 строк, уже в глазах двоится](https://habr.com/ru/companies/sibur_official/articles/1024036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024036)
-- [Где на самом деле лежит правда в работе с требованиями? &lpar;Спойлер: не в Agile и не в Waterfall&rpar;](https://habr.com/ru/articles/1024270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024270)
-- [От формального качества к реальной пользе: как избежать потери доверия к данным и снижения их бизнес-ценности](https://habr.com/ru/companies/vktech/articles/1024060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024060)
+- [Интересная статья с кусками кода внутри](https://habr.com/ru/companies/sibur_official/articles/1024036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024036)
 <!-- BLOG-POST-LIST:END -->
 
 ---
