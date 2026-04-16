@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Пишем свой текстовый 3D движок в браузере](https://habr.com/ru/articles/1024010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024010)
-- [Навайбкодил приложение для анализа графов](https://habr.com/ru/companies/architeezy/articles/1022964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022964)
-- [Упрощаем работу с рутиной или как стать Гендальфом Белым](https://habr.com/ru/articles/1023966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023966)
-- [Rufler: Делаем из Claude Code автономный рой через один YAML-конфиг](https://habr.com/ru/articles/1023958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023958)
-- [Как построить надёжный обмен сообщениями в микросервисах: лучшие практики для enterprise](https://habr.com/ru/companies/otus/articles/1022190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022190)
+- [Где хранить код? Сравнение GitHub, GitLab и Bitbucket](https://habr.com/ru/companies/otus/articles/1022166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022166)
+- [[Перевод] Математика объясняет, почему нормальное распределение встречается повсюду](https://habr.com/ru/articles/1023990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023990)
+- [Почему ваш FinOps не работает: 12 тезисов от практиков](https://habr.com/ru/companies/finops_ru/articles/1024050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024050)
+- [Адаптивное администрирование Sigla Vision / FineBI](https://habr.com/ru/companies/gazprombank/articles/1018690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018690)
+- [Как языковая модель помогает контролировать качество инструктажей по охране труда в металлургии](https://habr.com/ru/companies/ssp-soft/articles/1021416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021416)
 <!-- BLOG-POST-LIST:END -->
 
 ---
