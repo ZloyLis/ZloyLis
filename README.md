@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Где хранить код? Сравнение GitHub, GitLab и Bitbucket](https://habr.com/ru/companies/otus/articles/1022166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022166)
-- [[Перевод] Математика объясняет, почему нормальное распределение встречается повсюду](https://habr.com/ru/articles/1023990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023990)
-- [Почему ваш FinOps не работает: 12 тезисов от практиков](https://habr.com/ru/companies/finops_ru/articles/1024050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024050)
-- [Адаптивное администрирование Sigla Vision / FineBI](https://habr.com/ru/companies/gazprombank/articles/1018690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1018690)
-- [Как языковая модель помогает контролировать качество инструктажей по охране труда в металлургии](https://habr.com/ru/companies/ssp-soft/articles/1021416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021416)
+- [Почему твой Open Source проект остаётся не замеченным?](https://habr.com/ru/articles/1024074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024074)
+- [R&amp;amp;D: искусство управления неопределенностью в разработке](https://habr.com/ru/articles/1023978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023978)
+- [Галактический ID: система идентификации для всех форм разумной жизни](https://habr.com/ru/companies/ruvds/articles/1023650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023650)
+- [Кто решает судьбу вашего проекта? Разбираем заинтересованные стороны. BABOK #1](https://habr.com/ru/companies/bcs_company/articles/1022980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022980)
+- [LLM-агент для поиска свободных доменов: автоматизируем подбор](https://habr.com/ru/companies/selectel/articles/1024056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024056)
 <!-- BLOG-POST-LIST:END -->
 
 ---
