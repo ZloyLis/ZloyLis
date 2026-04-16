@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Почему твой Open Source проект остаётся не замеченным?](https://habr.com/ru/articles/1024074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024074)
-- [R&amp;amp;D: искусство управления неопределенностью в разработке](https://habr.com/ru/articles/1023978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023978)
-- [Галактический ID: система идентификации для всех форм разумной жизни](https://habr.com/ru/companies/ruvds/articles/1023650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023650)
-- [Кто решает судьбу вашего проекта? Разбираем заинтересованные стороны. BABOK #1](https://habr.com/ru/companies/bcs_company/articles/1022980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022980)
-- [LLM-агент для поиска свободных доменов: автоматизируем подбор](https://habr.com/ru/companies/selectel/articles/1024056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024056)
+- [Почему ваш корпоративный английский — это «очередная печенька»](https://habr.com/ru/articles/1024184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024184)
+- [Вайбдебаггинг — уже реальность? Мы дали ИИ-агенту отладчик и проверили](https://habr.com/ru/companies/veai/articles/1024264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024264)
+- [Ко мне пришёл инженер и сказал: у меня тут конфиг на 2000 строк, уже в глазах двоится](https://habr.com/ru/companies/sibur_official/articles/1024036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024036)
+- [Где на самом деле лежит правда в работе с требованиями? &lpar;Спойлер: не в Agile и не в Waterfall&rpar;](https://habr.com/ru/articles/1024270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024270)
+- [От формального качества к реальной пользе: как избежать потери доверия к данным и снижения их бизнес-ценности](https://habr.com/ru/companies/vktech/articles/1024060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024060)
 <!-- BLOG-POST-LIST:END -->
 
 ---
