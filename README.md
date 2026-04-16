@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Пишем свой текстовый 3D движок в браузере](https://habr.com/ru/articles/1024010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024010)
+- [Навайбкодил приложение для анализа графов](https://habr.com/ru/companies/architeezy/articles/1022964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022964)
 - [Упрощаем работу с рутиной или как стать Гендальфом Белым](https://habr.com/ru/articles/1023966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023966)
 - [Rufler: Делаем из Claude Code автономный рой через один YAML-конфиг](https://habr.com/ru/articles/1023958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023958)
 - [Как построить надёжный обмен сообщениями в микросервисах: лучшие практики для enterprise](https://habr.com/ru/companies/otus/articles/1022190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022190)
-- [Мультимодальные модели – грубый и дорогой инструмент](https://habr.com/ru/articles/1023916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023916)
-- [Первые слои кода: как наши решения сегодня определяют архитектуру ИИ на десятилетия](https://habr.com/ru/companies/ru_mts/articles/1023872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023872)
 <!-- BLOG-POST-LIST:END -->
 
 ---
