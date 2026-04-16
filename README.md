@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Фитнес план для PostgreSQL своими руками: как похудеть, когда нет доступа к pg_repack и pgcompacttable](https://habr.com/ru/companies/avito/articles/1023610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023610)
 - [Управление агентом с телефона через Telegram теперь в KodaCode](https://habr.com/ru/companies/koda/articles/1024296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024296)
 - [[Перевод] System Design: проектируем сервис заказа такси](https://habr.com/ru/articles/1022478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022478)
 - [Почему ваш корпоративный английский — это «очередная печенька»](https://habr.com/ru/articles/1024184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024184)
 - [Вайбдебаггинг — уже реальность? Мы дали ИИ-агенту отладчик и проверили](https://habr.com/ru/companies/veai/articles/1024264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024264)
-- [Интересная статья с кусками кода внутри](https://habr.com/ru/companies/sibur_official/articles/1024036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024036)
 <!-- BLOG-POST-LIST:END -->
 
 ---
