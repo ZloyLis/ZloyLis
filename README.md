@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [От #FFF к OKLCH: как эволюция цветовых моделей меняет веб-разработку](https://habr.com/ru/articles/1024482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024482)
-- [[Перевод] Руководство по анализу и настройке производительности для современных процессоров. Анонс книги](https://habr.com/ru/companies/bhv_publishing/articles/1024462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024462)
-- [Одно кольцо, чтоб править всеми. Как гайды собирают большой продукт в единую систему](https://habr.com/ru/companies/ozontech/articles/1024114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024114)
-- [Опубликован второй выпуск Продолжения Дневника писателя, его тема: ИИ и Достоевский](https://habr.com/ru/articles/1024420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024420)
-- [Почему ваш бандл тяжелее чем должен быть — тестирую tree shaking на 7 бандлерах](https://habr.com/ru/articles/1024404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024404)
+- [Продолжаем приручать ИИ: рефлексия агента, интервью пользователя, God agent](https://habr.com/ru/companies/wildberries/articles/1023828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023828)
+- [Axios и проблема зависимостей](https://habr.com/ru/articles/1024520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024520)
+- [Зачем нужны языки квантового программирования и какие открытые проекты развиваются в этой области уже сейчас](https://habr.com/ru/companies/beeline_cloud/articles/1024318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024318)
+- [PG_EXPECTO + Philosophical_instruction_v3.5_beta: двойной анализ инцидента PostgreSQL](https://habr.com/ru/articles/1024512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024512)
+- [Kaggle: три урока, извлеченных из поражения и 158 late submission](https://habr.com/ru/articles/1024492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024492)
 <!-- BLOG-POST-LIST:END -->
 
 ---
