@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Деконструкция GO: CPU, RAM и что там происходит. Многозадачность, многопоточность, кэши, проблемы. Часть 1.2](https://habr.com/ru/articles/1024868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024868)
 - [Модно не значит правильно — про pgx, метрики и OpenTelemetry](https://habr.com/ru/articles/1024854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024854)
 - [Compute crunch пришёл: как считать экономику LLM в 2026](https://habr.com/ru/articles/1024850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024850)
 - [Как я научил Claude Code работать бизнес-аналитиком по руководству BABOK. Вот что получилось](https://habr.com/ru/articles/1024844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024844)
 - [Что меня бесит в IT после 3 лет в профессии](https://habr.com/ru/articles/1024836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024836)
-- [Получение текстового и машиночитаемого представления из Microsoft Launcher](https://habr.com/ru/articles/1024832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024832)
 <!-- BLOG-POST-LIST:END -->
 
 ---
