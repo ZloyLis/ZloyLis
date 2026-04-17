@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Получение текстового и машиночитаемого представления из Microsoft Launcher](https://habr.com/ru/articles/1024832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024832)
+- [PostgreSQL + VectorChord = Гибридный поиск. Часть 2. Безоблачная](https://habr.com/ru/articles/1024818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024818)
+- [PostgreSQL + VectorChord = Гибридный поиск. Часть 1. Инфраструктура](https://habr.com/ru/articles/1024810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024810)
+- [Управление пользователями и ролями PostgreSQL в гетерогенной сети](https://habr.com/ru/companies/zyfra/articles/1024698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024698)
 - [PGConf.Россия 2026](https://habr.com/ru/companies/postgrespro/articles/1016280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016280)
-- [[Перевод] Начало работы с Hummingbird](https://habr.com/ru/articles/1024758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024758)
-- [[Перевод] Как читать BUFFERS в EXPLAIN ANALYZE и находить I/O-узкие места в PostgreSQL](https://habr.com/ru/companies/otus/articles/1024674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024674)
-- [Какую напоминалку выбрать на Android: честный разбор 10 приложений под разные сценарии](https://habr.com/ru/companies/leadertask/articles/1024736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024736)
-- [Чем заменить Telegram в России: подробный разбор IMO, KakaoTalk и Телемост](https://habr.com/ru/articles/1024714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024714)
 <!-- BLOG-POST-LIST:END -->
 
 ---
