@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Модно не значит правильно — про pgx, метрики и OpenTelemetry](https://habr.com/ru/articles/1024854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024854)
+- [Compute crunch пришёл: как считать экономику LLM в 2026](https://habr.com/ru/articles/1024850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024850)
+- [Как я научил Claude Code работать бизнес-аналитиком по руководству BABOK. Вот что получилось](https://habr.com/ru/articles/1024844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024844)
+- [Что меня бесит в IT после 3 лет в профессии](https://habr.com/ru/articles/1024836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024836)
 - [Получение текстового и машиночитаемого представления из Microsoft Launcher](https://habr.com/ru/articles/1024832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024832)
-- [PostgreSQL + VectorChord = Гибридный поиск. Часть 2. Безоблачная](https://habr.com/ru/articles/1024818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024818)
-- [PostgreSQL + VectorChord = Гибридный поиск. Часть 1. Инфраструктура](https://habr.com/ru/articles/1024810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024810)
-- [Управление пользователями и ролями PostgreSQL в гетерогенной сети](https://habr.com/ru/companies/zyfra/articles/1024698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024698)
-- [PGConf.Россия 2026](https://habr.com/ru/companies/postgrespro/articles/1016280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016280)
 <!-- BLOG-POST-LIST:END -->
 
 ---
