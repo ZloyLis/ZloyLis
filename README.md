@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От #FFF к OKLCH: как эволюция цветовых моделей меняет веб-разработку](https://habr.com/ru/articles/1024482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024482)
+- [[Перевод] Руководство по анализу и настройке производительности для современных процессоров. Анонс книги](https://habr.com/ru/companies/bhv_publishing/articles/1024462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024462)
+- [Одно кольцо, чтоб править всеми. Как гайды собирают большой продукт в единую систему](https://habr.com/ru/companies/ozontech/articles/1024114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024114)
 - [Опубликован второй выпуск Продолжения Дневника писателя, его тема: ИИ и Достоевский](https://habr.com/ru/articles/1024420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024420)
 - [Почему ваш бандл тяжелее чем должен быть — тестирую tree shaking на 7 бандлерах](https://habr.com/ru/articles/1024404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024404)
-- [Фитнес план для PostgreSQL своими руками: как похудеть, когда нет доступа к pg_repack и pgcompacttable](https://habr.com/ru/companies/avito/articles/1023610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023610)
-- [Управление агентом с телефона через Telegram теперь в KodaCode](https://habr.com/ru/companies/koda/articles/1024296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024296)
-- [[Перевод] System Design: проектируем сервис заказа такси](https://habr.com/ru/articles/1022478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022478)
 <!-- BLOG-POST-LIST:END -->
 
 ---
