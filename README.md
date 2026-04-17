@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Персональная монополия: почему удержание «незаменимых» не спасает бизнес, а лишает его управляемости](https://habr.com/ru/articles/1024594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024594)
+- [Персональная вакцина от рака: зачем я пишу координационный слой с открытым исходным кодом для mRNA-терапии](https://habr.com/ru/articles/1024586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024586)
+- [Безошибочная работа с Kafka из Node js. Часть 2 Консьюмер](https://habr.com/ru/articles/904932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=904932)
+- [Процесс приемки товара на складе: как организовать прием товаров без потерь и расхождений](https://habr.com/ru/companies/intekey/articles/1024548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024548)
 - [Продолжаем приручать ИИ: рефлексия агента, интервью пользователя, God agent](https://habr.com/ru/companies/wildberries/articles/1023828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023828)
-- [Axios и проблема зависимостей](https://habr.com/ru/articles/1024520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024520)
-- [Зачем нужны языки квантового программирования и какие открытые проекты развиваются в этой области уже сейчас](https://habr.com/ru/companies/beeline_cloud/articles/1024318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024318)
-- [PG_EXPECTO + Philosophical_instruction_v3.5_beta: двойной анализ инцидента PostgreSQL](https://habr.com/ru/articles/1024512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024512)
-- [Kaggle: три урока, извлеченных из поражения и 158 late submission](https://habr.com/ru/articles/1024492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024492)
 <!-- BLOG-POST-LIST:END -->
 
 ---
