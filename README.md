@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Какую напоминалку выбрать на Android: честный разбор 10 приложений под разные сценарии](https://habr.com/ru/companies/leadertask/articles/1024736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024736)
+- [Чем заменить Telegram в России: подробный разбор IMO, KakaoTalk и Телемост](https://habr.com/ru/articles/1024714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024714)
 - [Кастомные WPF-контролы, часть 3: ListBox с поддержкой drag’n’drop, масштабирования и различной сортировкой содержимого](https://habr.com/ru/articles/1024652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024652)
 - [Не просто дашборд: как DORA-метрики помогли нам сократить инциденты на 80%](https://habr.com/ru/companies/ostrovok/articles/1024148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024148)
 - [Как мы навайбкодили стабильный поток лидов из Telegram-чатов за 5000 рублей в месяц](https://habr.com/ru/articles/1024660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024660)
-- [Как я собирал Flutter-клиент, который не разваливается вне happy path](https://habr.com/ru/articles/1024656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024656)
-- [Десятипальцевый метод печати в ВУЗе](https://habr.com/ru/articles/1024642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024642)
 <!-- BLOG-POST-LIST:END -->
 
 ---
