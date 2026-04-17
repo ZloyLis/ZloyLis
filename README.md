@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кастомные WPF-контролы, часть 3: ListBox с поддержкой drag’n’drop, масштабирования и различной сортировкой содержимого](https://habr.com/ru/articles/1024652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024652)
+- [Не просто дашборд: как DORA-метрики помогли нам сократить инциденты на 80%](https://habr.com/ru/companies/ostrovok/articles/1024148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024148)
+- [Как мы навайбкодили стабильный поток лидов из Telegram-чатов за 5000 рублей в месяц](https://habr.com/ru/articles/1024660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024660)
+- [Как я собирал Flutter-клиент, который не разваливается вне happy path](https://habr.com/ru/articles/1024656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024656)
 - [Десятипальцевый метод печати в ВУЗе](https://habr.com/ru/articles/1024642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024642)
-- [[Перевод] Rust 1.95.0: макрос cfg_select!, if-let guards в match-выражениях](https://habr.com/ru/articles/1024620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024620)
-- [[Перевод] Rust 1.94.0: метод array_windows у массива, ключ include в конфигурационных файлах, поддержка TOML 1.1](https://habr.com/ru/articles/1024612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024612)
-- [Персональная монополия: почему удержание «незаменимых» не спасает бизнес, а лишает его управляемости](https://habr.com/ru/articles/1024594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024594)
-- [Персональная вакцина от рака: зачем я пишу координационный слой с открытым исходным кодом для mRNA-терапии](https://habr.com/ru/articles/1024586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024586)
 <!-- BLOG-POST-LIST:END -->
 
 ---
