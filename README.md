@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Десятипальцевый метод печати в ВУЗе](https://habr.com/ru/articles/1024642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024642)
+- [[Перевод] Rust 1.95.0: макрос cfg_select!, if-let guards в match-выражениях](https://habr.com/ru/articles/1024620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024620)
+- [[Перевод] Rust 1.94.0: метод array_windows у массива, ключ include в конфигурационных файлах, поддержка TOML 1.1](https://habr.com/ru/articles/1024612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024612)
 - [Персональная монополия: почему удержание «незаменимых» не спасает бизнес, а лишает его управляемости](https://habr.com/ru/articles/1024594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024594)
 - [Персональная вакцина от рака: зачем я пишу координационный слой с открытым исходным кодом для mRNA-терапии](https://habr.com/ru/articles/1024586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024586)
-- [Безошибочная работа с Kafka из Node js. Часть 2 Консьюмер](https://habr.com/ru/articles/904932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=904932)
-- [Процесс приемки товара на складе: как организовать прием товаров без потерь и расхождений](https://habr.com/ru/companies/intekey/articles/1024548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024548)
-- [Продолжаем приручать ИИ: рефлексия агента, интервью пользователя, God agent](https://habr.com/ru/companies/wildberries/articles/1023828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023828)
 <!-- BLOG-POST-LIST:END -->
 
 ---
