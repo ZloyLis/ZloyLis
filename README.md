@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Квантовый скачок n8n: миграция с Traefik 1.x и Postgres 11 на актуальный стек &lpar;Traefik 3.3 + PG 16&rpar; без потери данных](https://habr.com/ru/articles/1025040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025040)
+- [Frontend Status: свежий дайджест фронтенда и AI — 18.04.2026](https://habr.com/ru/articles/1025036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025036)
 - [Теневой рынок GitHub звезд](https://habr.com/ru/articles/1025032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025032)
 - [Как отдавать лиды из Next.js в 1С Битрикс: outbound без очередей и воркеров](https://habr.com/ru/articles/1025026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025026)
 - [WebFlux vs Virtual Threads: что происходит при 2000 RPS](https://habr.com/ru/articles/1024936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024936)
-- [Как я тестировал локально новый Qwen 3.6 и Gemma 4](https://habr.com/ru/articles/1024932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024932)
-- [[Перевод] Opus 4.7 использует на 45% больше токенов. Реальные замеры против обещаний Anthropic](https://habr.com/ru/articles/1024958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024958)
 <!-- BLOG-POST-LIST:END -->
 
 ---
