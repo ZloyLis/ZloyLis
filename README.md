@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я собрал себе C2 на малинке за один вечер](https://habr.com/ru/articles/1024918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024918)
+- [Немного про AI для догоняющих](https://habr.com/ru/articles/1024904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024904)
 - [«Я просто тупой»: Как Эффект Плато убивает мотивацию в обучении, и как его пробить](https://habr.com/ru/articles/1024898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024898)
 - [Фильтр Калмана, geohash fog of war и три реджекта Apple: как я собрал GPS-трекер на SwiftUI](https://habr.com/ru/articles/1024896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024896)
 - [Мыслепреступление на Android: как скрыть Перехватчик трафика от Государственных приложений](https://habr.com/ru/articles/1024890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024890)
-- [Пробуем использовать локальные LLM для написания кода](https://habr.com/ru/articles/1024884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024884)
-- [Почему ваш AI-агент тратит 80% токенов на файлы, которые уже читал вчера — и как это починить тремя markdown-файлами](https://habr.com/ru/articles/1024878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024878)
 <!-- BLOG-POST-LIST:END -->
 
 ---
