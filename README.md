@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Теневой рынок GitHub звезд](https://habr.com/ru/articles/1025032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025032)
+- [Как отдавать лиды из Next.js в 1С Битрикс: outbound без очередей и воркеров](https://habr.com/ru/articles/1025026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025026)
+- [WebFlux vs Virtual Threads: что происходит при 2000 RPS](https://habr.com/ru/articles/1024936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024936)
+- [Как я тестировал локально новый Qwen 3.6 и Gemma 4](https://habr.com/ru/articles/1024932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024932)
 - [[Перевод] Opus 4.7 использует на 45% больше токенов. Реальные замеры против обещаний Anthropic](https://habr.com/ru/articles/1024958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024958)
-- [Гамма-флип: Технический разбор перехода от диапазона к тренду и механика алгоритмического хеджирования](https://habr.com/ru/articles/1024886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024886)
-- [Как я собрал себе C2 на малинке за один вечер](https://habr.com/ru/articles/1024918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024918)
-- [Немного про AI для догоняющих](https://habr.com/ru/articles/1024904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024904)
-- [«Я просто тупой»: Как Эффект Плато убивает мотивацию в обучении, и как его пробить](https://habr.com/ru/articles/1024898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024898)
 <!-- BLOG-POST-LIST:END -->
 
 ---
