@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я стал учителем за 5 минут: BAC в электронном дневнике](https://habr.com/ru/articles/1025016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025016)
+- [Clean Architecture + DDD в Go: как не превратить проект в 200 файлов ни о чём](https://habr.com/ru/articles/1025068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025068)
+- [Как сделать SEO для телеграмм-канала и бесплатный кросспостинг в VK и MAX](https://habr.com/ru/articles/1025064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025064)
 - [Квантовый скачок n8n: миграция с Traefik 1.x и Postgres 11 на актуальный стек &lpar;Traefik 3.3 + PG 16&rpar; без потери данных](https://habr.com/ru/articles/1025040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025040)
 - [Frontend Status: свежий дайджест фронтенда и AI — 18.04.2026](https://habr.com/ru/articles/1025036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025036)
-- [Теневой рынок GitHub звезд](https://habr.com/ru/articles/1025032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025032)
-- [Как отдавать лиды из Next.js в 1С Битрикс: outbound без очередей и воркеров](https://habr.com/ru/articles/1025026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025026)
-- [WebFlux vs Virtual Threads: что происходит при 2000 RPS](https://habr.com/ru/articles/1024936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024936)
 <!-- BLOG-POST-LIST:END -->
 
 ---
