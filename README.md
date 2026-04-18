@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мыслепреступление на Android: как скрыть Перехватчик трафика от Государственных приложений](https://habr.com/ru/articles/1024890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024890)
 - [Пробуем использовать локальные LLM для написания кода](https://habr.com/ru/articles/1024884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024884)
 - [Почему ваш AI-агент тратит 80% токенов на файлы, которые уже читал вчера — и как это починить тремя markdown-файлами](https://habr.com/ru/articles/1024878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024878)
 - [Деконструкция GO: CPU, RAM и что там происходит. Многозадачность, многопоточность, кэши, проблемы. Часть 1.2](https://habr.com/ru/articles/1024868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024868)
 - [Модно не значит правильно — про pgx, метрики и OpenTelemetry](https://habr.com/ru/articles/1024854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024854)
-- [Compute crunch пришёл: как считать экономику LLM в 2026](https://habr.com/ru/articles/1024850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024850)
 <!-- BLOG-POST-LIST:END -->
 
 ---
