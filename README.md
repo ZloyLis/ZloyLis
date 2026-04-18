@@ -36,7 +36,7 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Как я за 9 месяцев сделал свой видеосервис: сначала потому что надо было, а потом потому что понравилось](https://habr.com/ru/articles/1025120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025120)
-- [Убыточность корпоративных университетов](https://habr.com/ru/articles/1025104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025104)
+- [Убыточность корпоративных университетов. Что с этим делать?](https://habr.com/ru/articles/1025104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025104)
 - [Почему JS/TS — не функциональный язык &lpar;и почему это важно понимать&rpar;](https://habr.com/ru/articles/1025100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025100)
 - [Что такое искусственный интеллект &lpar;не нейросети&rpar; и какие у него есть виды](https://habr.com/ru/articles/1025094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025094)
 - [Как я стал учителем за 5 минут: BAC в электронном дневнике](https://habr.com/ru/articles/1025016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025016)
