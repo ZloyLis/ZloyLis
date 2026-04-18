@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Я просто тупой»: Как Эффект Плато убивает мотивацию в обучении, и как его пробить](https://habr.com/ru/articles/1024898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024898)
+- [Фильтр Калмана, geohash fog of war и три реджекта Apple: как я собрал GPS-трекер на SwiftUI](https://habr.com/ru/articles/1024896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024896)
 - [Мыслепреступление на Android: как скрыть Перехватчик трафика от Государственных приложений](https://habr.com/ru/articles/1024890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024890)
 - [Пробуем использовать локальные LLM для написания кода](https://habr.com/ru/articles/1024884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024884)
 - [Почему ваш AI-агент тратит 80% токенов на файлы, которые уже читал вчера — и как это починить тремя markdown-файлами](https://habr.com/ru/articles/1024878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024878)
-- [Деконструкция GO: CPU, RAM и что там происходит. Многозадачность, многопоточность, кэши, проблемы. Часть 1.2](https://habr.com/ru/articles/1024868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024868)
-- [Модно не значит правильно — про pgx, метрики и OpenTelemetry](https://habr.com/ru/articles/1024854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024854)
 <!-- BLOG-POST-LIST:END -->
 
 ---
