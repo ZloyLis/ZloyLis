@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Cказ о том, как мы с Oracle на PostgreSQL переехали](https://habr.com/ru/articles/1025336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025336)
 - [Как приложения скрывают окна от захвата экрана: SetWindowDisplayAffinity, ScreenCaptureKit и что сломалось в macOS 15](https://habr.com/ru/articles/1025310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025310)
 - [Интеграция Google Gemini API в асинхронный Telegram-бот на aiogram 3.x и Python](https://habr.com/ru/articles/1025300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025300)
 - [Деконструкция GO: CPU, RAM и что там происходит. Reordering, atomics, locks, fences. Часть 1.3](https://habr.com/ru/articles/1025292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025292)
 - [Опыт разработки picows: самые быстрые вебсокеты для asyncio](https://habr.com/ru/articles/1025286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025286)
-- [Как я убрал чаты из оформления заявок на бетонном заводе: Bitrix24, 1С и отдельное приложение](https://habr.com/ru/articles/1025276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025276)
 <!-- BLOG-POST-LIST:END -->
 
 ---
