@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как техлид без навыка кодинга руками собрал Telegram-систему закупок с OCR, модерацией и безопасным деплоем](https://habr.com/ru/articles/1025150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025150)
 - [Гармония чисел: как математика настроила музыку](https://habr.com/ru/articles/1025128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025128)
 - [Как я за 9 месяцев сделал свой видеосервис: сначала потому что надо было, а потом потому что понравилось](https://habr.com/ru/articles/1025120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025120)
 - [Убыточность корпоративных университетов. Что с этим делать?](https://habr.com/ru/articles/1025104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025104)
 - [Почему JS/TS — не функциональный язык &lpar;и почему это важно понимать&rpar;](https://habr.com/ru/articles/1025100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025100)
-- [Что такое искусственный интеллект &lpar;не нейросети&rpar; и какие у него есть виды](https://habr.com/ru/articles/1025094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025094)
 <!-- BLOG-POST-LIST:END -->
 
 ---
