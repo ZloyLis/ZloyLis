@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [В каком контексте возникла теорема о неполноте Гёделя, и почему она так важна?](https://habr.com/ru/articles/1025136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025136)
+- [Если Вселенная — симуляция, то квантовая механика — следствие](https://habr.com/ru/articles/1025222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025222)
+- [Год с React Hook Form и Zod: меньше кода, но не без нюансов](https://habr.com/ru/articles/1025218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025218)
+- [Symbiote.js: суперспособности для веб-компонентов](https://habr.com/ru/articles/1025212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025212)
 - [Приватная Cвязь на Go и Flutter](https://habr.com/ru/articles/1025202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025202)
-- [Как опубликовать сайт на хостинг за три команды: от статики до Node.js](https://habr.com/ru/companies/amvera/articles/1025198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025198)
-- [Практика измерения эффективности AI-инструментов в инженерных командах](https://habr.com/ru/articles/1025196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025196)
-- [Почему ваш LLM-сервис ведёт себя как хочет, а не как вы просите](https://habr.com/ru/articles/1025172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025172)
-- [[Перевод] Структуры данных на практике. Глава 12: Кучи и очереди с приоритетом](https://habr.com/ru/articles/1016636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016636)
 <!-- BLOG-POST-LIST:END -->
 
 ---
