@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Лицензии уходят, музыка остаётся: как я превратил тему для музыкального клиента в runtime-аддон с блекджеком и WASM](https://habr.com/ru/articles/1025248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025248)
+- [Скучный Рефакторинг: борьба с искушениями](https://habr.com/ru/articles/1025232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025232)
+- [ИИ Анализ новостного сентимента как торговый сигнал](https://habr.com/ru/articles/1025238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025238)
+- [DDD в Go без красивых схем: как один платеж получил три курса валют](https://habr.com/ru/articles/1025226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025226)
 - [В каком контексте возникла теорема о неполноте Гёделя, и почему она так важна?](https://habr.com/ru/articles/1025136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025136)
-- [Если Вселенная — симуляция, то квантовая механика — следствие](https://habr.com/ru/articles/1025222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025222)
-- [Год с React Hook Form и Zod: меньше кода, но не без нюансов](https://habr.com/ru/articles/1025218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025218)
-- [Symbiote.js: суперспособности для веб-компонентов](https://habr.com/ru/articles/1025212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025212)
-- [Приватная Cвязь на Go и Flutter](https://habr.com/ru/articles/1025202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025202)
 <!-- BLOG-POST-LIST:END -->
 
 ---
