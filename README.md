@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Интеграция Google Gemini API в асинхронный Telegram-бот на aiogram 3.x и Python](https://habr.com/ru/articles/1025300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025300)
+- [Деконструкция GO: CPU, RAM и что там происходит. Reordering, atomics, locks, fences. Часть 1.3](https://habr.com/ru/articles/1025292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025292)
+- [Опыт разработки picows: самые быстрые вебсокеты для asyncio](https://habr.com/ru/articles/1025286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025286)
 - [Как я убрал чаты из оформления заявок на бетонном заводе: Bitrix24, 1С и отдельное приложение](https://habr.com/ru/articles/1025276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025276)
 - [Как работает CMA-ES для оптимизации гиперпараметров в Optuna](https://habr.com/ru/articles/1025274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025274)
-- [Китайский шедевр сумрачного гения из 2000-х](https://habr.com/ru/companies/timeweb/articles/1025194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025194)
-- [Как я стал вайбкодером &lpar;а казался, наверное, приличным человеком&rpar;](https://habr.com/ru/articles/1025262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025262)
-- [Мобильная разработка за неделю #628 &lpar;13 — 19 апреля&rpar;](https://habr.com/ru/articles/1025256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025256)
 <!-- BLOG-POST-LIST:END -->
 
 ---
