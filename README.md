@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему ваш LLM-сервис ведёт себя как хочет, а не как вы просите](https://habr.com/ru/articles/1025172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025172)
+- [[Перевод] Структуры данных на практике. Глава 12: Кучи и очереди с приоритетом](https://habr.com/ru/articles/1016636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016636)
+- [Код Apollo 11 выглядит лучше современного софта. Похоже, мы где-то свернули не туда](https://habr.com/ru/companies/selectel/articles/1023644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1023644)
+- [108 окон, 0 фреймворков, 1 Kubernetes: как команда без разработчиков построила интерактивный дом-таймлайн про ТВ 90-х](https://habr.com/ru/articles/1025152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025152)
 - [Как техлид без навыка кодинга руками собрал Telegram-систему закупок с OCR, модерацией и безопасным деплоем](https://habr.com/ru/articles/1025150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025150)
-- [Гармония чисел: как математика настроила музыку](https://habr.com/ru/articles/1025128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025128)
-- [Как я за 9 месяцев сделал свой видеосервис: сначала потому что надо было, а потом потому что понравилось](https://habr.com/ru/articles/1025120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025120)
-- [Убыточность корпоративных университетов. Что с этим делать?](https://habr.com/ru/articles/1025104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025104)
-- [Почему JS/TS — не функциональный язык &lpar;и почему это важно понимать&rpar;](https://habr.com/ru/articles/1025100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025100)
 <!-- BLOG-POST-LIST:END -->
 
 ---
