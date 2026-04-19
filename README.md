@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Лицензии уходят, музыка остаётся: как я превратил тему для музыкального клиента в runtime-аддон с блекджеком и WASM](https://habr.com/ru/articles/1025248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025248)
-- [Скучный Рефакторинг: борьба с искушениями](https://habr.com/ru/articles/1025232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025232)
-- [ИИ Анализ новостного сентимента как торговый сигнал](https://habr.com/ru/articles/1025238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025238)
-- [DDD в Go без красивых схем: как один платеж получил три курса валют](https://habr.com/ru/articles/1025226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025226)
-- [В каком контексте возникла теорема о неполноте Гёделя, и почему она так важна?](https://habr.com/ru/articles/1025136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025136)
+- [Как я убрал чаты из оформления заявок на бетонном заводе: Bitrix24, 1С и отдельное приложение](https://habr.com/ru/articles/1025276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025276)
+- [Как работает CMA-ES для оптимизации гиперпараметров в Optuna](https://habr.com/ru/articles/1025274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025274)
+- [Китайский шедевр сумрачного гения из 2000-х](https://habr.com/ru/companies/timeweb/articles/1025194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025194)
+- [Как я стал вайбкодером &lpar;а казался, наверное, приличным человеком&rpar;](https://habr.com/ru/articles/1025262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025262)
+- [Мобильная разработка за неделю #628 &lpar;13 — 19 апреля&rpar;](https://habr.com/ru/articles/1025256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025256)
 <!-- BLOG-POST-LIST:END -->
 
 ---
