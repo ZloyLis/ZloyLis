@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Программирование с AI-ассистентом — похороните меня под плинтусом](https://habr.com/ru/companies/bitrix/articles/1022732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022732)
-- [Собираем AI-агента нового поколения: Python, RAG и внешние инструменты через MCP &lpar;Model Context Protocol&rpar;](https://habr.com/ru/articles/1025428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025428)
-- [Playwright vs Selenium на Java: что выбрать для автотестов в 2026 году](https://habr.com/ru/articles/1020774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020774)
-- [ClickHouse не тормозит, но заставляет глаз дергаться. Materialized Views](https://habr.com/ru/articles/1025184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025184)
-- [Феномен OpenClaw: почему инженерная обвязка стала важнее нейросети](https://habr.com/ru/articles/1024744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024744)
+- [Легаси и минус 99% времени: пошаговый разбор оптимизации](https://habr.com/ru/articles/1024814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024814)
+- [Курс по тестированию с ИИ лучше обычного? Личный опыт автора для новичков](https://habr.com/ru/articles/1025012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025012)
+- [Патент на промышленный образец или авторское право: разберем механизм, чтобы сделать правильный выбор](https://habr.com/ru/articles/1025524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025524)
+- [ИИ-агенты в ИБ: путь к доверенному члену команды](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/1025480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025480)
+- [Контрактное тестирование на Kotlin: гайд для автоматизатора](https://habr.com/ru/companies/otus/articles/1022196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022196)
 <!-- BLOG-POST-LIST:END -->
 
 ---
