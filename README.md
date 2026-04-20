@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Labeled break and continue в C# 15 — разбор плохого примера и поиск реального кейса](https://habr.com/ru/articles/1025794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025794)
+- [ELT против ETL в FinOps: Почему мы сначала кладем сырые данные, а потом думаем](https://habr.com/ru/companies/inferit/articles/1025790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025790)
+- [[Перевод] Выделение регистров процессора при помощи генетического алгоритма](https://habr.com/ru/articles/1025788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025788)
+- [Как я реализовал Blue-Green деплой с нулевым даунтаймом на Docker Compose](https://habr.com/ru/articles/1025776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025776)
 - [Security Week 2617: криптостилеры в китайском Apple App Store](https://habr.com/ru/companies/kaspersky/articles/1025560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025560)
-- [Как я переизобрел скрейч, добавил в него майнкрафт и теперь дети программируют игры](https://habr.com/ru/articles/1025758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025758)
-- [Эксперименты с распараллеливанием Java-автотестов](https://habr.com/ru/companies/rostelecom/articles/1025746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025746)
-- [Баг в проде – а кто виноват? Делим баги на категории, чтобы сделать их заметнее](https://habr.com/ru/companies/okko/articles/1025732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025732)
-- [Почему раздвижные смартфоны так и не появились: разбор LG Rollable](https://habr.com/ru/companies/ru_mts/articles/1024774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024774)
 <!-- BLOG-POST-LIST:END -->
 
 ---
