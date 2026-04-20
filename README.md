@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Vibe++ очень простой язык для промпт-программистов. А почему бы и не да?](https://habr.com/ru/articles/1025608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025608)
+- [Как мы строим внутренний контроль качества в компании по тестированию](https://habr.com/ru/articles/1025582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025582)
 - [Легаси и минус 99% времени: пошаговый разбор оптимизации](https://habr.com/ru/articles/1024814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024814)
 - [Курс по тестированию с ИИ лучше обычного? Личный опыт автора для новичков](https://habr.com/ru/articles/1025012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025012)
 - [Патент на промышленный образец или авторское право: разберем механизм, чтобы сделать правильный выбор](https://habr.com/ru/articles/1025524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025524)
-- [ИИ-агенты в ИБ: путь к доверенному члену команды](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/1025480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025480)
-- [Контрактное тестирование на Kotlin: гайд для автоматизатора](https://habr.com/ru/companies/otus/articles/1022196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022196)
 <!-- BLOG-POST-LIST:END -->
 
 ---
