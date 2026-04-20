@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Лучшие LLM в 2026 году: какую нейросеть выбрать сегодня](https://habr.com/ru/companies/bothub/articles/1025828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025828)
 - [Perl — зря забытый язык программирования?](https://habr.com/ru/articles/1025824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025824)
 - [Echo Layer: как я пытался встроить приватность в обычную клавиатуру](https://habr.com/ru/articles/1025808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025808)
 - [Labeled break and continue в C# 15 — разбор плохого примера и поиск реального кейса](https://habr.com/ru/articles/1025794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025794)
 - [ELT против ETL в FinOps: Почему мы сначала кладем сырые данные, а потом думаем](https://habr.com/ru/companies/inferit/articles/1025790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025790)
-- [[Перевод] Выделение регистров процессора при помощи генетического алгоритма](https://habr.com/ru/articles/1025788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025788)
 <!-- BLOG-POST-LIST:END -->
 
 ---
