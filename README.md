@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему раздвижные смартфоны так и не появились: разбор LG Rollable](https://habr.com/ru/companies/ru_mts/articles/1024774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024774)
+- [Один движок на два рантайма: как мой сайт на Next.js делит формулы с Flutter-приложением](https://habr.com/ru/articles/1025632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025632)
+- [Как переложить нагрузку по code review с разработчиков на LLM](https://habr.com/ru/companies/avito/articles/1024954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024954)
 - [Vibe++ очень простой язык для промпт-программистов. А почему бы и не да?](https://habr.com/ru/articles/1025608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025608)
 - [Как мы строим внутренний контроль качества в компании по тестированию](https://habr.com/ru/articles/1025582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025582)
-- [Легаси и минус 99% времени: пошаговый разбор оптимизации](https://habr.com/ru/articles/1024814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024814)
-- [Курс по тестированию с ИИ лучше обычного? Личный опыт автора для новичков](https://habr.com/ru/articles/1025012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025012)
-- [Патент на промышленный образец или авторское право: разберем механизм, чтобы сделать правильный выбор](https://habr.com/ru/articles/1025524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025524)
 <!-- BLOG-POST-LIST:END -->
 
 ---
