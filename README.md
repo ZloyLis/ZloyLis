@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Win32 API и ностальгия по окнам странной формы](https://habr.com/ru/articles/1025204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025204)
-- [Недоеденное яблоко или код для здоровья: как резиденты клуба «Фармакода» узнали интересные факты о прошлом Apple](https://habr.com/ru/articles/1025372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025372)
-- [Парсинг тарифов интернета и ТВ: Анализируем тарифы провайдеров с инструментами Pandas, Seaborn, Matplotlib](https://habr.com/ru/articles/1025008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025008)
-- [Нейропластичность для разработчика — как учиться эффективнее](https://habr.com/ru/companies/ispsystem/articles/1025390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025390)
-- [LOTIS: Новая парадигма WEB-разработки для бизнес-приложений](https://habr.com/ru/articles/1025380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025380)
+- [Программирование с AI-ассистентом — похороните меня под плинтусом](https://habr.com/ru/companies/bitrix/articles/1022732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022732)
+- [Собираем AI-агента нового поколения: Python, RAG и внешние инструменты через MCP &lpar;Model Context Protocol&rpar;](https://habr.com/ru/articles/1025428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025428)
+- [Playwright vs Selenium на Java: что выбрать для автотестов в 2026 году](https://habr.com/ru/articles/1020774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020774)
+- [ClickHouse не тормозит, но заставляет глаз дергаться. Materialized Views](https://habr.com/ru/articles/1025184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025184)
+- [Феномен OpenClaw: почему инженерная обвязка стала важнее нейросети](https://habr.com/ru/articles/1024744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024744)
 <!-- BLOG-POST-LIST:END -->
 
 ---
