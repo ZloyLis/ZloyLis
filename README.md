@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нейропластичность для разработчика — как учиться эффективнее](https://habr.com/ru/companies/ispsystem/articles/1025390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025390)
+- [LOTIS: Новая парадигма WEB-разработки для бизнес-приложений](https://habr.com/ru/articles/1025380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025380)
 - [Успешный экспорт бага: взгляд клинициста на галлюцинации ИИ](https://habr.com/ru/articles/1025356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025356)
 - [Я превратил вырез в экране MacBook в динамический элемент пользовательского интерфейса &lpar;DynamicNotch для macOS&rpar;](https://habr.com/ru/articles/1025350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025350)
 - [Как вендор заменил треть сеньоров на джунов](https://habr.com/ru/articles/1025348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025348)
-- [«А трактор случайно не в залоге?» — история одной интеграции с ФЦИИТ](https://habr.com/ru/articles/1025346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025346)
-- [Cказ о том, как мы с Oracle на PostgreSQL переехали](https://habr.com/ru/articles/1025336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025336)
 <!-- BLOG-POST-LIST:END -->
 
 ---
