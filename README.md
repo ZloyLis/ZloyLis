@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Win32 API и ностальгия по окнам странной формы](https://habr.com/ru/articles/1025204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025204)
+- [Недоеденное яблоко или код для здоровья: как резиденты клуба «Фармакода» узнали интересные факты о прошлом Apple](https://habr.com/ru/articles/1025372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025372)
+- [Парсинг тарифов интернета и ТВ: Анализируем тарифы провайдеров с инструментами Pandas, Seaborn, Matplotlib](https://habr.com/ru/articles/1025008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025008)
 - [Нейропластичность для разработчика — как учиться эффективнее](https://habr.com/ru/companies/ispsystem/articles/1025390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025390)
 - [LOTIS: Новая парадигма WEB-разработки для бизнес-приложений](https://habr.com/ru/articles/1025380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025380)
-- [Успешный экспорт бага: взгляд клинициста на галлюцинации ИИ](https://habr.com/ru/articles/1025356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025356)
-- [Я превратил вырез в экране MacBook в динамический элемент пользовательского интерфейса &lpar;DynamicNotch для macOS&rpar;](https://habr.com/ru/articles/1025350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025350)
-- [Как вендор заменил треть сеньоров на джунов](https://habr.com/ru/articles/1025348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025348)
 <!-- BLOG-POST-LIST:END -->
 
 ---
