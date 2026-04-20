@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Эксперименты с распараллеливанием Java-автотестов](https://habr.com/ru/companies/rostelecom/articles/1025746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025746)
+- [Баг в проде – а кто виноват? Делим баги на категории, чтобы сделать их заметнее](https://habr.com/ru/companies/oleg-bunin/articles/1025732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025732)
 - [Почему раздвижные смартфоны так и не появились: разбор LG Rollable](https://habr.com/ru/companies/ru_mts/articles/1024774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024774)
 - [Один движок на два рантайма: как мой сайт на Next.js делит формулы с Flutter-приложением](https://habr.com/ru/articles/1025632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025632)
 - [Как переложить нагрузку по code review с разработчиков на LLM](https://habr.com/ru/companies/avito/articles/1024954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024954)
-- [Vibe++ очень простой язык для промпт-программистов. А почему бы и не да?](https://habr.com/ru/articles/1025608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025608)
-- [Как мы строим внутренний контроль качества в компании по тестированию](https://habr.com/ru/articles/1025582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025582)
 <!-- BLOG-POST-LIST:END -->
 
 ---
