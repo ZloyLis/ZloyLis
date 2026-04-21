@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему в C++/Qt нельзя просто взять и забыть про сырые указатели](https://habr.com/ru/articles/1026346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026346)
 - [Деконструкция GO: CPU, RAM и что там происходит. Оптимизации на CPU. Часть 1.4](https://habr.com/ru/articles/1026308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026308)
 - [Критерии выживания и случайность — 4](https://habr.com/ru/articles/1026288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026288)
 - [Я много лет пытался повысить продуктивность и качество жизни — эксперименты над собой &lpar;Часть 1&rpar;](https://habr.com/ru/articles/1026236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026236)
 - [От слов к числам: как математически отличить Middle от Senior](https://habr.com/ru/articles/1026186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026186)
-- [Вайб-кодинг как серфинг между хайпом и нейрослопом](https://habr.com/ru/articles/1026182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026182)
 <!-- BLOG-POST-LIST:END -->
 
 ---
