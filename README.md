@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Кризис инструментария API: почему разработчики бегут от Postman и его клонов?](https://habr.com/ru/articles/1025772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025772)
 - [Slow Feature Analysis. Разбор метода и реализация на Python с нуля](https://habr.com/ru/companies/okama/articles/1025754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025754)
 - [Современный дата-стек: потоковая система из «LEGO»](https://habr.com/ru/articles/1022970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022970)
 - [Лучшие LLM в 2026 году: какую нейросеть выбрать сегодня](https://habr.com/ru/companies/bothub/articles/1025828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025828)
 - [Perl — зря забытый язык программирования?](https://habr.com/ru/articles/1025824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025824)
-- [Echo Layer: как я пытался встроить приватность в обычную клавиатуру](https://habr.com/ru/articles/1025808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025808)
 <!-- BLOG-POST-LIST:END -->
 
 ---
