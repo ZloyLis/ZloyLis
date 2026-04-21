@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Kotlin Корутины + БД connection pool. Как не получить каскадное падение](https://habr.com/ru/articles/1026058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026058)
+- [Как я научил торгового бота рисовать свечные графики и перестал спамить текстом](https://habr.com/ru/companies/beeline_cloud/articles/1026056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026056)
+- [Как я экономлю 80% контекста нейросетей при работе с логами](https://habr.com/ru/articles/1026040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026040)
+- [Как упаковать React и три Java-сервиса в один .exe с помощью Electron и ничего не сломать](https://habr.com/ru/companies/axenix/articles/1025966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025966)
 - [Мониторинг LTE модемов: Huawei B535-232a](https://habr.com/ru/articles/1025734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025734)
-- [Уведомление об обработке персональных данных. Кому и как надо подать, чтобы не получить штраф до 300 000 рублей?](https://habr.com/ru/articles/1025952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025952)
-- [Deckhouse Prom++: как мы посадили Prometheus на RAM-диету и сэкономили 89 % памяти в хранилище данных](https://habr.com/ru/companies/flant/articles/1024370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024370)
-- [Я удалил backpropagation из нейросети. Она обучилась методами XIX века](https://habr.com/ru/companies/selectel/articles/1025542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025542)
-- [Почему пользователи врут на интервью и что мы увидели, когда начали за ними наблюдать](https://habr.com/ru/companies/ncloudtech/articles/1022916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022916)
 <!-- BLOG-POST-LIST:END -->
 
 ---
