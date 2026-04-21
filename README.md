@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Критерии выживания и случайность — 4](https://habr.com/ru/articles/1026288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026288)
+- [Как научить Claude Code работать с вебом и не сжигать на этом лимиты](https://habr.com/ru/articles/1020598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020598)
 - [Я много лет пытался повысить продуктивность и качество жизни — эксперименты над собой &lpar;Часть 1&rpar;](https://habr.com/ru/articles/1026236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026236)
 - [От слов к числам: как математически отличить Middle от Senior](https://habr.com/ru/articles/1026186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026186)
 - [Вайб-кодинг как серфинг между хайпом и нейрослопом](https://habr.com/ru/articles/1026182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026182)
-- [Claude Code теперь требует паспорт, а Codex умеет работать с &lpar;почти&rpar; любыми приложениями](https://habr.com/ru/companies/haulmont/articles/1026160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026160)
-- [Топ техник атак на веб-приложения — 2025 и как разработчику защищаться от нетривиальных уязвимостей](https://habr.com/ru/companies/sourcecraft/articles/1026090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026090)
 <!-- BLOG-POST-LIST:END -->
 
 ---
