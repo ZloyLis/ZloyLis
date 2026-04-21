@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Xcode build system has crashed, или Почему рекурсия — это плохо. Используем swift‑build со своими патчами](https://habr.com/ru/companies/yandex/articles/1024298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024298)
-- [Эволюционная архитектура ПО: уроки теории Дарвина](https://habr.com/ru/companies/psb/articles/1025420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025420)
-- [Как организовать балансировку нагрузки Backend приложений Java Spring Cloud + Kubernetes](https://habr.com/ru/companies/rshb/articles/1025716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025716)
-- [Инфраструктура Шрёдингера: как вывести ИТ-ресурсы из суперпозиции и знать всё об активах наверняка](https://habr.com/ru/companies/simpleone/articles/1025720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025720)
-- [Как я парсил банковские платёжки всех российских банков на Python: история боли, костылей и XML-матрёшек](https://habr.com/ru/articles/1025626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025626)
+- [Мониторинг LTE модемов: Huawei B535-232a](https://habr.com/ru/articles/1025734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025734)
+- [Уведомление об обработке персональных данных. Кому и как надо подать, чтобы не получить штраф до 300 000 рублей?](https://habr.com/ru/articles/1025952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025952)
+- [Deckhouse Prom++: как мы посадили Prometheus на RAM-диету и сэкономили 89 % памяти в хранилище данных](https://habr.com/ru/companies/flant/articles/1024370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024370)
+- [Я удалил backpropagation из нейросети. Она обучилась методами XIX века](https://habr.com/ru/companies/selectel/articles/1025542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025542)
+- [Почему пользователи врут на интервью и что мы увидели, когда начали за ними наблюдать](https://habr.com/ru/companies/ncloudtech/articles/1022916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022916)
 <!-- BLOG-POST-LIST:END -->
 
 ---
