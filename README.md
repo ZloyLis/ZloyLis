@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Kotlin для новичков: строки и коллекции — полный гайд](https://habr.com/ru/companies/otus/articles/1022148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022148)
+- [Наука без экранов: как настольные STEM-игры закрывают когнитивный разрыв между теорией и практикой](https://habr.com/ru/articles/1026744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026744)
 - [Костыли телеграма: «печатает...» в избранных и «вы сделали скриншот!» в любом чате](https://habr.com/ru/articles/1026728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026728)
 - [Я много лет пытался повысить продуктивность и качество жизни — эксперименты над собой &lpar;Часть 2&rpar;](https://habr.com/ru/articles/1026708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026708)
 - [[Перевод] Запуск сервера Minecraft &lpar;и не только&rpar; на компьютере UNIVAC из 1960-х](https://habr.com/ru/articles/1026314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026314)
-- [Если агент пишет код, то кем становится человек?](https://habr.com/ru/articles/1026696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026696)
-- [Как устроен AI-агент изнутри](https://habr.com/ru/articles/1026682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026682)
 <!-- BLOG-POST-LIST:END -->
 
 ---
