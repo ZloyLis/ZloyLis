@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Костыли телеграма: «печатает...» в избранных и «вы сделали скриншот!» в любом чате](https://habr.com/ru/articles/1026728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026728)
+- [Я много лет пытался повысить продуктивность и качество жизни — эксперименты над собой &lpar;Часть 2&rpar;](https://habr.com/ru/articles/1026708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026708)
 - [[Перевод] Запуск сервера Minecraft &lpar;и не только&rpar; на компьютере UNIVAC из 1960-х](https://habr.com/ru/articles/1026314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026314)
 - [Если агент пишет код, то кем становится человек?](https://habr.com/ru/articles/1026696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026696)
 - [Как устроен AI-агент изнутри](https://habr.com/ru/articles/1026682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026682)
-- [Как из факапа родился продукт: история EasyDoc](https://habr.com/ru/companies/itfb/articles/1026674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026674)
-- [Как я делал пет-проект и закопал его собственными руками](https://habr.com/ru/articles/1026508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026508)
 <!-- BLOG-POST-LIST:END -->
 
 ---
