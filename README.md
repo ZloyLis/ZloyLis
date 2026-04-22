@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как выучить Python и не разориться: 5 лучших бесплатных курсов для новичков](https://habr.com/ru/articles/1026362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026362)
-- [BI-конструктор в Битрикс24: где он реально полезен, а где лучше не тратить время](https://habr.com/ru/articles/1026352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026352)
-- [Почему в C++/Qt нельзя просто взять и забыть про сырые указатели](https://habr.com/ru/articles/1026346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026346)
-- [Деконструкция GO: CPU, RAM и что там происходит. Оптимизации на CPU. Часть 1.4](https://habr.com/ru/articles/1026308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026308)
-- [Критерии выживания и случайность — 4](https://habr.com/ru/articles/1026288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026288)
+- [Платформы и приложения Low code](https://habr.com/ru/articles/1026408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026408)
+- [Что такое ITAM и почему без него компании теряют деньги на ИТ-активах](https://habr.com/ru/companies/simpleone/articles/1025634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025634)
+- [Идентификация объектов управления в Engee: пример идентификации модели поезда в АО “МТЗ ТРАНСМАШ им. А.А. Егоренкова”](https://habr.com/ru/companies/etmc_exponenta/articles/1025924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025924)
+- [Как разрабатывать интеграционные решения в крупных компаниях: методология и артефакты](https://habr.com/ru/companies/ibs/articles/1026404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026404)
+- [Личный опыт: Два собственных блочных шифра &lpar;описание и код на C++&rpar;](https://habr.com/ru/articles/1026402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026402)
 <!-- BLOG-POST-LIST:END -->
 
 ---
