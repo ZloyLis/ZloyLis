@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Я устал читать 100+ сообщений в Telegram и написал бота, который делает саммари и отвечает как AI-ассистент](https://habr.com/ru/articles/1026656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026656)
+- [Telegraph API: CONTENT_TOO_BIG приходит раньше обещанных 64 КБ. Измеряем реальный лимит и разбираем обходной путь](https://habr.com/ru/articles/1026610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026610)
+- [Теги и аллокация не работают: почему мы до сих пор не знаем, кто за что платит](https://habr.com/ru/companies/finops_ru/articles/1026600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026600)
+- [“Я потерял контекст”, или еще один инструмент для тестировщиков](https://habr.com/ru/companies/rostelecom/articles/1026460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026460)
 - [api2app: Использование совместно с FastAPI](https://habr.com/ru/articles/1025296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025296)
-- [Эти три буквы никого не оставляют равнодушными](https://habr.com/ru/articles/1026546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026546)
-- [Circuit Breaker в микросервисах: как защитить систему от каскадных отказов](https://habr.com/ru/articles/1025394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025394)
-- [Институт машиностроения перешел на nanoCAD и повысил точность проектирования объектов металлургического производства](https://habr.com/ru/companies/nanosoft/articles/1026530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026530)
-- [Спецификации вместо промптов: как мы перестраиваем фронтенд-разработку с помощью ИИ](https://habr.com/ru/companies/svoi_ru/articles/1026514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026514)
 <!-- BLOG-POST-LIST:END -->
 
 ---
