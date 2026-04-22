@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Моделируй просто! Симулятор космического полёта – «42»](https://habr.com/ru/articles/1026474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026474)
-- [Android и AccessibilityService: защита чувствительных экранов от чтения интерфейса](https://habr.com/ru/companies/hex_team/articles/1025368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025368)
-- [Особенности и ловушки модели памяти в Go: тайны синхронизации. Часть 2](https://habr.com/ru/companies/oleg-bunin/articles/1014084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014084)
-- [Как мы доказали, что документация приносит пользу бизнесу](https://habr.com/ru/companies/tbank/articles/1026080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026080)
-- [Визуализатор структуры адреса на Си для Linux и Termux: Попасть в «Голову» кеш-линии](https://habr.com/ru/articles/1026430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026430)
+- [api2app: Использование совместно с FastAPI](https://habr.com/ru/articles/1025296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025296)
+- [Эти три буквы никого не оставляют равнодушными](https://habr.com/ru/articles/1026546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026546)
+- [Circuit Breaker в микросервисах: как защитить систему от каскадных отказов](https://habr.com/ru/articles/1025394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025394)
+- [Институт машиностроения перешел на nanoCAD и повысил точность проектирования объектов металлургического производства](https://habr.com/ru/companies/nanosoft/articles/1026530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026530)
+- [Спецификации вместо промптов: как мы перестраиваем фронтенд-разработку с помощью ИИ](https://habr.com/ru/companies/svoi_ru/articles/1026514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026514)
 <!-- BLOG-POST-LIST:END -->
 
 ---
