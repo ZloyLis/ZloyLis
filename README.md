@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как выучить Python и не разориться: 5 лучших бесплатных курсов для новичков](https://habr.com/ru/articles/1026362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026362)
+- [BI-конструктор в Битрикс24: где он реально полезен, а где лучше не тратить время](https://habr.com/ru/articles/1026352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026352)
 - [Почему в C++/Qt нельзя просто взять и забыть про сырые указатели](https://habr.com/ru/articles/1026346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026346)
 - [Деконструкция GO: CPU, RAM и что там происходит. Оптимизации на CPU. Часть 1.4](https://habr.com/ru/articles/1026308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026308)
 - [Критерии выживания и случайность — 4](https://habr.com/ru/articles/1026288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026288)
-- [Я много лет пытался повысить продуктивность и качество жизни — эксперименты над собой &lpar;Часть 1&rpar;](https://habr.com/ru/articles/1026236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026236)
-- [От слов к числам: как математически отличить Middle от Senior](https://habr.com/ru/articles/1026186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026186)
 <!-- BLOG-POST-LIST:END -->
 
 ---
