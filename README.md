@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Платформы и приложения Low code](https://habr.com/ru/articles/1026408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026408)
-- [Что такое ITAM и почему без него компании теряют деньги на ИТ-активах](https://habr.com/ru/companies/simpleone/articles/1025634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025634)
-- [Идентификация объектов управления в Engee: пример идентификации модели поезда в АО “МТЗ ТРАНСМАШ им. А.А. Егоренкова”](https://habr.com/ru/companies/etmc_exponenta/articles/1025924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025924)
-- [Как разрабатывать интеграционные решения в крупных компаниях: методология и артефакты](https://habr.com/ru/companies/ibs/articles/1026404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026404)
-- [Личный опыт: Два собственных блочных шифра &lpar;описание и код на C++&rpar;](https://habr.com/ru/articles/1026402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026402)
+- [Моделируй просто! Симулятор космического полёта – «42»](https://habr.com/ru/articles/1026474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026474)
+- [Android и AccessibilityService: защита чувствительных экранов от чтения интерфейса](https://habr.com/ru/companies/hex_team/articles/1025368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025368)
+- [Особенности и ловушки модели памяти в Go: тайны синхронизации. Часть 2](https://habr.com/ru/companies/oleg-bunin/articles/1014084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014084)
+- [Как мы доказали, что документация приносит пользу бизнесу](https://habr.com/ru/companies/tbank/articles/1026080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026080)
+- [Визуализатор структуры адреса на Си для Linux и Termux: Попасть в «Голову» кеш-линии](https://habr.com/ru/articles/1026430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026430)
 <!-- BLOG-POST-LIST:END -->
 
 ---
