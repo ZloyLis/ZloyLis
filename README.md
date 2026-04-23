@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как подготовить данные к анализу: очистка и предобработка, без которых всё остальное не имеет смысла](https://habr.com/ru/companies/netologyru/articles/1026754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026754)
+- [Как объединить данные Яндекс Метрики и CRM: от загрузки данных до дашборда в DataLens](https://habr.com/ru/articles/1027178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027178)
 - [Я много лет пытался повысить продуктивность и качество жизни — эксперименты над собой &lpar;Част 3&rpar;](https://habr.com/ru/articles/1026748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026748)
 - [Будущее ИТ и что в нём делать разработчику](https://habr.com/ru/articles/1027144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027144)
 - [Распознаем STL-код легко: std::vector](https://habr.com/ru/companies/pt/articles/1024692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024692)
-- [Что изучить этой весной — Kubernetes, DevSecOps, Ansible и Nginx](https://habr.com/ru/companies/otus/articles/1026650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026650)
-- [[Перевод] Intl: мощный браузерный API, который вы, возможно, не используете](https://habr.com/ru/companies/timeweb/articles/1026356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026356)
 <!-- BLOG-POST-LIST:END -->
 
 ---
