@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Интенсив в плацкарте и ИИ в ревью: как устроена продуктовая культура в 2ГИС](https://habr.com/ru/companies/2gis/articles/1021146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021146)
+- [ИТ‑стратегия против хаоса: на пути к обоснованному выбору ПО и технологий](https://habr.com/ru/articles/1026996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026996)
+- [Я устал каждый раз гуглить одно и то же в nginx — и сделал инструмент, который объясняет конфиги на русском](https://habr.com/ru/articles/1026962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026962)
+- [[Перевод] Семь видов пауз в одной игре: разработчики рассказывают, как останавливают время](https://habr.com/ru/articles/1026940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026940)
 - [Проектирование иерархии моделей данных в многослойном приложении](https://habr.com/ru/articles/1026944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026944)
-- [vLLM, LoRA и GPU-кластеры: техническая анатомия обогащения поисковой выдачи Авито мультимодальными моделями](https://habr.com/ru/companies/avito/articles/1024136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024136)
-- [Разбор AI-зоопарка 2026: Hermes, DeerFlow, Multica, Claude Code и MarkItDown](https://habr.com/ru/articles/1026926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026926)
-- [Karpathy Shift в ML-ресерче: как агентная инженерия меняет эксперименты и зачем это России](https://habr.com/ru/articles/1026922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026922)
-- [3D-моделирование для промышленных сайтов: виртуальное оборудование, которое можно пощупать](https://habr.com/ru/articles/1026920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026920)
 <!-- BLOG-POST-LIST:END -->
 
 ---
