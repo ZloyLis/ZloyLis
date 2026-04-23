@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Интенсив в плацкарте и ИИ в ревью: как устроена продуктовая культура в 2ГИС](https://habr.com/ru/companies/2gis/articles/1021146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021146)
-- [ИТ‑стратегия против хаоса: на пути к обоснованному выбору ПО и технологий](https://habr.com/ru/articles/1026996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026996)
-- [Я устал каждый раз гуглить одно и то же в nginx — и сделал инструмент, который объясняет конфиги на русском](https://habr.com/ru/articles/1026962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026962)
-- [[Перевод] Семь видов пауз в одной игре: разработчики рассказывают, как останавливают время](https://habr.com/ru/articles/1026940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026940)
-- [Проектирование иерархии моделей данных в многослойном приложении](https://habr.com/ru/articles/1026944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026944)
+- [С Vim удобно программировать &lpar;часть II&rpar;](https://habr.com/ru/articles/1025124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025124)
+- [С Vim удобно программировать &lpar;часть I&rpar;](https://habr.com/ru/articles/1022400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022400)
+- [Тесты в формате симуляции](https://habr.com/ru/companies/sportmaster_lab/articles/1027094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027094)
+- [Не всё деплоем правится: как мы вынесли интерфейс из кода с помощью Server-Driven UI](https://habr.com/ru/companies/gri/articles/1026592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026592)
+- [Даже гениям отказывают](https://habr.com/ru/articles/1027092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027092)
 <!-- BLOG-POST-LIST:END -->
 
 ---
