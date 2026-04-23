@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Error 500? Как вместо кодов получать подробные сведения обо всех ошибках сразу](https://habr.com/ru/companies/kryptonite/articles/1026698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026698)
-- [Мультиагентный хаос: как мы собрали команду AI-сотрудников, а получили бесконечное совещание ни о чем](https://habr.com/ru/articles/1026856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026856)
-- [Почему AI-агенты такие медленные и что с этим можно сделать?](https://habr.com/ru/companies/veai/articles/1026412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026412)
-- [Нагрузочное тестирование с Apache JMeter: Best Practices](https://habr.com/ru/companies/otus/articles/1022194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022194)
-- [Полтора миллиона на команду, ноль релизов и один человек с Cursor: что я понял за десять месяцев](https://habr.com/ru/articles/1026782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026782)
+- [Проектирование иерархии моделей данных в многослойном приложении](https://habr.com/ru/articles/1026944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026944)
+- [vLLM, LoRA и GPU-кластеры: техническая анатомия обогащения поисковой выдачи Авито мультимодальными моделями](https://habr.com/ru/companies/avito/articles/1024136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024136)
+- [Разбор AI-зоопарка 2026: Hermes, DeerFlow, Multica, Claude Code и MarkItDown](https://habr.com/ru/articles/1026926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026926)
+- [Karpathy Shift в ML-ресерче: как агентная инженерия меняет эксперименты и зачем это России](https://habr.com/ru/articles/1026922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026922)
+- [3D-моделирование для промышленных сайтов: виртуальное оборудование, которое можно пощупать](https://habr.com/ru/articles/1026920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026920)
 <!-- BLOG-POST-LIST:END -->
 
 ---
