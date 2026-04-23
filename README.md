@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [С Vim удобно программировать &lpar;часть II&rpar;](https://habr.com/ru/articles/1025124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025124)
-- [С Vim удобно программировать &lpar;часть I&rpar;](https://habr.com/ru/articles/1022400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022400)
-- [Тесты в формате симуляции](https://habr.com/ru/companies/sportmaster_lab/articles/1027094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027094)
-- [Не всё деплоем правится: как мы вынесли интерфейс из кода с помощью Server-Driven UI](https://habr.com/ru/companies/gri/articles/1026592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026592)
-- [Даже гениям отказывают](https://habr.com/ru/articles/1027092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027092)
+- [Я много лет пытался повысить продуктивность и качество жизни — эксперименты над собой &lpar;Част 3&rpar;](https://habr.com/ru/articles/1026748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026748)
+- [Будущее ИТ и что в нём делать разработчику](https://habr.com/ru/articles/1027144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027144)
+- [Распознаем STL-код легко: std::vector](https://habr.com/ru/companies/pt/articles/1024692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024692)
+- [Что изучить этой весной — Kubernetes, DevSecOps, Ansible и Nginx](https://habr.com/ru/companies/otus/articles/1026650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026650)
+- [[Перевод] Intl: мощный браузерный API, который вы, возможно, не используете](https://habr.com/ru/companies/timeweb/articles/1026356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026356)
 <!-- BLOG-POST-LIST:END -->
 
 ---
