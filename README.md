@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kotlin для новичков: строки и коллекции — полный гайд](https://habr.com/ru/companies/otus/articles/1022148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022148)
-- [Наука без экранов: как настольные STEM-игры закрывают когнитивный разрыв между теорией и практикой](https://habr.com/ru/articles/1026744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026744)
-- [Костыли телеграма: «печатает...» в избранных и «вы сделали скриншот!» в любом чате](https://habr.com/ru/articles/1026728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026728)
-- [Я много лет пытался повысить продуктивность и качество жизни — эксперименты над собой &lpar;Часть 2&rpar;](https://habr.com/ru/articles/1026708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026708)
-- [[Перевод] Запуск сервера Minecraft &lpar;и не только&rpar; на компьютере UNIVAC из 1960-х](https://habr.com/ru/articles/1026314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026314)
+- [Error 500? Как вместо кодов получать подробные сведения обо всех ошибках сразу](https://habr.com/ru/companies/kryptonite/articles/1026698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026698)
+- [Мультиагентный хаос: как мы собрали команду AI-сотрудников, а получили бесконечное совещание ни о чем](https://habr.com/ru/articles/1026856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026856)
+- [Почему AI-агенты такие медленные и что с этим можно сделать?](https://habr.com/ru/companies/veai/articles/1026412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026412)
+- [Нагрузочное тестирование с Apache JMeter: Best Practices](https://habr.com/ru/companies/otus/articles/1022194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022194)
+- [Полтора миллиона на команду, ноль релизов и один человек с Cursor: что я понял за десять месяцев](https://habr.com/ru/articles/1026782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026782)
 <!-- BLOG-POST-LIST:END -->
 
 ---
