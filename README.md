@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Эволюция данных: генетический алгоритм в задаче классификации текстов](https://habr.com/ru/companies/redmadrobot/articles/1027238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027238)
+- [[Перевод] Gemma 4: что это такое и какую модель выбрать?](https://habr.com/ru/companies/bothub/articles/1027236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027236)
+- [Kotlin vs Java: что выбрать для бэкенда?](https://habr.com/ru/companies/otus/articles/1022146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022146)
 - [Как подготовить данные к анализу: очистка и предобработка, без которых всё остальное не имеет смысла](https://habr.com/ru/companies/netologyru/articles/1026754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026754)
 - [Как объединить данные Яндекс Метрики и CRM: от загрузки данных до дашборда в DataLens](https://habr.com/ru/articles/1027178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027178)
-- [Я много лет пытался повысить продуктивность и качество жизни — эксперименты над собой &lpar;Част 3&rpar;](https://habr.com/ru/articles/1026748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026748)
-- [Будущее ИТ и что в нём делать разработчику](https://habr.com/ru/articles/1027144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027144)
-- [Распознаем STL-код легко: std::vector](https://habr.com/ru/companies/pt/articles/1024692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024692)
 <!-- BLOG-POST-LIST:END -->
 
 ---
