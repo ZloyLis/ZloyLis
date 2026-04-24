@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [GLM 5.1 vs. DeepSeek V3.2: сравниваем топовые китайские модели](https://habr.com/ru/companies/veai/articles/1027370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027370)
-- [Ленты коротких видео: как оптимизировать, чтобы вас смотрели больше](https://habr.com/ru/companies/yandex/articles/1027160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027160)
-- [Когда Java-разработка — это не только Spring](https://habr.com/ru/companies/sberbank/articles/1025546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025546)
-- [Распределение плотности воздуха по высоте](https://habr.com/ru/articles/1027282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027282)
-- [Nuitka 4.0: как я разогнал свой Python-скрипт на 335% и почему JIT-будущее уже на пороге](https://habr.com/ru/articles/1027354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027354)
+- [Разворачиваем RAG на Java без боли: практический гайд](https://habr.com/ru/articles/1027426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027426)
+- [Как я разрабатывал отказоустойчивый промышленный контроллер. Ч1](https://habr.com/ru/articles/1027424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027424)
+- [[Перевод] Книга «Изучаем DDD — предметно-ориентированное проектирование». Подробный читательский обзор](https://habr.com/ru/companies/bhv_publishing/articles/1027422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027422)
+- [Как в СНГ выбирают людей для AI-внедрения — и почему это страшно. Кейс из жизни](https://habr.com/ru/articles/1027410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027410)
+- [Сравнение результатов «PG_EXPECTO + Philosophical_instruction»: 3.5 -&amp;gt; 4 -&amp;gt; 5 -&amp;gt; 5.1](https://habr.com/ru/articles/1027408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027408)
 <!-- BLOG-POST-LIST:END -->
 
 ---
