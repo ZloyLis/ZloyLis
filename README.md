@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Privacy Filter: красивая архитектура в суровых условиях русского бенчмарка](https://habr.com/ru/articles/1027266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027266)
-- [Telegram-бот за вечер через Spec Kit: что AI-ассистированная разработка сделала с моим инженерным процессом](https://habr.com/ru/articles/1027250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027250)
-- [Волшебный Koog. Пишем Kotlin-агент широкого профиля KMP](https://habr.com/ru/companies/usetech/articles/1027130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027130)
-- [Эволюция данных: генетический алгоритм в задаче классификации текстов](https://habr.com/ru/companies/redmadrobot/articles/1027238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027238)
-- [[Перевод] Gemma 4: что это такое и какую модель выбрать?](https://habr.com/ru/companies/bothub/articles/1027236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027236)
+- [GLM 5.1 vs. DeepSeek V3.2: сравниваем топовые китайские модели](https://habr.com/ru/companies/veai/articles/1027370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027370)
+- [Ленты коротких видео: как оптимизировать, чтобы вас смотрели больше](https://habr.com/ru/companies/yandex/articles/1027160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027160)
+- [Когда Java-разработка — это не только Spring](https://habr.com/ru/companies/sberbank/articles/1025546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025546)
+- [Распределение плотности воздуха по высоте](https://habr.com/ru/articles/1027282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027282)
+- [Nuitka 4.0: как я разогнал свой Python-скрипт на 335% и почему JIT-будущее уже на пороге](https://habr.com/ru/articles/1027354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027354)
 <!-- BLOG-POST-LIST:END -->
 
 ---
