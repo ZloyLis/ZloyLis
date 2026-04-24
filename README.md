@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Конфликты потоковой репликации в PostgreSQL](https://habr.com/ru/articles/1027704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027704)
 - [Мессенджер на Paginator. Боевые задачи](https://habr.com/ru/articles/1027686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027686)
 - [JavaScript. Работа с большими файлами в браузере. Часть 1/2: Чтение файлов](https://habr.com/ru/articles/1027666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027666)
 - [Model Context Protocol &lpar;MCP&rpar;: как ИИ-агенты «разговаривают» с внешним миром](https://habr.com/ru/articles/1027508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027508)
 - [Никакой магии: только лексер, парсер и интерпретатор на чистом PHP](https://habr.com/ru/companies/otus/articles/1026244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026244)
-- [Оффлайн агент IDE Continue](https://habr.com/ru/articles/1027658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027658)
 <!-- BLOG-POST-LIST:END -->
 
 ---
