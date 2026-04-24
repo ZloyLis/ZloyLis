@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript. Работа с большими файлами в браузере. Часть 1/2: Чтение файлов](https://habr.com/ru/articles/1027666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027666)
+- [Model Context Protocol &lpar;MCP&rpar;: как ИИ-агенты «разговаривают» с внешним миром](https://habr.com/ru/articles/1027508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027508)
+- [Никакой магии: только лексер, парсер и интерпретатор на чистом PHP](https://habr.com/ru/companies/otus/articles/1026244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026244)
+- [Оффлайн агент IDE Continue](https://habr.com/ru/articles/1027658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027658)
 - [ISTQB обновил сертификацию AI Testing до v2.0. Что изменилось и чего там всё ещё не хватает](https://habr.com/ru/articles/1027638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027638)
-- [Публикация приложений в российском App Store бессмысленна? Как ограничения Apple ID влияют на разработчиков](https://habr.com/ru/articles/1027580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027580)
-- [Распознавание лиц с потока камеры в .NET MAUI](https://habr.com/ru/articles/1027582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027582)
-- [Почему Proptech — одна из самых сложных ИТ-индустрий &lpar;и почему это круто&rpar;](https://habr.com/ru/companies/sminex_developer/articles/1027600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027600)
-- [Вторая жизнь старого смартфона в качестве домашнего сервера](https://habr.com/ru/articles/1027584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027584)
 <!-- BLOG-POST-LIST:END -->
 
 ---
