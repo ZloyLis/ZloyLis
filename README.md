@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Реализация автоудаления блокирующих сессий в MS SQL](https://habr.com/ru/companies/vk/articles/1027228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027228)
+- [Лечим загрузчик часов Redmi Watch 5 от падений](https://habr.com/ru/articles/1027516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027516)
+- [Поиск и устранение коллизий в архитектурной модели в рамках nanoCAD BIM Строительство](https://habr.com/ru/companies/nanosoft/articles/1027494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027494)
 - [Разворачиваем RAG на Java без боли: практический гайд](https://habr.com/ru/articles/1027426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027426)
 - [Как я разрабатывал отказоустойчивый промышленный контроллер. Ч1](https://habr.com/ru/articles/1027424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027424)
-- [[Перевод] Книга «Изучаем DDD — предметно-ориентированное проектирование». Подробный читательский обзор](https://habr.com/ru/companies/bhv_publishing/articles/1027422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027422)
-- [Как в СНГ выбирают людей для AI-внедрения — и почему это страшно. Кейс из жизни](https://habr.com/ru/articles/1027410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027410)
-- [Сравнение результатов «PG_EXPECTO + Philosophical_instruction»: 3.5 -&amp;gt; 4 -&amp;gt; 5 -&amp;gt; 5.1](https://habr.com/ru/articles/1027408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027408)
 <!-- BLOG-POST-LIST:END -->
 
 ---
