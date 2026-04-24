@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ISTQB обновил сертификацию AI Testing до v2.0. Что изменилось и чего там всё ещё не хватает](https://habr.com/ru/articles/1027638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027638)
+- [Публикация приложений в российском App Store бессмысленна? Как ограничения Apple ID влияют на разработчиков](https://habr.com/ru/articles/1027580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027580)
 - [Распознавание лиц с потока камеры в .NET MAUI](https://habr.com/ru/articles/1027582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027582)
 - [Почему Proptech — одна из самых сложных ИТ-индустрий &lpar;и почему это круто&rpar;](https://habr.com/ru/companies/sminex_developer/articles/1027600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027600)
 - [Вторая жизнь старого смартфона в качестве домашнего сервера](https://habr.com/ru/articles/1027584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027584)
-- [[Перевод] Золотой стандарт оптимизации: разбираем реализацию RollerCoaster Tycoon](https://habr.com/ru/companies/ruvds/articles/1026254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026254)
-- [GPT-5.5 против DeepSeek-V4: почему OpenAI удваивает цены, пока Китай демпингует](https://habr.com/ru/articles/1027564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027564)
 <!-- BLOG-POST-LIST:END -->
 
 ---
