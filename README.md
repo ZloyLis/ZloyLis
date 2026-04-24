@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Реализация автоудаления блокирующих сессий в MS SQL](https://habr.com/ru/companies/vk/articles/1027228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027228)
-- [Лечим загрузчик часов Redmi Watch 5 от падений](https://habr.com/ru/articles/1027516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027516)
-- [Поиск и устранение коллизий в архитектурной модели в рамках nanoCAD BIM Строительство](https://habr.com/ru/companies/nanosoft/articles/1027494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027494)
-- [Разворачиваем RAG на Java без боли: практический гайд](https://habr.com/ru/articles/1027426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027426)
-- [Как я разрабатывал отказоустойчивый промышленный контроллер. Ч1](https://habr.com/ru/articles/1027424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027424)
+- [Распознавание лиц с потока камеры в .NET MAUI](https://habr.com/ru/articles/1027582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027582)
+- [Почему Proptech — одна из самых сложных ИТ-индустрий &lpar;и почему это круто&rpar;](https://habr.com/ru/companies/sminex_developer/articles/1027600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027600)
+- [Вторая жизнь старого смартфона в качестве домашнего сервера](https://habr.com/ru/articles/1027584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027584)
+- [[Перевод] Золотой стандарт оптимизации: разбираем реализацию RollerCoaster Tycoon](https://habr.com/ru/companies/ruvds/articles/1026254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026254)
+- [GPT-5.5 против DeepSeek-V4: почему OpenAI удваивает цены, пока Китай демпингует](https://habr.com/ru/articles/1027564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027564)
 <!-- BLOG-POST-LIST:END -->
 
 ---
