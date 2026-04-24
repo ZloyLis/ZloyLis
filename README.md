@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI Privacy Filter: красивая архитектура в суровых условиях русского бенчмарка](https://habr.com/ru/articles/1027266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027266)
 - [Telegram-бот за вечер через Spec Kit: что AI-ассистированная разработка сделала с моим инженерным процессом](https://habr.com/ru/articles/1027250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027250)
 - [Волшебный Koog. Пишем Kotlin-агент широкого профиля KMP](https://habr.com/ru/companies/usetech/articles/1027130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027130)
 - [Эволюция данных: генетический алгоритм в задаче классификации текстов](https://habr.com/ru/companies/redmadrobot/articles/1027238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027238)
 - [[Перевод] Gemma 4: что это такое и какую модель выбрать?](https://habr.com/ru/companies/bothub/articles/1027236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027236)
-- [Kotlin vs Java: что выбрать для бэкенда?](https://habr.com/ru/companies/otus/articles/1022146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022146)
 <!-- BLOG-POST-LIST:END -->
 
 ---
