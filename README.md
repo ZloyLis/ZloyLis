@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Поиск решений управляемый данными. Тестирование и документирование](https://habr.com/ru/articles/1027826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027826)
 - [10 кругов ада управленческого учёта малого бизнеса РФ на Go+pgx. От идеи до зависимости](https://habr.com/ru/articles/1027786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027786)
 - [Сладкие оковы вайб-кодинга](https://habr.com/ru/articles/1027706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027706)
 - [[Перевод] Как научить кодинг-модели не переписывать код заново](https://habr.com/ru/articles/1027096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027096)
 - [От атомного ядра до Ланиакеи. И немного спектрального](https://habr.com/ru/articles/1027750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027750)
-- [От регулярок к ANTLR4: три архитектурных решения на парсере бизнес-формул](https://habr.com/ru/articles/1027742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027742)
 <!-- BLOG-POST-LIST:END -->
 
 ---
