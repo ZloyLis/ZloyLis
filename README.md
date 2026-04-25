@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сладкие оковы вайб-кодинга](https://habr.com/ru/articles/1027706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027706)
+- [[Перевод] Как научить кодинг-модели не переписывать код заново](https://habr.com/ru/articles/1027096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027096)
 - [От атомного ядра до Ланиакеи. И немного спектрального](https://habr.com/ru/articles/1027750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027750)
 - [От регулярок к ANTLR4: три архитектурных решения на парсере бизнес-формул](https://habr.com/ru/articles/1027742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027742)
 - [LxBox: переносим опыт singbox-launcher в Android](https://habr.com/ru/articles/1027734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027734)
-- [YAKE! вместо нейросети: как мы заменили 600 МБ ONNX-реранкера на 400 строк статистики](https://habr.com/ru/articles/1027726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027726)
-- [[Перевод] Конфликты потоковой репликации в PostgreSQL](https://habr.com/ru/articles/1027704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027704)
 <!-- BLOG-POST-LIST:END -->
 
 ---
