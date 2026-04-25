@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [NFC на iPhone в России: хроники инженерного поиска и стадии технического торга](https://habr.com/ru/articles/1027964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027964)
+- [Как я автоматизировал ведение финансов в Obsidian. Часть 1](https://habr.com/ru/articles/1027958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027958)
 - [StaticECS — Bitmap Entity Component System](https://habr.com/ru/articles/1027940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027940)
 - [Разработка фронтенда интернет-магазина через Qwen 3.6 Plus и Qwen ClI](https://habr.com/ru/articles/1027928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027928)
 - [Как реализовать гибкий отчет SAP.BW в 1С: УХ ?/](https://habr.com/ru/articles/1027922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027922)
-- [Квантовый сапёр и квантовый тетрис: изучение квантовых феноменов через компьютерные игры](https://habr.com/ru/articles/1027898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027898)
-- [Сломал руку, купил Pixel 10, возненавидел Gboard и написал свой офлайн-голосовой ввод для Android на GigaAM v3](https://habr.com/ru/articles/1027884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027884)
 <!-- BLOG-POST-LIST:END -->
 
 ---
