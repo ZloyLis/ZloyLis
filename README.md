@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От регулярок к ANTLR4: три архитектурных решения на парсере бизнес-формул](https://habr.com/ru/articles/1027742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027742)
 - [LxBox: переносим опыт singbox-launcher в Android](https://habr.com/ru/articles/1027734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027734)
 - [YAKE! вместо нейросети: как мы заменили 600 МБ ONNX-реранкера на 400 строк статистики](https://habr.com/ru/articles/1027726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027726)
 - [[Перевод] Конфликты потоковой репликации в PostgreSQL](https://habr.com/ru/articles/1027704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027704)
 - [Мессенджер на Paginator. Боевые задачи](https://habr.com/ru/articles/1027686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027686)
-- [JavaScript. Работа с большими файлами в браузере. Часть 1/2: Чтение файлов](https://habr.com/ru/articles/1027666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027666)
 <!-- BLOG-POST-LIST:END -->
 
 ---
