@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Квантовый сапёр и квантовый тетрис: изучение квантовых феноменов через компьютерные игры](https://habr.com/ru/articles/1027898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027898)
 - [Сломал руку, купил Pixel 10, возненавидел Gboard и написал свой офлайн-голосовой ввод для Android на GigaAM v3](https://habr.com/ru/articles/1027884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027884)
 - [Пять неочевидных вещей, которые я узнал, запуская кино-соцсеть: от robots.txt-ловушки до 24-мерной математики вкуса](https://habr.com/ru/articles/1027876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027876)
 - [Пишем логический калькулятор, лёжа на диване: как Termux и Си заменяют IDE, когда лень вставать](https://habr.com/ru/articles/1027400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027400)
 - [Шрифты для сайтов в России в 2026 году: безопасные варианты, лицензионные риски и фактор Monotype](https://habr.com/ru/articles/1027874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027874)
-- [Kotlin — моя любовь, Java — моя судьба. История одного возвращения](https://habr.com/ru/articles/1027788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027788)
 <!-- BLOG-POST-LIST:END -->
 
 ---
