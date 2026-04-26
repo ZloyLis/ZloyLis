@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Shader Language или JSSL](https://habr.com/ru/articles/1028234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028234)
+- [Поиск решений управляемый данными. Направления развития](https://habr.com/ru/articles/1028230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028230)
 - [Поиск решений управляемый данными. Клиент-серверная архитектура и WEB](https://habr.com/ru/articles/1028206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028206)
 - [От выявления фальшивок до тонкостей комплаенса: чему банки обучали сотрудников с XVIIв. до наших дней — и при чем тут ИИ](https://habr.com/ru/companies/mkb/articles/1028200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028200)
 - [Биологический квайн: программа из 75 букв ДНК, которая копирует сама себя](https://habr.com/ru/articles/1028184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028184)
-- [Как возникает реальность? Новая математическая модель. Сравнение с другими теориями](https://habr.com/ru/articles/1025424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025424)
-- [Динамический ресайзинг изображений &lpar;Image Previewer&rpar;](https://habr.com/ru/articles/1028140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028140)
 <!-- BLOG-POST-LIST:END -->
 
 ---
