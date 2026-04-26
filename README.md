@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я пришёл в аналитику, устроился в бигтех и понял, что только на рабочих задачах у меня не получится расти](https://habr.com/ru/companies/yandex_praktikum/articles/1027416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027416)
+- [Проектируем сервис HTTP-запросов: Kafka, PostgreSQL, Redis-очередь и миллионы логических партиций](https://habr.com/ru/articles/1028010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028010)
+- [Итерация 0 закрыта: от спеки до «Привет» в боте](https://habr.com/ru/articles/1027996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027996)
 - [Давайте объединим линейную и геометрическую алгебры. Часть 2. Матрица Якоби](https://habr.com/ru/articles/1027942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027942)
 - [Gemini перестал работать с VPN. Что делать?](https://habr.com/ru/articles/1027994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027994)
-- [Деконструкция GO: CPU, RAM и что там происходит. Системные вызовы. Часть 1.5](https://habr.com/ru/articles/1027988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027988)
-- [Как я автоматизировал ведение финансов в Obsidian. Часть 1](https://habr.com/ru/articles/1027958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027958)
-- [StaticECS — Bitmap Entity Component System](https://habr.com/ru/articles/1027940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027940)
 <!-- BLOG-POST-LIST:END -->
 
 ---
