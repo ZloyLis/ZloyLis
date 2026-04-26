@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Эмулятор Qemu | Установка и настройка](https://habr.com/ru/articles/1028038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028038)
+- [Перенос данных из отчетов 1С в PostgreSQL в два клика](https://habr.com/ru/articles/1028016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028016)
 - [Как я пришёл в аналитику, устроился в бигтех и понял, что только на рабочих задачах у меня не получится расти](https://habr.com/ru/companies/yandex_praktikum/articles/1027416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027416)
 - [Проектируем сервис HTTP-запросов: Kafka, PostgreSQL, Redis-очередь и миллионы логических партиций](https://habr.com/ru/articles/1028010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028010)
 - [Итерация 0 закрыта: от спеки до «Привет» в боте](https://habr.com/ru/articles/1027996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027996)
-- [Давайте объединим линейную и геометрическую алгебры. Часть 2. Матрица Якоби](https://habr.com/ru/articles/1027942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027942)
-- [Gemini перестал работать с VPN. Что делать?](https://habr.com/ru/articles/1027994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027994)
 <!-- BLOG-POST-LIST:END -->
 
 ---
