@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [far2l 2.8.0 в Ubuntu 26.04: новые классные фичи](https://habr.com/ru/articles/1028064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028064)
+- [Как не надо писать Store в Pinia &lpar;Vue&rpar;. Разбираем на выдуманном примере](https://habr.com/ru/articles/1028052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028052)
 - [Эмулятор Qemu | Установка и настройка](https://habr.com/ru/articles/1028038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028038)
 - [Перенос данных из отчетов 1С в PostgreSQL в два клика](https://habr.com/ru/articles/1028016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028016)
 - [Как я пришёл в аналитику, устроился в бигтех и понял, что только на рабочих задачах у меня не получится расти](https://habr.com/ru/companies/yandex_praktikum/articles/1027416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027416)
-- [Проектируем сервис HTTP-запросов: Kafka, PostgreSQL, Redis-очередь и миллионы логических партиций](https://habr.com/ru/articles/1028010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028010)
-- [Итерация 0 закрыта: от спеки до «Привет» в боте](https://habr.com/ru/articles/1027996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027996)
 <!-- BLOG-POST-LIST:END -->
 
 ---
