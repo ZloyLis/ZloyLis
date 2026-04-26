@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Неполная занятость после топового вуза привела C++ программиста к преступлению](https://habr.com/ru/articles/1028148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028148)
+- [Динамический ресайзинг изображений &lpar;Image Previewer&rpar;](https://habr.com/ru/articles/1028140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028140)
 - [Аналоги Vercel в России и мире](https://habr.com/ru/companies/amvera/articles/1028136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028136)
 - [Кризис «переходного» возраста в управлении проектами: история преодоления](https://habr.com/ru/companies/kaspersky/articles/1027374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027374)
 - [[Перевод] Знакомство с одним прогоном Mythos применительно к Firefox: а разговоров-то было?](https://habr.com/ru/articles/1028114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028114)
-- [Мобильная разработка за неделю #629 &lpar;20 — 26 апреля&rpar;](https://habr.com/ru/articles/1028094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028094)
-- [Потоковая запись ADC семплов на STM32](https://habr.com/ru/articles/1025090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025090)
 <!-- BLOG-POST-LIST:END -->
 
 ---
