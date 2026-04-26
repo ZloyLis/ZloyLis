@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Потоковая запись ADC семплов на STM32](https://habr.com/ru/articles/1025090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025090)
 - [far2l 2.8.0 в Ubuntu 26.04: новые классные фичи](https://habr.com/ru/articles/1028064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028064)
 - [Как не надо писать Store в Pinia &lpar;Vue&rpar;. Разбираем на выдуманном примере](https://habr.com/ru/articles/1028052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028052)
 - [Эмулятор Qemu | Установка и настройка](https://habr.com/ru/articles/1028038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028038)
 - [Перенос данных из отчетов 1С в PostgreSQL в два клика](https://habr.com/ru/articles/1028016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028016)
-- [Как я пришёл в аналитику, устроился в бигтех и понял, что только на рабочих задачах у меня не получится расти](https://habr.com/ru/companies/yandex_praktikum/articles/1027416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027416)
 <!-- BLOG-POST-LIST:END -->
 
 ---
