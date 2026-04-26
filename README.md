@@ -35,9 +35,9 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Давайте объединим линейную и геометрическую алгебры. Часть 2. Матрица Якоби](https://habr.com/ru/articles/1027942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027942)
 - [Gemini перестал работать с VPN. Что делать?](https://habr.com/ru/articles/1027994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027994)
 - [Деконструкция GO: CPU, RAM и что там происходит. Системные вызовы. Часть 1.5](https://habr.com/ru/articles/1027988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027988)
-- [NFC на iPhone в России: хроники инженерного поиска и стадии технического торга](https://habr.com/ru/articles/1027964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027964)
 - [Как я автоматизировал ведение финансов в Obsidian. Часть 1](https://habr.com/ru/articles/1027958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027958)
 - [StaticECS — Bitmap Entity Component System](https://habr.com/ru/articles/1027940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027940)
 <!-- BLOG-POST-LIST:END -->
