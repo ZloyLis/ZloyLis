@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему диффузия рисует швы на 40-мегапиксельных фото и как сделать тайлы с памятью](https://habr.com/ru/articles/1028252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028252)
 - [hh выкатил фичу, которая убьет ваши отклики и найм окончательно](https://habr.com/ru/articles/1028248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028248)
 - [Как я, видео-монтажер, создал собственный видеоредактор](https://habr.com/ru/articles/1028240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028240)
 - [JavaScript Shader Language или JSSL](https://habr.com/ru/articles/1028234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028234)
 - [Поиск решений управляемый данными. Направления развития](https://habr.com/ru/articles/1028230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028230)
-- [Поиск решений управляемый данными. Клиент-серверная архитектура и WEB](https://habr.com/ru/articles/1028206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028206)
 <!-- BLOG-POST-LIST:END -->
 
 ---
