@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как Gemini CLI поймал у моего Claude Code критическую дыру в paywall за 30 секунд](https://habr.com/ru/articles/1028104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028104)
+- [Аналоги Vercel в России и мире](https://habr.com/ru/companies/amvera/articles/1028136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028136)
+- [Кризис «переходного» возраста в управлении проектами: история преодоления](https://habr.com/ru/companies/kaspersky/articles/1027374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027374)
+- [[Перевод] Знакомство с одним прогоном Mythos применительно к Firefox: а разговоров-то было?](https://habr.com/ru/articles/1028114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028114)
 - [Мобильная разработка за неделю #629 &lpar;20 — 26 апреля&rpar;](https://habr.com/ru/articles/1028094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028094)
 - [Потоковая запись ADC семплов на STM32](https://habr.com/ru/articles/1025090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025090)
-- [far2l 2.8.0 в Ubuntu 26.04: новые классные фичи](https://habr.com/ru/articles/1028064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028064)
-- [Как не надо писать Store в Pinia &lpar;Vue&rpar;. Разбираем на выдуманном примере](https://habr.com/ru/articles/1028052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028052)
 <!-- BLOG-POST-LIST:END -->
 
 ---
