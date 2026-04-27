@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [SDD на масштабе FullStack-приложения: 17 спринтов, две конституции, три чата](https://habr.com/ru/articles/1027886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027886)
-- [Как я построил кеш страниц для многодоменного проекта с помощью PVC и кастомного подхода](https://habr.com/ru/articles/1028314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028314)
-- [Подготовка контекста C++ проекта для эффективного взаимодействия с языковой моделью в режиме чат-кодинга](https://habr.com/ru/articles/1010446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010446)
-- [Иди слепо к своей цели, но будь готов упасть лицом в грязь](https://habr.com/ru/articles/1027812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027812)
-- [Неизменяемая архитектура. Практическая проверка кодом. Аутентификация](https://habr.com/ru/articles/1028300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028300)
+- [Как 2ГИС адаптируется к проблемам с позиционированием](https://habr.com/ru/companies/2gis/articles/1028348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028348)
+- [[Перевод] Структуры данных на практике. Глава 13: Структуры данных без блокировок](https://habr.com/ru/articles/1021408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021408)
+- [Python SDK для Битрикс24: основные возможности и история создания с использованием Битрикс24 MCP-сервера](https://habr.com/ru/companies/bitrix/articles/1024372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024372)
+- [Человек-команда в роли Эйса Вентуры: как с помощью no-code и ИИ собрать простую заявочную систему](https://habr.com/ru/companies/ru_mts/articles/1026628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026628)
+- [Cursor — всё? Почему отдельный ИИ-редактор перестаёт быть нужен](https://habr.com/ru/articles/1028362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028362)
 <!-- BLOG-POST-LIST:END -->
 
 ---
