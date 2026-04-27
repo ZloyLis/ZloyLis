@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что происходит с QA в 2026 году: результаты опроса 800+ специалистов](https://habr.com/ru/companies/avito/articles/1026786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026786)
 - [Можно ли вычислить всё? О Гёделе, Тьюринге и программировании](https://habr.com/ru/articles/1028638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028638)
 - [oosmetrics.com — когда публикация на строннем сайте может навредить вашему проекту](https://habr.com/ru/articles/1028644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028644)
 - [[Перевод] Арифметика резкого повышения продуктивности: почему «рост на 40%» — это почти всегда неправда?](https://habr.com/ru/companies/wunderfund/articles/1028642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028642)
 - [Баги n8n v4.4 и загрузка файлов в VK API: лечим ERR_UPLOAD_BAD_SIGNATURE и потерю метаданных](https://habr.com/ru/articles/1028630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028630)
-- [Анализируем финансовые рынки с помощью Python](https://habr.com/ru/companies/otus/articles/1026746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026746)
 <!-- BLOG-POST-LIST:END -->
 
 ---
