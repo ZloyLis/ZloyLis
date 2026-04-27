@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech-таланты, реальные кейсы и хардкор](https://habr.com/ru/companies/vtb/articles/1028812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028812)
+- [Как я переписал проект за неделю вместо трёх месяцев](https://habr.com/ru/articles/1028804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028804)
 - [Как навести порядок в запросах Laravel с помощью кастомных Query Builders](https://habr.com/ru/articles/1025214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025214)
 - [Как я в 15 лет написал российскую социальную сеть с нуля — и что из этого вышло](https://habr.com/ru/articles/1028768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028768)
 - [«Прогеры» или «Битва Големов v4.0»? Сравниваем две настольные игры, обучающие детей основам кода и робототехники](https://habr.com/ru/articles/1028760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028760)
-- [[Перевод] Как Cursor с Claude Opus снёс продакшен базу данных за 9 секунд](https://habr.com/ru/articles/1028758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028758)
-- [Frontend Status: свежий дайджест фронтенда и AI — 27.04.2026](https://habr.com/ru/articles/1028734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028734)
 <!-- BLOG-POST-LIST:END -->
 
 ---
