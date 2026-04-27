@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [SDD на масштабе FullStack-приложения: 17 спринтов, две конституции, три чата](https://habr.com/ru/articles/1027886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027886)
+- [Как я построил кеш страниц для многодоменного проекта с помощью PVC и кастомного подхода](https://habr.com/ru/articles/1028314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028314)
+- [Подготовка контекста C++ проекта для эффективного взаимодействия с языковой моделью в режиме чат-кодинга](https://habr.com/ru/articles/1010446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1010446)
+- [Иди слепо к своей цели, но будь готов упасть лицом в грязь](https://habr.com/ru/articles/1027812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027812)
 - [Неизменяемая архитектура. Практическая проверка кодом. Аутентификация](https://habr.com/ru/articles/1028300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028300)
-- [Почему RBAC недостаточно: опыт построения тарифно-зависимой системы доступа в SaaS или о чём молчат в статьях компаний](https://habr.com/ru/articles/1028298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028298)
-- [Возвращение блудного программиста &lpar;ч.2&rpar;](https://habr.com/ru/articles/1028282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028282)
-- [От написания промптов к проектированию контекста. Или один очень обширный материал по Context Engineering](https://habr.com/ru/articles/1028260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028260)
-- [Почему диффузия рисует швы на 40-мегапиксельных фото и как сделать тайлы с памятью](https://habr.com/ru/articles/1028252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028252)
 <!-- BLOG-POST-LIST:END -->
 
 ---
