@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как 2ГИС адаптируется к проблемам с позиционированием](https://habr.com/ru/companies/2gis/articles/1028348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028348)
-- [[Перевод] Структуры данных на практике. Глава 13: Структуры данных без блокировок](https://habr.com/ru/articles/1021408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021408)
-- [Python SDK для Битрикс24: основные возможности и история создания с использованием Битрикс24 MCP-сервера](https://habr.com/ru/companies/bitrix/articles/1024372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024372)
-- [Человек-команда в роли Эйса Вентуры: как с помощью no-code и ИИ собрать простую заявочную систему](https://habr.com/ru/companies/ru_mts/articles/1026628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026628)
-- [Cursor — всё? Почему отдельный ИИ-редактор перестаёт быть нужен](https://habr.com/ru/articles/1028362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028362)
+- [Алиса в вашем умном доме. Или Маруся. Или Салют](https://habr.com/ru/articles/1028556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028556)
+- [С чего начинается Родина для ИИ? Мы строим российскую когнитивную архитектуру](https://habr.com/ru/articles/1028548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028548)
+- [Mode collapse в авто-блоге: четыре пятницы подряд LLM приносила нам один и тот же «спорный вопрос про ИИ»](https://habr.com/ru/articles/1028536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028536)
+- [Коммуникабельность, адаптивность и навык выступлений: какие софты помогут вырасти в зарплате на 30%](https://habr.com/ru/companies/habr_career/articles/1028490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028490)
+- [Senior на бумаге, Junior в рантайме: как я тестировал локальные LLM на 120B параметров в Greenfield-проекте](https://habr.com/ru/companies/airi/articles/1026954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026954)
 <!-- BLOG-POST-LIST:END -->
 
 ---
