@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Frontend Status: свежий дайджест фронтенда и AI — 27.04.2026](https://habr.com/ru/articles/1028734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028734)
+- [Security Week 2618: чтение переписки в Signal через нотификации в iOS](https://habr.com/ru/companies/kaspersky/articles/1028498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028498)
+- [At-least-once. Это не баг провайдера. Это ваша архитектурная проблема](https://habr.com/ru/articles/1028708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028708)
 - [Что происходит с QA в 2026 году: результаты опроса 800+ специалистов](https://habr.com/ru/companies/avito/articles/1026786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026786)
 - [Можно ли вычислить всё? О Гёделе, Тьюринге и программировании](https://habr.com/ru/articles/1028638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028638)
-- [oosmetrics.com — когда публикация на строннем сайте может навредить вашему проекту](https://habr.com/ru/articles/1028644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028644)
-- [[Перевод] Арифметика резкого повышения продуктивности: почему «рост на 40%» — это почти всегда неправда?](https://habr.com/ru/companies/wunderfund/articles/1028642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028642)
-- [Баги n8n v4.4 и загрузка файлов в VK API: лечим ERR_UPLOAD_BAD_SIGNATURE и потерю метаданных](https://habr.com/ru/articles/1028630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028630)
 <!-- BLOG-POST-LIST:END -->
 
 ---
