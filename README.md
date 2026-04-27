@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как навести порядок в запросах Laravel с помощью кастомных Query Builders](https://habr.com/ru/articles/1025214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025214)
+- [Как я в 15 лет написал российскую социальную сеть с нуля — и что из этого вышло](https://habr.com/ru/articles/1028768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028768)
+- [«Прогеры» или «Битва Големов v4.0»? Сравниваем две настольные игры, обучающие детей основам кода и робототехники](https://habr.com/ru/articles/1028760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028760)
+- [[Перевод] Как Cursor с Claude Opus снёс продакшен базу данных за 9 секунд](https://habr.com/ru/articles/1028758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028758)
 - [Frontend Status: свежий дайджест фронтенда и AI — 27.04.2026](https://habr.com/ru/articles/1028734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028734)
-- [Security Week 2618: чтение переписки в Signal через нотификации в iOS](https://habr.com/ru/companies/kaspersky/articles/1028498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028498)
-- [At-least-once. Это не баг провайдера. Это ваша архитектурная проблема](https://habr.com/ru/articles/1028708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028708)
-- [Что происходит с QA в 2026 году: результаты опроса 800+ специалистов](https://habr.com/ru/companies/avito/articles/1026786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026786)
-- [Можно ли вычислить всё? О Гёделе, Тьюринге и программировании](https://habr.com/ru/articles/1028638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028638)
 <!-- BLOG-POST-LIST:END -->
 
 ---
