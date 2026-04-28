@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Методы оценки эффективности сменного персонала на промышленных предприятиях](https://habr.com/ru/articles/1028944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028944)
-- [Геометрические фигуры в CSS-анимации](https://habr.com/ru/companies/ruvds/articles/1026148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026148)
-- [Как мы написали UI-тесты для ИИ-агента внутри JetBrains IDE](https://habr.com/ru/companies/veai/articles/1028756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028756)
-- [Лучшие иностранные eSIM для путешествий заграницу](https://habr.com/ru/companies/paybeam/articles/1028146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028146)
-- [Можно ли запустить корпоративную BI+ETL-систему за 1,5 млн рублей? Часть 4: Biplane24](https://habr.com/ru/companies/w_code/articles/1028952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028952)
+- [Чего не хватает в С++](https://habr.com/ru/articles/1029072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029072)
+- [$180 за три дня: история про архитектора, Cursor и пакет орешков](https://habr.com/ru/companies/simpleone/articles/1029070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029070)
+- [Froggle — фича-флаги без боли](https://habr.com/ru/articles/1029024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029024)
+- [Рекомендательные системы для бизнеса — мой опыт разработчика](https://habr.com/ru/articles/1019070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019070)
+- [Топ вопросов по математике для ML и Data Science собесов: линейная алгебра и матан](https://habr.com/ru/articles/1019194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019194)
 <!-- BLOG-POST-LIST:END -->
 
 ---
