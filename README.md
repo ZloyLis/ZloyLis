@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я добавил в браузерного AI-агента поддержку MCP за вечер](https://habr.com/ru/articles/1029300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029300)
+- [Экстремально чистый код](https://habr.com/ru/articles/1028080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028080)
 - [SpaceX покупает Cursor, а Claude Mythos слили, угадав URL](https://habr.com/ru/companies/haulmont/articles/1029154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029154)
 - [Разработка под Kubernetes: локально всё работает, в проде — нет. Кейс с Tetragon и eBPF](https://habr.com/ru/companies/ctsg/articles/1016326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016326)
 - [Пробный экзамен в ШАД](https://habr.com/ru/articles/1028428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028428)
-- [Задание 7 ЕГЭ по информатике: разбираем базу по кодированию изображений с нуля](https://habr.com/ru/articles/1029206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029206)
-- [Как я написал лучшее приложение для изучения иностранных языков с помощью SFSpeechRecognizer &lpar;нет&rpar;](https://habr.com/ru/articles/1029188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029188)
 <!-- BLOG-POST-LIST:END -->
 
 ---
