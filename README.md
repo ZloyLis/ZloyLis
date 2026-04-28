@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я написал движок распознавания лиц на C, который обогнал ONNX Runtime](https://habr.com/ru/articles/1029338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029338)
+- [Вся ваша жизнь помещается в 4000 клеток. Добавим GitHub‑коммиты, среднюю продолжительность жизни и 21 фактор смертности](https://habr.com/ru/articles/1020610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020610)
 - [Как я добавил в браузерного AI-агента поддержку MCP за вечер](https://habr.com/ru/articles/1029300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029300)
 - [Экстремально чистый код](https://habr.com/ru/articles/1028080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028080)
 - [SpaceX покупает Cursor, а Claude Mythos слили, угадав URL](https://habr.com/ru/companies/haulmont/articles/1029154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029154)
-- [Разработка под Kubernetes: локально всё работает, в проде — нет. Кейс с Tetragon и eBPF](https://habr.com/ru/companies/ctsg/articles/1016326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016326)
-- [Пробный экзамен в ШАД](https://habr.com/ru/articles/1028428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028428)
 <!-- BLOG-POST-LIST:END -->
 
 ---
