@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Чего не хватает в С++](https://habr.com/ru/articles/1029072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029072)
-- [$180 за три дня: история про архитектора, Cursor и пакет орешков](https://habr.com/ru/companies/simpleone/articles/1029070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029070)
-- [Froggle — фича-флаги без боли](https://habr.com/ru/articles/1029024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029024)
-- [Рекомендательные системы для бизнеса — мой опыт разработчика](https://habr.com/ru/articles/1019070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019070)
-- [Топ вопросов по математике для ML и Data Science собесов: линейная алгебра и матан](https://habr.com/ru/articles/1019194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019194)
+- [SpaceX покупает Cursor, а Claude Mythos слили, угадав URL](https://habr.com/ru/companies/haulmont/articles/1029154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029154)
+- [Разработка под Kubernetes: локально всё работает, в проде — нет. Кейс с Tetragon и eBPF](https://habr.com/ru/companies/ctsg/articles/1016326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016326)
+- [Пробный экзамен в ШАД](https://habr.com/ru/articles/1028428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028428)
+- [Задание 7 ЕГЭ по информатике: разбираем базу по кодированию изображений с нуля](https://habr.com/ru/articles/1029206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029206)
+- [Как я написал лучшее приложение для изучения иностранных языков с помощью SFSpeechRecognizer &lpar;нет&rpar;](https://habr.com/ru/articles/1029188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029188)
 <!-- BLOG-POST-LIST:END -->
 
 ---
