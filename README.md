@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как использовать Rust внутри приложений на .NET MAUI](https://habr.com/ru/articles/1028322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028322)
+- [Я думал, что просто не могу найти себя — пока не разобрался, как на самом деле работает СДВГ](https://habr.com/ru/articles/1028814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028814)
+- [От MinIO к SeaweedFS: опыт замены S3-хранилища](https://habr.com/ru/companies/dbraincloud/articles/1028694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028694)
+- [От workslop к реальной пользе: как я выбрал и настроил ИИ-агента для Go-разработки &lpar;инструкции, конфиги, рекомендации&rpar;](https://habr.com/ru/companies/flant/articles/1021154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021154)
 - [Tech-таланты, реальные кейсы и хардкор](https://habr.com/ru/companies/vtb/articles/1028812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028812)
-- [Как я переписал проект за неделю вместо трёх месяцев](https://habr.com/ru/articles/1028804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028804)
-- [Как навести порядок в запросах Laravel с помощью кастомных Query Builders](https://habr.com/ru/articles/1025214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025214)
-- [Как я в 15 лет написал российскую социальную сеть с нуля — и что из этого вышло](https://habr.com/ru/articles/1028768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028768)
-- [«Прогеры» или «Битва Големов v4.0»? Сравниваем две настольные игры, обучающие детей основам кода и робототехники](https://habr.com/ru/articles/1028760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028760)
 <!-- BLOG-POST-LIST:END -->
 
 ---
