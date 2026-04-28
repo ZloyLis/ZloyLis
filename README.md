@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как использовать Rust внутри приложений на .NET MAUI](https://habr.com/ru/articles/1028322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028322)
-- [Я думал, что просто не могу найти себя — пока не разобрался, как на самом деле работает СДВГ](https://habr.com/ru/articles/1028814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028814)
-- [От MinIO к SeaweedFS: опыт замены S3-хранилища](https://habr.com/ru/companies/dbraincloud/articles/1028694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028694)
-- [От workslop к реальной пользе: как я выбрал и настроил ИИ-агента для Go-разработки &lpar;инструкции, конфиги, рекомендации&rpar;](https://habr.com/ru/companies/flant/articles/1021154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1021154)
-- [Tech-таланты, реальные кейсы и хардкор](https://habr.com/ru/companies/vtb/articles/1028812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028812)
+- [Методы оценки эффективности сменного персонала на промышленных предприятиях](https://habr.com/ru/articles/1028944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028944)
+- [Геометрические фигуры в CSS-анимации](https://habr.com/ru/companies/ruvds/articles/1026148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026148)
+- [Как мы написали UI-тесты для ИИ-агента внутри JetBrains IDE](https://habr.com/ru/companies/veai/articles/1028756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028756)
+- [Лучшие иностранные eSIM для путешествий заграницу](https://habr.com/ru/companies/paybeam/articles/1028146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028146)
+- [Можно ли запустить корпоративную BI+ETL-систему за 1,5 млн рублей? Часть 4: Biplane24](https://habr.com/ru/companies/w_code/articles/1028952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028952)
 <!-- BLOG-POST-LIST:END -->
 
 ---
