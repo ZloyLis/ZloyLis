@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Большие пул-реквесты пропускают больше багов — разбираемся, правда или миф](https://habr.com/ru/companies/ispsystem/articles/1029362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029362)
-- [Вышел рекомпилятор MegaDriveRecomp](https://habr.com/ru/articles/1029360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029360)
-- [Как использовать GitHub Actions и настроить интеграцию с PyPI для Python-проектов](https://habr.com/ru/articles/1029354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029354)
-- [Как я написал движок распознавания лиц на C, который обогнал ONNX Runtime](https://habr.com/ru/articles/1029338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029338)
-- [Вся ваша жизнь помещается в 4000 клеток. Добавим GitHub‑коммиты, среднюю продолжительность жизни и 21 фактор смертности](https://habr.com/ru/articles/1020610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020610)
+- [Как оценить мотивацию за 5 минут и сделать сотрудника счастливым](https://habr.com/ru/companies/ecom_tech/articles/1027448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027448)
+- [Обрезка большой 1С. Обрезать или не обрезать?](https://habr.com/ru/companies/softpoint/articles/1029472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029472)
+- [Больно ли переходить из Telegram в МАКС?](https://habr.com/ru/articles/1029468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029468)
+- [Renga STDL: Армирование](https://habr.com/ru/companies/ascon/articles/1027540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027540)
+- [Курсы в IT до 15 000 рублей и сколько зарабатывают разные специалисты](https://habr.com/ru/companies/habr_career/articles/1029456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029456)
 <!-- BLOG-POST-LIST:END -->
 
 ---
