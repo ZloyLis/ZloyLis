@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Большие пул-реквесты пропускают больше багов — разбираемся, правда или миф](https://habr.com/ru/companies/ispsystem/articles/1029362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029362)
+- [Вышел рекомпилятор MegaDriveRecomp](https://habr.com/ru/articles/1029360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029360)
+- [Как использовать GitHub Actions и настроить интеграцию с PyPI для Python-проектов](https://habr.com/ru/articles/1029354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029354)
 - [Как я написал движок распознавания лиц на C, который обогнал ONNX Runtime](https://habr.com/ru/articles/1029338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029338)
 - [Вся ваша жизнь помещается в 4000 клеток. Добавим GitHub‑коммиты, среднюю продолжительность жизни и 21 фактор смертности](https://habr.com/ru/articles/1020610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020610)
-- [Как я добавил в браузерного AI-агента поддержку MCP за вечер](https://habr.com/ru/articles/1029300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029300)
-- [Экстремально чистый код](https://habr.com/ru/articles/1028080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028080)
-- [SpaceX покупает Cursor, а Claude Mythos слили, угадав URL](https://habr.com/ru/companies/haulmont/articles/1029154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029154)
 <!-- BLOG-POST-LIST:END -->
 
 ---
