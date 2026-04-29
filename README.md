@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [10 актуальных RAG-подходов: какие реально полезны и когда их применять?](https://habr.com/ru/articles/1029616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029616)
-- [Делаем мини-CRM в MWS Tables с СМС-уведомлениями через МТС Exolve](https://habr.com/ru/companies/ru_mts/articles/1029264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029264)
-- [Тонкости Kafka Connect и Debezium](https://habr.com/ru/companies/magnit/articles/1029124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029124)
-- [Безопасность приложений на Typescript от А до Я: гайд по защите от очевидных и не очень уязвимостей](https://habr.com/ru/articles/1029598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029598)
-- [Рабочее место не-вайбкодера по методу Spec-Driven Development: запускаем Claude Code](https://habr.com/ru/companies/yadro/articles/1029288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029288)
+- [Возвращение блудного программиста &lpar;ч.3&rpar;](https://habr.com/ru/articles/1029736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029736)
+- [OpenWebUI: System Prompt vs Skills vs MCP Tools — разбираем на живом примере валидации URL](https://habr.com/ru/companies/hostkey/articles/1029730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029730)
+- [О баллистической кривой](https://habr.com/ru/articles/1029708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029708)
+- [Доверяй но проверяй: как проверить качество энтерпрайзных модификаций PostgreSQL на стороне клиента](https://habr.com/ru/companies/tantor/articles/1029164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029164)
+- [Синдром вечного пилота: почему автоматизация склада стоит на паузе уже три года](https://habr.com/ru/companies/intekey/articles/1029672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029672)
 <!-- BLOG-POST-LIST:END -->
 
 ---
