@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как оценить мотивацию за 5 минут и сделать сотрудника счастливым](https://habr.com/ru/companies/ecom_tech/articles/1027448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027448)
-- [Обрезка большой 1С. Обрезать или не обрезать?](https://habr.com/ru/companies/softpoint/articles/1029472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029472)
-- [Больно ли переходить из Telegram в МАКС?](https://habr.com/ru/articles/1029468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029468)
-- [Renga STDL: Армирование](https://habr.com/ru/companies/ascon/articles/1027540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027540)
-- [Курсы в IT до 15 000 рублей и сколько зарабатывают разные специалисты](https://habr.com/ru/companies/habr_career/articles/1029456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029456)
+- [Скрытая цена JSONB в PostgreSQL: что происходит при обновлении больших документов](https://habr.com/ru/companies/ppr/articles/1029554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029554)
+- [Пишем прототип ИИ-агента для EdTech-саппорта без векторных баз и фреймворков: чистый Python, Gemini и JSON](https://habr.com/ru/articles/1029542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029542)
+- [Kotlin IR Compiler Plugin в дизайн-системе: автотесты с Compose без ручной разметки](https://habr.com/ru/companies/bcs_company/articles/1029496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029496)
+- [Федеративное обучение в условиях дефицита памяти на Edge-устройствах. Часть 2](https://habr.com/ru/companies/oleg-bunin/articles/1009674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009674)
+- [Как оценить мотивацию за 5 минут и сделать сотрудника счастливым](https://habr.com/ru/companies/oleg-bunin/articles/1027448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027448)
 <!-- BLOG-POST-LIST:END -->
 
 ---
