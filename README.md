@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Scene not Graph](https://habr.com/ru/articles/1029176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029176)
 - [«ECS — like» вектор на с++](https://habr.com/ru/articles/1029802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029802)
 - [Я просил Claude перестать мне льстить. 16 апреля получил. Беру свои слова назад](https://habr.com/ru/articles/1029796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029796)
 - [Пять координат ценности продукта: разбор Trust &amp;amp; Safety Циана](https://habr.com/ru/articles/1029794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029794)
 - [50 оттенков порока: за что команды ненавидят тимлидов](https://habr.com/ru/companies/avito/articles/1029328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029328)
-- [Спецификация, ворота, метрики: как SENAR закрывает вход и выход задачи](https://habr.com/ru/articles/1029764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029764)
 <!-- BLOG-POST-LIST:END -->
 
 ---
