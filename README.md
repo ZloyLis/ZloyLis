@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Часть I. Конечные автоматы. Универсальная машина Тьюринга. Интерпретатор Brainfuck](https://habr.com/ru/articles/1029848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029848)
+- [Сейчас сделаю приложение и заработаю на нем. АХАХАХАХАХ, удачи](https://habr.com/ru/articles/1029348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029348)
 - [Scene not Graph](https://habr.com/ru/articles/1029176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029176)
 - [«ECS — like» вектор на с++](https://habr.com/ru/articles/1029802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029802)
 - [Я просил Claude перестать мне льстить. 16 апреля получил. Беру свои слова назад](https://habr.com/ru/articles/1029796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029796)
-- [Пять координат ценности продукта: разбор Trust &amp;amp; Safety Циана](https://habr.com/ru/articles/1029794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029794)
-- [50 оттенков порока: за что команды ненавидят тимлидов](https://habr.com/ru/companies/avito/articles/1029328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029328)
 <!-- BLOG-POST-LIST:END -->
 
 ---
