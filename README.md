@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Скрытая цена JSONB в PostgreSQL: что происходит при обновлении больших документов](https://habr.com/ru/companies/ppr/articles/1029554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029554)
-- [Пишем прототип ИИ-агента для EdTech-саппорта без векторных баз и фреймворков: чистый Python, Gemini и JSON](https://habr.com/ru/articles/1029542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029542)
-- [Kotlin IR Compiler Plugin в дизайн-системе: автотесты с Compose без ручной разметки](https://habr.com/ru/companies/bcs_company/articles/1029496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029496)
-- [Федеративное обучение в условиях дефицита памяти на Edge-устройствах. Часть 2](https://habr.com/ru/companies/oleg-bunin/articles/1009674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1009674)
-- [Как оценить мотивацию за 5 минут и сделать сотрудника счастливым](https://habr.com/ru/companies/oleg-bunin/articles/1027448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027448)
+- [10 актуальных RAG-подходов: какие реально полезны и когда их применять?](https://habr.com/ru/articles/1029616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029616)
+- [Делаем мини-CRM в MWS Tables с СМС-уведомлениями через МТС Exolve](https://habr.com/ru/companies/ru_mts/articles/1029264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029264)
+- [Тонкости Kafka Connect и Debezium](https://habr.com/ru/companies/magnit/articles/1029124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029124)
+- [Безопасность приложений на Typescript от А до Я: гайд по защите от очевидных и не очень уязвимостей](https://habr.com/ru/articles/1029598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029598)
+- [Рабочее место не-вайбкодера по методу Spec-Driven Development: запускаем Claude Code](https://habr.com/ru/companies/yadro/articles/1029288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029288)
 <!-- BLOG-POST-LIST:END -->
 
 ---
