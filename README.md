@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [С++ с нуля в 2026 году: почему нужно сразу учить C++20 и забыть про дедовские туториалы](https://habr.com/ru/articles/1029884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029884)
-- [ТЗ за 30 минут: как быстро погружаться в новый проект без потери качества](https://habr.com/ru/companies/outlines_tech/articles/1029748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029748)
-- [Теряет ли GitHub доверие индустрии?](https://habr.com/ru/articles/1029840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029840)
-- [Zed 1.0: эпоха Electron-редакторов — всё](https://habr.com/ru/articles/1029854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029854)
-- [Тюнинг Cursor: как я укротил AI-ассистента и радикально снизил счета за токены с помощью MCP-серверов](https://habr.com/ru/articles/1029868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029868)
+- [Профилировщик и Wildfly-клиент для GigaIDE](https://habr.com/ru/companies/sberbank/articles/1027902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027902)
+- [Трудности перевода: как мы назначили контрибьютора тимлидом и чему это нас научило](https://habr.com/ru/companies/vk/articles/1028684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028684)
+- [Простая почти правдоподобная модель траектории полета космического корабля ORION в рамках миссии ARTEMIS-II](https://habr.com/ru/articles/1028096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028096)
+- [Логи, которые реально помогают: как дебажить продакшен-бота](https://habr.com/ru/articles/1029992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029992)
+- [Безошибочная работа с Kafka из Node js. Часть 3 Cтруктура сообщений, когда Kafka не нужна и теряет данные](https://habr.com/ru/articles/1013046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013046)
 <!-- BLOG-POST-LIST:END -->
 
 ---
