@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработка с Obsidian + Claude. Практический гайд](https://habr.com/ru/articles/1030316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030316)
 - [Почему я написал Paginator вместо Paging 3](https://habr.com/ru/articles/1030294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030294)
 - [Wordstat API в Yandex Cloud Search API: разбор endpoints, подводные камни, минимальный Python wrapper &lpar;2026&rpar;](https://habr.com/ru/articles/1030276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030276)
 - [[Перевод] Пять мыслей о возможностях и ограничениях LLM](https://habr.com/ru/articles/1030274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030274)
 - [Месяц утечек у Anthropic, деградация Claude Code, двойное покушение на Альтмана: главные события апреля в ИИ](https://habr.com/ru/companies/magnus-tech/articles/1029798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029798)
-- [Как Claude и Ollama решили мою вечную проблему на Ozon](https://habr.com/ru/articles/1030234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030234)
 <!-- BLOG-POST-LIST:END -->
 
 ---
