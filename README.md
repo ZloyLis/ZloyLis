@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Профилировщик и Wildfly-клиент для GigaIDE](https://habr.com/ru/companies/sberbank/articles/1027902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027902)
-- [Трудности перевода: как мы назначили контрибьютора тимлидом и чему это нас научило](https://habr.com/ru/companies/vk/articles/1028684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028684)
-- [Простая почти правдоподобная модель траектории полета космического корабля ORION в рамках миссии ARTEMIS-II](https://habr.com/ru/articles/1028096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028096)
-- [Логи, которые реально помогают: как дебажить продакшен-бота](https://habr.com/ru/articles/1029992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029992)
-- [Безошибочная работа с Kafka из Node js. Часть 3 Cтруктура сообщений, когда Kafka не нужна и теряет данные](https://habr.com/ru/articles/1013046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1013046)
+- [Unity Builder — как мы победили боль с ручными сборками и написали своё приложение](https://habr.com/ru/articles/1029938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029938)
+- [Как дать AI-агенту не лом, а ключ от браузера: разбираем agent-browser от Vercel](https://habr.com/ru/articles/1029704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029704)
+- [[Перевод] WebAssembly как платформа расширений для Python: ускорение, встраивание и опасные ловушки API](https://habr.com/ru/companies/otus/articles/1030058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030058)
+- [Прощайте, утилитки! ну и свечной заводик на старость…](https://habr.com/ru/articles/1030024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030024)
+- [Продуктовая колористика: сборка тоновых растяжек в примитивах дизайн-систем](https://habr.com/ru/articles/1030018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030018)
 <!-- BLOG-POST-LIST:END -->
 
 ---
