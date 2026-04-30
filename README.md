@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Месяц утечек у Anthropic, деградация Claude Code, двойное покушение на Альтмана: главные события апреля в ИИ](https://habr.com/ru/companies/magnus-tech/articles/1029798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029798)
+- [Как Claude и Ollama решили мою вечную проблему на Ozon](https://habr.com/ru/articles/1030234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030234)
+- [Circuit breaker на Go: пишем свой за 100 строк и разбираем, почему gobreaker работает иначе](https://habr.com/ru/companies/otus/articles/1029182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029182)
 - [45 мегабайт сессий Claude Code, которые ты не видишь](https://habr.com/ru/articles/1030216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030216)
 - [В чем реальная проблема внедрения видеоаналитики на предприятиях?](https://habr.com/ru/articles/1030188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030188)
-- [LOTIS, «Шпионка» и кризис среднего возраста](https://habr.com/ru/articles/1030174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030174)
-- [Попробовали научить AI искать то, чего никто не замечает — слабые рыночные сигналы](https://habr.com/ru/articles/1030160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030160)
-- [[Перевод] System Design: проектируем сервис быстрых знакомств](https://habr.com/ru/articles/1026316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026316)
 <!-- BLOG-POST-LIST:END -->
 
 ---
