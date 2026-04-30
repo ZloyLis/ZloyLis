@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [45 мегабайт сессий Claude Code, которые ты не видишь](https://habr.com/ru/articles/1030216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030216)
+- [В чем реальная проблема внедрения видеоаналитики на предприятиях?](https://habr.com/ru/articles/1030188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030188)
+- [LOTIS, «Шпионка» и кризис среднего возраста](https://habr.com/ru/articles/1030174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030174)
 - [Попробовали научить AI искать то, чего никто не замечает — слабые рыночные сигналы](https://habr.com/ru/articles/1030160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030160)
 - [[Перевод] System Design: проектируем сервис быстрых знакомств](https://habr.com/ru/articles/1026316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026316)
-- [Коллаборация человека и ИИ в Kotlin‑разработке: скрытые практики эффективных команд](https://habr.com/ru/companies/otus/articles/1022118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022118)
-- [Мама, я не вайб-кодер](https://habr.com/ru/articles/1030146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030146)
-- [Xcode Simulator — Ускоряем прогон тестов на CI + Fastlane](https://habr.com/ru/articles/1030150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030150)
 <!-- BLOG-POST-LIST:END -->
 
 ---
