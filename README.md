@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unity Builder — как мы победили боль с ручными сборками и написали своё приложение](https://habr.com/ru/articles/1029938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029938)
-- [Как дать AI-агенту не лом, а ключ от браузера: разбираем agent-browser от Vercel](https://habr.com/ru/articles/1029704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029704)
-- [[Перевод] WebAssembly как платформа расширений для Python: ускорение, встраивание и опасные ловушки API](https://habr.com/ru/companies/otus/articles/1030058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030058)
-- [Прощайте, утилитки! ну и свечной заводик на старость…](https://habr.com/ru/articles/1030024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030024)
-- [Продуктовая колористика: сборка тоновых растяжек в примитивах дизайн-систем](https://habr.com/ru/articles/1030018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030018)
+- [Попробовали научить AI искать то, чего никто не замечает — слабые рыночные сигналы](https://habr.com/ru/articles/1030160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030160)
+- [[Перевод] System Design: проектируем сервис быстрых знакомств](https://habr.com/ru/articles/1026316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026316)
+- [Коллаборация человека и ИИ в Kotlin‑разработке: скрытые практики эффективных команд](https://habr.com/ru/companies/otus/articles/1022118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022118)
+- [Мама, я не вайб-кодер](https://habr.com/ru/articles/1030146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030146)
+- [Xcode Simulator — Ускоряем прогон тестов на CI + Fastlane](https://habr.com/ru/articles/1030150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030150)
 <!-- BLOG-POST-LIST:END -->
 
 ---
