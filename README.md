@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Часть I. Конечные автоматы. Универсальная машина Тьюринга. Интерпретатор Brainfuck](https://habr.com/ru/articles/1029848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029848)
-- [Сейчас сделаю приложение и заработаю на нем. АХАХАХАХАХ, удачи](https://habr.com/ru/articles/1029348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029348)
-- [Scene not Graph](https://habr.com/ru/articles/1029176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029176)
-- [«ECS — like» вектор на с++](https://habr.com/ru/articles/1029802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029802)
-- [Я просил Claude перестать мне льстить. 16 апреля получил. Беру свои слова назад](https://habr.com/ru/articles/1029796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029796)
+- [С++ с нуля в 2026 году: почему нужно сразу учить C++20 и забыть про дедовские туториалы](https://habr.com/ru/articles/1029884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029884)
+- [ТЗ за 30 минут: как быстро погружаться в новый проект без потери качества](https://habr.com/ru/companies/outlines_tech/articles/1029748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029748)
+- [Теряет ли GitHub доверие индустрии?](https://habr.com/ru/articles/1029840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029840)
+- [Zed 1.0: эпоха Electron-редакторов — всё](https://habr.com/ru/articles/1029854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029854)
+- [Тюнинг Cursor: как я укротил AI-ассистента и радикально снизил счета за токены с помощью MCP-серверов](https://habr.com/ru/articles/1029868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029868)
 <!-- BLOG-POST-LIST:END -->
 
 ---
