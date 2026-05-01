@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Простой мониторинг Synology NAS с Grafana и Prometheus](https://habr.com/ru/articles/1030450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030450)
+- [Гайды по nxs-universal-chart v3.0: AI Inference контур на основе KServe](https://habr.com/ru/articles/1030440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030440)
+- [Сначала бизнес, потом юзеры: продуктовый подход к внутренним инструментам на примере PWA-конструктора](https://habr.com/ru/articles/1030434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030434)
 - [Как мы искали адреса регистров в памяти прибора](https://habr.com/ru/articles/1030430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030430)
 - [[Перевод] OfficeAI — виртуальный офис для ваших AI-агентов](https://habr.com/ru/articles/1030424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030424)
-- [63 бесплатных урока мая: от Go и Kubernetes до LLM, ClickHouse и AI-агентов](https://habr.com/ru/companies/otus/articles/1029646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029646)
-- [Эволюция цифрового двойника компании: как управлять изменениями в сложном ИТ-ландшафте](https://habr.com/ru/articles/1030410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030410)
-- [Новый Grok 4.3: как использовать без подписки за 300$ и подключить выгодный API нейросети для бизнеса](https://habr.com/ru/companies/tsnis/articles/1030396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030396)
 <!-- BLOG-POST-LIST:END -->
 
 ---
