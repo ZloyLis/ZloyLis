@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Semantic Spec Compilation &lpar;SSC&rpar;: взгляд на компиляцию человеко-ориентированных Markdown-спецификаций](https://habr.com/ru/articles/1029380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029380)
+- [Дайджест технических новостей, переводов и лонгридов инфослужбы Хабра за апрель 2026 года](https://habr.com/ru/articles/1017834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017834)
 - [Книги заряжающие воду. Как и зачем сформировать доминанту](https://habr.com/ru/articles/1030344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030344)
 - [Типобезопасный HTTP API на TypeScript без кодогенерации: @cleverbrush/server и @cleverbrush/client](https://habr.com/ru/articles/1030342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030342)
 - [Разработка с Obsidian + Claude. Практический гайд](https://habr.com/ru/articles/1030316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030316)
-- [Почему я написал Paginator вместо Paging 3](https://habr.com/ru/articles/1030294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030294)
-- [Wordstat API в Yandex Cloud Search API: разбор endpoints, подводные камни, минимальный Python wrapper &lpar;2026&rpar;](https://habr.com/ru/articles/1030276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030276)
 <!-- BLOG-POST-LIST:END -->
 
 ---
