@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Если у математиков нет идеального фильтра, тогда у философов нет инстины?](https://habr.com/ru/articles/1030374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030374)
+- [Вы неправильно используете clone&lpar;&rpar; в Rust](https://habr.com/ru/companies/otus/articles/1029174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029174)
 - [Semantic Spec Compilation &lpar;SSC&rpar;: взгляд на компиляцию человеко-ориентированных Markdown-спецификаций](https://habr.com/ru/articles/1029380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029380)
 - [Дайджест технических новостей, переводов и лонгридов инфослужбы Хабра за апрель 2026 года](https://habr.com/ru/articles/1017834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017834)
 - [Книги заряжающие воду. Как и зачем сформировать доминанту](https://habr.com/ru/articles/1030344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030344)
-- [Типобезопасный HTTP API на TypeScript без кодогенерации: @cleverbrush/server и @cleverbrush/client](https://habr.com/ru/articles/1030342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030342)
-- [Разработка с Obsidian + Claude. Практический гайд](https://habr.com/ru/articles/1030316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030316)
 <!-- BLOG-POST-LIST:END -->
 
 ---
