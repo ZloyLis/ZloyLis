@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дуров стену не вернул, поэтому я написал свою – агрегатор Telegram-каналов на Telethon](https://habr.com/ru/articles/1030702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030702)
+- [Мы попытались автоматизировать дизайн-систему через ИИ. Не получилось, почти…](https://habr.com/ru/articles/1030696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030696)
 - [Запрещённая математика в твоём autograd: бесконечно малые, дуальные числа и нестандартный анализ](https://habr.com/ru/articles/1030680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030680)
 - [[Перевод] Я создал эмулятор Game Boy на F#](https://habr.com/ru/articles/1030636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030636)
 - [Меня продали как мидла с 4 годами опыта. Мне было 0. Как я выжил и чему научился](https://habr.com/ru/articles/1030598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030598)
-- [Робот, способный создать себя сам. Режим «Инженера» в робототехнике](https://habr.com/ru/articles/1030526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030526)
-- [Кто смотрит ваши видеокамеры?](https://habr.com/ru/companies/speclab/articles/1030580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030580)
 <!-- BLOG-POST-LIST:END -->
 
 ---
