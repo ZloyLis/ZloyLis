@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кто смотрит ваши видеокамеры?](https://habr.com/ru/companies/speclab/articles/1030580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030580)
+- [[Перевод] Что именно я понимаю под промежуточным представлением &lpar;IR&rpar; компилятора](https://habr.com/ru/articles/1030578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030578)
 - [Когда дифференциальных уравнений очень много](https://habr.com/ru/articles/1030518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030518)
 - [Почему Python стал главным помощником Java‑команд](https://habr.com/ru/companies/otus/articles/1022120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022120)
 - [Scala Digest. Выпуск 40](https://habr.com/ru/companies/tbank/articles/1030510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030510)
-- [Baseline: апрель 2026](https://habr.com/ru/articles/1028616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028616)
-- [Карпатый объяснил, почему ваши навыки программирования скоро станут ненужными. Или нет](https://habr.com/ru/articles/1030500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030500)
 <!-- BLOG-POST-LIST:END -->
 
 ---
