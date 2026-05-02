@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему animated SVG не работает во Flutter «как в браузере» — и как я попытался это исправить](https://habr.com/ru/articles/1030722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030722)
+- [Размышления об образовании](https://habr.com/ru/articles/1030720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030720)
+- [Личный опыт: Как я учил языки и написал свою программу для запоминания слов](https://habr.com/ru/articles/1030714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030714)
+- [Браслет для Бони](https://habr.com/ru/articles/1030712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030712)
 - [Дуров стену не вернул, поэтому я написал свою – агрегатор Telegram-каналов на Telethon](https://habr.com/ru/articles/1030702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030702)
-- [Мы попытались автоматизировать дизайн-систему через ИИ. Не получилось, почти…](https://habr.com/ru/articles/1030696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030696)
-- [Запрещённая математика в твоём autograd: бесконечно малые, дуальные числа и нестандартный анализ](https://habr.com/ru/articles/1030680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030680)
-- [[Перевод] Я создал эмулятор Game Boy на F#](https://habr.com/ru/articles/1030636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030636)
-- [Меня продали как мидла с 4 годами опыта. Мне было 0. Как я выжил и чему научился](https://habr.com/ru/articles/1030598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030598)
 <!-- BLOG-POST-LIST:END -->
 
 ---
