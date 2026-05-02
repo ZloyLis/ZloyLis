@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Я создал эмулятор Game Boy на F#](https://habr.com/ru/articles/1030636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030636)
 - [Меня продали как мидла с 4 годами опыта. Мне было 0. Как я выжил и чему научился](https://habr.com/ru/articles/1030598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030598)
 - [Робот, способный создать себя сам. Режим «Инженера» в робототехнике](https://habr.com/ru/articles/1030526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030526)
 - [Кто смотрит ваши видеокамеры?](https://habr.com/ru/companies/speclab/articles/1030580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030580)
 - [[Перевод] Что именно я понимаю под промежуточным представлением &lpar;IR&rpar; компилятора](https://habr.com/ru/articles/1030578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030578)
-- [Когда дифференциальных уравнений очень много](https://habr.com/ru/articles/1030518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030518)
 <!-- BLOG-POST-LIST:END -->
 
 ---
