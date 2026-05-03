@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дерево решений vs граф работ: как я объединила Data Science и JTBD в одном проекте](https://habr.com/ru/articles/1030908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030908)
+- [Как оценить свою компанию перед разговором с инвесторами](https://habr.com/ru/articles/1030904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030904)
 - [Как я перестал терять скилы в Claude Code и превратил ~/.claude в Git-репозиторий](https://habr.com/ru/articles/1030896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030896)
 - [Почему ни ИИ, ни обычный учитель английского не определит уровень CEFR &lpar;от A1 до C2&rpar;](https://habr.com/ru/articles/1030902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030902)
 - [Один разработчик, ноль строк кода — как я построил AI-систему, не умея программировать](https://habr.com/ru/articles/1030890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030890)
-- [От Infinispan до Postgres на 1 ТБ: эволюция кэша поиска отелей](https://habr.com/ru/articles/1030874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030874)
-- [Монорепозиторий — стрем или норм?](https://habr.com/ru/articles/1030864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030864)
 <!-- BLOG-POST-LIST:END -->
 
 ---
