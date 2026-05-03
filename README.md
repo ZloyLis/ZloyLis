@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Я добавил на заблокированный экран macOS красивую обложку текущего трека с адаптивным задним фоном как на iPhone](https://habr.com/ru/articles/1030932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030932)
+- [Я устал от Duolingo и написал себе AI-репетитора. Go, Clean Architecture, 4 LLM-модели — и вот что из этого вышло](https://habr.com/ru/articles/1030928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030928)
 - [Дерево решений vs граф работ: как я объединила Data Science и JTBD в одном проекте](https://habr.com/ru/articles/1030908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030908)
 - [Как оценить свою компанию перед разговором с инвесторами](https://habr.com/ru/articles/1030904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030904)
 - [Как я перестал терять скилы в Claude Code и превратил ~/.claude в Git-репозиторий](https://habr.com/ru/articles/1030896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030896)
-- [Почему ни ИИ, ни обычный учитель английского не определит уровень CEFR &lpar;от A1 до C2&rpar;](https://habr.com/ru/articles/1030902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030902)
-- [Один разработчик, ноль строк кода — как я построил AI-систему, не умея программировать](https://habr.com/ru/articles/1030890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030890)
 <!-- BLOG-POST-LIST:END -->
 
 ---
