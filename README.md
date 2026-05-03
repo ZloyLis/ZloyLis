@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как сделать локальный генератор изображений через ComfyUI](https://habr.com/ru/articles/1030754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030754)
 - [Почему animated SVG не работает во Flutter «как в браузере» — и как я попытался это исправить](https://habr.com/ru/articles/1030722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030722)
 - [Размышления об образовании](https://habr.com/ru/articles/1030720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030720)
 - [Личный опыт: Как я учил языки и написал свою программу для запоминания слов](https://habr.com/ru/articles/1030714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030714)
 - [Браслет для Бони](https://habr.com/ru/articles/1030712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030712)
-- [Дуров стену не вернул, поэтому я написал свою – агрегатор Telegram-каналов на Telethon](https://habr.com/ru/articles/1030702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030702)
 <!-- BLOG-POST-LIST:END -->
 
 ---
