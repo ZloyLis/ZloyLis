@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От Infinispan до Postgres на 1 ТБ: эволюция кэша поиска отелей](https://habr.com/ru/articles/1030874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030874)
 - [Монорепозиторий — стрем или норм?](https://habr.com/ru/articles/1030864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030864)
 - [Как я написал E2EE-мессенджер на Spring Boot и WebCrypto — и почему сервер не видит сообщения](https://habr.com/ru/articles/1030854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030854)
 - [Sony CMD-J7: шедевр инженерной мысли из 2001&#39;ого](https://habr.com/ru/companies/timeweb/articles/1030662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030662)
 - [Хотел протестировать веб-приложение через AI — за три дня собрал свой инструмент](https://habr.com/ru/articles/1030840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030840)
-- [Celery Autoscale: что в лоб — то по лбу?](https://habr.com/ru/articles/1030838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030838)
 <!-- BLOG-POST-LIST:END -->
 
 ---
