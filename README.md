@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Токенная разработка: почему я плачу $200 в месяц, а не $800 за устаревшее железо](https://habr.com/ru/articles/1030678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030678)
+- [Когда pull request выглядит нормальным, но ревью на нём всё равно зависает](https://habr.com/ru/articles/1030810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030810)
 - [GraphCompose: как я приволок ECS из геймдева и снапшот-тесты из фронта в PDF-генерацию на Java](https://habr.com/ru/articles/1030796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030796)
 - [Пять странных гаджетов весны 2026 года: клавиатура с экраном, SSD с ОС и кое-что еще](https://habr.com/ru/companies/ru_mts/articles/1027312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027312)
 - [Понять Big O раз и навсегда](https://habr.com/ru/articles/1030772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030772)
-- [Обновление Paginator с 3.x до 8.x](https://habr.com/ru/articles/1030758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030758)
-- [Как сделать локальный генератор изображений через ComfyUI](https://habr.com/ru/articles/1030754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030754)
 <!-- BLOG-POST-LIST:END -->
 
 ---
