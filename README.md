@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я написал E2EE-мессенджер на Spring Boot и WebCrypto — и почему сервер не видит сообщения](https://habr.com/ru/articles/1030854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030854)
+- [Sony CMD-J7: шедевр инженерной мысли из 2001&#39;ого](https://habr.com/ru/companies/timeweb/articles/1030662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030662)
+- [Хотел протестировать веб-приложение через AI — за три дня собрал свой инструмент](https://habr.com/ru/articles/1030840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030840)
+- [Celery Autoscale: что в лоб — то по лбу?](https://habr.com/ru/articles/1030838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030838)
 - [Моки без боли](https://habr.com/ru/articles/1030834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030834)
-- [Claude Code на автопилоте: субагенты, worktrees и CI/CD](https://habr.com/ru/articles/1030832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030832)
-- [Токенная разработка: почему я плачу $200 в месяц, а не $800 за устаревшее железо](https://habr.com/ru/articles/1030678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030678)
-- [Когда pull request выглядит нормальным, но ревью на нём всё равно зависает](https://habr.com/ru/articles/1030810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030810)
-- [GraphCompose: как я приволок ECS из геймдева и снапшот-тесты из фронта в PDF-генерацию на Java](https://habr.com/ru/articles/1030796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030796)
 <!-- BLOG-POST-LIST:END -->
 
 ---
