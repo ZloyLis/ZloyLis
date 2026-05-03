@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [GraphCompose: как я приволок ECS из геймдева и снапшот-тесты из фронта в PDF-генерацию на Java](https://habr.com/ru/articles/1030796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030796)
+- [Пять странных гаджетов весны 2026 года: клавиатура с экраном, SSD с ОС и кое-что еще](https://habr.com/ru/companies/ru_mts/articles/1027312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027312)
 - [Понять Big O раз и навсегда](https://habr.com/ru/articles/1030772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030772)
 - [Обновление Paginator с 3.x до 8.x](https://habr.com/ru/articles/1030758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030758)
 - [Как сделать локальный генератор изображений через ComfyUI](https://habr.com/ru/articles/1030754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030754)
-- [Почему animated SVG не работает во Flutter «как в браузере» — и как я попытался это исправить](https://habr.com/ru/articles/1030722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030722)
-- [Размышления об образовании](https://habr.com/ru/articles/1030720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030720)
 <!-- BLOG-POST-LIST:END -->
 
 ---
