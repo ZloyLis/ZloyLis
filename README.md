@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [6 онлайн-курсов для 1С-специалистов: поток стартует 15 мая](https://habr.com/ru/companies/infostart/articles/1031376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031376)
+- [Как создать калькулятор для расчёта квадратных уравнений на Python с использованием фреймворка Tkinter](https://habr.com/ru/articles/1031374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031374)
 - [Оркестрация runner-ов на Nomad](https://habr.com/ru/companies/cinimex/articles/1031360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031360)
 - [Иннерсорс: строим культуру открытого кода в большой компании](https://habr.com/ru/companies/tbank/articles/1030098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030098)
 - [Как развернуть Spring Boot в Kubernetes за полчаса: туториал](https://habr.com/ru/companies/otus/articles/1022150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022150)
-- [Оптимизируем JDBC connection pool: гайд по HikariCP 2026. Часть 1: основы и настройка](https://habr.com/ru/articles/1030880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030880)
-- [Конкатенация строк в Java: почему советы 2008 года всё ещё работают — и почему этого уже недостаточно](https://habr.com/ru/articles/1031336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031336)
 <!-- BLOG-POST-LIST:END -->
 
 ---
