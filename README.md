@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как мы сделали SEO-блог из 84 страниц на трёх языках через Claude API: рабочий рецепт и вещи, которые пошли не так](https://habr.com/ru/articles/1031082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031082)
-- [Неизменяемая архитектура. Практическая проверка кодом. Проверка работы с бизнес-процессом](https://habr.com/ru/articles/1031078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031078)
-- [Эдсгер Дейкстра. Человек, который придумал параллельные вычисления](https://habr.com/ru/companies/ruvds/articles/1027578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027578)
-- [Как я создал AI-ассистента для трейдинга на T-Invest API Часть 2: Human-In-The-Loop](https://habr.com/ru/articles/1030892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030892)
-- [Жизненный цикл процесса: как создавать, внедрять и завершать процессы](https://habr.com/ru/companies/oleg-bunin/articles/1012810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012810)
+- [WebMCP. Что скрывается за черновиком стандарта](https://habr.com/ru/articles/1031164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031164)
+- [Как монетизировать пет-проект: документы, платежи, касса](https://habr.com/ru/articles/1031160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031160)
+- [Голосовой агент — это не чатбот с телефоном: 40 часов экономии и $100, сожженные на ботах](https://habr.com/ru/articles/1031148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031148)
+- [Как я Zabbix с LLM дружил в свободное время. Архитектурный обзор взаимодействия с нейросетью. Часть 1 «При чем тут ТЗ»](https://habr.com/ru/articles/1031140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031140)
+- [180к MAU, 43% детей и „филькина грамота“: как я искал уязвимости, а нашёл бизнес-схему](https://habr.com/ru/articles/1030936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030936)
 <!-- BLOG-POST-LIST:END -->
 
 ---
