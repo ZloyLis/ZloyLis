@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Я сделал приложение за вечер без навыков программирования. Зачем теперь разработчики?](https://habr.com/ru/articles/1031410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031410)
+- [Проблема obsidian для студентов или как я написал obsidian export helper](https://habr.com/ru/articles/1031406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031406)
+- [10-пальцевая печать на Французском](https://habr.com/ru/articles/1030900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030900)
+- [Security Week 2619: особенности уязвимости Copy Fail в ядре Linux](https://habr.com/ru/companies/kaspersky/articles/1031202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031202)
 - [6 онлайн-курсов для 1С-специалистов: поток стартует 15 мая](https://habr.com/ru/companies/infostart/articles/1031376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031376)
-- [Как создать калькулятор для расчёта квадратных уравнений на Python с использованием фреймворка Tkinter](https://habr.com/ru/articles/1031374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031374)
-- [Оркестрация runner-ов на Nomad](https://habr.com/ru/companies/cinimex/articles/1031360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031360)
-- [Иннерсорс: строим культуру открытого кода в большой компании](https://habr.com/ru/companies/tbank/articles/1030098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030098)
-- [Как развернуть Spring Boot в Kubernetes за полчаса: туториал](https://habr.com/ru/companies/otus/articles/1022150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022150)
 <!-- BLOG-POST-LIST:END -->
 
 ---
