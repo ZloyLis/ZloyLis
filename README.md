@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [База FinOps: Почему счет за облако каждый месяц растет и что с этим делать](https://habr.com/ru/companies/finops_ru/articles/1031288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031288)
-- [Postgres advisory locks на Neon ломаются от TCP-сброса. История четырёх фиксов retry-логики](https://habr.com/ru/articles/1031236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031236)
-- [Kubernetes: архитектура и абстракции — полный гайд](https://habr.com/ru/companies/otus/articles/1022152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022152)
-- [Shine — C++ Фреймворк для десктоп приложений с использованием React](https://habr.com/ru/articles/1031200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031200)
-- [FastAPI + Docker с нуля: деплоим свой первый API без боли и слез](https://habr.com/ru/articles/1031190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031190)
+- [Оркестрация runner-ов на Nomad](https://habr.com/ru/companies/cinimex/articles/1031360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031360)
+- [Иннерсорс: строим культуру открытого кода в большой компании](https://habr.com/ru/companies/tbank/articles/1030098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030098)
+- [Как развернуть Spring Boot в Kubernetes за полчаса: туториал](https://habr.com/ru/companies/otus/articles/1022150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022150)
+- [Оптимизируем JDBC connection pool: гайд по HikariCP 2026. Часть 1: основы и настройка](https://habr.com/ru/articles/1030880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030880)
+- [Конкатенация строк в Java: почему советы 2008 года всё ещё работают — и почему этого уже недостаточно](https://habr.com/ru/articles/1031336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031336)
 <!-- BLOG-POST-LIST:END -->
 
 ---
