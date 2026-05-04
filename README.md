@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [WebMCP. Что скрывается за черновиком стандарта](https://habr.com/ru/articles/1031164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031164)
-- [Как монетизировать пет-проект: документы, платежи, касса](https://habr.com/ru/articles/1031160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031160)
-- [Голосовой агент — это не чатбот с телефоном: 40 часов экономии и $100, сожженные на ботах](https://habr.com/ru/articles/1031148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031148)
-- [Как я Zabbix с LLM дружил в свободное время. Архитектурный обзор взаимодействия с нейросетью. Часть 1 «При чем тут ТЗ»](https://habr.com/ru/articles/1031140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031140)
-- [180к MAU, 43% детей и „филькина грамота“: как я искал уязвимости, а нашёл бизнес-схему](https://habr.com/ru/articles/1030936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030936)
+- [База FinOps: Почему счет за облако каждый месяц растет и что с этим делать](https://habr.com/ru/companies/finops_ru/articles/1031288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031288)
+- [Postgres advisory locks на Neon ломаются от TCP-сброса. История четырёх фиксов retry-логики](https://habr.com/ru/articles/1031236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031236)
+- [Kubernetes: архитектура и абстракции — полный гайд](https://habr.com/ru/companies/otus/articles/1022152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022152)
+- [Shine — C++ Фреймворк для десктоп приложений с использованием React](https://habr.com/ru/articles/1031200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031200)
+- [FastAPI + Docker с нуля: деплоим свой первый API без боли и слез](https://habr.com/ru/articles/1031190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031190)
 <!-- BLOG-POST-LIST:END -->
 
 ---
