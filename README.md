@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [От Flux CLI к Flux Operator и Status Page](https://habr.com/ru/articles/1030980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030980)
-- [Как сайты собирают цифровой отпечаток пользователя — почему VPN больше не спасает &lpar;О Fingerprinting&rpar;](https://habr.com/ru/articles/1030226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030226)
-- [Юзабилити‑тестирование без иллюзий, или почему технических тестов недостаточно?](https://habr.com/ru/articles/1030978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030978)
-- [Сепаратор для логов. Сжимаем логи для контекста LLM без потери читаемости](https://habr.com/ru/articles/1030964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030964)
-- [Рефакторинг. Что нужно понять в первую очередь](https://habr.com/ru/articles/1030960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030960)
+- [Как мы сделали SEO-блог из 84 страниц на трёх языках через Claude API: рабочий рецепт и вещи, которые пошли не так](https://habr.com/ru/articles/1031082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031082)
+- [Неизменяемая архитектура. Практическая проверка кодом. Проверка работы с бизнес-процессом](https://habr.com/ru/articles/1031078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031078)
+- [Эдсгер Дейкстра. Человек, который придумал параллельные вычисления](https://habr.com/ru/companies/ruvds/articles/1027578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027578)
+- [Как я создал AI-ассистента для трейдинга на T-Invest API Часть 2: Human-In-The-Loop](https://habr.com/ru/articles/1030892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030892)
+- [Жизненный цикл процесса: как создавать, внедрять и завершать процессы](https://habr.com/ru/companies/oleg-bunin/articles/1012810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1012810)
 <!-- BLOG-POST-LIST:END -->
 
 ---
