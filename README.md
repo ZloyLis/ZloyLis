@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Написание конечного автомата для разбора HTML](https://habr.com/ru/articles/1029372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029372)
 - [kubectl describe pod: как читать вывод, в котором Kubernetes уже написал причину](https://habr.com/ru/articles/1031454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031454)
 - [Настройка GitLab CI/CD: понимаем принципы работы и запускаем первый pipeline](https://habr.com/ru/articles/1031452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031452)
 - [Я сделал приложение за вечер без навыков программирования. Зачем теперь разработчики?](https://habr.com/ru/articles/1031410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031410)
 - [Проблема obsidian для студентов или как я написал obsidian export helper](https://habr.com/ru/articles/1031406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031406)
-- [10-пальцевая печать на Французском](https://habr.com/ru/articles/1030900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030900)
 <!-- BLOG-POST-LIST:END -->
 
 ---
