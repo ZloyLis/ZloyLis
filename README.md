@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Универсальный Task для C++20 coroutines: тип результата, политика запуска и владение coroutine state](https://habr.com/ru/articles/1031644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031644)
-- [Как одна OC может запускать приложения из разных миров](https://habr.com/ru/companies/yadro/articles/1029624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029624)
-- [Манипуляции: как распознать и не поддаться](https://habr.com/ru/companies/avito/articles/1031442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031442)
-- [Senior-разработчики как исчезающий вид](https://habr.com/ru/articles/1031324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031324)
-- [Simplphoto для iPhone объединяет ручную камеру, stop motion и коллажи](https://habr.com/ru/articles/1031606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031606)
+- [Красивые страницы ошибок HTTP сервера](https://habr.com/ru/articles/1031834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031834)
+- [«Я починил авторизацию и удалил БД»: краткая история ИИ-агентов](https://habr.com/ru/companies/yandex_praktikum/articles/1031824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031824)
+- [Почему ваше приложение тормозит и как мы это исправили с помощью PowerSync](https://habr.com/ru/articles/1031828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031828)
+- [[Перевод] 10 уроков агентного кодинга. Что делать в эпоху дешёвого кода?](https://habr.com/ru/articles/1031816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031816)
+- [Prism и Premortem](https://habr.com/ru/articles/1031722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031722)
 <!-- BLOG-POST-LIST:END -->
 
 ---
