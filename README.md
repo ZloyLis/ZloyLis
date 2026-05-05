@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему CRM в Битрикс24 тормозит на 50К сделок и что с этим делать](https://habr.com/ru/companies/otus/articles/1029706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029706)
 - [Красивые страницы ошибок HTTP сервера](https://habr.com/ru/articles/1031834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031834)
 - [«Я починил авторизацию и удалил БД»: краткая история ИИ-агентов](https://habr.com/ru/companies/yandex_praktikum/articles/1031824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031824)
 - [Почему ваше приложение тормозит и как мы это исправили с помощью PowerSync](https://habr.com/ru/articles/1031828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031828)
 - [[Перевод] 10 уроков агентного кодинга. Что делать в эпоху дешёвого кода?](https://habr.com/ru/articles/1031816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031816)
-- [Prism и Premortem](https://habr.com/ru/articles/1031722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031722)
 <!-- BLOG-POST-LIST:END -->
 
 ---
