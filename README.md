@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Универсальный Task для C++20 coroutines: тип результата, политика запуска и владение coroutine state](https://habr.com/ru/articles/1031644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031644)
+- [Как одна OC может запускать приложения из разных миров](https://habr.com/ru/companies/yadro/articles/1029624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029624)
 - [Манипуляции: как распознать и не поддаться](https://habr.com/ru/companies/avito/articles/1031442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031442)
 - [Senior-разработчики как исчезающий вид](https://habr.com/ru/articles/1031324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031324)
 - [Simplphoto для iPhone объединяет ручную камеру, stop motion и коллажи](https://habr.com/ru/articles/1031606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031606)
-- [Группировка в PostgreSQL &lpar;на апрель 2026 года&rpar;](https://habr.com/ru/companies/tantor/articles/1031592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031592)
-- [Зря вы забыли эти HTML- и CSS-фичи](https://habr.com/ru/companies/ruvds/articles/1029698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029698)
 <!-- BLOG-POST-LIST:END -->
 
 ---
