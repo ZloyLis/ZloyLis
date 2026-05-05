@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Прокачиваем локальный поиск на Dart и Flutter](https://habr.com/ru/articles/1031212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031212)
-- [ИИ-агенты в инженерной команде: гайд для тимлида, который не хочет получить бунт](https://habr.com/ru/articles/1030314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030314)
-- [[Перевод] Соглашения по именованию в Go: практическое руководство](https://habr.com/ru/companies/otus/articles/1031544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031544)
-- [OpenClaw — №1 пожиратель токенов в мире](https://habr.com/ru/articles/1024332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1024332)
-- [Управление бизнес-процессами в ИТ-проектах по разработке и настройке ПО на основе BPM CBoK](https://habr.com/ru/articles/1031526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031526)
+- [Манипуляции: как распознать и не поддаться](https://habr.com/ru/companies/avito/articles/1031442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031442)
+- [Senior-разработчики как исчезающий вид](https://habr.com/ru/articles/1031324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031324)
+- [Simplphoto для iPhone объединяет ручную камеру, stop motion и коллажи](https://habr.com/ru/articles/1031606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031606)
+- [Группировка в PostgreSQL &lpar;на апрель 2026 года&rpar;](https://habr.com/ru/companies/tantor/articles/1031592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031592)
+- [Зря вы забыли эти HTML- и CSS-фичи](https://habr.com/ru/companies/ruvds/articles/1029698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029698)
 <!-- BLOG-POST-LIST:END -->
 
 ---
