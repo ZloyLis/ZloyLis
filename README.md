@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Повторный обзор курса «Стань DevOps-инженером с нуля» — или как всё стало только лучше](https://habr.com/ru/articles/1032236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032236)
+- [Личная библиотека в Obsidian: книги, цитаты и мысли в одной базе данных](https://habr.com/ru/articles/1032228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032228)
+- [Bug fingerprinting для UI: почему stack trace не работает и что вместо](https://habr.com/ru/articles/1032230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032230)
+- [Как на самом деле устроен кэш в controller-runtime, и почему ваш оператор не кладёт apiserver](https://habr.com/ru/companies/aenix/articles/1031818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031818)
 - [Почему чат‑бот не справляется с юридической работой и чем от него отличается ИИ‑агент](https://habr.com/ru/companies/otus/articles/1031432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031432)
-- [Год с Claude Code: как собрать рабочую конфигурацию с первого запуска](https://habr.com/ru/companies/alpinadigital/articles/1032134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032134)
-- [OneOCR — скрытая OCR внутри Windows 11](https://habr.com/ru/articles/1032188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032188)
-- [Как Runtime Radar помогает обнаруживать атаки на цепочку поставок: кейс LiteLLM](https://habr.com/ru/companies/pt/articles/1025316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025316)
-- [Cursor удалил прод за 9 секунд, а Zig и JVM запретили AI-коммиты](https://habr.com/ru/companies/haulmont/articles/1032174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032174)
 <!-- BLOG-POST-LIST:END -->
 
 ---
