@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Простой поиск имен в С++](https://habr.com/ru/articles/1032114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032114)
-- [Анализируем heap-дампы с прода, не привлекая внимания безопасников](https://habr.com/ru/companies/spring_aio/articles/1031462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031462)
-- [Давайте уже сделаем отдельный хаб: «Я собрал приложение за вечер – зачем теперь разработчики?»](https://habr.com/ru/articles/1032086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032086)
-- [Слои верификации поставщика в агрохолдинге: как работает автоматический скоринг и где он ломается](https://habr.com/ru/articles/1032070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032070)
-- [Java Digest #35](https://habr.com/ru/companies/tbank/articles/1031954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031954)
+- [Почему чат‑бот не справляется с юридической работой и чем от него отличается ИИ‑агент](https://habr.com/ru/companies/otus/articles/1031432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031432)
+- [Год с Claude Code: как собрать рабочую конфигурацию с первого запуска](https://habr.com/ru/companies/alpinadigital/articles/1032134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032134)
+- [OneOCR — скрытая OCR внутри Windows 11](https://habr.com/ru/articles/1032188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032188)
+- [Как Runtime Radar помогает обнаруживать атаки на цепочку поставок: кейс LiteLLM](https://habr.com/ru/companies/pt/articles/1025316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025316)
+- [Cursor удалил прод за 9 секунд, а Zig и JVM запретили AI-коммиты](https://habr.com/ru/companies/haulmont/articles/1032174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032174)
 <!-- BLOG-POST-LIST:END -->
 
 ---
