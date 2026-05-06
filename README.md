@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Имитация 3D-персонажей в 2D-движке](https://habr.com/ru/articles/1030412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030412)
-- [[Перевод] ИИ. ЦПУ против ГПУ — Данные и Выводы](https://habr.com/ru/articles/1032026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032026)
-- [Flappy Bird: код веб-клона под микроскопом](https://habr.com/ru/companies/ruvds/articles/1030144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030144)
-- [Machine Unlearning. Как измерить и достичь «забывания»?](https://habr.com/ru/companies/oleg-bunin/articles/1014692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014692)
-- [Как Monium приручил GC: разбираемся со сборщиками мусора в observability‑платформе](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/1031710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031710)
+- [Простой поиск имен в С++](https://habr.com/ru/articles/1032114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032114)
+- [Анализируем heap-дампы с прода, не привлекая внимания безопасников](https://habr.com/ru/companies/spring_aio/articles/1031462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031462)
+- [Давайте уже сделаем отдельный хаб: «Я собрал приложение за вечер – зачем теперь разработчики?»](https://habr.com/ru/articles/1032086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032086)
+- [Слои верификации поставщика в агрохолдинге: как работает автоматический скоринг и где он ломается](https://habr.com/ru/articles/1032070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032070)
+- [Java Digest #35](https://habr.com/ru/companies/tbank/articles/1031954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031954)
 <!-- BLOG-POST-LIST:END -->
 
 ---
