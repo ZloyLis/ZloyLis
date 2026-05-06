@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [TeachTrack: NestJS + Telegram-бот напоминаний + РКН — как я в одиночку собрал CRM для частных репетиторов](https://habr.com/ru/articles/1032304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032304)
 - [Сделаем Python безопасным… снова](https://habr.com/ru/companies/otus/articles/1029676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029676)
 - [SEO: Как интернет чистили от спама](https://habr.com/ru/articles/1032278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032278)
 - [Frontend Status: свежий дайджест фронтенда и AI — 06.05.2026](https://habr.com/ru/articles/1032276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032276)
 - [Создание Python-библиотеки для перевода исключений на русский язык](https://habr.com/ru/articles/1032158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032158)
-- [IPMSM – синхронный двигатель с интерполированными магнитами: физика анизотропии и оптимальное управление](https://habr.com/ru/articles/1032076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032076)
 <!-- BLOG-POST-LIST:END -->
 
 ---
