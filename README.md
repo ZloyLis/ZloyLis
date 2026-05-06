@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [TokenToad: как я сделал Chrome-расширение, чтобы перестать удивляться счетам за AI](https://habr.com/ru/articles/1031890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031890)
-- [Ollama 0.23: Claude Desktop теперь запускается из терминала. Без бубна](https://habr.com/ru/articles/1031922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031922)
-- [[Перевод] Баги, которые не ловит Rust](https://habr.com/ru/articles/1030088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030088)
-- [SocratiCode: разбираю MCP-сервер, который даёт ИИ-агенту понимание кодовой базы](https://habr.com/ru/articles/1031878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031878)
-- [Почему CRM в Битрикс24 тормозит на 50К сделок и что с этим делать](https://habr.com/ru/companies/otus/articles/1029706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029706)
+- [[Перевод] Имитация 3D-персонажей в 2D-движке](https://habr.com/ru/articles/1030412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030412)
+- [[Перевод] ИИ. ЦПУ против ГПУ — Данные и Выводы](https://habr.com/ru/articles/1032026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032026)
+- [Flappy Bird: код веб-клона под микроскопом](https://habr.com/ru/companies/ruvds/articles/1030144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030144)
+- [Machine Unlearning. Как измерить и достичь «забывания»?](https://habr.com/ru/companies/oleg-bunin/articles/1014692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1014692)
+- [Как Monium приручил GC: разбираемся со сборщиками мусора в observability‑платформе](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/1031710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031710)
 <!-- BLOG-POST-LIST:END -->
 
 ---
