@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [TokenToad: как я сделал Chrome-расширение, чтобы перестать удивляться счетам за AI](https://habr.com/ru/articles/1031890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031890)
+- [Ollama 0.23: Claude Desktop теперь запускается из терминала. Без бубна](https://habr.com/ru/articles/1031922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031922)
+- [[Перевод] Баги, которые не ловит Rust](https://habr.com/ru/articles/1030088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030088)
 - [SocratiCode: разбираю MCP-сервер, который даёт ИИ-агенту понимание кодовой базы](https://habr.com/ru/articles/1031878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031878)
 - [Почему CRM в Битрикс24 тормозит на 50К сделок и что с этим делать](https://habr.com/ru/companies/otus/articles/1029706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029706)
-- [«Я починил авторизацию и удалил БД»: краткая история ИИ-агентов](https://habr.com/ru/companies/yandex_praktikum/articles/1031824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031824)
-- [Почему ваше приложение тормозит и как мы это исправили с помощью PowerSync](https://habr.com/ru/articles/1031828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031828)
-- [[Перевод] 10 уроков агентного кодинга. Что делать в эпоху дешёвого кода?](https://habr.com/ru/articles/1031816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031816)
 <!-- BLOG-POST-LIST:END -->
 
 ---
