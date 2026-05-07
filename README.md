@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Невидимый syntax error в PostgreSQL: как одна строка SQL съела полтора дня дебага](https://habr.com/ru/articles/1032354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032354)
-- [Я пошутил, что разработчики больше не нужны — и мне поверили. Давайте теперь серьезно](https://habr.com/ru/articles/1032334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032334)
-- [TeachTrack: NestJS + Telegram-бот напоминаний + РКН — как я в одиночку собрал CRM для частных репетиторов](https://habr.com/ru/articles/1032304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032304)
-- [Сделаем Python безопасным… снова](https://habr.com/ru/companies/otus/articles/1029676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029676)
-- [SEO: Как интернет чистили от спама](https://habr.com/ru/articles/1032278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032278)
+- [Стабилизация e2e в условиях деградирующей среды](https://habr.com/ru/companies/2gis/articles/1022014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022014)
+- [Как развивалась виртуализация в Авито](https://habr.com/ru/companies/avito/articles/1027504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027504)
+- [[Перевод] Анализ взлома Denuvo при помощи виртуализации](https://habr.com/ru/articles/1032142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032142)
+- [Клонирование устройства на Mac mini через ABM/MDM: что не так с решением и почему оно лучшее из возможного](https://habr.com/ru/articles/1032438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032438)
+- [Смотрим low-code коннектор к «1С: Шине» от «Денвик»](https://habr.com/ru/companies/w_code/articles/1032410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032410)
 <!-- BLOG-POST-LIST:END -->
 
 ---
