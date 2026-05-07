@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Стабилизация e2e в условиях деградирующей среды](https://habr.com/ru/companies/2gis/articles/1022014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022014)
-- [Как развивалась виртуализация в Авито](https://habr.com/ru/companies/avito/articles/1027504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027504)
-- [[Перевод] Анализ взлома Denuvo при помощи виртуализации](https://habr.com/ru/articles/1032142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032142)
-- [Клонирование устройства на Mac mini через ABM/MDM: что не так с решением и почему оно лучшее из возможного](https://habr.com/ru/articles/1032438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032438)
-- [Смотрим low-code коннектор к «1С: Шине» от «Денвик»](https://habr.com/ru/companies/w_code/articles/1032410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032410)
+- [Не рискуй конверсией: как исследовать витрину цифрового продукта до запуска](https://habr.com/ru/companies/vk/articles/1032578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032578)
+- [Что именно сломалось: разбираем блокировки РКН/ТСПУ по слоям сетевого стека. Rkn Block Checker](https://habr.com/ru/articles/1032572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032572)
+- [Veai 5.10: общие скиллы и подсказки в чате](https://habr.com/ru/companies/veai/articles/1032012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032012)
+- [Как я собрал интерактивную карту 13 000 исторических событий и научил её определять архетип любого города](https://habr.com/ru/articles/1032542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032542)
+- [Хватит копировать security YAML: AppSec-слой для Java-проектов через Gradle convention plugin](https://habr.com/ru/articles/1032532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032532)
 <!-- BLOG-POST-LIST:END -->
 
 ---
