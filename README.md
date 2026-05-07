@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как не перепутать мечту, портфолио и вторую работу](https://habr.com/ru/articles/1032486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032486)
+- [Вайб-кодинг или лудомания?](https://habr.com/ru/articles/1032724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032724)
 - [Оттачиваем UI: 3 микроанимации в сервисе бронирования отелей](https://habr.com/ru/articles/1031872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031872)
 - [Rust: зачем он появился, что умеет и почему компании переписывают на него части своих систем](https://habr.com/ru/articles/1032714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032714)
 - [Wazuh: ручная регистрация агента — пошаговый гайд для сложных сетей](https://habr.com/ru/articles/1032700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032700)
-- [Как я использовал Cursor для онбординга в продукт в бигтех-компании](https://habr.com/ru/companies/ru_mts/articles/1032434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032434)
-- [Настройка self-hosted gitlab runner &lpar;CI/CD&rpar;](https://habr.com/ru/articles/1032654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032654)
 <!-- BLOG-POST-LIST:END -->
 
 ---
