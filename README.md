@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Не рискуй конверсией: как исследовать витрину цифрового продукта до запуска](https://habr.com/ru/companies/vk/articles/1032578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032578)
-- [Что именно сломалось: разбираем блокировки РКН/ТСПУ по слоям сетевого стека. Rkn Block Checker](https://habr.com/ru/articles/1032572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032572)
-- [Veai 5.10: общие скиллы и подсказки в чате](https://habr.com/ru/companies/veai/articles/1032012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032012)
-- [Как я собрал интерактивную карту 13 000 исторических событий и научил её определять архетип любого города](https://habr.com/ru/articles/1032542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032542)
-- [Хватит копировать security YAML: AppSec-слой для Java-проектов через Gradle convention plugin](https://habr.com/ru/articles/1032532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032532)
+- [Как я использовал Cursor для онбординга в продукт в бигтех-компании](https://habr.com/ru/companies/ru_mts/articles/1032434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032434)
+- [Настройка self-hosted gitlab runner &lpar;CI/CD&rpar;](https://habr.com/ru/articles/1032654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032654)
+- [Обновления функциональности GigaIDE за апрель 2026](https://habr.com/ru/companies/sberbank/articles/1031092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031092)
+- [Два Kubernetes-кластера — одна сеть: объединяем через Mesh и межкластерный роутинг](https://habr.com/ru/companies/gnivc/articles/1026994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026994)
+- [Code with Claude 2026: что Anthropic показали разработчикам на своей конференции](https://habr.com/ru/articles/1032588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032588)
 <!-- BLOG-POST-LIST:END -->
 
 ---
