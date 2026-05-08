@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Невидимый враг многопоточности: False Sharing и кэш-линии процессора](https://habr.com/ru/articles/1032804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032804)
 - [Как устроен словарь в CPython: compact dict, key sharing и что с ним делает free-threading](https://habr.com/ru/companies/otus/articles/1029210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029210)
 - [Как не перепутать мечту, портфолио и вторую работу](https://habr.com/ru/articles/1032486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032486)
 - [Вайб-кодинг или лудомания?](https://habr.com/ru/articles/1032724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032724)
 - [Оттачиваем UI: 3 микроанимации в сервисе бронирования отелей](https://habr.com/ru/articles/1031872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031872)
-- [Rust: зачем он появился, что умеет и почему компании переписывают на него части своих систем](https://habr.com/ru/articles/1032714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032714)
 <!-- BLOG-POST-LIST:END -->
 
 ---
