@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Почему ИИ решает математические задачи, если не умеет думать](https://habr.com/ru/articles/1032948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032948)
-- [Тонкая настройка PostgreSQL 17: как три параметра изменили ландшафт ввода-вывода](https://habr.com/ru/articles/1032946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032946)
-- [Как я использую несколько AI coding agents вместо одного дорогого тарифа](https://habr.com/ru/articles/1032932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032932)
-- [GitPulse: как я перестал угадывать, что происходит в команде, и начал смотреть на данные](https://habr.com/ru/articles/1032902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032902)
-- [Маркетинговый сайт без дизайнера: 5 практик с Open Design и Claude Code](https://habr.com/ru/articles/1032924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032924)
+- [Как устроена разработка ПО: разбираем Waterfall и Agile](https://habr.com/ru/companies/otus/articles/1022180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022180)
+- [Avalon: как построить эффективный Feature Store на YDB](https://habr.com/ru/companies/yandex/articles/1032478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032478)
+- [Хроники цифровых заводов: как надували технологии IIoT](https://habr.com/ru/companies/sberbank/articles/1032964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032964)
+- [Почему AI-агент чинит симптом, а не баг: трейсы выполнения и бенчмарки на BugSwarm](https://habr.com/ru/companies/veai/articles/1033008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033008)
+- [React stack 2026: карта лучших библиотек по категориям](https://habr.com/ru/articles/1032830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032830)
 <!-- BLOG-POST-LIST:END -->
 
 ---
