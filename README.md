@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Миллион клодобезьян: естественный отбор вайбкодинга](https://habr.com/ru/articles/1033188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033188)
+- [L×Box: диагностика per-app трафика, посмотрим кто куда ходит](https://habr.com/ru/articles/1033178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033178)
 - [Топ офлайн‑приложений для работы без интернета: от задач до карт](https://habr.com/ru/companies/leadertask/articles/1033138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033138)
 - [ИИ‑агенты для разработчиков: от простых команд до оркестрации субагентов](https://habr.com/ru/articles/1033136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033136)
 - [Вайбкодинг — это гемблинг](https://habr.com/ru/articles/1033130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033130)
-- [Сделал пет‑проект, а дальше что? Как я получил первые 2500 пользователей за 0 рублей](https://habr.com/ru/articles/1032800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032800)
-- [Редизайн интернет-магазина премиальной косметики: как мы увеличили конверсию на 127%](https://habr.com/ru/articles/1033074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033074)
 <!-- BLOG-POST-LIST:END -->
 
 ---
