@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Казино там, где вы и не заметили](https://habr.com/ru/articles/1033210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033210)
+- [C++: Как мы докатились до Hello World в 2 МБ](https://habr.com/ru/articles/1033206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033206)
+- [Почему нормальное OBD2-приложение должно быть open-source](https://habr.com/ru/articles/1033202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033202)
 - [Миллион клодобезьян: естественный отбор вайбкодинга](https://habr.com/ru/articles/1033188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033188)
 - [L×Box: диагностика per-app трафика, посмотрим кто куда ходит](https://habr.com/ru/articles/1033178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033178)
-- [Топ офлайн‑приложений для работы без интернета: от задач до карт](https://habr.com/ru/companies/leadertask/articles/1033138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033138)
-- [ИИ‑агенты для разработчиков: от простых команд до оркестрации субагентов](https://habr.com/ru/articles/1033136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033136)
-- [Вайбкодинг — это гемблинг](https://habr.com/ru/articles/1033130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033130)
 <!-- BLOG-POST-LIST:END -->
 
 ---
