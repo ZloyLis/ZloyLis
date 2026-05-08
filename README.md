@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Вайбкодинг — это не только трекеры финансов и калорий](https://habr.com/ru/articles/1032866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032866)
-- [Проектирование архитектуры в нотации ArchiMate с использованием ИИ. Часть 1](https://habr.com/ru/companies/axenix/articles/1032160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032160)
-- [Как я перестал бояться и полюбил MCP или Зачем я написал 4 MCP‑сервера и протокол для их связи](https://habr.com/ru/articles/1019652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019652)
-- [Self‑service деплой: как перестать ждать DevOps и ускорить команду](https://habr.com/ru/companies/otus/articles/1022162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022162)
-- [Модуль collections в Python: ваш чит-код для решения алгоритмических задач](https://habr.com/ru/articles/1032834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032834)
+- [[Перевод] Почему ИИ решает математические задачи, если не умеет думать](https://habr.com/ru/articles/1032948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032948)
+- [Тонкая настройка PostgreSQL 17: как три параметра изменили ландшафт ввода-вывода](https://habr.com/ru/articles/1032946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032946)
+- [Как я использую несколько AI coding agents вместо одного дорогого тарифа](https://habr.com/ru/articles/1032932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032932)
+- [GitPulse: как я перестал угадывать, что происходит в команде, и начал смотреть на данные](https://habr.com/ru/articles/1032902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032902)
+- [Маркетинговый сайт без дизайнера: 5 практик с Open Design и Claude Code](https://habr.com/ru/articles/1032924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032924)
 <!-- BLOG-POST-LIST:END -->
 
 ---
