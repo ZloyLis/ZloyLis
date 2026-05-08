@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Сделал пет-проект, а дальше что? Как я получил первые 2500 пользователей за 0 рублей](https://habr.com/ru/articles/1032800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032800)
+- [Топ офлайн‑приложений для работы без интернета: от задач до карт](https://habr.com/ru/companies/leadertask/articles/1033138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033138)
+- [ИИ‑агенты для разработчиков: от простых команд до оркестрации субагентов](https://habr.com/ru/articles/1033136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033136)
+- [Вайбкодинг — это гемблинг](https://habr.com/ru/articles/1033130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033130)
+- [Сделал пет‑проект, а дальше что? Как я получил первые 2500 пользователей за 0 рублей](https://habr.com/ru/articles/1032800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032800)
 - [Редизайн интернет-магазина премиальной косметики: как мы увеличили конверсию на 127%](https://habr.com/ru/articles/1033074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033074)
-- [[Перевод] ИИ-кодинг нетривиальной фичи в Ghostty](https://habr.com/ru/companies/kodik/articles/1032884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032884)
-- [Как устроена разработка ПО: разбираем Waterfall и Agile](https://habr.com/ru/companies/otus/articles/1022180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022180)
-- [Avalon: как построить эффективный Feature Store на YDB](https://habr.com/ru/companies/yandex/articles/1032478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032478)
 <!-- BLOG-POST-LIST:END -->
 
 ---
