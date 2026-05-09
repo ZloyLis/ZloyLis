@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Telegram Bot API 10.0: Взамодействие ботов и бесплатные ассистенты](https://habr.com/ru/articles/1033304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033304)
+- [Структура Vue проекта](https://habr.com/ru/articles/1033300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033300)
+- [Законы лобового сопротивления воздуха](https://habr.com/ru/articles/1033268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033268)
 - [Ещё один круг ада: мониторинг ERP без Prometheus, Grafana и выделенного DevOps](https://habr.com/ru/articles/1033280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033280)
 - [[Перевод] Создание собственного текстового редактора Vi на языке BASIC](https://habr.com/ru/articles/1033278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033278)
-- [[Перевод] Диапазоны медиа-запросов CSS](https://habr.com/ru/articles/1033266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033266)
-- [Вариация на тему Рида-Соломона](https://habr.com/ru/articles/1033246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033246)
-- [Как проверять программы на вирусы](https://habr.com/ru/articles/1033244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033244)
 <!-- BLOG-POST-LIST:END -->
 
 ---
