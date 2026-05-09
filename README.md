@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как проверять программы на вирусы](https://habr.com/ru/articles/1033244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033244)
 - [Казино там, где вы и не заметили](https://habr.com/ru/articles/1033210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033210)
 - [C++: Как мы докатились до Hello World в 2 МБ](https://habr.com/ru/articles/1033206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033206)
 - [Почему нормальное OBD2-приложение должно быть open-source](https://habr.com/ru/articles/1033202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033202)
 - [Миллион клодобезьян: естественный отбор вайбкодинга](https://habr.com/ru/articles/1033188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033188)
-- [L×Box: диагностика per-app трафика, посмотрим кто куда ходит](https://habr.com/ru/articles/1033178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033178)
 <!-- BLOG-POST-LIST:END -->
 
 ---
