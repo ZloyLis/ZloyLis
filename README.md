@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Когда теорема Коши — Ковалевской «отказывает», а решение всё равно есть](https://habr.com/ru/articles/1033356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033356)
 - [Subject Matter Expert. Чёрная Метка Для Разработчика](https://habr.com/ru/companies/spring_aio/articles/1033330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033330)
 - [АЭС для всех, или как мы провели двухдневный воркшоп в Индии](https://habr.com/ru/articles/1033340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033340)
 - [[Перевод] Claude Code: почему HTML лучше Markdown](https://habr.com/ru/articles/1033326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033326)
 - [Telegram Bot API 10.0: Взамодействие ботов и бесплатные ассистенты](https://habr.com/ru/articles/1033304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033304)
-- [Структура Vue проекта](https://habr.com/ru/articles/1033300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033300)
 <!-- BLOG-POST-LIST:END -->
 
 ---
