@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Я сделал приложение за вечер без навыков программирования. Фиг там. Как я почти год делал игру с опытом и ИИ](https://habr.com/ru/articles/1033586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033586)
+- [Direct2D #10. Улучшение производительности отрисовки текстур с помощью спрайтов](https://habr.com/ru/articles/1033582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033582)
+- [Метрика EICS — ищем у трансформера причинное место](https://habr.com/ru/articles/1033580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033580)
+- [Как мы связали 2 телефонии, речевую аналитику и службу каталогов Active Directory через табельный номер](https://habr.com/ru/articles/1033576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033576)
 - [1C-разработка в 2026: почему это всё ещё востребовано и сколько можно заработать](https://habr.com/ru/companies/netologyru/articles/1032916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032916)
-- [Семь раз посчитай — один раз урони: моделируем инциденты до деплоя](https://habr.com/ru/articles/1033570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033570)
-- [Генерация типов в Runtime](https://habr.com/ru/articles/1033564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033564)
-- [Верстальщики в 2026 году. Я был неправ в 2016-м?](https://habr.com/ru/articles/1033558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033558)
-- [Как хранятся большие бинарные данные в БД: накладные расходы BLOB в Oracle и Large Object в Postgres](https://habr.com/ru/articles/1033554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033554)
 <!-- BLOG-POST-LIST:END -->
 
 ---
