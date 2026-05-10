@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ASOC на коленке: как я навайбкодил замену DefectDojo для своих задач с обогащением из БДУ ФСТЭК](https://habr.com/ru/articles/1033530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033530)
+- [Я опубликовал рабочий npm-пакет, не написав ни строчки кода. И не считаю, что это история про лень](https://habr.com/ru/articles/1033516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033516)
 - [Разбираем Bulletproof React: как не утонуть в хаосе собственного кода](https://habr.com/ru/articles/1033506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033506)
 - [Как я сделал трёхуровневый кэш сообщений в мессенджере на React Native — и что узнал по дороге](https://habr.com/ru/articles/1033502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033502)
 - [Логическая головоломка из университетского квеста](https://habr.com/ru/articles/1033500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033500)
-- [Три архитектурных решения для multi-tenant B2B SaaS, о которых я пожалел, что не узнал раньше](https://habr.com/ru/articles/1033488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033488)
-- [Очередная методичка разработки с LLM: работает только если ты разработчик](https://habr.com/ru/articles/1033486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033486)
 <!-- BLOG-POST-LIST:END -->
 
 ---
