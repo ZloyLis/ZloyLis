@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [30 дней: блочный конструктор README — один DOM, два хозяина](https://habr.com/ru/articles/1033422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033422)
 - [ncpp: Как создать самодостаточную экосистему на С++98 в 2026 году, которая запустится даже на железе со свалки](https://habr.com/ru/articles/1033350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033350)
 - [Как я использовал Cursor для онбординга](https://habr.com/ru/articles/1033386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033386)
 - [Прототипирование сайта на Тильде: какие ограничения нужно учесть до дизайна и сборки](https://habr.com/ru/articles/1033380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033380)
 - [LazyWeb: 257 тысяч экранов реальных приложений как контекст для AI-агентов](https://habr.com/ru/articles/1033376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033376)
-- [Когда теорема Коши — Ковалевской «отказывает», а решение всё равно есть](https://habr.com/ru/articles/1033356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033356)
 <!-- BLOG-POST-LIST:END -->
 
 ---
