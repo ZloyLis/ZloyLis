@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Я плохой программист, плохой менеджер и вообще недоэксперт в любой области](https://habr.com/ru/articles/1033402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033402)
-- [Кто автор программы: разбираю каждую роль в команде с судебной практикой](https://habr.com/ru/articles/1033482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033482)
-- [Бэкдор вместо тестового](https://habr.com/ru/articles/1033468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033468)
-- [Выходной со Spring: pet-проект по распознаванию речи](https://habr.com/ru/articles/1033338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033338)
-- [Почему российский бизнес проигрывает битву за информацию и как это исправить. Часть 2](https://habr.com/ru/articles/1033430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033430)
+- [Разбираем Bulletproof React: как не утонуть в хаосе собственного кода](https://habr.com/ru/articles/1033506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033506)
+- [Как я сделал трёхуровневый кэш сообщений в мессенджере на React Native — и что узнал по дороге](https://habr.com/ru/articles/1033502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033502)
+- [Логическая головоломка из университетского квеста](https://habr.com/ru/articles/1033500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033500)
+- [Три архитектурных решения для multi-tenant B2B SaaS, о которых я пожалел, что не узнал раньше](https://habr.com/ru/articles/1033488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033488)
+- [Очередная методичка разработки с LLM: работает только если ты разработчик](https://habr.com/ru/articles/1033486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033486)
 <!-- BLOG-POST-LIST:END -->
 
 ---
