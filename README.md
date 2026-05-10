@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] В агентскую эпоху не все архитектуры кода одинаково полезны](https://habr.com/ru/articles/1033550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033550)
+- [«Эмбеддинги на примерах с собаками», или как работать с векторными представлениями: книги и руководства по теме](https://habr.com/ru/companies/beeline_cloud/articles/1033544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033544)
 - [ASOC на коленке: как я навайбкодил замену DefectDojo для своих задач с обогащением из БДУ ФСТЭК](https://habr.com/ru/articles/1033530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033530)
-- [Я опубликовал рабочий npm-пакет, не написав ни строчки кода. И не считаю, что это история про лень](https://habr.com/ru/articles/1033516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033516)
+- [Я опубликовал рабочий npm-пакет, не написав ни строчки кода](https://habr.com/ru/articles/1033516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033516)
 - [Разбираем Bulletproof React: как не утонуть в хаосе собственного кода](https://habr.com/ru/articles/1033506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033506)
-- [Как я сделал трёхуровневый кэш сообщений в мессенджере на React Native — и что узнал по дороге](https://habr.com/ru/articles/1033502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033502)
-- [Логическая головоломка из университетского квеста](https://habr.com/ru/articles/1033500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033500)
 <!-- BLOG-POST-LIST:END -->
 
 ---
