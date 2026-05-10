@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Веселимся со Spring: pet-проект по распознаванию речи](https://habr.com/ru/articles/1033338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033338)
+- [Я плохой программист, плохой менеджер и вообще недоэксперт в любой области](https://habr.com/ru/articles/1033402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033402)
+- [Кто автор программы: разбираю каждую роль в команде с судебной практикой](https://habr.com/ru/articles/1033482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033482)
+- [Бэкдор вместо тестового](https://habr.com/ru/articles/1033468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033468)
+- [Выходной со Spring: pet-проект по распознаванию речи](https://habr.com/ru/articles/1033338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033338)
 - [Почему российский бизнес проигрывает битву за информацию и как это исправить. Часть 2](https://habr.com/ru/articles/1033430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033430)
-- [Когда онбординг длится 2 месяца: день 2 — карта репозиториев](https://habr.com/ru/articles/1032644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032644)
-- [Полный гайд по dunder-методам в Python &lpar;от новичка до профи&rpar;](https://habr.com/ru/articles/1033432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033432)
-- [Спам на WordPress: от Cloudflare до собственного плагина геоблокировки](https://habr.com/ru/articles/1033428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033428)
 <!-- BLOG-POST-LIST:END -->
 
 ---
