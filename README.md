@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Генерация типов в Runtime](https://habr.com/ru/articles/1033564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033564)
+- [Верстальщики в 2026 году. Я был неправ в 2016-м?](https://habr.com/ru/articles/1033558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033558)
+- [Как хранятся большие бинарные данные в БД: накладные расходы BLOB в Oracle и Large Object в Postgres](https://habr.com/ru/articles/1033554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033554)
 - [[Перевод] В агентскую эпоху не все архитектуры кода одинаково полезны](https://habr.com/ru/articles/1033550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033550)
 - [«Эмбеддинги на примерах с собаками», или как работать с векторными представлениями: книги и руководства по теме](https://habr.com/ru/companies/beeline_cloud/articles/1033544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033544)
-- [ASOC на коленке: как я навайбкодил замену DefectDojo для своих задач с обогащением из БДУ ФСТЭК](https://habr.com/ru/articles/1033530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033530)
-- [Я опубликовал рабочий npm-пакет, не написав ни строчки кода](https://habr.com/ru/articles/1033516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033516)
-- [Разбираем Bulletproof React: как не утонуть в хаосе собственного кода](https://habr.com/ru/articles/1033506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033506)
 <!-- BLOG-POST-LIST:END -->
 
 ---
