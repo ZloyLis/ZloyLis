@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [30 дней: блочный конструктор README — один DOM, два хозяина](https://habr.com/ru/articles/1033422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033422)
-- [ncpp: Как создать самодостаточную экосистему на С++98 в 2026 году, которая запустится даже на железе со свалки](https://habr.com/ru/articles/1033350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033350)
-- [Как я использовал Cursor для онбординга](https://habr.com/ru/articles/1033386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033386)
-- [Прототипирование сайта на Тильде: какие ограничения нужно учесть до дизайна и сборки](https://habr.com/ru/articles/1033380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033380)
-- [LazyWeb: 257 тысяч экранов реальных приложений как контекст для AI-агентов](https://habr.com/ru/articles/1033376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033376)
+- [Веселимся со Spring: pet-проект по распознаванию речи](https://habr.com/ru/articles/1033338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033338)
+- [Почему российский бизнес проигрывает битву за информацию и как это исправить. Часть 2](https://habr.com/ru/articles/1033430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033430)
+- [Когда онбординг длится 2 месяца: день 2 — карта репозиториев](https://habr.com/ru/articles/1032644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032644)
+- [Полный гайд по dunder-методам в Python &lpar;от новичка до профи&rpar;](https://habr.com/ru/articles/1033432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033432)
+- [Спам на WordPress: от Cloudflare до собственного плагина геоблокировки](https://habr.com/ru/articles/1033428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033428)
 <!-- BLOG-POST-LIST:END -->
 
 ---
