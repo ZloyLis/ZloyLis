@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [n8n self-hosted в production: docker-compose, nginx, ретраи и три грабли](https://habr.com/ru/articles/1033716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033716)
-- [Архитектура MassTransit: как устроена библиотека под капотом](https://habr.com/ru/articles/1033712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033712)
-- [Государство и бизнес тратят 1,5 миллиарда в год на слепой антиплагиат — и это проблема](https://habr.com/ru/articles/1033696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033696)
-- [Файл вырос до 800 строк и это была моя вина…](https://habr.com/ru/articles/1033218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033218)
-- [Make найм Great Again? Что &lpar;не&rpar;спрашивать? Кого\кому &lpar;не&rpar;собеседовать?](https://habr.com/ru/articles/1033690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033690)
+- [Bad Apple через CSS: как заставить браузер страдать без единой строчки JavaScript](https://habr.com/ru/companies/timeweb/articles/1026258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026258)
+- [Агрегатор LLM, как выбирать живые free-модели и переживать сбои провайдера](https://habr.com/ru/articles/1033790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033790)
+- [Wi‑Fi 7: что меняется для сетевого специалиста и когда обновляться, а когда подождать](https://habr.com/ru/articles/1033786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033786)
+- [Деконструкция GO: Низкоуровневые концепции. Atomics. Часть 2.1](https://habr.com/ru/articles/1033780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033780)
+- [Как я превратила Obsidian в структурированную память для ИИ‑агентов](https://habr.com/ru/articles/1033746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033746)
 <!-- BLOG-POST-LIST:END -->
 
 ---
