@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я сделал групповые звонки в React Native мессенджере: WebRTC, CallKit и грабли production&#39;а](https://habr.com/ru/articles/1033930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033930)
+- [Как работают с памятью в игровых консолях](https://habr.com/ru/articles/1033736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033736)
 - [Использование машинного обучения в работе с SolidWorks &lpar;1 часть&rpar;](https://habr.com/ru/articles/1033876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033876)
 - [Как мы написали социальную сеть внутри Minecraft на 13 версиях — и почему это не было безумием](https://habr.com/ru/articles/1033858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033858)
 - [Регистрация программы в Роспатенте: защита или миф?](https://habr.com/ru/articles/1033846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033846)
-- [ClickHouse для больших данных: полный гайд по интеграции с NoSQL‑экосистемой](https://habr.com/ru/companies/otus/articles/1022158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022158)
-- [Подводные камни gRPC](https://habr.com/ru/articles/1033838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033838)
 <!-- BLOG-POST-LIST:END -->
 
 ---
