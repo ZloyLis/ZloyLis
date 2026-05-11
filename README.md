@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Что такое Реактивное Программирование](https://habr.com/ru/articles/1033088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033088)
-- [От инженера до оператора промптов: 5 главных ошибок вайбкодинга](https://habr.com/ru/articles/1033648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033648)
-- [Переопределение классов ядра Joomla с помощью плагина на примере MVCFactory](https://habr.com/ru/articles/1033646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033646)
-- [Логин через Telegram по-новому: разбираем OIDC-флоу oauth.telegram.org и собираем его на Python](https://habr.com/ru/articles/1033632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033632)
-- [Code Review Horror Stories. Часть 2: API, ошибки и graceful shutdown](https://habr.com/ru/articles/1033634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033634)
+- [n8n self-hosted в production: docker-compose, nginx, ретраи и три грабли](https://habr.com/ru/articles/1033716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033716)
+- [Архитектура MassTransit: как устроена библиотека под капотом](https://habr.com/ru/articles/1033712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033712)
+- [Государство и бизнес тратят 1,5 миллиарда в год на слепой антиплагиат — и это проблема](https://habr.com/ru/articles/1033696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033696)
+- [Файл вырос до 800 строк и это была моя вина…](https://habr.com/ru/articles/1033218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033218)
+- [Make найм Great Again? Что &lpar;не&rpar;спрашивать? Кого\кому &lpar;не&rpar;собеседовать?](https://habr.com/ru/articles/1033690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033690)
 <!-- BLOG-POST-LIST:END -->
 
 ---
