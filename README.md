@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Bad Apple через CSS: как заставить браузер страдать без единой строчки JavaScript](https://habr.com/ru/companies/timeweb/articles/1026258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026258)
-- [Агрегатор LLM, как выбирать живые free-модели и переживать сбои провайдера](https://habr.com/ru/articles/1033790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033790)
-- [Wi‑Fi 7: что меняется для сетевого специалиста и когда обновляться, а когда подождать](https://habr.com/ru/articles/1033786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033786)
-- [Деконструкция GO: Низкоуровневые концепции. Atomics. Часть 2.1](https://habr.com/ru/articles/1033780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033780)
-- [Как я превратила Obsidian в структурированную память для ИИ‑агентов](https://habr.com/ru/articles/1033746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033746)
+- [Как мы написали социальную сеть внутри Minecraft на 13 версиях — и почему это не было безумием](https://habr.com/ru/articles/1033858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033858)
+- [Регистрация программы в Роспатенте: защита или миф?](https://habr.com/ru/articles/1033846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033846)
+- [ClickHouse для больших данных: полный гайд по интеграции с NoSQL‑экосистемой](https://habr.com/ru/companies/otus/articles/1022158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022158)
+- [Подводные камни gRPC](https://habr.com/ru/articles/1033838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033838)
+- [Я реализовал Double Ratchet в React Native мессенджере. Разбор протокола и кода](https://habr.com/ru/articles/1033830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033830)
 <!-- BLOG-POST-LIST:END -->
 
 ---
