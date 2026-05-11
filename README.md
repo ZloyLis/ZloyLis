@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Использование машинного обучения в работе с SolidWorks &lpar;1 часть&rpar;](https://habr.com/ru/articles/1033876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033876)
 - [Как мы написали социальную сеть внутри Minecraft на 13 версиях — и почему это не было безумием](https://habr.com/ru/articles/1033858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033858)
 - [Регистрация программы в Роспатенте: защита или миф?](https://habr.com/ru/articles/1033846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033846)
 - [ClickHouse для больших данных: полный гайд по интеграции с NoSQL‑экосистемой](https://habr.com/ru/companies/otus/articles/1022158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022158)
 - [Подводные камни gRPC](https://habr.com/ru/articles/1033838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033838)
-- [Я реализовал Double Ratchet в React Native мессенджере. Разбор протокола и кода](https://habr.com/ru/articles/1033830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033830)
 <!-- BLOG-POST-LIST:END -->
 
 ---
