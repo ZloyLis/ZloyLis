@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Локальный агент для диагностики инфраструктуры](https://habr.com/ru/articles/1033614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033614)
 - [Я сделал приложение за вечер без навыков программирования. Фиг там. Как я почти год делал игру с опытом и ИИ](https://habr.com/ru/articles/1033586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033586)
 - [Direct2D #10. Улучшение производительности отрисовки текстур с помощью спрайтов](https://habr.com/ru/articles/1033582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033582)
 - [Метрика EICS — ищем у трансформера причинное место](https://habr.com/ru/articles/1033580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033580)
 - [Как мы связали 2 телефонии, речевую аналитику и службу каталогов Active Directory через табельный номер](https://habr.com/ru/articles/1033576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033576)
-- [1C-разработка в 2026: почему это всё ещё востребовано и сколько можно заработать](https://habr.com/ru/companies/netologyru/articles/1032916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032916)
 <!-- BLOG-POST-LIST:END -->
 
 ---
