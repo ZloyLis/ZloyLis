@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Локальный агент для диагностики инфраструктуры](https://habr.com/ru/articles/1033614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033614)
-- [Я сделал приложение за вечер без навыков программирования. Фиг там. Как я почти год делал игру с опытом и ИИ](https://habr.com/ru/articles/1033586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033586)
-- [Direct2D #10. Улучшение производительности отрисовки текстур с помощью спрайтов](https://habr.com/ru/articles/1033582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033582)
-- [Метрика EICS — ищем у трансформера причинное место](https://habr.com/ru/articles/1033580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033580)
-- [Как мы связали 2 телефонии, речевую аналитику и службу каталогов Active Directory через табельный номер](https://habr.com/ru/articles/1033576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033576)
+- [[Перевод] Что такое Реактивное Программирование](https://habr.com/ru/articles/1033088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033088)
+- [От инженера до оператора промптов: 5 главных ошибок вайбкодинга](https://habr.com/ru/articles/1033648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033648)
+- [Переопределение классов ядра Joomla с помощью плагина на примере MVCFactory](https://habr.com/ru/articles/1033646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033646)
+- [Логин через Telegram по-новому: разбираем OIDC-флоу oauth.telegram.org и собираем его на Python](https://habr.com/ru/articles/1033632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033632)
+- [Code Review Horror Stories. Часть 2: API, ошибки и graceful shutdown](https://habr.com/ru/articles/1033634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033634)
 <!-- BLOG-POST-LIST:END -->
 
 ---
