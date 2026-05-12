@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Запустил AI-репетитор английского месяц назад: технические грабли соло-дева](https://habr.com/ru/articles/1033992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033992)
-- [Как я доказал гипотезу Коллатца &lpar;3n+1&rpar; без математики](https://habr.com/ru/articles/1033988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033988)
-- [Widlet — pet-проект про Server-Driven UI на Dart](https://habr.com/ru/articles/1033978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033978)
-- [Ollama и Open WebUI на VPS без GPU: рабочий вариант или боль?](https://habr.com/ru/articles/1033954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033954)
-- [Как я сделал групповые звонки в React Native мессенджере: WebRTC, CallKit и грабли production&#39;а](https://habr.com/ru/articles/1033930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033930)
+- [Как мы сделали автогенерацию документации для CI/CD из комментариев в коде](https://habr.com/ru/companies/psb/articles/1032854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032854)
+- [ClickHouse не тормозит, но не умеет в DML. Часть 1. Мутации](https://habr.com/ru/articles/1033982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033982)
+- [«Продай мне этот космолёт» или история любви к симуляторам. От космосима X-Tension до ActorModel/DoD/ECS архитектуры. Ч1](https://habr.com/ru/articles/1028794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1028794)
+- [Извлечение и обработка требований из документов с помощью NLP-инструментов](https://habr.com/ru/companies/ascon/articles/1031940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031940)
+- [Мне надоело искать ошибки глазами — я создал бесплатный аудитор для 1С](https://habr.com/ru/articles/1034000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034000)
 <!-- BLOG-POST-LIST:END -->
 
 ---
