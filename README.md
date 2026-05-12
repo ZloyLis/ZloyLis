@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Использование данных от датчиков кондиционеров, фанкойлов и вентиляции для управления отоплением](https://habr.com/ru/articles/1034232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034232)
-- [Как работает Low-code: инструменты, платформы, в чем польза для бизнеса](https://habr.com/ru/companies/diasoft_company/articles/1034220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034220)
-- [1 миллион токенов в Opus 4.7 — маркетинг. Реально полезных — 300 тысяч. И сами Anthropic это подтверждают](https://habr.com/ru/articles/1034214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034214)
-- [Security Week 2620: эффект от ИИ для поиска уязвимостей в Firefox](https://habr.com/ru/companies/kaspersky/articles/1034144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034144)
-- [Как я сделал desktop-версию мессенджера на vanilla Electron, не на React Native for Desktop. И не пожалел](https://habr.com/ru/articles/1034184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034184)
+- [Надежный фейс-контроль: как прикрутить MFA к веб-сервису через Nginx и OAuth2 Proxy](https://habr.com/ru/companies/k2tech/articles/1029280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029280)
+- [Зачем нужны APM-платформы, если есть Prometheus и Grafana](https://habr.com/ru/companies/rkt/articles/1031782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031782)
+- [Как я сделал AI-директора для малого бизнеса и почему отказался от RAG](https://habr.com/ru/articles/1034298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034298)
+- [Я хотел adjustResize. Получил adjustNothing. Три раунда войны с Android-клавиатурой в WebView](https://habr.com/ru/articles/1034290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034290)
+- [[Перевод] Команда Spring о Spring Framework 7 и Spring Boot 4](https://habr.com/ru/companies/spring_aio/articles/1034282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034282)
 <!-- BLOG-POST-LIST:END -->
 
 ---
