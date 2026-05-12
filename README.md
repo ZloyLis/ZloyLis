@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Запустил AI-репетитор английского месяц назад: технические грабли соло-дева](https://habr.com/ru/articles/1033992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033992)
+- [Как я доказал гипотезу Коллатца &lpar;3n+1&rpar; без математики](https://habr.com/ru/articles/1033988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033988)
+- [Widlet — pet-проект про Server-Driven UI на Dart](https://habr.com/ru/articles/1033978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033978)
 - [Ollama и Open WebUI на VPS без GPU: рабочий вариант или боль?](https://habr.com/ru/articles/1033954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033954)
 - [Как я сделал групповые звонки в React Native мессенджере: WebRTC, CallKit и грабли production&#39;а](https://habr.com/ru/articles/1033930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033930)
-- [Как работают с памятью в игровых консолях](https://habr.com/ru/articles/1033736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033736)
-- [Использование машинного обучения в работе с SolidWorks &lpar;1 часть&rpar;](https://habr.com/ru/articles/1033876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033876)
-- [Как мы написали социальную сеть внутри Minecraft на 13 версиях — и почему это не было безумием](https://habr.com/ru/articles/1033858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033858)
 <!-- BLOG-POST-LIST:END -->
 
 ---
