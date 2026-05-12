@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Открытое ТЗ для пет-проекта: сервис поиска пропавших людей](https://habr.com/ru/articles/1034426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034426)
-- [Сравнение моделей конкурентности JVM языков: Треды, Пулы и Structured Concurrency](https://habr.com/ru/articles/1033894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033894)
-- [Инфраструктура для изучения основ машинного обучения на локальном компьютере с помощью Apache Spark](https://habr.com/ru/articles/1034338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034338)
-- [Как я Zabbix с LLM дружил в свободное время. Архитектурный обзор взаимодействия с нейросетью. Часть 2 «Выбор модели»](https://habr.com/ru/articles/1033798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033798)
-- [Надежный фейс-контроль: как прикрутить MFA к веб-сервису через Nginx и OAuth2 Proxy](https://habr.com/ru/companies/k2tech/articles/1029280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029280)
+- [[ALM моделирование] На примере дефолта Silicon Valley Bank](https://habr.com/ru/articles/1034292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034292)
+- [Где выгодно оформить виртуальную сим карту и как ей правильно пользоваться](https://habr.com/ru/companies/paybeam/articles/1034448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034448)
+- [Как быстро подключить eSIM для поездки в Беларусь](https://habr.com/ru/companies/paybeam/articles/1034402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034402)
+- [Как выбрать eSIM для путешествий, командировок и релокации](https://habr.com/ru/companies/paybeam/articles/1034408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034408)
+- [Как выбрать и подключить eSIM для Грузии — инструкция для путешественников](https://habr.com/ru/companies/paybeam/articles/1034412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034412)
 <!-- BLOG-POST-LIST:END -->
 
 ---
