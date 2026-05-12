@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [n8n + мессенджер MAX: почему я отказался от community-ноды и перешел на «чистый» HTTP Request](https://habr.com/ru/articles/1034134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034134)
-- [Как я сделал на Flutter игру для разработчиков](https://habr.com/ru/companies/avito/articles/1032250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032250)
-- [Помогаю новичкам найти ошибки в вёрстке ChatGPT](https://habr.com/ru/companies/ruvds/articles/1032940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032940)
-- [Снимаем с ИИ марковское одеяло](https://habr.com/ru/articles/1034122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034122)
-- [Как стать менеджером по продажам в IT и сколько можно зарабатывать](https://habr.com/ru/companies/habr_career/articles/1031702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031702)
+- [Использование данных от датчиков кондиционеров, фанкойлов и вентиляции для управления отоплением](https://habr.com/ru/articles/1034232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034232)
+- [Как работает Low-code: инструменты, платформы, в чем польза для бизнеса](https://habr.com/ru/companies/diasoft_company/articles/1034220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034220)
+- [1 миллион токенов в Opus 4.7 — маркетинг. Реально полезных — 300 тысяч. И сами Anthropic это подтверждают](https://habr.com/ru/articles/1034214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034214)
+- [Security Week 2620: эффект от ИИ для поиска уязвимостей в Firefox](https://habr.com/ru/companies/kaspersky/articles/1034144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034144)
+- [Как я сделал desktop-версию мессенджера на vanilla Electron, не на React Native for Desktop. И не пожалел](https://habr.com/ru/articles/1034184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034184)
 <!-- BLOG-POST-LIST:END -->
 
 ---
