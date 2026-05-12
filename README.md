@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сравнение моделей конкурентности JVM языков: Треды, Пулы и Structured Concurrency](https://habr.com/ru/articles/1033894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033894)
+- [Инфраструктура для изучения основ машинного обучения на локальном компьютере с помощью Apache Spark](https://habr.com/ru/articles/1034338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034338)
+- [Как я Zabbix с LLM дружил в свободное время. Архитектурный обзор взаимодействия с нейросетью. Часть 2 «Выбор модели»](https://habr.com/ru/articles/1033798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033798)
 - [Надежный фейс-контроль: как прикрутить MFA к веб-сервису через Nginx и OAuth2 Proxy](https://habr.com/ru/companies/k2tech/articles/1029280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029280)
 - [Зачем нужны APM-платформы, если есть Prometheus и Grafana](https://habr.com/ru/companies/rkt/articles/1031782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031782)
-- [Как я сделал AI-директора для малого бизнеса и почему отказался от RAG](https://habr.com/ru/articles/1034298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034298)
-- [Я хотел adjustResize. Получил adjustNothing. Три раунда войны с Android-клавиатурой в WebView](https://habr.com/ru/articles/1034290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034290)
-- [[Перевод] Команда Spring о Spring Framework 7 и Spring Boot 4](https://habr.com/ru/companies/spring_aio/articles/1034282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034282)
 <!-- BLOG-POST-LIST:END -->
 
 ---
