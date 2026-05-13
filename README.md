@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build-time микрофронтенды, или делай проще](https://habr.com/ru/companies/ru_mts/articles/1034374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034374)
-- [Outbox-паттерн для мобильного мессенджера: как Telegram не теряет сообщения и почему ваш код их теряет](https://habr.com/ru/articles/1034690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034690)
-- [Сколько я заработал в RuStore за 6 месяцев](https://habr.com/ru/articles/1034502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034502)
-- [Как мы довели поиск товаров по изображению до 98% совпадений: FastAPI, DINOv2, Qdrant и поиск на фото полки](https://habr.com/ru/companies/fix_price/articles/1034664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034664)
-- [Как проходят собеседования на Golang-разработчиков в 2ГИС](https://habr.com/ru/companies/2gis/articles/1034286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034286)
+- [[Перевод] Что такое Dark Factory AI Agent?](https://habr.com/ru/articles/1034840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034840)
+- [[Перевод] Брусенцов: хакер, построивший троичную ЭВМ](https://habr.com/ru/articles/1033490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033490)
+- [Race Condition убил SQLite в нашем проекте: как мы пришли к RediSearch](https://habr.com/ru/articles/1034824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034824)
+- [Production‑стек для мессенджера на 10к пользователей: FastAPI, SQLite в проде и почему монолит](https://habr.com/ru/articles/1034814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034814)
+- [Среда агента: контекст, архитектурные границы, память проекта](https://habr.com/ru/articles/1034788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034788)
 <!-- BLOG-POST-LIST:END -->
 
 ---
