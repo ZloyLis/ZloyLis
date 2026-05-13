@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Архитектура автоматической трансформации данных JSON и XML любой структуры унифицированным способом](https://habr.com/ru/articles/1034884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034884)
+- [ONYX open-beta 1.5 — новый взгляд на навигацию в мессенджерах](https://habr.com/ru/articles/1034860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034860)
 - [[Перевод] Что такое Dark Factory AI Agent?](https://habr.com/ru/articles/1034840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034840)
 - [[Перевод] Брусенцов: хакер, построивший троичную ЭВМ](https://habr.com/ru/articles/1033490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033490)
 - [Race Condition убил SQLite в нашем проекте: как мы пришли к RediSearch](https://habr.com/ru/articles/1034824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034824)
-- [Production‑стек для мессенджера на 10к пользователей: FastAPI, SQLite в проде и почему монолит](https://habr.com/ru/articles/1034814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034814)
-- [Среда агента: контекст, архитектурные границы, память проекта](https://habr.com/ru/articles/1034788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034788)
 <!-- BLOG-POST-LIST:END -->
 
 ---
