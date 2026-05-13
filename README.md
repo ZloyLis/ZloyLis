@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Два проекта и восемь часов практики: бесплатное введение в профессию 1С-разработчика](https://habr.com/ru/companies/yandex_praktikum/articles/1030032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030032)
+- [Linux: Права доступа](https://habr.com/ru/articles/1034474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034474)
 - [[ALM моделирование] На примере дефолта Silicon Valley Bank](https://habr.com/ru/articles/1034292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034292)
 - [Где выгодно оформить виртуальную сим карту и как ей правильно пользоваться](https://habr.com/ru/companies/paybeam/articles/1034448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034448)
 - [Как быстро подключить eSIM для поездки в Беларусь](https://habr.com/ru/companies/paybeam/articles/1034402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034402)
-- [Как выбрать eSIM для путешествий, командировок и релокации](https://habr.com/ru/companies/paybeam/articles/1034408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034408)
-- [Как выбрать и подключить eSIM для Грузии — инструкция для путешественников](https://habr.com/ru/companies/paybeam/articles/1034412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034412)
 <!-- BLOG-POST-LIST:END -->
 
 ---
