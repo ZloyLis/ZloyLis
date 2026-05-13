@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Vulkan API и асинхронность. Введение. Требования к архитектуре](https://habr.com/ru/articles/1011504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011504)
+- [Про 10x программистов](https://habr.com/ru/articles/1032574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032574)
+- [Обновление Claude Code Agent view: теперь одно окно для управления десятком параллельных AI-сессий](https://habr.com/ru/articles/1034904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034904)
+- [Паноптикум и ИИ](https://habr.com/ru/articles/1034894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034894)
 - [Архитектура автоматической трансформации данных JSON и XML любой структуры унифицированным способом](https://habr.com/ru/articles/1034884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034884)
-- [ONYX open-beta 1.5 — новый взгляд на навигацию в мессенджерах](https://habr.com/ru/articles/1034860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034860)
-- [[Перевод] Что такое Dark Factory AI Agent?](https://habr.com/ru/articles/1034840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034840)
-- [[Перевод] Брусенцов: хакер, построивший троичную ЭВМ](https://habr.com/ru/articles/1033490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033490)
-- [Race Condition убил SQLite в нашем проекте: как мы пришли к RediSearch](https://habr.com/ru/articles/1034824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034824)
 <!-- BLOG-POST-LIST:END -->
 
 ---
