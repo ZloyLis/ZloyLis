@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Где лучше размещать блог компании: на поддомене или внутри основного сайта](https://habr.com/ru/articles/1034588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034588)
-- [Как найти медленный запрос в PostgreSQL: три инструмента мониторинга](https://habr.com/ru/companies/first/articles/1034434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034434)
-- [Как я сделал на Flutter игру для разработчиков. Часть 2](https://habr.com/ru/companies/avito/articles/1032258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032258)
-- [[Перевод] Если if вас замедляют, откажитесь от них](https://habr.com/ru/articles/1034566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034566)
-- [[Перевод] Идемпотентность в System Design: полный пример](https://habr.com/ru/companies/piter/articles/1034544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034544)
+- [Build-time микрофронтенды, или делай проще](https://habr.com/ru/companies/ru_mts/articles/1034374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034374)
+- [Outbox-паттерн для мобильного мессенджера: как Telegram не теряет сообщения и почему ваш код их теряет](https://habr.com/ru/articles/1034690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034690)
+- [Сколько я заработал в RuStore за 6 месяцев](https://habr.com/ru/articles/1034502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034502)
+- [Как мы довели поиск товаров по изображению до 98% совпадений: FastAPI, DINOv2, Qdrant и поиск на фото полки](https://habr.com/ru/companies/fix_price/articles/1034664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034664)
+- [Как проходят собеседования на Golang-разработчиков в 2ГИС](https://habr.com/ru/companies/2gis/articles/1034286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034286)
 <!-- BLOG-POST-LIST:END -->
 
 ---
