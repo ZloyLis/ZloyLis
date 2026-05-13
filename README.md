@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Два проекта и восемь часов практики: бесплатное введение в профессию 1С-разработчика](https://habr.com/ru/companies/yandex_praktikum/articles/1030032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1030032)
-- [Linux: Права доступа](https://habr.com/ru/articles/1034474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034474)
-- [[ALM моделирование] На примере дефолта Silicon Valley Bank](https://habr.com/ru/articles/1034292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034292)
-- [Где выгодно оформить виртуальную сим карту и как ей правильно пользоваться](https://habr.com/ru/companies/paybeam/articles/1034448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034448)
-- [Как быстро подключить eSIM для поездки в Беларусь](https://habr.com/ru/companies/paybeam/articles/1034402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034402)
+- [Где лучше размещать блог компании: на поддомене или внутри основного сайта](https://habr.com/ru/articles/1034588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034588)
+- [Как найти медленный запрос в PostgreSQL: три инструмента мониторинга](https://habr.com/ru/companies/first/articles/1034434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034434)
+- [Как я сделал на Flutter игру для разработчиков. Часть 2](https://habr.com/ru/companies/avito/articles/1032258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032258)
+- [[Перевод] Если if вас замедляют, откажитесь от них](https://habr.com/ru/articles/1034566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034566)
+- [[Перевод] Идемпотентность в System Design: полный пример](https://habr.com/ru/companies/piter/articles/1034544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034544)
 <!-- BLOG-POST-LIST:END -->
 
 ---
