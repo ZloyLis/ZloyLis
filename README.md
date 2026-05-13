@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Про вайбкодинг или как меч стал рапирой](https://habr.com/ru/articles/1034952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034952)
 - [Vulkan API и асинхронность. Введение. Требования к архитектуре](https://habr.com/ru/articles/1011504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011504)
 - [Про 10x программистов](https://habr.com/ru/articles/1032574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032574)
 - [Обновление Claude Code Agent view: теперь одно окно для управления десятком параллельных AI-сессий](https://habr.com/ru/articles/1034904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034904)
 - [Паноптикум и ИИ](https://habr.com/ru/articles/1034894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034894)
-- [Архитектура автоматической трансформации данных JSON и XML любой структуры унифицированным способом](https://habr.com/ru/articles/1034884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034884)
 <!-- BLOG-POST-LIST:END -->
 
 ---
