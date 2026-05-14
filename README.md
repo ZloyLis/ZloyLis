@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Интеграционный хаб в SAP HR — строим гибкость в ритме трансформаций](https://habr.com/ru/companies/lentatech/articles/1032614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032614)
-- [ИИ-пилоты буксуют не из-за модели, главный тормоз — интеграция](https://habr.com/ru/companies/diasoft_company/articles/1034996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034996)
-- [Я сделал склон Скайп в Курсоре за выходные и зарабатываю 1,29 млн рублей в месяц](https://habr.com/ru/articles/1034494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034494)
-- [Строим первую линию техподдержки на n8n за 250$ в месяц. Часть 1](https://habr.com/ru/articles/1034370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034370)
-- [Еще один шаг в сторону объяснимого ИИ. Anthropic научилась читать мысли Claude](https://habr.com/ru/articles/1034988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034988)
+- [Юнит-тестирование на уровне базы данных PostgreSQL](https://habr.com/ru/companies/ibs/articles/1035100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035100)
+- [Девять испытаний роста нагрузки: от стартапа к приложению для 25 миллионов пользователей](https://habr.com/ru/companies/X5Tech/articles/1029410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029410)
+- [Кэширование и трекинг. Как YOLO экономит время и нервы](https://habr.com/ru/companies/ruvds/articles/1033870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033870)
+- [Live Activities: как мы сделали обновление без разрешения пользователя](https://habr.com/ru/companies/banki/articles/1026866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026866)
+- [Три навыка, без которых аналитику 1С сложно расти в проектах](https://habr.com/ru/companies/infostart/articles/1035064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035064)
 <!-- BLOG-POST-LIST:END -->
 
 ---
