@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Codex 5.3 vs Claude Opus 4.6 на реальном Java-монолите](https://habr.com/ru/articles/1034452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034452)
+- [Как я сделал “Авиасейлз для логистики”: агрегатор заявок из 16+ источников](https://habr.com/ru/articles/1035316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035316)
 - [Техники GenAI в Spring AI](https://habr.com/ru/companies/tbank/articles/1035232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035232)
 - [Swagger-генерация на Android. Часть 1. Выбираем инструменты и решаем проблемы](https://habr.com/ru/companies/dododev/articles/974248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974248)
 - [[Перевод] System Design: проектируем Dropbox, сервис для хранения и обмена файлами](https://habr.com/ru/articles/1032184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032184)
-- [ASI-критерий: технотропный AI](https://habr.com/ru/articles/1035190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035190)
-- [Локальное нагрузочное тестирование в Java с использованием Virtual Threads](https://habr.com/ru/articles/1035238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035238)
 <!-- BLOG-POST-LIST:END -->
 
 ---
