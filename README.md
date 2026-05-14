@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Про вайбкодинг или как меч стал рапирой](https://habr.com/ru/articles/1034952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034952)
-- [Vulkan API и асинхронность. Введение. Требования к архитектуре](https://habr.com/ru/articles/1011504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011504)
-- [Про 10x программистов](https://habr.com/ru/articles/1032574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032574)
-- [Обновление Claude Code Agent view: теперь одно окно для управления десятком параллельных AI-сессий](https://habr.com/ru/articles/1034904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034904)
-- [Паноптикум и ИИ](https://habr.com/ru/articles/1034894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034894)
+- [Интеграционный хаб в SAP HR — строим гибкость в ритме трансформаций](https://habr.com/ru/companies/lentatech/articles/1032614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032614)
+- [ИИ-пилоты буксуют не из-за модели, главный тормоз — интеграция](https://habr.com/ru/companies/diasoft_company/articles/1034996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034996)
+- [Я сделал склон Скайп в Курсоре за выходные и зарабатываю 1,29 млн рублей в месяц](https://habr.com/ru/articles/1034494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034494)
+- [Строим первую линию техподдержки на n8n за 250$ в месяц. Часть 1](https://habr.com/ru/articles/1034370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034370)
+- [Еще один шаг в сторону объяснимого ИИ. Anthropic научилась читать мысли Claude](https://habr.com/ru/articles/1034988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034988)
 <!-- BLOG-POST-LIST:END -->
 
 ---
