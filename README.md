@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Юнит-тестирование на уровне базы данных PostgreSQL](https://habr.com/ru/companies/ibs/articles/1035100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035100)
-- [Девять испытаний роста нагрузки: от стартапа к приложению для 25 миллионов пользователей](https://habr.com/ru/companies/X5Tech/articles/1029410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029410)
-- [Кэширование и трекинг. Как YOLO экономит время и нервы](https://habr.com/ru/companies/ruvds/articles/1033870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033870)
-- [Live Activities: как мы сделали обновление без разрешения пользователя](https://habr.com/ru/companies/banki/articles/1026866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1026866)
-- [Три навыка, без которых аналитику 1С сложно расти в проектах](https://habr.com/ru/companies/infostart/articles/1035064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035064)
+- [Каталог преднастроенных моделей, VDS и другие обновления: дайджест Selectel за апрель](https://habr.com/ru/companies/selectel/articles/1035174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035174)
+- [Как построить Value Stream Map &lpar;VSM&rpar;: пошаговая инструкция](https://habr.com/ru/companies/otus/articles/1033052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033052)
+- [Создавая SetupWizard для кастомной AOSP: на что обратить внимание](https://habr.com/ru/companies/yadro/articles/1034676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034676)
+- [Как построить и проверить катастрофоустойчивость в облаке: от плана до Game Day](https://habr.com/ru/companies/vk/articles/1034702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034702)
+- [Scoped Store: Когда useReducer не тянет, а Redux — слишком](https://habr.com/ru/articles/1034926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034926)
 <!-- BLOG-POST-LIST:END -->
 
 ---
