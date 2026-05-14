@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Каталог преднастроенных моделей, VDS и другие обновления: дайджест Selectel за апрель](https://habr.com/ru/companies/selectel/articles/1035174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035174)
-- [Как построить Value Stream Map &lpar;VSM&rpar;: пошаговая инструкция](https://habr.com/ru/companies/otus/articles/1033052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033052)
-- [Создавая SetupWizard для кастомной AOSP: на что обратить внимание](https://habr.com/ru/companies/yadro/articles/1034676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034676)
-- [Как построить и проверить катастрофоустойчивость в облаке: от плана до Game Day](https://habr.com/ru/companies/vk/articles/1034702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034702)
-- [Scoped Store: Когда useReducer не тянет, а Redux — слишком](https://habr.com/ru/articles/1034926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034926)
+- [Техники GenAI в Spring AI](https://habr.com/ru/companies/tbank/articles/1035232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035232)
+- [Swagger-генерация на Android. Часть 1. Выбираем инструменты и решаем проблемы](https://habr.com/ru/companies/dododev/articles/974248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=974248)
+- [[Перевод] System Design: проектируем Dropbox, сервис для хранения и обмена файлами](https://habr.com/ru/articles/1032184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032184)
+- [ASI-критерий: технотропный AI](https://habr.com/ru/articles/1035190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035190)
+- [Локальное нагрузочное тестирование в Java с использованием Virtual Threads](https://habr.com/ru/articles/1035238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035238)
 <!-- BLOG-POST-LIST:END -->
 
 ---
