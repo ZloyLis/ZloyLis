@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Очереди в микросервисах: 5 ошибок, которые приводят к дублям и потерям](https://habr.com/ru/companies/otus/articles/1031284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031284)
 - [Почему программисты не сходят с ума&lpar;и почему иногда всё же сходят&rpar;](https://habr.com/ru/articles/1035784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035784)
 - [Обработка исключений, возникших при обработке исключений](https://habr.com/ru/articles/1035762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035762)
 - [Telegram в IntelliJ: как устроен IDEGram и что он умеет](https://habr.com/ru/articles/1035758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035758)
 - [Сравнение моделей конкурентности JVM языков: Нужен ли еще ThreadPool после coroutines, ZIO и Virtual Threads?](https://habr.com/ru/articles/1035740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035740)
-- [Корпоративная архитектура: 6 антипаттернов и как их избежать](https://habr.com/ru/companies/infotecs_tech/articles/1020498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020498)
 <!-- BLOG-POST-LIST:END -->
 
 ---
