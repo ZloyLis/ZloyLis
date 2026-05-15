@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ты выучил язык. Но инженером это тебя не сделало](https://habr.com/ru/articles/1035386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035386)
-- [Шрифтовые иски в РФ: 15,3 млн ₽ взысканий за 5 лет и как технически проверить свой сайт](https://habr.com/ru/articles/1035362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035362)
-- [Автоматизация процессов в гидравлических системах ч. 2](https://habr.com/ru/articles/1035360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035360)
-- [Codex 5.3 vs Claude Opus 4.6 на реальном Java-монолите](https://habr.com/ru/articles/1034452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034452)
-- [Как я сделал “Авиасейлз для логистики”: агрегатор заявок из 16+ источников](https://habr.com/ru/articles/1035316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035316)
+- [[Перевод] Async/Await в C# это синтаксический сахар для конечного автомата](https://habr.com/ru/articles/1035442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035442)
+- [Что дизайнеру показывать в портфолио, если метрики под NDA, работ мало и задачи были небольшими](https://habr.com/ru/articles/1035340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035340)
+- [Строки в Python: всё не так просто, как кажется](https://habr.com/ru/companies/yandex_praktikum/articles/1031556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031556)
+- [Performance Review в Авито — прозрачная методика роста в компании](https://habr.com/ru/companies/avito/articles/1034300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034300)
+- [Сравнение моделей конкурентности JVM языков: Kotlin coroutines, ZIO runtime и Clojure](https://habr.com/ru/articles/1034938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034938)
 <!-- BLOG-POST-LIST:END -->
 
 ---
