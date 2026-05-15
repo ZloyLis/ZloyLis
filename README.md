@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Обработка исключений, возникших при обработке исключений](https://habr.com/ru/articles/1035762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035762)
+- [Telegram в IntelliJ: как устроен IDEGram и что он умеет](https://habr.com/ru/articles/1035758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035758)
+- [Сравнение моделей конкурентности JVM языков: Нужен ли еще ThreadPool после coroutines, ZIO и Virtual Threads?](https://habr.com/ru/articles/1035740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035740)
+- [Корпоративная архитектура: 6 антипаттернов и как их избежать](https://habr.com/ru/companies/infotecs_tech/articles/1020498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1020498)
 - [Я заколебался искать запятую в коде бота — и написал библиотеку, чтобы диалоги жили в YAML](https://habr.com/ru/articles/1035714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035714)
-- [Почему проекты превращаются в спагетти даже у хороших программистов](https://habr.com/ru/articles/1035696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035696)
-- [Кэш результатов запросов в Postgres Pro: как ускорить часто выполняющиеся запросы и разгрузить базу](https://habr.com/ru/companies/postgrespro/articles/975370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975370)
-- [СУБД Tantor Postgres 18: обзор улучшений для 1С](https://habr.com/ru/companies/tantor/articles/1035568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035568)
-- [Трудности обучения, или Когда безопасники отключили интернет](https://habr.com/ru/companies/basis/articles/1029490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029490)
 <!-- BLOG-POST-LIST:END -->
 
 ---
