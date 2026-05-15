@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Async/Await в C# это синтаксический сахар для конечного автомата](https://habr.com/ru/articles/1035442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035442)
-- [Что дизайнеру показывать в портфолио, если метрики под NDA, работ мало и задачи были небольшими](https://habr.com/ru/articles/1035340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035340)
-- [Строки в Python: всё не так просто, как кажется](https://habr.com/ru/companies/yandex_praktikum/articles/1031556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031556)
-- [Performance Review в Авито — прозрачная методика роста в компании](https://habr.com/ru/companies/avito/articles/1034300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034300)
-- [Сравнение моделей конкурентности JVM языков: Kotlin coroutines, ZIO runtime и Clojure](https://habr.com/ru/articles/1034938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034938)
+- [Как собрать пайплайн с LLM агентом который фиксит нативные Android UI автотесты](https://habr.com/ru/articles/1035390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035390)
+- [Kafka, таксономии и удаление событий: как исключить обработку неактуальных сообщений](https://habr.com/ru/articles/1035526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035526)
+- [Ускорение запросов в PostgreSQL: три рычага оптимизации и практический разбор](https://habr.com/ru/companies/first/articles/1035448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035448)
+- [Эксперимент: как pgpro_pwr помог проверить настройки PostgreSQL 17](https://habr.com/ru/articles/1035518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035518)
+- [AI-ассистент для вайб-кодинга — он не лучше, он&lpar;и&rpar; … с другой планеты](https://habr.com/ru/companies/bitrix/articles/1034834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034834)
 <!-- BLOG-POST-LIST:END -->
 
 ---
