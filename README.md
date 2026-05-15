@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как собрать пайплайн с LLM агентом который фиксит нативные Android UI автотесты](https://habr.com/ru/articles/1035390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035390)
-- [Kafka, таксономии и удаление событий: как исключить обработку неактуальных сообщений](https://habr.com/ru/articles/1035526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035526)
-- [Ускорение запросов в PostgreSQL: три рычага оптимизации и практический разбор](https://habr.com/ru/companies/first/articles/1035448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035448)
-- [Эксперимент: как pgpro_pwr помог проверить настройки PostgreSQL 17](https://habr.com/ru/articles/1035518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035518)
-- [AI-ассистент для вайб-кодинга — он не лучше, он&lpar;и&rpar; … с другой планеты](https://habr.com/ru/companies/bitrix/articles/1034834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034834)
+- [[Перевод] Kotlin переходит к деструктурированию по именам](https://habr.com/ru/companies/spring_aio/articles/1035596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035596)
+- [Когда онбординг длится 2 месяца: день 3 — проследить главный поток данных](https://habr.com/ru/articles/1035392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035392)
+- [Как эволюционировала главная книга по Qt в России и чем удивляет 7-е издание](https://habr.com/ru/companies/bhv_publishing/articles/1035594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035594)
+- [Использование машинного обучения в работе с SolidWorks &lpar;2 часть&rpar;: тестирование и практическое применение](https://habr.com/ru/articles/1035378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035378)
+- [Внезапный обзор Tecno Spark Slim](https://habr.com/ru/articles/1035588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035588)
 <!-- BLOG-POST-LIST:END -->
 
 ---
