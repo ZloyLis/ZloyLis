@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Kotlin переходит к деструктурированию по именам](https://habr.com/ru/companies/spring_aio/articles/1035596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035596)
-- [Когда онбординг длится 2 месяца: день 3 — проследить главный поток данных](https://habr.com/ru/articles/1035392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035392)
-- [Как эволюционировала главная книга по Qt в России и чем удивляет 7-е издание](https://habr.com/ru/companies/bhv_publishing/articles/1035594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035594)
-- [Использование машинного обучения в работе с SolidWorks &lpar;2 часть&rpar;: тестирование и практическое применение](https://habr.com/ru/articles/1035378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035378)
-- [Внезапный обзор Tecno Spark Slim](https://habr.com/ru/articles/1035588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035588)
+- [Я заколебался искать запятую в коде бота — и написал библиотеку, чтобы диалоги жили в YAML](https://habr.com/ru/articles/1035714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035714)
+- [Почему проекты превращаются в спагетти даже у хороших программистов](https://habr.com/ru/articles/1035696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035696)
+- [Кэш результатов запросов в Postgres Pro: как ускорить часто выполняющиеся запросы и разгрузить базу](https://habr.com/ru/companies/postgrespro/articles/975370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=975370)
+- [СУБД Tantor Postgres 18: обзор улучшений для 1С](https://habr.com/ru/companies/tantor/articles/1035568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035568)
+- [Трудности обучения, или Когда безопасники отключили интернет](https://habr.com/ru/companies/basis/articles/1029490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029490)
 <!-- BLOG-POST-LIST:END -->
 
 ---
