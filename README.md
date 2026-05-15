@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Я заставил LLM писать Rust полгода. Вот что они стабильно ломают](https://habr.com/ru/articles/1035712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035712)
 - [Очереди в микросервисах: 5 ошибок, которые приводят к дублям и потерям](https://habr.com/ru/companies/otus/articles/1031284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031284)
 - [Почему программисты не сходят с ума&lpar;и почему иногда всё же сходят&rpar;](https://habr.com/ru/articles/1035784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035784)
 - [Обработка исключений, возникших при обработке исключений](https://habr.com/ru/articles/1035762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035762)
 - [Telegram в IntelliJ: как устроен IDEGram и что он умеет](https://habr.com/ru/articles/1035758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035758)
-- [Сравнение моделей конкурентности JVM языков: Нужен ли еще ThreadPool после coroutines, ZIO и Virtual Threads?](https://habr.com/ru/articles/1035740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035740)
 <!-- BLOG-POST-LIST:END -->
 
 ---
