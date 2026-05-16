@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кешбэк-апокалипсис: у меня семь карт, смартфон с ИИ и я всё равно плачу не той картой](https://habr.com/ru/articles/1035868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035868)
+- [Слои и модели данных: какие бывают, как и кто с ними работает](https://habr.com/ru/companies/yandex_praktikum/articles/1035558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035558)
 - [Нейросеть — не второй программист. Как правильно разделить работу. Помощь для начинающих](https://habr.com/ru/articles/1035842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035842)
 - [manage.py migrate в пятницу в 17:30 на проде с 3K RPS и таблицей 200М строк](https://habr.com/ru/articles/1035830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035830)
 - [PLC-Tracer — новый взгляд на Ladder логику](https://habr.com/ru/articles/1035818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035818)
-- [Фишинг с подменой URI: или как один хитрый редирект может угнать ваши пароли](https://habr.com/ru/articles/1035814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035814)
-- [Harness вокруг LLM: что я понял за год ежедневной работы](https://habr.com/ru/articles/1035812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035812)
 <!-- BLOG-POST-LIST:END -->
 
 ---
