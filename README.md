@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нейросеть — не второй программист. Как правильно разделить работу. Помощь для начинающих](https://habr.com/ru/articles/1035842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035842)
+- [manage.py migrate в пятницу в 17:30 на проде с 3K RPS и таблицей 200М строк](https://habr.com/ru/articles/1035830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035830)
+- [PLC-Tracer — новый взгляд на Ladder логику](https://habr.com/ru/articles/1035818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035818)
 - [Фишинг с подменой URI: или как один хитрый редирект может угнать ваши пароли](https://habr.com/ru/articles/1035814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035814)
-- [Harness вокруг LLM: что я понял за полтора года ежедневной работы](https://habr.com/ru/articles/1035812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035812)
-- [Как запихнуть килограмм LLM в телеграм-бота и не сойти с ума](https://habr.com/ru/articles/1035810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035810)
-- [Я заставил LLM писать Rust полгода. Вот что они стабильно ломают](https://habr.com/ru/articles/1035712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035712)
-- [Очереди в микросервисах: 5 ошибок, которые приводят к дублям и потерям](https://habr.com/ru/companies/otus/articles/1031284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031284)
+- [Harness вокруг LLM: что я понял за год ежедневной работы](https://habr.com/ru/articles/1035812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035812)
 <!-- BLOG-POST-LIST:END -->
 
 ---
