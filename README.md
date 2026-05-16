@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ-агенты как на ладони — профильные открытые инструменты с графическим интерфейсом](https://habr.com/ru/companies/beeline_cloud/articles/1035950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035950)
 - [ИИ съест экономику изнутри. А потом запустит ядерный апокалипсис](https://habr.com/ru/articles/1035938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035938)
 - [Как работают lambda-функции в Python: замыкания, позднее связывание и антипаттерны](https://habr.com/ru/articles/1035918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035918)
 - [Кешбэк-апокалипсис: у меня семь карт, смартфон с ИИ и я всё равно плачу не той картой](https://habr.com/ru/articles/1035868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035868)
 - [Слои и модели данных: какие бывают, как и кто с ними работает](https://habr.com/ru/companies/yandex_praktikum/articles/1035558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035558)
-- [Нейросеть — не второй программист. Как правильно разделить работу. Помощь для начинающих](https://habr.com/ru/articles/1035842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035842)
 <!-- BLOG-POST-LIST:END -->
 
 ---
