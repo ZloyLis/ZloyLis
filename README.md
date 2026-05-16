@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Push-уведомления в мессенджере: production-грабли которых нет в туториалах](https://habr.com/ru/articles/1035992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035992)
 - [Как я за последний год стал программировать по-новому. А как вы?](https://habr.com/ru/articles/1035970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035970)
 - [Кастомный пайплайн BERTopic: как кластеризовать тексты и получить интерпретируемые темы с помощью LLM](https://habr.com/ru/companies/rostelecom/articles/1035346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035346)
 - [ИИ-агенты как на ладони — профильные открытые инструменты с графическим интерфейсом](https://habr.com/ru/companies/beeline_cloud/articles/1035950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035950)
 - [ИИ съест экономику изнутри. А потом запустит ядерный апокалипсис](https://habr.com/ru/articles/1035938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035938)
-- [Как работают lambda-функции в Python: замыкания, позднее связывание и антипаттерны](https://habr.com/ru/articles/1035918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035918)
 <!-- BLOG-POST-LIST:END -->
 
 ---
