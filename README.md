@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Фишинг с подменой URI: или как один хитрый редирект может угнать ваши пароли](https://habr.com/ru/articles/1035814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035814)
+- [Harness вокруг LLM: что я понял за полтора года ежедневной работы](https://habr.com/ru/articles/1035812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035812)
+- [Как запихнуть килограмм LLM в телеграм-бота и не сойти с ума](https://habr.com/ru/articles/1035810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035810)
 - [Я заставил LLM писать Rust полгода. Вот что они стабильно ломают](https://habr.com/ru/articles/1035712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035712)
 - [Очереди в микросервисах: 5 ошибок, которые приводят к дублям и потерям](https://habr.com/ru/companies/otus/articles/1031284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031284)
-- [Почему программисты не сходят с ума&lpar;и почему иногда всё же сходят&rpar;](https://habr.com/ru/articles/1035784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035784)
-- [Обработка исключений, возникших при обработке исключений](https://habr.com/ru/articles/1035762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035762)
-- [Telegram в IntelliJ: как устроен IDEGram и что он умеет](https://habr.com/ru/articles/1035758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035758)
 <!-- BLOG-POST-LIST:END -->
 
 ---
