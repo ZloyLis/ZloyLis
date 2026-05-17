@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Мобильная разработка за неделю #630 &lpar;11 — 17 мая&rpar;](https://habr.com/ru/articles/1036078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036078)
-- [Как управлять эволюционным поиском? На примере конечных автоматов](https://habr.com/ru/articles/1035788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035788)
-- [МакКладун или почему балансеруны не нужны](https://habr.com/ru/articles/1036062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036062)
-- [[Перевод] Эпоха иллюзорной продуктивности](https://habr.com/ru/companies/ruvds/articles/1035026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035026)
-- [Из актрисы в бизнес-аналитика: как я выбирала новую профессию, училась и искала работу](https://habr.com/ru/companies/yandex_praktikum/articles/1034090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034090)
+- [«Боргворглер: боргает ворглер», или как сделать действительно полезную документацию к проекту](https://habr.com/ru/companies/beeline_cloud/articles/1036004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036004)
+- [Немного извращений из мира прокси и VPN](https://habr.com/ru/articles/1036100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036100)
+- [«Продай мне этот космолёт» или история любви к симуляторам. От космосима X-Tension до ActorModel/DoD/ECS архитектуры. Ч2](https://habr.com/ru/articles/1035768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035768)
+- [MELT-1: трансформер 7B сдыхает за 11 часов, а наш агент живёт 95](https://habr.com/ru/articles/1036098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036098)
+- [А что не так с вашими миграциями? Liquibase, rollback и первые тревожные признаки](https://habr.com/ru/articles/1036052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036052)
 <!-- BLOG-POST-LIST:END -->
 
 ---
