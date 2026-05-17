@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [МакКладун или почему балансеруны не нужны](https://habr.com/ru/articles/1036062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036062)
 - [[Перевод] Эпоха иллюзорной продуктивности](https://habr.com/ru/companies/ruvds/articles/1035026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035026)
 - [Из актрисы в бизнес-аналитика: как я выбирала новую профессию, училась и искала работу](https://habr.com/ru/companies/yandex_praktikum/articles/1034090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034090)
 - [Как перестать взрывать мозг оппонентам. Кошелек Миллера в межкомандных переговорах](https://habr.com/ru/articles/1036024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036024)
 - [Push-уведомления в мессенджере: production-грабли которых нет в туториалах](https://habr.com/ru/articles/1035992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035992)
-- [Как я за последний год стал программировать по-новому. А как вы?](https://habr.com/ru/articles/1035970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035970)
 <!-- BLOG-POST-LIST:END -->
 
 ---
