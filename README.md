@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [AI-агенты в разработке: как Cursor, Claude Code и агентный подход меняют работу программиста](https://habr.com/ru/companies/netologyru/articles/1034130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034130)
+- [GLM-5.1 придумал для меня новый алгоритм](https://habr.com/ru/articles/1036118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036118)
 - [«Боргворглер: боргает ворглер», или как сделать действительно полезную документацию к проекту](https://habr.com/ru/companies/beeline_cloud/articles/1036004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036004)
 - [Немного извращений из мира прокси и VPN](https://habr.com/ru/articles/1036100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036100)
 - [«Продай мне этот космолёт» или история любви к симуляторам. От космосима X-Tension до ActorModel/DoD/ECS архитектуры. Ч2](https://habr.com/ru/articles/1035768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035768)
-- [MELT-1: трансформер 7B сдыхает за 11 часов, а наш агент живёт 95](https://habr.com/ru/articles/1036098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036098)
-- [А что не так с вашими миграциями? Liquibase, rollback и первые тревожные признаки](https://habr.com/ru/articles/1036052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036052)
 <!-- BLOG-POST-LIST:END -->
 
 ---
