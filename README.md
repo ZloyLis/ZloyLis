@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как я продавал двери, 11 лет работал в IT, а потом начал учить сварочного робота наплавлять круги](https://habr.com/ru/articles/1036410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036410)
-- [Предзаказ на книгу: «Компьютерные сети. Принципы, технологии, протоколы. 7-е издание»](https://habr.com/ru/companies/piter/articles/1036300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036300)
-- [[Перевод] Как выжать максимум из Codex](https://habr.com/ru/articles/1036396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036396)
-- [Разработали дизайн-концепцию для интернет-магазина KINGSTORE](https://habr.com/ru/articles/1036394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036394)
-- [Spring Agent Toolkit: ультимативный набор для вашего AI-агента](https://habr.com/ru/companies/haulmont/articles/1034688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034688)
+- [[Перевод] Каждая AI-подписка — это бомба замедленного действия для корпоративного сектора](https://habr.com/ru/articles/1036550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036550)
+- [Security Week 2621: три уязвимости нулевого дня в Windows](https://habr.com/ru/companies/kaspersky/articles/1036400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036400)
+- [Рейтинг технологий для мобильной разработки для банков в 2026 году](https://habr.com/ru/articles/1036528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036528)
+- [Тестирование случайности самодельного ГПСЧ и сравнение с эталонами](https://habr.com/ru/articles/1036522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036522)
+- [15 приёмов EDA на Python, которые работают лучше красивого дизайна](https://habr.com/ru/companies/ru_mts/articles/1035366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035366)
 <!-- BLOG-POST-LIST:END -->
 
 ---
