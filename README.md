@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [3 ошибки при работе с dataclasses в Python](https://habr.com/ru/companies/otus/articles/1034394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034394)
 - [Код Telegram iOS — лучший в индустрии. Почему же он так лагает на флагманах?](https://habr.com/ru/articles/1036590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036590)
 - [Vercel выкатил язык программирования для агентов. Я пытаюсь понять, нужен ли он мне](https://habr.com/ru/articles/1036570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036570)
 - [Почему ваши логи бесполезны и как это починить за полчаса](https://habr.com/ru/companies/otus/articles/1034388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034388)
 - [[Перевод] Каждая AI-подписка — это бомба замедленного действия для корпоративного сектора](https://habr.com/ru/articles/1036550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036550)
-- [Security Week 2621: три уязвимости нулевого дня в Windows](https://habr.com/ru/companies/kaspersky/articles/1036400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036400)
 <!-- BLOG-POST-LIST:END -->
 
 ---
