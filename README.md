@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Насколько многомерным может быть многомерный точный индекс?](https://habr.com/ru/articles/1036056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036056)
+- [Wayback Machine как архив IDOR: как временные ссылки перестали быть временными](https://habr.com/ru/articles/1035516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035516)
 - [Непослушный using](https://habr.com/ru/articles/1036104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036104)
 - [Память дала AI-агенту прошлое. Solo Kanban даёт ему настоящее](https://habr.com/ru/articles/1036170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036170)
 - [AI-агенты в разработке: как Cursor, Claude Code и агентный подход меняют работу программиста](https://habr.com/ru/companies/netologyru/articles/1034130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034130)
-- [GLM-5.1 придумал для меня новый алгоритм](https://habr.com/ru/articles/1036118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036118)
-- [«Боргворглер: боргает ворглер», или как сделать действительно полезную документацию к проекту](https://habr.com/ru/companies/beeline_cloud/articles/1036004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036004)
 <!-- BLOG-POST-LIST:END -->
 
 ---
