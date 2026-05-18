@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Насколько многомерным может быть многомерный точный индекс?](https://habr.com/ru/articles/1036056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036056)
-- [Wayback Machine как архив IDOR: как временные ссылки перестали быть временными](https://habr.com/ru/articles/1035516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035516)
-- [Непослушный using](https://habr.com/ru/articles/1036104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036104)
-- [Память дала AI-агенту прошлое. Solo Kanban даёт ему настоящее](https://habr.com/ru/articles/1036170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036170)
-- [AI-агенты в разработке: как Cursor, Claude Code и агентный подход меняют работу программиста](https://habr.com/ru/companies/netologyru/articles/1034130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034130)
+- [Trace Points в C++: диагностика production-систем без перезапуска](https://habr.com/ru/articles/1035984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035984)
+- [Черную дыру фотографировали восемь телескопов. Фото собрал алгоритм](https://habr.com/ru/companies/selectel/articles/1033186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033186)
+- [Такая разная агентская разработка: эволюция программирования с нейросетями](https://habr.com/ru/companies/bitrix/articles/1035974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035974)
+- [5 слоев кэширования в веб-приложениях: Полное руководство для Python-разработчиков](https://habr.com/ru/articles/1031748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031748)
+- [[Перевод] Предотвращение лишних реактивных вычислений](https://habr.com/ru/articles/1033288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033288)
 <!-- BLOG-POST-LIST:END -->
 
 ---
