@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Код Telegram iOS — лучший в индустрии. Почему же он так лагает на флагманах?](https://habr.com/ru/articles/1036590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036590)
+- [Vercel выкатил язык программирования для агентов. Я пытаюсь понять, нужен ли он мне](https://habr.com/ru/articles/1036570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036570)
+- [Почему ваши логи бесполезны и как это починить за полчаса](https://habr.com/ru/companies/otus/articles/1034388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034388)
 - [[Перевод] Каждая AI-подписка — это бомба замедленного действия для корпоративного сектора](https://habr.com/ru/articles/1036550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036550)
 - [Security Week 2621: три уязвимости нулевого дня в Windows](https://habr.com/ru/companies/kaspersky/articles/1036400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036400)
-- [Рейтинг технологий для мобильной разработки для банков в 2026 году](https://habr.com/ru/articles/1036528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036528)
-- [Тестирование случайности самодельного ГПСЧ и сравнение с эталонами](https://habr.com/ru/articles/1036522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036522)
-- [15 приёмов EDA на Python, которые работают лучше красивого дизайна](https://habr.com/ru/companies/ru_mts/articles/1035366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035366)
 <!-- BLOG-POST-LIST:END -->
 
 ---
