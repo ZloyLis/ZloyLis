@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Trace Points в C++: диагностика production-систем без перезапуска](https://habr.com/ru/articles/1035984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035984)
-- [Черную дыру фотографировали восемь телескопов. Фото собрал алгоритм](https://habr.com/ru/companies/selectel/articles/1033186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033186)
-- [Такая разная агентская разработка: эволюция программирования с нейросетями](https://habr.com/ru/companies/bitrix/articles/1035974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035974)
-- [5 слоев кэширования в веб-приложениях: Полное руководство для Python-разработчиков](https://habr.com/ru/articles/1031748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031748)
-- [[Перевод] Предотвращение лишних реактивных вычислений](https://habr.com/ru/articles/1033288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033288)
+- [Как я продавал двери, 11 лет работал в IT, а потом начал учить сварочного робота наплавлять круги](https://habr.com/ru/articles/1036410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036410)
+- [Предзаказ на книгу: «Компьютерные сети. Принципы, технологии, протоколы. 7-е издание»](https://habr.com/ru/companies/piter/articles/1036300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036300)
+- [[Перевод] Как выжать максимум из Codex](https://habr.com/ru/articles/1036396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036396)
+- [Разработали дизайн-концепцию для интернет-магазина KINGSTORE](https://habr.com/ru/articles/1036394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036394)
+- [Spring Agent Toolkit: ультимативный набор для вашего AI-агента](https://habr.com/ru/companies/haulmont/articles/1034688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034688)
 <!-- BLOG-POST-LIST:END -->
 
 ---
