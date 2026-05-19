@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Авторизация в Go без боли: как Casbin заменяет километры if-проверок](https://habr.com/ru/companies/first/articles/1036046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036046)
-- [ИИ разработке нужны не спецификации, а полноценная трассировка требований](https://habr.com/ru/articles/1036800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036800)
-- [INFOSTART A&amp;amp;PM EVENT 2026 открыл прием заявок на доклады](https://habr.com/ru/companies/infostart/articles/1036806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036806)
-- [«Норма» как закономерный результат закона о норме](https://habr.com/ru/articles/1036782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036782)
-- [Почему нельзя штрафовать за непропуск пешеходов?](https://habr.com/ru/companies/speclab/articles/1036738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036738)
+- [Переезд с XML на Jetpack Compose на проде: базовые классы, архитектура, сложности и готовые решения](https://habr.com/ru/companies/vk/articles/1036772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036772)
+- [Паттерны организационного дизайна: практическое руководство](https://habr.com/ru/companies/avito/articles/1036614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036614)
+- [Кроссплатформенное приложение на Go руками PHP разработчика](https://habr.com/ru/companies/betboom/articles/1031916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031916)
+- [Сколько весит интернет: считаем массу данных и их хранилищ](https://habr.com/ru/companies/selectel/articles/1036332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036332)
+- [Можно ли вайбкодить на MacBook Neo: почти что настоящая разработка на самом дешевом ноутбуке Apple](https://habr.com/ru/companies/x-com/articles/1036900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036900)
 <!-- BLOG-POST-LIST:END -->
 
 ---
