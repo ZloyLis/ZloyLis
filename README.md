@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Собрал оркестратор для Codex на базе Beads и Superpowers — 4 skill, параллельные subagents, наблюдаемость](https://habr.com/ru/articles/1037064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037064)
 - [Вайб-монтаж печатных плат и такой же код](https://habr.com/ru/articles/1037042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037042)
 - [[Перевод] Эволюция API без боли: ArchUnit, Gradle и правила для библиотек](https://habr.com/ru/companies/spring_aio/articles/1037012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037012)
 - [Анатомия ИИ-трейдера: Как создать своего автономного ИИ-агента и зарабатывать на бирже](https://habr.com/ru/companies/finam_broker/articles/1036574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036574)
 - [5 распространенных ошибок новичка в E2E-тестах](https://habr.com/ru/companies/otus/articles/1034446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034446)
-- [От legacy-монолита к микрофронтендам: архитектура современного SPA](https://habr.com/ru/companies/wildberries/articles/1036296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036296)
 <!-- BLOG-POST-LIST:END -->
 
 ---
