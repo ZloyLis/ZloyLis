@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Бесплатных опционов не бывает](https://habr.com/ru/articles/1036628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036628)
-- [Трое в лодке, нищета и собаки &lpar;с&rpar;](https://habr.com/ru/articles/1034678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034678)
-- [3 ошибки при работе с dataclasses в Python](https://habr.com/ru/companies/otus/articles/1034394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034394)
-- [Код Telegram iOS — лучший в индустрии. Почему же он так лагает на флагманах?](https://habr.com/ru/articles/1036590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036590)
-- [Vercel выкатил язык программирования для агентов. Я пытаюсь понять, нужен ли он мне](https://habr.com/ru/articles/1036570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036570)
+- [Авторизация в Go без боли: как Casbin заменяет километры if-проверок](https://habr.com/ru/companies/first/articles/1036046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036046)
+- [ИИ разработке нужны не спецификации, а полноценная трассировка требований](https://habr.com/ru/articles/1036800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036800)
+- [INFOSTART A&amp;amp;PM EVENT 2026 открыл прием заявок на доклады](https://habr.com/ru/companies/infostart/articles/1036806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036806)
+- [«Норма» как закономерный результат закона о норме](https://habr.com/ru/articles/1036782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036782)
+- [Почему нельзя штрафовать за непропуск пешеходов?](https://habr.com/ru/companies/speclab/articles/1036738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036738)
 <!-- BLOG-POST-LIST:END -->
 
 ---
