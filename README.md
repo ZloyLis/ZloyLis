@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Переезд с XML на Jetpack Compose на проде: базовые классы, архитектура, сложности и готовые решения](https://habr.com/ru/companies/vk/articles/1036772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036772)
-- [Паттерны организационного дизайна: практическое руководство](https://habr.com/ru/companies/avito/articles/1036614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036614)
-- [Кроссплатформенное приложение на Go руками PHP разработчика](https://habr.com/ru/companies/betboom/articles/1031916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031916)
-- [Сколько весит интернет: считаем массу данных и их хранилищ](https://habr.com/ru/companies/selectel/articles/1036332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036332)
-- [Можно ли вайбкодить на MacBook Neo: почти что настоящая разработка на самом дешевом ноутбуке Apple](https://habr.com/ru/companies/x-com/articles/1036900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036900)
+- [Вайб-монтаж печатных плат и такой же код](https://habr.com/ru/articles/1037042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037042)
+- [[Перевод] Эволюция API без боли: ArchUnit, Gradle и правила для библиотек](https://habr.com/ru/companies/spring_aio/articles/1037012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037012)
+- [Анатомия ИИ-трейдера: Как создать своего автономного ИИ-агента и зарабатывать на бирже](https://habr.com/ru/companies/finam_broker/articles/1036574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036574)
+- [5 распространенных ошибок новичка в E2E-тестах](https://habr.com/ru/companies/otus/articles/1034446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034446)
+- [От legacy-монолита к микрофронтендам: архитектура современного SPA](https://habr.com/ru/companies/wildberries/articles/1036296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036296)
 <!-- BLOG-POST-LIST:END -->
 
 ---
