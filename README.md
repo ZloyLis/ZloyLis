@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Бесплатных опционов не бывает](https://habr.com/ru/articles/1036628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036628)
 - [Трое в лодке, нищета и собаки &lpar;с&rpar;](https://habr.com/ru/articles/1034678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034678)
 - [3 ошибки при работе с dataclasses в Python](https://habr.com/ru/companies/otus/articles/1034394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034394)
 - [Код Telegram iOS — лучший в индустрии. Почему же он так лагает на флагманах?](https://habr.com/ru/articles/1036590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036590)
 - [Vercel выкатил язык программирования для агентов. Я пытаюсь понять, нужен ли он мне](https://habr.com/ru/articles/1036570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036570)
-- [Почему ваши логи бесполезны и как это починить за полчаса](https://habr.com/ru/companies/otus/articles/1034388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034388)
 <!-- BLOG-POST-LIST:END -->
 
 ---
