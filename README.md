@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Цены в долларах на Kufar.by](https://habr.com/ru/articles/1037122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037122)
 - [Разбираемся в ML без воды: от базы до Attention. Часть 2](https://habr.com/ru/articles/1037110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037110)
 - [[Перевод] Изнурительно подробное руководство по SSH &lpar;лишь те аспекты, которые я нахожу полезными&rpar;](https://habr.com/ru/articles/1037106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037106)
 - [Ваш docker‑compose.yml сломается: 5 настроек, которые все забывают](https://habr.com/ru/companies/otus/articles/1034390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034390)
 - [6 моделей, 3 инфраструктурных задачи, 1 локальный AI-агент](https://habr.com/ru/articles/1037082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037082)
-- [Собрал оркестратор для Codex на базе Beads и Superpowers — 4 skill, параллельные subagents, наблюдаемость](https://habr.com/ru/articles/1037064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037064)
 <!-- BLOG-POST-LIST:END -->
 
 ---
