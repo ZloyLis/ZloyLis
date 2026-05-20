@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [RAG для тех, кто разочаровался: почему retrieval ломается и как это починить](https://habr.com/ru/companies/otus/articles/1034386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034386)
+- [[Перевод] Dart 3.12 — что нового в Dart?](https://habr.com/ru/articles/1037530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037530)
+- [[Перевод] Flutter 3.44 — Что нового во Flutter?](https://habr.com/ru/articles/1037518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037518)
 - [Что такое DWH &lpar;КХД&rpar; и как работает корпоративное хранилище данных](https://habr.com/ru/articles/1037496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037496)
 - [GitHub блокируют, Bun переписали за 9 дней, и частный космодром в России](https://habr.com/ru/companies/haulmont/articles/1037478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037478)
-- [AsmX с движком Raptor: Архитектура абсолютного контроля](https://habr.com/ru/articles/1037472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037472)
-- [Как я Zabbix с LLM дружил в свободное время. Архитектурный обзор взаимодействия с нейросетью. Часть 3 HLD и немного LLD](https://habr.com/ru/articles/1037466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037466)
-- [[Перевод] Каким должен быть язык программирования, чтобы с ним хорошо работали AI-агенты](https://habr.com/ru/companies/otus/articles/1037264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037264)
 <!-- BLOG-POST-LIST:END -->
 
 ---
