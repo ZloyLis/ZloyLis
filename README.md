@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Цифровой двойник компании: с чего начать изменения в сложном ИТ-ландшафте](https://habr.com/ru/articles/1037390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037390)
-- [Властелин корзин: две вкладки и один Redis &lpar;часть 4&rpar;](https://habr.com/ru/articles/1035716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035716)
-- [Разработка аппаратной платформы для соревнований по Embedded программированию](https://habr.com/ru/articles/1037350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037350)
-- [[Перевод] Apple &lpar;II&rpar; для учителя](https://habr.com/ru/articles/1037184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037184)
-- [Окружение помогает расти: как в челябинском ИТ-хабе инженер техподдержки стал руководителем проектов](https://habr.com/ru/companies/tbank/articles/1036976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036976)
+- [GitHub блокируют, Bun переписали за 9 дней, и частный космодром в России](https://habr.com/ru/companies/haulmont/articles/1037478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037478)
+- [AsmX с движком Raptor: Архитектура абсолютного контроля](https://habr.com/ru/articles/1037472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037472)
+- [Как я Zabbix с LLM дружил в свободное время. Архитектурный обзор взаимодействия с нейросетью. Часть 3 HLD и немного LLD](https://habr.com/ru/articles/1037466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037466)
+- [[Перевод] Каким должен быть язык программирования, чтобы с ним хорошо работали AI-агенты](https://habr.com/ru/companies/otus/articles/1037264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037264)
+- [JTBD, мотиваторы, теория потребностей, оценка ценности: как четыре методики собрать в одну систему](https://habr.com/ru/articles/1037444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037444)
 <!-- BLOG-POST-LIST:END -->
 
 ---
