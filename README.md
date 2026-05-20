@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [SSR и CSR в одном месте: как мы разделили рендеринг для людей и поисковых ботов](https://habr.com/ru/articles/1037280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037280)
-- [PVS-Studio в CMake: теперь официально](https://habr.com/ru/companies/pvs-studio/articles/1037262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037262)
-- [Как я собрал кубик Рубика в браузере на чистом Canvas](https://habr.com/ru/companies/ruvds/articles/1035748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035748)
-- [Кастомное ПО для бизнеса: как понять, что готовые решения уже не справляются](https://habr.com/ru/articles/1037232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037232)
-- [От идеи до работающего Android-приложения: мой опыт vibe-кодинга для реального pet-проекта](https://habr.com/ru/articles/1037228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037228)
+- [Цифровой двойник компании: с чего начать изменения в сложном ИТ-ландшафте](https://habr.com/ru/articles/1037390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037390)
+- [Властелин корзин: две вкладки и один Redis &lpar;часть 4&rpar;](https://habr.com/ru/articles/1035716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035716)
+- [Разработка аппаратной платформы для соревнований по Embedded программированию](https://habr.com/ru/articles/1037350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037350)
+- [[Перевод] Apple &lpar;II&rpar; для учителя](https://habr.com/ru/articles/1037184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037184)
+- [Окружение помогает расти: как в челябинском ИТ-хабе инженер техподдержки стал руководителем проектов](https://habr.com/ru/companies/tbank/articles/1036976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036976)
 <!-- BLOG-POST-LIST:END -->
 
 ---
