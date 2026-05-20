@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Bus factor = 1: 22 критичные для индустрии библиотеки, которые держатся на одном человеке](https://habr.com/ru/articles/1037090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037090)
-- [Взлом GitHub-репозиториев Grafana Labs: как атака на цепочку поставок npm привела к краже кодовой базы и вымогательству](https://habr.com/ru/articles/1037180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037180)
-- [Более 10 лет Comprehensible Input: The Good, the Bad and the Ugly](https://habr.com/ru/articles/1037074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037074)
-- [Про BDUI грабли на примере простого опросника, который не так прост, как кажется](https://habr.com/ru/companies/alfa/articles/1036748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036748)
-- [Создаем ИИ-модель для генерации музыки на базе Lakh MIDI Dataset](https://habr.com/ru/articles/1037170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037170)
+- [SSR и CSR в одном месте: как мы разделили рендеринг для людей и поисковых ботов](https://habr.com/ru/articles/1037280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037280)
+- [PVS-Studio в CMake: теперь официально](https://habr.com/ru/companies/pvs-studio/articles/1037262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037262)
+- [Как я собрал кубик Рубика в браузере на чистом Canvas](https://habr.com/ru/companies/ruvds/articles/1035748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035748)
+- [Кастомное ПО для бизнеса: как понять, что готовые решения уже не справляются](https://habr.com/ru/articles/1037232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037232)
+- [От идеи до работающего Android-приложения: мой опыт vibe-кодинга для реального pet-проекта](https://habr.com/ru/articles/1037228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037228)
 <!-- BLOG-POST-LIST:END -->
 
 ---
