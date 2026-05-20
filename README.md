@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Цены в долларах на Kufar.by](https://habr.com/ru/articles/1037122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037122)
-- [Разбираемся в ML без воды: от базы до Attention. Часть 2](https://habr.com/ru/articles/1037110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037110)
-- [[Перевод] Изнурительно подробное руководство по SSH &lpar;лишь те аспекты, которые я нахожу полезными&rpar;](https://habr.com/ru/articles/1037106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037106)
-- [Ваш docker‑compose.yml сломается: 5 настроек, которые все забывают](https://habr.com/ru/companies/otus/articles/1034390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034390)
-- [6 моделей, 3 инфраструктурных задачи, 1 локальный AI-агент](https://habr.com/ru/articles/1037082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037082)
+- [Bus factor = 1: 22 критичные для индустрии библиотеки, которые держатся на одном человеке](https://habr.com/ru/articles/1037090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037090)
+- [Взлом GitHub-репозиториев Grafana Labs: как атака на цепочку поставок npm привела к краже кодовой базы и вымогательству](https://habr.com/ru/articles/1037180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037180)
+- [Более 10 лет Comprehensible Input: The Good, the Bad and the Ugly](https://habr.com/ru/articles/1037074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037074)
+- [Про BDUI грабли на примере простого опросника, который не так прост, как кажется](https://habr.com/ru/companies/alfa/articles/1036748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036748)
+- [Создаем ИИ-модель для генерации музыки на базе Lakh MIDI Dataset](https://habr.com/ru/articles/1037170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037170)
 <!-- BLOG-POST-LIST:END -->
 
 ---
