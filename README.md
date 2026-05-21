@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [ArchiMate 4: Отказ от слоёв и унификация метамодели](https://habr.com/ru/articles/1037744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037744)
-- [Дальнейшая судьба SFP-Master](https://habr.com/ru/articles/1037734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037734)
-- [Как мы построили корпоративную LLM-платформу: архитектура, грабли и выводы](https://habr.com/ru/companies/sminex_developer/articles/1037438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037438)
-- [Bitrix и Laravel: веб-хуки, ERP и все-все-все &lpar;часть 5&rpar;](https://habr.com/ru/articles/1035704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035704)
-- [Поиск секрета популярности лучших репозиториев GitHub за всё время существования платформы](https://habr.com/ru/articles/1037706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037706)
+- [Безопасный Docker с torque](https://habr.com/ru/articles/1037870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037870)
+- [Spring AI: феноменология цифрового сознания, или Как я перестал бояться и полюбил облачные модели](https://habr.com/ru/companies/beeline_cloud/articles/1037862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037862)
+- [Баги, которые нас воспитали: инженерные истории с Go Loto](https://habr.com/ru/companies/avito/articles/1037846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037846)
+- [Зачем ОС нужен Root-of-Trust и как KasperskyOS работает с разными реализациями](https://habr.com/ru/companies/kaspersky/articles/1035708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035708)
+- [А что, если управлять торговой платформой голосом? За 48 часов собрали голосового ассистента и проверили](https://habr.com/ru/companies/garage8/articles/1037842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037842)
 <!-- BLOG-POST-LIST:END -->
 
 ---
