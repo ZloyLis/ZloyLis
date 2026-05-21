@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разбираемся в ML без воды: от базы до Attention. Часть 3](https://habr.com/ru/articles/1037892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037892)
 - [Безопасный Docker с torque](https://habr.com/ru/articles/1037870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037870)
 - [Spring AI: феноменология цифрового сознания, или Как я перестал бояться и полюбил облачные модели](https://habr.com/ru/companies/beeline_cloud/articles/1037862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037862)
 - [Баги, которые нас воспитали: инженерные истории с Go Loto](https://habr.com/ru/companies/avito/articles/1037846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037846)
 - [Зачем ОС нужен Root-of-Trust и как KasperskyOS работает с разными реализациями](https://habr.com/ru/companies/kaspersky/articles/1035708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035708)
-- [А что, если управлять торговой платформой голосом? За 48 часов собрали голосового ассистента и проверили](https://habr.com/ru/companies/garage8/articles/1037842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037842)
 <!-- BLOG-POST-LIST:END -->
 
 ---
