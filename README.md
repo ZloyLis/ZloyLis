@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Тебя уволят, и ничего не сломается. Возможно, станет даже лучше](https://habr.com/ru/articles/1037560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037560)
 - [Один за всех: как я в одиночку тащу фуллстек-проект, который незаметно разросся до соцсети](https://habr.com/ru/articles/1037554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037554)
 - [RAG для тех, кто разочаровался: почему retrieval ломается и как это починить](https://habr.com/ru/companies/otus/articles/1034386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034386)
 - [[Перевод] Dart 3.12 — что нового в Dart?](https://habr.com/ru/articles/1037530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037530)
 - [[Перевод] Flutter 3.44 — Что нового во Flutter?](https://habr.com/ru/articles/1037518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037518)
-- [Что такое DWH &lpar;КХД&rpar; и как работает корпоративное хранилище данных](https://habr.com/ru/articles/1037496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037496)
 <!-- BLOG-POST-LIST:END -->
 
 ---
