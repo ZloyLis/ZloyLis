@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Построение корпоративной архитектуры в ИТ-проектах, используя методологию TOGAF](https://habr.com/ru/articles/1037612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037612)
-- [Claudex: как я подружил Claude Code с ChatGPT/Codex OAuth без OpenAI API key](https://habr.com/ru/articles/1037520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037520)
-- [Версионирование таблиц репозитория метаданных Sigla Vision](https://habr.com/ru/companies/gazprombank/articles/1036472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036472)
-- [Графическая утилита PostgreSQL mini Profiler &lpar;в помощь экспертам по технологическим вопросам 1С и не только им&rpar;](https://habr.com/ru/articles/1037504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037504)
-- [Процессы: чего до сих пор не хватало обычным BPM &lpar;Часть 2&rpar;](https://habr.com/ru/articles/1037598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037598)
+- [ArchiMate 4: Отказ от слоёв и унификация метамодели](https://habr.com/ru/articles/1037744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037744)
+- [Дальнейшая судьба SFP-Master](https://habr.com/ru/articles/1037734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037734)
+- [Как мы построили корпоративную LLM-платформу: архитектура, грабли и выводы](https://habr.com/ru/companies/sminex_developer/articles/1037438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037438)
+- [Bitrix и Laravel: веб-хуки, ERP и все-все-все &lpar;часть 5&rpar;](https://habr.com/ru/articles/1035704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035704)
+- [Поиск секрета популярности лучших репозиториев GitHub за всё время существования платформы](https://habr.com/ru/articles/1037706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037706)
 <!-- BLOG-POST-LIST:END -->
 
 ---
