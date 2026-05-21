@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Паттерн Backend for Frontend &lpar;BFF&rpar; в разработке современных приложений](https://habr.com/ru/companies/cinimex/articles/1037792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037792)
 - [«Продай мне этот космолёт» или история любви к симуляторам. От космосима X-Tension до ActorModel/DoD/ECS архитектуры. Ч3](https://habr.com/ru/articles/1037524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037524)
 - [Архитектурные компромиссы в разработке игр](https://habr.com/ru/articles/1037740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037740)
 - [Ваш Kubernetes упал: найдёте root cause за 15 минут?](https://habr.com/ru/companies/otus/articles/1031260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031260)
 - [Разбираемся в ML без воды: от базы до Attention. Часть 3](https://habr.com/ru/articles/1037892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037892)
-- [Безопасный Docker с torque](https://habr.com/ru/articles/1037870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037870)
 <!-- BLOG-POST-LIST:END -->
 
 ---
