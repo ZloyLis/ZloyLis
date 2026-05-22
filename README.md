@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Первые отзывы на новинки о System Design](https://habr.com/ru/companies/piter/articles/1037222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037222)
-- [Влияние параметра planner_upper_limit_estimation на планы выполнения и профиль нагрузки PostgreSQL при использовании 1C](https://habr.com/ru/articles/1038058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038058)
-- [Границы 100% разработки с агентами](https://habr.com/ru/articles/1038056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038056)
-- [Быстрый OCR на основе Paddle](https://habr.com/ru/articles/1037868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037868)
-- [Математика кластеров: разбираемся в умной кластеризации данных на примере нашей системы поиска аномалий в логах. Часть 1](https://habr.com/ru/companies/ru_mts/articles/1037752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037752)
+- [Практический ИИ-агент Python: LangGraph + Qdrant](https://habr.com/ru/articles/1038190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038190)
+- [Как я делал ping и traceroute на iOS без entitlements — и почему это оказалось проще, чем UMP-консент для AdMob](https://habr.com/ru/articles/1038188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038188)
+- [4 MVP за 4 месяца, 30 холодных DM, 1 регистрация: building in public по-русски](https://habr.com/ru/articles/1035756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035756)
+- [INFOSTART TECH EVENT или INFOSTART A&amp;amp;PM EVENT — как понять, куда вам нужнее?](https://habr.com/ru/companies/infostart/articles/1038160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038160)
+- [Peer testing на основе Закона Линуса](https://habr.com/ru/articles/1038158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038158)
 <!-- BLOG-POST-LIST:END -->
 
 ---
