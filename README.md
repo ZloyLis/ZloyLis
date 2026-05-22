@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Паттерн Backend for Frontend &lpar;BFF&rpar; в разработке современных приложений](https://habr.com/ru/companies/cinimex/articles/1037792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037792)
-- [«Продай мне этот космолёт» или история любви к симуляторам. От космосима X-Tension до ActorModel/DoD/ECS архитектуры. Ч3](https://habr.com/ru/articles/1037524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037524)
-- [Архитектурные компромиссы в разработке игр](https://habr.com/ru/articles/1037740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037740)
-- [Ваш Kubernetes упал: найдёте root cause за 15 минут?](https://habr.com/ru/companies/otus/articles/1031260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031260)
-- [Разбираемся в ML без воды: от базы до Attention. Часть 3](https://habr.com/ru/articles/1037892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037892)
+- [Первые отзывы на новинки о System Design](https://habr.com/ru/companies/piter/articles/1037222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037222)
+- [Влияние параметра planner_upper_limit_estimation на планы выполнения и профиль нагрузки PostgreSQL при использовании 1C](https://habr.com/ru/articles/1038058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038058)
+- [Границы 100% разработки с агентами](https://habr.com/ru/articles/1038056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038056)
+- [Быстрый OCR на основе Paddle](https://habr.com/ru/articles/1037868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037868)
+- [Математика кластеров: разбираемся в умной кластеризации данных на примере нашей системы поиска аномалий в логах. Часть 1](https://habr.com/ru/companies/ru_mts/articles/1037752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037752)
 <!-- BLOG-POST-LIST:END -->
 
 ---
