@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Практический ИИ-агент Python: LangGraph + Qdrant](https://habr.com/ru/articles/1038190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038190)
-- [Как я делал ping и traceroute на iOS без entitlements — и почему это оказалось проще, чем UMP-консент для AdMob](https://habr.com/ru/articles/1038188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038188)
-- [4 MVP за 4 месяца, 30 холодных DM, 1 регистрация: building in public по-русски](https://habr.com/ru/articles/1035756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035756)
-- [INFOSTART TECH EVENT или INFOSTART A&amp;amp;PM EVENT — как понять, куда вам нужнее?](https://habr.com/ru/companies/infostart/articles/1038160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038160)
-- [Peer testing на основе Закона Линуса](https://habr.com/ru/articles/1038158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038158)
+- [Как «спят» вкладки в браузере](https://habr.com/ru/companies/yoomoney/articles/1038288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038288)
+- [Что сейчас с Project Loom? Structured Concurrency: preview №7](https://habr.com/ru/articles/1037932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037932)
+- [Мнения математиков о том, как ИИ опроверг гипотезу Эрдёша](https://habr.com/ru/companies/kodik/articles/1038244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038244)
+- [Слабоумие и отвага: как я за выходные сделала прототип ИИ-помощника для UX-дизайнера](https://habr.com/ru/companies/lukit_ru/articles/1037968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037968)
+- [[Перевод] Как проектировать ИИ-инструменты, которые делают пользователей лучше](https://habr.com/ru/articles/1038262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038262)
 <!-- BLOG-POST-LIST:END -->
 
 ---
