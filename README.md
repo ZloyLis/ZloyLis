@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Free Porn Storage: передаём мемы в TLS-трафике, не привлекая внимания санитаров](https://habr.com/ru/articles/1038348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038348)
 - [Zero — новый agent-first язык программирования от Vercel, который изменит все &lpar;нет&rpar;](https://habr.com/ru/articles/1038314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038314)
 - [Как «спят» вкладки в браузере](https://habr.com/ru/companies/yoomoney/articles/1038288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038288)
 - [Что сейчас с Project Loom? Structured Concurrency: preview №7](https://habr.com/ru/articles/1037932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037932)
 - [Мнения математиков о том, как ИИ опроверг гипотезу Эрдёша](https://habr.com/ru/companies/kodik/articles/1038244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038244)
-- [Слабоумие и отвага: как я за выходные сделала прототип ИИ-помощника для UX-дизайнера](https://habr.com/ru/companies/lukit_ru/articles/1037968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037968)
 <!-- BLOG-POST-LIST:END -->
 
 ---
