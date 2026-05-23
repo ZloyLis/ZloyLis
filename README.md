@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Python в enterprise: момент, когда пора открыть Java не только ради собеседований](https://habr.com/ru/articles/1038366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038366)
 - [Спасти рядового Буридана](https://habr.com/ru/articles/1038354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038354)
 - [Рефакторинг выпадающих списков: от enum к конфигу-константе](https://habr.com/ru/articles/1038350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038350)
 - [Free Porn Storage: передаём мемы в TLS-трафике, не привлекая внимания санитаров](https://habr.com/ru/articles/1038348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038348)
 - [Zero — новый agent-first язык программирования от Vercel, который изменит все &lpar;нет&rpar;](https://habr.com/ru/articles/1038314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038314)
-- [Как «спят» вкладки в браузере](https://habr.com/ru/companies/yoomoney/articles/1038288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038288)
 <!-- BLOG-POST-LIST:END -->
 
 ---
