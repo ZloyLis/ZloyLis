@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [ИИ‑спасатель в кармане: как мы сделали агента для помощи при ЧС, который работает без интернета](https://habr.com/ru/articles/1038384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038384)
-- [От боли к npm install: TDLib для React-Native, или как я делал проект, а получилась библиотека](https://habr.com/ru/articles/1038380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038380)
-- [Написание консольного симулятора баттл-арены на языке С++ с реализацией «умных» ботов](https://habr.com/ru/articles/1038376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038376)
-- [Очень много букв… Или кейс по специфической настройке рабочего окружения](https://habr.com/ru/articles/1038372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038372)
-- [Segmentation Fault: как оно устроено?](https://habr.com/ru/articles/1038370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038370)
+- [Feature Based Clean Architecture. Часть 4: FBCA: формализация границ ответственности в NestJS-модуле](https://habr.com/ru/articles/1038438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038438)
+- [CyLab Security Academy: как Carnegie Mellon превратила CTF в полноценную обучающую платформу](https://habr.com/ru/articles/1017168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017168)
+- [Feature Based Clean Architecture. Часть 3: Архитектурный риск циклов в NestJS: ROI решений на горизонте пяти лет](https://habr.com/ru/articles/1038426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038426)
+- [Feature Based Clean Architecture. Часть 2: Декомпозиция на сервисы: анализ ограниченности подхода](https://habr.com/ru/articles/1038416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038416)
+- [Обход блокировок внутри iOS-приложения: VLESS + Reality через sing-box, и грабли по дороге](https://habr.com/ru/articles/1038412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038412)
 <!-- BLOG-POST-LIST:END -->
 
 ---
