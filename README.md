@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [RustDesk Pro в России не купить. После долгих лет администрирования мы собрали своё честное решение](https://habr.com/ru/articles/1038580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038580)
 - [Вредоносная атака на Laravel-Lang](https://habr.com/ru/articles/1038542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038542)
 - [Разбираемся в ML без воды: от базы до Attention. Часть 4: kNN](https://habr.com/ru/articles/1038554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038554)
 - [Что сейчас с Project Loom? Примеры и код](https://habr.com/ru/articles/1038528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038528)
 - [Линт проектов: собираем ESLint, Prettier и Stylelint в один пакет](https://habr.com/ru/articles/1038340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038340)
-- [[Перевод] Новая теория обещает переписать фундамент всей математики](https://habr.com/ru/articles/1038488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038488)
 <!-- BLOG-POST-LIST:END -->
 
 ---
