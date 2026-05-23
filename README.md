@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Новая теория обещает переписать фундамент всей математики](https://habr.com/ru/articles/1038488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038488)
+- [[Перевод] Соль и перец в безопасности паролей](https://habr.com/ru/companies/spring_aio/articles/1038478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038478)
+- [CodeGraph: граф кода для Claude Code вместо grep по файлам. Разбираю архитектуру и проверяю бенчмарки](https://habr.com/ru/articles/1038474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038474)
+- [Мессенджер Ласточка. Нас не пустили в Rustore](https://habr.com/ru/articles/1038468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038468)
 - [Feature Based Clean Architecture. Часть 5: Масштабирование FBCA и теоретико-графовый анализ зависимостей](https://habr.com/ru/articles/1038450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038450)
-- [Feature Based Clean Architecture. Часть 4: FBCA: формализация границ ответственности в NestJS-модуле](https://habr.com/ru/articles/1038438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038438)
-- [CyLab Security Academy: как Carnegie Mellon превратила CTF в полноценную обучающую платформу](https://habr.com/ru/articles/1017168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1017168)
-- [Feature Based Clean Architecture. Часть 3: Архитектурный риск циклов в NestJS: ROI решений на горизонте пяти лет](https://habr.com/ru/articles/1038426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038426)
-- [Feature Based Clean Architecture. Часть 2: Декомпозиция на сервисы: анализ ограниченности подхода](https://habr.com/ru/articles/1038416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038416)
 <!-- BLOG-POST-LIST:END -->
 
 ---
