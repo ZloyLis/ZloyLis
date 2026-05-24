@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Метафизика в формулах: математическое ядро «Веры Паломника — Исход»](https://habr.com/ru/articles/1038716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038716)
+- [Java и постквантовый TLS](https://habr.com/ru/articles/1038654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038654)
+- [Кнопочный смартфон с 5G за 2800 рублей — разбираем и изучаем китайскую диковинку](https://habr.com/ru/companies/timeweb/articles/1037720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037720)
 - [Мобильная разработка за неделю #631 &lpar;18 — 24 мая&rpar;](https://habr.com/ru/articles/1038690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038690)
 - [Вариационное исчисление как метафора свободы выбора: от градиентного спуска к онтологии пути](https://habr.com/ru/articles/1038662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038662)
-- [Ekahau Sidekick и RSSI‑offset: физические ограничения метода и пять независимых причин неточности клиентской модели](https://habr.com/ru/articles/1038302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038302)
-- [Колесо потока против раскола](https://habr.com/ru/articles/1038650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038650)
-- [Обзор интересных особенностей переворачивающихся при умножении чисел](https://habr.com/ru/articles/1038642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038642)
 <!-- BLOG-POST-LIST:END -->
 
 ---
