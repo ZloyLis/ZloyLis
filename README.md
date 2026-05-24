@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [AGENTS.md создавали, чтобы помогать агентам. Я использую его, чтобы их вычислять](https://habr.com/ru/articles/1038786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038786)
+- [Почему устанавливают join_collapse_limit = 20](https://habr.com/ru/companies/tantor/articles/1038762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038762)
 - [Context-driven Reusable Form Pattern: Масштабируемая архитектура для Create / Edit / Create-from-Source](https://habr.com/ru/articles/1038754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038754)
 - [Разбираемся в ML без воды: от базы до Attention. Часть 5: Метрики качества](https://habr.com/ru/articles/1038730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038730)
 - [Интернет до бесконечных лент: каким был 2010 год](https://habr.com/ru/articles/1038726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038726)
-- [Перезапуск TrueIndex: что изменилось в рейтинге языков программирования](https://habr.com/ru/articles/1038720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038720)
-- [«Метафизика в формулах: математическое ядро «Веры Паломника — Исход»](https://habr.com/ru/articles/1038716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038716)
 <!-- BLOG-POST-LIST:END -->
 
 ---
