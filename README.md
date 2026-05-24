@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пользователь пишет issue, агент меняет сайт. Да, я это сделал](https://habr.com/ru/articles/1038604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038604)
 - [Как я победил спам в своих email аккаунтах](https://habr.com/ru/articles/1038592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038592)
 - [Whitepaper Сбера «AI-Disrupt PDLC»: разбор для тех, кто пишет код](https://habr.com/ru/companies/oleg-bunin/articles/1038588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038588)
 - [RustDesk Pro в России не купить. После долгих лет администрирования мы собрали своё честное решение](https://habr.com/ru/articles/1038580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038580)
 - [Вредоносная атака на Laravel-Lang](https://habr.com/ru/articles/1038542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038542)
-- [Разбираемся в ML без воды: от базы до Attention. Часть 4: kNN](https://habr.com/ru/articles/1038554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038554)
 <!-- BLOG-POST-LIST:END -->
 
 ---
