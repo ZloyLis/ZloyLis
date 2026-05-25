@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как аквариум на подоконнике превратился в full-stack платформу с AI](https://habr.com/ru/articles/1038572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038572)
-- [GiftsHub — из чат-бота в полноценный backend-продукт](https://habr.com/ru/companies/bitrix/articles/1037498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037498)
-- [RAG в энтерпрайзе: почему демо работает, а прод нет](https://habr.com/ru/articles/1038670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038670)
-- [[Перевод] Масштабирование LLM: от одного чипа до ЦОДа. Глава 2. Шардинг](https://habr.com/ru/articles/1037918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037918)
-- [LLM не работает за вас. Она работает с вами](https://habr.com/ru/articles/1038574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038574)
+- [Профайлер для PostgreSQL: от идеи до работающего MVP за сутки](https://habr.com/ru/companies/tantor/articles/1038214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038214)
+- [[Перевод] Ограничения размера cookie в ASP.NET Core в продакшене: причины и способы решения](https://habr.com/ru/companies/otus/articles/1038232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038232)
+- [Хакатон Samsung IT Academy Hack 2026: как студенты оптимизировали поиск в корпоративном мессенджере](https://habr.com/ru/companies/vk/articles/1038306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038306)
+- [Ты уже используешь агента. Просто не заметил](https://habr.com/ru/articles/1038780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038780)
+- [Как отлаживать мини‑приложения в MAX и почему без DevTools это боль](https://habr.com/ru/articles/1039030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039030)
 <!-- BLOG-POST-LIST:END -->
 
 ---
