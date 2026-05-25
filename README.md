@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Профайлер для PostgreSQL: от идеи до работающего MVP за сутки](https://habr.com/ru/companies/tantor/articles/1038214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038214)
-- [[Перевод] Ограничения размера cookie в ASP.NET Core в продакшене: причины и способы решения](https://habr.com/ru/companies/otus/articles/1038232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038232)
-- [Хакатон Samsung IT Academy Hack 2026: как студенты оптимизировали поиск в корпоративном мессенджере](https://habr.com/ru/companies/vk/articles/1038306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038306)
-- [Ты уже используешь агента. Просто не заметил](https://habr.com/ru/articles/1038780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038780)
-- [Как отлаживать мини‑приложения в MAX и почему без DevTools это боль](https://habr.com/ru/articles/1039030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039030)
+- [Как настроить observability в Spring Boot 3](https://habr.com/ru/companies/otus/articles/1031290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031290)
+- [Как 100+ авторов пишут 100+ процессов в 3 версиях и не путаются. Или как мы переехали с Wiki на Git](https://habr.com/ru/companies/gram_ax/articles/1035488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035488)
+- [Прошла AnalystDays – хорошие выступления и нетворкинг](https://habr.com/ru/articles/1039166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039166)
+- [Я стала тимлидом команды джунов, работали быстро и по ночам. А потом закончились токены](https://habr.com/ru/companies/sibur_official/articles/1039014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039014)
+- [Святой Августин и GAN: почему борьба добра и зла — это генеративная состязательная сеть](https://habr.com/ru/articles/1039144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039144)
 <!-- BLOG-POST-LIST:END -->
 
 ---
