@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Serial Terminal: кастомный веб-терминал для последовательного порта на Web Serial API](https://habr.com/ru/articles/1039272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039272)
+- [@tanstack/vue-table: почему я почти отказался от этого…](https://habr.com/ru/articles/1039302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039302)
+- [WHERE превращает ваш LEFT JOIN в INNER JOIN. И никто вам об этом не скажет](https://habr.com/ru/companies/otus/articles/1036194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036194)
+- [Веб-терминал для COM-порта без установки: подключается за 2 секунды](https://habr.com/ru/articles/1039272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039272)
 - [Open-source VPN клиент Tunguska](https://habr.com/ru/articles/1039264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039264)
 - [Security Week 2622: эффективность Claude Mythos по версии Cloudflare](https://habr.com/ru/companies/kaspersky/articles/1038890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038890)
-- [Как настроить observability в Spring Boot 3](https://habr.com/ru/companies/otus/articles/1031290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031290)
-- [Как 100+ авторов пишут 100+ процессов в 3 версиях и не путаются. Или как мы переехали с Wiki на Git](https://habr.com/ru/companies/gram_ax/articles/1035488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035488)
 <!-- BLOG-POST-LIST:END -->
 
 ---
