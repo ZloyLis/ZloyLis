@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Мессенджер HalChat теперь в Google Play: 3 года разработки, ИИ в браузере и квест с модерацией](https://habr.com/ru/articles/1038816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038816)
-- [Реверс-инжиниринг Xiaomi Smart Band 10](https://habr.com/ru/articles/1038812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038812)
-- [AGENTS.md создавали, чтобы помогать агентам. Я использую его, чтобы их вычислять](https://habr.com/ru/articles/1038786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038786)
-- [Почему устанавливают join_collapse_limit = 20](https://habr.com/ru/companies/tantor/articles/1038762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038762)
-- [Context-driven Reusable Form Pattern: Масштабируемая архитектура для Create / Edit / Create-from-Source](https://habr.com/ru/articles/1038754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038754)
+- [Как аквариум на подоконнике превратился в full-stack платформу с AI](https://habr.com/ru/articles/1038572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038572)
+- [GiftsHub — из чат-бота в полноценный backend-продукт](https://habr.com/ru/companies/bitrix/articles/1037498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037498)
+- [RAG в энтерпрайзе: почему демо работает, а прод нет](https://habr.com/ru/articles/1038670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038670)
+- [[Перевод] Масштабирование LLM: от одного чипа до ЦОДа. Глава 2. Шардинг](https://habr.com/ru/articles/1037918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037918)
+- [LLM не работает за вас. Она работает с вами](https://habr.com/ru/articles/1038574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038574)
 <!-- BLOG-POST-LIST:END -->
 
 ---
