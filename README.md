@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Capacitor: от веба к мобильным приложениям. Часть 4. Интегрируем локальный LLM в проект](https://habr.com/ru/articles/1039318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039318)
 - [@tanstack/vue-table: почему я почти отказался от этого…](https://habr.com/ru/articles/1039302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039302)
 - [WHERE превращает ваш LEFT JOIN в INNER JOIN. И никто вам об этом не скажет](https://habr.com/ru/companies/otus/articles/1036194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036194)
 - [Веб-терминал для COM-порта без установки: подключается за 2 секунды](https://habr.com/ru/articles/1039272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039272)
 - [Open-source VPN клиент Tunguska](https://habr.com/ru/articles/1039264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039264)
-- [Security Week 2622: эффективность Claude Mythos по версии Cloudflare](https://habr.com/ru/companies/kaspersky/articles/1038890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038890)
 <!-- BLOG-POST-LIST:END -->
 
 ---
