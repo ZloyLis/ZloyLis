@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Не прячьте интерфейс в код: защищаем внешний вид как промобразец, изобретение и товарный знак](https://habr.com/ru/articles/1039420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039420)
-- [Технология многовидового представления в nanoCAD BIM Строительство](https://habr.com/ru/companies/nanosoft/articles/1039196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039196)
-- [DRAйверы для GPU: как Kubernetes научился выделять устройства через стандартный API](https://habr.com/ru/companies/flant/articles/1038000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038000)
-- [Gradle под капотом: как перестать страдать и заставить сборку летать](https://habr.com/ru/articles/1038946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038946)
-- [[Перевод] Браузеры подстраиваются под большие сайты](https://habr.com/ru/articles/1038124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038124)
+- [PostgreSQL и аналитика: что меняется, когда хранилище становится общим](https://habr.com/ru/companies/tantor/articles/1039680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039680)
+- [Codex за 5 месяцев 2026: мой топ-5 релизов, что не зашло и где OpenAI обогнал Anthropic](https://habr.com/ru/articles/1039740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039740)
+- [Вайбкодинг заканчивается на localhost: как я строю SaaS для цифровизации коттеджных поселков с Codex](https://habr.com/ru/articles/1039704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039704)
+- [[Перевод] От capabilities к AppArmor: что реально остановит атакующего в контейнере](https://habr.com/ru/companies/otus/articles/1039572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039572)
+- [Проектирование архитектуры в нотации ArchiMate с использованием ИИ. Часть 2](https://habr.com/ru/companies/axenix/articles/1038916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038916)
 <!-- BLOG-POST-LIST:END -->
 
 ---
