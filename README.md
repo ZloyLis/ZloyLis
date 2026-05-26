@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL и аналитика: что меняется, когда хранилище становится общим](https://habr.com/ru/companies/tantor/articles/1039680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039680)
-- [Codex за 5 месяцев 2026: мой топ-5 релизов, что не зашло и где OpenAI обогнал Anthropic](https://habr.com/ru/articles/1039740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039740)
-- [Вайбкодинг заканчивается на localhost: как я строю SaaS для цифровизации коттеджных поселков с Codex](https://habr.com/ru/articles/1039704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039704)
-- [[Перевод] От capabilities к AppArmor: что реально остановит атакующего в контейнере](https://habr.com/ru/companies/otus/articles/1039572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039572)
-- [Проектирование архитектуры в нотации ArchiMate с использованием ИИ. Часть 2](https://habr.com/ru/companies/axenix/articles/1038916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038916)
+- [Увеличиваем продажи без слез аналитика](https://habr.com/ru/companies/otus/articles/1037016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037016)
+- [Оптимизация запросов к PostgreSQL: 5 неочевидных настроек для продакшена](https://habr.com/ru/articles/1039800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039800)
+- [45 лет тюрьмы за DROP TABLE и переход Карпатого в Anthropic](https://habr.com/ru/companies/haulmont/articles/1039790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039790)
+- [[Перевод] Java — быстрая. Ваш код может таким не быть](https://habr.com/ru/companies/spring_aio/articles/1039778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039778)
+- [Быстрые интеграции в 1С: прощайте, бесконечные переделки](https://habr.com/ru/companies/alabuga_sez/articles/1039770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039770)
 <!-- BLOG-POST-LIST:END -->
 
 ---
