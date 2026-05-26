@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [За пределами LLM, часть 2: якорная таблица Кэли, которая не является ни полем, ни моноидом](https://habr.com/ru/articles/1039330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039330)
-- [Capacitor: от веба к мобильным приложениям. Часть 4. Интегрируем локальный LLM в проект](https://habr.com/ru/articles/1039318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039318)
-- [@tanstack/vue-table: почему я почти отказался от этого…](https://habr.com/ru/articles/1039302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039302)
-- [WHERE превращает ваш LEFT JOIN в INNER JOIN. И никто вам об этом не скажет](https://habr.com/ru/companies/otus/articles/1036194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036194)
-- [Веб-терминал для COM-порта без установки: подключается за 2 секунды](https://habr.com/ru/articles/1039272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039272)
+- [Не прячьте интерфейс в код: защищаем внешний вид как промобразец, изобретение и товарный знак](https://habr.com/ru/articles/1039420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039420)
+- [Технология многовидового представления в nanoCAD BIM Строительство](https://habr.com/ru/companies/nanosoft/articles/1039196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039196)
+- [DRAйверы для GPU: как Kubernetes научился выделять устройства через стандартный API](https://habr.com/ru/companies/flant/articles/1038000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038000)
+- [Gradle под капотом: как перестать страдать и заставить сборку летать](https://habr.com/ru/articles/1038946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038946)
+- [[Перевод] Браузеры подстраиваются под большие сайты](https://habr.com/ru/articles/1038124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038124)
 <!-- BLOG-POST-LIST:END -->
 
 ---
