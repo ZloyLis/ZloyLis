@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я 8 дней ловил утечку памяти в Nuxt 3 SSR, и несколько раз думал, что починил](https://habr.com/ru/articles/1040346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040346)
+- [Почему советские программисты не сделали GTA](https://habr.com/ru/articles/1039828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039828)
+- [Последовательное иерархическое распределение сумм. Создание БД. Распределение сумм по правилам средствами PostgreSQL](https://habr.com/ru/articles/1040376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040376)
 - [Язык программирования T](https://habr.com/ru/articles/1040370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040370)
 - [Ключ к вычислимости ℵ₋₁](https://habr.com/ru/articles/1040352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040352)
-- [Кодировка: почему « ё » оказалось не моё?](https://habr.com/ru/articles/1040356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040356)
-- [Линии влияния в многопролётных шарнирных балках: бесплатный веб-инструмент для проверки расчётов](https://habr.com/ru/articles/1040328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040328)
-- [Я перевёл 200K строк JS на TS с Claude Code. Что прошло, что сломалось](https://habr.com/ru/articles/1040326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040326)
 <!-- BLOG-POST-LIST:END -->
 
 ---
