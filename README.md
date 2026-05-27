@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ускоряем и оптимизируем numpy, pandas, scipy и sklearn](https://habr.com/ru/articles/1039866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039866)
+- [Idempotency keys: 5 граблей, которые мы поймали на проде](https://habr.com/ru/articles/1039860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039860)
 - [Менеджер ресурсов](https://habr.com/ru/articles/1039266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039266)
 - [Увеличиваем продажи без слез аналитика](https://habr.com/ru/companies/otus/articles/1037016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037016)
 - [Оптимизация запросов к PostgreSQL: 5 неочевидных настроек для продакшена](https://habr.com/ru/articles/1039800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039800)
-- [45 лет тюрьмы за DROP TABLE и переход Карпатого в Anthropic](https://habr.com/ru/companies/haulmont/articles/1039790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039790)
-- [[Перевод] Java — быстрая. Ваш код может таким не быть](https://habr.com/ru/companies/spring_aio/articles/1039778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039778)
 <!-- BLOG-POST-LIST:END -->
 
 ---
