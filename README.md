@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Линии влияния в многопролётных шарнирных балках: бесплатный веб-инструмент для проверки расчётов](https://habr.com/ru/articles/1040328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040328)
+- [Я перевёл 200K строк JS на TS с Claude Code. Что прошло, что сломалось](https://habr.com/ru/articles/1040326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040326)
+- [Как я создал систему, которая знает меня лучше чем я сам](https://habr.com/ru/articles/1040302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040302)
+- [io_uring без розовых очков: 5 граблей, которые сожгли мне неделю, и где он реально быстрее epoll](https://habr.com/ru/articles/1039820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039820)
 - [[Перевод] Слишком много открытых файлов: лимит Linux, который валит прод в 3 часа ночи](https://habr.com/ru/companies/otus/articles/1039768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039768)
-- [Талант, удача или среда: что на самом деле влияет на успех](https://habr.com/ru/companies/avito/articles/1039712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039712)
-- [Назирокодил утилиту на Kotlin для создания аккордов в любой тональности](https://habr.com/ru/articles/1037586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037586)
-- [Помидор, которого нет: почему VLA-модели не понимают, что они держат](https://habr.com/ru/articles/1040236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040236)
-- [NXS Universal Chart v3.1.0: умный autoRollout, новые subcharts и MCP сервер](https://habr.com/ru/articles/1040230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040230)
 <!-- BLOG-POST-LIST:END -->
 
 ---
