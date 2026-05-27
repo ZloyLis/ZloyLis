@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Torque — ваши сверхспособности для отладки k8s](https://habr.com/ru/articles/1040168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040168)
-- [Антипаттерны Zabbix в крупной инфраструктуре: каталог базовых граблей](https://habr.com/ru/articles/1040166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040166)
-- [«Насколько вы контролируете то, из чего состоит ваш продукт?». Как и зачем проводить Open Source Analysis](https://habr.com/ru/companies/yadro/articles/1038144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038144)
-- [[Перевод] Дезагрегированный инференс LLM в Kubernetes: префилл, декодирование и планирование подов](https://habr.com/ru/companies/vktech/articles/1040076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040076)
-- [Как стать Go-разработчиком с нуля? Бесплатная программа обучения](https://habr.com/ru/articles/1039696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039696)
+- [[Перевод] Слишком много открытых файлов: лимит Linux, который валит прод в 3 часа ночи](https://habr.com/ru/companies/otus/articles/1039768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039768)
+- [Талант, удача или среда: что на самом деле влияет на успех](https://habr.com/ru/companies/avito/articles/1039712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039712)
+- [Назирокодил утилиту на Kotlin для создания аккордов в любой тональности](https://habr.com/ru/articles/1037586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037586)
+- [Помидор, которого нет: почему VLA-модели не понимают, что они держат](https://habr.com/ru/articles/1040236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040236)
+- [NXS Universal Chart v3.1.0: умный autoRollout, новые subcharts и MCP сервер](https://habr.com/ru/articles/1040230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040230)
 <!-- BLOG-POST-LIST:END -->
 
 ---
