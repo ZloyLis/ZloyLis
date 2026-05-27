@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Язык программирования T](https://habr.com/ru/articles/1040370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040370)
+- [Ключ к вычислимости ℵ₋₁](https://habr.com/ru/articles/1040352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040352)
+- [Кодировка: почему « ё » оказалось не моё?](https://habr.com/ru/articles/1040356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040356)
 - [Линии влияния в многопролётных шарнирных балках: бесплатный веб-инструмент для проверки расчётов](https://habr.com/ru/articles/1040328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040328)
 - [Я перевёл 200K строк JS на TS с Claude Code. Что прошло, что сломалось](https://habr.com/ru/articles/1040326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040326)
-- [Как я создал систему, которая знает меня лучше чем я сам](https://habr.com/ru/articles/1040302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040302)
-- [io_uring без розовых очков: 5 граблей, которые сожгли мне неделю, и где он реально быстрее epoll](https://habr.com/ru/articles/1039820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039820)
-- [[Перевод] Слишком много открытых файлов: лимит Linux, который валит прод в 3 часа ночи](https://habr.com/ru/companies/otus/articles/1039768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039768)
 <!-- BLOG-POST-LIST:END -->
 
 ---
