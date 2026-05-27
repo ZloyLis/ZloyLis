@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ускоряем и оптимизируем numpy, pandas, scipy и sklearn](https://habr.com/ru/articles/1039866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039866)
-- [Idempotency keys: 5 граблей, которые мы поймали на проде](https://habr.com/ru/articles/1039860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039860)
-- [Менеджер ресурсов](https://habr.com/ru/articles/1039266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039266)
-- [Увеличиваем продажи без слез аналитика](https://habr.com/ru/companies/otus/articles/1037016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037016)
-- [Оптимизация запросов к PostgreSQL: 5 неочевидных настроек для продакшена](https://habr.com/ru/articles/1039800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039800)
+- [RAG-Anything: Как собрать по-настоящему мультимодальный RAG](https://habr.com/ru/companies/bothub/articles/1037946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037946)
+- [Как я готовился к Certified Kubernetes Security Specialist &lpar;CKS&rpar; в 2026 году](https://habr.com/ru/articles/1040004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040004)
+- [Почему RAG — фундамент любой AI-трансформации](https://habr.com/ru/articles/1039986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039986)
+- [После ИИ писать код руками ощущается уже не как норма](https://habr.com/ru/articles/1039836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039836)
+- [Языковые модели без машинного обучения](https://habr.com/ru/articles/1039976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039976)
 <!-- BLOG-POST-LIST:END -->
 
 ---
