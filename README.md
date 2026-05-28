@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как я 8 дней ловил утечку памяти в Nuxt 3 SSR, и несколько раз думал, что починил](https://habr.com/ru/articles/1040346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040346)
-- [Почему советские программисты не сделали GTA](https://habr.com/ru/articles/1039828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039828)
-- [Последовательное иерархическое распределение сумм. Создание БД. Распределение сумм по правилам средствами PostgreSQL](https://habr.com/ru/articles/1040376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040376)
-- [Язык программирования T](https://habr.com/ru/articles/1040370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040370)
-- [Ключ к вычислимости ℵ₋₁](https://habr.com/ru/articles/1040352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040352)
+- [Мобильный Vivaldi 8.0 — Лучший браузер для лета](https://habr.com/ru/companies/vivaldi/articles/1040446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040446)
+- [Разработка на Python: когда много думать = вредить проекту](https://habr.com/ru/companies/dalee_group/articles/1040146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040146)
+- [Пишем Java-скрипт, который собирает проект в один файл для контекста в чат DeepSeek или другие LLM](https://habr.com/ru/articles/1040420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040420)
+- [Гайд: как системному аналитику построить доменную модель для Java-микросервисов](https://habr.com/ru/companies/otus/articles/1031274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031274)
+- [Балансировка входящего трафика на железе: как надёжно вывести K8s наружу с MetalLB, BGP и L2 &lpar;подход от Deckhouse&rpar;](https://habr.com/ru/companies/flant/articles/1039392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039392)
 <!-- BLOG-POST-LIST:END -->
 
 ---
