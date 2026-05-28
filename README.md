@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Формула интегрирования по частям с точки зрения дифференциальной геометрии](https://habr.com/ru/articles/1039658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039658)
-- [Plan-tango: как я перестал гонять план между Claude Code и Codex руками](https://habr.com/ru/articles/1040602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040602)
-- [Как стать postgres в чужом облаке: краш-тест безопасности управляемых БД](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/1040504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040504)
-- [Погружение в новый проект: как не потерять месяц жизни](https://habr.com/ru/articles/1039794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039794)
-- [Семантический слой: архитектура, подходы и роль в эпоху AI-аналитики](https://habr.com/ru/companies/axenix/articles/1040468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040468)
+- [JavaScript. Работа с большими файлами в браузере. Часть 2/2: Создание 5Gb файлов в браузере](https://habr.com/ru/articles/1040752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040752)
+- [Как дебажить distroless-контейнер в Kubernetes без shell: ephemeral containers на практике](https://habr.com/ru/articles/1040748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040748)
+- [Как оплатить обучение за границей из России в 2026 году: способы, цены, рейтинги](https://habr.com/ru/articles/1040728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040728)
+- [Почему компании строят свои конструкторы баннеров: разбор паттерна, который никто не называет](https://habr.com/ru/articles/1040718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040718)
+- [Структурированное логирование и трейсинг в Node.js: @cleverbrush/log и @cleverbrush/otel](https://habr.com/ru/articles/1040714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040714)
 <!-- BLOG-POST-LIST:END -->
 
 ---
