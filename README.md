@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Мобильный Vivaldi 8.0 — Лучший браузер для лета](https://habr.com/ru/companies/vivaldi/articles/1040446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040446)
-- [Разработка на Python: когда много думать = вредить проекту](https://habr.com/ru/companies/dalee_group/articles/1040146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040146)
-- [Пишем Java-скрипт, который собирает проект в один файл для контекста в чат DeepSeek или другие LLM](https://habr.com/ru/articles/1040420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040420)
-- [Гайд: как системному аналитику построить доменную модель для Java-микросервисов](https://habr.com/ru/companies/otus/articles/1031274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031274)
-- [Балансировка входящего трафика на железе: как надёжно вывести K8s наружу с MetalLB, BGP и L2 &lpar;подход от Deckhouse&rpar;](https://habr.com/ru/companies/flant/articles/1039392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039392)
+- [Формула интегрирования по частям с точки зрения дифференциальной геометрии](https://habr.com/ru/articles/1039658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039658)
+- [Plan-tango: как я перестал гонять план между Claude Code и Codex руками](https://habr.com/ru/articles/1040602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040602)
+- [Как стать postgres в чужом облаке: краш-тест безопасности управляемых БД](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/1040504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040504)
+- [Погружение в новый проект: как не потерять месяц жизни](https://habr.com/ru/articles/1039794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039794)
+- [Семантический слой: архитектура, подходы и роль в эпоху AI-аналитики](https://habr.com/ru/companies/axenix/articles/1040468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040468)
 <!-- BLOG-POST-LIST:END -->
 
 ---
