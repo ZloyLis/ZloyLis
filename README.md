@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript. Работа с большими файлами в браузере. Часть 2/2: Создание 5Gb файлов в браузере](https://habr.com/ru/articles/1040752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040752)
-- [Как дебажить distroless-контейнер в Kubernetes без shell: ephemeral containers на практике](https://habr.com/ru/articles/1040748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040748)
-- [Как оплатить обучение за границей из России в 2026 году: способы, цены, рейтинги](https://habr.com/ru/articles/1040728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040728)
-- [Почему компании строят свои конструкторы баннеров: разбор паттерна, который никто не называет](https://habr.com/ru/articles/1040718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040718)
-- [Структурированное логирование и трейсинг в Node.js: @cleverbrush/log и @cleverbrush/otel](https://habr.com/ru/articles/1040714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040714)
+- [Зарядка для джависта](https://habr.com/ru/articles/1040856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040856)
+- [Cursor пишет вам unit‑тесты за минуту. 5 паттернов, на которых эти тесты пропустят любой баг](https://habr.com/ru/companies/otus/articles/1039858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039858)
+- [Из разработчика в системные аналитики: практический путь в профессию](https://habr.com/ru/articles/1040758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040758)
+- [Одна строчка .Result роняет ваш ASP.NET Core при CPU 8 %: разбор hill-climbing в .NET 9](https://habr.com/ru/articles/1040804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040804)
+- [Миграции в Go-проекте: PostgreSQL в Docker и goose на практике](https://habr.com/ru/articles/1040802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040802)
 <!-- BLOG-POST-LIST:END -->
 
 ---
