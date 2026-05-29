@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [# Bare-metal Kubernetes на 5 VM: Calico IPIP + MetalLB + GitOps — честный опыт с граблями](https://habr.com/ru/articles/1041356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041356)
+- [[Перевод] Что мы можем получить, отказавшись от бесконечности?](https://habr.com/ru/articles/1041350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041350)
+- [IT очищается от случайных людей. И это хорошо](https://habr.com/ru/articles/1041348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041348)
+- [Как мы ускорили расчёт факторов ранжирования в поиске Ozon с помощью динамической компиляции](https://habr.com/ru/companies/ozontech/articles/1041218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041218)
 - [Удобная компоновка &lpar;в расте&rpar;](https://habr.com/ru/articles/1041308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041308)
-- [Более 50 лет назад выдвинули гипотезу о Языке Мышления. Мы досконально разобрались с ней – и вам советуем. Это лучше ИИ](https://habr.com/ru/articles/1040552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040552)
-- [Моделирование угроз для тех, у кого лапки &lpar;и ручки&rpar;](https://habr.com/ru/companies/avito/articles/1041246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041246)
-- [Как избежать 7 критических ошибок при переходе на микросервисы](https://habr.com/ru/companies/otus/articles/1031278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031278)
-- [Как я полгода вайбкодил ИИ-платформу для создания контента](https://habr.com/ru/articles/1041288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041288)
 <!-- BLOG-POST-LIST:END -->
 
 ---
