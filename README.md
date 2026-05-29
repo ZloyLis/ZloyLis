@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [HTTPS-перехват на практике](https://habr.com/ru/companies/globalsign/articles/1041160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041160)
-- [Какой антиплагиат лучше и как выбрать в 2026 году: сравниваем Антиплагиат, Руконтекст и Turnitin по пяти критериям](https://habr.com/ru/articles/1041140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041140)
-- [Давай сделаем сайт с помощью дизайн-системы? Ты будешь дизайнить гораздо быстрее](https://habr.com/ru/articles/1041124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041124)
-- [HR-аналитика: почему ваши метрики врут &lpar;и как это заметить&rpar;](https://habr.com/ru/companies/korus_consulting/articles/1041122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041122)
-- [Любимые хоткеи моих тимлидов /s](https://habr.com/ru/articles/1041102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041102)
+- [Удобная компоновка &lpar;в расте&rpar;](https://habr.com/ru/articles/1041308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041308)
+- [Более 50 лет назад выдвинули гипотезу о Языке Мышления. Мы досконально разобрались с ней – и вам советуем. Это лучше ИИ](https://habr.com/ru/articles/1040552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040552)
+- [Моделирование угроз для тех, у кого лапки &lpar;и ручки&rpar;](https://habr.com/ru/companies/avito/articles/1041246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041246)
+- [Как избежать 7 критических ошибок при переходе на микросервисы](https://habr.com/ru/companies/otus/articles/1031278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031278)
+- [Как я полгода вайбкодил ИИ-платформу для создания контента](https://habr.com/ru/articles/1041288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041288)
 <!-- BLOG-POST-LIST:END -->
 
 ---
