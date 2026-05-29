@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Я засунул таск-трекер, голосования с кворумом и AI, следящего за экранами сотрудников, в один мессенджер](https://habr.com/ru/articles/1040886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040886)
-- [Фотограмметрическая поворотка на Arduino за 2500 рублей](https://habr.com/ru/articles/1040874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040874)
-- [Зарядка для джависта](https://habr.com/ru/articles/1040856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040856)
-- [Cursor пишет вам unit‑тесты за минуту. 5 паттернов, на которых эти тесты пропустят любой баг](https://habr.com/ru/companies/otus/articles/1039858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039858)
-- [Из разработчика в системные аналитики: практический путь в профессию](https://habr.com/ru/articles/1040758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040758)
+- [Obsidian Hybrid Search &lpar;OHS&rpar;. MCP и CLI, которые выводят поиск по заметкам с AI-агентами на новый уровень](https://habr.com/ru/articles/1040948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040948)
+- [Энтропия, которая измеряет порядок: IH-анализ находит закономерности в разнотипных данных](https://habr.com/ru/articles/1040980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040980)
+- [[Перевод] Понятие о конечных автоматах: руководство разработчика по предсказуемой логике приложений](https://habr.com/ru/companies/piter/articles/1039106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039106)
+- [Что происходит при панике в Rust: от макроса до раскрутки стека](https://habr.com/ru/companies/beget/articles/1031426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031426)
+- [Существует ли то самое состояние потока и как меньше отвлекаться](https://habr.com/ru/companies/ispsystem/articles/1040956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040956)
 <!-- BLOG-POST-LIST:END -->
 
 ---
