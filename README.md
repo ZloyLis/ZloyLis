@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Self-Evolving Knowledge: Как взрастить senior агента](https://habr.com/ru/articles/1041612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041612)
+- [Пишем движок для блога на Rust](https://habr.com/ru/articles/1041324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041324)
+- [AI для PHP-разработчиков. Часть 7: Экосистема AI-агентов в PHP – от простых вызовов OpenAI до мультиагентных платформ](https://habr.com/ru/articles/1041594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041594)
+- [Динамические квоты и лимиты: как не завалить очередь в highload](https://habr.com/ru/companies/otus/articles/1031282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031282)
 - [Критерии выживания и случайность — 5](https://habr.com/ru/articles/1041432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041432)
-- [Парсил zakupki.gov.ru без API — расскажу что узнал](https://habr.com/ru/articles/1041566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041566)
-- [Как мы интегрировали AI агентов с T-FLEX: отказ от абстракций и самопроверка моделей](https://habr.com/ru/articles/1041530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041530)
-- [Командная разработка на 1С через EDT и Git: пошаговая настройка проекта](https://habr.com/ru/companies/otus/articles/1039852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039852)
-- [От favicon до криптографии: как мы уместили 167 рабочих инструментов в одном сервисе](https://habr.com/ru/articles/1041510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041510)
 <!-- BLOG-POST-LIST:END -->
 
 ---
