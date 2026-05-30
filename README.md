@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы интегрировали AI агентов с T-FLEX: отказ от абстракций и самопроверка моделей](https://habr.com/ru/articles/1041530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041530)
 - [Командная разработка на 1С через EDT и Git: пошаговая настройка проекта](https://habr.com/ru/companies/otus/articles/1039852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039852)
 - [От favicon до криптографии: как мы уместили 167 рабочих инструментов в одном сервисе](https://habr.com/ru/articles/1041510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041510)
 - [Как построить эпюры Q и M в многопролётной балке: следующий шаг после построения линий влияния Q и М](https://habr.com/ru/articles/1041490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041490)
 - [Разбираемся в ML без воды: от базы до Attention. Часть 7: SVM и SGD](https://habr.com/ru/articles/1041488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041488)
-- [Ваш PostgreSQL болеет молча. Десяток запросов, чтобы это увидеть](https://habr.com/ru/articles/1041480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041480)
 <!-- BLOG-POST-LIST:END -->
 
 ---
