@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я стал Middle Python Developer к 22 годам и зачем пошёл учить C++](https://habr.com/ru/companies/yandex_praktikum/articles/1041098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041098)
 - [Вайбаналитика: как я учил LLM описывать бизнес-процессы, а не имитировать их](https://habr.com/ru/articles/1041400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041400)
 - [# Bare-metal Kubernetes на 5 VM: Calico IPIP + MetalLB + GitOps — честный опыт с граблями](https://habr.com/ru/articles/1041356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041356)
 - [[Перевод] Что мы можем получить, отказавшись от бесконечности?](https://habr.com/ru/articles/1041350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041350)
 - [IT очищается от случайных людей. И это хорошо](https://habr.com/ru/articles/1041348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041348)
-- [Как мы ускорили расчёт факторов ранжирования в поиске Ozon с помощью динамической компиляции](https://habr.com/ru/companies/ozontech/articles/1041218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041218)
 <!-- BLOG-POST-LIST:END -->
 
 ---
