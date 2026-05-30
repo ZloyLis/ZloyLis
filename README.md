@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Telegram Mini App для ресторанов: бронирования, IIKO, CRM, Grafana и Telegram API в одной системе](https://habr.com/ru/articles/1040020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040020)
-- [[Перевод] Ralph Wiggum простыми словами: цикл в Claude Code, который не останавливается](https://habr.com/ru/companies/aenix/articles/1041372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041372)
-- [Агентные фреймворки: обещали революцию,  что осталось в 2026](https://habr.com/ru/articles/1041274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041274)
-- [Как я стал Middle Python Developer к 22 годам и зачем пошёл учить C++](https://habr.com/ru/companies/yandex_praktikum/articles/1041098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041098)
-- [Вайбаналитика: как я учил LLM описывать бизнес-процессы, а не имитировать их](https://habr.com/ru/articles/1041400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041400)
+- [Разбираемся в ML без воды: от базы до Attention. Часть 7: SVM и SGD](https://habr.com/ru/articles/1041488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041488)
+- [Ваш PostgreSQL болеет молча. Десяток запросов, чтобы это увидеть](https://habr.com/ru/articles/1041480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041480)
+- [«Ах, как хочется вернуться… в альма-матер»: почему успешные предприниматели, бросившие занятия, решают &lpar;до&rpar;учиться](https://habr.com/ru/companies/beeline_cloud/articles/1041474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041474)
+- [Как я заставил AI-агента писать нормальный код на Spring](https://habr.com/ru/companies/haulmont/articles/1040280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040280)
+- [Я сделал Vite-плагин, который сохраняет изменения CSS прямо в исходники](https://habr.com/ru/articles/1041454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041454)
 <!-- BLOG-POST-LIST:END -->
 
 ---
