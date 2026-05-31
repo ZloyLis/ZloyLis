@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Давай заключим контракт?](https://habr.com/ru/articles/1041838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041838)
+- [Мобильная разработка за неделю #632 &lpar;25 — 31 мая&rpar;](https://habr.com/ru/articles/1041826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041826)
 - [Data-функция не работает вместо вас](https://habr.com/ru/articles/1041790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041790)
 - [Backstage — управление микросервисным ландшафтом без хаоса](https://habr.com/ru/articles/1041792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041792)
 - [Best Practices по Dockerfile: от базового образа и кеша до SBOM, Cosign и CI/CD](https://habr.com/ru/articles/1041784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041784)
-- [HalChat теперь Open Source: как успешный старт в Google Play изменил курс разработки](https://habr.com/ru/articles/1041752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041752)
-- [[Перевод] Бенчмарк для оценки LLM в задачах триажа security-находок](https://habr.com/ru/articles/1041742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041742)
 <!-- BLOG-POST-LIST:END -->
 
 ---
