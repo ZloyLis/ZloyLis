@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Data-функция не работает вместо вас](https://habr.com/ru/articles/1041790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041790)
+- [Backstage — управление микросервисным ландшафтом без хаоса](https://habr.com/ru/articles/1041792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041792)
+- [Best Practices по Dockerfile: от базового образа и кеша до SBOM, Cosign и CI/CD](https://habr.com/ru/articles/1041784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041784)
 - [HalChat теперь Open Source: как успешный старт в Google Play изменил курс разработки](https://habr.com/ru/articles/1041752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041752)
 - [[Перевод] Бенчмарк для оценки LLM в задачах триажа security-находок](https://habr.com/ru/articles/1041742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041742)
-- [Ищем разработчика в Synaps — приложение для научного нетворкинга](https://habr.com/ru/articles/1041714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041714)
-- [[Перевод] Как работает размытие в видеоиграх](https://habr.com/ru/articles/1041710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041710)
-- [Встречайте: muenvsubst — улучшенный envsubst](https://habr.com/ru/articles/1041580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041580)
 <!-- BLOG-POST-LIST:END -->
 
 ---
