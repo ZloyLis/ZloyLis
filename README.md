@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Царский путь к пониманию комплексных чисел. Часть II](https://habr.com/ru/articles/981814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981814)
 - [[Перевод] Что именно делал компилятор: как ассемблер помогает разобраться в производительности кода на C++](https://habr.com/ru/articles/1041902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041902)
 - [Математика больших чисел: из игры с нулевой суммой в игру с растущей суммой](https://habr.com/ru/articles/1041898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041898)
 - [Зачем первокурснику машина Тьюринга &lpar;и почему это важнее, чем кажется в эпоху «вайбкодинга»&rpar;](https://habr.com/ru/articles/1041868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041868)
 - [Мы попробовали в реальном проекте Dynamic Workflows от Claude Code. Рассказываю, что сработало, а что нет](https://habr.com/ru/articles/1041858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041858)
-- [ЕСППД-ИИ. Как описывать бизнес-процессы для работы с искусственным интеллектом](https://habr.com/ru/articles/1041856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041856)
 <!-- BLOG-POST-LIST:END -->
 
 ---
