@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как решить конфликт в Git: merge, rebase, cherry-pick conflict](https://habr.com/ru/companies/amvera/articles/1041676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041676)
+- [&lpar;Не&rpar;безопасный eBPF: что маркетологи забыли упомянуть об уязвимостях](https://habr.com/ru/articles/1041618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041618)
 - [Острова и несколько личностей на одном устройстве: как мы делаем приватность частью архитектуры](https://habr.com/ru/articles/1041650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041650)
 - [Self-Evolving Knowledge: Как взрастить senior агента](https://habr.com/ru/articles/1041612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041612)
 - [Пишем движок для блога на Rust](https://habr.com/ru/articles/1041324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041324)
-- [AI для PHP-разработчиков. Часть 7: Экосистема AI-агентов в PHP – от простых вызовов OpenAI до мультиагентных платформ](https://habr.com/ru/articles/1041594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041594)
-- [Динамические квоты и лимиты: как не завалить очередь в highload](https://habr.com/ru/companies/otus/articles/1031282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031282)
 <!-- BLOG-POST-LIST:END -->
 
 ---
