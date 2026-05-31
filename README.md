@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как решить конфликт в Git: merge, rebase, cherry-pick conflict](https://habr.com/ru/companies/amvera/articles/1041676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041676)
-- [&lpar;Не&rpar;безопасный eBPF: что маркетологи забыли упомянуть об уязвимостях](https://habr.com/ru/articles/1041618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041618)
-- [Острова и несколько личностей на одном устройстве: как мы делаем приватность частью архитектуры](https://habr.com/ru/articles/1041650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041650)
-- [Self-Evolving Knowledge: Как взрастить senior агента](https://habr.com/ru/articles/1041612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041612)
-- [Пишем движок для блога на Rust](https://habr.com/ru/articles/1041324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041324)
+- [Ищем разработчика в Synaps — приложение для научного нетворкинга](https://habr.com/ru/articles/1041714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041714)
+- [[Перевод] Как работает размытие в видеоиграх](https://habr.com/ru/articles/1041710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041710)
+- [Встречайте: muenvsubst — улучшенный envsubst](https://habr.com/ru/articles/1041580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041580)
+- [Живые обои на Mac своими руками: Metal, окна на уровне рабочего стола и немного математики](https://habr.com/ru/articles/1041702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041702)
+- [[Перевод] Квантовые компьютеры не угроза 128-битным симметричным ключам](https://habr.com/ru/companies/ruvds/articles/1040544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040544)
 <!-- BLOG-POST-LIST:END -->
 
 ---
