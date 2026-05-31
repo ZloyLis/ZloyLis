@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [HalChat теперь Open Source: как успешный старт в Google Play изменил курс разработки](https://habr.com/ru/articles/1041752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041752)
+- [[Перевод] Бенчмарк для оценки LLM в задачах триажа security-находок](https://habr.com/ru/articles/1041742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041742)
 - [Ищем разработчика в Synaps — приложение для научного нетворкинга](https://habr.com/ru/articles/1041714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041714)
 - [[Перевод] Как работает размытие в видеоиграх](https://habr.com/ru/articles/1041710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041710)
 - [Встречайте: muenvsubst — улучшенный envsubst](https://habr.com/ru/articles/1041580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041580)
-- [Живые обои на Mac своими руками: Metal, окна на уровне рабочего стола и немного математики](https://habr.com/ru/articles/1041702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041702)
-- [[Перевод] Квантовые компьютеры не угроза 128-битным симметричным ключам](https://habr.com/ru/companies/ruvds/articles/1040544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040544)
 <!-- BLOG-POST-LIST:END -->
 
 ---
