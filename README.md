@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ЕСППД-ИИ. Как описывать бизнес-процессы для работы с искусственным интеллектом](https://habr.com/ru/articles/1041856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041856)
+- [StillCore — мониторинг чипа для Mac, который я всегда хотел](https://habr.com/ru/articles/1041786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041786)
+- [Axelix. Cпецназ для Вашей Spring Boot экосистемы](https://habr.com/ru/companies/spring_aio/articles/1041836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041836)
 - [Давай заключим контракт?](https://habr.com/ru/articles/1041838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041838)
 - [Мобильная разработка за неделю #632 &lpar;25 — 31 мая&rpar;](https://habr.com/ru/articles/1041826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041826)
-- [Data-функция не работает вместо вас](https://habr.com/ru/articles/1041790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041790)
-- [Backstage — управление микросервисным ландшафтом без хаоса](https://habr.com/ru/articles/1041792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041792)
-- [Best Practices по Dockerfile: от базового образа и кеша до SBOM, Cosign и CI/CD](https://habr.com/ru/articles/1041784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041784)
 <!-- BLOG-POST-LIST:END -->
 
 ---
