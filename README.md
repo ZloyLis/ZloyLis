@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Миграция на Vue 3 начинается не с кода: как донести важность и подготовить проект](https://habr.com/ru/articles/1042068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042068)
-- [redb — типизированное хранилище для .NET поверх Postgres/MSSQL: без миграций, без Include, с полным LINQ](https://habr.com/ru/articles/1042058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042058)
-- [Мини CMS: когда хочется простых решений](https://habr.com/ru/articles/1042054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042054)
-- [Route Handlers как мини-бэкенд внутри Next.js App Router](https://habr.com/ru/articles/1042048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042048)
-- [AriQuantum: Как я написал эмулятор квантового компьютера прямо в Telegram](https://habr.com/ru/articles/1042032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042032)
+- [pg_stl: анализ временных рядов прямо в PostgreSQL, без выгрузки данных](https://habr.com/ru/articles/1042360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042360)
+- [Математическое обоснование оценки коэффициента шума сигнальным методом. Быстрая оценка](https://habr.com/ru/articles/1042328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042328)
+- [Про «случайных» людей в ИТ](https://habr.com/ru/articles/1042312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042312)
+- [[Перевод] Перевополщение Stable Values в JDK 26](https://habr.com/ru/companies/spring_aio/articles/1042294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042294)
+- [DI в TypeScript без декораторов: почему это будущее](https://habr.com/ru/articles/1042290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042290)
 <!-- BLOG-POST-LIST:END -->
 
 ---
