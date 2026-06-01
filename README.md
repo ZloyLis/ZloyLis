@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [pg_stl: анализ временных рядов прямо в PostgreSQL, без выгрузки данных](https://habr.com/ru/articles/1042360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042360)
-- [Математическое обоснование оценки коэффициента шума сигнальным методом. Быстрая оценка](https://habr.com/ru/articles/1042328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042328)
-- [Про «случайных» людей в ИТ](https://habr.com/ru/articles/1042312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042312)
-- [[Перевод] Перевополщение Stable Values в JDK 26](https://habr.com/ru/companies/spring_aio/articles/1042294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042294)
-- [DI в TypeScript без декораторов: почему это будущее](https://habr.com/ru/articles/1042290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042290)
+- [Год с Claude Code: главное — не он сам, а то, что в .claude/](https://habr.com/ru/articles/1042408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042408)
+- [Как мы боремся с галлюцинации AI Master: гибридный Guard на Embedding + LLM Extractor на примере AI-RPG «Стирая Грань»](https://habr.com/ru/articles/1042402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042402)
+- [Свой systemd unit‑файл с нуля: от минимального скелета до production‑конфига](https://habr.com/ru/companies/otus/articles/1040138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040138)
+- [redb.Route — Apache Camel для .NET, который мы написали потому что выхода другого не было](https://habr.com/ru/articles/1042392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042392)
+- [Security Week 2623: слежка за пользователями через SSD](https://habr.com/ru/companies/kaspersky/articles/1042288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042288)
 <!-- BLOG-POST-LIST:END -->
 
 ---
