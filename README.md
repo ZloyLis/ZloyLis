@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как подумать о том что хорошо бы реализовать idea для php и вляпаться в разработку](https://habr.com/ru/articles/1041924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041924)
-- [Царский путь к пониманию комплексных чисел. Часть II](https://habr.com/ru/articles/981814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=981814)
-- [[Перевод] Что именно делал компилятор: как ассемблер помогает разобраться в производительности кода на C++](https://habr.com/ru/articles/1041902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041902)
-- [Математика больших чисел: из игры с нулевой суммой в игру с растущей суммой](https://habr.com/ru/articles/1041898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041898)
-- [Зачем первокурснику машина Тьюринга &lpar;и почему это важнее, чем кажется в эпоху «вайбкодинга»&rpar;](https://habr.com/ru/articles/1041868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041868)
+- [Миграция на Vue 3 начинается не с кода: как донести важность и подготовить проект](https://habr.com/ru/articles/1042068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042068)
+- [redb — типизированное хранилище для .NET поверх Postgres/MSSQL: без миграций, без Include, с полным LINQ](https://habr.com/ru/articles/1042058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042058)
+- [Мини CMS: когда хочется простых решений](https://habr.com/ru/articles/1042054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042054)
+- [Route Handlers как мини-бэкенд внутри Next.js App Router](https://habr.com/ru/articles/1042048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042048)
+- [AriQuantum: Как я написал эмулятор квантового компьютера прямо в Telegram](https://habr.com/ru/articles/1042032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042032)
 <!-- BLOG-POST-LIST:END -->
 
 ---
