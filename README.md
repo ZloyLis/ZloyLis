@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Функции управления цифровыми активами автомобильных дорог. Часть 2 – маппинг](https://habr.com/ru/articles/1042618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042618)
-- [Имитационное моделирование &lpar;DES&rpar;: оптимизация бизнес-процессов по-настоящему, или почему интуиция не работает](https://habr.com/ru/articles/1042754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042754)
-- [GHOST-01: soft delete — это не delete](https://habr.com/ru/articles/1042746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042746)
-- [Свобода без хаоса: как создавать гибкие лендинги](https://habr.com/ru/companies/tensor/articles/1042742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042742)
-- [Linux: Процессы](https://habr.com/ru/companies/ruvds/articles/1036070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036070)
+- [Как добавить кнопку «Спроси о нас у ИИ» &lpar;Яндекс Алиса, ChatGPT, Claude и другие&rpar;](https://habr.com/ru/articles/1042876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042876)
+- [Контракты данных между командами: гайд по data contracts в дата‑пайплайнах](https://habr.com/ru/companies/otus/articles/1042140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042140)
+- [redb.Route изнутри: четыре in-memory канала и Exchange, который их связывает](https://habr.com/ru/articles/1042872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042872)
+- [Pull request открыл — стенд появился. Закрыл — исчез. Эфемерные окружения в kubernetes через FluxCD](https://habr.com/ru/articles/1042866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042866)
+- [Hermes Agent сжигал 603M токенов за спиной — как я сократил фоновые расходы в 125 раз](https://habr.com/ru/articles/1042860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042860)
 <!-- BLOG-POST-LIST:END -->
 
 ---
