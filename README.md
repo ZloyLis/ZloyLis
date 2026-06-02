@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создаём DSL на C#: Пишем парсер](https://habr.com/ru/articles/1042432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042432)
+- [Дыши ровнее, домна. Как мы сделали алгоритм и модернизировали систему вдувания пылеугольного топлива](https://habr.com/ru/companies/evraz/articles/1042314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042314)
 - [Год с Claude Code: главное — не он сам, а то, что в .claude/](https://habr.com/ru/articles/1042408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042408)
 - [Как мы боремся с галлюцинации AI Master: гибридный Guard на Embedding + LLM Extractor на примере AI-RPG «Стирая Грань»](https://habr.com/ru/articles/1042402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042402)
 - [Свой systemd unit‑файл с нуля: от минимального скелета до production‑конфига](https://habr.com/ru/companies/otus/articles/1040138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040138)
-- [redb.Route — Apache Camel для .NET, который мы написали потому что выхода другого не было](https://habr.com/ru/articles/1042392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042392)
-- [Security Week 2623: слежка за пользователями через SSD](https://habr.com/ru/companies/kaspersky/articles/1042288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042288)
 <!-- BLOG-POST-LIST:END -->
 
 ---
