@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Создаём DSL на C#: Пишем парсер](https://habr.com/ru/articles/1042432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042432)
-- [Дыши ровнее, домна. Как мы сделали алгоритм и модернизировали систему вдувания пылеугольного топлива](https://habr.com/ru/companies/evraz/articles/1042314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042314)
-- [Год с Claude Code: главное — не он сам, а то, что в .claude/](https://habr.com/ru/articles/1042408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042408)
-- [Как мы боремся с галлюцинации AI Master: гибридный Guard на Embedding + LLM Extractor на примере AI-RPG «Стирая Грань»](https://habr.com/ru/articles/1042402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042402)
-- [Свой systemd unit‑файл с нуля: от минимального скелета до production‑конфига](https://habr.com/ru/companies/otus/articles/1040138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040138)
+- [Что внутри бесплатной части курса «Вайбкодинг»](https://habr.com/ru/companies/yandex_praktikum/articles/1042236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042236)
+- [«Весомый» рефакторинг, или как мы перестали беспокоиться и полюбили работу с весами](https://habr.com/ru/companies/X5Tech/articles/1032414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032414)
+- [Постанализ юзкейсов, или Как спроектировать непрерывную ABAC-авторизацию UI и API. Часть 1](https://habr.com/ru/companies/T1Holding/articles/1042096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042096)
+- [rapeed: in-memory OLAP-движок с собственной алгеброй связей](https://habr.com/ru/companies/w_code/articles/1042524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042524)
+- [Как превратить запрос в дашборд: ИИ-ассистент для геоаналитики в 2ГИС Про](https://habr.com/ru/companies/2gis/articles/1037974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037974)
 <!-- BLOG-POST-LIST:END -->
 
 ---
