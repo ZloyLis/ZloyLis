@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Что внутри бесплатной части курса «Вайбкодинг»](https://habr.com/ru/companies/yandex_praktikum/articles/1042236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042236)
-- [«Весомый» рефакторинг, или как мы перестали беспокоиться и полюбили работу с весами](https://habr.com/ru/companies/X5Tech/articles/1032414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1032414)
-- [Постанализ юзкейсов, или Как спроектировать непрерывную ABAC-авторизацию UI и API. Часть 1](https://habr.com/ru/companies/T1Holding/articles/1042096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042096)
-- [rapeed: in-memory OLAP-движок с собственной алгеброй связей](https://habr.com/ru/companies/w_code/articles/1042524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042524)
-- [Как превратить запрос в дашборд: ИИ-ассистент для геоаналитики в 2ГИС Про](https://habr.com/ru/companies/2gis/articles/1037974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037974)
+- [Функции управления цифровыми активами автомобильных дорог. Часть 2 – маппинг](https://habr.com/ru/articles/1042618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042618)
+- [Имитационное моделирование &lpar;DES&rpar;: оптимизация бизнес-процессов по-настоящему, или почему интуиция не работает](https://habr.com/ru/articles/1042754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042754)
+- [GHOST-01: soft delete — это не delete](https://habr.com/ru/articles/1042746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042746)
+- [Свобода без хаоса: как создавать гибкие лендинги](https://habr.com/ru/companies/tensor/articles/1042742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042742)
+- [Linux: Процессы](https://habr.com/ru/companies/ruvds/articles/1036070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036070)
 <!-- BLOG-POST-LIST:END -->
 
 ---
