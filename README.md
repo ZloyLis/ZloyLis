@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему игровой GUI пишут заново &lpar;Ч.1&rpar;](https://habr.com/ru/articles/1039592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039592)
+- [Рефакторинг и реинжиниринг легаси. Погружаемся глубже](https://habr.com/ru/articles/1042688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042688)
+- [Два мажора, один README, одно демо: два почти бесплатных дизайн-ревью](https://habr.com/ru/articles/1042904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042904)
 - [Как добавить кнопку «Спроси о нас у ИИ» &lpar;Яндекс Алиса, ChatGPT, Claude и другие&rpar;](https://habr.com/ru/articles/1042876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042876)
 - [Контракты данных между командами: гайд по data contracts в дата‑пайплайнах](https://habr.com/ru/companies/otus/articles/1042140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042140)
-- [redb.Route изнутри: четыре in-memory канала и Exchange, который их связывает](https://habr.com/ru/articles/1042872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042872)
-- [Pull request открыл — стенд появился. Закрыл — исчез. Эфемерные окружения в kubernetes через FluxCD](https://habr.com/ru/articles/1042866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042866)
-- [Hermes Agent сжигал 603M токенов за спиной — как я сократил фоновые расходы в 125 раз](https://habr.com/ru/articles/1042860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042860)
 <!-- BLOG-POST-LIST:END -->
 
 ---
