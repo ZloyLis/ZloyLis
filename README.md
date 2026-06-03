@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Я устал копировать промпты вручную. И собрал 794 проверенных в деле промптов для ваших ИИ агентов](https://habr.com/ru/articles/1042448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042448)
-- [Пишем ботов без ботов. Нахождения пути с помощью HPA* алгоритма](https://habr.com/ru/articles/1042938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042938)
-- [Агент читает 20 файлов ради одной функции. Лечим это графом кода: CodeGraph vs Graphify и другие невиданные твари](https://habr.com/ru/articles/1042930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042930)
-- [Почему игровой GUI пишут заново &lpar;Ч.1&rpar;](https://habr.com/ru/articles/1039592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039592)
-- [Рефакторинг и реинжиниринг легаси. Погружаемся глубже](https://habr.com/ru/articles/1042688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042688)
+- [Книга: «100 ошибок C++ и как их избежать»](https://habr.com/ru/companies/piter/articles/1042184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042184)
+- [Личный CI/CD за один вечер: настраиваем GitLab Runner на собственном VPS](https://habr.com/ru/companies/first/articles/1042790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042790)
+- [Пока все смотрят на LLM: почему классический ML годами зарабатывает сотни миллионов?](https://habr.com/ru/articles/1043056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043056)
+- [AI inference на K8s: как выживать с LLM в кубере. DRA, GIE, LLM-D](https://habr.com/ru/companies/ruvds/articles/1042292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042292)
+- [Я написал визуализатор сборщика мусора для Go — теперь GC не чёрный ящик](https://habr.com/ru/articles/1043034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043034)
 <!-- BLOG-POST-LIST:END -->
 
 ---
