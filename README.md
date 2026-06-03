@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Импортозамещение Schneider Electric Conext ComBox](https://habr.com/ru/articles/1043352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043352)
+- [Готов ли ты стать функциональным архитектором 1С?](https://habr.com/ru/companies/otus/articles/1040768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040768)
+- [FASA: архитектура ПО без слоёв и адаптеров. Спецификация](https://habr.com/ru/articles/1043322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043322)
+- [Как устроен учёт компьютеров на самом деле](https://habr.com/ru/companies/simpleone/articles/1043266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043266)
 - [MobX или приправа реактивности для JS](https://habr.com/ru/articles/1043240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043240)
-- [IT-ретейнер для ресторанной сети: как за 7 месяцев запустить 6 цифровых продуктов](https://habr.com/ru/articles/1041256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041256)
-- [Энтерпрайз огромен, медлителен и стоит как чугунный мост. И тут появляется вайбкод](https://habr.com/ru/articles/1043238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043238)
-- [100 вопросов с собесов по Rust: что реально спрашивают на junior middle, senior позиции в 2026](https://habr.com/ru/articles/1040712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040712)
-- [Я делаю ГИГАХРУЩ: браузерный survival horror без движка, ассетов и спокойной жизни](https://habr.com/ru/articles/1043232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043232)
 <!-- BLOG-POST-LIST:END -->
 
 ---
