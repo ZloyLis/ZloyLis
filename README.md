@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [librats: Выпуск версии 1.0.x &lpar;библиотека для распределённых P2P-приложений&rpar;. Так же релиз rats-search 2.0.28](https://habr.com/ru/articles/1043370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043370)
 - [Импортозамещение Schneider Electric Conext ComBox](https://habr.com/ru/articles/1043352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043352)
 - [Готов ли ты стать функциональным архитектором 1С?](https://habr.com/ru/companies/otus/articles/1040768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040768)
 - [FASA: архитектура ПО без слоёв и адаптеров. Спецификация](https://habr.com/ru/articles/1043322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043322)
 - [Как устроен учёт компьютеров на самом деле](https://habr.com/ru/companies/simpleone/articles/1043266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043266)
-- [MobX или приправа реактивности для JS](https://habr.com/ru/articles/1043240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043240)
 <!-- BLOG-POST-LIST:END -->
 
 ---
