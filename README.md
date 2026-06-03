@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Я устал копировать промпты вручную. И собрал 794 проверенных в деле промптов для ваших ИИ агентов](https://habr.com/ru/articles/1042448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042448)
 - [Пишем ботов без ботов. Нахождения пути с помощью HPA* алгоритма](https://habr.com/ru/articles/1042938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042938)
 - [Агент читает 20 файлов ради одной функции. Лечим это графом кода: CodeGraph vs Graphify и другие невиданные твари](https://habr.com/ru/articles/1042930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042930)
 - [Почему игровой GUI пишут заново &lpar;Ч.1&rpar;](https://habr.com/ru/articles/1039592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039592)
 - [Рефакторинг и реинжиниринг легаси. Погружаемся глубже](https://habr.com/ru/articles/1042688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042688)
-- [Два мажора, один README, одно демо: два почти бесплатных дизайн-ревью](https://habr.com/ru/articles/1042904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042904)
 <!-- BLOG-POST-LIST:END -->
 
 ---
