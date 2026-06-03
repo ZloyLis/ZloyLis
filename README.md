@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Книга: «100 ошибок C++ и как их избежать»](https://habr.com/ru/companies/piter/articles/1042184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042184)
-- [Личный CI/CD за один вечер: настраиваем GitLab Runner на собственном VPS](https://habr.com/ru/companies/first/articles/1042790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042790)
-- [Пока все смотрят на LLM: почему классический ML годами зарабатывает сотни миллионов?](https://habr.com/ru/articles/1043056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043056)
-- [AI inference на K8s: как выживать с LLM в кубере. DRA, GIE, LLM-D](https://habr.com/ru/companies/ruvds/articles/1042292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042292)
-- [Я написал визуализатор сборщика мусора для Go — теперь GC не чёрный ящик](https://habr.com/ru/articles/1043034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043034)
+- [MobX или приправа реактивности для JS](https://habr.com/ru/articles/1043240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043240)
+- [IT-ретейнер для ресторанной сети: как за 7 месяцев запустить 6 цифровых продуктов](https://habr.com/ru/articles/1041256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041256)
+- [Энтерпрайз огромен, медлителен и стоит как чугунный мост. И тут появляется вайбкод](https://habr.com/ru/articles/1043238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043238)
+- [100 вопросов с собесов по Rust: что реально спрашивают на junior middle, senior позиции в 2026](https://habr.com/ru/articles/1040712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040712)
+- [Я делаю ГИГАХРУЩ: браузерный survival horror без движка, ассетов и спокойной жизни](https://habr.com/ru/articles/1043232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043232)
 <!-- BLOG-POST-LIST:END -->
 
 ---
