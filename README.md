@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Основы информатики для всех](https://habr.com/ru/articles/1043816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043816)
+- [Торговля на отклонениях: почему мы вернулись к тесту Дики-Фуллера &lpar;ADF&rpar;](https://habr.com/ru/articles/1043810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043810)
+- [Как игровой GUI пишут заново &lpar;Ч.2&rpar;](https://habr.com/ru/articles/1041522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041522)
+- [[Перевод] Один баг в проде, после которого я всерьёз воспринимаю неопределённое поведение](https://habr.com/ru/articles/1043796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043796)
 - [REDB изнутри, статья 1: 13 таблиц, на которых работает всё](https://habr.com/ru/articles/1043790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043790)
-- [Чуть не отчислили за программирование, а сейчас Senior Data Scientist](https://habr.com/ru/articles/1043730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043730)
-- [Компонент сам себе стор, а внешний стор это антипаттерн](https://habr.com/ru/articles/1043754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043754)
-- [Голубая мечта околоайтишника — разбогатеть на ChatGPT-обертке](https://habr.com/ru/articles/1043742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043742)
-- [Почему Claude Code и Codex не ускоряют команду: у компании нет общей памяти](https://habr.com/ru/articles/1043734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043734)
 <!-- BLOG-POST-LIST:END -->
 
 ---
