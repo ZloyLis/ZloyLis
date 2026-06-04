@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Telegram-боты, которые не бесят: 7 фич для вовлечения пользователей с кодом](https://habr.com/ru/articles/1043608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043608)
-- [Ваше сообщение об ошибке читает уставший человек в два часа ночи](https://habr.com/ru/articles/1042850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042850)
-- [[Перевод] Проблема фантомной записи: почему ваша реализация идемпотентности незаметно теряет данные](https://habr.com/ru/companies/spring_aio/articles/1043208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043208)
-- [Как создавать умных ИИ-агентов: работа с MCP](https://habr.com/ru/companies/mws/articles/1042792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042792)
-- [От Prometheus к Victoria Metrics: как мы пересобрали мониторинг в Kubernetes](https://habr.com/ru/companies/navio/articles/1043548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043548)
+- [Как открывать шлагбаумы и ворота силой мысли](https://habr.com/ru/articles/1043728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043728)
+- [Сократ + GPT: как построить диалог с LLM, который учит](https://habr.com/ru/articles/1043514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043514)
+- [AI Governance и контроль корпоративных AI-агентов: безопасные подходы для бизнеса в 2026 году](https://habr.com/ru/articles/1043726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043726)
+- [Линейная регрессия на стероидах: Double Machine Learning для устранения смещений в данных](https://habr.com/ru/articles/1043704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043704)
+- [Existential Container в Swift: подготовка к собеседованию](https://habr.com/ru/articles/1043692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043692)
 <!-- BLOG-POST-LIST:END -->
 
 ---
