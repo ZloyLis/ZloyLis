@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [SEO-админка для большого каталога: sitemap, robots, мета-превью и тревоги поисковиков в одном месте](https://habr.com/ru/articles/1043402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043402)
-- [Месяц пишу язык программирования Nova с Claude Code. Где ломаются автономные агенты](https://habr.com/ru/articles/1043394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043394)
-- [librats: Выпуск версии 1.0.x &lpar;библиотека для распределённых P2P-приложений&rpar;. Так же релиз rats-search 2.0.28](https://habr.com/ru/articles/1043370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043370)
-- [Импортозамещение Schneider Electric Conext ComBox](https://habr.com/ru/articles/1043352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043352)
-- [Готов ли ты стать функциональным архитектором 1С?](https://habr.com/ru/companies/otus/articles/1040768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040768)
+- [Как стать Senior-разработчиком: 4 шага на пути к успеху](https://habr.com/ru/companies/haulmont/articles/1043204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043204)
+- [48-кубитный гибридный симулятор Гровера на домашней видеокарте: пробиваем стены памяти и времени](https://habr.com/ru/articles/1043474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043474)
+- [Тестирование ипотечного процесса в мобильном приложении СБОЛ](https://habr.com/ru/companies/domclick/articles/1036990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036990)
+- [Обновления GigaIDE за май 2026](https://habr.com/ru/companies/sberbank/articles/1042606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042606)
+- [Пуск SPI трансивера на STM32](https://habr.com/ru/articles/1043452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043452)
 <!-- BLOG-POST-LIST:END -->
 
 ---
