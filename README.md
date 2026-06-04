@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как стать Senior-разработчиком: 4 шага на пути к успеху](https://habr.com/ru/companies/haulmont/articles/1043204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043204)
-- [48-кубитный гибридный симулятор Гровера на домашней видеокарте: пробиваем стены памяти и времени](https://habr.com/ru/articles/1043474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043474)
-- [Тестирование ипотечного процесса в мобильном приложении СБОЛ](https://habr.com/ru/companies/domclick/articles/1036990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036990)
-- [Обновления GigaIDE за май 2026](https://habr.com/ru/companies/sberbank/articles/1042606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042606)
-- [Пуск SPI трансивера на STM32](https://habr.com/ru/articles/1043452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043452)
+- [Telegram-боты, которые не бесят: 7 фич для вовлечения пользователей с кодом](https://habr.com/ru/articles/1043608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043608)
+- [Ваше сообщение об ошибке читает уставший человек в два часа ночи](https://habr.com/ru/articles/1042850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042850)
+- [[Перевод] Проблема фантомной записи: почему ваша реализация идемпотентности незаметно теряет данные](https://habr.com/ru/companies/spring_aio/articles/1043208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043208)
+- [Как создавать умных ИИ-агентов: работа с MCP](https://habr.com/ru/companies/mws/articles/1042792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042792)
+- [От Prometheus к Victoria Metrics: как мы пересобрали мониторинг в Kubernetes](https://habr.com/ru/companies/navio/articles/1043548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043548)
 <!-- BLOG-POST-LIST:END -->
 
 ---
