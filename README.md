@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Основы информатики для всех](https://habr.com/ru/articles/1043816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043816)
-- [Торговля на отклонениях: почему мы вернулись к тесту Дики-Фуллера &lpar;ADF&rpar;](https://habr.com/ru/articles/1043810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043810)
-- [Как игровой GUI пишут заново &lpar;Ч.2&rpar;](https://habr.com/ru/articles/1041522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1041522)
-- [[Перевод] Один баг в проде, после которого я всерьёз воспринимаю неопределённое поведение](https://habr.com/ru/articles/1043796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043796)
-- [REDB изнутри, статья 1: 13 таблиц, на которых работает всё](https://habr.com/ru/articles/1043790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043790)
+- [PG_EXPECTO 9.1: инцидент PostgreSQL – статистический анализ аномалий автовакуума и ожиданий BufferIO](https://habr.com/ru/articles/1043998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043998)
+- [Veai 5.8-5.11: что изменилось в агенте, если смотреть на работу разработчика](https://habr.com/ru/companies/veai/articles/1043752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043752)
+- [Server Actions без ручного API, предсказуемый useActionState для inline CRUD в Next.js](https://habr.com/ru/articles/1043970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043970)
+- [Агентная разработка с LLM: ускорение появляется не из магии, а из процесса](https://habr.com/ru/articles/1043966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043966)
+- [Можно ли поймать вайб-кодера без нейросети? Сделал расширение для GitHub — рассказываю](https://habr.com/ru/articles/1043822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043822)
 <!-- BLOG-POST-LIST:END -->
 
 ---
