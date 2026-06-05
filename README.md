@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпрямление векторных полей и коммутирование потоков: честный координатный анализ](https://habr.com/ru/articles/1044230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044230)
 - [CSR для SSL: разбор частых ошибок в SAN и wildcard](https://habr.com/ru/articles/1043106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043106)
 - [В поисках баланса в backend-архитектуре](https://habr.com/ru/articles/1044218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044218)
 - [2 + 2 = 6 и как мы это фиксим: lost updates в Postgres](https://habr.com/ru/articles/1044190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044190)
 - [Следующая бухгалтерия будет учитывать не деньги. Она будет учитывать действия искусственного интеллекта](https://habr.com/ru/articles/1044198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044198)
-- [Собрал мультибрендовую дизайн-систему аж для семи брендов](https://habr.com/ru/articles/1044196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044196)
 <!-- BLOG-POST-LIST:END -->
 
 ---
