@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [PG_EXPECTO 9.1: инцидент PostgreSQL – статистический анализ аномалий автовакуума и ожиданий BufferIO](https://habr.com/ru/articles/1043998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043998)
-- [Veai 5.8-5.11: что изменилось в агенте, если смотреть на работу разработчика](https://habr.com/ru/companies/veai/articles/1043752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043752)
-- [Server Actions без ручного API, предсказуемый useActionState для inline CRUD в Next.js](https://habr.com/ru/articles/1043970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043970)
-- [Агентная разработка с LLM: ускорение появляется не из магии, а из процесса](https://habr.com/ru/articles/1043966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043966)
-- [Можно ли поймать вайб-кодера без нейросети? Сделал расширение для GitHub — рассказываю](https://habr.com/ru/articles/1043822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043822)
+- [Простая сложная VictoriaMetrics](https://habr.com/ru/companies/kts/articles/1044102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044102)
+- [Самый старый кирпич трансформера наконец переизобрели. DeepSeek взял матрицу из 1967 года](https://habr.com/ru/articles/1044096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044096)
+- [Создание Android-смартфона с упором на приватность](https://habr.com/ru/articles/1044080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044080)
+- [Непридуманная история о том, как мы перетащили 300 ТБ key-value данных в облако без простоя](https://habr.com/ru/companies/vk/articles/1039688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039688)
+- [Я создал два сайта через Claude, потому что не хотел мучить дизайнера и верстальщика](https://habr.com/ru/articles/1044060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044060)
 <!-- BLOG-POST-LIST:END -->
 
 ---
