@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Простая сложная VictoriaMetrics](https://habr.com/ru/companies/kts/articles/1044102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044102)
-- [Самый старый кирпич трансформера наконец переизобрели. DeepSeek взял матрицу из 1967 года](https://habr.com/ru/articles/1044096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044096)
-- [Создание Android-смартфона с упором на приватность](https://habr.com/ru/articles/1044080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044080)
-- [Непридуманная история о том, как мы перетащили 300 ТБ key-value данных в облако без простоя](https://habr.com/ru/companies/vk/articles/1039688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039688)
-- [Я создал два сайта через Claude, потому что не хотел мучить дизайнера и верстальщика](https://habr.com/ru/articles/1044060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044060)
+- [«Превед, медвед!» возвращается? Как мы сделали мультиконтекстный сайт на статике для 47 аудиторий быстро-дёшево-сердито](https://habr.com/ru/articles/1044192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044192)
+- [pg_ilm — гибрид кладовщика с градусником для ваших данных &lpar;Information Lifeсycle Management в Tantor Postgres 18&rpar;](https://habr.com/ru/companies/tantor/articles/1044180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044180)
+- [Бинарные наручные часы](https://habr.com/ru/articles/1044176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044176)
+- [Как я создавал шифр, почти ничего не зная о шифровании](https://habr.com/ru/articles/1044174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044174)
+- [Я попробовал считать нейросетевой слой в конечном поле Галуа GF&lpar;137&rpar;: 4x по памяти, ARM NEON и честные ограничения](https://habr.com/ru/articles/1044172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044172)
 <!-- BLOG-POST-LIST:END -->
 
 ---
