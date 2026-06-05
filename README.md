@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [«Превед, медвед!» возвращается? Как мы сделали мультиконтекстный сайт на статике для 47 аудиторий быстро-дёшево-сердито](https://habr.com/ru/articles/1044192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044192)
-- [pg_ilm — гибрид кладовщика с градусником для ваших данных &lpar;Information Lifeсycle Management в Tantor Postgres 18&rpar;](https://habr.com/ru/companies/tantor/articles/1044180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044180)
-- [Бинарные наручные часы](https://habr.com/ru/articles/1044176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044176)
-- [Как я создавал шифр, почти ничего не зная о шифровании](https://habr.com/ru/articles/1044174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044174)
-- [Я попробовал считать нейросетевой слой в конечном поле Галуа GF&lpar;137&rpar;: 4x по памяти, ARM NEON и честные ограничения](https://habr.com/ru/articles/1044172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044172)
+- [CSR для SSL: разбор частых ошибок в SAN и wildcard](https://habr.com/ru/articles/1043106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043106)
+- [В поисках баланса в backend-архитектуре](https://habr.com/ru/articles/1044218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044218)
+- [2 + 2 = 6 и как мы это фиксим: lost updates в Postgres](https://habr.com/ru/articles/1044190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044190)
+- [Следующая бухгалтерия будет учитывать не деньги. Она будет учитывать действия искусственного интеллекта](https://habr.com/ru/articles/1044198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044198)
+- [Собрал мультибрендовую дизайн-систему аж для семи брендов](https://habr.com/ru/articles/1044196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044196)
 <!-- BLOG-POST-LIST:END -->
 
 ---
