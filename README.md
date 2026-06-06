@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Топ-10 вопросов на собеседовании по FastAPI](https://habr.com/ru/articles/1044300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044300)
-- [Конечный автомат &lpar;FSM&rpar; — ловушка для программиста](https://habr.com/ru/articles/1044244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044244)
-- [Эволюция разработки: от «вайбкодинга» к фабрике автономных агентов](https://habr.com/ru/articles/1044288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044288)
-- [Почему OSDev никогда не превратят в конструктор](https://habr.com/ru/articles/1044274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044274)
-- [Как платформа управления AI-агентами будет справляться с нагрузкой: архитектура без магии](https://habr.com/ru/articles/1044272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044272)
+- [10 настроек Claude Code для разработчика-архитектора](https://habr.com/ru/articles/1044336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044336)
+- [Muxalma — обмен пакетами данных через общее хранилище](https://habr.com/ru/articles/1044330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044330)
+- [Как я прошёл путь от «сам быстрее напишу» до своего фреймворка для агентной разработки](https://habr.com/ru/articles/1044322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044322)
+- [Парсинг Telegram: как мы автоматизировали сбор скрытых ID чатов через Telethon и сэкономили 20 часов рутины](https://habr.com/ru/articles/1043604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043604)
+- [Hermes Agent Desktop: личный опыт и пошаговая настройка под реальные задачи](https://habr.com/ru/articles/1044270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044270)
 <!-- BLOG-POST-LIST:END -->
 
 ---
