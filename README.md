@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Тайм-трекеры отвечают не на тот вопрос. Нужен локальный агент рабочего состояния](https://habr.com/ru/articles/1044414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044414)
+- [Экспресс-проектирование, или как я делал умный стоп-сигнал за два часа до поездки](https://habr.com/ru/companies/timeweb/articles/1033618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033618)
 - [«У меня работает»: десять способов узнать, что нет](https://habr.com/ru/articles/1044402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044402)
 - [COM-порт из ничего: PTY, epoll и немного RS485-боли](https://habr.com/ru/articles/1044386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044386)
 - [Может ли Вселенная состоять из математики?](https://habr.com/ru/companies/ruvds/articles/1043354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043354)
-- [Идеальный склероз в сером ящике — мой опыт в ИИ-программировании](https://habr.com/ru/articles/1044384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044384)
-- [Как я превратил хаотичные формы во Vue в типизированную модель данных &lpar;AdaptForm&rpar;](https://habr.com/ru/articles/1044380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044380)
 <!-- BLOG-POST-LIST:END -->
 
 ---
