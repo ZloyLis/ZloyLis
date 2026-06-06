@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [10 вещей, которые бы я хотел услышать в первый год работы. Опыт Java разработчика. Часть 1: не только лишь код](https://habr.com/ru/articles/1044436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044436)
 - [Тайм-трекеры отвечают не на тот вопрос. Нужен локальный агент рабочего состояния](https://habr.com/ru/articles/1044414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044414)
 - [Экспресс-проектирование, или как я делал умный стоп-сигнал за два часа до поездки](https://habr.com/ru/companies/timeweb/articles/1033618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1033618)
 - [«У меня работает»: десять способов узнать, что нет](https://habr.com/ru/articles/1044402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044402)
 - [COM-порт из ничего: PTY, epoll и немного RS485-боли](https://habr.com/ru/articles/1044386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044386)
-- [Может ли Вселенная состоять из математики?](https://habr.com/ru/companies/ruvds/articles/1043354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043354)
 <!-- BLOG-POST-LIST:END -->
 
 ---
