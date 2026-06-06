@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [10 настроек Claude Code для разработчика-архитектора](https://habr.com/ru/articles/1044336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044336)
-- [Muxalma — обмен пакетами данных через общее хранилище](https://habr.com/ru/articles/1044330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044330)
-- [Как я прошёл путь от «сам быстрее напишу» до своего фреймворка для агентной разработки](https://habr.com/ru/articles/1044322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044322)
-- [Парсинг Telegram: как мы автоматизировали сбор скрытых ID чатов через Telethon и сэкономили 20 часов рутины](https://habr.com/ru/articles/1043604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043604)
-- [Hermes Agent Desktop: личный опыт и пошаговая настройка под реальные задачи](https://habr.com/ru/articles/1044270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044270)
+- [Как бесплатный заказ на Авито превратился в задачу на 2,5 месяца](https://habr.com/ru/articles/1042334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042334)
+- [Создание своего языка программировани на Rust #1: Лексер](https://habr.com/ru/articles/1044358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044358)
+- [Почему я перестал передавать Spring Pageable в контракты слоя приложения](https://habr.com/ru/articles/1044352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044352)
+- [CокрAIти.It: что там с сокращениями айтишников? Операция оптимизация](https://habr.com/ru/companies/oleg-bunin/articles/1044104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044104)
+- [Вики врёт, прод молчит: почему пора сделать OpenAPI единственным источником правды о вашем API](https://habr.com/ru/articles/1044340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044340)
 <!-- BLOG-POST-LIST:END -->
 
 ---
