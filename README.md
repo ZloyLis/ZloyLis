@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Топ-10 вопросов на собеседовании по FastAPI](https://habr.com/ru/articles/1044300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044300)
+- [Конечный автомат &lpar;FSM&rpar; — ловушка для программиста](https://habr.com/ru/articles/1044244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044244)
+- [Эволюция разработки: от «вайбкодинга» к фабрике автономных агентов](https://habr.com/ru/articles/1044288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044288)
 - [Почему OSDev никогда не превратят в конструктор](https://habr.com/ru/articles/1044274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044274)
 - [Как платформа управления AI-агентами будет справляться с нагрузкой: архитектура без магии](https://habr.com/ru/articles/1044272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044272)
-- [Vulkan рендер для S.T.A.L.K.E.R OGSR](https://habr.com/ru/articles/1044264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044264)
-- [Торрент-стриминг без вреда для SSD: переносим TorrServer в Proxmox LXC и интегрируем с Lampa](https://habr.com/ru/articles/1044260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044260)
-- [Эволюция цифрового двойника компании: как управлять изменениями в сложном ИТ-ландшафте. Реализация изменений](https://habr.com/ru/articles/1044256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044256)
 <!-- BLOG-POST-LIST:END -->
 
 ---
