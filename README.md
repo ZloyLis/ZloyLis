@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как бесплатный заказ на Авито превратился в задачу на 2,5 месяца](https://habr.com/ru/articles/1042334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042334)
-- [Создание своего языка программировани на Rust #1: Лексер](https://habr.com/ru/articles/1044358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044358)
-- [Почему я перестал передавать Spring Pageable в контракты слоя приложения](https://habr.com/ru/articles/1044352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044352)
-- [CокрAIти.It: что там с сокращениями айтишников? Операция оптимизация](https://habr.com/ru/companies/oleg-bunin/articles/1044104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044104)
-- [Вики врёт, прод молчит: почему пора сделать OpenAPI единственным источником правды о вашем API](https://habr.com/ru/articles/1044340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044340)
+- [«У меня работает»: десять способов узнать, что нет](https://habr.com/ru/articles/1044402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044402)
+- [COM-порт из ничего: PTY, epoll и немного RS485-боли](https://habr.com/ru/articles/1044386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044386)
+- [Может ли Вселенная состоять из математики?](https://habr.com/ru/companies/ruvds/articles/1043354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043354)
+- [Идеальный склероз в сером ящике — мой опыт в ИИ-программировании](https://habr.com/ru/articles/1044384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044384)
+- [Как я превратил хаотичные формы во Vue в типизированную модель данных &lpar;AdaptForm&rpar;](https://habr.com/ru/articles/1044380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044380)
 <!-- BLOG-POST-LIST:END -->
 
 ---
