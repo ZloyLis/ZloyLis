@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [KODE.market: Как я написал первый в мире поисковик по GitHub и GitLab + P2P-раздатчик open-source кода](https://habr.com/ru/articles/1044544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044544)
+- [Но почему, почему, почему был светофор зеленый?](https://habr.com/ru/articles/1044514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044514)
+- [Мобильная разработка за неделю #633 &lpar;1 — 7 июня&rpar;](https://habr.com/ru/articles/1044510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044510)
+- [Топ-10 вопросов на Python backend собеседовании, которые валят джунов](https://habr.com/ru/articles/1044508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044508)
 - [Пауза, двойственная по природе: контракт хука и протокол воркера](https://habr.com/ru/articles/1044506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044506)
-- [Создание своего языка программирования на Rust #2: Парсер выражений](https://habr.com/ru/articles/1044502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044502)
-- [ИИ-браузер: сотрудник, который ходит по сайтам, кликает баннеры и верит скидкам 90%](https://habr.com/ru/companies/yandex_praktikum/articles/1042020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042020)
-- [Неожиданная побочка от ИИ: кризис доверия в системе образования](https://habr.com/ru/companies/ru_mts/articles/1043932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043932)
-- [Смотрим в будущее на Go — Theta прогнозирование финансового модуля ERP](https://habr.com/ru/articles/1044478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044478)
 <!-- BLOG-POST-LIST:END -->
 
 ---
