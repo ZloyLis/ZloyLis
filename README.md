@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [VARCHAR&lpar;N&rpar; в PostgreSQL: ограничение, а не экономия памяти](https://habr.com/ru/articles/1044476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044476)
-- [«Приятная беседа», ставшая допросом: как большие компании сломали процесс повышения разработчиков](https://habr.com/ru/articles/1044470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044470)
-- [Интернет выключили целиком: офлайн-чат на Bluetooth и Wi-Fi Direct, и почему мы не обещаем mesh на весь город](https://habr.com/ru/articles/1044446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044446)
-- [10 вещей, которые бы я хотел услышать в первый год работы. Опыт Java разработчика. Часть 1: не только лишь код](https://habr.com/ru/articles/1044436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044436)
-- [Тайм-трекеры отвечают не на тот вопрос. Нужен локальный агент рабочего состояния](https://habr.com/ru/articles/1044414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044414)
+- [Пауза, двойственная по природе: контракт хука и протокол воркера](https://habr.com/ru/articles/1044506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044506)
+- [Создание своего языка программирования на Rust #2: Парсер выражений](https://habr.com/ru/articles/1044502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044502)
+- [ИИ-браузер: сотрудник, который ходит по сайтам, кликает баннеры и верит скидкам 90%](https://habr.com/ru/companies/yandex_praktikum/articles/1042020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042020)
+- [Неожиданная побочка от ИИ: кризис доверия в системе образования](https://habr.com/ru/companies/ru_mts/articles/1043932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043932)
+- [Смотрим в будущее на Go — Theta прогнозирование финансового модуля ERP](https://habr.com/ru/articles/1044478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044478)
 <!-- BLOG-POST-LIST:END -->
 
 ---
