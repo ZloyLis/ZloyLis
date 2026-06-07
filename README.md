@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я проектировал очередь задач для работы с AI-агентом](https://habr.com/ru/articles/1044554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044554)
+- [Python-проект в 2026: uv, ruff, pyproject.toml. Настраиваем за 5 минут](https://habr.com/ru/articles/1044550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044550)
+- [Агенты генерируют код быстрее. Дубли тоже](https://habr.com/ru/articles/1044548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044548)
+- [JPA отлично справляется с полными графами. А что насчёт частичных?](https://habr.com/ru/articles/1044354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044354)
 - [KODE.market: Как я написал первый в мире поисковик по GitHub и GitLab + P2P-раздатчик open-source кода](https://habr.com/ru/articles/1044544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044544)
-- [Но почему, почему, почему был светофор зеленый?](https://habr.com/ru/articles/1044514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044514)
-- [Мобильная разработка за неделю #633 &lpar;1 — 7 июня&rpar;](https://habr.com/ru/articles/1044510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044510)
-- [Топ-10 вопросов на Python backend собеседовании, которые валят джунов](https://habr.com/ru/articles/1044508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044508)
-- [Пауза, двойственная по природе: контракт хука и протокол воркера](https://habr.com/ru/articles/1044506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044506)
 <!-- BLOG-POST-LIST:END -->
 
 ---
