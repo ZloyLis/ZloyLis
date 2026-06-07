@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как я проектировал очередь задач для работы с AI-агентом](https://habr.com/ru/articles/1044554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044554)
-- [Python-проект в 2026: uv, ruff, pyproject.toml. Настраиваем за 5 минут](https://habr.com/ru/articles/1044550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044550)
-- [Агенты генерируют код быстрее. Дубли тоже](https://habr.com/ru/articles/1044548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044548)
-- [JPA отлично справляется с полными графами. А что насчёт частичных?](https://habr.com/ru/articles/1044354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044354)
-- [KODE.market: Как я написал первый в мире поисковик по GitHub и GitLab + P2P-раздатчик open-source кода](https://habr.com/ru/articles/1044544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044544)
+- [Пять продуктов в одном FastAPI-монолите: HTMX вместо React, грабли Telegram Mini App и биллинг на Stars](https://habr.com/ru/articles/1044600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044600)
+- [Векторы по косинусу считают. Косинусное сходство, альтернативы, плюс — фановые проекты с эмбеддингами](https://habr.com/ru/companies/beeline_cloud/articles/1044592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044592)
+- [[Перевод] Тест Лавлейс: переосмысление](https://habr.com/ru/articles/1044590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044590)
+- [CI/CD для продакшна: GitLab Registry, Docker in Docker и отказоустойчивость](https://habr.com/ru/articles/1044570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044570)
+- [NoiR Code: QR-код из мира мрачной ночной романтики](https://habr.com/ru/articles/1044568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044568)
 <!-- BLOG-POST-LIST:END -->
 
 ---
