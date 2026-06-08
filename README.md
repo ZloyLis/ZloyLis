@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как спроектировать REST API без ошибок: 3 задачи с разбором](https://habr.com/ru/companies/otus/articles/1031308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031308)
-- [Генерируем фотореалистичные изображения](https://habr.com/ru/articles/1044864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044864)
-- [Перевоз данных по кусочкам: инженерная кухня SPQR](https://habr.com/ru/companies/yandex/articles/1043686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043686)
-- [ИИ уже пишет 80% кода Anthropic. Самое тревожное спрятано в цифре, которую подают как успех](https://habr.com/ru/articles/1044850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044850)
-- [Пособие по COM в Мастере функций nanoCAD BIM Строительство](https://habr.com/ru/companies/nanosoft/articles/1044838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044838)
+- [[Перевод] Создаём HTTP/2-сервер на C++ и хостим на нём свой сайт](https://habr.com/ru/companies/otus/articles/1044058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044058)
+- [Что не так с ИБ в опенсорсе и при чем тут ИИ &lpar;опять&rpar;](https://habr.com/ru/companies/beeline_cloud/articles/1045062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045062)
+- [Low-code на честном слове: что первое сломается на масштабе](https://habr.com/ru/companies/simpleone/articles/1045052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045052)
+- [Эту задачу спрашивают в ASTON, Альфе и Совкомбанке на java-собесе. Найдите 8 багов в 47 строках Spring — попробуйте сами](https://habr.com/ru/articles/1045050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045050)
+- [210 тысяч звёзд за пять месяцев. Как отличить накрученный харнес от рабочего и при чём тут домашняя еда](https://habr.com/ru/articles/1045028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045028)
 <!-- BLOG-POST-LIST:END -->
 
 ---
