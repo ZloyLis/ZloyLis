@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему $mol?](https://habr.com/ru/articles/1044684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044684)
+- [Иллюзия присутствия: почему удалёнка в IT превратилась в культуру «тихого увольнения» &lpar;Quiet Quitting&rpar;](https://habr.com/ru/articles/1044678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044678)
 - [Модель управления качеством](https://habr.com/ru/articles/1044662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044662)
 - [Искусственный интеллект и будущее человечества](https://habr.com/ru/articles/1044602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044602)
 - [Пять продуктов в одном FastAPI-монолите: HTMX вместо React, грабли Telegram Mini App и биллинг на Stars](https://habr.com/ru/articles/1044600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044600)
-- [Векторы по косинусу считают. Косинусное сходство, альтернативы, плюс — фановые проекты с эмбеддингами](https://habr.com/ru/companies/beeline_cloud/articles/1044592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044592)
-- [[Перевод] Тест Лавлейс: переосмысление](https://habr.com/ru/articles/1044590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044590)
 <!-- BLOG-POST-LIST:END -->
 
 ---
