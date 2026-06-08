@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему плести сети лучше, чем тушить пожары: эффективная разработка ПО с опорой на автоматизацию тестирования](https://habr.com/ru/articles/1044700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044700)
+- [Как мы делаем онлайн звонки: Введение в WebRTC и LiveKit](https://habr.com/ru/articles/1044650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044650)
+- [WebSocket на C++11 и Rust: сравнительный анализ библиотек и двух реализаций одного протокола](https://habr.com/ru/articles/1044686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044686)
+- [Я обновил онбординг и пейволл в приложении — и за одну неделю заработал больше, чем за предыдущие полгода вместе взятые](https://habr.com/ru/articles/1044674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044674)
 - [Почему $mol?](https://habr.com/ru/articles/1044684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044684)
-- [Иллюзия присутствия: почему удалёнка в IT превратилась в культуру «тихого увольнения» &lpar;Quiet Quitting&rpar;](https://habr.com/ru/articles/1044678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044678)
-- [Модель управления качеством](https://habr.com/ru/articles/1044662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044662)
-- [Искусственный интеллект и будущее человечества](https://habr.com/ru/articles/1044602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044602)
-- [Пять продуктов в одном FastAPI-монолите: HTMX вместо React, грабли Telegram Mini App и биллинг на Stars](https://habr.com/ru/articles/1044600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044600)
 <!-- BLOG-POST-LIST:END -->
 
 ---
