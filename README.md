@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Почему плести сети лучше, чем тушить пожары: эффективная разработка ПО с опорой на автоматизацию тестирования](https://habr.com/ru/articles/1044700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044700)
-- [Как мы делаем онлайн звонки: Введение в WebRTC и LiveKit](https://habr.com/ru/articles/1044650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044650)
-- [WebSocket на C++11 и Rust: сравнительный анализ библиотек и двух реализаций одного протокола](https://habr.com/ru/articles/1044686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044686)
-- [Я обновил онбординг и пейволл в приложении — и за одну неделю заработал больше, чем за предыдущие полгода вместе взятые](https://habr.com/ru/articles/1044674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044674)
-- [Почему $mol?](https://habr.com/ru/articles/1044684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044684)
+- [Как спроектировать REST API без ошибок: 3 задачи с разбором](https://habr.com/ru/companies/otus/articles/1031308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031308)
+- [Генерируем фотореалистичные изображения](https://habr.com/ru/articles/1044864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044864)
+- [Перевоз данных по кусочкам: инженерная кухня SPQR](https://habr.com/ru/companies/yandex/articles/1043686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043686)
+- [ИИ уже пишет 80% кода Anthropic. Самое тревожное спрятано в цифре, которую подают как успех](https://habr.com/ru/articles/1044850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044850)
+- [Пособие по COM в Мастере функций nanoCAD BIM Строительство](https://habr.com/ru/companies/nanosoft/articles/1044838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044838)
 <!-- BLOG-POST-LIST:END -->
 
 ---
