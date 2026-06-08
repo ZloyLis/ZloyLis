@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Создаём HTTP/2-сервер на C++ и хостим на нём свой сайт](https://habr.com/ru/companies/otus/articles/1044058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044058)
-- [Что не так с ИБ в опенсорсе и при чем тут ИИ &lpar;опять&rpar;](https://habr.com/ru/companies/beeline_cloud/articles/1045062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045062)
-- [Low-code на честном слове: что первое сломается на масштабе](https://habr.com/ru/companies/simpleone/articles/1045052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045052)
-- [Эту задачу спрашивают в ASTON, Альфе и Совкомбанке на java-собесе. Найдите 8 багов в 47 строках Spring — попробуйте сами](https://habr.com/ru/articles/1045050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045050)
-- [210 тысяч звёзд за пять месяцев. Как отличить накрученный харнес от рабочего и при чём тут домашняя еда](https://habr.com/ru/articles/1045028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045028)
+- [Как сделать свой сервис распознавания голоса вместо PLAUD и закрытых ИИ-диктофонов](https://habr.com/ru/articles/1045154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045154)
+- [Security Week 2624: троян в хентай-играх](https://habr.com/ru/companies/kaspersky/articles/1045054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045054)
+- [Как я сжёг 17,4 миллиарда токенов за 25 дней. По тарифам API это 3,2 миллиона рублей. IT приходит конец](https://habr.com/ru/articles/1045140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045140)
+- [Приложение для изучения китайского. От идеи до прода](https://habr.com/ru/articles/1045094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045094)
+- [Смотрим в будущее на Go — Theta прогнозирование финансового модуля ERP](https://habr.com/ru/articles/1045092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045092)
 <!-- BLOG-POST-LIST:END -->
 
 ---
