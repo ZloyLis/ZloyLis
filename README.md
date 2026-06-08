@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [C++101](https://habr.com/ru/articles/1044450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044450)
 - [Как сделать свой сервис распознавания голоса вместо PLAUD и закрытых ИИ-диктофонов](https://habr.com/ru/articles/1045154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045154)
 - [Security Week 2624: троян в хентай-играх](https://habr.com/ru/companies/kaspersky/articles/1045054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045054)
 - [Как я сжёг 17,4 миллиарда токенов за 25 дней. По тарифам API это 3,2 миллиона рублей. IT приходит конец](https://habr.com/ru/articles/1045140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045140)
 - [Приложение для изучения китайского. От идеи до прода](https://habr.com/ru/articles/1045094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045094)
-- [Смотрим в будущее на Go — Theta прогнозирование финансового модуля ERP](https://habr.com/ru/articles/1045092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045092)
 <!-- BLOG-POST-LIST:END -->
 
 ---
