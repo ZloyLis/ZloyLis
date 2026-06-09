@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как мы перевезли свой интернет-магазин с InSales на собственный движок на Next.js](https://habr.com/ru/articles/1045574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045574)
-- [Применение Kotlin DSL в TeamCity для автоматизации пайплайнов: кейс команды ВКонтакте](https://habr.com/ru/companies/vk/articles/1045484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045484)
-- [Как я реализовал Connect RPC на Java с помощью AI-агентов](https://habr.com/ru/articles/1045542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045542)
-- [Почему дашборды не меняют управление](https://habr.com/ru/articles/1045540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045540)
-- [Renga API: Создание объектов](https://habr.com/ru/companies/ascon/articles/1045030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045030)
+- [Откуда в обучении берётся nan: численная нестабильность в ML и почему всё считают в логарифмах](https://habr.com/ru/companies/otus/articles/1044824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044824)
+- [TypeScript vs JavaScript в 2026: почему TS обогнал JS и что это значит для разработчиков](https://habr.com/ru/companies/netologyru/articles/1042346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042346)
+- [Как я написал портативный файлообменник](https://habr.com/ru/articles/1045630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045630)
+- [Как попасть во фронтенд и дойти до senior в ВК — интервью с Александром Ламковым](https://habr.com/ru/articles/1045620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045620)
+- [Конечный автомат &lpar;FSM&rpar; – инструмент программиста](https://habr.com/ru/articles/1045614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045614)
 <!-- BLOG-POST-LIST:END -->
 
 ---
