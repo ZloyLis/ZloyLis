@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Anti-corruption Layer на C#: три шва на проекте миграции с Rails](https://habr.com/ru/articles/1042556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042556)
+- [Иллюзия легких денег: почему американский API не быстрее активов, торгуемых на Московской бирже](https://habr.com/ru/articles/1044490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044490)
 - [Как устроен ГИГАХРУЩ: клеточный мир, WebGL-рейкастер и A-Life без движка](https://habr.com/ru/articles/1045220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045220)
 - [REDB: индексы, или почему на любую схему — это быстро](https://habr.com/ru/articles/1045208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045208)
 - [C++101](https://habr.com/ru/articles/1044450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044450)
-- [Как сделать свой сервис распознавания голоса вместо PLAUD и закрытых ИИ-диктофонов](https://habr.com/ru/articles/1045154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045154)
-- [Security Week 2624: троян в хентай-играх](https://habr.com/ru/companies/kaspersky/articles/1045054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045054)
 <!-- BLOG-POST-LIST:END -->
 
 ---
