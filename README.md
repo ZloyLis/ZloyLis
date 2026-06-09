@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Прикладное применение математических распределений в имитационном моделировании на примере AnyLogic](https://habr.com/ru/articles/1045386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045386)
-- [Хочу пройти 40+ курсов 1С: Учебный центр №1 и сдать всех «Специалистов-консультантов». Зачем аналитику это нужно?](https://habr.com/ru/articles/1045376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045376)
-- [AI для Тестирования &lpar;QA&rpar;: краткий гайд по инструментам](https://habr.com/ru/articles/1045374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045374)
-- [Устаревшие CSS-техники, от которых уже можно отказаться](https://habr.com/ru/companies/ruvds/articles/1040320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040320)
-- [Харнесс вокруг кодящего агента, или Как я создал собственного монстра](https://habr.com/ru/articles/1045348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045348)
+- [Топ-советы по Claude Code от Бориса Черни и не только: гайд на 56k звёзд — что реально работает, а что мимо](https://habr.com/ru/articles/1045510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045510)
+- [А что мы получим, делегировав разработку ИИ](https://habr.com/ru/articles/1045502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045502)
+- [Пишем автомигратор на Go: как узнать схему PostgreSQL](https://habr.com/ru/articles/1045496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045496)
+- [От сборщика требований к бизнес-партнеру: как меняется роль аналитика](https://habr.com/ru/companies/pik_digital/articles/1045490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045490)
+- [AI замедлил работу опытных разработчиков на 19%. Что с этим делать](https://habr.com/ru/companies/oleg-bunin/articles/1045482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045482)
 <!-- BLOG-POST-LIST:END -->
 
 ---
