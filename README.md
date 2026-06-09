@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Топ-советы по Claude Code от Бориса Черни и не только: гайд на 56k звёзд — что реально работает, а что мимо](https://habr.com/ru/articles/1045510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045510)
-- [А что мы получим, делегировав разработку ИИ](https://habr.com/ru/articles/1045502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045502)
-- [Пишем автомигратор на Go: как узнать схему PostgreSQL](https://habr.com/ru/articles/1045496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045496)
-- [От сборщика требований к бизнес-партнеру: как меняется роль аналитика](https://habr.com/ru/companies/pik_digital/articles/1045490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045490)
-- [AI замедлил работу опытных разработчиков на 19%. Что с этим делать](https://habr.com/ru/companies/oleg-bunin/articles/1045482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045482)
+- [Как мы перевезли свой интернет-магазин с InSales на собственный движок на Next.js](https://habr.com/ru/articles/1045574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045574)
+- [Применение Kotlin DSL в TeamCity для автоматизации пайплайнов: кейс команды ВКонтакте](https://habr.com/ru/companies/vk/articles/1045484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045484)
+- [Как я реализовал Connect RPC на Java с помощью AI-агентов](https://habr.com/ru/articles/1045542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045542)
+- [Почему дашборды не меняют управление](https://habr.com/ru/articles/1045540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045540)
+- [Renga API: Создание объектов](https://habr.com/ru/companies/ascon/articles/1045030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045030)
 <!-- BLOG-POST-LIST:END -->
 
 ---
