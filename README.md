@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Поколение «Approve»: почему я заставил команду переписать проект, который уже работал](https://habr.com/ru/articles/1046269/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046269)
+- [Postgresso 4 &lpar;89&rpar;](https://habr.com/ru/companies/postgrespro/articles/1027904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027904)
+- [Два года один пилю MMORPG на CI4: пять багов, за каждым из которых стоял живой игрок](https://habr.com/ru/articles/1046251/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046251)
 - [free AI girlfriend. Почему мужчины уходят из экономики отношений и как устроен пространственный 3D-аватар в браузере](https://habr.com/ru/articles/1046221/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046221)
 - [Пишем TCP-сканер портов на Go: goroutine, timeout и CSV-отчёт](https://habr.com/ru/articles/1046217/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046217)
-- [Автоматический DSP-премастеринг для аудиокассет на C++](https://habr.com/ru/articles/1046213/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046213)
-- [Anthropic выпустили Mythos, а в России заблокировали Python](https://habr.com/ru/companies/haulmont/articles/1046123/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046123)
-- [transp_anon – динамическое маскирование через Access Methods в PostgreSQL](https://habr.com/ru/companies/tantor/articles/1046107/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046107)
 <!-- BLOG-POST-LIST:END -->
 
 ---
