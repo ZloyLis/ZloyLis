@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code с локальными Qwen3.6 на AMD Strix Halo: полное руководство по настройке](https://habr.com/ru/articles/1038774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038774)
-- [Как заставить AI-ассистента верстать премиальные интерфейсы вместо унылых серых шаблонов](https://habr.com/ru/articles/1045738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045738)
-- [Динамический полиморфизм против std::variant на указателях: Разрушаем мифы о скорости std::visit](https://habr.com/ru/articles/1045494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045494)
-- [OSDEV: Разработка аллокатора на С++ часть 3. Финальный аллокатор со списками свободных блоков](https://habr.com/ru/articles/1045692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045692)
-- [[Перевод] Модули C++20 — как я с ними намучился](https://habr.com/ru/articles/1045676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045676)
+- [Mini Bucket 3.6.4: теперь с плагинами — двери для разработки открыты](https://habr.com/ru/articles/1045806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045806)
+- [Шпаргалка BA: как не потеряться на встрече со стейкхолдером и командой](https://habr.com/ru/articles/1045874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045874)
+- [Парадокс Джевонса и будущее разработчиков: почему ИИ не сократит спрос на программистов](https://habr.com/ru/articles/1045864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045864)
+- [Когда складской модуль ERP уже не справляется и нужна WMS](https://habr.com/ru/companies/infostart/articles/1045868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045868)
+- [Ломаем ещё один терминал Сбербанка](https://habr.com/ru/companies/ruvds/articles/1043802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043802)
 <!-- BLOG-POST-LIST:END -->
 
 ---
