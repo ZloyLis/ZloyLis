@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mini Bucket 3.6.4: теперь с плагинами — двери для разработки открыты](https://habr.com/ru/articles/1045806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045806)
-- [Шпаргалка BA: как не потеряться на встрече со стейкхолдером и командой](https://habr.com/ru/articles/1045874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045874)
-- [Парадокс Джевонса и будущее разработчиков: почему ИИ не сократит спрос на программистов](https://habr.com/ru/articles/1045864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045864)
-- [Когда складской модуль ERP уже не справляется и нужна WMS](https://habr.com/ru/companies/infostart/articles/1045868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045868)
-- [Ломаем ещё один терминал Сбербанка](https://habr.com/ru/companies/ruvds/articles/1043802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043802)
+- [Как оформить отношения с инвестором в пет-проекте](https://habr.com/ru/articles/1046093/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046093)
+- [Находим конфликты в пользовательских историях за 10 минут с помощью ИИ](https://habr.com/ru/companies/otus/articles/1044030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044030)
+- [Внедрение ИИ-агента глазами QA: полгода от скепсиса до 1600 тестов за сутки](https://habr.com/ru/companies/it_sense/articles/1046063/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046063)
+- [Галуа Ч.1: Классы вычетов и группы](https://habr.com/ru/articles/1046053/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046053)
+- [Алиасинг памяти в C++: прошлое, настоящее, будущее](https://habr.com/ru/companies/yadro/articles/1045947/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045947)
 <!-- BLOG-POST-LIST:END -->
 
 ---
