@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code с локальными Qwen3.6 на AMD Strix Halo: полное руководство по настройке](https://habr.com/ru/articles/1038774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038774)
+- [Как заставить AI-ассистента верстать премиальные интерфейсы вместо унылых серых шаблонов](https://habr.com/ru/articles/1045738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045738)
+- [Динамический полиморфизм против std::variant на указателях: Разрушаем мифы о скорости std::visit](https://habr.com/ru/articles/1045494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045494)
 - [OSDEV: Разработка аллокатора на С++ часть 3. Финальный аллокатор со списками свободных блоков](https://habr.com/ru/articles/1045692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045692)
 - [[Перевод] Модули C++20 — как я с ними намучился](https://habr.com/ru/articles/1045676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045676)
-- [Откуда в обучении берётся nan: численная нестабильность в ML и почему всё считают в логарифмах](https://habr.com/ru/companies/otus/articles/1044824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044824)
-- [TypeScript vs JavaScript в 2026: почему TS обогнал JS и что это значит для разработчиков](https://habr.com/ru/companies/netologyru/articles/1042346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042346)
-- [Как я написал портативный файлообменник](https://habr.com/ru/articles/1045630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045630)
 <!-- BLOG-POST-LIST:END -->
 
 ---
