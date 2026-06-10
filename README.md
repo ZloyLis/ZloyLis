@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [free AI girlfriend. Почему мужчины уходят из экономики отношений и как устроен пространственный 3D-аватар в браузере](https://habr.com/ru/articles/1046221/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046221)
+- [Пишем TCP-сканер портов на Go: goroutine, timeout и CSV-отчёт](https://habr.com/ru/articles/1046217/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046217)
+- [Автоматический DSP-премастеринг для аудиокассет на C++](https://habr.com/ru/articles/1046213/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046213)
 - [Anthropic выпустили Mythos, а в России заблокировали Python](https://habr.com/ru/companies/haulmont/articles/1046123/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046123)
 - [transp_anon – динамическое маскирование через Access Methods в PostgreSQL](https://habr.com/ru/companies/tantor/articles/1046107/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046107)
-- [Я устал от Electron, Tauri и Neutralino — и случайно сделал… лучше?](https://habr.com/ru/articles/1046187/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046187)
-- [Медицинское обучение через игру: симулятор лечения сифилиса и ВИЧ](https://habr.com/ru/articles/1046185/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046185)
-- [Проверка возраста без персональных данных и биометрии: встраиваем в веб-страницу за 5 минут](https://habr.com/ru/companies/smartengines/articles/1046149/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046149)
 <!-- BLOG-POST-LIST:END -->
 
 ---
