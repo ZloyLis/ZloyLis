@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как оформить отношения с инвестором в пет-проекте](https://habr.com/ru/articles/1046093/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046093)
-- [Находим конфликты в пользовательских историях за 10 минут с помощью ИИ](https://habr.com/ru/companies/otus/articles/1044030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044030)
-- [Внедрение ИИ-агента глазами QA: полгода от скепсиса до 1600 тестов за сутки](https://habr.com/ru/companies/it_sense/articles/1046063/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046063)
-- [Галуа Ч.1: Классы вычетов и группы](https://habr.com/ru/articles/1046053/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046053)
-- [Алиасинг памяти в C++: прошлое, настоящее, будущее](https://habr.com/ru/companies/yadro/articles/1045947/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045947)
+- [Anthropic выпустили Mythos, а в России заблокировали Python](https://habr.com/ru/companies/haulmont/articles/1046123/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046123)
+- [transp_anon – динамическое маскирование через Access Methods в PostgreSQL](https://habr.com/ru/companies/tantor/articles/1046107/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046107)
+- [Я устал от Electron, Tauri и Neutralino — и случайно сделал… лучше?](https://habr.com/ru/articles/1046187/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046187)
+- [Медицинское обучение через игру: симулятор лечения сифилиса и ВИЧ](https://habr.com/ru/articles/1046185/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046185)
+- [Проверка возраста без персональных данных и биометрии: встраиваем в веб-страницу за 5 минут](https://habr.com/ru/companies/smartengines/articles/1046149/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046149)
 <!-- BLOG-POST-LIST:END -->
 
 ---
