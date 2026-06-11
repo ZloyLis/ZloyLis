@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [iOS: отправляем почту по SMTP с нуля на сокетах](https://habr.com/ru/articles/1038760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038760)
-- [ИИ-ревью кода в 2026 году: как оно работает и как внедрять](https://habr.com/ru/companies/otus/articles/1046157/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046157)
-- [[Перевод] Как правильно заLOOPить Fable 5](https://habr.com/ru/articles/1046451/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046451)
-- [Как LLM* тотально перевернули концепцию разработки и программирования ПО](https://habr.com/ru/articles/1046449/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046449)
-- [Внедрение SQLMesh в команду аналитики](https://habr.com/ru/articles/1046427/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046427)
+- [Назад в будущее UI-kit: как мы перевели живую библиотеку на дизайн-токены и ничего не сломали](https://habr.com/ru/companies/lukit_ru/articles/1046493/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046493)
+- [Как я написал BGP-сервер и не сошёл с ума](https://habr.com/ru/articles/1046544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046544)
+- [Новые модели в FMC и патчи безопасности в SELECTOS: дайджест Selectel за май](https://habr.com/ru/companies/selectel/articles/1046574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046574)
+- [Как я стал Scala-разработчиком в Иннополисе](https://habr.com/ru/companies/tbank/articles/1046439/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046439)
+- [«К нам едет ревизор», или Как не построить космические замки на бюджете сарая при внедрении DWH](https://habr.com/ru/companies/glowbyte/articles/1046548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046548)
 <!-- BLOG-POST-LIST:END -->
 
 ---
