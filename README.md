@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как действительно восстановить данные в PostgreSQL](https://habr.com/ru/articles/1027002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027002)
 - [Поколение «Approve»: почему я заставил команду переписать проект, который уже работал](https://habr.com/ru/articles/1046269/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046269)
 - [Postgresso 4 &lpar;89&rpar;](https://habr.com/ru/companies/postgrespro/articles/1027904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027904)
 - [Два года один пилю MMORPG на CI4: пять багов, за каждым из которых стоял живой игрок](https://habr.com/ru/articles/1046251/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046251)
 - [free AI girlfriend. Почему мужчины уходят из экономики отношений и как устроен пространственный 3D-аватар в браузере](https://habr.com/ru/articles/1046221/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046221)
-- [Пишем TCP-сканер портов на Go: goroutine, timeout и CSV-отчёт](https://habr.com/ru/articles/1046217/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046217)
 <!-- BLOG-POST-LIST:END -->
 
 ---
