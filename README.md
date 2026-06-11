@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [AI не убил разработчиков. Он сделал дешёвой видимость разработки](https://habr.com/ru/articles/1045632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045632)
+- [Галуа Ч.3: Конечные поля вида GF&lpar;&lpar;p^n&rpar;^m&rpar;. Изоморфизм конечных полей](https://habr.com/ru/articles/1046690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046690)
+- [Писал мониторинг на Go «за выходные» — застрял на месяцы. Вот на чём](https://habr.com/ru/articles/1046696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046696)
 - [Промпты, RAG, LLM-тюнинг, Harness… Идём дальше?](https://habr.com/ru/companies/postgrespro/articles/1045532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045532)
 - [Натягиваем сову на глобус или оценка применимости TSI на другие языки](https://habr.com/ru/articles/1046658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046658)
-- [Встраиваем проверку возраста без ЕБС в Telegram, MAX и любой другой мессенджер](https://habr.com/ru/companies/smartengines/articles/1046608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046608)
-- [LLM написала, человек одобрил, никто не понял: откуда на самом деле берётся нечитаемый код](https://habr.com/ru/articles/1046636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046636)
-- [Одна маленькая ошибка в дизайне Java API, за которую потом приходится платить очень дорого](https://habr.com/ru/companies/spring_aio/articles/1046620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046620)
 <!-- BLOG-POST-LIST:END -->
 
 ---
