@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Назад в будущее UI-kit: как мы перевели живую библиотеку на дизайн-токены и ничего не сломали](https://habr.com/ru/companies/lukit_ru/articles/1046493/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046493)
-- [Как я написал BGP-сервер и не сошёл с ума](https://habr.com/ru/articles/1046544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046544)
-- [Новые модели в FMC и патчи безопасности в SELECTOS: дайджест Selectel за май](https://habr.com/ru/companies/selectel/articles/1046574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046574)
-- [Как я стал Scala-разработчиком в Иннополисе](https://habr.com/ru/companies/tbank/articles/1046439/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046439)
-- [«К нам едет ревизор», или Как не построить космические замки на бюджете сарая при внедрении DWH](https://habr.com/ru/companies/glowbyte/articles/1046548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046548)
+- [Промпты, RAG, LLM-тюнинг, Harness… Идём дальше?](https://habr.com/ru/companies/postgrespro/articles/1045532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045532)
+- [Натягиваем сову на глобус или оценка применимости TSI на другие языки](https://habr.com/ru/articles/1046658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046658)
+- [Встраиваем проверку возраста без ЕБС в Telegram, MAX и любой другой мессенджер](https://habr.com/ru/companies/smartengines/articles/1046608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046608)
+- [LLM написала, человек одобрил, никто не понял: откуда на самом деле берётся нечитаемый код](https://habr.com/ru/articles/1046636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046636)
+- [Одна маленькая ошибка в дизайне Java API, за которую потом приходится платить очень дорого](https://habr.com/ru/companies/spring_aio/articles/1046620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046620)
 <!-- BLOG-POST-LIST:END -->
 
 ---
