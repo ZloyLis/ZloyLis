@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ObjectId против UUID: как выбор _id в MongoDB влияет на API, индексы и миграции](https://habr.com/ru/articles/1046712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046712)
+- [Интерфейсная биомимимикрия: может ли фрактальная навигация заменить «кладбище иконок» в SuperApp?](https://habr.com/ru/articles/1046706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046706)
 - [AI не убил разработчиков. Он сделал дешёвой видимость разработки](https://habr.com/ru/articles/1045632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045632)
 - [Галуа Ч.3: Конечные поля вида GF&lpar;&lpar;p^n&rpar;^m&rpar;. Изоморфизм конечных полей](https://habr.com/ru/articles/1046690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046690)
 - [Писал мониторинг на Go «за выходные» — застрял на месяцы. Вот на чём](https://habr.com/ru/articles/1046696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046696)
-- [Промпты, RAG, LLM-тюнинг, Harness… Идём дальше?](https://habr.com/ru/companies/postgrespro/articles/1045532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045532)
-- [Натягиваем сову на глобус или оценка применимости TSI на другие языки](https://habr.com/ru/articles/1046658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046658)
 <!-- BLOG-POST-LIST:END -->
 
 ---
