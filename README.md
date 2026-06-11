@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как действительно восстановить данные в PostgreSQL](https://habr.com/ru/articles/1027002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027002)
-- [Поколение «Approve»: почему я заставил команду переписать проект, который уже работал](https://habr.com/ru/articles/1046269/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046269)
-- [Postgresso 4 &lpar;89&rpar;](https://habr.com/ru/companies/postgrespro/articles/1027904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027904)
-- [Два года один пилю MMORPG на CI4: пять багов, за каждым из которых стоял живой игрок](https://habr.com/ru/articles/1046251/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046251)
-- [free AI girlfriend. Почему мужчины уходят из экономики отношений и как устроен пространственный 3D-аватар в браузере](https://habr.com/ru/articles/1046221/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046221)
+- [iOS: отправляем почту по SMTP с нуля на сокетах](https://habr.com/ru/articles/1038760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038760)
+- [ИИ-ревью кода в 2026 году: как оно работает и как внедрять](https://habr.com/ru/companies/otus/articles/1046157/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046157)
+- [[Перевод] Как правильно заLOOPить Fable 5](https://habr.com/ru/articles/1046451/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046451)
+- [Как LLM* тотально перевернули концепцию разработки и программирования ПО](https://habr.com/ru/articles/1046449/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046449)
+- [Внедрение SQLMesh в команду аналитики](https://habr.com/ru/articles/1046427/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046427)
 <!-- BLOG-POST-LIST:END -->
 
 ---
