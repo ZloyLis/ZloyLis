@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Бэкап сайта на шаред-хостинге без cron CLI: bash + lftp + внешний триггер](https://habr.com/ru/articles/1046948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046948)
+- [Почему мы спорим о памяти для AI-агентов](https://habr.com/ru/articles/1046944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046944)
+- [Пишу алгоритм FFT на Си для процессора Эльбрус](https://habr.com/ru/articles/1045901/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045901)
 - [Почему я запрещаю ученикам использовать ИИ? &lpar;Мнение ученых о разжижении мозга нейросетями&rpar;](https://habr.com/ru/articles/1046922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046922)
 - [Как Jepsen ломает распределённые базы: разбор бага в CockroachDB](https://habr.com/ru/companies/otus/articles/1045000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045000)
-- [Хватит дублировать валидацию в Django: как я подружил Pydantic с ORM и перестал страдать](https://habr.com/ru/articles/1046880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046880)
-- [AI-агент для склада в Джеймикс. Часть 1](https://habr.com/ru/companies/haulmont/articles/1046868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046868)
-- [SQL JOIN Простыми Словами для Начинающих](https://habr.com/ru/articles/1046866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046866)
 <!-- BLOG-POST-LIST:END -->
 
 ---
