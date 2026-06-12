@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Эмерджентная Вселенная как спектральный граф малого мира](https://habr.com/ru/articles/1046730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046730)
-- [Как я сделал личный центр управления VLESS для Android TV, потому что устал руками менять конфиги](https://habr.com/ru/articles/1046726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046726)
-- [Генератор идей для стартапа за выходные: как я открыл для себя «вайбкодинг»](https://habr.com/ru/articles/1046716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046716)
-- [RuStore качает MAX без спроса и мониторит GPS каждые 5 минут и ему даже не стыдно](https://habr.com/ru/articles/1046710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046710)
-- [ObjectId против UUID: как выбор _id в MongoDB влияет на API, индексы и миграции](https://habr.com/ru/articles/1046712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046712)
+- [Не давайте ИИ-агенту прямой доступ к базе. Как я проектировал безопасный контур действий на FastAPI и PostgreSQL](https://habr.com/ru/articles/1046770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046770)
+- [Радиоактивный распад урана-238](https://habr.com/ru/articles/1043856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043856)
+- [Shrinking: как property-тест сводит мусорный контрпример к минимуму](https://habr.com/ru/companies/otus/articles/1046638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046638)
+- [Асинхронный django: новые начинания](https://habr.com/ru/articles/1046604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046604)
+- [Графический интерфейс Мандельброта: Визуализатор с методом возмущений и предела 1e-308](https://habr.com/ru/articles/1046708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046708)
 <!-- BLOG-POST-LIST:END -->
 
 ---
