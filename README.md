@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Эмерджентная Вселенная как спектральный граф малого мира](https://habr.com/ru/articles/1046730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046730)
+- [Как я сделал личный центр управления VLESS для Android TV, потому что устал руками менять конфиги](https://habr.com/ru/articles/1046726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046726)
+- [Генератор идей для стартапа за выходные: как я открыл для себя «вайбкодинг»](https://habr.com/ru/articles/1046716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046716)
+- [RuStore качает MAX без спроса и мониторит GPS каждые 5 минут и ему даже не стыдно](https://habr.com/ru/articles/1046710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046710)
 - [ObjectId против UUID: как выбор _id в MongoDB влияет на API, индексы и миграции](https://habr.com/ru/articles/1046712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046712)
-- [Интерфейсная биомимимикрия: может ли фрактальная навигация заменить «кладбище иконок» в SuperApp?](https://habr.com/ru/articles/1046706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046706)
-- [AI не убил разработчиков. Он сделал дешёвой видимость разработки](https://habr.com/ru/articles/1045632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045632)
-- [Галуа Ч.3: Конечные поля вида GF&lpar;&lpar;p^n&rpar;^m&rpar;. Изоморфизм конечных полей](https://habr.com/ru/articles/1046690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046690)
-- [Писал мониторинг на Go «за выходные» — застрял на месяцы. Вот на чём](https://habr.com/ru/articles/1046696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046696)
 <!-- BLOG-POST-LIST:END -->
 
 ---
