@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [sqlh — SQL в Go без boilerplate: пишем CRUD за 50 строк](https://habr.com/ru/articles/1046836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046836)
-- [Как я пишу Telegram-ботов через Claude Code, вообще не умея программировать](https://habr.com/ru/companies/x-com/articles/1046826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046826)
-- [Cколько железа нужно ИИ-агенту? Как мы считали ресурсы для on-premise LLM и почему калькуляторы ошиблись в 5 раз](https://habr.com/ru/companies/llmstart/articles/1046722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046722)
-- [Как я за 6 месяцев превратил ИТ-ад в конвейер: личный опыт в компании-единороге](https://habr.com/ru/articles/1046796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046796)
-- [Вайб-кодеры пришли на биржу. Что стало с фрилансом к середине 2026](https://habr.com/ru/articles/1046698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046698)
+- [Почему я запрещаю ученикам использовать ИИ? &lpar;Мнение ученых о разжижении мозга нейросетями&rpar;](https://habr.com/ru/articles/1046922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046922)
+- [Как Jepsen ломает распределённые базы: разбор бага в CockroachDB](https://habr.com/ru/companies/otus/articles/1045000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045000)
+- [Хватит дублировать валидацию в Django: как я подружил Pydantic с ORM и перестал страдать](https://habr.com/ru/articles/1046880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046880)
+- [AI-агент для склада в Джеймикс. Часть 1](https://habr.com/ru/companies/haulmont/articles/1046868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046868)
+- [SQL JOIN Простыми Словами для Начинающих](https://habr.com/ru/articles/1046866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046866)
 <!-- BLOG-POST-LIST:END -->
 
 ---
