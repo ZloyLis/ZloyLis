@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Не давайте ИИ-агенту прямой доступ к базе. Как я проектировал безопасный контур действий на FastAPI и PostgreSQL](https://habr.com/ru/articles/1046770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046770)
-- [Радиоактивный распад урана-238](https://habr.com/ru/articles/1043856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043856)
-- [Shrinking: как property-тест сводит мусорный контрпример к минимуму](https://habr.com/ru/companies/otus/articles/1046638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046638)
-- [Асинхронный django: новые начинания](https://habr.com/ru/articles/1046604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046604)
-- [Графический интерфейс Мандельброта: Визуализатор с методом возмущений и предела 1e-308](https://habr.com/ru/articles/1046708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046708)
+- [sqlh — SQL в Go без boilerplate: пишем CRUD за 50 строк](https://habr.com/ru/articles/1046836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046836)
+- [Как я пишу Telegram-ботов через Claude Code, вообще не умея программировать](https://habr.com/ru/companies/x-com/articles/1046826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046826)
+- [Cколько железа нужно ИИ-агенту? Как мы считали ресурсы для on-premise LLM и почему калькуляторы ошиблись в 5 раз](https://habr.com/ru/companies/llmstart/articles/1046722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046722)
+- [Как я за 6 месяцев превратил ИТ-ад в конвейер: личный опыт в компании-единороге](https://habr.com/ru/articles/1046796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046796)
+- [Вайб-кодеры пришли на биржу. Что стало с фрилансом к середине 2026](https://habr.com/ru/articles/1046698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046698)
 <!-- BLOG-POST-LIST:END -->
 
 ---
