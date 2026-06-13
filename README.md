@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Разбираемся в ML без воды: от базы до Attention. Часть 11: Градиентный бустинг](https://habr.com/ru/articles/1047130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047130)
-- [Нужно ли использовать Qwen? Качество и цена](https://habr.com/ru/articles/1047108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047108)
-- [Agent Team в Claude Code: когда одного агента в терминале уже не хватает](https://habr.com/ru/articles/1047098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047098)
-- [Ложное чувство защиты: Почему 90% code coverage не спасает от багов](https://habr.com/ru/companies/otus/articles/1044658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044658)
-- [Симулятор рисков для крипты: написал инструмент, который считает за меня размер позиции и стресс-тестирует портфель](https://habr.com/ru/articles/1047086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047086)
+- [OSDEV: Разработка аллокатора на С++ часть 4. mem_malloc_aligned](https://habr.com/ru/articles/1047178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047178)
+- [Браузерный переводчик нашёл «Глубинное государство» в доках веб-фреймворка. Вспомни своё](https://habr.com/ru/articles/1047174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047174)
+- [Когда гении терпят поражение: взлет и падение LTCM](https://habr.com/ru/articles/1047142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047142)
+- [Проект Cozystack представил переработанный etcd-operator с новым API](https://habr.com/ru/companies/aenix/articles/1047170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047170)
+- [Теорема Фробениуса](https://habr.com/ru/articles/1047158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047158)
 <!-- BLOG-POST-LIST:END -->
 
 ---
