@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ложное чувство защиты: Почему 90% code coverage не спасает от багов](https://habr.com/ru/companies/otus/articles/1044658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044658)
+- [Симулятор рисков для крипты: написал инструмент, который считает за меня размер позиции и стресс-тестирует портфель](https://habr.com/ru/articles/1047086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047086)
+- [Я сделал инструмент для бизнес и системного аналитика, чтобы не держать всё в голове во время разбора задачи](https://habr.com/ru/articles/1047074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047074)
 - [Anthropic, Fable 5, Claude Code и большой отбор игрушек](https://habr.com/ru/articles/1047036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047036)
 - [Заметки на полях: алгебра матриц Паули](https://habr.com/ru/articles/1044904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044904)
-- [Язык, который придумали для ИИ в 1958-м](https://habr.com/ru/articles/1046996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046996)
-- [Бэкап сайта на шаред-хостинге без cron CLI: bash + lftp + внешний триггер](https://habr.com/ru/articles/1046948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046948)
-- [Почему мы спорим о памяти для AI-агентов](https://habr.com/ru/articles/1046944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046944)
 <!-- BLOG-POST-LIST:END -->
 
 ---
