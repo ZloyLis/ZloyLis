@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Заметки на полях: алгебра матриц Паули](https://habr.com/ru/articles/1044904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044904)
 - [EVERTY DESK — EVRT ПРОТОКОЛ, или почему я написал лучший протокол низкой задержки в мире](https://habr.com/ru/articles/1046998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046998)
 - [Язык, который придумали для ИИ в 1958-м](https://habr.com/ru/articles/1046996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046996)
 - [Бэкап сайта на шаред-хостинге без cron CLI: bash + lftp + внешний триггер](https://habr.com/ru/articles/1046948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046948)
 - [Почему мы спорим о памяти для AI-агентов](https://habr.com/ru/articles/1046944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046944)
-- [Пишу алгоритм FFT на Си для процессора Эльбрус](https://habr.com/ru/articles/1045901/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045901)
 <!-- BLOG-POST-LIST:END -->
 
 ---
