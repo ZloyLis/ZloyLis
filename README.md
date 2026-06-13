@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Солнце — не помеха. Электронная книга как почти лучший навигатор для велосипедиста &lpar;лонгрид&rpar;](https://habr.com/ru/articles/1046990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046990)
+- [Как я написал свой клиент Miracast для шаринга экрана под Linux в 2026 году и погряз в войне за проприетарные байты](https://habr.com/ru/articles/1047186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047186)
 - [OSDEV: Разработка аллокатора на С++ часть 4. mem_malloc_aligned](https://habr.com/ru/articles/1047178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047178)
-- [Браузерный переводчик нашёл «Глубинное государство» в доках веб-фреймворка. Вспомни своё](https://habr.com/ru/articles/1047174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047174)
 - [Когда гении терпят поражение: взлет и падение LTCM](https://habr.com/ru/articles/1047142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047142)
 - [Проект Cozystack представил переработанный etcd-operator с новым API](https://habr.com/ru/companies/aenix/articles/1047170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047170)
-- [Теорема Фробениуса](https://habr.com/ru/articles/1047158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047158)
 <!-- BLOG-POST-LIST:END -->
 
 ---
