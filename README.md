@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как получить api_id на my.telegram.org из России без VPN &lpar;и почему с VPN не получится&rpar;](https://habr.com/ru/articles/1047402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047402)
+- [[Перевод] Верификация программного обеспечения в эпоху искусственного интеллекта](https://habr.com/ru/articles/1046936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046936)
 - [Рефлексивный бот с долгой памятью: почему универсальный LLM-чат тут не работает, и как я переписал онбординг по данным](https://habr.com/ru/articles/1047384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047384)
 - [Десктопный аналитик криптовалют: как устроена мультифакторная система сигналов на TA-Lib](https://habr.com/ru/articles/1047376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047376)
 - [Три задачи discovery при работе с PostgreSQL master/replica — и как их решить](https://habr.com/ru/articles/1047374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047374)
-- [Как я сделал расширение, которое показывает десктоп и мобильную версию сайта одновременно](https://habr.com/ru/articles/1047354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047354)
-- [От языковых моделей к вычислимому мышлению: как SymFSM меняет архитектуру AI-систем](https://habr.com/ru/articles/1047344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047344)
 <!-- BLOG-POST-LIST:END -->
 
 ---
