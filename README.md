@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Когда неизвестное — не число, а функция: разбор функциональных уравнений с олимпиады IMC](https://habr.com/ru/articles/1047214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047214)
+- [Передача значений переменной из PHP в JavaScript](https://habr.com/ru/articles/1047206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047206)
 - [Семь браузерных инструментов без сервера: WASM, WebGPU, шифрование на клиенте](https://habr.com/ru/articles/1047200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047200)
 - [Солнце — не помеха. Электронная книга как почти лучший навигатор для велосипедиста &lpar;лонгрид&rpar;](https://habr.com/ru/articles/1046990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046990)
 - [Как я написал свой клиент Miracast для шаринга экрана под Linux в 2026 году и погряз в войне за проприетарные байты](https://habr.com/ru/articles/1047186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047186)
-- [OSDEV: Разработка аллокатора на С++ часть 4. mem_malloc_aligned](https://habr.com/ru/articles/1047178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047178)
-- [Когда гении терпят поражение: взлет и падение LTCM](https://habr.com/ru/articles/1047142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047142)
 <!-- BLOG-POST-LIST:END -->
 
 ---
