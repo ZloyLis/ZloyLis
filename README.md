@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Когда неизвестное — не число, а функция: разбор функциональных уравнений с олимпиады IMC](https://habr.com/ru/articles/1047214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047214)
-- [Передача значений переменной из PHP в JavaScript](https://habr.com/ru/articles/1047206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047206)
-- [Семь браузерных инструментов без сервера: WASM, WebGPU, шифрование на клиенте](https://habr.com/ru/articles/1047200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047200)
-- [Солнце — не помеха. Электронная книга как почти лучший навигатор для велосипедиста &lpar;лонгрид&rpar;](https://habr.com/ru/articles/1046990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046990)
-- [Как я написал свой клиент Miracast для шаринга экрана под Linux в 2026 году и погряз в войне за проприетарные байты](https://habr.com/ru/articles/1047186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047186)
+- [G-code программисту и Brainfuck не страшен](https://habr.com/ru/articles/1047268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047268)
+- [Размер позиции под микроскопом: Монте-Карло, где честно меняется ровно одна переменная](https://habr.com/ru/articles/1047262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047262)
+- [Интероперабельность медданных: почему один биомаркер — это не один код](https://habr.com/ru/articles/1047258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047258)
+- [Мобильная разработка за неделю #634 &lpar;8 — 14 июня&rpar;](https://habr.com/ru/articles/1047248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047248)
+- [Моя подборка полезных статей на habr про агентную разработку](https://habr.com/ru/articles/1047230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047230)
 <!-- BLOG-POST-LIST:END -->
 
 ---
