@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я сделал расширение, которое показывает десктоп и мобильную версию сайта одновременно](https://habr.com/ru/articles/1047354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047354)
+- [От языковых моделей к вычислимому мышлению: как SymFSM меняет архитектуру AI-систем](https://habr.com/ru/articles/1047344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047344)
 - [Когда таймлайн сам рисует кадры: встроенный ИИ‑генератор в MultiTrack](https://habr.com/ru/articles/1047332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047332)
 - [[Перевод] Немного магии: как устроен API фикстур в Playwright](https://habr.com/ru/articles/1047326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047326)
 - [Чем лучше Claude Code, тем хуже разработчик](https://habr.com/ru/articles/1045628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045628)
-- [Browser Policy Manager: история создания и технические решения](https://habr.com/ru/articles/1047316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047316)
-- [Три фикса, четыре ошибки, один файл](https://habr.com/ru/articles/1047302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047302)
 <!-- BLOG-POST-LIST:END -->
 
 ---
