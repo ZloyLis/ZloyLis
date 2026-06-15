@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [$25 один раз против $99 каждый год: сколько на самом деле стоит выложить приложение в 2026](https://habr.com/ru/articles/1047878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047878)
+- [Конформные предсказания: интервалы с гарантией покрытия без предположений о распределении](https://habr.com/ru/companies/otus/articles/1044840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044840)
+- [Семь стрел, 429 деревьев: семилетняя ошибка именования, всплывшая за чисткой Mermaid-визуализации](https://habr.com/ru/articles/1047856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047856)
+- [Security Week 2625: непростой набор патчей от Microsoft](https://habr.com/ru/companies/kaspersky/articles/1047514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047514)
 - [8 вопросов с java-собеса в банке: Junior отвечает за 10 секунд, Senior — за 3 минуты. Кого берут?](https://habr.com/ru/articles/1047832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047832)
-- [А вас вайб-кодеры уже достали?](https://habr.com/ru/articles/1047830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047830)
-- [Новости о IMSProg](https://habr.com/ru/articles/1047824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047824)
-- [Правильное использование механизма исключений](https://habr.com/ru/articles/1047802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047802)
-- [Стягивай куда нужно: Activation Steering Tutorial](https://habr.com/ru/articles/1047630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047630)
 <!-- BLOG-POST-LIST:END -->
 
 ---
