@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как эффективно работать и почему Agile — это секта](https://habr.com/ru/articles/1047428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047428)
-- [Ненормальное марковское программирование](https://habr.com/ru/articles/1046688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046688)
-- [Забытый мультиколор &lpar;часть 4&rpar;](https://habr.com/ru/articles/1046992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046992)
-- [Где в Телеграм заканчивается dating-чат и начинается архитектура](https://habr.com/ru/articles/1047458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047458)
-- [PG_EXPECTO 10.1.3: Новые возможности нагрузочного тестирования СУБД PostgreSQL](https://habr.com/ru/articles/1047450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047450)
+- [Как мы собрали LLM-шлюз для России: готовый LiteLLM на data-plane, свой биллинг на Go и n8n](https://habr.com/ru/articles/1047712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047712)
+- [[Перевод] Создаём простого ИИ-агента с нуля. Часть 1](https://habr.com/ru/companies/cloud4y/articles/1047722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047722)
+- [Как прокачать документацию API ковром, и причем тут Валера](https://habr.com/ru/companies/uzum/articles/1046463/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046463)
+- [Добраться до центра](https://habr.com/ru/articles/1047720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047720)
+- [Продуктовому дизайнеру проще пройти собеседование, чем испытательный срок](https://habr.com/ru/articles/1047706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047706)
 <!-- BLOG-POST-LIST:END -->
 
 ---
