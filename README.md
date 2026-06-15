@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как получить api_id на my.telegram.org из России без VPN &lpar;и почему с VPN не получится&rpar;](https://habr.com/ru/articles/1047402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047402)
-- [[Перевод] Верификация программного обеспечения в эпоху искусственного интеллекта](https://habr.com/ru/articles/1046936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046936)
-- [Рефлексивный бот с долгой памятью: почему универсальный LLM-чат тут не работает, и как я переписал онбординг по данным](https://habr.com/ru/articles/1047384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047384)
-- [Десктопный аналитик криптовалют: как устроена мультифакторная система сигналов на TA-Lib](https://habr.com/ru/articles/1047376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047376)
-- [Три задачи discovery при работе с PostgreSQL master/replica — и как их решить](https://habr.com/ru/articles/1047374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047374)
+- [Как эффективно работать и почему Agile — это секта](https://habr.com/ru/articles/1047428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047428)
+- [Ненормальное марковское программирование](https://habr.com/ru/articles/1046688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046688)
+- [Забытый мультиколор &lpar;часть 4&rpar;](https://habr.com/ru/articles/1046992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046992)
+- [Где в Телеграм заканчивается dating-чат и начинается архитектура](https://habr.com/ru/articles/1047458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047458)
+- [PG_EXPECTO 10.1.3: Новые возможности нагрузочного тестирования СУБД PostgreSQL](https://habr.com/ru/articles/1047450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047450)
 <!-- BLOG-POST-LIST:END -->
 
 ---
