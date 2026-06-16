@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему +0.3% к ROC‑AUC почти всегда шум, и как это проверить](https://habr.com/ru/companies/otus/articles/1044832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044832)
+- [Заменит ли умная строка традиционные графические интерфейсы? История смены парадигм в интерфейсостроении](https://habr.com/ru/companies/ozontech/articles/1047914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047914)
+- [ID, token, UUID и slug: в чём разница и почему их нельзя мешать](https://habr.com/ru/articles/1048324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048324)
 - [[Перевод] Новые возможности Hibernate 7.4](https://habr.com/ru/companies/spring_aio/articles/1047844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047844)
 - [Почему портал самообслуживания не работает — и при чём тут когнитивная нагрузка](https://habr.com/ru/companies/simpleone/articles/1048300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048300)
-- [Единый оркестратор инфраструктуры: что происходит под капотом Digital Q.AppServer](https://habr.com/ru/companies/diasoft_company/articles/1048292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048292)
-- [[Перевод] LLM собрала IndexedDB с нуля: 1208 тестов, SQLite и несколько неприятных сюрпризов](https://habr.com/ru/companies/otus/articles/1046662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046662)
-- [Линия в дизайне: как направление управляет вниманием и ощущением движения](https://habr.com/ru/companies/severstal/articles/1048254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048254)
 <!-- BLOG-POST-LIST:END -->
 
 ---
