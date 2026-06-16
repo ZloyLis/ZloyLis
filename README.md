@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Дашборд зелёный, командир, но сервис мёртв: ставим требования к observability правильно](https://habr.com/ru/articles/1048400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048400)
 - [Почему +0.3% к ROC‑AUC почти всегда шум, и как это проверить](https://habr.com/ru/companies/otus/articles/1044832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044832)
 - [Заменит ли умная строка традиционные графические интерфейсы? История смены парадигм в интерфейсостроении](https://habr.com/ru/companies/ozontech/articles/1047914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047914)
 - [ID, token, UUID и slug: в чём разница и почему их нельзя мешать](https://habr.com/ru/articles/1048324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048324)
 - [[Перевод] Новые возможности Hibernate 7.4](https://habr.com/ru/companies/spring_aio/articles/1047844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047844)
-- [Почему портал самообслуживания не работает — и при чём тут когнитивная нагрузка](https://habr.com/ru/companies/simpleone/articles/1048300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048300)
 <!-- BLOG-POST-LIST:END -->
 
 ---
