@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Generic Repository&amp;lt;T&amp;gt; обещал три вещи — не сдержал ни одной и забрал доменную модель](https://habr.com/ru/articles/1047524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047524)
-- [MVCC без VACUUM: что нам дал UNDO-лог, какую цену мы заплатили и зачем нам 5 механизмов сборки мусора](https://habr.com/ru/articles/1047852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047852)
-- [$25 один раз против $99 каждый год: сколько на самом деле стоит выложить приложение в 2026](https://habr.com/ru/articles/1047878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047878)
-- [Конформные предсказания: интервалы с гарантией покрытия без предположений о распределении](https://habr.com/ru/companies/otus/articles/1044840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044840)
-- [Семь стрел, 429 деревьев: семилетняя ошибка именования, всплывшая за чисткой Mermaid-визуализации](https://habr.com/ru/articles/1047856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047856)
+- [[Перевод] Человек, укравший бесконечность: подлинная история Георга Кантора](https://habr.com/ru/companies/first/articles/1047504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047504)
+- [Hazard pointers на пальцах](https://habr.com/ru/articles/1048074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048074)
+- [Эволюция токенов цветов в Туту: как навести порядок в дизайне и не уехать в дурку](https://habr.com/ru/articles/1048072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048072)
+- [Как я писал генератор TypeScript-биндингов для Tauri](https://habr.com/ru/articles/1048060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048060)
+- [«Fix typo»: как в PHP закоммитили бэкдор и почему composer install — это акт доверия](https://habr.com/ru/articles/1048056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048056)
 <!-- BLOG-POST-LIST:END -->
 
 ---
