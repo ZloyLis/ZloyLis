@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Человек, укравший бесконечность: подлинная история Георга Кантора](https://habr.com/ru/companies/first/articles/1047504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047504)
-- [Hazard pointers на пальцах](https://habr.com/ru/articles/1048074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048074)
-- [Эволюция токенов цветов в Туту: как навести порядок в дизайне и не уехать в дурку](https://habr.com/ru/articles/1048072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048072)
-- [Как я писал генератор TypeScript-биндингов для Tauri](https://habr.com/ru/articles/1048060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048060)
-- [«Fix typo»: как в PHP закоммитили бэкдор и почему composer install — это акт доверия](https://habr.com/ru/articles/1048056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048056)
+- [[Перевод] Новые возможности Hibernate 7.4](https://habr.com/ru/companies/spring_aio/articles/1047844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047844)
+- [Почему портал самообслуживания не работает — и при чём тут когнитивная нагрузка](https://habr.com/ru/companies/simpleone/articles/1048300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048300)
+- [Единый оркестратор инфраструктуры: что происходит под капотом Digital Q.AppServer](https://habr.com/ru/companies/diasoft_company/articles/1048292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048292)
+- [[Перевод] LLM собрала IndexedDB с нуля: 1208 тестов, SQLite и несколько неприятных сюрпризов](https://habr.com/ru/companies/otus/articles/1046662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046662)
+- [Линия в дизайне: как направление управляет вниманием и ощущением движения](https://habr.com/ru/companies/severstal/articles/1048254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048254)
 <!-- BLOG-POST-LIST:END -->
 
 ---
