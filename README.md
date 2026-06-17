@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Дашборд зелёный, командир, но сервис мёртв: ставим требования к observability правильно](https://habr.com/ru/articles/1048400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048400)
-- [Почему +0.3% к ROC‑AUC почти всегда шум, и как это проверить](https://habr.com/ru/companies/otus/articles/1044832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1044832)
-- [Заменит ли умная строка традиционные графические интерфейсы? История смены парадигм в интерфейсостроении](https://habr.com/ru/companies/ozontech/articles/1047914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047914)
-- [ID, token, UUID и slug: в чём разница и почему их нельзя мешать](https://habr.com/ru/articles/1048324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048324)
-- [[Перевод] Новые возможности Hibernate 7.4](https://habr.com/ru/companies/spring_aio/articles/1047844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047844)
+- [Архитектурный крест: как приручить System Design interview](https://habr.com/ru/companies/sberbank/articles/1047708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047708)
+- [Ненормальное марковское программирование: КТ-строки и синглетоны](https://habr.com/ru/articles/1048176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048176)
+- [Обзор релиза 4.20 NodaLogic](https://habr.com/ru/articles/1046792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046792)
+- [Динамический полиморфизм против std::variant с указателями: Разрушаем мифы о скорости std::visit &lpar;v.2*&rpar;](https://habr.com/ru/articles/1047930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047930)
+- [PostgreSQL 19 Beta: неблокирующий REPACK — перепаковка раздутых таблиц без окна простоя &lpar;и графовые запросы в придачу&rpar;](https://habr.com/ru/articles/1048302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048302)
 <!-- BLOG-POST-LIST:END -->
 
 ---
