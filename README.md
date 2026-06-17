@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как мы считаем недельное меню в Pikni Food: пачки, остатки и solver вместо списка рецептов](https://habr.com/ru/articles/1048656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048656)
-- [Как запустить бота в Max самозанятому](https://habr.com/ru/articles/1048650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048650)
-- [Мультиверсионный UI-кит с RWC: один JS-API для разных веб-компонентов](https://habr.com/ru/articles/1048416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048416)
-- [[Перевод] Математики предупредили об угрозах, которые ИИ представляет для их профессии](https://habr.com/ru/articles/1048620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048620)
-- [Тестирование интеграций через Kafka: проверка сценариев с разными типами данных](https://habr.com/ru/articles/1048438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048438)
+- [Как я свой мессенджер запускал #1](https://habr.com/ru/articles/1048766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048766)
+- [Как я случайно открыл функцию активации с багом, побеждающую Swish](https://habr.com/ru/articles/1048764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048764)
+- [Условная агрегация в SQL: ускоряем отчеты, избавляясь от лишних JOIN-ов и подзапросов](https://habr.com/ru/companies/cinimex/articles/1048174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048174)
+- [Почему мы до сих пор неправильно пишем физические движки и 3D-графику](https://habr.com/ru/companies/timeweb/articles/1036176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036176)
+- [Сингапур, наука и никакой жвачки: как двое петербургских студентов съездили на крупнейшую конференцию по ИИ](https://habr.com/ru/articles/1048734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048734)
 <!-- BLOG-POST-LIST:END -->
 
 ---
