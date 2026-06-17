@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Архитектурный крест: как приручить System Design interview](https://habr.com/ru/companies/sberbank/articles/1047708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047708)
-- [Ненормальное марковское программирование: КТ-строки и синглетоны](https://habr.com/ru/articles/1048176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048176)
-- [Обзор релиза 4.20 NodaLogic](https://habr.com/ru/articles/1046792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046792)
-- [Динамический полиморфизм против std::variant с указателями: Разрушаем мифы о скорости std::visit &lpar;v.2*&rpar;](https://habr.com/ru/articles/1047930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047930)
-- [PostgreSQL 19 Beta: неблокирующий REPACK — перепаковка раздутых таблиц без окна простоя &lpar;и графовые запросы в придачу&rpar;](https://habr.com/ru/articles/1048302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048302)
+- [Как мы считаем недельное меню в Pikni Food: пачки, остатки и solver вместо списка рецептов](https://habr.com/ru/articles/1048656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048656)
+- [Как запустить бота в Max самозанятому](https://habr.com/ru/articles/1048650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048650)
+- [Мультиверсионный UI-кит с RWC: один JS-API для разных веб-компонентов](https://habr.com/ru/articles/1048416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048416)
+- [[Перевод] Математики предупредили об угрозах, которые ИИ представляет для их профессии](https://habr.com/ru/articles/1048620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048620)
+- [Тестирование интеграций через Kafka: проверка сценариев с разными типами данных](https://habr.com/ru/articles/1048438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048438)
 <!-- BLOG-POST-LIST:END -->
 
 ---
