@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как я свой мессенджер запускал #1](https://habr.com/ru/articles/1048766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048766)
-- [Как я случайно открыл функцию активации с багом, побеждающую Swish](https://habr.com/ru/articles/1048764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048764)
-- [Условная агрегация в SQL: ускоряем отчеты, избавляясь от лишних JOIN-ов и подзапросов](https://habr.com/ru/companies/cinimex/articles/1048174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048174)
-- [Почему мы до сих пор неправильно пишем физические движки и 3D-графику](https://habr.com/ru/companies/timeweb/articles/1036176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036176)
-- [Сингапур, наука и никакой жвачки: как двое петербургских студентов съездили на крупнейшую конференцию по ИИ](https://habr.com/ru/articles/1048734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048734)
+- [PaintCAD Mobile 3.0.24 — графический редактор для Android 2.3+ и J2ME](https://habr.com/ru/articles/1047280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047280)
+- [Как спроектировать приложение на годы вперед](https://habr.com/ru/articles/1048828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048828)
+- [gost-curl — консольный HTTP-клиент с поддержкой ГОСТ TLS 1.3](https://habr.com/ru/articles/1048824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048824)
+- [Как написать дипломную работу нейросетью, если даже Даниэль Дефо не проходит ИИ-детектор](https://habr.com/ru/companies/tsnis/articles/1048800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048800)
+- [Я мог бы сказать, что это убийца notion, obsidian, slack и вашей ide. Но я скажу, что ем собачий корм](https://habr.com/ru/articles/1048798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048798)
 <!-- BLOG-POST-LIST:END -->
 
 ---
