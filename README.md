@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Погружение в многозадачность Python: процессы, потоки, GIL и асинхронность](https://habr.com/ru/articles/1048886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048886)
 - [Clean Architecture и AI: как я перестроил проект на 200К строк, чтобы агенты не ломали код](https://habr.com/ru/articles/1048872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048872)
 - [PaintCAD Mobile 3.0.24 — графический редактор для Android 2.3+ и J2ME](https://habr.com/ru/articles/1047280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047280)
 - [Как спроектировать приложение на годы вперед](https://habr.com/ru/articles/1048828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048828)
 - [gost-curl — консольный HTTP-клиент с поддержкой ГОСТ TLS 1.3](https://habr.com/ru/articles/1048824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048824)
-- [Как написать дипломную работу нейросетью, если даже Даниэль Дефо не проходит ИИ-детектор](https://habr.com/ru/companies/tsnis/articles/1048800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048800)
 <!-- BLOG-POST-LIST:END -->
 
 ---
