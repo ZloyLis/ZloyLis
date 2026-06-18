@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Sitemap-first аудит большого сайта: как найти пустые посадочные без полного краулинга](https://habr.com/ru/articles/1049136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049136)
-- [Remoded: разбираем демо-эффекты &lpar;часть 2&rpar;](https://habr.com/ru/articles/1043888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043888)
-- [Автодозвон по лидам из Марквиз с отметкой в CRM](https://habr.com/ru/companies/ru_mts/articles/1048282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048282)
-- [Я подсмотрела тренд, взяла нейросеть и удешевила производство в 10 раз](https://habr.com/ru/companies/sibur_official/articles/1048756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048756)
-- [Как я завёл нормальный голос в детское приложение, не разорившись и не заставив никого лезть в настройки](https://habr.com/ru/articles/1047888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047888)
+- [Как eBPF меняет правила безопасности и наблюдаемости в Kubernetes](https://habr.com/ru/companies/otus/articles/1047398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047398)
+- [LazyWeb: бесплатный MCP на 257 тысяч экранов, который чинит говнодизайн агентов и их хозяев](https://habr.com/ru/articles/1049204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049204)
+- [Дедупликация пользователей в базе данных: сохраняем связанные записи](https://habr.com/ru/articles/1049162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049162)
+- [Границы применимости LLM в мобильном UI-дизайне](https://habr.com/ru/companies/raiffeisenbank/articles/1049108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049108)
+- [AI-ассистент пишет код: 8 антипаттернов, из-за которых он падает в проде](https://habr.com/ru/companies/otus/articles/1047046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047046)
 <!-- BLOG-POST-LIST:END -->
 
 ---
