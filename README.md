@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как eBPF меняет правила безопасности и наблюдаемости в Kubernetes](https://habr.com/ru/companies/otus/articles/1047398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047398)
-- [LazyWeb: бесплатный MCP на 257 тысяч экранов, который чинит говнодизайн агентов и их хозяев](https://habr.com/ru/articles/1049204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049204)
-- [Дедупликация пользователей в базе данных: сохраняем связанные записи](https://habr.com/ru/articles/1049162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049162)
-- [Границы применимости LLM в мобильном UI-дизайне](https://habr.com/ru/companies/raiffeisenbank/articles/1049108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049108)
-- [AI-ассистент пишет код: 8 антипаттернов, из-за которых он падает в проде](https://habr.com/ru/companies/otus/articles/1047046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047046)
+- [[Перевод] Представляем MDN MCP-сервер](https://habr.com/ru/articles/1049274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049274)
+- [Как ревьюить ИИ-код: что автоматизировать, какую работу оставить человеку и как всё это делать системно](https://habr.com/ru/companies/netologyru/articles/1045600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045600)
+- [Аллокации, которых нет в коде: охота на скрытый боксинг в .NET 10](https://habr.com/ru/articles/1049236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049236)
+- [Конволюция и деконволюция — работаем с сигналами под нефтяным соусом](https://habr.com/ru/articles/1049244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049244)
+- [Открыл бету AI-Мастера для D&amp;amp;D. Главная проблема оказалась не в кубиках, а в памяти](https://habr.com/ru/articles/1049238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049238)
 <!-- BLOG-POST-LIST:END -->
 
 ---
