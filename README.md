@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Линеаризация. Увеличиваем мощность А/Б тестов с метрикой отношения](https://habr.com/ru/companies/X5Tech/articles/1047620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047620)
-- [Я обнаружил крупномасштабное распространение вирусов в GitHub](https://habr.com/ru/articles/1048986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048986)
-- [Как я впервые в Google Play публиковался](https://habr.com/ru/articles/1048988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048988)
-- [Как стать SRE-инженером и сколько можно зарабатывать](https://habr.com/ru/companies/habr_career/articles/1048982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048982)
-- [Как мы построили централизованную CMDB для управления Zabbix с RFC, аудитом и откатом изменений](https://habr.com/ru/companies/jetinfosystems/articles/1048966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048966)
+- [Sitemap-first аудит большого сайта: как найти пустые посадочные без полного краулинга](https://habr.com/ru/articles/1049136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049136)
+- [Remoded: разбираем демо-эффекты &lpar;часть 2&rpar;](https://habr.com/ru/articles/1043888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043888)
+- [Автодозвон по лидам из Марквиз с отметкой в CRM](https://habr.com/ru/companies/ru_mts/articles/1048282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048282)
+- [Я подсмотрела тренд, взяла нейросеть и удешевила производство в 10 раз](https://habr.com/ru/companies/sibur_official/articles/1048756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048756)
+- [Как я завёл нормальный голос в детское приложение, не разорившись и не заставив никого лезть в настройки](https://habr.com/ru/articles/1047888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047888)
 <!-- BLOG-POST-LIST:END -->
 
 ---
