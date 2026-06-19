@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Virtual Shadow Maps для S.T.A.L.K.E.R. на Vulkan Как я научил солнце в двигаться плавно forward-рендере](https://habr.com/ru/articles/1049338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049338)
-- [[Перевод] Cloudflare: Оркестрация AI-ревью кода в промышленных масштабах](https://habr.com/ru/articles/1049330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049330)
-- [Сайты под управлением ИИ: что это на самом деле и сколько стоит. Часть 1 из 3](https://habr.com/ru/articles/1049326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049326)
-- [Как я подключал YandexGPT к AI-агентам &lpar;OpenCode, Pi, Hermes и Claude Code&rpar;](https://habr.com/ru/articles/1049322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049322)
-- [Миграция на Spring Boot 4 и Java 25: пошаговый план, чтобы обновиться и не уронить прод](https://habr.com/ru/companies/otus/articles/1047044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047044)
+- [ИИ трансформация разработки: как работает новая AI Driven версия Экосистемы Digital Q](https://habr.com/ru/companies/diasoft_company/articles/1049260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049260)
+- [Ненормальное марковское программирование: бег по правилам](https://habr.com/ru/articles/1049258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049258)
+- [Исследование ITAM 2026: как 100 российских компаний НЕ управляют ИТ-активами](https://habr.com/ru/companies/simpleone/articles/1049220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049220)
+- [Сладкие оковы вайб- к̶о̶д̶и̶н̶г̶а̶ инжиниринга [часть 2]](https://habr.com/ru/companies/bothub/articles/1048224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048224)
+- [GitHub не умирает — но AI-агенты уже строят себе другой GitHub](https://habr.com/ru/articles/1049358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049358)
 <!-- BLOG-POST-LIST:END -->
 
 ---
