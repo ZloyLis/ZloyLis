@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Virtual Shadow Maps для S.T.A.L.K.E.R. на Vulkan Как я научил солнце в двигаться плавно forward-рендере](https://habr.com/ru/articles/1049338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049338)
 - [[Перевод] Cloudflare: Оркестрация AI-ревью кода в промышленных масштабах](https://habr.com/ru/articles/1049330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049330)
 - [Сайты под управлением ИИ: что это на самом деле и сколько стоит. Часть 1 из 3](https://habr.com/ru/articles/1049326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049326)
 - [Как я подключал YandexGPT к AI-агентам &lpar;OpenCode, Pi, Hermes и Claude Code&rpar;](https://habr.com/ru/articles/1049322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049322)
 - [Миграция на Spring Boot 4 и Java 25: пошаговый план, чтобы обновиться и не уронить прод](https://habr.com/ru/companies/otus/articles/1047044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047044)
-- [[Перевод] Представляем MDN MCP-сервер](https://habr.com/ru/articles/1049274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049274)
 <!-- BLOG-POST-LIST:END -->
 
 ---
