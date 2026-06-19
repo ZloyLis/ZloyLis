@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [ИИ трансформация разработки: как работает новая AI Driven версия Экосистемы Digital Q](https://habr.com/ru/companies/diasoft_company/articles/1049260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049260)
-- [Ненормальное марковское программирование: бег по правилам](https://habr.com/ru/articles/1049258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049258)
-- [Исследование ITAM 2026: как 100 российских компаний НЕ управляют ИТ-активами](https://habr.com/ru/companies/simpleone/articles/1049220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049220)
-- [Сладкие оковы вайб- к̶о̶д̶и̶н̶г̶а̶ инжиниринга [часть 2]](https://habr.com/ru/companies/bothub/articles/1048224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048224)
-- [GitHub не умирает — но AI-агенты уже строят себе другой GitHub](https://habr.com/ru/articles/1049358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049358)
+- [Войны фреймворков, неуправляемые разработчики и инопланетяне-фашисты: разговор с тимлидом Авито](https://habr.com/ru/companies/avito/articles/1048738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048738)
+- [Когда чат-бот продаёт Chevrolet за доллар: как тестировать и мониторить LLM-приложения](https://habr.com/ru/companies/oleg-bunin/articles/1049584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049584)
+- [Девять лет, 514 коммитов и один посёлок: как я делал приложение с расписанием автобусов](https://habr.com/ru/articles/1049576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049576)
+- [T2M Bridge, часть 2: как я написал Java‑библиотеку для Telegram Bot API вместе с Codex — уже примерно 50/50](https://habr.com/ru/articles/1049572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049572)
+- [30 кастдевов сэкономили мне месяцы разработки… &lpar;и похоронили первоначальную идею&rpar;](https://habr.com/ru/articles/1049568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049568)
 <!-- BLOG-POST-LIST:END -->
 
 ---
