@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему AI-агент ищет по коду неправильно, и как это чинит cocoindex-code за две команды](https://habr.com/ru/articles/1049814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049814)
 - [Микроразметка на Tilda: внедрение JSON-LD, проверка и типовые ошибки](https://habr.com/ru/articles/1049798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049798)
 - [Делаем свой QML-компонент для Lottie-анимаций с помощью rlottie](https://habr.com/ru/articles/1049098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049098)
 - [Обмен паролями и ссылками между устройствами — закрыл в Copy Sync дыру, про которую честно предупреждал в прошлом посте](https://habr.com/ru/articles/1049780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049780)
 - [Зачем я сделал LAN-синхронизацию между своими же устройствами в self-hosted мессенджере &lpar;и почему не через сервер&rpar;](https://habr.com/ru/articles/1049762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049762)
-- [Data Mesh: что это и почему концепция не подходит большинству компаний в России](https://habr.com/ru/articles/1049724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049724)
 <!-- BLOG-POST-LIST:END -->
 
 ---
