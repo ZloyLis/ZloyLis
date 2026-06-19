@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Делаем свой QML-компонент для Lottie-анимаций с помощью rlottie](https://habr.com/ru/articles/1049098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049098)
+- [Обмен паролями и ссылками между устройствами — закрыл в Copy Sync дыру, про которую честно предупреждал в прошлом посте](https://habr.com/ru/articles/1049780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049780)
 - [Зачем я сделал LAN-синхронизацию между своими же устройствами в self-hosted мессенджере &lpar;и почему не через сервер&rpar;](https://habr.com/ru/articles/1049762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049762)
 - [Data Mesh: что это и почему концепция не подходит большинству компаний в России](https://habr.com/ru/articles/1049724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049724)
 - [Вместо свалки — дата-центр: как старые смартфоны превращают в серверы](https://habr.com/ru/companies/ru_mts/articles/1048286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048286)
-- [Бэклог проблем: как вернуть за стол того, кто платит](https://habr.com/ru/articles/1049692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049692)
-- [Корпоративный и Solution Architect: как не убить друг друга в одном домене?](https://habr.com/ru/companies/uralsib/articles/1049688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049688)
 <!-- BLOG-POST-LIST:END -->
 
 ---
