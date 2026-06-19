@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Войны фреймворков, неуправляемые разработчики и инопланетяне-фашисты: разговор с тимлидом Авито](https://habr.com/ru/companies/avito/articles/1048738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048738)
-- [Когда чат-бот продаёт Chevrolet за доллар: как тестировать и мониторить LLM-приложения](https://habr.com/ru/companies/oleg-bunin/articles/1049584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049584)
-- [Девять лет, 514 коммитов и один посёлок: как я делал приложение с расписанием автобусов](https://habr.com/ru/articles/1049576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049576)
-- [T2M Bridge, часть 2: как я написал Java‑библиотеку для Telegram Bot API вместе с Codex — уже примерно 50/50](https://habr.com/ru/articles/1049572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049572)
-- [30 кастдевов сэкономили мне месяцы разработки… &lpar;и похоронили первоначальную идею&rpar;](https://habr.com/ru/articles/1049568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049568)
+- [Вместо свалки — дата-центр: как старые смартфоны превращают в серверы](https://habr.com/ru/companies/ru_mts/articles/1048286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048286)
+- [Бэклог проблем: как вернуть за стол того, кто платит](https://habr.com/ru/articles/1049692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049692)
+- [Корпоративный и Solution Architect: как не убить друг друга в одном домене?](https://habr.com/ru/companies/uralsib/articles/1049688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049688)
+- [Как перестать покупать диски, или Практическое руководство по ILM в Tantor Postgres 18](https://habr.com/ru/companies/tantor/articles/1049632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049632)
+- [Треугольник SSH, или Зачем нужны 2 VPS](https://habr.com/ru/companies/ruvds/articles/1049502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049502)
 <!-- BLOG-POST-LIST:END -->
 
 ---
