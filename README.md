@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Зачем я сделал LAN-синхронизацию между своими же устройствами в self-hosted мессенджере &lpar;и почему не через сервер&rpar;](https://habr.com/ru/articles/1049762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049762)
+- [Data Mesh: что это и почему концепция не подходит большинству компаний в России](https://habr.com/ru/articles/1049724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049724)
 - [Вместо свалки — дата-центр: как старые смартфоны превращают в серверы](https://habr.com/ru/companies/ru_mts/articles/1048286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048286)
 - [Бэклог проблем: как вернуть за стол того, кто платит](https://habr.com/ru/articles/1049692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049692)
 - [Корпоративный и Solution Architect: как не убить друг друга в одном домене?](https://habr.com/ru/companies/uralsib/articles/1049688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049688)
-- [Как перестать покупать диски, или Практическое руководство по ILM в Tantor Postgres 18](https://habr.com/ru/companies/tantor/articles/1049632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049632)
-- [Треугольник SSH, или Зачем нужны 2 VPS](https://habr.com/ru/companies/ruvds/articles/1049502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049502)
 <!-- BLOG-POST-LIST:END -->
 
 ---
