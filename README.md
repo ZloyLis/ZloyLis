@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Тёмная сторона Go: разбор живых уязвимостей с продакшена и инструменты против них](https://habr.com/ru/companies/oleg-bunin/articles/1048122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048122)
+- [Как отладить подключение бота к бирже за час, а не за трое суток](https://habr.com/ru/articles/1049878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049878)
+- [ИИ заменяет программиста, а не компилятор](https://habr.com/ru/articles/1049868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049868)
 - [Все тесты зелёные, а байты разные: как я проверяю порты бинарных форматов](https://habr.com/ru/articles/1049858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049858)
 - [Расчёт электрических цепей. Первая часть](https://habr.com/ru/articles/1049378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049378)
-- [Разработка в 2026 году: что изменилось на рынке и на что сейчас смотрят работодатели](https://habr.com/ru/companies/yandex_praktikum/articles/1049470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049470)
-- [Ну и пригодились тебе твои синусы?](https://habr.com/ru/articles/1047390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047390)
-- [Django-согласия и cookies под 152-ФЗ: версии документов, аудит и экспорт вместо одного чекбокса](https://habr.com/ru/articles/1049842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049842)
 <!-- BLOG-POST-LIST:END -->
 
 ---
