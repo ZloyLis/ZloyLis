@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Знакомимся с Cruzo. Часть 1. RxBucket – контейнер состояний и конфигураций компонентов на фронте](https://habr.com/ru/articles/1050020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050020)
 - [Байес и базовые вероятности: как история помогает оценивать перспективы](https://habr.com/ru/articles/1049832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049832)
 - [Архитектура обмана. Как технически устроены фермы накрутки отзывов в 2026 году?](https://habr.com/ru/articles/1049936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049936)
 - [Лекция мечты по информатике](https://habr.com/ru/articles/1049930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049930)
 - [Как мы перестали толкать и начали тянуть&lpar;AWS ECR&rpar;](https://habr.com/ru/articles/1049920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049920)
-- [Проектирование веб-краулера. Как решать System Design?](https://habr.com/ru/articles/1049912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049912)
 <!-- BLOG-POST-LIST:END -->
 
 ---
