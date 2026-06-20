@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Байес и базовые вероятности: как история помогает оценивать перспективы](https://habr.com/ru/articles/1049832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049832)
+- [Архитектура обмана. Как технически устроены фермы накрутки отзывов в 2026 году?](https://habr.com/ru/articles/1049936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049936)
+- [Лекция мечты по информатике](https://habr.com/ru/articles/1049930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049930)
 - [Как мы перестали толкать и начали тянуть&lpar;AWS ECR&rpar;](https://habr.com/ru/articles/1049920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049920)
 - [Проектирование веб-краулера. Как решать System Design?](https://habr.com/ru/articles/1049912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049912)
-- [Вилка для макаронного монстра: делаю открытый конструктор нодовых редакторов](https://habr.com/ru/articles/1049910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049910)
-- [Слишком симметрично, чтобы решить](https://habr.com/ru/articles/1049898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049898)
-- [Красота математики и ML &lpar;part 1/2&rpar;: алгоритм MinHash](https://habr.com/ru/articles/1049324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049324)
 <!-- BLOG-POST-LIST:END -->
 
 ---
