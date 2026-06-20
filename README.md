@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Тёмная сторона Go: разбор живых уязвимостей с продакшена и инструменты против них](https://habr.com/ru/companies/oleg-bunin/articles/1048122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048122)
-- [Как отладить подключение бота к бирже за час, а не за трое суток](https://habr.com/ru/articles/1049878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049878)
-- [ИИ заменяет программиста, а не компилятор](https://habr.com/ru/articles/1049868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049868)
-- [Все тесты зелёные, а байты разные: как я проверяю порты бинарных форматов](https://habr.com/ru/articles/1049858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049858)
-- [Расчёт электрических цепей. Первая часть](https://habr.com/ru/articles/1049378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049378)
+- [Как мы перестали толкать и начали тянуть&lpar;AWS ECR&rpar;](https://habr.com/ru/articles/1049920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049920)
+- [Проектирование веб-краулера. Как решать System Design?](https://habr.com/ru/articles/1049912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049912)
+- [Вилка для макаронного монстра: делаю открытый конструктор нодовых редакторов](https://habr.com/ru/articles/1049910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049910)
+- [Слишком симметрично, чтобы решить](https://habr.com/ru/articles/1049898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049898)
+- [Красота математики и ML &lpar;part 1/2&rpar;: алгоритм MinHash](https://habr.com/ru/articles/1049324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049324)
 <!-- BLOG-POST-LIST:END -->
 
 ---
