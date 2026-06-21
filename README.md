@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что брать на новый проект: валидный дефолт &lpar;React&rpar; или гринфилд &lpar;$mol&rpar;](https://habr.com/ru/articles/1050150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050150)
 - [Анатомия арбитражного спреда: как считать фьючерс против акции не в Excel, а в нормальной системе](https://habr.com/ru/companies/finam_broker/articles/1049144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049144)
 - [Создание аналога Firebase на open-source компонентах](https://habr.com/ru/companies/amvera/articles/1050034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050034)
 - [[Перевод] Вынужден попрощаться: руководство Google окончательно утратило моральные принципы](https://habr.com/ru/companies/ruvds/articles/1049426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049426)
 - [Оживление android-планшета глазами новичка. Как я нашел себе классную читалку на лето](https://habr.com/ru/companies/timeweb/articles/1047826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047826)
-- [Мобильная разработка за неделю #635 &lpar;15 — 21 июня&rpar;](https://habr.com/ru/articles/1050068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050068)
 <!-- BLOG-POST-LIST:END -->
 
 ---
