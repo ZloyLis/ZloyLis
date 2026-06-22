@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [graphlens: превращаем репозиторий в типизированный граф — Python, TypeScript, Go и Rust в одной модели](https://habr.com/ru/articles/1050204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050204)
-- [Полвека с дипломом ИТ-шника. Дан приказ ему на Запад](https://habr.com/ru/articles/1050106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050106)
-- [Аудит алгоритмов: как реализация Boyer-Moore с 190K звёзд на GitHub оказалась brute-force](https://habr.com/ru/articles/1050180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050180)
-- [Playwright, Selenium, Cypress, WebdriverIO: что реально известно о скорости в 2026 году &lpar;и как намерить свои цифры&rpar;](https://habr.com/ru/articles/1050168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050168)
-- [Что брать на новый проект: валидный дефолт &lpar;React&rpar; или гринфилд &lpar;$mol&rpar;](https://habr.com/ru/articles/1050150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050150)
+- [Как сделать MCP-сервер из Spring-сервиса за один вечер. И что потом не даст спать спокойно](https://habr.com/ru/companies/otus/articles/1047048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047048)
+- [Меняем Punto Switcher на macOS: открытый код, ноль телеметрии и ноль зависимостей — в обоих смыслах](https://habr.com/ru/articles/1050394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050394)
+- [Как я в 14 лет написал свой аналог LeetCode с котиками за месяц &lpar;и немного поехал башкой&rpar;](https://habr.com/ru/articles/1050358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050358)
+- [ИТ-активы: от «где этот сервер» до дашборда для финдиректора](https://habr.com/ru/companies/simpleone/articles/1050354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050354)
+- [Как мы перестали проксировать картинки через бэкенд и подружили PWA c S3 через presigned URL](https://habr.com/ru/articles/1050352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050352)
 <!-- BLOG-POST-LIST:END -->
 
 ---
