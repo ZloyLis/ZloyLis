@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [graphlens: превращаем репозиторий в типизированный граф — Python, TypeScript, Go и Rust в одной модели](https://habr.com/ru/articles/1050204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050204)
+- [Полвека с дипломом ИТ-шника. Дан приказ ему на Запад](https://habr.com/ru/articles/1050106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050106)
 - [Аудит алгоритмов: как реализация Boyer-Moore с 190K звёзд на GitHub оказалась brute-force](https://habr.com/ru/articles/1050180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050180)
 - [Playwright, Selenium, Cypress, WebdriverIO: что реально известно о скорости в 2026 году &lpar;и как намерить свои цифры&rpar;](https://habr.com/ru/articles/1050168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050168)
 - [Что брать на новый проект: валидный дефолт &lpar;React&rpar; или гринфилд &lpar;$mol&rpar;](https://habr.com/ru/articles/1050150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050150)
-- [Анатомия арбитражного спреда: как считать фьючерс против акции не в Excel, а в нормальной системе](https://habr.com/ru/companies/finam_broker/articles/1049144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049144)
-- [Создание аналога Firebase на open-source компонентах](https://habr.com/ru/companies/amvera/articles/1050034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050034)
 <!-- BLOG-POST-LIST:END -->
 
 ---
