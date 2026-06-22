@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Форма пишет „принято&amp;quot;, а заявок нет: баги, которые проходят и автотест, и ручную проверку](https://habr.com/ru/articles/1050712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050712)
+- [Путеводитель по чужим STL](https://habr.com/ru/articles/1042198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042198)
+- [Лямбды в C++: пять задач на захваты и время жизни, в которых ошибается даже опытный разработчик](https://habr.com/ru/companies/otus/articles/1049296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049296)
 - [[Перевод] Подробно об ABI для работы с C++](https://habr.com/ru/articles/1050682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050682)
 - [AI предлагает, мержу я: почему я не даю агенту последний ход](https://habr.com/ru/articles/1050678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050678)
-- [Как желание написать простой CRUD привело к созданию целой видеоплатформы](https://habr.com/ru/articles/1050658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050658)
-- [Как я собрал новостной агрегатор HypeNet на Cloudflare Workers + Supabase и что пошло не так](https://habr.com/ru/articles/1050650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050650)
-- [Как подготовиться к собеседованию на Flutter-разработчика](https://habr.com/ru/companies/friflex/articles/1050644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050644)
 <!-- BLOG-POST-LIST:END -->
 
 ---
