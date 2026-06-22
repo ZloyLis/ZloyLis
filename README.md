@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Подробно об ABI для работы с C++](https://habr.com/ru/articles/1050682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050682)
+- [AI предлагает, мержу я: почему я не даю агенту последний ход](https://habr.com/ru/articles/1050678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050678)
+- [Как желание написать простой CRUD привело к созданию целой видеоплатформы](https://habr.com/ru/articles/1050658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050658)
+- [Как я собрал новостной агрегатор HypeNet на Cloudflare Workers + Supabase и что пошло не так](https://habr.com/ru/articles/1050650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050650)
 - [Как подготовиться к собеседованию на Flutter-разработчика](https://habr.com/ru/companies/friflex/articles/1050644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050644)
-- [Многопоточное программирование возвращается](https://habr.com/ru/articles/1050622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050622)
-- [Пять ошибок при работе с Jetpack Compose, из-за которых тормозит recomposition](https://habr.com/ru/companies/otus/articles/1049282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049282)
-- [Я не хотел писать ORM для Kotlin/Native. Мне просто нужен был PostgreSQL](https://habr.com/ru/articles/1050588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050588)
-- [Context7 — стандарт для доков AI-агента. Я измерил 8 альтернатив и собрал бесплатную связку](https://habr.com/ru/articles/1050578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050578)
 <!-- BLOG-POST-LIST:END -->
 
 ---
