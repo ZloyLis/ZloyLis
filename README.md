@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Сисадмин ушёл: что делать, если учёт ИТ-активов был в его голове](https://habr.com/ru/companies/simpleone/articles/1050858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050858)
-- [Легаси-ОС как тормоз виртуализации: что меняет современный стек РЕД ОС в VK Cloud](https://habr.com/ru/companies/vktech/articles/1046534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046534)
-- [Property-based тестирование: как находить баги, которые вы не придумали](https://habr.com/ru/articles/1050850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050850)
-- [Как reload ingress-nginx уронил прод. История про pids.max, threads-max и виртуалку, которая подросла](https://habr.com/ru/articles/1050478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050478)
-- [Move‑семантика в C++: пять задач, в которых легко ошибиться](https://habr.com/ru/companies/otus/articles/1049280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049280)
+- [Пять ошибок начинающих Android‑разработчиков при работе с жизненным циклом](https://habr.com/ru/companies/otus/articles/1049294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049294)
+- [ORM — есть ли профит? Особенно когда по двору бегает ИИ-шка](https://habr.com/ru/articles/1050990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050990)
+- [[Перевод] Project Valhalla: 10 спустя](https://habr.com/ru/companies/spring_aio/articles/1050938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050938)
+- [Запуск интернет-магазина: 10 правильных вещей, которые я взял на вооружение](https://habr.com/ru/articles/1050984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050984)
+- [Разбираемся в ML без воды: от базы до Attention. Часть 12: Понижение размерности и PCA](https://habr.com/ru/articles/1050976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050976)
 <!-- BLOG-POST-LIST:END -->
 
 ---
