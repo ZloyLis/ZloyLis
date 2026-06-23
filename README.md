@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Roadmap разработчика имитационных моделей в AnyLogic](https://habr.com/ru/articles/1051184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051184)
+- [Реализация RSS-генератора на «коленке» или наш ответ Чемберлену](https://habr.com/ru/articles/1051178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051178)
+- [Source generators в.NET: как они вытеснили рефлексию из стандартной библиотеки](https://habr.com/ru/companies/otus/articles/1049286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049286)
 - [Пишем свой Web3 мессенджер](https://habr.com/ru/articles/1051134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051134)
 - [Claude Code Antifraud: Колмогоров‑Смирнов и недетские аномалии на детской олимпиаде](https://habr.com/ru/articles/1051116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051116)
-- [Заменяем JavaScript с помощью HTML и CSS](https://habr.com/ru/companies/ruvds/articles/1048812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048812)
-- [Аналитик, который кричал «Волки!»: как мы перестали бороться с алертами и начали думать о фроде иначе](https://habr.com/ru/companies/garage8/articles/1051030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051030)
-- [Как создать ИИ‑ассистента на кодовой базе компании: опыт команды музыкального сервиса Звук](https://habr.com/ru/articles/1051016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051016)
 <!-- BLOG-POST-LIST:END -->
 
 ---
