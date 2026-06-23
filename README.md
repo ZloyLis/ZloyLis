@@ -35,7 +35,7 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Форма пишет „принято&amp;quot;, а заявок нет: баги, которые проходят и автотест, и ручную проверку](https://habr.com/ru/articles/1050712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050712)
+- [Форма пишет «принято», а заявок нет: баги, которые проходят и автотест, и ручную проверку](https://habr.com/ru/articles/1050712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050712)
 - [Путеводитель по чужим STL](https://habr.com/ru/articles/1042198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042198)
 - [Лямбды в C++: пять задач на захваты и время жизни, в которых ошибается даже опытный разработчик](https://habr.com/ru/companies/otus/articles/1049296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049296)
 - [[Перевод] Подробно об ABI для работы с C++](https://habr.com/ru/articles/1050682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050682)
