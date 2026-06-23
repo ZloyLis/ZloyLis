@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Заменяем JavaScript с помощью HTML и CSS](https://habr.com/ru/companies/ruvds/articles/1048812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048812)
+- [Аналитик, который кричал «Волки!»: как мы перестали бороться с алертами и начали думать о фроде иначе](https://habr.com/ru/companies/garage8/articles/1051030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051030)
+- [Как создать ИИ‑ассистента на кодовой базе компании: опыт команды музыкального сервиса Звук](https://habr.com/ru/articles/1051016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051016)
+- [Как мы тестируем планшеты KVADRA_T на производстве: архитектура DeviceTestPro](https://habr.com/ru/companies/yadro/articles/1046518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046518)
 - [Пять ошибок начинающих Android‑разработчиков при работе с жизненным циклом](https://habr.com/ru/companies/otus/articles/1049294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049294)
-- [ORM — есть ли профит? Особенно когда по двору бегает ИИ-шка](https://habr.com/ru/articles/1050990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050990)
-- [[Перевод] Project Valhalla: 10 спустя](https://habr.com/ru/companies/spring_aio/articles/1050938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050938)
-- [Запуск интернет-магазина: 10 правильных вещей, которые я взял на вооружение](https://habr.com/ru/articles/1050984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050984)
-- [Разбираемся в ML без воды: от базы до Attention. Часть 12: Понижение размерности и PCA](https://habr.com/ru/articles/1050976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050976)
 <!-- BLOG-POST-LIST:END -->
 
 ---
