@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как я сделал генератор палитр на Node.js + DeepSeek за два вечера — и что из этого вышло](https://habr.com/ru/articles/1050734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050734)
-- [Все тесты зелёные, платежи зависли: 5 граблей интеграции без песочницы](https://habr.com/ru/articles/1050584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050584)
-- [Форма пишет «принято», а заявок нет: баги, которые проходят и автотест, и ручную проверку](https://habr.com/ru/articles/1050712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050712)
-- [Путеводитель по чужим STL](https://habr.com/ru/articles/1042198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1042198)
-- [Лямбды в C++: пять задач на захваты и время жизни, в которых ошибается даже опытный разработчик](https://habr.com/ru/companies/otus/articles/1049296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049296)
+- [Сисадмин ушёл: что делать, если учёт ИТ-активов был в его голове](https://habr.com/ru/companies/simpleone/articles/1050858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050858)
+- [Легаси-ОС как тормоз виртуализации: что меняет современный стек РЕД ОС в VK Cloud](https://habr.com/ru/companies/vktech/articles/1046534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046534)
+- [Property-based тестирование: как находить баги, которые вы не придумали](https://habr.com/ru/articles/1050850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050850)
+- [Как reload ingress-nginx уронил прод. История про pids.max, threads-max и виртуалку, которая подросла](https://habr.com/ru/articles/1050478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050478)
+- [Move‑семантика в C++: пять задач, в которых легко ошибиться](https://habr.com/ru/companies/otus/articles/1049280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049280)
 <!-- BLOG-POST-LIST:END -->
 
 ---
