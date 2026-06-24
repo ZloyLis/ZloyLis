@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Google уволил инженера за его же Workspace CLI — и через два дня выкатил официальный](https://habr.com/ru/articles/1051218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051218)
-- [Линейка для чисел: как я собрал каталог из 83 форматов с плавающей точкой — и почему он всё время «не сходится»](https://habr.com/ru/articles/1051010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051010)
-- [Browser Policy Manager: распаковка](https://habr.com/ru/articles/1051206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051206)
-- [Немного насчет — «AI-агенты сделают разработку самоподдерживаемой»](https://habr.com/ru/articles/1051202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051202)
-- [Roadmap разработчика имитационных моделей в AnyLogic](https://habr.com/ru/articles/1051184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051184)
+- [Почему не стоит менять клавиатуру на сварочный аппарат, когда рушится первый этаж индустрии](https://habr.com/ru/companies/ru_mts/articles/1050958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050958)
+- [[Перевод] HTML Sanitizer API: конец эпохи DOMPurify и XSS-страданий](https://habr.com/ru/companies/timeweb/articles/1037990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037990)
+- [Что происходит с SDLC в эпоху AI-агентов](https://habr.com/ru/companies/oleg-bunin/articles/1051278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051278)
+- [[Перевод] Astro 7: переход на Rust, улучшенное кэширование и поддержка AI-разработки](https://habr.com/ru/companies/first/articles/1051258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051258)
+- [Как убрать ручную сборку финансовой отчетности: OLAP-модель, семантический слой и живые отчеты в Excel](https://habr.com/ru/companies/sberbank/articles/1050458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050458)
 <!-- BLOG-POST-LIST:END -->
 
 ---
