@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Что такое Apple Declarative Device Management?](https://habr.com/ru/companies/ringo_mdm/articles/1051384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051384)
-- [Пять ошибок начинающих C++ разработчиков при работе с памятью, из‑за которых программа крашится](https://habr.com/ru/companies/otus/articles/1049298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049298)
-- [Как работает проверка текста на ИИ в 2026 году: что показал анализ 13 000 дипломных работ](https://habr.com/ru/articles/1051372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051372)
-- [Как нарисовать тысячи объектов на карте и не убить FPS: эволюция рендера на Mapbox GL](https://habr.com/ru/articles/1051362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051362)
-- [Как мы отучали LLM выдумывать цифры в данных. Допрос Claude Desktop с пристрастием](https://habr.com/ru/articles/1051346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051346)
+- [Что не вошло в концепцию прикладного решения «1С:ERP Управление предприятием» 2026 года от УЦ №1 фирмы «1С»](https://habr.com/ru/articles/1051472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051472)
+- [Процессы vs инструменты: как Авито Sales строит QA с нулевыми сдвигами сроков](https://habr.com/ru/companies/avito/articles/1050646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050646)
+- [Okama.io: профессиональные инструменты для анализа инвестиционных стратегий](https://habr.com/ru/companies/okama/articles/1051450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051450)
+- [Как мы перестраивали работу аналитиков под разработку с ИИ-агентами и SDD](https://habr.com/ru/companies/jetinfosystems/articles/1051370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051370)
+- [Эффект бабочки в мастер-данных: как два неучтённых сантиметра останавливают фуры](https://habr.com/ru/companies/intekey/articles/1051436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051436)
 <!-- BLOG-POST-LIST:END -->
 
 ---
