@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Google уволил инженера за его же Workspace CLI — и через два дня выкатил официальный](https://habr.com/ru/articles/1051218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051218)
+- [Линейка для чисел: как я собрал каталог из 83 форматов с плавающей точкой — и почему он всё время «не сходится»](https://habr.com/ru/articles/1051010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051010)
 - [Browser Policy Manager: распаковка](https://habr.com/ru/articles/1051206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051206)
 - [Немного насчет — «AI-агенты сделают разработку самоподдерживаемой»](https://habr.com/ru/articles/1051202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051202)
 - [Roadmap разработчика имитационных моделей в AnyLogic](https://habr.com/ru/articles/1051184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051184)
-- [Реализация RSS-генератора на «коленке» или наш ответ Чемберлену](https://habr.com/ru/articles/1051178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051178)
-- [Source generators в.NET: как они вытеснили рефлексию из стандартной библиотеки](https://habr.com/ru/companies/otus/articles/1049286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049286)
 <!-- BLOG-POST-LIST:END -->
 
 ---
