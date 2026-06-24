@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Каталог из 83 форматов с плавающей точкой, который сам себя проверяет](https://habr.com/ru/articles/1051520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051520)
+- [Рюкзачная криптосистема Шора-Ривеста](https://habr.com/ru/articles/1051214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051214)
+- [HyperLogLog: как найти уникальные значения в терабайте данных, не храня их](https://habr.com/ru/companies/timeweb/articles/1046345/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046345)
+- [Сколько стоит контекст для кодового агента: grep vs граф vs LSP на большом проекте &lpar;936 прогонов&rpar;](https://habr.com/ru/articles/1051504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051504)
 - [Что не вошло в концепцию прикладного решения «1С:ERP Управление предприятием» 2026 года от УЦ №1 фирмы «1С»](https://habr.com/ru/articles/1051472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051472)
-- [Процессы vs инструменты: как Авито Sales строит QA с нулевыми сдвигами сроков](https://habr.com/ru/companies/avito/articles/1050646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050646)
-- [Okama.io: профессиональные инструменты для анализа инвестиционных стратегий](https://habr.com/ru/companies/okama/articles/1051450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051450)
-- [Как мы перестраивали работу аналитиков под разработку с ИИ-агентами и SDD](https://habr.com/ru/companies/jetinfosystems/articles/1051370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051370)
-- [Эффект бабочки в мастер-данных: как два неучтённых сантиметра останавливают фуры](https://habr.com/ru/companies/intekey/articles/1051436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051436)
 <!-- BLOG-POST-LIST:END -->
 
 ---
