@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Почему не стоит менять клавиатуру на сварочный аппарат, когда рушится первый этаж индустрии](https://habr.com/ru/companies/ru_mts/articles/1050958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050958)
-- [[Перевод] HTML Sanitizer API: конец эпохи DOMPurify и XSS-страданий](https://habr.com/ru/companies/timeweb/articles/1037990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1037990)
-- [Что происходит с SDLC в эпоху AI-агентов](https://habr.com/ru/companies/oleg-bunin/articles/1051278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051278)
-- [[Перевод] Astro 7: переход на Rust, улучшенное кэширование и поддержка AI-разработки](https://habr.com/ru/companies/first/articles/1051258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051258)
-- [Как убрать ручную сборку финансовой отчетности: OLAP-модель, семантический слой и живые отчеты в Excel](https://habr.com/ru/companies/sberbank/articles/1050458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050458)
+- [Что такое Apple Declarative Device Management?](https://habr.com/ru/companies/ringo_mdm/articles/1051384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051384)
+- [Пять ошибок начинающих C++ разработчиков при работе с памятью, из‑за которых программа крашится](https://habr.com/ru/companies/otus/articles/1049298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049298)
+- [Как работает проверка текста на ИИ в 2026 году: что показал анализ 13 000 дипломных работ](https://habr.com/ru/articles/1051372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051372)
+- [Как нарисовать тысячи объектов на карте и не убить FPS: эволюция рендера на Mapbox GL](https://habr.com/ru/articles/1051362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051362)
+- [Как мы отучали LLM выдумывать цифры в данных. Допрос Claude Desktop с пристрастием](https://habr.com/ru/articles/1051346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051346)
 <!-- BLOG-POST-LIST:END -->
 
 ---
