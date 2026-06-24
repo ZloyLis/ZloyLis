@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Уязвимость пришла из зависимости, которую вы не добавляли: ловим дыры в Spring до прода в GitLab](https://habr.com/ru/companies/otus/articles/1047050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047050)
+- [Трансформация интерфейса приложений: сначала консоль, потом GUI, потом скажи, что нужно, и ИИ сделает?](https://habr.com/ru/articles/1051544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051544)
 - [Каталог из 83 форматов с плавающей точкой, который сам себя проверяет](https://habr.com/ru/articles/1051520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051520)
 - [Рюкзачная криптосистема Шора-Ривеста](https://habr.com/ru/articles/1051214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051214)
 - [HyperLogLog: как найти уникальные значения в терабайте данных, не храня их](https://habr.com/ru/companies/timeweb/articles/1046345/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046345)
-- [Сколько стоит контекст для кодового агента: grep vs граф vs LSP на большом проекте &lpar;936 прогонов&rpar;](https://habr.com/ru/articles/1051504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051504)
-- [Что не вошло в концепцию прикладного решения «1С:ERP Управление предприятием» 2026 года от УЦ №1 фирмы «1С»](https://habr.com/ru/articles/1051472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051472)
 <!-- BLOG-POST-LIST:END -->
 
 ---
