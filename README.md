@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Вебинар «mTLS для Java сервисов в Kubernetes»](https://habr.com/ru/companies/axiomjdk/articles/1051482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051482)
+- [Спутниковая связь в симуляторе NS-3. Часть 8](https://habr.com/ru/articles/1050828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050828)
+- [Как я решил проблему ввода спецсимволов без запоминания кучи клавиатурных сокращений](https://habr.com/ru/articles/1051638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051638)
+- [Как эволюционировал ИИ в разработке и что теперь нужно уметь начинающему программисту](https://habr.com/ru/companies/yandex_praktikum/articles/1049592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049592)
 - [[Перевод] Динамические иконки приложения на Flutter: подробная инструкция для ручного выбора и обновлений по воздуху](https://habr.com/ru/articles/1051626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051626)
-- [Уязвимость пришла из зависимости, которую вы не добавляли: ловим дыры в Spring до прода в GitLab](https://habr.com/ru/companies/otus/articles/1047050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047050)
-- [Трансформация интерфейса приложений: сначала консоль, потом GUI, потом скажи, что нужно, и ИИ сделает?](https://habr.com/ru/articles/1051544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051544)
-- [Каталог из 83 форматов с плавающей точкой, который сам себя проверяет](https://habr.com/ru/articles/1051520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051520)
-- [Рюкзачная криптосистема Шора-Ривеста](https://habr.com/ru/articles/1051214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051214)
 <!-- BLOG-POST-LIST:END -->
 
 ---
