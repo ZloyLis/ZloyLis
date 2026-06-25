@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Большая сила маленьких PR-ов в эру AI](https://habr.com/ru/companies/spring_aio/articles/1051808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051808)
-- [Ручной DI в Kotlin Multiplatform: понравится и тебе, и твоему ИИ‑агенту](https://habr.com/ru/articles/1051804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051804)
-- [Безопасное хранение паролей: соли, перцы и выбор алгоритма](https://habr.com/ru/articles/1051800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051800)
-- [«IT-Планета 2026»: задачи третьего этапа по PostgreSQL](https://habr.com/ru/companies/postgrespro/articles/1048166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048166)
-- [Та самая Оркестрация](https://habr.com/ru/companies/piter/articles/1050620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050620)
+- [Электрика без Excel: считаем щиток, кабели и смету прямо в браузере — один файл, ноль зависимостей](https://habr.com/ru/articles/1051896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051896)
+- [Старикам тут не место](https://habr.com/ru/articles/1051888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051888)
+- [Составные активы: что это такое и как ими управлять](https://habr.com/ru/companies/simpleone/articles/1051884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051884)
+- [Одна DRC-дека, три техпроцесса и двенадцать неверных гипотез](https://habr.com/ru/articles/1051882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051882)
+- [Анатомия Spring Proxy: кто и зачем подменяет ваши бины](https://habr.com/ru/articles/1051878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051878)
 <!-- BLOG-POST-LIST:END -->
 
 ---
