@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Вебинар «mTLS для Java сервисов в Kubernetes»](https://habr.com/ru/companies/axiomjdk/articles/1051482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051482)
-- [Спутниковая связь в симуляторе NS-3. Часть 8](https://habr.com/ru/articles/1050828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050828)
-- [Как я решил проблему ввода спецсимволов без запоминания кучи клавиатурных сокращений](https://habr.com/ru/articles/1051638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051638)
-- [Как эволюционировал ИИ в разработке и что теперь нужно уметь начинающему программисту](https://habr.com/ru/companies/yandex_praktikum/articles/1049592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049592)
-- [[Перевод] Динамические иконки приложения на Flutter: подробная инструкция для ручного выбора и обновлений по воздуху](https://habr.com/ru/articles/1051626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051626)
+- [Большая сила маленьких PR-ов в эру AI](https://habr.com/ru/companies/spring_aio/articles/1051808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051808)
+- [Ручной DI в Kotlin Multiplatform: понравится и тебе, и твоему ИИ‑агенту](https://habr.com/ru/articles/1051804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051804)
+- [Безопасное хранение паролей: соли, перцы и выбор алгоритма](https://habr.com/ru/articles/1051800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051800)
+- [«IT-Планета 2026»: задачи третьего этапа по PostgreSQL](https://habr.com/ru/companies/postgrespro/articles/1048166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1048166)
+- [Та самая Оркестрация](https://habr.com/ru/companies/piter/articles/1050620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050620)
 <!-- BLOG-POST-LIST:END -->
 
 ---
