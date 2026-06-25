@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [8 песочниц в браузере без Docker: как мы изолировали выполнение кода на клиенте](https://habr.com/ru/articles/1052034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052034)
 - [Тестирование UX для мобильных приложений: чек‑лист без софта и магии](https://habr.com/ru/companies/otus/articles/1051006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051006)
 - [Pet-project: мини-библиотека по линейной алгебре](https://habr.com/ru/articles/1051974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051974)
 - [Луковичная архитектура: канон и где от него осознанно отступать](https://habr.com/ru/articles/1051970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051970)
 - [Программисты рисуют и травят: от штриховой векторизации к офортам Меллана](https://habr.com/ru/articles/1051962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051962)
-- [Почему исследование ЛАНИТ – большой шаг вперед для российского рынка СУБД](https://habr.com/ru/companies/diasoft_company/articles/1051956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051956)
 <!-- BLOG-POST-LIST:END -->
 
 ---
