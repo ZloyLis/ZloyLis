@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Электрика без Excel: считаем щиток, кабели и смету прямо в браузере — один файл, ноль зависимостей](https://habr.com/ru/articles/1051896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051896)
-- [Старикам тут не место](https://habr.com/ru/articles/1051888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051888)
-- [Составные активы: что это такое и как ими управлять](https://habr.com/ru/companies/simpleone/articles/1051884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051884)
-- [Одна DRC-дека, три техпроцесса и двенадцать неверных гипотез](https://habr.com/ru/articles/1051882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051882)
-- [Анатомия Spring Proxy: кто и зачем подменяет ваши бины](https://habr.com/ru/articles/1051878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051878)
+- [Тестирование UX для мобильных приложений: чек‑лист без софта и магии](https://habr.com/ru/companies/otus/articles/1051006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051006)
+- [Pet-project: мини-библиотека по линейной алгебре](https://habr.com/ru/articles/1051974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051974)
+- [Луковичная архитектура: канон и где от него осознанно отступать](https://habr.com/ru/articles/1051970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051970)
+- [Программисты рисуют и травят: от штриховой векторизации к офортам Меллана](https://habr.com/ru/articles/1051962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051962)
+- [Почему исследование ЛАНИТ – большой шаг вперед для российского рынка СУБД](https://habr.com/ru/companies/diasoft_company/articles/1051956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051956)
 <!-- BLOG-POST-LIST:END -->
 
 ---
