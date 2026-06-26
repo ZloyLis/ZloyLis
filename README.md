@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Корпоративное обучение в 1С: как автоматизация снижает затраты и риски](https://habr.com/ru/companies/infostart/articles/1052140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052140)
-- [Тёмная сторона Prometheus: разбираем сравнение векторов на пяти примерах](https://habr.com/ru/companies/ecom_tech/articles/1050496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050496)
-- [Генеративный Postgres-дайджест: от информационного шума — к сигналу](https://habr.com/ru/companies/tantor/articles/1051940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051940)
-- [Кирилл, моя задница и 4 правила леса](https://habr.com/ru/articles/1052108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052108)
-- [Мультивалютность в ERP — считаем деньги в тенге, SOLANA и Theter одновременно [Go]](https://habr.com/ru/articles/1052090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052090)
+- [ggrebalance: Часть 1. Shrink](https://habr.com/ru/companies/greengage/articles/1051918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051918)
+- [Как потерять спутник за 125 млн$: инструкция от NASA](https://habr.com/ru/companies/profi_ru/articles/1052232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052232)
+- [4.6-битные сети: от теории к практике. Причём здесь HardTanh?](https://habr.com/ru/companies/smartengines/articles/1052222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052222)
+- [Сикофантия? Или ускорение динамического пересчета определителя от O&lpar;n³&rpar; до O&lpar;n&rpar;?](https://habr.com/ru/articles/1052218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052218)
+- [[Перевод] Самодельный BIOS для микшерного пульта и запуск DOS на нём](https://habr.com/ru/articles/1047776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047776)
 <!-- BLOG-POST-LIST:END -->
 
 ---
