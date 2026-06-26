@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [ggrebalance: Часть 1. Shrink](https://habr.com/ru/companies/greengage/articles/1051918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051918)
-- [Как потерять спутник за 125 млн$: инструкция от NASA](https://habr.com/ru/companies/profi_ru/articles/1052232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052232)
-- [4.6-битные сети: от теории к практике. Причём здесь HardTanh?](https://habr.com/ru/companies/smartengines/articles/1052222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052222)
-- [Сикофантия? Или ускорение динамического пересчета определителя от O&lpar;n³&rpar; до O&lpar;n&rpar;?](https://habr.com/ru/articles/1052218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052218)
-- [[Перевод] Самодельный BIOS для микшерного пульта и запуск DOS на нём](https://habr.com/ru/articles/1047776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047776)
+- [Ретро: Не Ной Слабо, Ной Достойно. Как Превратить Жалобы в Профит](https://habr.com/ru/articles/1052356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052356)
+- [Разработчики больше не нужны? Новое исследование Anthropic на 400 000 сессий — и мой спор с ним](https://habr.com/ru/articles/1052348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052348)
+- [Дизайн-система Kite: путь от «порядка» к «воздушному змею»](https://habr.com/ru/companies/tuturu/articles/1052200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052200)
+- [Российские зеркала пакетов и DevOps-платформы: что уже работает и как это использовать в условиях блокировок](https://habr.com/ru/articles/1052330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052330)
+- [Создаем потокобезопасную очередь с условными переменными: «академический» пример против реальности](https://habr.com/ru/companies/yadro/articles/1051850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051850)
 <!-- BLOG-POST-LIST:END -->
 
 ---
