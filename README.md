@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему остатки на маркетплейсах разъезжаются, и почему Kafka вам, скорее всего не нужна?](https://habr.com/ru/articles/1052408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052408)
+- [Агент написал код за 12 секунд и чинил его 40 минут: как я на самом деле сравнила ИИ-агентов](https://habr.com/ru/articles/1052488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052488)
 - [[Перевод] Spring Batch научился работать с MongoDB](https://habr.com/ru/companies/spring_aio/articles/1052358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052358)
 - [Как хостить Mini App на GitHub Pages: бесплатно, быстро, без сервера](https://habr.com/ru/articles/1052416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052416)
 - [Как мы строили команду Sage Observability: от хаоса к доменным командам](https://habr.com/ru/companies/tbank/articles/1051534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051534)
-- [Frontier модели на экзамене в ШАД 2026](https://habr.com/ru/articles/1050754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050754)
-- [Что такое нейросети и как они устроены под капотом &lpar;на пальцах, с примерами на python&rpar;](https://habr.com/ru/articles/1052400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052400)
 <!-- BLOG-POST-LIST:END -->
 
 ---
