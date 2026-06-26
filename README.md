@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ретро: Не Ной Слабо, Ной Достойно. Как Превратить Жалобы в Профит](https://habr.com/ru/articles/1052356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052356)
-- [Разработчики больше не нужны? Новое исследование Anthropic на 400 000 сессий — и мой спор с ним](https://habr.com/ru/articles/1052348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052348)
-- [Дизайн-система Kite: путь от «порядка» к «воздушному змею»](https://habr.com/ru/companies/tuturu/articles/1052200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052200)
-- [Российские зеркала пакетов и DevOps-платформы: что уже работает и как это использовать в условиях блокировок](https://habr.com/ru/articles/1052330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052330)
-- [Создаем потокобезопасную очередь с условными переменными: «академический» пример против реальности](https://habr.com/ru/companies/yadro/articles/1051850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051850)
+- [[Перевод] Spring Batch научился работать с MongoDB](https://habr.com/ru/companies/spring_aio/articles/1052358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052358)
+- [Как хостить Mini App на GitHub Pages: бесплатно, быстро, без сервера](https://habr.com/ru/articles/1052416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052416)
+- [Как мы строили команду Sage Observability: от хаоса к доменным командам](https://habr.com/ru/companies/tbank/articles/1051534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051534)
+- [Frontier модели на экзамене в ШАД 2026](https://habr.com/ru/articles/1050754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050754)
+- [Что такое нейросети и как они устроены под капотом &lpar;на пальцах, с примерами на python&rpar;](https://habr.com/ru/articles/1052400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052400)
 <!-- BLOG-POST-LIST:END -->
 
 ---
