@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Несколько LLM-агентов в одном Chrome: изоляция вкладок без потери логинов](https://habr.com/ru/articles/1052062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052062)
-- [Как собрать мультиагентный Telegram-канал круглосуточной ситуационной осведомленности](https://habr.com/ru/articles/1052052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052052)
-- [VARS: Совмещение Интерактивности И Реального Времени](https://habr.com/ru/articles/1052050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052050)
-- [Как xtunnel может создать дыру в приложении](https://habr.com/ru/articles/1052046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052046)
-- [8 песочниц в браузере без Docker: как мы изолировали выполнение кода на клиенте](https://habr.com/ru/articles/1052034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052034)
+- [Корпоративное обучение в 1С: как автоматизация снижает затраты и риски](https://habr.com/ru/companies/infostart/articles/1052140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052140)
+- [Тёмная сторона Prometheus: разбираем сравнение векторов на пяти примерах](https://habr.com/ru/companies/ecom_tech/articles/1050496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050496)
+- [Генеративный Postgres-дайджест: от информационного шума — к сигналу](https://habr.com/ru/companies/tantor/articles/1051940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051940)
+- [Кирилл, моя задница и 4 правила леса](https://habr.com/ru/articles/1052108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052108)
+- [Мультивалютность в ERP — считаем деньги в тенге, SOLANA и Theter одновременно [Go]](https://habr.com/ru/articles/1052090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052090)
 <!-- BLOG-POST-LIST:END -->
 
 ---
