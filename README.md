@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Метаболический ИИ показал логику хищника в решении практических задач](https://habr.com/ru/articles/1052666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052666)
+- [Что такое Человек?](https://habr.com/ru/articles/1052660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052660)
 - [Direct 2D #11. Анимации](https://habr.com/ru/articles/1052652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052652)
 - [FM-синтез звука в браузере. Часть 1](https://habr.com/ru/articles/1052640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052640)
 - [Электрика без Excel: ElectroKit 2.0 — как меня поправили в комментариях и что из этого вышло](https://habr.com/ru/articles/1052618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052618)
-- [Как объяснить вайбкодеру, что “работает” — не значит “сделано нормально”](https://habr.com/ru/articles/1052616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052616)
-- [Статический Арбитраж с нуля: как без навыков программирования написать бота и зарабатывать на неэффективностях рынка](https://habr.com/ru/companies/finam_broker/articles/1049720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049720)
 <!-- BLOG-POST-LIST:END -->
 
 ---
