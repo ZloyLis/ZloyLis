@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Фантастические рассказы о новой цивилизации](https://habr.com/ru/articles/1052528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052528)
 - [Copy-on-Write в Swift: подготовка к собеседованию](https://habr.com/ru/articles/1052522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052522)
 - [Django-style фильтры поверх SQLAlchemy: зачем я написал python пакет sqlalchemy-query-manager](https://habr.com/ru/articles/1052518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052518)
 - [Знакомимся с Cruzo. Часть 2. Обзор шаблонизатора внутри которого виртуальная машина](https://habr.com/ru/articles/1052512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052512)
 - [Почему остатки на маркетплейсах разъезжаются, и почему Kafka вам, скорее всего не нужна?](https://habr.com/ru/articles/1052408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052408)
-- [Агент написал код за 12 секунд и чинил его 40 минут: как я на самом деле сравнила ИИ-агентов](https://habr.com/ru/articles/1052488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052488)
 <!-- BLOG-POST-LIST:END -->
 
 ---
