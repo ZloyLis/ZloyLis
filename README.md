@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [FM-синтез звука в браузере. Часть 1](https://habr.com/ru/articles/1052640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052640)
+- [Электрика без Excel: ElectroKit 2.0 — как меня поправили в комментариях и что из этого вышло](https://habr.com/ru/articles/1052618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052618)
+- [Код от нейронки плоский — как и её тексты. Только в тексте это заметно всем](https://habr.com/ru/articles/1052616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052616)
 - [Статический Арбитраж с нуля: как без навыков программирования написать бота и зарабатывать на неэффективностях рынка](https://habr.com/ru/companies/finam_broker/articles/1049720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049720)
 - [Зачем разработчикам с самонакопленным опытом учиться и можно ли вырасти до мидла в онлайн-магистратуре](https://habr.com/ru/companies/yandex_praktikum/articles/1051500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051500)
-- [Интересные развлечения со змеей](https://habr.com/ru/companies/timeweb/articles/1035184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1035184)
-- [Карта синуса: 42 места, где мы его поймали](https://habr.com/ru/articles/1049810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049810)
-- [Prepared Statement и Java: как не облажаться на собеседовании](https://habr.com/ru/articles/1052404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052404)
 <!-- BLOG-POST-LIST:END -->
 
 ---
