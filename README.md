@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Карта синуса: 42 места, где мы его поймали](https://habr.com/ru/articles/1049810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049810)
 - [Prepared Statement и Java: как не облажаться на собеседовании](https://habr.com/ru/articles/1052404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052404)
 - [Web3-мессенджер размером в 3.5 Мб: инди-разработка с нулевым бюджетом](https://habr.com/ru/articles/1052088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052088)
 - [Flipper-демиург: ставим софт на macOS через JS для пентестеров](https://habr.com/ru/articles/1052538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052538)
 - [Свой VPN на Rust: как я спорил с сетью, TLS и самим собой](https://habr.com/ru/articles/1052536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052536)
-- [Фантастические рассказы о новой цивилизации](https://habr.com/ru/articles/1052528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052528)
 <!-- BLOG-POST-LIST:END -->
 
 ---
