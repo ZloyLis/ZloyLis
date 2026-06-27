@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Prepared Statement и Java: как не облажаться на собеседовании](https://habr.com/ru/articles/1052404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052404)
+- [Web3-мессенджер размером в 3.5 Мб: инди-разработка с нулевым бюджетом](https://habr.com/ru/articles/1052088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052088)
+- [Flipper-демиург: ставим софт на macOS через JS для пентестеров](https://habr.com/ru/articles/1052538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052538)
+- [Свой VPN на Rust: как я спорил с сетью, TLS и самим собой](https://habr.com/ru/articles/1052536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052536)
 - [Фантастические рассказы о новой цивилизации](https://habr.com/ru/articles/1052528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052528)
-- [Copy-on-Write в Swift: подготовка к собеседованию](https://habr.com/ru/articles/1052522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052522)
-- [Django-style фильтры поверх SQLAlchemy: зачем я написал python пакет sqlalchemy-query-manager](https://habr.com/ru/articles/1052518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052518)
-- [Знакомимся с Cruzo. Часть 2. Обзор шаблонизатора внутри которого виртуальная машина](https://habr.com/ru/articles/1052512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052512)
-- [Почему остатки на маркетплейсах разъезжаются, и почему Kafka вам, скорее всего не нужна?](https://habr.com/ru/articles/1052408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052408)
 <!-- BLOG-POST-LIST:END -->
 
 ---
