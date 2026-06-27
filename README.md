@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Direct 2D #11. Анимации](https://habr.com/ru/articles/1052652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052652)
 - [FM-синтез звука в браузере. Часть 1](https://habr.com/ru/articles/1052640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052640)
 - [Электрика без Excel: ElectroKit 2.0 — как меня поправили в комментариях и что из этого вышло](https://habr.com/ru/articles/1052618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052618)
-- [Код от нейронки плоский — как и её тексты. Только в тексте это заметно всем](https://habr.com/ru/articles/1052616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052616)
+- [Как объяснить вайбкодеру, что “работает” — не значит “сделано нормально”](https://habr.com/ru/articles/1052616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052616)
 - [Статический Арбитраж с нуля: как без навыков программирования написать бота и зарабатывать на неэффективностях рынка](https://habr.com/ru/companies/finam_broker/articles/1049720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049720)
-- [Зачем разработчикам с самонакопленным опытом учиться и можно ли вырасти до мидла в онлайн-магистратуре](https://habr.com/ru/companies/yandex_praktikum/articles/1051500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051500)
 <!-- BLOG-POST-LIST:END -->
 
 ---
