@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Цветной текст в консоли в AutoHotkey](https://habr.com/ru/articles/1053046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053046)
 - [Крауд-партия с Пикабу: гибрид социальной демократии и технократии, и почему это самый логичный патч для страны?](https://habr.com/ru/articles/1053038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053038)
 - [HTCE: когнитивное ядро нового поколения, которое не верит без доказательств](https://habr.com/ru/articles/1053028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053028)
 - [Терминал — измеряем скорость работы на клавиатуре](https://habr.com/ru/articles/1052904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052904)
 - [Моделирование упругих столкновений](https://habr.com/ru/articles/1053014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053014)
-- [Многоэтапные сборки в Docker: как уменьшить образ с 1,2 ГБ до 50 МБ](https://habr.com/ru/companies/netologyru/articles/1051714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051714)
 <!-- BLOG-POST-LIST:END -->
 
 ---
