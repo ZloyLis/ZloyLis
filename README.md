@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Анти‑кейс. Как создать технически идеальный сайт на Next.js про ИИ и нейросети и остаться без поискового трафика](https://habr.com/ru/articles/1052836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052836)
+- [Архитектура ИИ-агента с желаниями или цифровой человек](https://habr.com/ru/articles/1052764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052764)
+- [Как желание быстрее читать чужой код превратилось в войну с недетерминизмом LLM](https://habr.com/ru/articles/1052822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052822)
 - [Как я свертки ускорял](https://habr.com/ru/articles/1052790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052790)
 - [Шаблоны C++ как инструмент архитектуры: compile-time dispatch, type traits и type erasure](https://habr.com/ru/articles/1052788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052788)
-- [Расчёт электрических цепей. Вторая часть](https://habr.com/ru/articles/1049480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049480)
-- [OSDEV: Разработка аллокатора на С++ часть 5. osdev-libstdc](https://habr.com/ru/articles/1052784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052784)
-- [osdev-libstdc: реализация std::atomic и spin_lock](https://habr.com/ru/articles/1051320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051320)
 <!-- BLOG-POST-LIST:END -->
 
 ---
