@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Крауд-партия с Пикабу: гибрид социальной демократии и технократии, и почему это самый логичный патч для страны?](https://habr.com/ru/articles/1053038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053038)
+- [HTCE: когнитивное ядро нового поколения, которое не верит без доказательств](https://habr.com/ru/articles/1053028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053028)
+- [Терминал — измеряем скорость работы на клавиатуре](https://habr.com/ru/articles/1052904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052904)
 - [Моделирование упругих столкновений](https://habr.com/ru/articles/1053014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053014)
 - [Многоэтапные сборки в Docker: как уменьшить образ с 1,2 ГБ до 50 МБ](https://habr.com/ru/companies/netologyru/articles/1051714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051714)
-- [Как безопасно настроить VPS-сервер и защитить сайт, бот и веб-приложение](https://habr.com/ru/companies/amvera/articles/1052852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052852)
-- [Django-кнопка «Наверх»: подключить за минуту вместо очередного велосипеда](https://habr.com/ru/articles/1052944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052944)
-- [Два способа создания доступного DataPicker&#39;а с помощью AI: 80/20 в пользу AI или системное проектирование с агентом](https://habr.com/ru/articles/1052932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052932)
 <!-- BLOG-POST-LIST:END -->
 
 ---
