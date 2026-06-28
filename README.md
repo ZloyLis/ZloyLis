@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Еще несколько «ласковых слов» о новом редакторе Habr ¯\_&lpar;ツ&rpar;_/¯](https://habr.com/ru/articles/1052730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052730)
+- [Как генератор палитр дорос до конструктора бренда: один ИИ-эндпоинт, дырявая ссылка и грабли деплоя](https://habr.com/ru/articles/1052768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052768)
 - [Как превратить ChatGPT.com в Codex &lpar;но без лимитов&rpar;](https://habr.com/ru/articles/1052710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052710)
 - [С чем я сталкивался при найме на работу](https://habr.com/ru/articles/1052708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052708)
 - [[Перевод] Универсальный язык: изобретение штрихкода](https://habr.com/ru/articles/1052564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052564)
-- [Docker как место для сборки](https://habr.com/ru/articles/1052692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052692)
-- [Метаболический ИИ показал логику хищника в решении практических задач](https://habr.com/ru/articles/1052666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052666)
 <!-- BLOG-POST-LIST:END -->
 
 ---
