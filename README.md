@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [12 факторов хорошего агента](https://habr.com/ru/articles/1052896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052896)
-- [Делаем свое контекстное меню для полей ввода в Qt на мобильных устройствах](https://habr.com/ru/articles/1052882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052882)
-- [[Перевод] Структуры данных на практике. Глава 16: Фильтры Блума и вероятностные структуры данных](https://habr.com/ru/articles/1034790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1034790)
-- [Попросили Claude создать WCAG-доступный DataPicker на React и потратили 3 дня на доработки](https://habr.com/ru/articles/1052878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052878)
-- [[Перевод] Раньше ПО работало шустро, потому что иначе было никак](https://habr.com/ru/companies/ruvds/articles/1051660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051660)
+- [Два способа создания доступного DataPicker&#39;а с помощью AI: 80/20 в пользу AI или системное проектирование с агентом](https://habr.com/ru/articles/1052932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052932)
+- [Теория и практика DWH: что такое согласованные факты и измерения по Кимбаллу и зачем они нужны](https://habr.com/ru/articles/1052842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052842)
+- [Мобильная разработка за неделю #636 &lpar;22 — 28 июня&rpar;](https://habr.com/ru/articles/1052920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052920)
+- [Как я писал диплом в LaTeX: Docker, CI/CD, Latexmk, Mermaid, и многое другое](https://habr.com/ru/articles/1052848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052848)
+- [Тап по тысяче точек за O&lpar;log n&rpar;: QuadTree и сферическая геометрия в гео-соцсети](https://habr.com/ru/articles/1052900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052900)
 <!-- BLOG-POST-LIST:END -->
 
 ---
