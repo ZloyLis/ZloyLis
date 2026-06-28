@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Еще несколько «ласковых слов» о новом редакторе Habr ¯\_&lpar;ツ&rpar;_/¯](https://habr.com/ru/articles/1052730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052730)
-- [Как генератор палитр дорос до конструктора бренда: один ИИ-эндпоинт, дырявая ссылка и грабли деплоя](https://habr.com/ru/articles/1052768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052768)
-- [Как превратить ChatGPT.com в Codex &lpar;но без лимитов&rpar;](https://habr.com/ru/articles/1052710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052710)
-- [С чем я сталкивался при найме на работу](https://habr.com/ru/articles/1052708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052708)
-- [[Перевод] Универсальный язык: изобретение штрихкода](https://habr.com/ru/articles/1052564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052564)
+- [Как я свертки ускорял](https://habr.com/ru/articles/1052790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052790)
+- [Шаблоны C++ как инструмент архитектуры: compile-time dispatch, type traits и type erasure](https://habr.com/ru/articles/1052788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052788)
+- [Расчёт электрических цепей. Вторая часть](https://habr.com/ru/articles/1049480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049480)
+- [OSDEV: Разработка аллокатора на С++ часть 5. osdev-libstdc](https://habr.com/ru/articles/1052784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052784)
+- [osdev-libstdc: реализация std::atomic и spin_lock](https://habr.com/ru/articles/1051320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051320)
 <!-- BLOG-POST-LIST:END -->
 
 ---
