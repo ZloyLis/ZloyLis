@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [TeamPCP: как команда хакеров-любителей «Дюны» закинула в наши Node.js-пакеты червей Shai-Hulud](https://habr.com/ru/companies/ruvds/articles/1051336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051336)
-- [Современный MQTT-сервис на Python](https://habr.com/ru/companies/raiffeisenbank/articles/1052226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052226)
-- [Как подключить таск-трекер к кодовой базе через RAG и не сойти с ума от стоимости токенов](https://habr.com/ru/articles/1053222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053222)
-- [Как построить свою оргмодель, свое хобби-приложение и не потерять месяц жизни](https://habr.com/ru/articles/1053212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053212)
-- [Мой опыт запуска продукта на Product Hunt](https://habr.com/ru/articles/1053194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053194)
+- [6 необычных смартфонов 2026 года: от телефона с проектором до карманного Linux-компьютера](https://habr.com/ru/companies/ru_mts/articles/1052436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052436)
+- [Как HTML убил Markdown и зачем Cursor выпускают замену GitHub](https://habr.com/ru/companies/haulmont/articles/1053468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053468)
+- [Разговариваем с датчиками на человеческом: как связать MQTT, TimescaleDB и LLM через Model Context Protocol &lpar;MCP&rpar;](https://habr.com/ru/articles/1052000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052000)
+- [От PDF к учебному модулю: практичный ML-пайплайн внутри LMS](https://habr.com/ru/articles/1053450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053450)
+- [Локальные LLM в агентской разработке внутри компании: пользовательский опыт](https://habr.com/ru/companies/uralsib/articles/1053432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053432)
 <!-- BLOG-POST-LIST:END -->
 
 ---
