@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Отрежьте мне миллиард символов: как C++20, string_view и шаблонный ад могут скрывать баг годами](https://habr.com/ru/articles/1052830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052830)
+- [Direct 2D #12. Слои и эффекты](https://habr.com/ru/articles/1053086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053086)
+- [AngaraBase: новая HTAP СУБД](https://habr.com/ru/articles/1053076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053076)
 - [Цветной текст в консоли в AutoHotkey](https://habr.com/ru/articles/1053046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053046)
 - [Крауд-партия с Пикабу: гибрид социальной демократии и технократии, и почему это самый логичный патч для страны?](https://habr.com/ru/articles/1053038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053038)
-- [HTCE: когнитивное ядро нового поколения, которое не верит без доказательств](https://habr.com/ru/articles/1053028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053028)
-- [Терминал — измеряем скорость работы на клавиатуре](https://habr.com/ru/articles/1052904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052904)
-- [Моделирование упругих столкновений](https://habr.com/ru/articles/1053014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053014)
 <!-- BLOG-POST-LIST:END -->
 
 ---
