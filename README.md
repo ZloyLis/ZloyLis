@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Отрежьте мне миллиард символов: как C++20, string_view и шаблонный ад могут скрывать баг годами](https://habr.com/ru/articles/1052830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052830)
-- [Direct 2D #12. Слои и эффекты](https://habr.com/ru/articles/1053086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053086)
-- [AngaraBase: новая HTAP СУБД](https://habr.com/ru/articles/1053076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053076)
-- [Цветной текст в консоли в AutoHotkey](https://habr.com/ru/articles/1053046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053046)
-- [Крауд-партия с Пикабу: гибрид социальной демократии и технократии, и почему это самый логичный патч для страны?](https://habr.com/ru/articles/1053038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053038)
+- [TeamPCP: как команда хакеров-любителей «Дюны» закинула в наши Node.js-пакеты червей Shai-Hulud](https://habr.com/ru/companies/ruvds/articles/1051336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051336)
+- [Современный MQTT-сервис на Python](https://habr.com/ru/companies/raiffeisenbank/articles/1052226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052226)
+- [Как подключить таск-трекер к кодовой базе через RAG и не сойти с ума от стоимости токенов](https://habr.com/ru/articles/1053222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053222)
+- [Как построить свою оргмодель, свое хобби-приложение и не потерять месяц жизни](https://habr.com/ru/articles/1053212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053212)
+- [Мой опыт запуска продукта на Product Hunt](https://habr.com/ru/articles/1053194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053194)
 <!-- BLOG-POST-LIST:END -->
 
 ---
