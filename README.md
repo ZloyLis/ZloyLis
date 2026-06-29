@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Анатомия SQLite-провайдера: уходим от EF Core — типизированное хранилище для десктопа, мобайла и Blazor WASM](https://habr.com/ru/articles/1053672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053672)
+- [Рунет без Google Login: что теперь делать с авторизацией](https://habr.com/ru/articles/1053664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053664)
 - [Как «ужать» мегаполис до размеров iPhone 4](https://habr.com/ru/articles/1051440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051440)
 - [Direct2D #13. Command Lists. Запись графических команд](https://habr.com/ru/articles/1053608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053608)
 - [[Перевод] Что на самом деле означают теоремы Гёделя о неполноте?](https://habr.com/ru/articles/1053594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053594)
-- [Как несистемные проверки ломают продакшен и почему разовая очистка инфраструктуры не работает](https://habr.com/ru/companies/finops_ru/articles/1053562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053562)
-- [Творческая дисфункция и VK Video](https://habr.com/ru/articles/1053534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053534)
 <!-- BLOG-POST-LIST:END -->
 
 ---
