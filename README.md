@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Security Week 2627: поддельные инструменты ИИ как приманка для малого бизнеса](https://habr.com/ru/companies/kaspersky/articles/1053146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053146)
-- [Harness Bench: как оценить агентский harness и выбрать связку с моделью](https://habr.com/ru/companies/redmadrobot/articles/1053950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053950)
-- [Потеря инженерной памяти объекта](https://habr.com/ru/articles/1053948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053948)
-- [Рендеринг миллионов динамических связей: O&lpar;1&rpar; вместо O&lpar;N²&rpar; &lpar;но это не точно&rpar;](https://habr.com/ru/articles/1053922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053922)
-- [Шаблон ТЗ для проектирования REST API: готовый инструмент для аналитика](https://habr.com/ru/articles/1053910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053910)
+- [Direct 2D #14. Разбиение на блоки и сжатие. Оптимизация текстур](https://habr.com/ru/articles/1054070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054070)
+- [ГдеЗаправка: умный подбор + как нас за сутки посетило полмиллиона](https://habr.com/ru/articles/1054054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054054)
+- [Полиморфные ссылки в PostgreSQL: помогаем СУБД избежать провалов производительности](https://habr.com/ru/companies/tantor/articles/1054030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054030)
+- [Как мы настраивали терминалы сбора данных на складах Ozon](https://habr.com/ru/companies/ozontech/articles/1027590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027590)
+- [[Перевод] PHP 8.6: дата релиза, предстоящие возможности и статус RFC](https://habr.com/ru/companies/haulmont/articles/1053944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053944)
 <!-- BLOG-POST-LIST:END -->
 
 ---
