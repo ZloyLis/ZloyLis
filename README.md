@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Apache Paimon: steamhouse как логическое продолжение современных КХД](https://habr.com/ru/articles/1053674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053674)
-- [Анатомия SQLite-провайдера: уходим от EF Core — типизированное хранилище для десктопа, мобайла и Blazor WASM](https://habr.com/ru/articles/1053672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053672)
-- [Рунет без Google Login: что теперь делать с авторизацией](https://habr.com/ru/articles/1053664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053664)
-- [Как «ужать» мегаполис до размеров iPhone 4](https://habr.com/ru/articles/1051440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051440)
-- [Direct2D #13. Command Lists. Запись графических команд](https://habr.com/ru/articles/1053608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053608)
+- [От полумарафона до восхождения на вулкан: как увлечения помогают строить личный бренд в BigTech](https://habr.com/ru/companies/avito/articles/1051126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051126)
+- [Pivot grid без сторонних библиотек: кэш, производительность и связанные гриды](https://habr.com/ru/articles/1053776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053776)
+- [Маркетинг Гайд — как маркетологу принимать решения на основе данных &lpar;Data driven философия&rpar;](https://habr.com/ru/articles/1053442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053442)
+- [Лучшие нейросети для картинок в 2026. Сравнение Midjourney, Qwen, FLUX, Nano Banana, GPT и Grok на одних промптах](https://habr.com/ru/companies/bothub/articles/1049196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049196)
+- [ChatGPT -&amp;gt; Codex CLI: как перенести контекст диалога в локальную сессию](https://habr.com/ru/articles/1053822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053822)
 <!-- BLOG-POST-LIST:END -->
 
 ---
