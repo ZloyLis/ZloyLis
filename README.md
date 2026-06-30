@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы создали внутреннего ИИ-помощника на базе RAG и перестали искать ответы по корпоративной Wiki](https://habr.com/ru/companies/yoomoney/articles/1054144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054144)
+- [Как я превратил OnePlus 3T в домашний сервер на базе postmarketOS](https://habr.com/ru/articles/1054142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054142)
 - [Ловушка неявного приведения числовых типов](https://habr.com/ru/companies/gnivc/articles/996862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996862)
 - [Почему Минобрнауки боится ИИ и правда ли, что дипломные работы утратили смысл?](https://habr.com/ru/articles/1054128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054128)
 - [PostgreSQL для бэкендера: 10 фич, которыми мало пользуются, а зря](https://habr.com/ru/companies/netologyru/articles/1051792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051792)
-- [[Перевод] В Java нет универсального типа для денег](https://habr.com/ru/companies/spring_aio/articles/1054074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054074)
-- [Direct 2D #14. Разбиение на блоки и сжатие. Оптимизация текстур](https://habr.com/ru/articles/1054070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054070)
 <!-- BLOG-POST-LIST:END -->
 
 ---
