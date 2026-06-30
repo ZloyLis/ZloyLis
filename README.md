@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Apache Paimon: steamhouse как логическое продолжение современных КХД](https://habr.com/ru/articles/1053674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053674)
 - [Анатомия SQLite-провайдера: уходим от EF Core — типизированное хранилище для десктопа, мобайла и Blazor WASM](https://habr.com/ru/articles/1053672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053672)
 - [Рунет без Google Login: что теперь делать с авторизацией](https://habr.com/ru/articles/1053664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053664)
 - [Как «ужать» мегаполис до размеров iPhone 4](https://habr.com/ru/articles/1051440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051440)
 - [Direct2D #13. Command Lists. Запись графических команд](https://habr.com/ru/articles/1053608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053608)
-- [[Перевод] Что на самом деле означают теоремы Гёделя о неполноте?](https://habr.com/ru/articles/1053594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053594)
 <!-- BLOG-POST-LIST:END -->
 
 ---
