@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [От полумарафона до восхождения на вулкан: как увлечения помогают строить личный бренд в BigTech](https://habr.com/ru/companies/avito/articles/1051126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051126)
-- [Pivot grid без сторонних библиотек: кэш, производительность и связанные гриды](https://habr.com/ru/articles/1053776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053776)
-- [Маркетинг Гайд — как маркетологу принимать решения на основе данных &lpar;Data driven философия&rpar;](https://habr.com/ru/articles/1053442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053442)
-- [Лучшие нейросети для картинок в 2026. Сравнение Midjourney, Qwen, FLUX, Nano Banana, GPT и Grok на одних промптах](https://habr.com/ru/companies/bothub/articles/1049196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049196)
-- [ChatGPT -&amp;gt; Codex CLI: как перенести контекст диалога в локальную сессию](https://habr.com/ru/articles/1053822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053822)
+- [Security Week 2627: поддельные инструменты ИИ как приманка для малого бизнеса](https://habr.com/ru/companies/kaspersky/articles/1053146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053146)
+- [Harness Bench: как оценить агентский harness и выбрать связку с моделью](https://habr.com/ru/companies/redmadrobot/articles/1053950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053950)
+- [Потеря инженерной памяти объекта](https://habr.com/ru/articles/1053948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053948)
+- [Рендеринг миллионов динамических связей: O&lpar;1&rpar; вместо O&lpar;N²&rpar; &lpar;но это не точно&rpar;](https://habr.com/ru/articles/1053922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053922)
+- [Шаблон ТЗ для проектирования REST API: готовый инструмент для аналитика](https://habr.com/ru/articles/1053910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053910)
 <!-- BLOG-POST-LIST:END -->
 
 ---
