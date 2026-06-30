@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] В Java нет универсального типа для денег](https://habr.com/ru/companies/spring_aio/articles/1054074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054074)
 - [Direct 2D #14. Разбиение на блоки и сжатие. Оптимизация текстур](https://habr.com/ru/articles/1054070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054070)
 - [ГдеЗаправка: умный подбор + как нас за сутки посетило полмиллиона](https://habr.com/ru/articles/1054054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054054)
 - [Полиморфные ссылки в PostgreSQL: помогаем СУБД избежать провалов производительности](https://habr.com/ru/companies/tantor/articles/1054030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054030)
 - [Как мы настраивали терминалы сбора данных на складах Ozon](https://habr.com/ru/companies/ozontech/articles/1027590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1027590)
-- [[Перевод] PHP 8.6: дата релиза, предстоящие возможности и статус RFC](https://habr.com/ru/companies/haulmont/articles/1053944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053944)
 <!-- BLOG-POST-LIST:END -->
 
 ---
