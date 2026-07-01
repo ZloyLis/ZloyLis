@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [DTO, schema, model, entity: почему в коде всё называется User](https://habr.com/ru/articles/1054614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054614)
 - [Худший язык программирования всех времён /s](https://habr.com/ru/articles/1047890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047890)
 - [Java‑код скомпилировался — это ещё не значит, что он работает](https://habr.com/ru/companies/otus/articles/1047040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047040)
 - [Аналог Plaud на iPhone: эксперименты с локальной транскрибацией ASR на iOS](https://habr.com/ru/articles/1054566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054566)
 - [Хватит объяснять агенту проект в каждом чате: что появилось в Veai 5.14](https://habr.com/ru/companies/veai/articles/1054462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054462)
-- [Джефф Безос и решения двух типов](https://habr.com/ru/articles/1052676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052676)
 <!-- BLOG-POST-LIST:END -->
 
 ---
