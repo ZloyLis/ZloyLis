@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Техгиганты увольняют людей — к чему готовиться джунам](https://habr.com/ru/articles/1054516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054516)
-- [Книга «PostgreSQL 18 изнутри»: архитектура «слона» под новым капотом](https://habr.com/ru/companies/postgrespro/articles/1052440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052440)
-- [— Егор, а можешь показать свой AGENTS.md?](https://habr.com/ru/articles/1054504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054504)
-- [REST Assured: почему зелёные тесты пропускают баги в API](https://habr.com/ru/companies/otus/articles/1047064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047064)
-- [Призраки инфраструктуры: кто ответит за сервер, у которого нет владельца](https://habr.com/ru/companies/simpleone/articles/1054502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054502)
+- [Худший язык программирования всех времён /s](https://habr.com/ru/articles/1047890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047890)
+- [Java‑код скомпилировался — это ещё не значит, что он работает](https://habr.com/ru/companies/otus/articles/1047040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047040)
+- [Аналог Plaud на iPhone: эксперименты с локальной транскрибацией ASR на iOS](https://habr.com/ru/articles/1054566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054566)
+- [Хватит объяснять агенту проект в каждом чате: что появилось в Veai 5.14](https://habr.com/ru/companies/veai/articles/1054462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054462)
+- [Джефф Безос и решения двух типов](https://habr.com/ru/articles/1052676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052676)
 <!-- BLOG-POST-LIST:END -->
 
 ---
