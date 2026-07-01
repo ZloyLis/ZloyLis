@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как создавали нейропоиск Discovery AI — технология для крупнейшей контентной базы в РФ](https://habr.com/ru/companies/vk/articles/1054358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054358)
-- [ArrayList против LinkedList: спор, который ИИ всё ещё проигрывает практике](https://habr.com/ru/companies/otus/articles/1047028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047028)
-- [Saint HighLoad++ 2026: как крупный ИТ осваивает ИИ](https://habr.com/ru/companies/oleg-bunin/articles/1053550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053550)
-- [Обзор APEX Security — Android Package EXaminer](https://habr.com/ru/articles/1054370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054370)
-- [Логи, деньги, два релиза или Чему может научить IT‑ишника Джейсон Стэтхем](https://habr.com/ru/articles/1054364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054364)
+- [Техгиганты увольняют людей — к чему готовиться джунам](https://habr.com/ru/articles/1054516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054516)
+- [Книга «PostgreSQL 18 изнутри»: архитектура «слона» под новым капотом](https://habr.com/ru/companies/postgrespro/articles/1052440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052440)
+- [— Егор, а можешь показать свой AGENTS.md?](https://habr.com/ru/articles/1054504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054504)
+- [REST Assured: почему зелёные тесты пропускают баги в API](https://habr.com/ru/companies/otus/articles/1047064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047064)
+- [Призраки инфраструктуры: кто ответит за сервер, у которого нет владельца](https://habr.com/ru/companies/simpleone/articles/1054502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054502)
 <!-- BLOG-POST-LIST:END -->
 
 ---
