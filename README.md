@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как мы создали внутреннего ИИ-помощника на базе RAG и перестали искать ответы по корпоративной Wiki](https://habr.com/ru/companies/yoomoney/articles/1054144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054144)
-- [Как я превратил OnePlus 3T в домашний сервер на базе postmarketOS](https://habr.com/ru/articles/1054142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054142)
-- [Ловушка неявного приведения числовых типов](https://habr.com/ru/companies/gnivc/articles/996862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=996862)
-- [Почему Минобрнауки боится ИИ и правда ли, что дипломные работы утратили смысл?](https://habr.com/ru/articles/1054128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054128)
-- [PostgreSQL для бэкендера: 10 фич, которыми мало пользуются, а зря](https://habr.com/ru/companies/netologyru/articles/1051792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051792)
+- [65 бесплатных уроков июля: от LLM и RAG до Kubernetes, Go и QA](https://habr.com/ru/companies/otus/articles/1053476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053476)
+- [Задача коммивояжера: обходим 750 точек за 5 сек](https://habr.com/ru/articles/1054280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054280)
+- [Кастомизация Битрикс24 на платформе Вайбкод: создаём паспорт клиента](https://habr.com/ru/companies/bitrix/articles/1053840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053840)
+- [«Гражданин, обновитесь»: анализ вредоносной кампании Falcon](https://habr.com/ru/companies/pt/articles/1036620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1036620)
+- [06.2026 Моя подборка полезных статей на habr за июнь про агентную разработку](https://habr.com/ru/articles/1049838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049838)
 <!-- BLOG-POST-LIST:END -->
 
 ---
