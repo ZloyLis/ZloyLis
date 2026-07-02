@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как мы делаем онлайн-режим для браузерной инди-игры, когда бюджет на сервера — $10 в месяц](https://habr.com/ru/articles/1054626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054626)
-- [DTO, schema, model, entity: почему в коде всё называется User](https://habr.com/ru/articles/1054614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054614)
-- [Худший язык программирования всех времён /s](https://habr.com/ru/articles/1047890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047890)
-- [Java‑код скомпилировался — это ещё не значит, что он работает](https://habr.com/ru/companies/otus/articles/1047040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047040)
-- [Аналог Plaud на iPhone: эксперименты с локальной транскрибацией ASR на iOS](https://habr.com/ru/articles/1054566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054566)
+- [Как я стал туалетным сомелье](https://habr.com/ru/articles/1054682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054682)
+- [Что такое ИТ-инфраструктура и как собственнику понять, в каком она состоянии](https://habr.com/ru/companies/alp_itsm/articles/1054616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054616)
+- [Полез в исходники vLLM, чтобы понять, почему один символ убивает prompt caching](https://habr.com/ru/articles/1054410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054410)
+- [Почему я выкинул MCP из AI-агента для CAD: граф API, ГОСТы, компилятор и live COM для KOMPAS-3D](https://habr.com/ru/articles/1054520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054520)
+- [Как начать программировать на C++: обзор бесплатной части курса](https://habr.com/ru/companies/yandex_praktikum/articles/1054242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054242)
 <!-- BLOG-POST-LIST:END -->
 
 ---
