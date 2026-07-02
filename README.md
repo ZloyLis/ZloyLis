@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как я стал туалетным сомелье](https://habr.com/ru/articles/1054682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054682)
-- [Что такое ИТ-инфраструктура и как собственнику понять, в каком она состоянии](https://habr.com/ru/companies/alp_itsm/articles/1054616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054616)
-- [Полез в исходники vLLM, чтобы понять, почему один символ убивает prompt caching](https://habr.com/ru/articles/1054410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054410)
-- [Почему я выкинул MCP из AI-агента для CAD: граф API, ГОСТы, компилятор и live COM для KOMPAS-3D](https://habr.com/ru/articles/1054520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054520)
-- [Как начать программировать на C++: обзор бесплатной части курса](https://habr.com/ru/companies/yandex_praktikum/articles/1054242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054242)
+- [Scala Digest. Выпуск 42](https://habr.com/ru/companies/tbank/articles/1054792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054792)
+- [Проектный институт Ставропольского края создал свою BIM-лабораторию с nanoCAD](https://habr.com/ru/companies/nanosoft/articles/1054762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054762)
+- [Защита объектов КИИ: инструкция по выживанию для бизнеса](https://habr.com/ru/companies/bastion/articles/1051990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051990)
+- [Как так вышло, что я люблю свою работу](https://habr.com/ru/articles/1054572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054572)
+- [Я ненавижу AutoMapper](https://habr.com/ru/companies/skbkontur/articles/1052864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052864)
 <!-- BLOG-POST-LIST:END -->
 
 ---
