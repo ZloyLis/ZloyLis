@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему российский бизнес проигрывает битву за информацию и как это исправить. Часть 3](https://habr.com/ru/articles/1055014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055014)
+- [Часть II. Начала дискретной математики. SQL, Комбинаторика, Тервер за 15 минут. SQL, EBNF, XPATH в 480 LOC](https://habr.com/ru/articles/1055010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055010)
 - [Мой первый вайб-кодинг](https://habr.com/ru/articles/1054988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054988)
 - [Как C-level команда за три дня собрала мультиагентного AI-аналитика и выиграла хакатон](https://habr.com/ru/articles/1054978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054978)
 - [Как устроено состояние во Flutter: локальное состояние, данные приложения, InheritedWidget и Provider](https://habr.com/ru/companies/friflex/articles/1054946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054946)
-- [Шаг вперёд на долгом пути: завершили этап «Сканирование» конкурса «Экспедиция. Data Science»](https://habr.com/ru/articles/1054936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054936)
-- [Виртуализация адаптивной Grid разметки](https://habr.com/ru/articles/1054576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054576)
 <!-- BLOG-POST-LIST:END -->
 
 ---
