@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как устроено состояние во Flutter: локальное состояние, данные приложения, InheritedWidget и Provider](https://habr.com/ru/companies/friflex/articles/1054946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054946)
+- [Шаг вперёд на долгом пути: завершили этап «Сканирование» конкурса «Экспедиция. Data Science»](https://habr.com/ru/articles/1054936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054936)
+- [Виртуализация адаптивной Grid разметки](https://habr.com/ru/articles/1054576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054576)
 - [Как мы научили ИИ-агента в JetBrains за минуту настраиваться под чужой проект](https://habr.com/ru/companies/veai/articles/1051420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051420)
 - [Управляющие последовательности &lpar;ANSI&rpar;](https://habr.com/ru/articles/1054876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054876)
-- [Основы Spring security](https://habr.com/ru/articles/1054852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054852)
-- [Авторизация по протоколу OAuth 2.0 в интеграциях](https://habr.com/ru/articles/1054840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054840)
-- [Защита QR сертификатов без сервера: Ed25519, GitHub Pages и ноль &lpar;почти&rpar; ежемесячных затрат](https://habr.com/ru/articles/1054826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054826)
 <!-- BLOG-POST-LIST:END -->
 
 ---
