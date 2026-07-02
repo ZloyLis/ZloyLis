@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Scala Digest. Выпуск 42](https://habr.com/ru/companies/tbank/articles/1054792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054792)
-- [Проектный институт Ставропольского края создал свою BIM-лабораторию с nanoCAD](https://habr.com/ru/companies/nanosoft/articles/1054762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054762)
-- [Защита объектов КИИ: инструкция по выживанию для бизнеса](https://habr.com/ru/companies/bastion/articles/1051990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051990)
-- [Как так вышло, что я люблю свою работу](https://habr.com/ru/articles/1054572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054572)
-- [Я ненавижу AutoMapper](https://habr.com/ru/companies/skbkontur/articles/1052864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052864)
+- [Как мы научили ИИ-агента в JetBrains за минуту настраиваться под чужой проект](https://habr.com/ru/companies/veai/articles/1051420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051420)
+- [Управляющие последовательности &lpar;ANSI&rpar;](https://habr.com/ru/articles/1054876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054876)
+- [Основы Spring security](https://habr.com/ru/articles/1054852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054852)
+- [Авторизация по протоколу OAuth 2.0 в интеграциях](https://habr.com/ru/articles/1054840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054840)
+- [Защита QR сертификатов без сервера: Ed25519, GitHub Pages и ноль &lpar;почти&rpar; ежемесячных затрат](https://habr.com/ru/articles/1054826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054826)
 <!-- BLOG-POST-LIST:END -->
 
 ---
