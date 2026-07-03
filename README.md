@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как я делал компактную библиотеку для создания приложений с графическим интерфейсом на языке C++. Часть-1 — Основы](https://habr.com/ru/articles/1055228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055228)
-- [Почему QA не уменьшает технический долг — и именно поэтому он так важен](https://habr.com/ru/articles/1055226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055226)
-- [Народная карта наличия бензина: честно про цифры, архитектуру и как PostGIS прод положил](https://habr.com/ru/articles/1055216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055216)
-- [[Перевод] Возвращение аспектно-ориентированного программирования](https://habr.com/ru/companies/piter/articles/1055204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055204)
-- [Быстрые и компактные структуры данных для RMQ](https://habr.com/ru/articles/1055008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055008)
+- [Краткий гид по Help Desk системам в 2026: что под капотом у 12 популярных решений](https://habr.com/ru/companies/itarena/articles/1055302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055302)
+- [LSP vs весь стек JetBrains IDE: что получает AI-агент без доступа к платформе IDE](https://habr.com/ru/companies/veai/articles/1055288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055288)
+- [Как я запустил перцептрон на обычном непрограммируемом калькуляторе Casio](https://habr.com/ru/articles/1055284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055284)
+- [Spec-Driven Development на практике: как локальный job-агрегатор живёт без ревьюеров и не ломается](https://habr.com/ru/articles/1055280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055280)
+- [Виды тестирования и с чем их есть](https://habr.com/ru/articles/1055272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055272)
 <!-- BLOG-POST-LIST:END -->
 
 ---
