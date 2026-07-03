@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mini bucket v 3.6.6: Мультиязычность, менеджер переводов и ворох системных исправлений](https://habr.com/ru/articles/1055100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055100)
-- [JetBrains IDE: будущее не за горами](https://habr.com/ru/companies/haulmont/articles/1054434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054434)
-- [[Перевод] Создание кластер-осведомлённого ИИ-агента с Kubernetes, Argo CD и GitOps](https://habr.com/ru/companies/vktech/articles/1054268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054268)
-- [Мобильное тестирование в 2026: от истоков к трендам](https://habr.com/ru/companies/sovcombank_technologies/articles/1053818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053818)
-- [Как пополнить аккаунт Apple ID из России: пошаговая инструкция](https://habr.com/ru/companies/paytool/articles/1055094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055094)
+- [Как я делал компактную библиотеку для создания приложений с графическим интерфейсом на языке C++. Часть-1 — Основы](https://habr.com/ru/articles/1055228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055228)
+- [Почему QA не уменьшает технический долг — и именно поэтому он так важен](https://habr.com/ru/articles/1055226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055226)
+- [Народная карта наличия бензина: честно про цифры, архитектуру и как PostGIS прод положил](https://habr.com/ru/articles/1055216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055216)
+- [[Перевод] Возвращение аспектно-ориентированного программирования](https://habr.com/ru/companies/piter/articles/1055204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055204)
+- [Быстрые и компактные структуры данных для RMQ](https://habr.com/ru/articles/1055008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055008)
 <!-- BLOG-POST-LIST:END -->
 
 ---
