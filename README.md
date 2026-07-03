@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Краткий гид по Help Desk системам в 2026: что под капотом у 12 популярных решений](https://habr.com/ru/companies/itarena/articles/1055302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055302)
-- [LSP vs весь стек JetBrains IDE: что получает AI-агент без доступа к платформе IDE](https://habr.com/ru/companies/veai/articles/1055288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055288)
-- [Как я запустил перцептрон на обычном непрограммируемом калькуляторе Casio](https://habr.com/ru/articles/1055284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055284)
-- [Spec-Driven Development на практике: как локальный job-агрегатор живёт без ревьюеров и не ломается](https://habr.com/ru/articles/1055280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055280)
-- [Виды тестирования и с чем их есть](https://habr.com/ru/articles/1055272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055272)
+- [Новинка: «Инженерия данных. Паттерны проектирования»](https://habr.com/ru/companies/bhv_publishing/articles/1055382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055382)
+- [Закон Брукса: почему нанять ещё людей — худшее решение, когда проект горит](https://habr.com/ru/articles/1055366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055366)
+- [SecretAuth – UX-решение для авторизации посредством приватного ключа](https://habr.com/ru/articles/1055364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055364)
+- [Оптимизация next.js monorepo приложения](https://habr.com/ru/articles/1055360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055360)
+- [Свобода воли, сознание, физика](https://habr.com/ru/articles/1055358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055358)
 <!-- BLOG-POST-LIST:END -->
 
 ---
