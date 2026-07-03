@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Разбираемся в ML без воды: от базы до Attention. Часть 13: Кластеризация и k-means](https://habr.com/ru/articles/1055414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055414)
+- [Узкое место решает всё: как теория ограничений помогает улучшать сложные системы](https://habr.com/ru/companies/avito/articles/1055388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055388)
 - [Новинка: «Инженерия данных. Паттерны проектирования»](https://habr.com/ru/companies/bhv_publishing/articles/1055382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055382)
 - [Закон Брукса: почему нанять ещё людей — худшее решение, когда проект горит](https://habr.com/ru/articles/1055366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055366)
 - [SecretAuth – UX-решение для авторизации посредством приватного ключа](https://habr.com/ru/articles/1055364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055364)
-- [Оптимизация next.js monorepo приложения](https://habr.com/ru/articles/1055360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055360)
-- [Свобода воли, сознание, физика](https://habr.com/ru/articles/1055358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055358)
 <!-- BLOG-POST-LIST:END -->
 
 ---
