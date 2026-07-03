@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [HTTP получил метод QUERY: зачем понадобился безопасный запрос с телом](https://habr.com/ru/articles/1055310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055310)
+- [Словари MDict в закрытом приложении, или зачем я писал RIPEMD-128 вручную](https://habr.com/ru/articles/1055436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055436)
 - [Где ваша методология «цифровизации»? Почему ERP, MES и PLM уже не равны цифровой трансформации](https://habr.com/ru/articles/1055434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055434)
 - [Настройка AI-агентов для ускорения бизнес процессов компании](https://habr.com/ru/articles/1055428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055428)
 - [Subagents в Claude Code](https://habr.com/ru/companies/otus/articles/1054590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054590)
-- [Разбираемся в ML без воды: от базы до Attention. Часть 13: Кластеризация и k-means](https://habr.com/ru/articles/1055414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055414)
-- [Узкое место решает всё: как теория ограничений помогает улучшать сложные системы](https://habr.com/ru/companies/avito/articles/1055388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055388)
 <!-- BLOG-POST-LIST:END -->
 
 ---
