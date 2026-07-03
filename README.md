@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Почему дорогая LLM дороже: экономика инференса, которую видно в твоём 5-часовом лимите](https://habr.com/ru/articles/1055054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055054)
-- [Асинхронность в WebAssembly &lpar;WASM&rpar;](https://habr.com/ru/articles/1055048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055048)
-- [Почему российский бизнес проигрывает битву за информацию и как это исправить. Часть 3](https://habr.com/ru/articles/1055014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055014)
-- [Часть II. Начала дискретной математики. SQL, Комбинаторика, Тервер за 15 минут. SQL, EBNF, XPATH в 480 LOC](https://habr.com/ru/articles/1055010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055010)
-- [Мой первый вайб-кодинг](https://habr.com/ru/articles/1054988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054988)
+- [Mini bucket v 3.6.6: Мультиязычность, менеджер переводов и ворох системных исправлений](https://habr.com/ru/articles/1055100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055100)
+- [JetBrains IDE: будущее не за горами](https://habr.com/ru/companies/haulmont/articles/1054434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054434)
+- [[Перевод] Создание кластер-осведомлённого ИИ-агента с Kubernetes, Argo CD и GitOps](https://habr.com/ru/companies/vktech/articles/1054268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054268)
+- [Мобильное тестирование в 2026: от истоков к трендам](https://habr.com/ru/companies/sovcombank_technologies/articles/1053818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053818)
+- [Как пополнить аккаунт Apple ID из России: пошаговая инструкция](https://habr.com/ru/companies/paytool/articles/1055094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055094)
 <!-- BLOG-POST-LIST:END -->
 
 ---
