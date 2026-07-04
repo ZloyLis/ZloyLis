@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Переоценённый король](https://habr.com/ru/articles/1055592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055592)
+- [Считаем пакеты на Rust](https://habr.com/ru/articles/1055582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055582)
 - [База по системному дизайну для начинающих разработчиков ПО на примере. Часть 1. Анализ задачи, декомпозиция, модули](https://habr.com/ru/articles/1054184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054184)
 - [Как я хакнул рынок труда: пишем свой ИИ-комбайн для автооткликов на HH.ru](https://habr.com/ru/articles/1055530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055530)
 - [Spring Secutiry: начало работы и первые шаги на практике](https://habr.com/ru/articles/1055508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055508)
-- [Как собрать System Context Pack за час](https://habr.com/ru/articles/1055504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055504)
-- [Нужен ли здесь `useEffect`? 12 сценариев из React-код-ревью — от производного состояния до React 19.2](https://habr.com/ru/articles/1055486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055486)
 <!-- BLOG-POST-LIST:END -->
 
 ---
