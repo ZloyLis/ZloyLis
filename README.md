@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Моя идеальная структура заметок уснула. Теперь за порядок отвечает LLM](https://habr.com/ru/articles/1055456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055456)
 - [OSDEV: Itanium ABI часть 1: Array Operator new Cookies](https://habr.com/ru/articles/1053196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053196)
 - [[Перевод] 35 вопросов для собеседований по RL в 2026 году](https://habr.com/ru/articles/1055446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055446)
 - [Картофельный парадокс Нечерноземья: почему урожайность растёт, а полки завалены импортом](https://habr.com/ru/articles/1055442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055442)
 - [Mix Teacher: как я сделал VST3-плагин-помощник для сведения](https://habr.com/ru/articles/1055440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055440)
-- [HTTP получил метод QUERY: зачем понадобился безопасный запрос с телом](https://habr.com/ru/articles/1055310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055310)
 <!-- BLOG-POST-LIST:END -->
 
 ---
