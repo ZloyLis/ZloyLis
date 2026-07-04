@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Secutiry: начало работы и первые шаги на практике](https://habr.com/ru/articles/1055508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055508)
+- [Как собрать System Context Pack за час](https://habr.com/ru/articles/1055504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055504)
 - [Нужен ли здесь `useEffect`? 12 сценариев из React-код-ревью — от производного состояния до React 19.2](https://habr.com/ru/articles/1055486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055486)
 - [[Перевод] Слепые зоны в промптинге: полный гайд по Fable 5](https://habr.com/ru/articles/1055458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055458)
 - [Почему разработчику нужно быть креативным в эпоху ИИ](https://habr.com/ru/companies/yandex_praktikum/articles/1055068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055068)
-- [UISlider изнутри: почему `setValue` не работает во время settle-анимации и как я это обошел](https://habr.com/ru/articles/1055466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055466)
-- [AI Engineer World&#39;s Fair 2026: разбор докладов и куда движется AI-инженерия](https://habr.com/ru/articles/1055370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055370)
 <!-- BLOG-POST-LIST:END -->
 
 ---
