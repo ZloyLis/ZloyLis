@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Моя идеальная структура заметок уснула. Теперь за порядок отвечает LLM](https://habr.com/ru/articles/1055456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055456)
-- [OSDEV: Itanium ABI часть 1: Array Operator new Cookies](https://habr.com/ru/articles/1053196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053196)
-- [[Перевод] 35 вопросов для собеседований по RL в 2026 году](https://habr.com/ru/articles/1055446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055446)
-- [Картофельный парадокс Нечерноземья: почему урожайность растёт, а полки завалены импортом](https://habr.com/ru/articles/1055442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055442)
-- [Mix Teacher: как я сделал VST3-плагин-помощник для сведения](https://habr.com/ru/articles/1055440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055440)
+- [Нужен ли здесь `useEffect`? 12 сценариев из React-код-ревью — от производного состояния до React 19.2](https://habr.com/ru/articles/1055486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055486)
+- [[Перевод] Слепые зоны в промптинге: полный гайд по Fable 5](https://habr.com/ru/articles/1055458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055458)
+- [Почему разработчику нужно быть креативным в эпоху ИИ](https://habr.com/ru/companies/yandex_praktikum/articles/1055068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055068)
+- [UISlider изнутри: почему `setValue` не работает во время settle-анимации и как я это обошел](https://habr.com/ru/articles/1055466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055466)
+- [AI Engineer World&#39;s Fair 2026: разбор докладов и куда движется AI-инженерия](https://habr.com/ru/articles/1055370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055370)
 <!-- BLOG-POST-LIST:END -->
 
 ---
