@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [OSDEV: Itanium ABI часть 1: Array Operator new Cookies](https://habr.com/ru/articles/1053196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053196)
+- [[Перевод] 35 вопросов для собеседований по RL в 2026 году](https://habr.com/ru/articles/1055446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055446)
+- [Картофельный парадокс Нечерноземья: почему урожайность растёт, а полки завалены импортом](https://habr.com/ru/articles/1055442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055442)
+- [Mix Teacher: как я сделал VST3-плагин-помощник для сведения](https://habr.com/ru/articles/1055440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055440)
 - [HTTP получил метод QUERY: зачем понадобился безопасный запрос с телом](https://habr.com/ru/articles/1055310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055310)
-- [Словари MDict в закрытом приложении, или зачем я писал RIPEMD-128 вручную](https://habr.com/ru/articles/1055436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055436)
-- [Где ваша методология «цифровизации»? Почему ERP, MES и PLM уже не равны цифровой трансформации](https://habr.com/ru/articles/1055434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055434)
-- [Настройка AI-агентов для ускорения бизнес процессов компании](https://habr.com/ru/articles/1055428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055428)
-- [Subagents в Claude Code](https://habr.com/ru/companies/otus/articles/1054590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054590)
 <!-- BLOG-POST-LIST:END -->
 
 ---
