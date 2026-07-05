@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как я подключил Claude к Яндекс Директу через MCP и разгрузил утро понедельника](https://habr.com/ru/articles/1055716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055716)
-- [Промпт против скилла: прогнал библиотеку промптов Anthropic и скилл grill-me](https://habr.com/ru/articles/1055714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055714)
-- [Нарисуйте бегемота, а я скажу Вам есть ли у вас шансы стать программистом](https://habr.com/ru/articles/1055696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055696)
-- [Давайте поговорим о доверии и границах](https://habr.com/ru/articles/1054586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054586)
-- [Действительно богатые сообщения в Telegram-ботах: разбираем Rich Messages](https://habr.com/ru/companies/amvera/articles/1055670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055670)
+- [Контракт из кода, клиент из контракта: избавляемся от тройного дублирования в API](https://habr.com/ru/articles/1055764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055764)
+- [Unreal Engine 6 на Verse — это что-то крышесносное](https://habr.com/ru/articles/1055760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055760)
+- [Как я написал сервис для анализа конкурсных списков вузов и моделирования зачисления по приоритетам](https://habr.com/ru/articles/1055754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055754)
+- [[Перевод] Что нового в Swift: Июнь 2026 года](https://habr.com/ru/articles/1055742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055742)
+- [Заметки о том, как я писал SFU на Rust &lpar;1 часть&rpar;](https://habr.com/ru/articles/1055732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055732)
 <!-- BLOG-POST-LIST:END -->
 
 ---
