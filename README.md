@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Taskbar с живыми превью работающих приложений &lpar;олдскул на NET11&rpar;](https://habr.com/ru/articles/1055654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055654)
-- [Mix Hub в свой VST3-плагин: анализ конфликтов между дорожками](https://habr.com/ru/articles/1055648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055648)
-- [Игра проигравшего](https://habr.com/ru/articles/1055578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055578)
-- [GitHub стал однообразнее после появления ChatGPT?](https://habr.com/ru/articles/1055596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055596)
-- [Переоценённый король](https://habr.com/ru/articles/1055592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055592)
+- [Как я подключил Claude к Яндекс Директу через MCP и разгрузил утро понедельника](https://habr.com/ru/articles/1055716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055716)
+- [Промпт против скилла: прогнал библиотеку промптов Anthropic и скилл grill-me](https://habr.com/ru/articles/1055714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055714)
+- [Нарисуйте бегемота, а я скажу Вам есть ли у вас шансы стать программистом](https://habr.com/ru/articles/1055696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055696)
+- [Давайте поговорим о доверии и границах](https://habr.com/ru/articles/1054586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054586)
+- [Действительно богатые сообщения в Telegram-ботах: разбираем Rich Messages](https://habr.com/ru/companies/amvera/articles/1055670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055670)
 <!-- BLOG-POST-LIST:END -->
 
 ---
