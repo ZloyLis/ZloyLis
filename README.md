@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что такое бизнес-способности / business capabilities и зачем они нужны](https://habr.com/ru/articles/1055782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055782)
+- [Мобильная разработка за неделю #637 &lpar;29 июня — 5 июля&rpar;](https://habr.com/ru/articles/1055780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055780)
+- [Российский интернет атакуют](https://habr.com/ru/articles/1055778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055778)
 - [Контракт из кода, клиент из контракта: избавляемся от тройного дублирования в API](https://habr.com/ru/articles/1055764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055764)
 - [Unreal Engine 6 на Verse — это что-то крышесносное](https://habr.com/ru/articles/1055760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055760)
-- [Как я написал сервис для анализа конкурсных списков вузов и моделирования зачисления по приоритетам](https://habr.com/ru/articles/1055754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055754)
-- [[Перевод] Что нового в Swift: Июнь 2026 года](https://habr.com/ru/articles/1055742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055742)
-- [Заметки о том, как я писал SFU на Rust &lpar;1 часть&rpar;](https://habr.com/ru/articles/1055732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055732)
 <!-- BLOG-POST-LIST:END -->
 
 ---
