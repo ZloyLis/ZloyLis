@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как сломать Swift Concurrency](https://habr.com/ru/articles/1055810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055810)
 - [Что такое бизнес-способности / business capabilities и зачем они нужны](https://habr.com/ru/articles/1055782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055782)
 - [Мобильная разработка за неделю #637 &lpar;29 июня — 5 июля&rpar;](https://habr.com/ru/articles/1055780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055780)
 - [Российский интернет атакуют](https://habr.com/ru/articles/1055778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055778)
 - [Контракт из кода, клиент из контракта: избавляемся от тройного дублирования в API](https://habr.com/ru/articles/1055764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055764)
-- [Unreal Engine 6 на Verse — это что-то крышесносное](https://habr.com/ru/articles/1055760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055760)
 <!-- BLOG-POST-LIST:END -->
 
 ---
