@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Taskbar с живыми превью работающих приложений &lpar;олдскул на NET11&rpar;](https://habr.com/ru/articles/1055654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055654)
 - [Mix Hub в свой VST3-плагин: анализ конфликтов между дорожками](https://habr.com/ru/articles/1055648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055648)
 - [Игра проигравшего](https://habr.com/ru/articles/1055578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055578)
 - [GitHub стал однообразнее после появления ChatGPT?](https://habr.com/ru/articles/1055596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055596)
 - [Переоценённый король](https://habr.com/ru/articles/1055592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055592)
-- [Считаем пакеты на Rust](https://habr.com/ru/articles/1055582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055582)
 <!-- BLOG-POST-LIST:END -->
 
 ---
