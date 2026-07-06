@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нас всех заменит ИИ, или как это на самом деле?](https://habr.com/ru/articles/1056256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056256)
 - [Пишем мобильную ОС на Rust. Часть 3. Путь от bare-metal эксперимента к capability-based микроядру](https://habr.com/ru/articles/1056164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056164)
 - [Как я построил систему, внутри которой AI пишет код](https://habr.com/ru/articles/1056162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056162)
 - [Технология ELAM: как детектируются уязвимые драйверы Windows](https://habr.com/ru/articles/1056154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056154)
 - [Системный аналитик 2026: вы всё ещё пишете документацию, но теперь её читает только LLM](https://habr.com/ru/articles/1056124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056124)
-- [Как мы на промышленном предприятии из цеха в офис мост данных строили](https://habr.com/ru/companies/jetinfosystems/articles/1056120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056120)
 <!-- BLOG-POST-LIST:END -->
 
 ---
