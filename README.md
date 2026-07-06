@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пишем мобильную ОС на Rust. Часть 3. Путь от bare-metal эксперимента к capability-based микроядру](https://habr.com/ru/articles/1056164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056164)
+- [Как я построил систему, внутри которой AI пишет код](https://habr.com/ru/articles/1056162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056162)
+- [Технология ELAM: как детектируются уязвимые драйверы Windows](https://habr.com/ru/articles/1056154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056154)
+- [Системный аналитик 2026: вы всё ещё пишете документацию, но теперь её читает только LLM](https://habr.com/ru/articles/1056124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056124)
 - [Как мы на промышленном предприятии из цеха в офис мост данных строили](https://habr.com/ru/companies/jetinfosystems/articles/1056120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056120)
-- [Java Digest #37: что нового в JDK 27, Spring Boot 4.1 и Hibernate 8.0](https://habr.com/ru/companies/tbank/articles/1055892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055892)
-- [KEDA как финансовый гардрейл: scale-to-zero, лимиты реплик и автоскейлинг по событиям в Kubernetes](https://habr.com/ru/companies/finops_ru/articles/1056066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056066)
-- [Умный свет для умных голов: nanoCAD BIM Электро в проектировании электросистем студенческого кампуса](https://habr.com/ru/companies/nanosoft/articles/1056110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056110)
-- [AI‑агенты в проде: как оценивать качество, стоимость и стабильность](https://habr.com/ru/articles/1056104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056104)
 <!-- BLOG-POST-LIST:END -->
 
 ---
