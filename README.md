@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Ограничения целостности с отложенной проверкой в PostgreSQL](https://habr.com/ru/companies/tantor/articles/1055860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055860)
-- [Харнесс, который мы заслужили: как я собираю AI-систему для разработки SaaS &lpar;orca + pi agent&rpar;](https://habr.com/ru/articles/1055856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055856)
-- [Как сломать Swift Concurrency](https://habr.com/ru/articles/1055810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055810)
-- [Что такое бизнес-способности / business capabilities и зачем они нужны](https://habr.com/ru/articles/1055782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055782)
-- [Мобильная разработка за неделю #637 &lpar;29 июня — 5 июля&rpar;](https://habr.com/ru/articles/1055780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055780)
+- [Не просто импортозамещение: что видно по DevOps- и DevSecOps-продуктам с DevOpsConf 2026](https://habr.com/ru/companies/oleg-bunin/articles/1055990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055990)
+- [Два в одном: шумоподавление и дереверберация в реальном времени](https://habr.com/ru/companies/vk/articles/1055874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055874)
+- [[Перевод] Диалоговые потоки в агентном ИИ: чему нас научила эксплуатация таких систем в промышленном масштабе](https://habr.com/ru/articles/1055976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055976)
+- [Если я в чем‑то и опытнее всех, так это в активном поиске работы](https://habr.com/ru/articles/1055966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055966)
+- [Борис Чёрный: уроженец Одессы и создатель Claude Code](https://habr.com/ru/companies/ruvds/articles/1052704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052704)
 <!-- BLOG-POST-LIST:END -->
 
 ---
