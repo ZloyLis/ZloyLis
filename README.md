@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Ограничения целостности с отложенной проверкой в PostgreSQL](https://habr.com/ru/companies/tantor/articles/1055860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055860)
+- [Харнесс, который мы заслужили: как я собираю AI-систему для разработки SaaS &lpar;orca + pi agent&rpar;](https://habr.com/ru/articles/1055856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055856)
 - [Как сломать Swift Concurrency](https://habr.com/ru/articles/1055810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055810)
 - [Что такое бизнес-способности / business capabilities и зачем они нужны](https://habr.com/ru/articles/1055782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055782)
 - [Мобильная разработка за неделю #637 &lpar;29 июня — 5 июля&rpar;](https://habr.com/ru/articles/1055780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055780)
-- [Контракт из кода, клиент из контракта: избавляемся от тройного дублирования в API](https://habr.com/ru/articles/1055764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055764)
-- [Unreal Engine 6 на Verse — это что-то крышесносное](https://habr.com/ru/articles/1055760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055760)
 <!-- BLOG-POST-LIST:END -->
 
 ---
