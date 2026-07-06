@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Не просто импортозамещение: что видно по DevOps- и DevSecOps-продуктам с DevOpsConf 2026](https://habr.com/ru/companies/oleg-bunin/articles/1055990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055990)
-- [Два в одном: шумоподавление и дереверберация в реальном времени](https://habr.com/ru/companies/vk/articles/1055874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055874)
-- [[Перевод] Диалоговые потоки в агентном ИИ: чему нас научила эксплуатация таких систем в промышленном масштабе](https://habr.com/ru/articles/1055976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055976)
-- [Если я в чем‑то и опытнее всех, так это в активном поиске работы](https://habr.com/ru/articles/1055966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055966)
-- [Борис Чёрный: уроженец Одессы и создатель Claude Code](https://habr.com/ru/companies/ruvds/articles/1052704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052704)
+- [Как мы на промышленном предприятии из цеха в офис мост данных строили](https://habr.com/ru/companies/jetinfosystems/articles/1056120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056120)
+- [Java Digest #37: что нового в JDK 27, Spring Boot 4.1 и Hibernate 8.0](https://habr.com/ru/companies/tbank/articles/1055892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055892)
+- [KEDA как финансовый гардрейл: scale-to-zero, лимиты реплик и автоскейлинг по событиям в Kubernetes](https://habr.com/ru/companies/finops_ru/articles/1056066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056066)
+- [Умный свет для умных голов: nanoCAD BIM Электро в проектировании электросистем студенческого кампуса](https://habr.com/ru/companies/nanosoft/articles/1056110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056110)
+- [AI‑агенты в проде: как оценивать качество, стоимость и стабильность](https://habr.com/ru/articles/1056104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056104)
 <!-- BLOG-POST-LIST:END -->
 
 ---
