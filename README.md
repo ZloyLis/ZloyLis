@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Plumix: как я переписываю Flutter на C# — вместе с ИИ](https://habr.com/ru/articles/1056568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056568)
-- [Тренажер Юмора — приложения для обучения шуткам](https://habr.com/ru/articles/1056574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056574)
-- [Angular против React: зарплаты, кризис в IT и почему корпорации остаются на Angular](https://habr.com/ru/articles/1056564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056564)
-- [Как развернуть ТГ-бота на хостинге не выходя из чата с нейронкой](https://habr.com/ru/companies/amvera/articles/1056556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056556)
-- [Параметризованные отчёты в CSV без таймаута](https://habr.com/ru/articles/1056402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056402)
+- [In-memory база врёт: 5 расхождений с продовой БД](https://habr.com/ru/articles/1056684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056684)
+- [Пожалуйста, используйте эти CSS медиа-фукции](https://habr.com/ru/companies/ruvds/articles/1054454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054454)
+- [Figma больше не первый инструмент дизайнера. И это не выбор](https://habr.com/ru/companies/cloud_ru/articles/1055798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055798)
+- [Гибридные команды и агентская память: как мы учимся усиливать людей, а не заменять их](https://habr.com/ru/articles/1056644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056644)
+- [Технический долг — это не только legacy: как мы уменьшаем разброс решений между Go-сервисами](https://habr.com/ru/articles/1056628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056628)
 <!-- BLOG-POST-LIST:END -->
 
 ---
