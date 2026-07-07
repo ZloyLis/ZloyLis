@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ускоряем импорт цен и остатков в 1С-Битрикс: от часов к секундам](https://habr.com/ru/articles/1019126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019126)
-- [18+ инновации + UI](https://habr.com/ru/articles/1056346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056346)
-- [Помочь пользователю открыть новое: как мы боролись с замкнутым кругом рекомендаций в Яндекс Лавке](https://habr.com/ru/companies/yandex/articles/1051044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051044)
-- [Как мы в фронтенд-команде ПСБ прокачали релизный цикл npm-пакетов](https://habr.com/ru/companies/psb/articles/1055888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055888)
-- [Как мы создавали «умный» поиск по регламенту вуза](https://habr.com/ru/articles/1056304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056304)
+- [[Перевод] Проектирование POSTGRES: как задумывалась популярная СУБД](https://habr.com/ru/companies/postgrespro/articles/1056234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056234)
+- [Security Week 2628: опасные уязвимости в библиотеке FatFs](https://habr.com/ru/companies/kaspersky/articles/1055970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055970)
+- [ИИ против авторского права: можно ли обучаться на чужом творчестве?](https://habr.com/ru/articles/1056478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056478)
+- [1038 баллов на Hacker News собрал пост про отказ от AI-кодинга. У меня была та же ночь, но другой вывод](https://habr.com/ru/articles/1056468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056468)
+- [Когда Excel уже не справляется, а BI еще рано: легкий дашборд по выгрузке из 1С](https://habr.com/ru/articles/1056466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056466)
 <!-- BLOG-POST-LIST:END -->
 
 ---
