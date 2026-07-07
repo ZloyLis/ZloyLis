@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Нас всех заменит ИИ, или как это на самом деле?](https://habr.com/ru/articles/1056256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056256)
-- [Пишем мобильную ОС на Rust. Часть 3. Путь от bare-metal эксперимента к capability-based микроядру](https://habr.com/ru/articles/1056164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056164)
-- [Как я построил систему, внутри которой AI пишет код](https://habr.com/ru/articles/1056162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056162)
-- [Технология ELAM: как детектируются уязвимые драйверы Windows](https://habr.com/ru/articles/1056154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056154)
-- [Системный аналитик 2026: вы всё ещё пишете документацию, но теперь её читает только LLM](https://habr.com/ru/articles/1056124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056124)
+- [Ускоряем импорт цен и остатков в 1С-Битрикс: от часов к секундам](https://habr.com/ru/articles/1019126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1019126)
+- [18+ инновации + UI](https://habr.com/ru/articles/1056346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056346)
+- [Помочь пользователю открыть новое: как мы боролись с замкнутым кругом рекомендаций в Яндекс Лавке](https://habr.com/ru/companies/yandex/articles/1051044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051044)
+- [Как мы в фронтенд-команде ПСБ прокачали релизный цикл npm-пакетов](https://habr.com/ru/companies/psb/articles/1055888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055888)
+- [Как мы создавали «умный» поиск по регламенту вуза](https://habr.com/ru/articles/1056304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056304)
 <!-- BLOG-POST-LIST:END -->
 
 ---
