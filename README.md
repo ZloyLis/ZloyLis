@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Проектирование POSTGRES: как задумывалась популярная СУБД](https://habr.com/ru/companies/postgrespro/articles/1056234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056234)
-- [Security Week 2628: опасные уязвимости в библиотеке FatFs](https://habr.com/ru/companies/kaspersky/articles/1055970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055970)
-- [ИИ против авторского права: можно ли обучаться на чужом творчестве?](https://habr.com/ru/articles/1056478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056478)
-- [1038 баллов на Hacker News собрал пост про отказ от AI-кодинга. У меня была та же ночь, но другой вывод](https://habr.com/ru/articles/1056468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056468)
-- [Когда Excel уже не справляется, а BI еще рано: легкий дашборд по выгрузке из 1С](https://habr.com/ru/articles/1056466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056466)
+- [Plumix: как я переписываю Flutter на C# — вместе с ИИ](https://habr.com/ru/articles/1056568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056568)
+- [Тренажер Юмора — приложения для обучения шуткам](https://habr.com/ru/articles/1056574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056574)
+- [Angular против React: зарплаты, кризис в IT и почему корпорации остаются на Angular](https://habr.com/ru/articles/1056564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056564)
+- [Как развернуть ТГ-бота на хостинге не выходя из чата с нейронкой](https://habr.com/ru/companies/amvera/articles/1056556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056556)
+- [Параметризованные отчёты в CSV без таймаута](https://habr.com/ru/articles/1056402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056402)
 <!-- BLOG-POST-LIST:END -->
 
 ---
