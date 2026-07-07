@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ты не найдёшь эту ошибку. Потому что её нет в твоём коде. Как Self-describing API спасает от чужих рефакторингов](https://habr.com/ru/articles/1056692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056692)
+- [std::expected в C++23: гайд по миграции с исключений на функциональный error handling](https://habr.com/ru/companies/otus/articles/1054592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054592)
+- [Spring Security: аутентификация через REST](https://habr.com/ru/articles/1056696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056696)
 - [In-memory база врёт: 5 расхождений с продовой БД](https://habr.com/ru/articles/1056684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056684)
 - [Пожалуйста, используйте эти CSS медиа-фукции](https://habr.com/ru/companies/ruvds/articles/1054454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054454)
-- [Figma больше не первый инструмент дизайнера. И это не выбор](https://habr.com/ru/companies/cloud_ru/articles/1055798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055798)
-- [Гибридные команды и агентская память: как мы учимся усиливать людей, а не заменять их](https://habr.com/ru/articles/1056644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056644)
-- [Технический долг — это не только legacy: как мы уменьшаем разброс решений между Go-сервисами](https://habr.com/ru/articles/1056628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056628)
 <!-- BLOG-POST-LIST:END -->
 
 ---
