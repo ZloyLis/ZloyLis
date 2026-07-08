@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kodacode релиз v1.0. Новая модель Koda pro основанная на GLM 5.2](https://habr.com/ru/companies/koda/articles/1056758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056758)
-- [Как я искал себе читалку и придумал новый формат электронных книг для изучающих язык](https://habr.com/ru/articles/1056940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056940)
-- [Три пульсометра на одном графике: кто из них врёт](https://habr.com/ru/articles/1056938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056938)
-- [Как я подключал к нейросетям своего деда, который распечатывает электронные письма](https://habr.com/ru/articles/1056932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056932)
-- [Разбираемся с лицензией Redis. И что выбрать продуктовой команде](https://habr.com/ru/articles/1056598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056598)
+- [От текста к смыслу: Embeddings, GPT и многомерные векторы в конкурентном анализе мобильных приложений](https://habr.com/ru/companies/garage8/articles/1057100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057100)
+- [OSDEV: Itanium часть 2: One-time Construction API и сигнлтоны Майерса](https://habr.com/ru/articles/1055604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055604)
+- [Каким инструментам разработки невозможно научиться по тьюториалам?](https://habr.com/ru/companies/yandex_praktikum/articles/1056622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056622)
+- [Ваш бот всё ещё дёргает Telegram каждую секунду? Чиним архитектуру: вебхуки на FastAPI в контейнере](https://habr.com/ru/articles/1057016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057016)
+- [Дизайнеры не должны договариваться о том, как оформлять макеты. Как мы сформировали дизайн-стандарт](https://habr.com/ru/companies/cloud_ru/articles/1056642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056642)
 <!-- BLOG-POST-LIST:END -->
 
 ---
