@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [От текста к смыслу: Embeddings, GPT и многомерные векторы в конкурентном анализе мобильных приложений](https://habr.com/ru/companies/garage8/articles/1057100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057100)
-- [OSDEV: Itanium часть 2: One-time Construction API и сигнлтоны Майерса](https://habr.com/ru/articles/1055604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055604)
-- [Каким инструментам разработки невозможно научиться по тьюториалам?](https://habr.com/ru/companies/yandex_praktikum/articles/1056622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056622)
-- [Ваш бот всё ещё дёргает Telegram каждую секунду? Чиним архитектуру: вебхуки на FastAPI в контейнере](https://habr.com/ru/articles/1057016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057016)
-- [Дизайнеры не должны договариваться о том, как оформлять макеты. Как мы сформировали дизайн-стандарт](https://habr.com/ru/companies/cloud_ru/articles/1056642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056642)
+- [Как я сделал народную карту АЗС и тестирую HTML-on-Wire библиотеку](https://habr.com/ru/articles/1057182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057182)
+- [OpenAI Realtime против Яндекс Realtime: сравнил два голосовых движка для России и за вечер пересадил свой прод](https://habr.com/ru/articles/1057176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057176)
+- [Хотел написать регулятор для руфтопа. Пришлось решать дифференциальные уравнения](https://habr.com/ru/articles/1057154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057154)
+- [Как мы подружили динамические тесты JUnit 5 с Госуслугами](https://habr.com/ru/companies/rtlabs/articles/1056672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056672)
+- [Монитор для отслеживания упоминаний бренда на сторонних площадках](https://habr.com/ru/articles/1057142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057142)
 <!-- BLOG-POST-LIST:END -->
 
 ---
