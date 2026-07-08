@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Вайб-кодинг без розовых очков: как я писала свой продукт с Claude](https://habr.com/ru/articles/1057200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057200)
 - [Как я сделал народную карту АЗС и тестирую HTML-on-Wire библиотеку](https://habr.com/ru/articles/1057182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057182)
 - [OpenAI Realtime против Яндекс Realtime: сравнил два голосовых движка для России и за вечер пересадил свой прод](https://habr.com/ru/articles/1057176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057176)
 - [Хотел написать регулятор для руфтопа. Пришлось решать дифференциальные уравнения](https://habr.com/ru/articles/1057154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057154)
 - [Как мы подружили динамические тесты JUnit 5 с Госуслугами](https://habr.com/ru/companies/rtlabs/articles/1056672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056672)
-- [Монитор для отслеживания упоминаний бренда на сторонних площадках](https://habr.com/ru/articles/1057142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057142)
 <!-- BLOG-POST-LIST:END -->
 
 ---
