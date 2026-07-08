@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Запускаем маленькую языковую модель на Symbian^3](https://habr.com/ru/companies/selectel/articles/1051354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051354)
-- [Когда продукт «готов»? Мы обречены на вечный допил?](https://habr.com/ru/articles/1056826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056826)
-- [Режим киоска в «Аврора Центр»: устройство под рабочую задачу](https://habr.com/ru/companies/rostelecom/articles/1056818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056818)
-- [Почему дети бросают курсы через месяц и как этого избежать](https://habr.com/ru/companies/habr_career/articles/1056816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056816)
-- [Техническая поддержка: ключевые метрики и тренды 2026–2027](https://habr.com/ru/articles/1056554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056554)
+- [Kodacode релиз v1.0. Новая модель Koda pro основанная на GLM 5.2](https://habr.com/ru/companies/koda/articles/1056758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056758)
+- [Как я искал себе читалку и придумал новый формат электронных книг для изучающих язык](https://habr.com/ru/articles/1056940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056940)
+- [Три пульсометра на одном графике: кто из них врёт](https://habr.com/ru/articles/1056938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056938)
+- [Как я подключал к нейросетям своего деда, который распечатывает электронные письма](https://habr.com/ru/articles/1056932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056932)
+- [Разбираемся с лицензией Redis. И что выбрать продуктовой команде](https://habr.com/ru/articles/1056598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056598)
 <!-- BLOG-POST-LIST:END -->
 
 ---
