@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Когда может пригодиться экзотика в ООП: миксины/трейты/аспекты](https://habr.com/ru/articles/1056780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056780)
-- [Пускать нельзя блокировать: приносят ли ИИ-чат боты клиентов на Ваш сайт? Как ИИ ассистенты посещают сайт…](https://habr.com/ru/articles/1056760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056760)
-- [std::expected в C++23: гайд по миграции с исключений на функциональный error handling](https://habr.com/ru/companies/otus/articles/1054592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054592)
-- [Spring Security: аутентификация через REST](https://habr.com/ru/articles/1056696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056696)
-- [In-memory база врёт: 5 расхождений с продовой БД](https://habr.com/ru/articles/1056684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056684)
+- [Запускаем маленькую языковую модель на Symbian^3](https://habr.com/ru/companies/selectel/articles/1051354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051354)
+- [Когда продукт «готов»? Мы обречены на вечный допил?](https://habr.com/ru/articles/1056826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056826)
+- [Режим киоска в «Аврора Центр»: устройство под рабочую задачу](https://habr.com/ru/companies/rostelecom/articles/1056818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056818)
+- [Почему дети бросают курсы через месяц и как этого избежать](https://habr.com/ru/companies/habr_career/articles/1056816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056816)
+- [Техническая поддержка: ключевые метрики и тренды 2026–2027](https://habr.com/ru/articles/1056554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056554)
 <!-- BLOG-POST-LIST:END -->
 
 ---
