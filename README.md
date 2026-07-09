@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Я пытался составить карту математики и случайно понял, как устроена Вселанная](https://habr.com/ru/articles/1057212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057212)
-- [От промптов к циклам: как давать AI‑агенту проверяемые задачи](https://habr.com/ru/articles/1057152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057152)
-- [Почему я не подпишу CLA для OpenSource](https://habr.com/ru/articles/1057238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057238)
-- [TMP Postgresso #5 &lpar;90&rpar;](https://habr.com/ru/companies/postgrespro/articles/1040216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040216)
-- [Депеши, карточки и паранойя: мой опыт скрещивания Waterfall и Agile в проекте для РЖД. Часть первая](https://habr.com/ru/articles/1057106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057106)
+- [PRD для AI-фичи в 2026 году: что класть в спецификацию помимо привычных user stories](https://habr.com/ru/companies/otus/articles/1054610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054610)
+- [[Перевод] Вышел TypScript 7.0](https://habr.com/ru/articles/1057560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057560)
+- [Обзор библиотеки pravosleva/reactive-engine: Создаем предсказуемый реактивный граф вычислений](https://habr.com/ru/articles/1057558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057558)
+- [Цена скорости: почему анализ — не гарантия «спасения», и что с этим делать](https://habr.com/ru/articles/1057510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057510)
+- [JSX для Go: как маленькая разметка потянула за собой рантайм, компилятор и кучу компромиссов](https://habr.com/ru/articles/1057508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057508)
 <!-- BLOG-POST-LIST:END -->
 
 ---
