@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [PRD для AI-фичи в 2026 году: что класть в спецификацию помимо привычных user stories](https://habr.com/ru/companies/otus/articles/1054610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054610)
-- [[Перевод] Вышел TypScript 7.0](https://habr.com/ru/articles/1057560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057560)
-- [Обзор библиотеки pravosleva/reactive-engine: Создаем предсказуемый реактивный граф вычислений](https://habr.com/ru/articles/1057558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057558)
-- [Цена скорости: почему анализ — не гарантия «спасения», и что с этим делать](https://habr.com/ru/articles/1057510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057510)
-- [JSX для Go: как маленькая разметка потянула за собой рантайм, компилятор и кучу компромиссов](https://habr.com/ru/articles/1057508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057508)
+- [Как мы съездили в Японию и запустили Пополаму — сервис, который знает кто кому должен](https://habr.com/ru/articles/1057626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057626)
+- [archcheck — на страже архитектуры C++](https://habr.com/ru/articles/1057624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057624)
+- [Контекстная инженерия: что это такое, как работать с контекстом и почему за это начали платить](https://habr.com/ru/companies/netologyru/articles/1052454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052454)
+- [Чат для сложных продаж: YandexGPT и звонки через МТС Exolve Web Voice SDK](https://habr.com/ru/companies/exolve/articles/1056706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056706)
+- [Писать свои инструменты лучший способ изучить CAN-шину](https://habr.com/ru/articles/1055770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055770)
 <!-- BLOG-POST-LIST:END -->
 
 ---
