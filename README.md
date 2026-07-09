@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Сокращаем длительность компиляции проекта на Rust c 30 до 2 минут — пример с 1000 крейтов](https://habr.com/ru/articles/1057666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057666)
+- [Мне надоело писать один и тот же код. Поэтому я сделал Featuregen](https://habr.com/ru/articles/1056776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056776)
+- [Можно ли продвигать коммерческий сайт на Tilda в 2026 году](https://habr.com/ru/articles/1057660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057660)
+- [Атомарные регулярные выражения](https://habr.com/ru/articles/1057658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057658)
 - [Как мы съездили в Японию и запустили Пополаму — сервис, который знает кто кому должен](https://habr.com/ru/articles/1057626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057626)
-- [archcheck — на страже архитектуры C++](https://habr.com/ru/articles/1057624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057624)
-- [Контекстная инженерия: что это такое, как работать с контекстом и почему за это начали платить](https://habr.com/ru/companies/netologyru/articles/1052454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052454)
-- [Чат для сложных продаж: YandexGPT и звонки через МТС Exolve Web Voice SDK](https://habr.com/ru/companies/exolve/articles/1056706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056706)
-- [Писать свои инструменты лучший способ изучить CAN-шину](https://habr.com/ru/articles/1055770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055770)
 <!-- BLOG-POST-LIST:END -->
 
 ---
