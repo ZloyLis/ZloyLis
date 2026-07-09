@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему я не подпишу CLA для OpenSource](https://habr.com/ru/articles/1057238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057238)
 - [TMP Postgresso #5 &lpar;90&rpar;](https://habr.com/ru/companies/postgrespro/articles/1040216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040216)
 - [Депеши, карточки и паранойя: мой опыт скрещивания Waterfall и Agile в проекте для РЖД. Часть первая](https://habr.com/ru/articles/1057106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057106)
 - [Вайб-кодинг без розовых очков: как я писала свой продукт с Claude](https://habr.com/ru/articles/1057200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057200)
 - [Как я сделал народную карту АЗС и тестирую HTML-on-Wire библиотеку](https://habr.com/ru/articles/1057182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057182)
-- [OpenAI Realtime против Яндекс Realtime: сравнил два голосовых движка для России и за вечер пересадил свой прод](https://habr.com/ru/articles/1057176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057176)
 <!-- BLOG-POST-LIST:END -->
 
 ---
