@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [История JavaScript: браузерные войны, ECMAScript, Node.js, TypeScript, React](https://habr.com/ru/companies/pvs-studio/articles/1057734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057734)
-- [Кровь. Деньги. Метрики: Как мы переосмыслили RFM-анализ для классификации доноров крови](https://habr.com/ru/companies/yandex_praktikum/articles/1055208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055208)
-- [Миграция с Flutter Web на Jaspr: наш опыт](https://habr.com/ru/articles/1057654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057654)
-- [[Перевод] GPT-5.6: передовой интеллект, который растёт вместе с вашими амбициями](https://habr.com/ru/articles/1057684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057684)
-- [[Перевод] Сокращаем длительность компиляции проекта на Rust c 30 до 2 минут — пример с 1000 крейтов](https://habr.com/ru/articles/1057666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057666)
+- [Как научить LLM-агента спрашивать Яндекс Метрику: разбираем протокол MCP и OAuth-авторизацию без секрета](https://habr.com/ru/articles/1057864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057864)
+- [Мне было лень учиться, и я навайбкодил себе платформу для обучения](https://habr.com/ru/articles/1057840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057840)
+- [[Перевод] TypeScript 7.0 — самое радикальное обновление за 10 лет](https://habr.com/ru/companies/haulmont/articles/1057526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057526)
+- [От рутинных операций к интеллектуальным инструментам: видеокурс по API nanoCAD BIM Строительство](https://habr.com/ru/companies/nanosoft/articles/1057820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057820)
+- [Как стать продуктовым маркетологом в IT и сколько можно зарабатывать](https://habr.com/ru/companies/habr_career/articles/1057800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057800)
 <!-- BLOG-POST-LIST:END -->
 
 ---
