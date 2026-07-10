@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Silicon Office: превратил свою команду ИИ-агентов в пиксельный офис из «Кремниевой долины»](https://habr.com/ru/articles/1057690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057690)
 - [[Перевод] GPT-5.6: передовой интеллект, который растёт вместе с вашими амбициями](https://habr.com/ru/articles/1057684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057684)
 - [[Перевод] Сокращаем длительность компиляции проекта на Rust c 30 до 2 минут — пример с 1000 крейтов](https://habr.com/ru/articles/1057666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057666)
 - [Мне надоело писать один и тот же код. Поэтому я сделал Featuregen](https://habr.com/ru/articles/1056776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056776)
 - [Можно ли продвигать коммерческий сайт на Tilda в 2026 году](https://habr.com/ru/articles/1057660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057660)
-- [Атомарные регулярные выражения](https://habr.com/ru/articles/1057658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057658)
 <!-- BLOG-POST-LIST:END -->
 
 ---
