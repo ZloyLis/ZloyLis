@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как научить LLM-агента спрашивать Яндекс Метрику: разбираем протокол MCP и OAuth-авторизацию без секрета](https://habr.com/ru/articles/1057864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057864)
-- [Мне было лень учиться, и я навайбкодил себе платформу для обучения](https://habr.com/ru/articles/1057840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057840)
-- [[Перевод] TypeScript 7.0 — самое радикальное обновление за 10 лет](https://habr.com/ru/companies/haulmont/articles/1057526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057526)
-- [От рутинных операций к интеллектуальным инструментам: видеокурс по API nanoCAD BIM Строительство](https://habr.com/ru/companies/nanosoft/articles/1057820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057820)
-- [Как стать продуктовым маркетологом в IT и сколько можно зарабатывать](https://habr.com/ru/companies/habr_career/articles/1057800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057800)
+- [Как оценивать работу специалиста, отвечающего за автотесты, метрики и KPI?](https://habr.com/ru/companies/simbirsoft/articles/1057952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057952)
+- [Как подружить Urovo DT40 Pro &lpar;он же CT48&rpar; с «Магазином 15»](https://habr.com/ru/articles/1057946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057946)
+- [Error messages in UX: how to make them effective and user-friendly](https://habr.com/ru/articles/1057944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057944)
+- [От Anthropic Cores к 4 слоям: Enterprise AI Harness на open source](https://habr.com/ru/articles/1057942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057942)
+- [«Мы начали принимать стратегические решения на основе данных»: интервью c АО «Полиэкс» и GlowByte о внедрении PIX BI](https://habr.com/ru/companies/glowbyte/articles/1057910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057910)
 <!-- BLOG-POST-LIST:END -->
 
 ---
