@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как оценивать работу специалиста, отвечающего за автотесты, метрики и KPI?](https://habr.com/ru/companies/simbirsoft/articles/1057952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057952)
-- [Как подружить Urovo DT40 Pro &lpar;он же CT48&rpar; с «Магазином 15»](https://habr.com/ru/articles/1057946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057946)
-- [Error messages in UX: how to make them effective and user-friendly](https://habr.com/ru/articles/1057944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057944)
-- [От Anthropic Cores к 4 слоям: Enterprise AI Harness на open source](https://habr.com/ru/articles/1057942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057942)
-- [«Мы начали принимать стратегические решения на основе данных»: интервью c АО «Полиэкс» и GlowByte о внедрении PIX BI](https://habr.com/ru/companies/glowbyte/articles/1057910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057910)
+- [API gateway и управление API в России 2026: сравнение NEOMSA, Platform V Synapse, MWS Octapi](https://habr.com/ru/companies/neoflex/articles/1058006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058006)
+- [Конвейер из 10 агентов без строчки кода: три промпта, 40 минут и прогон при зале](https://habr.com/ru/articles/1057992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057992)
+- [1002 хендоффа за 60 дней: как я собрал шину координации для 12 Claude-агентов](https://habr.com/ru/articles/1057980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057980)
+- [Масштабируй! Почему Cassandra 5 стала спасением, а FoundationDB прилегла в чулан](https://habr.com/ru/companies/avito/articles/1056986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056986)
+- [Конвертируем цвета в JS со скоростью 6 миллиардов операций в секунду](https://habr.com/ru/articles/1057978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057978)
 <!-- BLOG-POST-LIST:END -->
 
 ---
