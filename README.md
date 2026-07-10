@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ и автотесты: как поймать ложную зелёную галочку?](https://habr.com/ru/companies/otus/articles/1047068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047068)
+- [Умный планировщик питания на холодильнике с drag-and-drop, автосохранением сессий и вкусным и полезным продуктовым меню](https://habr.com/ru/articles/1058020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058020)
 - [API gateway и управление API в России 2026: сравнение NEOMSA, Platform V Synapse, MWS Octapi](https://habr.com/ru/companies/neoflex/articles/1058006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058006)
 - [Конвейер из 10 агентов без строчки кода: три промпта, 40 минут и прогон при зале](https://habr.com/ru/articles/1057992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057992)
 - [1002 хендоффа за 60 дней: как я собрал шину координации для 12 Claude-агентов](https://habr.com/ru/articles/1057980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057980)
-- [Масштабируй! Почему Cassandra 5 стала спасением, а FoundationDB прилегла в чулан](https://habr.com/ru/companies/avito/articles/1056986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056986)
-- [Конвертируем цвета в JS со скоростью 6 миллиардов операций в секунду](https://habr.com/ru/articles/1057978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057978)
 <!-- BLOG-POST-LIST:END -->
 
 ---
