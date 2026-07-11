@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Yet another Rust VPN &lpar;TUN-QUIC-TUN&rpar;](https://habr.com/ru/articles/1058104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058104)
+- [Новая версия языка разметки текстов Markvan](https://habr.com/ru/articles/1058100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058100)
+- [Как я превратил Apple Studio Display в игровой монитор для Switch, Steam Deck и Xbox](https://habr.com/ru/articles/1046245/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046245)
 - [Сказ про Лукаса-героя да про Postgres и Timescale: SA и его необычная задача](https://habr.com/ru/companies/ru_mts/articles/1058054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058054)
 - [Теория относительности — это синус. Мнимого угла](https://habr.com/ru/articles/1052770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052770)
-- [Браузерная игра на Kotlin: практический обзор KorGE](https://habr.com/ru/articles/1057966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057966)
-- [Что такое код на самом деле? И почему он &lpar;не&rpar; нужен?](https://habr.com/ru/articles/1058046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058046)
-- [ИИ и автотесты: как поймать ложную зелёную галочку?](https://habr.com/ru/companies/otus/articles/1047068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047068)
 <!-- BLOG-POST-LIST:END -->
 
 ---
