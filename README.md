@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сказ про Лукаса-героя да про Postgres и Timescale: SA и его необычная задача](https://habr.com/ru/companies/ru_mts/articles/1058054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058054)
+- [Теория относительности — это синус. Мнимого угла](https://habr.com/ru/articles/1052770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052770)
 - [Браузерная игра на Kotlin: практический обзор KorGE](https://habr.com/ru/articles/1057966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057966)
 - [Что такое код на самом деле? И почему он &lpar;не&rpar; нужен?](https://habr.com/ru/articles/1058046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058046)
 - [ИИ и автотесты: как поймать ложную зелёную галочку?](https://habr.com/ru/companies/otus/articles/1047068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047068)
-- [Умный планировщик питания на холодильнике с drag-and-drop, автосохранением сессий и вкусным и полезным продуктовым меню](https://habr.com/ru/articles/1058020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058020)
-- [API gateway и управление API в России 2026: сравнение NEOMSA, Platform V Synapse, MWS Octapi](https://habr.com/ru/companies/neoflex/articles/1058006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058006)
 <!-- BLOG-POST-LIST:END -->
 
 ---
