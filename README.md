@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Бенчмаркая foreach и энумераторы: аллокации, которые прятались 10 лет](https://habr.com/ru/articles/1058160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058160)
 - [Postgres community events. Не пора ли начать использовать возможности цифровизации?](https://habr.com/ru/companies/tantor/articles/1058146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058146)
 - [Полный разбор схемотехники кнопочного телефона. Samsung C100 — маленькое чудо корейской инженерной мысли](https://habr.com/ru/companies/timeweb/articles/1056496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056496)
 - [Yet another Rust VPN &lpar;TUN-QUIC-TUN&rpar;](https://habr.com/ru/articles/1058104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058104)
 - [Новая версия языка разметки текстов Markvan](https://habr.com/ru/articles/1058100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058100)
-- [Как я превратил Apple Studio Display в игровой монитор для Switch, Steam Deck и Xbox](https://habr.com/ru/articles/1046245/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046245)
 <!-- BLOG-POST-LIST:END -->
 
 ---
