@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Беннетт Фодди объяснил, как в Getting Over It работает молот](https://habr.com/ru/articles/1058204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058204)
 - [Как Яндекс.Навигатор может вести водителей в никуда или в туда, но не туда](https://habr.com/ru/articles/1051600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051600)
 - [Слишком просто, чтобы быть правдой? GPT-5.6 выдал доказательство 50-летней математической гипотезы](https://habr.com/ru/articles/1058194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058194)
 - [Как они поглотили финансовую систему](https://habr.com/ru/articles/1058122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058122)
 - [Бенчмаркая foreach и энумераторы: аллокации, которые прятались 10 лет](https://habr.com/ru/articles/1058160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058160)
-- [Postgres community events. Не пора ли начать использовать возможности цифровизации?](https://habr.com/ru/companies/tantor/articles/1058146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058146)
 <!-- BLOG-POST-LIST:END -->
 
 ---
