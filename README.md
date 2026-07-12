@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Единственный нормальный детектор копипасты требовал JVM. Поэтому я написал свой](https://habr.com/ru/articles/1058364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058364)
+- [Корпоративная библиотека как система: Как мы выстраивали архитектуру знаний для нашей IT-команды и что из этого вышло?](https://habr.com/ru/companies/alpinadigital/articles/1058378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058378)
 - [Как я строю и строю и строю свой продукт. И что уже вышло](https://habr.com/ru/articles/1058356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058356)
 - [Профилировщик CMS-движков для вебстудий](https://habr.com/ru/articles/1058322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058322)
 - [Выбираем лучшую нейросеть для видео 2026](https://habr.com/ru/companies/bothub/articles/1058144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058144)
-- [Локализация уже скомпилированных React компонентов в node_modules](https://habr.com/ru/articles/1058286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058286)
-- [Товароучёт + Честный Знак: как написать свое ПО для работы с маркировкой настольных игр](https://habr.com/ru/articles/1058282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058282)
 <!-- BLOG-POST-LIST:END -->
 
 ---
