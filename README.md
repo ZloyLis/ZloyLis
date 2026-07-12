@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как я делал свой продукт, совмещая это с работой в найме](https://habr.com/ru/articles/1058214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058214)
+- [Локализация уже скомпилированных React компонентов в node_modules](https://habr.com/ru/articles/1058286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058286)
+- [Товароучёт + Честный Знак: как написать свое ПО для работы с маркировкой настольных игр](https://habr.com/ru/articles/1058282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058282)
+- [Как я строил свой продукт, не увольняясь из найма. И что из этого вышло](https://habr.com/ru/articles/1058214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058214)
 - [Мобильная разработка за неделю #638 &lpar;6 — 12 июля&rpar;](https://habr.com/ru/articles/1058244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058244)
 - [Геометрическая динамика: пространство ускорений как решение задачи трех тел](https://habr.com/ru/articles/1058236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058236)
-- [Свой AI-прокси на Java: как я пытался подключиться к Gemini](https://habr.com/ru/articles/1058206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058206)
-- [Беннетт Фодди объяснил, как в Getting Over It работает молот](https://habr.com/ru/articles/1058204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058204)
 <!-- BLOG-POST-LIST:END -->
 
 ---
