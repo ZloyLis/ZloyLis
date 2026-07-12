@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная разработка за неделю #638 &lpar;6 — 12 июля&rpar;](https://habr.com/ru/articles/1058244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058244)
+- [Геометрическая динамика: пространство ускорений как решение задачи трех тел](https://habr.com/ru/articles/1058236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058236)
 - [Свой AI-прокси на Java: как я пытался подключиться к Gemini](https://habr.com/ru/articles/1058206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058206)
 - [Беннетт Фодди объяснил, как в Getting Over It работает молот](https://habr.com/ru/articles/1058204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058204)
 - [Как Яндекс.Навигатор может вести водителей в никуда или в туда, но не туда](https://habr.com/ru/articles/1051600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051600)
-- [Слишком просто, чтобы быть правдой? GPT-5.6 выдал доказательство 50-летней математической гипотезы](https://habr.com/ru/articles/1058194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058194)
-- [Как они поглотили финансовую систему](https://habr.com/ru/articles/1058122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058122)
 <!-- BLOG-POST-LIST:END -->
 
 ---
