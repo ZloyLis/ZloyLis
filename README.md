@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я строю и строю и строю свой продукт. И что уже вышло](https://habr.com/ru/articles/1058356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058356)
 - [Профилировщик CMS-движков для вебстудий](https://habr.com/ru/articles/1058322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058322)
 - [Выбираем лучшую нейросеть для видео 2026](https://habr.com/ru/companies/bothub/articles/1058144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058144)
 - [Локализация уже скомпилированных React компонентов в node_modules](https://habr.com/ru/articles/1058286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058286)
 - [Товароучёт + Честный Знак: как написать свое ПО для работы с маркировкой настольных игр](https://habr.com/ru/articles/1058282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058282)
-- [Я делал свой продукт, пока работал в найме — и вот что получилось](https://habr.com/ru/articles/1058214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058214)
 <!-- BLOG-POST-LIST:END -->
 
 ---
