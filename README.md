@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Скрипач не нужен или ИИ как инструмент разработчика](https://habr.com/ru/companies/ispsystem/articles/1058392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058392)
-- [С нуля до Junior DevOps в 2026 году. Часть 3. Git и GitHub](https://habr.com/ru/articles/1058380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058380)
-- [Единственный нормальный детектор копипасты требовал JVM. Поэтому я написал свой](https://habr.com/ru/articles/1058364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058364)
-- [Корпоративная библиотека как система: Как мы выстраивали архитектуру знаний для нашей IT-команды и что из этого вышло?](https://habr.com/ru/companies/alpinadigital/articles/1058378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058378)
-- [Как я строю и строю и строю свой продукт. И что уже вышло](https://habr.com/ru/articles/1058356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058356)
+- [Как я подружил self-hosted Supabase с VictoriaMetrics, VictoriaLogs, Grafana и Vector](https://habr.com/ru/articles/1057950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057950)
+- [Реализация TUN GSO в кастомном VPN-сервере на Java](https://habr.com/ru/articles/1058404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058404)
+- [Жизненный цикл API-токенов: От генерации до компрометации](https://habr.com/ru/articles/1058318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058318)
+- [Сохраняем push-уведомления в память телефона: полный гайд для React Native](https://habr.com/ru/articles/1040570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040570)
+- [DOFAMINE JAVA BAR](https://habr.com/ru/articles/1057818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057818)
 <!-- BLOG-POST-LIST:END -->
 
 ---
