@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Выгрузка данных из модели и оформление табличных отчетов в nanoCAD BIM Строительство](https://habr.com/ru/companies/nanosoft/articles/1058650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058650)
-- [Почему хороший результат в разработке с ИИ начинается не с промпта](https://habr.com/ru/companies/yandex_praktikum/articles/1058010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058010)
-- [Take — минимальная система сборки на C++ с конфигом на TOML вместо Makefile](https://habr.com/ru/articles/1058644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058644)
-- [За пределами QNetworkAccessManager: проектируем типобезопасный HTTP Runtime для Qt на C++20](https://habr.com/ru/articles/1058640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058640)
-- [Особенности альфа-распада плутония-239 в Антарктиде](https://habr.com/ru/articles/1058628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058628)
+- [Надоело замазывать куски экранов? Расширение, которое блюрит личные данные на лету](https://habr.com/ru/articles/1058742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058742)
+- [Что внутри JDBC: архитектура, объектная модель и Driver/SPI](https://habr.com/ru/articles/1058080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058080)
+- [Как я в одиночку сделал мобильную игру на iOS — LootShrine](https://habr.com/ru/articles/1058732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058732)
+- [Как я сделала отчет о дифференциальном тестировании через Cursor](https://habr.com/ru/articles/1058722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058722)
+- [Советник Claude Code каждый раз напоминает о «сути проекта» — как писать CLAUDE.md с учетом официальной спецификации](https://habr.com/ru/articles/1058718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058718)
 <!-- BLOG-POST-LIST:END -->
 
 ---
