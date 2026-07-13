@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Week 2629: 16-летняя уязвимость в гипервизоре Linux KVM](https://habr.com/ru/companies/kaspersky/articles/1058592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058592)
 - [Надоело замазывать куски экранов? Расширение, которое блюрит личные данные на лету](https://habr.com/ru/articles/1058742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058742)
 - [Что внутри JDBC: архитектура, объектная модель и Driver/SPI](https://habr.com/ru/articles/1058080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058080)
 - [Как я в одиночку сделал мобильную игру на iOS — LootShrine](https://habr.com/ru/articles/1058732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058732)
 - [Как я сделала отчет о дифференциальном тестировании через Cursor](https://habr.com/ru/articles/1058722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058722)
-- [Советник Claude Code каждый раз напоминает о «сути проекта» — как писать CLAUDE.md с учетом официальной спецификации](https://habr.com/ru/articles/1058718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058718)
 <!-- BLOG-POST-LIST:END -->
 
 ---
