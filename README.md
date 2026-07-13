@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как я подружил self-hosted Supabase с VictoriaMetrics, VictoriaLogs, Grafana и Vector](https://habr.com/ru/articles/1057950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057950)
-- [Реализация TUN GSO в кастомном VPN-сервере на Java](https://habr.com/ru/articles/1058404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058404)
-- [Жизненный цикл API-токенов: От генерации до компрометации](https://habr.com/ru/articles/1058318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058318)
-- [Сохраняем push-уведомления в память телефона: полный гайд для React Native](https://habr.com/ru/articles/1040570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040570)
-- [DOFAMINE JAVA BAR](https://habr.com/ru/articles/1057818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057818)
+- [Создаём DSL на C#: Добавляем семантику](https://habr.com/ru/articles/1058512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058512)
+- [TypeScript 7 перенесли на Go. Проверяем, действительно ли он быстрее в десять раз](https://habr.com/ru/articles/1057640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057640)
+- [Использование mise для установки зависимостей при андроид-разработке](https://habr.com/ru/articles/1058494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058494)
+- [Кейс с артистами: дедупликация пользователей в базе данных и сохранение связанных с ними записей](https://habr.com/ru/articles/1058264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058264)
+- [Что такое View в SwiftUI](https://habr.com/ru/articles/1058488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058488)
 <!-- BLOG-POST-LIST:END -->
 
 ---
