@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Создаём DSL на C#: Добавляем семантику](https://habr.com/ru/articles/1058512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058512)
-- [TypeScript 7 перенесли на Go. Проверяем, действительно ли он быстрее в десять раз](https://habr.com/ru/articles/1057640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057640)
-- [Использование mise для установки зависимостей при андроид-разработке](https://habr.com/ru/articles/1058494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058494)
-- [Кейс с артистами: дедупликация пользователей в базе данных и сохранение связанных с ними записей](https://habr.com/ru/articles/1058264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058264)
-- [Что такое View в SwiftUI](https://habr.com/ru/articles/1058488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058488)
+- [Выгрузка данных из модели и оформление табличных отчетов в nanoCAD BIM Строительство](https://habr.com/ru/companies/nanosoft/articles/1058650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058650)
+- [Почему хороший результат в разработке с ИИ начинается не с промпта](https://habr.com/ru/companies/yandex_praktikum/articles/1058010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058010)
+- [Take — минимальная система сборки на C++ с конфигом на TOML вместо Makefile](https://habr.com/ru/articles/1058644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058644)
+- [За пределами QNetworkAccessManager: проектируем типобезопасный HTTP Runtime для Qt на C++20](https://habr.com/ru/articles/1058640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058640)
+- [Особенности альфа-распада плутония-239 в Антарктиде](https://habr.com/ru/articles/1058628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058628)
 <!-- BLOG-POST-LIST:END -->
 
 ---
