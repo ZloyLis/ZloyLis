@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Скрипач не нужен или ИИ как инструмент разработчика](https://habr.com/ru/companies/ispsystem/articles/1058392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058392)
 - [С нуля до Junior DevOps в 2026 году. Часть 3. Git и GitHub](https://habr.com/ru/articles/1058380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058380)
 - [Единственный нормальный детектор копипасты требовал JVM. Поэтому я написал свой](https://habr.com/ru/articles/1058364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058364)
 - [Корпоративная библиотека как система: Как мы выстраивали архитектуру знаний для нашей IT-команды и что из этого вышло?](https://habr.com/ru/companies/alpinadigital/articles/1058378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058378)
 - [Как я строю и строю и строю свой продукт. И что уже вышло](https://habr.com/ru/articles/1058356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058356)
-- [Профилировщик CMS-движков для вебстудий](https://habr.com/ru/articles/1058322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058322)
 <!-- BLOG-POST-LIST:END -->
 
 ---
