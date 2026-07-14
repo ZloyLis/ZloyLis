@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Две недели в Школе 21: кузница IT-рабов или выживальщик для программистов?](https://habr.com/ru/articles/1059154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059154)
+- [Манифест программиста, использующего AI-кодинг-агента](https://habr.com/ru/articles/1059152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059152)
+- [[Перевод] Rust 1.97.0: манглинг символов, вывод линкера и поддержка запрета предупреждений в Cargo](https://habr.com/ru/articles/1059146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059146)
 - [[Перевод] Тестовые фикстуры: управление зависимостями в Gradle](https://habr.com/ru/companies/spring_aio/articles/1059130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059130)
 - [Вы не знаете CSS. Мои вопросы о CSS с ответами. Версия 2026 года](https://habr.com/ru/companies/ruvds/articles/1057086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057086)
-- [Сериализация one-nio: от истоков к поддержке JDK 25](https://habr.com/ru/companies/vk/articles/1058654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058654)
-- [Анализ 2048 3 на 3](https://habr.com/ru/articles/1059096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059096)
-- [Spring Security: работа с JWT токенами](https://habr.com/ru/articles/1059086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059086)
 <!-- BLOG-POST-LIST:END -->
 
 ---
