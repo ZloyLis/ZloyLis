@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как я собирал AI-агентную команду для реального бизнеса, а не ассистента в чате](https://habr.com/ru/articles/1059082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059082)
-- [У семи нянек — сервер без ответственного](https://habr.com/ru/companies/simpleone/articles/1059078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059078)
-- [FinOps на практике. Серия 2: от пилота к регламентам, или как удержать экономию на облаке](https://habr.com/ru/companies/finops_ru/articles/1059076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059076)
-- [Java в эпоху ИИ. К чему пришли на пятом MTC Web Services Meetup для разработчиков](https://habr.com/ru/companies/ru_mts/articles/1059050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059050)
-- [MinIO, MongoDB, PostgreSQL для хранения 25 лет истории стоимости акций](https://habr.com/ru/articles/1059062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059062)
+- [[Перевод] Тестовые фикстуры: управление зависимостями в Gradle](https://habr.com/ru/companies/spring_aio/articles/1059130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059130)
+- [Вы не знаете CSS. Мои вопросы о CSS с ответами. Версия 2026 года](https://habr.com/ru/companies/ruvds/articles/1057086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057086)
+- [Сериализация one-nio: от истоков к поддержке JDK 25](https://habr.com/ru/companies/vk/articles/1058654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058654)
+- [Анализ 2048 3 на 3](https://habr.com/ru/articles/1059096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059096)
+- [Spring Security: работа с JWT токенами](https://habr.com/ru/articles/1059086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059086)
 <!-- BLOG-POST-LIST:END -->
 
 ---
