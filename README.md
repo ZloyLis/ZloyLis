@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Расширение Boss Alert для Chrome: Manifest V3, мгновенный режим паники и зачистка истории за 5 минут](https://habr.com/ru/articles/1058996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058996)
-- [Веб-портфолио с управлением жестами через камеру: полевой дневник](https://habr.com/ru/articles/1058358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058358)
-- [WebAssembly &lpar;WASM&rpar; — не серебряная пуля](https://habr.com/ru/articles/1058984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058984)
-- [Поставил свою Flutter-игру на iPhone друга без Mac и подписки Apple Developer](https://habr.com/ru/articles/1058788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058788)
-- [Книга: «Стили API. Проектирование и внедрение»](https://habr.com/ru/companies/piter/articles/1058596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058596)
+- [Как я собирал AI-агентную команду для реального бизнеса, а не ассистента в чате](https://habr.com/ru/articles/1059082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059082)
+- [У семи нянек — сервер без ответственного](https://habr.com/ru/companies/simpleone/articles/1059078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059078)
+- [FinOps на практике. Серия 2: от пилота к регламентам, или как удержать экономию на облаке](https://habr.com/ru/companies/finops_ru/articles/1059076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059076)
+- [Java в эпоху ИИ. К чему пришли на пятом MTC Web Services Meetup для разработчиков](https://habr.com/ru/companies/ru_mts/articles/1059050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059050)
+- [MinIO, MongoDB, PostgreSQL для хранения 25 лет истории стоимости акций](https://habr.com/ru/articles/1059062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059062)
 <!-- BLOG-POST-LIST:END -->
 
 ---
