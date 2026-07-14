@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [89% моих трат на AI‑агентов — это кэш, а не генерация. Написал CLI, чтобы увидеть](https://habr.com/ru/articles/1058938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058938)
-- [Что означает «контролируемый ИИ-агент»: разбираем 6 уровней контроля](https://habr.com/ru/companies/veai/articles/1057380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057380)
-- [Как мой FullMute эволюционировал за время](https://habr.com/ru/articles/1058920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058920)
-- [Лучшая архитектура KMP-приложений и когда её не использовать. Часть 2](https://habr.com/ru/articles/1058004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058004)
-- [Лейтнер, Elo и поправка на угадывание: движок тренажёра собесов без единого вызова LLM](https://habr.com/ru/articles/1058136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058136)
+- [Расширение Boss Alert для Chrome: Manifest V3, мгновенный режим паники и зачистка истории за 5 минут](https://habr.com/ru/articles/1058996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058996)
+- [Веб-портфолио с управлением жестами через камеру: полевой дневник](https://habr.com/ru/articles/1058358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058358)
+- [WebAssembly &lpar;WASM&rpar; — не серебряная пуля](https://habr.com/ru/articles/1058984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058984)
+- [Поставил свою Flutter-игру на iPhone друга без Mac и подписки Apple Developer](https://habr.com/ru/articles/1058788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058788)
+- [Книга: «Стили API. Проектирование и внедрение»](https://habr.com/ru/companies/piter/articles/1058596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058596)
 <!-- BLOG-POST-LIST:END -->
 
 ---
