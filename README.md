@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Простой способ запускать доверенный пользовательский JavaScript в Node.js](https://habr.com/ru/articles/1059208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059208)
+- [Инициатива по применению фрактального интерфейса для ПО](https://habr.com/ru/articles/1059206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059206)
 - [Contract testing на Pact в 2026: как перестать чинить интеграции по факту падения](https://habr.com/ru/companies/otus/articles/1058382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058382)
 - [[Перевод] Как использовать Kafka на собеседовании по System Design](https://habr.com/ru/articles/1052700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052700)
 - [Аутентификация через биометрию в Kotlin Multiplatform или Koncierge](https://habr.com/ru/articles/1059174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059174)
-- [Как GPT-5.6 Sol обошла математиков в задаче о длине пути градиентного спуска](https://habr.com/ru/articles/1059186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059186)
-- [Две недели в Школе 21: кузница IT-рабов или выживальщик для программистов?](https://habr.com/ru/articles/1059154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059154)
 <!-- BLOG-POST-LIST:END -->
 
 ---
