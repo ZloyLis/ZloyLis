@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мок-интервью: зачем смотреть записи чужих собеседований — и как делать это правильно](https://habr.com/ru/companies/yandex_praktikum/articles/1054776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054776)
+- [DIY и C++ в системе охлаждения кур](https://habr.com/ru/articles/1057790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057790)
+- [Redux никогда не работал в React](https://habr.com/ru/articles/1058110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058110)
+- [[Перевод] Грегор Кизалес и др. «Аспектно-ориентированное программирование»](https://habr.com/ru/articles/1058826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058826)
 - [Vera возвращается: как голосовой ассистент превратился в локального AI-агента для Windows](https://habr.com/ru/articles/1058810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058810)
-- [Security Week 2629: 16-летняя уязвимость в гипервизоре Linux KVM](https://habr.com/ru/companies/kaspersky/articles/1058592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058592)
-- [Надоело замазывать куски экранов? Расширение, которое блюрит личные данные на лету](https://habr.com/ru/articles/1058742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058742)
-- [Что внутри JDBC: архитектура, объектная модель и Driver/SPI](https://habr.com/ru/articles/1058080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058080)
-- [Как я в одиночку сделал мобильную игру на iOS — LootShrine](https://habr.com/ru/articles/1058732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058732)
 <!-- BLOG-POST-LIST:END -->
 
 ---
