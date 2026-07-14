@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Contract testing на Pact в 2026: как перестать чинить интеграции по факту падения](https://habr.com/ru/companies/otus/articles/1058382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058382)
+- [[Перевод] Как использовать Kafka на собеседовании по System Design](https://habr.com/ru/articles/1052700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052700)
+- [Аутентификация через биометрию в Kotlin Multiplatform или Koncierge](https://habr.com/ru/articles/1059174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059174)
+- [Как GPT-5.6 Sol обошла математиков в задаче о длине пути градиентного спуска](https://habr.com/ru/articles/1059186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059186)
 - [Две недели в Школе 21: кузница IT-рабов или выживальщик для программистов?](https://habr.com/ru/articles/1059154/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059154)
-- [Манифест программиста, использующего AI-кодинг-агента](https://habr.com/ru/articles/1059152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059152)
-- [[Перевод] Rust 1.97.0: манглинг символов, вывод линкера и поддержка запрета предупреждений в Cargo](https://habr.com/ru/articles/1059146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059146)
-- [[Перевод] Тестовые фикстуры: управление зависимостями в Gradle](https://habr.com/ru/companies/spring_aio/articles/1059130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059130)
-- [Вы не знаете CSS. Мои вопросы о CSS с ответами. Версия 2026 года](https://habr.com/ru/companies/ruvds/articles/1057086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057086)
 <!-- BLOG-POST-LIST:END -->
 
 ---
