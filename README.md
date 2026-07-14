@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Мок-интервью: зачем смотреть записи чужих собеседований — и как делать это правильно](https://habr.com/ru/companies/yandex_praktikum/articles/1054776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054776)
-- [DIY и C++ в системе охлаждения кур](https://habr.com/ru/articles/1057790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057790)
-- [Redux никогда не работал в React](https://habr.com/ru/articles/1058110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058110)
-- [[Перевод] Грегор Кизалес и др. «Аспектно-ориентированное программирование»](https://habr.com/ru/articles/1058826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058826)
-- [Vera возвращается: как голосовой ассистент превратился в локального AI-агента для Windows](https://habr.com/ru/articles/1058810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058810)
+- [89% моих трат на AI‑агентов — это кэш, а не генерация. Написал CLI, чтобы увидеть](https://habr.com/ru/articles/1058938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058938)
+- [Что означает «контролируемый ИИ-агент»: разбираем 6 уровней контроля](https://habr.com/ru/companies/veai/articles/1057380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057380)
+- [Как мой FullMute эволюционировал за время](https://habr.com/ru/articles/1058920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058920)
+- [Лучшая архитектура KMP-приложений и когда её не использовать. Часть 2](https://habr.com/ru/articles/1058004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058004)
+- [Лейтнер, Elo и поправка на угадывание: движок тренажёра собесов без единого вызова LLM](https://habr.com/ru/articles/1058136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058136)
 <!-- BLOG-POST-LIST:END -->
 
 ---
