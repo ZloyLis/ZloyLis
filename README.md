@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Публичный мок АА в Яндексе: опыт, который не заменит никакая подготовка](https://habr.com/ru/articles/1059542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059542)
-- [Можно ли аналитику в 2026 году положиться на ИИ и агентов или ещё нет?](https://habr.com/ru/companies/alfa/articles/1059296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059296)
-- [Как мы делали три консоли для киберигры: опыт разработки новой версии тренажера](https://habr.com/ru/companies/dalee_group/articles/1059524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059524)
-- [GitHub все еще частично блокируется, но менее очевидно](https://habr.com/ru/articles/1059512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059512)
-- [Автоматизация с использованием сервисов Google или что попробовать вечером](https://habr.com/ru/articles/1059496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059496)
+- [pkg-cache — простой локальный кеш пакетов](https://habr.com/ru/articles/1059574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059574)
+- [ИИ Qwen3.6-27B запустили на смартфоне: 1 бит на вес и 90% интеллекта оригинала](https://habr.com/ru/articles/1059572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059572)
+- [Domain-routed agents vs naive RAG: экономика и риски архитектурного выбора](https://habr.com/ru/articles/1059564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059564)
+- [[Перевод] Проектирование системы хранения POSTGRES](https://habr.com/ru/companies/postgrespro/articles/1058044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058044)
+- [Роботы в деле: создаём реестр интеграторов в сфере промышленной роботизации](https://habr.com/ru/specials/1059470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059470)
 <!-- BLOG-POST-LIST:END -->
 
 ---
