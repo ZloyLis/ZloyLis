@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] О производителях микросхем памяти](https://habr.com/ru/articles/1058128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058128)
+- [Разбор пяти ошибок в модулях Linux, которые проходят сборку и валят систему под нагрузкой](https://habr.com/ru/companies/otus/articles/1058386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058386)
 - [pkg-cache — простой локальный кеш пакетов](https://habr.com/ru/articles/1059574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059574)
 - [ИИ Qwen3.6-27B запустили на смартфоне: 1 бит на вес и 90% интеллекта оригинала](https://habr.com/ru/articles/1059572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059572)
 - [Domain-routed agents vs naive RAG: экономика и риски архитектурного выбора](https://habr.com/ru/articles/1059564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059564)
-- [[Перевод] Проектирование системы хранения POSTGRES](https://habr.com/ru/companies/postgrespro/articles/1058044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058044)
-- [Роботы в деле: создаём реестр интеграторов в сфере промышленной роботизации](https://habr.com/ru/specials/1059470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059470)
 <!-- BLOG-POST-LIST:END -->
 
 ---
