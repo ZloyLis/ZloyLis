@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Простой способ запускать доверенный пользовательский JavaScript в Node.js](https://habr.com/ru/articles/1059208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059208)
-- [Инициатива по применению фрактального интерфейса для ПО](https://habr.com/ru/articles/1059206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059206)
-- [Contract testing на Pact в 2026: как перестать чинить интеграции по факту падения](https://habr.com/ru/companies/otus/articles/1058382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058382)
-- [[Перевод] Как использовать Kafka на собеседовании по System Design](https://habr.com/ru/articles/1052700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052700)
-- [Аутентификация через биометрию в Kotlin Multiplatform или Koncierge](https://habr.com/ru/articles/1059174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059174)
+- [От расшифровки звонков до собственных приложений: как ИИ взрослеет внутри CRM](https://habr.com/ru/companies/bitrix/articles/1058990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058990)
+- [Знакомство с командой Android](https://habr.com/ru/companies/ivi/articles/1059314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059314)
+- [Point0 — простой, как tRPC, полноценный фулстек-фреймворк](https://habr.com/ru/articles/1059310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059310)
+- [Как я собрал OmniBot: Discord Activity, локальный ruBERT и модерация без чёрного ящика](https://habr.com/ru/articles/1059306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059306)
+- [Рецензия на книгу «Qt 6.9. Профессиональное программирование на C++»](https://habr.com/ru/companies/ssp-soft/articles/1054224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054224)
 <!-- BLOG-POST-LIST:END -->
 
 ---
