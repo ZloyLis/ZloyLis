@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Растем умом, а не числом](https://habr.com/ru/companies/naumen/articles/1059448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059448)
-- [Ошибки операторов Kubernetes: как мы их исправляли и чему научились](https://habr.com/ru/companies/sberbank/articles/1059026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059026)
-- [CLI-агент в фоне без API](https://habr.com/ru/articles/1059454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059454)
-- [Магнитное поле постоянного магнита](https://habr.com/ru/articles/1059416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059416)
-- [Как мы выбирали планировщик GPU-задач для Nova AI: Volcano, Kueue и KAI Scheduler. Часть 1](https://habr.com/ru/companies/orion_soft/articles/1059386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059386)
+- [Публичный мок АА в Яндексе: опыт, который не заменит никакая подготовка](https://habr.com/ru/articles/1059542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059542)
+- [Можно ли аналитику в 2026 году положиться на ИИ и агентов или ещё нет?](https://habr.com/ru/companies/alfa/articles/1059296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059296)
+- [Как мы делали три консоли для киберигры: опыт разработки новой версии тренажера](https://habr.com/ru/companies/dalee_group/articles/1059524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059524)
+- [GitHub все еще частично блокируется, но менее очевидно](https://habr.com/ru/articles/1059512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059512)
+- [Автоматизация с использованием сервисов Google или что попробовать вечером](https://habr.com/ru/articles/1059496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059496)
 <!-- BLOG-POST-LIST:END -->
 
 ---
