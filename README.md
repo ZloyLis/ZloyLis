@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Растем умом, а не числом](https://habr.com/ru/companies/naumen/articles/1059448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059448)
+- [Ошибки операторов Kubernetes: как мы их исправляли и чему научились](https://habr.com/ru/companies/sberbank/articles/1059026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059026)
+- [CLI-агент в фоне без API](https://habr.com/ru/articles/1059454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059454)
+- [Магнитное поле постоянного магнита](https://habr.com/ru/articles/1059416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059416)
 - [Как мы выбирали планировщик GPU-задач для Nova AI: Volcano, Kueue и KAI Scheduler. Часть 1](https://habr.com/ru/companies/orion_soft/articles/1059386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059386)
-- [Пользователь сменил пароль и потерял доступ. Что проворонил тестировщик?](https://habr.com/ru/companies/otus/articles/1058180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058180)
-- [Агрегатор новостей заработал, когда я перестал доверять ИИ](https://habr.com/ru/articles/1059364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059364)
-- [Думаете, что знаете все про LLM? Тогда мы идем к вам](https://habr.com/ru/companies/cloud_ru/articles/1058608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058608)
-- [LLM против APK: сколько стоит автономно перепаковать Android-приложение](https://habr.com/ru/companies/pt/articles/1059224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059224)
 <!-- BLOG-POST-LIST:END -->
 
 ---
