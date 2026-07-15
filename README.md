@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [От расшифровки звонков до собственных приложений: как ИИ взрослеет внутри CRM](https://habr.com/ru/companies/bitrix/articles/1058990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058990)
-- [Знакомство с командой Android](https://habr.com/ru/companies/ivi/articles/1059314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059314)
-- [Point0 — простой, как tRPC, полноценный фулстек-фреймворк](https://habr.com/ru/articles/1059310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059310)
-- [Как я собрал OmniBot: Discord Activity, локальный ruBERT и модерация без чёрного ящика](https://habr.com/ru/articles/1059306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059306)
-- [Рецензия на книгу «Qt 6.9. Профессиональное программирование на C++»](https://habr.com/ru/companies/ssp-soft/articles/1054224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054224)
+- [Как мы выбирали планировщик GPU-задач для Nova AI: Volcano, Kueue и KAI Scheduler. Часть 1](https://habr.com/ru/companies/orion_soft/articles/1059386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059386)
+- [Пользователь сменил пароль и потерял доступ. Что проворонил тестировщик?](https://habr.com/ru/companies/otus/articles/1058180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058180)
+- [Агрегатор новостей заработал, когда я перестал доверять ИИ](https://habr.com/ru/articles/1059364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059364)
+- [Думаете, что знаете все про LLM? Тогда мы идем к вам](https://habr.com/ru/companies/cloud_ru/articles/1058608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058608)
+- [LLM против APK: сколько стоит автономно перепаковать Android-приложение](https://habr.com/ru/companies/pt/articles/1059224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059224)
 <!-- BLOG-POST-LIST:END -->
 
 ---
