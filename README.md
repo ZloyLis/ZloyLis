@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как установить OpenJarvis: разворачиваем локального ИИ-агента](https://habr.com/ru/companies/selectel/articles/1058572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058572)
-- [Зачем учить бинарный поиск, если платят за покраску кнопок](https://habr.com/ru/companies/domclick/articles/1055404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055404)
-- [Ты уже написал свой Джеймикс, только плохой](https://habr.com/ru/companies/haulmont/articles/1059692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059692)
-- [С июля за вход через Google и Apple штраф до 700 тысяч рублей. Кого это касается](https://habr.com/ru/articles/1059538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059538)
-- [600 слов, 80 минут, липиды в метро: 4 книги про математиков и цифры](https://habr.com/ru/articles/1059638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059638)
+- [Сможет ли DB Client от OpenIDE заменить DataGrip?](https://habr.com/ru/articles/1059642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059642)
+- [False positive под небом цвета телевизора, настроенного на мертвый канал](https://habr.com/ru/companies/rostelecom/articles/1059670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059670)
+- [Странные машины: как хакеры собирают процессор из данных](https://habr.com/ru/articles/1059800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059800)
+- [Каким будет AI Engineer через 2 года? Мы обновили магистратуру, вот почему это было неизбежно](https://habr.com/ru/articles/1059798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059798)
+- [Qwen 3.6 27b на 8-12gb vram в llama.cpp до 256к контекста](https://habr.com/ru/articles/1059792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059792)
 <!-- BLOG-POST-LIST:END -->
 
 ---
