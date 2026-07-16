@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сегодня я для себя открыл: Pony ORM](https://habr.com/ru/articles/1056970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056970)
 - [Все там будем…](https://habr.com/ru/articles/1054498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054498)
 - [Как сделать типобезопасный клиент для Strapi: разбираем вывод типов из populate на уровне компилятора](https://habr.com/ru/articles/1059984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059984)
 - [Мы внедряем Storybook на легаси-проекте и заранее пообещали рассказать, если он не взлетит](https://habr.com/ru/companies/modusbi/articles/1059794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059794)
 - [Что вам нужно знать про семантику List и Set в Hibernate](https://habr.com/ru/companies/spring_aio/articles/1059922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059922)
-- [Apache Camel: почему аналитик в нём ничего не сделает и при чём тут красивый UI](https://habr.com/ru/companies/mws/articles/1059746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059746)
 <!-- BLOG-POST-LIST:END -->
 
 ---
