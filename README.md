@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как мы устали терять данные и сделали систему проектирования ручного ввода KDI](https://habr.com/ru/companies/korus_consulting/articles/1059868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059868)
-- [Безопасность микроядра: где заканчивается трюизм и начинается инженерия](https://habr.com/ru/companies/kaspersky/articles/1057536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057536)
-- [Летняя встреча Go-сообщества: системное и embedded-программирование](https://habr.com/ru/companies/yadro/articles/1059750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059750)
-- [Go без мифов: переход с C++, highload, рынок, зарплаты и путь разработчика — интервью с Владимиром Балуном](https://habr.com/ru/articles/1059838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059838)
-- [Почему не стоит судить себя по результатам собеседований](https://habr.com/ru/articles/1059832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059832)
+- [Мы внедряем Storybook на легаси-проекте и заранее пообещали рассказать, если он не взлетит](https://habr.com/ru/companies/modusbi/articles/1059794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059794)
+- [Что вам нужно знать про семантику List и Set в Hibernate](https://habr.com/ru/companies/spring_aio/articles/1059922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059922)
+- [Apache Camel: почему аналитик в нём ничего не сделает и при чём тут красивый UI](https://habr.com/ru/companies/mws/articles/1059746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059746)
+- [Онлайн-магистратура для разработчиков ИТМО в партнёрстве с Яндексом: как поступить в 2026 году и что ждёт студентов](https://habr.com/ru/companies/yandex_praktikum/articles/1059844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059844)
+- [[Перевод] Кто платит за AI-продуктивность: почему выгорают middle-инженеры](https://habr.com/ru/companies/otus/articles/1059842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059842)
 <!-- BLOG-POST-LIST:END -->
 
 ---
