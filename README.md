@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Сможет ли DB Client от OpenIDE заменить DataGrip?](https://habr.com/ru/articles/1059642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059642)
-- [False positive под небом цвета телевизора, настроенного на мертвый канал](https://habr.com/ru/companies/rostelecom/articles/1059670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059670)
-- [Странные машины: как хакеры собирают процессор из данных](https://habr.com/ru/articles/1059800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059800)
-- [Каким будет AI Engineer через 2 года? Мы обновили магистратуру, вот почему это было неизбежно](https://habr.com/ru/articles/1059798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059798)
-- [Qwen 3.6 27b на 8-12gb vram в llama.cpp до 256к контекста](https://habr.com/ru/articles/1059792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059792)
+- [Как мы устали терять данные и сделали систему проектирования ручного ввода KDI](https://habr.com/ru/companies/korus_consulting/articles/1059868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059868)
+- [Безопасность микроядра: где заканчивается трюизм и начинается инженерия](https://habr.com/ru/companies/kaspersky/articles/1057536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057536)
+- [Летняя встреча Go-сообщества: системное и embedded-программирование](https://habr.com/ru/companies/yadro/articles/1059750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059750)
+- [Go без мифов: переход с C++, highload, рынок, зарплаты и путь разработчика — интервью с Владимиром Балуном](https://habr.com/ru/articles/1059838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059838)
+- [Почему не стоит судить себя по результатам собеседований](https://habr.com/ru/articles/1059832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059832)
 <!-- BLOG-POST-LIST:END -->
 
 ---
