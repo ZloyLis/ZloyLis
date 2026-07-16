@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [ИИ зависимость и лекарство от prompt injection &lpar;в том числе от системного промпта провайдера&rpar;](https://habr.com/ru/companies/bothub/articles/1059588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059588)
-- [Сможете ли вы найти пять ошибок в Python‑коде, который вызывает LLM](https://habr.com/ru/companies/otus/articles/1058816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058816)
-- [Бенчмаркая поиск по строке: самописные циклы проигрывают от ×14 до ×154](https://habr.com/ru/articles/1059624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059624)
-- [[Перевод] О производителях микросхем памяти](https://habr.com/ru/articles/1058128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058128)
-- [Разбор пяти ошибок в модулях Linux, которые проходят сборку и валят систему под нагрузкой](https://habr.com/ru/companies/otus/articles/1058386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058386)
+- [Как установить OpenJarvis: разворачиваем локального ИИ-агента](https://habr.com/ru/companies/selectel/articles/1058572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058572)
+- [Зачем учить бинарный поиск, если платят за покраску кнопок](https://habr.com/ru/companies/domclick/articles/1055404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055404)
+- [Ты уже написал свой Джеймикс, только плохой](https://habr.com/ru/companies/haulmont/articles/1059692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059692)
+- [С июля за вход через Google и Apple штраф до 700 тысяч рублей. Кого это касается](https://habr.com/ru/articles/1059538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059538)
+- [600 слов, 80 минут, липиды в метро: 4 книги про математиков и цифры](https://habr.com/ru/articles/1059638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059638)
 <!-- BLOG-POST-LIST:END -->
 
 ---
