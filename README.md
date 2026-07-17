@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [А нам точно нужны code agents?](https://habr.com/ru/articles/1060204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060204)
+- [[Перевод] Лучшие практики по Kubernetes. Жаль, я не знала о них раньше](https://habr.com/ru/companies/cloud_ru/articles/1060100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060100)
+- [1С как бэкенд мобильного приложения: пять граблей, которые видно только в проде](https://habr.com/ru/articles/1060188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060188)
+- [Как фильтр Блума ускоряет JOIN&#39;ы в PostgreSQL](https://habr.com/ru/companies/tantor/articles/1060058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060058)
 - [Архитектура «Гегелло», или как мы создали собственную платформу для анализа состояния оборудования](https://habr.com/ru/companies/yadro/articles/1058002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058002)
-- [Multi-tenant Битрикс24 в трёх проектах: три архитектуры OAuth-токенов и лицензирование через материнский смарт-процесс](https://habr.com/ru/articles/1058792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058792)
-- [Ошибки в UX у Хабр](https://habr.com/ru/articles/1060132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060132)
-- [ggrebalance: Часть 2. Планирование операции ребаланса](https://habr.com/ru/companies/greengage/articles/1059968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059968)
-- [А мы и не заметили, или о том, какие ИИ живут в вашем кармане](https://habr.com/ru/companies/selectel/articles/1059128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059128)
 <!-- BLOG-POST-LIST:END -->
 
 ---
