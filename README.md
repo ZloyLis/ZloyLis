@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [T-Search: как мы обучали агента многошаговому поиску](https://habr.com/ru/companies/tbank/articles/1060262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060262)
-- [Зачем я тащу Terraform в Kubernetes: GitOps-стенд на Flux CD и Tofu Controller](https://habr.com/ru/companies/basis/articles/1060076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060076)
-- [[Перевод] Иллюстрированный разбор одной пользовательской реализации malloc&lpar;&rpar;](https://habr.com/ru/articles/1060238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060238)
-- [Link to Pane: буфер обмена Mac Android через протокол Microsoft &lpar;потому что иначе — pain &lpar;икра слов&rpar;](https://habr.com/ru/articles/1060248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060248)
-- [Основы информатики для всех. Часть 2](https://habr.com/ru/articles/1060232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060232)
+- [Дзен в понимании Жордановой нормальной формы](https://habr.com/ru/articles/1059338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059338)
+- [Как защитить железку от Китайцев, если вы им передаете всю производственную документацию?](https://habr.com/ru/articles/1060346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060346)
+- [Погодный чёрный ящик: пишем лог давления и температуры на MicroSD с ESP32-C3](https://habr.com/ru/articles/1060342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060342)
+- [DI-контейнер на чистом JavaScript без TypeScript и reflect-metadata](https://habr.com/ru/articles/1060340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060340)
+- [Логическая головоломка из университетского квеста](https://habr.com/ru/articles/1060338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060338)
 <!-- BLOG-POST-LIST:END -->
 
 ---
