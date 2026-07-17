@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [P.S.Euclid — GeoGebra + Desmos + то, что сам хотел &lpar;Plane + Stereo, Euclid&rpar;](https://habr.com/ru/articles/1060358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060358)
 - [Дзен в понимании Жордановой нормальной формы](https://habr.com/ru/articles/1059338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059338)
 - [Как защитить железку от Китайцев, если вы им передаете всю производственную документацию?](https://habr.com/ru/articles/1060346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060346)
 - [Погодный чёрный ящик: пишем лог давления и температуры на MicroSD с ESP32-C3](https://habr.com/ru/articles/1060342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060342)
 - [DI-контейнер на чистом JavaScript без TypeScript и reflect-metadata](https://habr.com/ru/articles/1060340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060340)
-- [Логическая головоломка из университетского квеста](https://habr.com/ru/articles/1060338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060338)
 <!-- BLOG-POST-LIST:END -->
 
 ---
