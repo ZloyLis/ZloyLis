@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Я проиндексировал 3,3 ГБ логов своих кодинг-агентов, чтобы перестать чинить одни и те же баги](https://habr.com/ru/articles/1060020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060020)
-- [Сегодня я для себя открыл: Pony ORM](https://habr.com/ru/articles/1056970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056970)
-- [Все там будем…](https://habr.com/ru/articles/1054498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1054498)
-- [Как сделать типобезопасный клиент для Strapi: разбираем вывод типов из populate на уровне компилятора](https://habr.com/ru/articles/1059984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059984)
-- [Мы внедряем Storybook на легаси-проекте и заранее пообещали рассказать, если он не взлетит](https://habr.com/ru/companies/modusbi/articles/1059794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059794)
+- [Архитектура «Гегелло», или как мы создали собственную платформу для анализа состояния оборудования](https://habr.com/ru/companies/yadro/articles/1058002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058002)
+- [Multi-tenant Битрикс24 в трёх проектах: три архитектуры OAuth-токенов и лицензирование через материнский смарт-процесс](https://habr.com/ru/articles/1058792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058792)
+- [Ошибки в UX у Хабр](https://habr.com/ru/articles/1060132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060132)
+- [ggrebalance: Часть 2. Планирование операции ребаланса](https://habr.com/ru/companies/greengage/articles/1059968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059968)
+- [А мы и не заметили, или о том, какие ИИ живут в вашем кармане](https://habr.com/ru/companies/selectel/articles/1059128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059128)
 <!-- BLOG-POST-LIST:END -->
 
 ---
