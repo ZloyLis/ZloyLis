@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [А нам точно нужны code agents?](https://habr.com/ru/articles/1060204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060204)
-- [[Перевод] Лучшие практики по Kubernetes. Жаль, я не знала о них раньше](https://habr.com/ru/companies/cloud_ru/articles/1060100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060100)
-- [1С как бэкенд мобильного приложения: пять граблей, которые видно только в проде](https://habr.com/ru/articles/1060188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060188)
-- [Как фильтр Блума ускоряет JOIN&#39;ы в PostgreSQL](https://habr.com/ru/companies/tantor/articles/1060058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060058)
-- [Архитектура «Гегелло», или как мы создали собственную платформу для анализа состояния оборудования](https://habr.com/ru/companies/yadro/articles/1058002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058002)
+- [[Перевод] Иллюстрированный разбор одной пользовательской реализации malloc&lpar;&rpar;](https://habr.com/ru/articles/1060238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060238)
+- [Link to Pane: буфер обмена Mac Android через протокол Microsoft &lpar;потому что иначе — pain &lpar;икра слов&rpar;](https://habr.com/ru/articles/1060248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060248)
+- [Основы информатики для всех. Часть 2](https://habr.com/ru/articles/1060232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060232)
+- [Как математическая модель победила нейросеть: ректификация документов, сложенных втрое](https://habr.com/ru/companies/smartengines/articles/1060224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060224)
+- [Агентская разработка: как обеспечить качество](https://habr.com/ru/companies/avito/articles/1060190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060190)
 <!-- BLOG-POST-LIST:END -->
 
 ---
