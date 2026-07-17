@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [T-Search: как мы обучали агента многошаговому поиску](https://habr.com/ru/companies/tbank/articles/1060262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060262)
+- [Зачем я тащу Terraform в Kubernetes: GitOps-стенд на Flux CD и Tofu Controller](https://habr.com/ru/companies/basis/articles/1060076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060076)
 - [[Перевод] Иллюстрированный разбор одной пользовательской реализации malloc&lpar;&rpar;](https://habr.com/ru/articles/1060238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060238)
 - [Link to Pane: буфер обмена Mac Android через протокол Microsoft &lpar;потому что иначе — pain &lpar;икра слов&rpar;](https://habr.com/ru/articles/1060248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060248)
 - [Основы информатики для всех. Часть 2](https://habr.com/ru/articles/1060232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060232)
-- [Как математическая модель победила нейросеть: ректификация документов, сложенных втрое](https://habr.com/ru/companies/smartengines/articles/1060224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060224)
-- [Агентская разработка: как обеспечить качество](https://habr.com/ru/companies/avito/articles/1060190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060190)
 <!-- BLOG-POST-LIST:END -->
 
 ---
