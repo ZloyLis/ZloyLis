@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сделали дейтинг с коллаборацией со Spotify без инвестиций](https://habr.com/ru/articles/1060414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060414)
+- [Harness кодинг‑агента: разобрал исходники Codex, OpenCode, Pi и свою собственную](https://habr.com/ru/articles/1060250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060250)
+- [vLLM vs LMDeploy vs Triton: обзор бэкендов для инференса LLM](https://habr.com/ru/companies/selectel/articles/1060180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060180)
 - [Матричное дифференцирование в машинном обучении: градиент, якобиан и линейная регрессия](https://habr.com/ru/articles/1060392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060392)
 - [Финальный босс лингвистики: как я собрал полный NLP-стек для кабардинского из старых словарей](https://habr.com/ru/articles/1060378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060378)
-- [От полигона участка до токов КЗ: как я написал генератор подстанций](https://habr.com/ru/articles/1060366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060366)
-- [Structured outputs, которые не работают: пять ситуаций, где схема есть, а гарантий нет](https://habr.com/ru/companies/otus/articles/1058384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058384)
-- [P.S.Euclid — GeoGebra + Desmos + то, что сам хотел &lpar;Plane + Stereo, Euclid&rpar;](https://habr.com/ru/articles/1060358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060358)
 <!-- BLOG-POST-LIST:END -->
 
 ---
