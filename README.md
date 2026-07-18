@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Уроки риска от Питера Бернстайна](https://habr.com/ru/articles/1059990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059990)
 - [Не отдам Gpick! Он хороший! Но крутить педали придётся…](https://habr.com/ru/articles/1060500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060500)
 - [Бенчмаркая Sum: ускорил циклом — замедлил в ×4,7](https://habr.com/ru/articles/1060470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060470)
 - [Два изображения, очередь и proxy: как мы подключили OpenAI Image Edits к российскому production-серверу](https://habr.com/ru/articles/1060448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060448)
 - [SSB — «мы стояли на „плоскости“»](https://habr.com/ru/articles/1060442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060442)
-- [Вчера в отчёте было 12 480, сегодня 12 517: пять причин, по которым цифры за прошлый месяц продолжают меняться](https://habr.com/ru/companies/otus/articles/1058824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058824)
 <!-- BLOG-POST-LIST:END -->
 
 ---
