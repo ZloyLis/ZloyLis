@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Бенчмаркая регресс LINQ: обещали −19%, на четырёх машинах намерил +31%](https://habr.com/ru/articles/1060518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060518)
 - [Уроки риска от Питера Бернстайна](https://habr.com/ru/articles/1059990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059990)
 - [Не отдам Gpick! Он хороший! Но крутить педали придётся…](https://habr.com/ru/articles/1060500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060500)
 - [Бенчмаркая Sum: ускорил циклом — замедлил в ×4,7](https://habr.com/ru/articles/1060470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060470)
 - [Два изображения, очередь и proxy: как мы подключили OpenAI Image Edits к российскому production-серверу](https://habr.com/ru/articles/1060448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060448)
-- [SSB — «мы стояли на „плоскости“»](https://habr.com/ru/articles/1060442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060442)
 <!-- BLOG-POST-LIST:END -->
 
 ---
