@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Посмотрел, как современные дейтинг приложение обращаются с данными и нежелательным контентом](https://habr.com/ru/articles/1060652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060652)
+- [Мобильная разработка за неделю #639 &lpar;6 — 12 июля&rpar;](https://habr.com/ru/articles/1060650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060650)
 - [Температурное поле круглой конфорки. Визуализация](https://habr.com/ru/articles/1059636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059636)
 - [Как ИИ помог автоматизировать контент с помощью Pandoc, bash и пары утилит](https://habr.com/ru/companies/yoomoney/articles/1060614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060614)
 - [Как я обуздал Vibe Coding: заставляем Grok и Codex делать ревью за Claude Code](https://habr.com/ru/articles/1060604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060604)
-- [[Перевод] Ваше «приложение» могло быть просто сайтом &lpar;и я ему в этом помог&rpar;](https://habr.com/ru/companies/ruvds/articles/1060106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060106)
-- [Публичность или небытие: как AI меняет цену знания](https://habr.com/ru/companies/tantor/articles/1060594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060594)
 <!-- BLOG-POST-LIST:END -->
 
 ---
