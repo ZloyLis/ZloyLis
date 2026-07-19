@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Разбор Mimolet: что здесь удобно, а что стоит переделать](https://habr.com/ru/articles/1060552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060552)
-- [Бенчмаркая регресс LINQ: обещали −19%, на четырёх машинах намерил +31%](https://habr.com/ru/articles/1060518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060518)
-- [Уроки риска от Питера Бернстайна](https://habr.com/ru/articles/1059990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059990)
-- [Не отдам Gpick! Он хороший! Но крутить педали придётся…](https://habr.com/ru/articles/1060500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060500)
-- [Бенчмаркая Sum: ускорил циклом — замедлил в ×4,7](https://habr.com/ru/articles/1060470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060470)
+- [Легенда о хардкоре: Duke Nukem 3D, Watcom и FreeBSD](https://habr.com/ru/companies/timeweb/articles/1055488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055488)
+- [Бот в MAX молчит: четыре грабли Bot API, о которых не пишут в документации](https://habr.com/ru/articles/1060586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060586)
+- [Смотрим на конспирологическую теорию о том, что авторство “12 стульев” и “Золотой телёнок” принадлежит М. Булгакову](https://habr.com/ru/articles/1060582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060582)
+- [Как я снизил стоимость обработки данных с помощью AI в 12 раз](https://habr.com/ru/articles/1060576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060576)
+- [Я забыл — не прокатит, или какой подход у админа к детям](https://habr.com/ru/articles/1060488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060488)
 <!-- BLOG-POST-LIST:END -->
 
 ---
