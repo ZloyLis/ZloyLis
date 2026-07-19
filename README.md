@@ -35,7 +35,7 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Разбор Mimolet: что здесь удобно, а что стоит переделать](https://habr.com/ru/articles/1060532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060532)
+- [Разбор Mimolet: что здесь удобно, а что стоит переделать](https://habr.com/ru/articles/1060552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060552)
 - [Бенчмаркая регресс LINQ: обещали −19%, на четырёх машинах намерил +31%](https://habr.com/ru/articles/1060518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060518)
 - [Уроки риска от Питера Бернстайна](https://habr.com/ru/articles/1059990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059990)
 - [Не отдам Gpick! Он хороший! Но крутить педали придётся…](https://habr.com/ru/articles/1060500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060500)
