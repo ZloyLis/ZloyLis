@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Ваше «приложение» могло быть просто сайтом &lpar;и я ему в этом помог&rpar;](https://habr.com/ru/companies/ruvds/articles/1060106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060106)
+- [Публичность или небытие: как AI меняет цену знания](https://habr.com/ru/companies/tantor/articles/1060594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060594)
+- [Astra Studio: enterprise веб-приложение для взаимодействия с ИИ с нуля](https://habr.com/ru/articles/1060596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060596)
 - [Легенда о хардкоре: Duke Nukem 3D, Watcom и FreeBSD](https://habr.com/ru/companies/timeweb/articles/1055488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055488)
 - [Бот в MAX молчит: четыре грабли Bot API, о которых не пишут в документации](https://habr.com/ru/articles/1060586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060586)
-- [Смотрим на конспирологическую теорию о том, что авторство “12 стульев” и “Золотой телёнок” принадлежит М. Булгакову](https://habr.com/ru/articles/1060582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060582)
-- [Как я снизил стоимость обработки данных с помощью AI в 12 раз](https://habr.com/ru/articles/1060576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060576)
-- [Я забыл — не прокатит, или какой подход у админа к детям](https://habr.com/ru/articles/1060488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060488)
 <!-- BLOG-POST-LIST:END -->
 
 ---
