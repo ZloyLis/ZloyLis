@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Когда данные теряют смысл: MCO, YouTube, PayPal и Therac-25 как учебные кейсы](https://habr.com/ru/articles/1060840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060840)
-- [Avorion: создаём мод для торговли с нуля — интерфейс, Lua и подводные камни](https://habr.com/ru/companies/timeweb/articles/1049352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049352)
-- [[Перевод] Я превратил Slack в интерактивную консоль для работающего .NET-приложения](https://habr.com/ru/articles/1060700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060700)
-- [Как мы вышли на $3000+ в месяц на приложении для транскрибации YouTube-видео](https://habr.com/ru/articles/1060834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060834)
-- [15 докладов TEAM EVENT 2026: подборки для пяти профессиональных ролей](https://habr.com/ru/companies/infostart/articles/1060830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060830)
+- [[Перевод] Как я получал степень бакалавра по Computer Science на Coursera](https://habr.com/ru/companies/ruvds/articles/1059948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059948)
+- [DarkGram: как мы делаем power‑user Telegram‑клиент для iOS — и почему его нет в App Store](https://habr.com/ru/articles/1060956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060956)
+- [FFmpeg в браузере: как мы сделали медиа-конвертер, который ни разу не обращается к серверу](https://habr.com/ru/articles/1060950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060950)
+- [Security Week 2630: критическая уязвимость wp2shell в WordPress](https://habr.com/ru/companies/kaspersky/articles/1060812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060812)
+- [Релизный процесс QA: от рутины к автоматизации — как мы это сделали](https://habr.com/ru/companies/ozontech/articles/1059114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059114)
 <!-- BLOG-POST-LIST:END -->
 
 ---
