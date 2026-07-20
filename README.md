@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Проектируем шеринг вещей с нуля за 250 тысяч рублей](https://habr.com/ru/articles/1060716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060716)
 - [GitHub Discussions, Hacker News и звёзды: механика роста для технического продукта](https://habr.com/ru/articles/1060704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060704)
 - [Важен ли вес человека при онлайн-знакомствах?](https://habr.com/ru/articles/1060684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060684)
 - [Крашенная и не накрашенная…](https://habr.com/ru/articles/1060688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060688)
 - [Посмотрел, как современные дейтинг приложение обращаются с данными и нежелательным контентом](https://habr.com/ru/articles/1060652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060652)
-- [Мобильная разработка за неделю #639 &lpar;6 — 12 июля&rpar;](https://habr.com/ru/articles/1060650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060650)
 <!-- BLOG-POST-LIST:END -->
 
 ---
