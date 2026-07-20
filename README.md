@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Как я получал степень бакалавра по Computer Science на Coursera](https://habr.com/ru/companies/ruvds/articles/1059948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059948)
-- [DarkGram: как мы делаем power‑user Telegram‑клиент для iOS — и почему его нет в App Store](https://habr.com/ru/articles/1060956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060956)
-- [FFmpeg в браузере: как мы сделали медиа-конвертер, который ни разу не обращается к серверу](https://habr.com/ru/articles/1060950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060950)
-- [Security Week 2630: критическая уязвимость wp2shell в WordPress](https://habr.com/ru/companies/kaspersky/articles/1060812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060812)
-- [Релизный процесс QA: от рутины к автоматизации — как мы это сделали](https://habr.com/ru/companies/ozontech/articles/1059114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059114)
+- [Astra Studio: enterprise веб-приложение для взаимодействия с ИИ с нуля](https://habr.com/ru/articles/1061052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061052)
+- [SINN: как превзойти спектральные методы при решении многомерных уравнений в частных производных](https://habr.com/ru/companies/airi/articles/1061040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061040)
+- [[Перевод] Что нового в IntelliJ IDEA 2026.2](https://habr.com/ru/companies/spring_aio/articles/1061042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061042)
+- [[Перевод] Вышел Nuxt 4.5](https://habr.com/ru/articles/1060996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060996)
+- [ИИ в мобильном банке для бизнеса: где заканчивается чат и начинается польза](https://habr.com/ru/articles/1060970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060970)
 <!-- BLOG-POST-LIST:END -->
 
 ---
