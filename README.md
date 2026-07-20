@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Проектируем шеринг вещей с нуля за 250 тысяч рублей](https://habr.com/ru/articles/1060716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060716)
-- [GitHub Discussions, Hacker News и звёзды: механика роста для технического продукта](https://habr.com/ru/articles/1060704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060704)
-- [Важен ли вес человека при онлайн-знакомствах?](https://habr.com/ru/articles/1060684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060684)
-- [Крашенная и не накрашенная…](https://habr.com/ru/articles/1060688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060688)
-- [Посмотрел, как современные дейтинг приложение обращаются с данными и нежелательным контентом](https://habr.com/ru/articles/1060652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060652)
+- [crypto-gost — криптографическая библиотека алгоритмов ГОСТ на Java и Android](https://habr.com/ru/articles/1060744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060744)
+- [Ответ разработчика на статью про «бизнес-схему»](https://habr.com/ru/articles/1060732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060732)
+- [Компилятор в 16 лет](https://habr.com/ru/articles/1060738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060738)
+- [Greenfield и Brownfield: разработка новых и существующих систем в эпоху AI](https://habr.com/ru/articles/1060592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060592)
+- [Почему ваше React Native приложение падает при установке и как один метод в MainApplication это исправляет](https://habr.com/ru/articles/1055180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055180)
 <!-- BLOG-POST-LIST:END -->
 
 ---
