@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [crypto-gost — криптографическая библиотека алгоритмов ГОСТ на Java и Android](https://habr.com/ru/articles/1060744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060744)
-- [Ответ разработчика на статью про «бизнес-схему»](https://habr.com/ru/articles/1060732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060732)
-- [Компилятор в 16 лет](https://habr.com/ru/articles/1060738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060738)
-- [Greenfield и Brownfield: разработка новых и существующих систем в эпоху AI](https://habr.com/ru/articles/1060592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060592)
-- [Почему ваше React Native приложение падает при установке и как один метод в MainApplication это исправляет](https://habr.com/ru/articles/1055180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055180)
+- [Когда данные теряют смысл: MCO, YouTube, PayPal и Therac-25 как учебные кейсы](https://habr.com/ru/articles/1060840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060840)
+- [Avorion: создаём мод для торговли с нуля — интерфейс, Lua и подводные камни](https://habr.com/ru/companies/timeweb/articles/1049352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049352)
+- [[Перевод] Я превратил Slack в интерактивную консоль для работающего .NET-приложения](https://habr.com/ru/articles/1060700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060700)
+- [Как мы вышли на $3000+ в месяц на приложении для транскрибации YouTube-видео](https://habr.com/ru/articles/1060834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060834)
+- [15 докладов TEAM EVENT 2026: подборки для пяти профессиональных ролей](https://habr.com/ru/companies/infostart/articles/1060830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060830)
 <!-- BLOG-POST-LIST:END -->
 
 ---
