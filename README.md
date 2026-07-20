@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Технический долг никуда не исчез. Мы просто начали платить за него токенами](https://habr.com/ru/articles/1061134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061134)
 - [Dirty Coding Tricks, part 3](https://habr.com/ru/articles/1060540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060540)
 - [Программирование как экспериментальная метафизика](https://habr.com/ru/articles/1061112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061112)
 - [На дворе C++23, а заставить компилятор проверять код всё ещё помогает только ассемблер](https://habr.com/ru/articles/1058316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058316)
 - [Что такое качественный антидетект-браузер и почему мы написали свой, когда рынок уже перегрет](https://habr.com/ru/companies/aurorium/articles/1061062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061062)
-- [Astra Studio: enterprise веб-приложение для взаимодействия с ИИ с нуля](https://habr.com/ru/articles/1061052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061052)
 <!-- BLOG-POST-LIST:END -->
 
 ---
