@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как мелодия звонка стала товарным знаком: история Nokia Tune](https://habr.com/ru/companies/onlinepatent/articles/1061450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061450)
-- [Napominator Home: Полное руководство по установке, настройке и использованию](https://habr.com/ru/articles/1061398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061398)
-- [Миграция MariaDB → PostgreSQL без даунтайма: почему обычные утилиты не подошли и как мы сделали это через Debezium CDC](https://habr.com/ru/articles/1061438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061438)
-- [[Перевод] Заглядывая в будущее: Postgres 19. REPACK, SQL/PGQ и умный autovacuum](https://habr.com/ru/companies/haulmont/articles/1061338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061338)
-- [Как заставить нескольких агентов работать над одним проектом и не мешать друг другу](https://habr.com/ru/articles/1061420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061420)
+- [[Перевод] Основы Knowledge Management в разработке](https://habr.com/ru/articles/1061524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061524)
+- [После вайб-кодинга: почему в 2026 году появляется новый класс Code Clean-up Agents](https://habr.com/ru/articles/1061498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061498)
+- [[Перевод] Циклические реактивные зависимости](https://habr.com/ru/articles/1061490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061490)
+- [Как я организовал проект на Next.js](https://habr.com/ru/articles/1061510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061510)
+- [[Перевод] AI-centric архитектура Flutter-приложения &lpar;и не только&rpar; для небольших стартапов](https://habr.com/ru/articles/1061508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061508)
 <!-- BLOG-POST-LIST:END -->
 
 ---
