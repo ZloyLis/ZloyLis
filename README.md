@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Security: дополнение к JWT токенам](https://habr.com/ru/articles/1061586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061586)
+- [От бесконечности к конечности: как математика помогает в тестировании](https://habr.com/ru/articles/1061572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061572)
 - [Ночной джоб, который сам нарезает партиции: cron, SQL-функция и сплиттер](https://habr.com/ru/articles/1061558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061558)
 - [Шесть часов на один рендер: как я собрал нативную студию Ideogram 4 на Swift и MLX](https://habr.com/ru/articles/1060678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060678)
 - [Прототипирование фронта в 2к26 от системного аналитика](https://habr.com/ru/articles/1061532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061532)
-- [[Перевод] Основы Knowledge Management в разработке](https://habr.com/ru/articles/1061524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061524)
-- [После вайб-кодинга: почему в 2026 году появляется новый класс Code Clean-up Agents](https://habr.com/ru/articles/1061498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061498)
 <!-- BLOG-POST-LIST:END -->
 
 ---
