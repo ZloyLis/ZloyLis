@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Разработка — это больше не код. Как AI меняет работу инженера через управление контекстом](https://habr.com/ru/companies/sportmaster_lab/articles/1061250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061250)
-- [Как мы делаем 2D-симулятор грузоперевозок: что уже готово и куда движемся к MVP](https://habr.com/ru/articles/1061324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061324)
-- [Неопределённость под контролем. Кейс исследований в работе аналитика](https://habr.com/ru/articles/1061314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061314)
-- [ClickHouse: сценарии, сильные стороны, лучшие практики работы в 2026 году](https://habr.com/ru/companies/vk/articles/1061284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061284)
-- [Как работать с ИИ-агентом предсказуемо: SDD, TDD, самопроверка и субагенты](https://habr.com/ru/companies/veai/articles/1061254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061254)
+- [Как мелодия звонка стала товарным знаком: история Nokia Tune](https://habr.com/ru/companies/onlinepatent/articles/1061450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061450)
+- [Napominator Home: Полное руководство по установке, настройке и использованию](https://habr.com/ru/articles/1061398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061398)
+- [Миграция MariaDB → PostgreSQL без даунтайма: почему обычные утилиты не подошли и как мы сделали это через Debezium CDC](https://habr.com/ru/articles/1061438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061438)
+- [[Перевод] Заглядывая в будущее: Postgres 19. REPACK, SQL/PGQ и умный autovacuum](https://habr.com/ru/companies/haulmont/articles/1061338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061338)
+- [Как заставить нескольких агентов работать над одним проектом и не мешать друг другу](https://habr.com/ru/articles/1061420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061420)
 <!-- BLOG-POST-LIST:END -->
 
 ---
