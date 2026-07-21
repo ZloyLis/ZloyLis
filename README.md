@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ночной джоб, который сам нарезает партиции: cron, SQL-функция и сплиттер](https://habr.com/ru/articles/1061558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061558)
+- [Шесть часов на один рендер: как я собрал нативную студию Ideogram 4 на Swift и MLX](https://habr.com/ru/articles/1060678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060678)
+- [Прототипирование фронта в 2к26 от системного аналитика](https://habr.com/ru/articles/1061532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061532)
 - [[Перевод] Основы Knowledge Management в разработке](https://habr.com/ru/articles/1061524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061524)
 - [После вайб-кодинга: почему в 2026 году появляется новый класс Code Clean-up Agents](https://habr.com/ru/articles/1061498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061498)
-- [[Перевод] Циклические реактивные зависимости](https://habr.com/ru/articles/1061490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061490)
-- [Как я организовал проект на Next.js](https://habr.com/ru/articles/1061510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061510)
-- [[Перевод] AI-centric архитектура Flutter-приложения &lpar;и не только&rpar; для небольших стартапов](https://habr.com/ru/articles/1061508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061508)
 <!-- BLOG-POST-LIST:END -->
 
 ---
