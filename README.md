@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ни одного ложноотрицательного: пишем Фильтр Блума на C](https://habr.com/ru/companies/timeweb/articles/1055544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055544)
-- [Чем занять ребёнка летом и какие курсы выбрать, чтобы каникулы не прошли зря](https://habr.com/ru/companies/habr_career/articles/1061230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061230)
-- [Скрытый control plane в k8s](https://habr.com/ru/articles/1061228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061228)
-- [Как VPS с 1 ГБ RAM пережил 1,2 млн запросов за сутки: разбираю «Шакализатор» по слоям](https://habr.com/ru/articles/1061220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061220)
-- [ИИ-агент работает, пока ему не дали доступ к реальным данным. Что ломается в проде?](https://habr.com/ru/articles/1061082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061082)
+- [Разработка — это больше не код. Как AI меняет работу инженера через управление контекстом](https://habr.com/ru/companies/sportmaster_lab/articles/1061250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061250)
+- [Как мы делаем 2D-симулятор грузоперевозок: что уже готово и куда движемся к MVP](https://habr.com/ru/articles/1061324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061324)
+- [Неопределённость под контролем. Кейс исследований в работе аналитика](https://habr.com/ru/articles/1061314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061314)
+- [ClickHouse: сценарии, сильные стороны, лучшие практики работы в 2026 году](https://habr.com/ru/companies/vk/articles/1061284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061284)
+- [Как работать с ИИ-агентом предсказуемо: SDD, TDD, самопроверка и субагенты](https://habr.com/ru/companies/veai/articles/1061254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061254)
 <!-- BLOG-POST-LIST:END -->
 
 ---
