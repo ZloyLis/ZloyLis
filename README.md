@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Довайбкодились. ИИ-инструменты экономят время, но убивают понимание кода?](https://habr.com/ru/companies/ispsystem/articles/1061164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061164)
+- [Mermaid как платная AI функция в проекте Django/Next](https://habr.com/ru/articles/1061160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061160)
 - [Как я три года пилю свой музыкальный сервер: часть вторая. Архитектура Kalinka и её место среди музыкальных систем](https://habr.com/ru/articles/1061144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061144)
 - [Технический долг никуда не исчез. Мы просто начали платить за него токенами](https://habr.com/ru/articles/1061134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061134)
 - [Dirty Coding Tricks, part 3](https://habr.com/ru/articles/1060540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060540)
-- [Программирование как экспериментальная метафизика](https://habr.com/ru/articles/1061112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061112)
-- [На дворе C++23, а заставить компилятор проверять код всё ещё помогает только ассемблер](https://habr.com/ru/articles/1058316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058316)
 <!-- BLOG-POST-LIST:END -->
 
 ---
