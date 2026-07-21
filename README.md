@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Довайбкодились. ИИ-инструменты экономят время, но убивают понимание кода?](https://habr.com/ru/companies/ispsystem/articles/1061164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061164)
-- [Mermaid как платная AI функция в проекте Django/Next](https://habr.com/ru/articles/1061160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061160)
-- [Как я три года пилю свой музыкальный сервер: часть вторая. Архитектура Kalinka и её место среди музыкальных систем](https://habr.com/ru/articles/1061144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061144)
-- [Технический долг никуда не исчез. Мы просто начали платить за него токенами](https://habr.com/ru/articles/1061134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061134)
-- [Dirty Coding Tricks, part 3](https://habr.com/ru/articles/1060540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060540)
+- [Ни одного ложноотрицательного: пишем Фильтр Блума на C](https://habr.com/ru/companies/timeweb/articles/1055544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055544)
+- [Чем занять ребёнка летом и какие курсы выбрать, чтобы каникулы не прошли зря](https://habr.com/ru/companies/habr_career/articles/1061230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061230)
+- [Скрытый control plane в k8s](https://habr.com/ru/articles/1061228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061228)
+- [Как VPS с 1 ГБ RAM пережил 1,2 млн запросов за сутки: разбираю «Шакализатор» по слоям](https://habr.com/ru/articles/1061220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061220)
+- [ИИ-агент работает, пока ему не дали доступ к реальным данным. Что ломается в проде?](https://habr.com/ru/articles/1061082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061082)
 <!-- BLOG-POST-LIST:END -->
 
 ---
