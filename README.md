@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Все, что нужно знать про построение точечных оценок](https://habr.com/ru/articles/1061846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061846)
-- [Обзор на Astro JS: опыт боевого проекта на 500+ тысяч страниц](https://habr.com/ru/articles/1061810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061810)
-- [Выпущена версия Jmix 3.0](https://habr.com/ru/companies/haulmont/articles/1061776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061776)
-- [С телефона в Альпах в Microsoft Store за две недели: нативный GUI для PostgreSQL через облачный Claude Code](https://habr.com/ru/articles/1061774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061774)
-- [ИИ, маркировка и заработок — обсуждения в сообществе 1С](https://habr.com/ru/companies/infostart/articles/1061740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061740)
+- [Ошибки не должны быть безмолвными: Sentry, Firebase Crashlytics и Datadog в одном Flutter‑приложении](https://habr.com/ru/companies/otus/articles/1057544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057544)
+- [Почему AI не заменит разработчиков. Или заменит](https://habr.com/ru/articles/1061918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061918)
+- [[Перевод] Исследование кода GTA Vice City](https://habr.com/ru/companies/ruvds/articles/1061048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061048)
+- [Социальная инженерия. Диагностика команд. Часть 2. Культурная перспектива. Метафоры «Машина», «Организация»](https://habr.com/ru/articles/1061858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061858)
+- [Koda Desktop – больше возможностей и не только для разработчика](https://habr.com/ru/companies/koda/articles/1061396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061396)
 <!-- BLOG-POST-LIST:END -->
 
 ---
