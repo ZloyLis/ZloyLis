@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я добавил HEIF, HEIC и AVIF в Android-ImageMagick7](https://habr.com/ru/articles/1062000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062000)
 - [System Design на практике: создаем систему сокращения ссылок от проектирования архитектуры до развертывания в облаке](https://habr.com/ru/articles/1052938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052938)
 - [Как я склеиваю 23 тысячи событий из пяти афиш — и почему дедуп нельзя делать необратимым](https://habr.com/ru/articles/1061956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061956)
 - [Python: как один из самых медленных языков стал королем нейросетей](https://habr.com/ru/articles/1061952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061952)
 - [Как мы показываем клиентам документацию по проекту из приватного репозитория, не пуская их в репозиторий](https://habr.com/ru/articles/1061946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061946)
-- [Чемпионат среди uplift-моделей: групповой этап, плей-офф и неожиданный лидер](https://habr.com/ru/companies/avito/articles/1061032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061032)
 <!-- BLOG-POST-LIST:END -->
 
 ---
