@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ошибки не должны быть безмолвными: Sentry, Firebase Crashlytics и Datadog в одном Flutter‑приложении](https://habr.com/ru/companies/otus/articles/1057544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057544)
-- [Почему AI не заменит разработчиков. Или заменит](https://habr.com/ru/articles/1061918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061918)
-- [[Перевод] Исследование кода GTA Vice City](https://habr.com/ru/companies/ruvds/articles/1061048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061048)
-- [Социальная инженерия. Диагностика команд. Часть 2. Культурная перспектива. Метафоры «Машина», «Организация»](https://habr.com/ru/articles/1061858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061858)
-- [Koda Desktop – больше возможностей и не только для разработчика](https://habr.com/ru/companies/koda/articles/1061396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061396)
+- [System Design на практике: создаем систему сокращения ссылок от проектирования архитектуры до развертывания в облаке](https://habr.com/ru/articles/1052938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052938)
+- [Как я склеиваю 23 тысячи событий из пяти афиш — и почему дедуп нельзя делать необратимым](https://habr.com/ru/articles/1061956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061956)
+- [Python: как один из самых медленных языков стал королем нейросетей](https://habr.com/ru/articles/1061952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061952)
+- [Как мы показываем клиентам документацию по проекту из приватного репозитория, не пуская их в репозиторий](https://habr.com/ru/articles/1061946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061946)
+- [Чемпионат среди uplift-моделей: групповой этап, плей-офф и неожиданный лидер](https://habr.com/ru/companies/avito/articles/1061032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061032)
 <!-- BLOG-POST-LIST:END -->
 
 ---
