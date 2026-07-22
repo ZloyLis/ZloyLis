@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Все, что нужно знать про построение точечных оценок](https://habr.com/ru/articles/1061846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061846)
+- [Обзор на Astro JS: опыт боевого проекта на 500+ тысяч страниц](https://habr.com/ru/articles/1061810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061810)
+- [Выпущена версия Jmix 3.0](https://habr.com/ru/companies/haulmont/articles/1061776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061776)
+- [С телефона в Альпах в Microsoft Store за две недели: нативный GUI для PostgreSQL через облачный Claude Code](https://habr.com/ru/articles/1061774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061774)
 - [ИИ, маркировка и заработок — обсуждения в сообществе 1С](https://habr.com/ru/companies/infostart/articles/1061740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061740)
-- [Как я автоматизировал превращение вайбкодерского PoC в production-ready MVP](https://habr.com/ru/articles/1061702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061702)
-- [Четыре месяца с Claude Code: что в итоге осталось лежать в .claude/](https://habr.com/ru/articles/1061696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061696)
-- [Серверы из ноутбуков, смартфонов и приставок](https://habr.com/ru/companies/ruvds/articles/1057438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057438)
-- [Разработка TypeScript-библиотеки для построения реактивных графов распространения и обработки данных](https://habr.com/ru/articles/1061630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061630)
 <!-- BLOG-POST-LIST:END -->
 
 ---
