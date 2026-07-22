@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Математика – эликсир мудрости. Закон Амдала. Программирование три в одном](https://habr.com/ru/articles/1062050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062050)
 - [Как я научил Claude заказывать продукты в Яндекс Лавке &lpar;и что для этого пришлось отреверсить&rpar;](https://habr.com/ru/articles/1062042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062042)
 - [Как я добавил HEIF, HEIC и AVIF в Android-ImageMagick7](https://habr.com/ru/articles/1062000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062000)
 - [System Design на практике: создаем систему сокращения ссылок от проектирования архитектуры до развертывания в облаке](https://habr.com/ru/articles/1052938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052938)
 - [Как я склеиваю 23 тысячи событий из пяти афиш — и почему дедуп нельзя делать необратимым](https://habr.com/ru/articles/1061956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061956)
-- [Python: как один из самых медленных языков стал королем нейросетей](https://habr.com/ru/articles/1061952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061952)
 <!-- BLOG-POST-LIST:END -->
 
 ---
