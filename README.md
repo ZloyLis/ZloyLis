@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я писал Лицензию для «Свободного ИИ»](https://habr.com/ru/articles/1061660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061660)
+- [Построчное шифрование для хранения в репозитории](https://habr.com/ru/articles/1061384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061384)
 - [Корпоративный ИИ за $10 млн отмел статью Q1. И он оказался прав — но не так, как он думал](https://habr.com/ru/articles/1061178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061178)
 - [«Зачем Javasript-у DI контейнер?»](https://habr.com/ru/articles/1061632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061632)
 - [Не дали ИИ-агенту соврать — его же памятью](https://habr.com/ru/articles/1061628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061628)
-- [Итак, я написал MCP…](https://habr.com/ru/articles/1061606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061606)
-- [Spring Security: дополнение к JWT токенам](https://habr.com/ru/articles/1061586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061586)
 <!-- BLOG-POST-LIST:END -->
 
 ---
