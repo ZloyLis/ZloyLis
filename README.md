@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я стал разработчиком и что бы сделал иначе, начиная путь заново: история студента онлайн-магистратуры ИТМО](https://habr.com/ru/companies/yandex_praktikum/articles/1062358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062358)
+- [Зачем вообще нужен этот ваш ITAM?](https://habr.com/ru/companies/simpleone/articles/1062374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062374)
+- [LLM и психолингвистика: HELPER](https://habr.com/ru/companies/vk/articles/1062310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062310)
 - [[Перевод] Что нового в PyCharm 2026.2](https://habr.com/ru/companies/haulmont/articles/1062338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062338)
 - [[Перевод] Как выстроить доверенный TLS в Kubernetes без InsecureSkipVerify](https://habr.com/ru/companies/otus/articles/1061964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061964)
-- [Кэширование в Symfony: мы сломали авторизацию и исправили это с помощью Lock](https://habr.com/ru/articles/1061794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061794)
-- [С++: Пиши, сокращай, оптимизируй](https://habr.com/ru/companies/pvs-studio/articles/1062330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062330)
-- [Как искать проблемы производительности в Python](https://habr.com/ru/companies/tochka/articles/1062090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062090)
 <!-- BLOG-POST-LIST:END -->
 
 ---
