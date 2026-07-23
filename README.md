@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Модель не виновата: разбираем 3 громких ИИ-инцидента, которые случились из-за отсутствия архитектуры](https://habr.com/ru/articles/1061346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061346)
+- [Как построить концептуальную модель данных для проектируемой базы данных?](https://habr.com/ru/articles/1011692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011692)
+- [Визуализация основных шагов упрощенной схемы доказательства гипотезы Пуанкаре](https://habr.com/ru/articles/1061522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061522)
 - [Как устроен ГИГАХРУЩ: Как мы заставили линейную алгебру и теорию категорий писать процедурную речь для НПС](https://habr.com/ru/articles/1062060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062060)
 - [Математика – эликсир мудрости. Закон Амдала. Программирование три в одном](https://habr.com/ru/articles/1062050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062050)
-- [Как я научил Claude заказывать продукты в Яндекс Лавке &lpar;и что для этого пришлось отреверсить&rpar;](https://habr.com/ru/articles/1062042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062042)
-- [Как я добавил HEIF, HEIC и AVIF в Android-ImageMagick7](https://habr.com/ru/articles/1062000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062000)
-- [System Design на практике: создаем систему сокращения ссылок от проектирования архитектуры до развертывания в облаке](https://habr.com/ru/articles/1052938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052938)
 <!-- BLOG-POST-LIST:END -->
 
 ---
