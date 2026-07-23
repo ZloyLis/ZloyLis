@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Модель не виновата: разбираем 3 громких ИИ-инцидента, которые случились из-за отсутствия архитектуры](https://habr.com/ru/articles/1061346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061346)
-- [Как построить концептуальную модель данных для проектируемой базы данных?](https://habr.com/ru/articles/1011692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1011692)
-- [Визуализация основных шагов упрощенной схемы доказательства гипотезы Пуанкаре](https://habr.com/ru/articles/1061522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061522)
-- [Как устроен ГИГАХРУЩ: Как мы заставили линейную алгебру и теорию категорий писать процедурную речь для НПС](https://habr.com/ru/articles/1062060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062060)
-- [Математика – эликсир мудрости. Закон Амдала. Программирование три в одном](https://habr.com/ru/articles/1062050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062050)
+- [Платформы для автоматизации бизнес-процессов: разбор 10 Low-code решений изнутри](https://habr.com/ru/companies/simpleone/articles/1062152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062152)
+- [Document Driven Development: превращаем хаос разработки в порядок с помощью TypeSpec и не только](https://habr.com/ru/companies/ru_mts/articles/1061706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061706)
+- [Линейки версий WordPress под микроскопом](https://habr.com/ru/articles/1062144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062144)
+- [100 идей для проекта &lpar;придуманных 5 лет назад&rpar;: ретроспектива](https://habr.com/ru/articles/1062038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062038)
+- [Измеряя незримое: что и как измерять в мобильной разработке](https://habr.com/ru/companies/domclick/articles/1059144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059144)
 <!-- BLOG-POST-LIST:END -->
 
 ---
