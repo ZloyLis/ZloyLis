@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Путеводитель по EASTL](https://habr.com/ru/articles/1058152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058152)
 - [Ленивая загрузка — не лекарство: почему ваш main.js всё равно весит 2 МБ](https://habr.com/ru/companies/otus/articles/1059536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059536)
 - [Автоматизировать бардак нельзя навести порядок](https://habr.com/ru/articles/1062468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062468)
 - [Начал раздавать бесплатные поддомены на fluxcast.dev и погряз в войне с DNS, гитом и сертификатами](https://habr.com/ru/articles/1062462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062462)
 - [Сколько стоит контроль над ИИ-агентом? Считаем экономику](https://habr.com/ru/companies/veai/articles/1062428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062428)
-- [«С блэкджеком и CI/CD»: APT-репозиторий на базе GitHub и Cloudflare Workers](https://habr.com/ru/articles/1062422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062422)
 <!-- BLOG-POST-LIST:END -->
 
 ---
