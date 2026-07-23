@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Что такое 10 REM&amp;quot;_&lpar;C2SLFF4, или как в комментарий 1980 года спрятали машинный код](https://habr.com/ru/companies/cloud4y/articles/1062236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062236)
-- [Книга: «Системная инженерия: современные методы проектирования для создания сложных информационных систем. 2-е изд.»](https://habr.com/ru/companies/piter/articles/1061034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061034)
-- [[Перевод] On-prem DBaaS в 2026 году: платформы, стандарты и пробелы](https://habr.com/ru/companies/vktech/articles/1062138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062138)
-- [[Перевод] Как «быстрый» кольцевой буфер поднял загрузку CPU с 2% до 25%](https://habr.com/ru/articles/1062058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062058)
-- [Масштабирование Zeebe: от каскадных сбоев до 100 процессов в секунду через анализ ресурсов и тюнинг](https://habr.com/ru/companies/tbank/articles/1059936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059936)
+- [[Перевод] Что нового в PyCharm 2026.2](https://habr.com/ru/companies/haulmont/articles/1062338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062338)
+- [[Перевод] Как выстроить доверенный TLS в Kubernetes без InsecureSkipVerify](https://habr.com/ru/companies/otus/articles/1061964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061964)
+- [Кэширование в Symfony: мы сломали авторизацию и исправили это с помощью Lock](https://habr.com/ru/articles/1061794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061794)
+- [С++: Пиши, сокращай, оптимизируй](https://habr.com/ru/companies/pvs-studio/articles/1062330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062330)
+- [Как искать проблемы производительности в Python](https://habr.com/ru/companies/tochka/articles/1062090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062090)
 <!-- BLOG-POST-LIST:END -->
 
 ---
