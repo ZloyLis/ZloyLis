@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сколько стоит контроль над ИИ-агентом? Считаем экономику](https://habr.com/ru/companies/veai/articles/1062428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062428)
+- [«С блэкджеком и CI/CD»: APT-репозиторий на базе GitHub и Cloudflare Workers](https://habr.com/ru/articles/1062422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062422)
 - [Как я стал разработчиком и что бы сделал иначе, начиная путь заново: история студента онлайн-магистратуры ИТМО](https://habr.com/ru/companies/yandex_praktikum/articles/1062358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062358)
 - [Зачем вообще нужен этот ваш ITAM?](https://habr.com/ru/companies/simpleone/articles/1062374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062374)
 - [LLM и психолингвистика: HELPER](https://habr.com/ru/companies/vk/articles/1062310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062310)
-- [[Перевод] Что нового в PyCharm 2026.2](https://habr.com/ru/companies/haulmont/articles/1062338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062338)
-- [[Перевод] Как выстроить доверенный TLS в Kubernetes без InsecureSkipVerify](https://habr.com/ru/companies/otus/articles/1061964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061964)
 <!-- BLOG-POST-LIST:END -->
 
 ---
