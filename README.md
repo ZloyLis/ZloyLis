@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Платформы для автоматизации бизнес-процессов: разбор 10 Low-code решений изнутри](https://habr.com/ru/companies/simpleone/articles/1062152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062152)
-- [Document Driven Development: превращаем хаос разработки в порядок с помощью TypeSpec и не только](https://habr.com/ru/companies/ru_mts/articles/1061706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061706)
-- [Линейки версий WordPress под микроскопом](https://habr.com/ru/articles/1062144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062144)
-- [100 идей для проекта &lpar;придуманных 5 лет назад&rpar;: ретроспектива](https://habr.com/ru/articles/1062038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062038)
-- [Измеряя незримое: что и как измерять в мобильной разработке](https://habr.com/ru/companies/domclick/articles/1059144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059144)
+- [[Перевод] Что такое 10 REM&amp;quot;_&lpar;C2SLFF4, или как в комментарий 1980 года спрятали машинный код](https://habr.com/ru/companies/cloud4y/articles/1062236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062236)
+- [Книга: «Системная инженерия: современные методы проектирования для создания сложных информационных систем. 2-е изд.»](https://habr.com/ru/companies/piter/articles/1061034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061034)
+- [[Перевод] On-prem DBaaS в 2026 году: платформы, стандарты и пробелы](https://habr.com/ru/companies/vktech/articles/1062138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062138)
+- [[Перевод] Как «быстрый» кольцевой буфер поднял загрузку CPU с 2% до 25%](https://habr.com/ru/articles/1062058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062058)
+- [Масштабирование Zeebe: от каскадных сбоев до 100 процессов в секунду через анализ ресурсов и тюнинг](https://habr.com/ru/companies/tbank/articles/1059936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059936)
 <!-- BLOG-POST-LIST:END -->
 
 ---
