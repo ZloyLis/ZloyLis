@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Карточки из музыкальной студии 1975 года против продуктовых тупиков](https://habr.com/ru/articles/1062028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062028)
+- [AI-агент для анализа требований в финтехе: собираем контекст и находим проблемы до разработки](https://habr.com/ru/companies/svoi_ru/articles/1062390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062390)
 - [КАК УСТАНОВИТЬ И НАСТРОИТЬ DARKGRAM: ГАЙДp ДЛЯ НОВЫХ ПОЛЬЗОВАТЕЛЕЙ](https://habr.com/ru/articles/1062514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062514)
 - [Путеводитель по EASTL](https://habr.com/ru/articles/1058152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058152)
 - [Ленивая загрузка — не лекарство: почему ваш main.js всё равно весит 2 МБ](https://habr.com/ru/companies/otus/articles/1059536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059536)
-- [Автоматизировать бардак нельзя навести порядок](https://habr.com/ru/articles/1062468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062468)
-- [Начал раздавать бесплатные поддомены на fluxcast.dev и погряз в войне с DNS, гитом и сертификатами](https://habr.com/ru/articles/1062462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062462)
 <!-- BLOG-POST-LIST:END -->
 
 ---
