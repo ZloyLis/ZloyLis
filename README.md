@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Социальная инженерия. Диагностика команд. Часть 2. Культурная перспектива. Метафора «Мозг»](https://habr.com/ru/articles/1062688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062688)
-- [Dasha — дашборд PostgreSQL](https://habr.com/ru/articles/1062540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062540)
-- [Один поток, а всё успевает: как работает цикл событий в JavaScript](https://habr.com/ru/companies/otus/articles/1062056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062056)
-- [Отзыв о Т-Курсах от Т-Банка](https://habr.com/ru/articles/1062682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062682)
-- [Почему сайт невидим для роботов: проблемы вайб-кодинга](https://habr.com/ru/articles/1062668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062668)
+- [Один файл, одна команда: как мы упростили запуск dev-окружения с помощью Runium](https://habr.com/ru/companies/kaspersky/articles/1062424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062424)
+- [[Перевод] То, что только что произошло с TheNumbers.com, должно нас всех обеспокоить](https://habr.com/ru/articles/1062474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062474)
+- [[Перевод] Натуральные ключи в БД. Последний раз объясняю](https://habr.com/ru/companies/spring_aio/articles/1062754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062754)
+- [Предпринимательский «Оскар»: как продать свой стартап Авито и остаться в нём главным](https://habr.com/ru/companies/avito/articles/1062752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062752)
+- [Что сломается в вашем сервисе завтра, если сегодня вы запустите контейнеры без проверки образов](https://habr.com/ru/companies/cloud_ru/articles/1062248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062248)
 <!-- BLOG-POST-LIST:END -->
 
 ---
