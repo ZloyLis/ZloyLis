@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Harness engineering: как за год собрать фабрику из десятка конвейеров](https://habr.com/ru/articles/1062822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062822)
+- [Атрибуция при длинном цикле и разреженных сделках: как связать клик со сделкой по квартире](https://habr.com/ru/articles/1062808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062808)
 - [Ленивый LINQ: разбираем yield и ленивые вычисления по кирпичикам. Часть 2](https://habr.com/ru/articles/1062802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062802)
 - [Форк файлового менеджера, подозрительно похожего на Midnight Commander](https://habr.com/ru/articles/1062796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062796)
 - [Умный флорариум на esp32: от корпоративной оптимизации до дедовской клизмы](https://habr.com/ru/articles/1062788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062788)
-- [Один файл, одна команда: как мы упростили запуск dev-окружения с помощью Runium](https://habr.com/ru/companies/kaspersky/articles/1062424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062424)
-- [[Перевод] То, что только что произошло с TheNumbers.com, должно нас всех обеспокоить](https://habr.com/ru/articles/1062474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062474)
 <!-- BLOG-POST-LIST:END -->
 
 ---
