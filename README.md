@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как исследования пользователей помогают создавать инновационные сервисы](https://habr.com/ru/articles/1062620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062620)
-- [[Перевод] Что нового в GoLand 2026.2](https://habr.com/ru/companies/haulmont/articles/1062616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062616)
-- [LLM-судье нельзя верить на слово: как построить надёжный гейт и проверить сами тесты](https://habr.com/ru/articles/1062614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062614)
-- [Практические приемы работы в nanoCAD Механика PRO: конструирование малых архитектурных форм](https://habr.com/ru/companies/nanosoft/articles/1062610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062610)
-- [Свободные функции вместо методов, но с полиморфизмом. Что это даёт на самом деле?](https://habr.com/ru/articles/1062600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062600)
+- [Социальная инженерия. Диагностика команд. Часть 2. Культурная перспектива. Метафора «Мозг»](https://habr.com/ru/articles/1062688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062688)
+- [Dasha — дашборд PostgreSQL](https://habr.com/ru/articles/1062540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062540)
+- [Один поток, а всё успевает: как работает цикл событий в JavaScript](https://habr.com/ru/companies/otus/articles/1062056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062056)
+- [Отзыв о Т-Курсах от Т-Банка](https://habr.com/ru/articles/1062682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062682)
+- [Почему сайт невидим для роботов: проблемы вайб-кодинга](https://habr.com/ru/articles/1062668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062668)
 <!-- BLOG-POST-LIST:END -->
 
 ---
