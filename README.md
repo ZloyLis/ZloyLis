@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Скачивание прошивки с ПЛИС Altera MAX, ну и немного про ремонт](https://habr.com/ru/articles/1062848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062848)
+- [460 ГБ, свободно 14: археология диска разработчика](https://habr.com/ru/articles/1062844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062844)
 - [[Перевод] Большинство ошибок при System Design ускользает из виду](https://habr.com/ru/articles/1062842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062842)
 - [Смартфон как элемент эшелонированной системы обнаружения БПЛА: архитектура распределенной сенсорной сети](https://habr.com/ru/articles/1062838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062838)
 - [Harness engineering: как за год собрать фабрику из десятка конвейеров](https://habr.com/ru/articles/1062822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062822)
-- [Атрибуция при длинном цикле и разреженных сделках: как связать клик со сделкой по квартире](https://habr.com/ru/articles/1062808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062808)
-- [Ленивый LINQ: разбираем yield и ленивые вычисления по кирпичикам. Часть 2](https://habr.com/ru/articles/1062802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062802)
 <!-- BLOG-POST-LIST:END -->
 
 ---
