@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ленивый LINQ: разбираем yield и ленивые вычисления по кирпичикам. Часть 2](https://habr.com/ru/articles/1062802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062802)
+- [Форк файлового менеджера, подозрительно похожего на Midnight Commander](https://habr.com/ru/articles/1062796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062796)
+- [Умный флорариум на esp32: от корпоративной оптимизации до дедовской клизмы](https://habr.com/ru/articles/1062788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062788)
 - [Один файл, одна команда: как мы упростили запуск dev-окружения с помощью Runium](https://habr.com/ru/companies/kaspersky/articles/1062424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062424)
 - [[Перевод] То, что только что произошло с TheNumbers.com, должно нас всех обеспокоить](https://habr.com/ru/articles/1062474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062474)
-- [[Перевод] Натуральные ключи в БД. Последний раз объясняю](https://habr.com/ru/companies/spring_aio/articles/1062754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062754)
-- [Предпринимательский «Оскар»: как продать свой стартап Авито и остаться в нём главным](https://habr.com/ru/companies/avito/articles/1062752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062752)
-- [Что сломается в вашем сервисе завтра, если сегодня вы запустите контейнеры без проверки образов](https://habr.com/ru/companies/cloud_ru/articles/1062248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062248)
 <!-- BLOG-POST-LIST:END -->
 
 ---
