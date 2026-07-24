@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Большинство ошибок при System Design ускользает из виду](https://habr.com/ru/articles/1062842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062842)
+- [Смартфон как элемент эшелонированной системы обнаружения БПЛА: архитектура распределенной сенсорной сети](https://habr.com/ru/articles/1062838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062838)
 - [Harness engineering: как за год собрать фабрику из десятка конвейеров](https://habr.com/ru/articles/1062822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062822)
 - [Атрибуция при длинном цикле и разреженных сделках: как связать клик со сделкой по квартире](https://habr.com/ru/articles/1062808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062808)
 - [Ленивый LINQ: разбираем yield и ленивые вычисления по кирпичикам. Часть 2](https://habr.com/ru/articles/1062802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062802)
-- [Форк файлового менеджера, подозрительно похожего на Midnight Commander](https://habr.com/ru/articles/1062796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062796)
-- [Умный флорариум на esp32: от корпоративной оптимизации до дедовской клизмы](https://habr.com/ru/articles/1062788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062788)
 <!-- BLOG-POST-LIST:END -->
 
 ---
