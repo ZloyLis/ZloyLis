@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Карточки из музыкальной студии 1975 года против продуктовых тупиков](https://habr.com/ru/articles/1062028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062028)
-- [AI-агент для анализа требований в финтехе: собираем контекст и находим проблемы до разработки](https://habr.com/ru/companies/svoi_ru/articles/1062390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062390)
-- [КАК УСТАНОВИТЬ И НАСТРОИТЬ DARKGRAM: ГАЙДp ДЛЯ НОВЫХ ПОЛЬЗОВАТЕЛЕЙ](https://habr.com/ru/articles/1062514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062514)
-- [Путеводитель по EASTL](https://habr.com/ru/articles/1058152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058152)
-- [Ленивая загрузка — не лекарство: почему ваш main.js всё равно весит 2 МБ](https://habr.com/ru/companies/otus/articles/1059536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059536)
+- [Как исследования пользователей помогают создавать инновационные сервисы](https://habr.com/ru/articles/1062620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062620)
+- [[Перевод] Что нового в GoLand 2026.2](https://habr.com/ru/companies/haulmont/articles/1062616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062616)
+- [LLM-судье нельзя верить на слово: как построить надёжный гейт и проверить сами тесты](https://habr.com/ru/articles/1062614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062614)
+- [Практические приемы работы в nanoCAD Механика PRO: конструирование малых архитектурных форм](https://habr.com/ru/companies/nanosoft/articles/1062610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062610)
+- [Свободные функции вместо методов, но с полиморфизмом. Что это даёт на самом деле?](https://habr.com/ru/articles/1062600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062600)
 <!-- BLOG-POST-LIST:END -->
 
 ---
