@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Можно ли подготовить инженера по Big Data и Machine Learning за один год? Опыт МАИ](https://habr.com/ru/companies/itmai/articles/1062438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062438)
+- [Замена телеграм-бота — открывальщика ворот](https://habr.com/ru/articles/1062960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062960)
+- [ILM на практике — помощь в переносе данных без сюрпризов. Разбираем демосценарий с разработчиком pg_ilm](https://habr.com/ru/companies/tantor/articles/1062276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062276)
 - [Как функция сохранения удалённых сообщений едва не положила весь мессенджер](https://habr.com/ru/articles/1062948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062948)
 - [Как поступить в онлайн-магистратуру «DevOps‑инженер облачных сервисов» ИТМО в партнёрстве с Яндексом в 2026 году](https://habr.com/ru/companies/yandex_praktikum/articles/1062320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062320)
-- [Демон Лапласа как исполняемая модель: условная энтропия и шесть типов ограничений на предсказание](https://habr.com/ru/articles/1062938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062938)
-- [Как отменять задачи в asyncio без зависаний и незавершённой очистки](https://habr.com/ru/companies/otus/articles/1062504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062504)
-- [Система виновата всегда — даже когда она еще не включена](https://habr.com/ru/articles/1062926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062926)
 <!-- BLOG-POST-LIST:END -->
 
 ---
