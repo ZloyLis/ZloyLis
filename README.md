@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Хуки Claude Code: запрещаем агенту коммитить без прогона тестов](https://habr.com/ru/articles/1062206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062206)
+- [Симулятор дальтонизма для сайта, Figma и Chrome: как девять чисел из статьи 2009 года разошлись по четырём инструментам](https://habr.com/ru/articles/1062846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062846)
+- [Бенчмаркая ключи Dictionary: забыл IEquatable — получил ×5 и 96 байт на каждый поиск](https://habr.com/ru/articles/1062854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062854)
 - [Скачивание прошивки с ПЛИС Altera MAX, ну и немного про ремонт](https://habr.com/ru/articles/1062848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062848)
 - [460 ГБ, свободно 14: археология диска разработчика](https://habr.com/ru/articles/1062844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062844)
-- [[Перевод] Большинство ошибок при System Design ускользает из виду](https://habr.com/ru/articles/1062842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062842)
-- [Смартфон как элемент эшелонированной системы обнаружения БПЛА: архитектура распределенной сенсорной сети](https://habr.com/ru/articles/1062838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062838)
-- [Harness engineering: как за год собрать фабрику из десятка конвейеров](https://habr.com/ru/articles/1062822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062822)
 <!-- BLOG-POST-LIST:END -->
 
 ---
