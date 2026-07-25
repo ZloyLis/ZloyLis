@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как поступить в онлайн-магистратуру «DevOps‑инженер облачных сервисов» ИТМО в партнёрстве с Яндексом в 2026 году](https://habr.com/ru/companies/yandex_praktikum/articles/1062320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062320)
+- [Демон Лапласа как исполняемая модель: условная энтропия и шесть типов ограничений на предсказание](https://habr.com/ru/articles/1062938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062938)
+- [Как отменять задачи в asyncio без зависаний и незавершённой очистки](https://habr.com/ru/companies/otus/articles/1062504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062504)
+- [Система виновата всегда — даже когда она еще не включена](https://habr.com/ru/articles/1062926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062926)
 - [Анти‑паттерн ИИ: Смертельная триада](https://habr.com/ru/articles/1062916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062916)
-- [пошКОДим: как превратить React-компонент в неуправляемый комбайн — 15 вредных советов](https://habr.com/ru/articles/1061620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061620)
-- [Нужна ли проектная документация в 26 году и что если ты пришел на новый проект, а там хаос и пустота?](https://habr.com/ru/articles/1062894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062894)
-- [Робот, который звонит в WhatsApp: как я автоматизировал то, что автоматизировать не предполагалось](https://habr.com/ru/articles/1062882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062882)
-- [Особенности SRE в мобильном банкинге: подходы, вызовы и специфика](https://habr.com/ru/companies/tbank/articles/1061650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061650)
 <!-- BLOG-POST-LIST:END -->
 
 ---
