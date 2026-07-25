@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ваш AI-агент не понимает код. Он просто очень уверенно угадывает — поэтому мы создали SLICER](https://habr.com/ru/articles/1063004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063004)
+- [Как найти ленивого в команде разработки?](https://habr.com/ru/articles/1063002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063002)
 - [Вводим рейтинг по алкоголизму](https://habr.com/ru/articles/1062992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062992)
 - [Автоматизация метаданных App Store и Google Play с fastlane и Azure Pipelines](https://habr.com/ru/articles/1062986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062986)
 - [Можно ли подготовить инженера по Big Data и Machine Learning за один год? Опыт МАИ](https://habr.com/ru/companies/itmai/articles/1062438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062438)
-- [Замена телеграм-бота — открывальщика ворот](https://habr.com/ru/articles/1062960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062960)
-- [ILM на практике — помощь в переносе данных без сюрпризов. Разбираем демосценарий с разработчиком pg_ilm](https://habr.com/ru/companies/tantor/articles/1062276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062276)
 <!-- BLOG-POST-LIST:END -->
 
 ---
