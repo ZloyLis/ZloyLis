@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Анти‑паттерн ИИ: Смертельная триада](https://habr.com/ru/articles/1062916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062916)
+- [пошКОДим: как превратить React-компонент в неуправляемый комбайн — 15 вредных советов](https://habr.com/ru/articles/1061620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061620)
 - [Нужна ли проектная документация в 26 году и что если ты пришел на новый проект, а там хаос и пустота?](https://habr.com/ru/articles/1062894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062894)
 - [Робот, который звонит в WhatsApp: как я автоматизировал то, что автоматизировать не предполагалось](https://habr.com/ru/articles/1062882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062882)
 - [Особенности SRE в мобильном банкинге: подходы, вызовы и специфика](https://habr.com/ru/companies/tbank/articles/1061650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061650)
-- [Хуки Claude Code: запрещаем агенту коммитить без прогона тестов](https://habr.com/ru/articles/1062206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062206)
-- [Симулятор дальтонизма для сайта, Figma и Chrome: как девять чисел из статьи 2009 года разошлись по четырём инструментам](https://habr.com/ru/articles/1062846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062846)
 <!-- BLOG-POST-LIST:END -->
 
 ---
