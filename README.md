@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Бенчмаркая FrozenDictionary: заменил Dictionary — получил от ×0,76 до ×1,9](https://habr.com/ru/articles/1063034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063034)
+- [Анализ сервисов на замену OpenRouter в РФ](https://habr.com/ru/articles/1063032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063032)
+- [Проектирование меню в стесненных условиях](https://habr.com/ru/articles/1063030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063030)
+- [С нуля до Junior DevOps в 2026 году. Часть 5.1. Kubernetes](https://habr.com/ru/articles/1063024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063024)
 - [Почему Duolingo не работает](https://habr.com/ru/articles/1063020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063020)
-- [Яндекс.Карты в Expo в 2026: поддерживаемый нативный SDK](https://habr.com/ru/articles/1063014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063014)
-- [Ваш AI-агент не понимает код. Он просто очень уверенно угадывает — поэтому мы создали SLICER](https://habr.com/ru/articles/1063004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063004)
-- [Как найти ленивого в команде разработки?](https://habr.com/ru/articles/1063002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063002)
-- [Вводим рейтинг по алкоголизму](https://habr.com/ru/articles/1062992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062992)
 <!-- BLOG-POST-LIST:END -->
 
 ---
