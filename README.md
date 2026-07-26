@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Что происходит внутри PCA, t-SNE и UMAP](https://habr.com/ru/companies/bothub/articles/1062924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062924)
-- [С нуля до Junior DevOps в 2026 году. Часть 5.2. Конфигурация и хранение данных в Kubernetes: ConfigMap, Secret](https://habr.com/ru/articles/1063156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063156)
-- [Чо по образованию. Оно все платное](https://habr.com/ru/articles/1063150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063150)
-- [Фронтенд никогда не умрёт](https://habr.com/ru/articles/1063144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063144)
-- [Структурные аномалии базовых точек secpXXXk1: криптоанализ Биткоина и практическое моделирование в Google Colab](https://habr.com/ru/articles/1063138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063138)
+- [Бенчмаркая Regex: конструктор показал 10 мкс, первый вызов — 1307](https://habr.com/ru/articles/1063204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063204)
+- [Деконструкция Go: Runtime или программа, которая запускает вашу программу. Часть 3.1](https://habr.com/ru/articles/1063194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063194)
+- [Я навайбкодила умный флорариум на esp32 и он работает](https://habr.com/ru/articles/1063192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063192)
+- [Чем вообще занимается служба безопасности GitHub?](https://habr.com/ru/articles/1063140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063140)
+- [UMAP быстрее t-SNE, но не лучше. Что происходит внутри PCA, t-SNE и UMAP](https://habr.com/ru/companies/bothub/articles/1062924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062924)
 <!-- BLOG-POST-LIST:END -->
 
 ---
