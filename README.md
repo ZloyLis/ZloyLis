@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что происходит внутри PCA, t-SNE и UMAP](https://habr.com/ru/companies/bothub/articles/1062924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062924)
+- [С нуля до Junior DevOps в 2026 году. Часть 5.2. Конфигурация и хранение данных в Kubernetes: ConfigMap, Secret](https://habr.com/ru/articles/1063156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063156)
+- [Чо по образованию. Оно все платное](https://habr.com/ru/articles/1063150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063150)
 - [Фронтенд никогда не умрёт](https://habr.com/ru/articles/1063144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063144)
 - [Структурные аномалии базовых точек secpXXXk1: криптоанализ Биткоина и практическое моделирование в Google Colab](https://habr.com/ru/articles/1063138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063138)
-- [Дубль один, дубль два: как я делала одну фичу дважды](https://habr.com/ru/articles/1063132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063132)
-- [Мобильная разработка за неделю #640 &lpar;20 — 26 июля&rpar;](https://habr.com/ru/articles/1063124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063124)
-- [У криптографов была «одна пуля в барабане». GPT-5.6 нашел вторую](https://habr.com/ru/articles/1063122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063122)
 <!-- BLOG-POST-LIST:END -->
 
 ---
