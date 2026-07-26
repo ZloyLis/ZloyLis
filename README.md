@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Фронтенд никогда не умрёт](https://habr.com/ru/articles/1063144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063144)
+- [Структурные аномалии базовых точек secpXXXk1: криптоанализ Биткоина и практическое моделирование в Google Colab](https://habr.com/ru/articles/1063138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063138)
+- [Дубль один, дубль два: как я делала одну фичу дважды](https://habr.com/ru/articles/1063132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063132)
+- [Мобильная разработка за неделю #640 &lpar;20 — 26 июля&rpar;](https://habr.com/ru/articles/1063124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063124)
 - [У криптографов была «одна пуля в барабане». GPT-5.6 нашел вторую](https://habr.com/ru/articles/1063122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063122)
-- [Назад в 2005-й. API-first как третья пилюля от деградации проекта под LLM](https://habr.com/ru/articles/1063096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063096)
-- [Облегчи себе разработку ботов – Raito](https://habr.com/ru/articles/1063000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063000)
-- [2 года в Obsidian: мой workflow, архитектура заметок, плагины и синхронизация](https://habr.com/ru/articles/1063080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063080)
-- [Как я, владелец сервисного центра, задолбался от чужих CRM и сделал свою на AI и выложил в open source](https://habr.com/ru/articles/1063078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063078)
 <!-- BLOG-POST-LIST:END -->
 
 ---
