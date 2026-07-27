@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Git: проблема длинного прыжка](https://habr.com/ru/articles/1063614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063614)
 - [Дистрибуция iOS‑приложения без App Store: практический опыт с AltStore PAL](https://habr.com/ru/articles/1063670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063670)
 - [[Перевод] Атомарность в реактивных системах](https://habr.com/ru/articles/1063664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063664)
 - [Почему идеальная LLM всё равно не сделает агентные системы предсказуемыми](https://habr.com/ru/articles/1063650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063650)
 - [Я продал одно место на концерт 20 раз. Разбираемся, как правильно защититься от race condition в Spring Boot](https://habr.com/ru/articles/1063642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063642)
-- [Цифровая трансформация проектирования в «Карабашмедь»: опыт внедрения nanoCAD BIM Строительство](https://habr.com/ru/companies/nanosoft/articles/1063630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063630)
 <!-- BLOG-POST-LIST:END -->
 
 ---
