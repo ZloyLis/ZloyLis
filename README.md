@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Django ORM ломается не там, где вы смотрели: шесть ошибок](https://habr.com/ru/companies/otus/articles/1062496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062496)
-- [[Перевод] Доверьтесь компилятору: C++23 против трюков из 90-х](https://habr.com/ru/companies/timeweb/articles/1061248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061248)
-- [SEO‑поиск в Next.js App Router, индексируемые landing pages из фильтров и URL](https://habr.com/ru/articles/1063570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063570)
-- [Армия в терминале](https://habr.com/ru/articles/1063558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063558)
-- [Фиксатон VK: как мы за три дня обработали 1500 багов в 12 продуктах и довели 420 фиксов до прода](https://habr.com/ru/companies/vk/articles/1063322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063322)
+- [Дистрибуция iOS‑приложения без App Store: практический опыт с AltStore PAL](https://habr.com/ru/articles/1063670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063670)
+- [[Перевод] Атомарность в реактивных системах](https://habr.com/ru/articles/1063664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063664)
+- [Почему идеальная LLM всё равно не сделает агентные системы предсказуемыми](https://habr.com/ru/articles/1063650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063650)
+- [Я продал одно место на концерт 20 раз. Разбираемся, как правильно защититься от race condition в Spring Boot](https://habr.com/ru/articles/1063642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063642)
+- [Цифровая трансформация проектирования в «Карабашмедь»: опыт внедрения nanoCAD BIM Строительство](https://habr.com/ru/companies/nanosoft/articles/1063630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063630)
 <!-- BLOG-POST-LIST:END -->
 
 ---
