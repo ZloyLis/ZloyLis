@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Практика программирования в эпоху ИИ &lpar;разбор реальной задачи на С++ с помощью ИИ агента&rpar;](https://habr.com/ru/articles/1063066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063066)
-- [[Перевод] Работа с AI/ML-нагрузками в Kubernetes: плагин Headlamp для Kubeflow](https://habr.com/ru/companies/vktech/articles/1062726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062726)
-- [Зрелость управления данными: предлагаю простую методику оценки](https://habr.com/ru/articles/1063316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063316)
-- [HashMap в Rust: SwissTable, SIMD по 16 байт за раз и RawTable, который от вас спрятали](https://habr.com/ru/companies/beget/articles/1051164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051164)
-- [Логгер в топе VTune: как найти строки, создающие нагрузку](https://habr.com/ru/articles/1063260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063260)
+- [Виды связываний &lpar;external, internal, no linkage&rpar; для самых маленьких](https://habr.com/ru/articles/1063468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063468)
+- [Как я получил перманентный бан за публикацию статьи про инди‑геймдев на IXBT](https://habr.com/ru/articles/1063366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063366)
+- [Декомпозиционный подход организации пространства в Фигме](https://habr.com/ru/articles/1063202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063202)
+- [Я плачу за коллегу, которого придумал сам. И половину его реплик додумываю тоже сам](https://habr.com/ru/articles/1063444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063444)
+- [Платформа плагинов в Трекере, или Как мы пустили сторонний код в продукт с 600 000 пользователей](https://habr.com/ru/companies/yandex/articles/1062416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062416)
 <!-- BLOG-POST-LIST:END -->
 
 ---
