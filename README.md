@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сейчас будет горячо: нагрев iOS-устройств как продуктовая метрика](https://habr.com/ru/articles/1062824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062824)
+- [Лучшие модели для разработки с ИИ на 1С &lpar;бенчмарк v2&rpar;](https://habr.com/ru/articles/1063244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063244)
+- [[Перевод] Новые правила контекстной инженерии для Claude 5](https://habr.com/ru/articles/1063240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063240)
 - [AI-краулеры в 2026: кого пускать в robots.txt, чтобы попадать в ответы ИИ](https://habr.com/ru/articles/1063216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063216)
 - [Бенчмаркая Regex: конструктор показал 10 мкс, первый вызов — 1307](https://habr.com/ru/articles/1063204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063204)
-- [Деконструкция Go: Runtime или программа, которая запускает вашу программу. Часть 3.1](https://habr.com/ru/articles/1063194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063194)
-- [Я навайбкодила умный флорариум на esp32 и он работает](https://habr.com/ru/articles/1063192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063192)
-- [Чем вообще занимается служба безопасности GitHub?](https://habr.com/ru/articles/1063140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063140)
 <!-- BLOG-POST-LIST:END -->
 
 ---
