@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Git: проблема длинного прыжка](https://habr.com/ru/articles/1063614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063614)
-- [Дистрибуция iOS‑приложения без App Store: практический опыт с AltStore PAL](https://habr.com/ru/articles/1063670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063670)
-- [[Перевод] Атомарность в реактивных системах](https://habr.com/ru/articles/1063664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063664)
-- [Почему идеальная LLM всё равно не сделает агентные системы предсказуемыми](https://habr.com/ru/articles/1063650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063650)
-- [Я продал одно место на концерт 20 раз. Разбираемся, как правильно защититься от race condition в Spring Boot](https://habr.com/ru/articles/1063642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063642)
+- [Security Week 2631: новые приемы корпоративных кибервымогателей](https://habr.com/ru/companies/kaspersky/articles/1063376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063376)
+- [Конвейеры на Channels: как не получить тихую утечку памяти и вечно висящий воркер](https://habr.com/ru/companies/otus/articles/1062492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062492)
+- [Английский вместо кода](https://habr.com/ru/articles/1058500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058500)
+- [Гибкая фильтрация EF Core с помощью Expression. Часть 2: Roslyn Source Generator](https://habr.com/ru/articles/1063718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063718)
+- [Разработчики опять ничего не поняли:&rpar;](https://habr.com/ru/articles/1063716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063716)
 <!-- BLOG-POST-LIST:END -->
 
 ---
