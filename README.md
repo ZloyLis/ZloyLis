@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Сейчас будет горячо: нагрев iOS-устройств как продуктовая метрика](https://habr.com/ru/articles/1062824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062824)
-- [Лучшие модели для разработки с ИИ на 1С &lpar;бенчмарк v2&rpar;](https://habr.com/ru/articles/1063244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063244)
-- [[Перевод] Новые правила контекстной инженерии для Claude 5](https://habr.com/ru/articles/1063240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063240)
-- [AI-краулеры в 2026: кого пускать в robots.txt, чтобы попадать в ответы ИИ](https://habr.com/ru/articles/1063216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063216)
-- [Бенчмаркая Regex: конструктор показал 10 мкс, первый вызов — 1307](https://habr.com/ru/articles/1063204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063204)
+- [Практика программирования в эпоху ИИ &lpar;разбор реальной задачи на С++ с помощью ИИ агента&rpar;](https://habr.com/ru/articles/1063066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063066)
+- [[Перевод] Работа с AI/ML-нагрузками в Kubernetes: плагин Headlamp для Kubeflow](https://habr.com/ru/companies/vktech/articles/1062726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062726)
+- [Зрелость управления данными: предлагаю простую методику оценки](https://habr.com/ru/articles/1063316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063316)
+- [HashMap в Rust: SwissTable, SIMD по 16 байт за раз и RawTable, который от вас спрятали](https://habr.com/ru/companies/beget/articles/1051164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051164)
+- [Логгер в топе VTune: как найти строки, создающие нагрузку](https://habr.com/ru/articles/1063260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063260)
 <!-- BLOG-POST-LIST:END -->
 
 ---
