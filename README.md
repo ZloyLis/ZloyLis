@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как я ставил A/B‑тесты на поток и случайно собрал платформу для экспериментов](https://habr.com/ru/articles/1064034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064034)
-- [Вы не напишете спецификацию с первого раза, даже с помощью Fable](https://habr.com/ru/articles/1064030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064030)
-- [MCP для агентной коммерции: что может пойти не так](https://habr.com/ru/companies/tuturu/articles/1063414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063414)
-- [Ваш агент не тупой — ему просто неудобно](https://habr.com/ru/articles/1064012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064012)
-- [Широкий вход, узкий выход: Vue 3 внутри jQuery‑формы без бесконечных циклов](https://habr.com/ru/articles/1064008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064008)
+- [Kimi K3 обошла Fable 5, Caveman не работает и релиз OpenIDE Pro](https://habr.com/ru/companies/haulmont/articles/1064078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064078)
+- [Как поднять userver без Docker на Ubuntu](https://habr.com/ru/articles/1064074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064074)
+- [[Перевод] Разработчики проверяют код, который не писали — и могут не понимать](https://habr.com/ru/companies/basis/articles/1063968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063968)
+- [Как я собрал полностью локальную диктовку для русского языка на Mac: GigaAM, Whisper, Qwen и Apple](https://habr.com/ru/articles/1064046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064046)
+- [Как верстали 15 лет назад](https://habr.com/ru/companies/ruvds/articles/1060630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060630)
 <!-- BLOG-POST-LIST:END -->
 
 ---
