@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Математика в эпоху ИИ: публичная лекция Теренса Тао на Международном конгрессе математиков 24 июля 2026](https://habr.com/ru/articles/1063198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063198)
-- [Click to Pray: один if — и ты ошибся](https://habr.com/ru/articles/1063726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063726)
-- [Соленоид без иллюзий: считаем поле честно и визуализируем результат](https://habr.com/ru/articles/1059834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059834)
-- [Security Week 2631: новые приемы корпоративных кибервымогателей](https://habr.com/ru/companies/kaspersky/articles/1063376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063376)
-- [Конвейеры на Channels: как не получить тихую утечку памяти и вечно висящий воркер](https://habr.com/ru/companies/otus/articles/1062492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062492)
+- [Почему предприниматель бросает изучать нейросети](https://habr.com/ru/articles/1063808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063808)
+- [Security, platform engineering и данные: Продуктовая аллея DevOpsConf`26. Часть 2](https://habr.com/ru/companies/oleg-bunin/articles/1063318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063318)
+- [Отпечатки браузера: что это такое и как работает? Переосмысление технологии](https://habr.com/ru/companies/aurorium/articles/1063794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063794)
+- [Почему C++ или Rust никогда не смогут заменить Python](https://habr.com/ru/companies/bothub/articles/1063660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063660)
+- [Пошаговая инструкция по внедрению скелетон-загрузки в ваше приложение](https://habr.com/ru/companies/lanit/articles/1060814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060814)
 <!-- BLOG-POST-LIST:END -->
 
 ---
