@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Логарифм для аналитика: где он спасает отчет, а где его ломает](https://habr.com/ru/articles/1064212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064212)
 - [Как мы сделали протобаф-адаптер CONTRACT быстрее libprotobuf](https://habr.com/ru/articles/1064148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064148)
 - [Публикуем iOS‑приложение без Мака и без Visa: пошаговый разбор](https://habr.com/ru/articles/1064144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064144)
 - [Apache Spark и компиляция пользовательских функций UDF на Java в рантайме](https://habr.com/ru/companies/axenix/articles/1063212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063212)
 - [Агентный SDLC на внутренней LLM: инженерия вместо промптов](https://habr.com/ru/articles/1064140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064140)
-- [Shorts Maker v2: как я превратил AI-генератор видео в возобновляемый production pipeline на Python](https://habr.com/ru/articles/1064134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064134)
 <!-- BLOG-POST-LIST:END -->
 
 ---
