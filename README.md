@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [White Label и OEM: чему корпоративное ПО может научиться у автомобильной промышленности](https://habr.com/ru/companies/luxms_bi/articles/1063926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063926)
-- [Как изучать гуманоидную робототехнику в 2026 году: путеводитель по ресурсам](https://habr.com/ru/articles/1063916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063916)
-- [KrakenD: как мобильная логика расползлась по монолиту, а мы собрали её обратно](https://habr.com/ru/companies/banki/articles/1063576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063576)
-- [Строили ANN руками — когда это того стоило, а когда нет](https://habr.com/ru/articles/1063914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063914)
-- [Интеграция Asterisk с веб‑интерфейсом и управление звонками через WebSocket: кейс имплементации под ключ](https://habr.com/ru/companies/gri/articles/1061970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061970)
+- [Как я ставил A/B‑тесты на поток и случайно собрал платформу для экспериментов](https://habr.com/ru/articles/1064034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064034)
+- [Вы не напишете спецификацию с первого раза, даже с помощью Fable](https://habr.com/ru/articles/1064030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064030)
+- [MCP для агентной коммерции: что может пойти не так](https://habr.com/ru/companies/tuturu/articles/1063414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063414)
+- [Ваш агент не тупой — ему просто неудобно](https://habr.com/ru/articles/1064012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064012)
+- [Широкий вход, узкий выход: Vue 3 внутри jQuery‑формы без бесконечных циклов](https://habr.com/ru/articles/1064008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064008)
 <!-- BLOG-POST-LIST:END -->
 
 ---
