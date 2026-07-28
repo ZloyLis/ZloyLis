@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Почему предприниматель бросает изучать нейросети](https://habr.com/ru/articles/1063808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063808)
-- [Security, platform engineering и данные: Продуктовая аллея DevOpsConf`26. Часть 2](https://habr.com/ru/companies/oleg-bunin/articles/1063318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063318)
-- [Отпечатки браузера: что это такое и как работает? Переосмысление технологии](https://habr.com/ru/companies/aurorium/articles/1063794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063794)
-- [Почему C++ или Rust никогда не смогут заменить Python](https://habr.com/ru/companies/bothub/articles/1063660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063660)
-- [Пошаговая инструкция по внедрению скелетон-загрузки в ваше приложение](https://habr.com/ru/companies/lanit/articles/1060814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060814)
+- [White Label и OEM: чему корпоративное ПО может научиться у автомобильной промышленности](https://habr.com/ru/companies/luxms_bi/articles/1063926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063926)
+- [Как изучать гуманоидную робототехнику в 2026 году: путеводитель по ресурсам](https://habr.com/ru/articles/1063916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063916)
+- [KrakenD: как мобильная логика расползлась по монолиту, а мы собрали её обратно](https://habr.com/ru/companies/banki/articles/1063576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063576)
+- [Строили ANN руками — когда это того стоило, а когда нет](https://habr.com/ru/articles/1063914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063914)
+- [Интеграция Asterisk с веб‑интерфейсом и управление звонками через WebSocket: кейс имплементации под ключ](https://habr.com/ru/companies/gri/articles/1061970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061970)
 <!-- BLOG-POST-LIST:END -->
 
 ---
