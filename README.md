@@ -36,7 +36,7 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Click to Pray: один if — и ты ошибся](https://habr.com/ru/articles/1063726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063726)
-- [Магнитное поле соленоида с током](https://habr.com/ru/articles/1059834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059834)
+- [Соленоид без иллюзий: считаем поле честно и визуализируем результат](https://habr.com/ru/articles/1059834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059834)
 - [Security Week 2631: новые приемы корпоративных кибервымогателей](https://habr.com/ru/companies/kaspersky/articles/1063376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063376)
 - [Конвейеры на Channels: как не получить тихую утечку памяти и вечно висящий воркер](https://habr.com/ru/companies/otus/articles/1062492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062492)
 - [Английский вместо кода](https://habr.com/ru/articles/1058500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058500)
