@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kimi K3 обошла Fable 5, Caveman не работает и релиз OpenIDE Pro](https://habr.com/ru/companies/haulmont/articles/1064078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064078)
-- [Как поднять userver без Docker на Ubuntu](https://habr.com/ru/articles/1064074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064074)
-- [[Перевод] Разработчики проверяют код, который не писали — и могут не понимать](https://habr.com/ru/companies/basis/articles/1063968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063968)
-- [Как я собрал полностью локальную диктовку для русского языка на Mac: GigaAM, Whisper, Qwen и Apple](https://habr.com/ru/articles/1064046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064046)
-- [Как верстали 15 лет назад](https://habr.com/ru/companies/ruvds/articles/1060630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060630)
+- [Как мы сделали протобаф-адаптер CONTRACT быстрее libprotobuf](https://habr.com/ru/articles/1064148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064148)
+- [Публикуем iOS‑приложение без Мака и без Visa: пошаговый разбор](https://habr.com/ru/articles/1064144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064144)
+- [Apache Spark и компиляция пользовательских функций UDF на Java в рантайме](https://habr.com/ru/companies/axenix/articles/1063212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063212)
+- [Агентный SDLC на внутренней LLM: инженерия вместо промптов](https://habr.com/ru/articles/1064140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064140)
+- [Shorts Maker v2: как я превратил AI-генератор видео в возобновляемый production pipeline на Python](https://habr.com/ru/articles/1064134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064134)
 <!-- BLOG-POST-LIST:END -->
 
 ---
