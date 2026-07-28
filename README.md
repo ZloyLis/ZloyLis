@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Математика в эпоху ИИ: публичная лекция Теренса Тао на Международном конгрессе математиков 24 июля 2026](https://habr.com/ru/articles/1063198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063198)
 - [Click to Pray: один if — и ты ошибся](https://habr.com/ru/articles/1063726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063726)
 - [Соленоид без иллюзий: считаем поле честно и визуализируем результат](https://habr.com/ru/articles/1059834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059834)
 - [Security Week 2631: новые приемы корпоративных кибервымогателей](https://habr.com/ru/companies/kaspersky/articles/1063376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063376)
 - [Конвейеры на Channels: как не получить тихую утечку памяти и вечно висящий воркер](https://habr.com/ru/companies/otus/articles/1062492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062492)
-- [Английский вместо кода](https://habr.com/ru/articles/1058500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058500)
 <!-- BLOG-POST-LIST:END -->
 
 ---
