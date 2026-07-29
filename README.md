@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Что в работе аналитика поменялось за пять лет, а что только в вакансиях](https://habr.com/ru/articles/1064500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064500)
-- [Разработчики знали код. Никто не знал систему](https://habr.com/ru/articles/1064482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064482)
-- [Что мы находим при аудите PostgreSQL: 10 распространенных ошибок](https://habr.com/ru/companies/k2tech/articles/1064474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064474)
-- [Код пишется быстрее, релизы выходят так же. Куда переехало бутылочное горлышко?](https://habr.com/ru/companies/simpleone/articles/1064440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064440)
-- [Избавляемся от потерянных событий в микросервисах — как я написал свой Spring Starter для Outbox/Inbox](https://habr.com/ru/articles/1064466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064466)
+- [nanoCAD BIM Вентиляция — новая версия на Платформе nanoCAD 26](https://habr.com/ru/companies/nanosoft/articles/1064566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064566)
+- [Как мы внедрили корпоративную библиотеку в IT-компанию на 400 человек: метрики, грабли и выводы](https://habr.com/ru/companies/alpinadigital/articles/1064552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064552)
+- [Джунам можно, а сеньором нельзя? Как я притворился джуном и искал работу](https://habr.com/ru/articles/1064524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064524)
+- [Как получить пожизненный бан на VC.ru за open-source проект на Node.js без рекламы. Кейс CMTT](https://habr.com/ru/articles/1064534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064534)
+- [IllegalMonitorStateException. Красим код в поисках монитора](https://habr.com/ru/companies/spring_aio/articles/1064528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064528)
 <!-- BLOG-POST-LIST:END -->
 
 ---
