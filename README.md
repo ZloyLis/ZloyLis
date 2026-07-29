@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Исчезающие в облаке сети](https://habr.com/ru/companies/jetinfosystems/articles/1064290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064290)
-- [Как мы описали 15 000 таблиц за полгода вместо 500 за год — и перестали писать документацию руками](https://habr.com/ru/companies/yandex/articles/1060882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060882)
-- [Как я смог запустить 32b модель и сделать ее умнее в два раза на 3050](https://habr.com/ru/articles/1064258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064258)
-- [ИИ-Автопилот: замкнутый цикл разработки на C++ — от тикета до проверки в живом GUI](https://habr.com/ru/articles/1064242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064242)
-- [Полевые проезды в QA: как мы ищем аномалии геопозиции в городе](https://habr.com/ru/companies/2gis/articles/1056942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056942)
+- [Основы NFC и интеграция с PC/SC](https://habr.com/ru/articles/1064404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064404)
+- [cppfront: Великий архитектурный вызов или маркетинговая утка?](https://habr.com/ru/articles/1064398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064398)
+- [Что такое дифференциал первого и второго порядка &lpar;Продвинутый уровень&rpar;](https://habr.com/ru/articles/1064390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064390)
+- [Запись экрана и ссылка на календарь. Как из двух элементарных функций выросли миллиардные Calendly и Loom](https://habr.com/ru/articles/1064378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064378)
+- [Как мы перестали выдавать dev-VM вручную и собрали self-service на KubeVirt](https://habr.com/ru/articles/1064376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064376)
 <!-- BLOG-POST-LIST:END -->
 
 ---
