@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Интеграция 1С: 6 разрывов между заказом, складом и оплатой](https://habr.com/ru/companies/otus/articles/1063562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063562)
+- [Численное решение ОДУ первого порядка: ряды Тейлора и метод Рунге-Кутты](https://habr.com/ru/articles/1064602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064602)
+- [Как не прерывать длинную задачу и удерживать правила в контексте Veai 5.16](https://habr.com/ru/companies/veai/articles/1064132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064132)
+- [Виртуальная примерка одежды для интернет-магазина](https://habr.com/ru/articles/1064592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064592)
 - [nanoCAD BIM Вентиляция — новая версия на Платформе nanoCAD 26](https://habr.com/ru/companies/nanosoft/articles/1064566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064566)
-- [Как мы внедрили корпоративную библиотеку в IT-компанию на 400 человек: метрики, грабли и выводы](https://habr.com/ru/companies/alpinadigital/articles/1064552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064552)
-- [Джунам можно, а сеньором нельзя? Как я притворился джуном и искал работу](https://habr.com/ru/articles/1064524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064524)
-- [Как получить пожизненный бан на VC.ru за open-source проект на Node.js без рекламы. Кейс CMTT](https://habr.com/ru/articles/1064534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064534)
-- [IllegalMonitorStateException. Красим код в поисках монитора](https://habr.com/ru/companies/spring_aio/articles/1064528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064528)
 <!-- BLOG-POST-LIST:END -->
 
 ---
