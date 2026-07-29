@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Основы NFC и интеграция с PC/SC](https://habr.com/ru/articles/1064404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064404)
-- [cppfront: Великий архитектурный вызов или маркетинговая утка?](https://habr.com/ru/articles/1064398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064398)
-- [Что такое дифференциал первого и второго порядка &lpar;Продвинутый уровень&rpar;](https://habr.com/ru/articles/1064390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064390)
-- [Запись экрана и ссылка на календарь. Как из двух элементарных функций выросли миллиардные Calendly и Loom](https://habr.com/ru/articles/1064378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064378)
-- [Как мы перестали выдавать dev-VM вручную и собрали self-service на KubeVirt](https://habr.com/ru/articles/1064376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064376)
+- [Что в работе аналитика поменялось за пять лет, а что только в вакансиях](https://habr.com/ru/articles/1064500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064500)
+- [Разработчики знали код. Никто не знал систему](https://habr.com/ru/articles/1064482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064482)
+- [Что мы находим при аудите PostgreSQL: 10 распространенных ошибок](https://habr.com/ru/companies/k2tech/articles/1064474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064474)
+- [Код пишется быстрее, релизы выходят так же. Куда переехало бутылочное горлышко?](https://habr.com/ru/companies/simpleone/articles/1064440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064440)
+- [Избавляемся от потерянных событий в микросервисах — как я написал свой Spring Starter для Outbox/Inbox](https://habr.com/ru/articles/1064466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064466)
 <!-- BLOG-POST-LIST:END -->
 
 ---
