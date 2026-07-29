@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как защитить LLM-агентов от gradient-based adversarial attacks-атак: VRF + LoRA подход](https://habr.com/ru/articles/1064684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064684)
+- [Как я собрал на одном Angular коде: личный кабинет для сайта, Telegram Mini App, iOS и Android](https://habr.com/ru/articles/1064680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064680)
+- [Postgresso #6 &lpar;91&rpar;](https://habr.com/ru/companies/postgrespro/articles/1053682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053682)
 - [Глобальная Управляющая Система: интерпретация высшего разума через призму ТАУ и кибернетики](https://habr.com/ru/articles/1064674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064674)
 - [Мой путь в имитационное моделирование: от физры до AnyLogic](https://habr.com/ru/articles/1064672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064672)
-- [Как попасть в голосовые ответы Алисы — и почему разметка тут почти ни при чём](https://habr.com/ru/articles/1064662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064662)
-- [Интеграция 1С: 6 разрывов между заказом, складом и оплатой](https://habr.com/ru/companies/otus/articles/1063562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063562)
-- [Численное решение ОДУ первого порядка: ряды Тейлора и метод Рунге-Кутты](https://habr.com/ru/articles/1064602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064602)
 <!-- BLOG-POST-LIST:END -->
 
 ---
