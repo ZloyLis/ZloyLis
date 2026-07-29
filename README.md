@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как попасть в голосовые ответы Алисы — и почему разметка тут почти ни при чём](https://habr.com/ru/articles/1064662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064662)
 - [Интеграция 1С: 6 разрывов между заказом, складом и оплатой](https://habr.com/ru/companies/otus/articles/1063562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063562)
 - [Численное решение ОДУ первого порядка: ряды Тейлора и метод Рунге-Кутты](https://habr.com/ru/articles/1064602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064602)
 - [Как не прерывать длинную задачу и удерживать правила в контексте Veai 5.16](https://habr.com/ru/companies/veai/articles/1064132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064132)
 - [Виртуальная примерка одежды для интернет-магазина](https://habr.com/ru/articles/1064592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064592)
-- [nanoCAD BIM Вентиляция — новая версия на Платформе nanoCAD 26](https://habr.com/ru/companies/nanosoft/articles/1064566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064566)
 <!-- BLOG-POST-LIST:END -->
 
 ---
