@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Логарифм для аналитика: где он спасает отчет, а где его ломает](https://habr.com/ru/articles/1064212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064212)
-- [Как мы сделали протобаф-адаптер CONTRACT быстрее libprotobuf](https://habr.com/ru/articles/1064148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064148)
-- [Публикуем iOS‑приложение без Мака и без Visa: пошаговый разбор](https://habr.com/ru/articles/1064144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064144)
-- [Apache Spark и компиляция пользовательских функций UDF на Java в рантайме](https://habr.com/ru/companies/axenix/articles/1063212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063212)
-- [Агентный SDLC на внутренней LLM: инженерия вместо промптов](https://habr.com/ru/articles/1064140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064140)
+- [Исчезающие в облаке сети](https://habr.com/ru/companies/jetinfosystems/articles/1064290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064290)
+- [Как мы описали 15 000 таблиц за полгода вместо 500 за год — и перестали писать документацию руками](https://habr.com/ru/companies/yandex/articles/1060882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060882)
+- [Как я смог запустить 32b модель и сделать ее умнее в два раза на 3050](https://habr.com/ru/articles/1064258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064258)
+- [ИИ-Автопилот: замкнутый цикл разработки на C++ — от тикета до проверки в живом GUI](https://habr.com/ru/articles/1064242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064242)
+- [Полевые проезды в QA: как мы ищем аномалии геопозиции в городе](https://habr.com/ru/companies/2gis/articles/1056942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056942)
 <!-- BLOG-POST-LIST:END -->
 
 ---
