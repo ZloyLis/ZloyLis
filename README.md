@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как мы бросили попытки сделать “свой Tinder”, ужали продукт до одной идеи — и получили 7000 активных пользователей](https://habr.com/ru/articles/1064808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064808)
-- [Как я собрала локальную MCP-платформу для мониторинга промышленных данных](https://habr.com/ru/articles/1064802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064802)
-- [Книга: «Создание приложений с ИИ-агентами. Проектирование и внедрение мультиагентных систем»](https://habr.com/ru/companies/piter/articles/1064416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064416)
-- [Как Mindbox победили «зомби‑тесты» Chaos Mesh](https://habr.com/ru/companies/mindbox/articles/1045486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1045486)
-- [Почему мы разделили UI, бизнес-логику и ядро: архитектура платформы «Галактика Сверхновая»](https://habr.com/ru/companies/galaktika/articles/1064428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064428)
+- [Журналирование ошибок: практическое руководство для Java, Kotlin, JavaScript и Python](https://habr.com/ru/companies/T1Holding/articles/1063806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063806)
+- [Next.js, localStorage в App Router без hydration-ошибок](https://habr.com/ru/articles/1064926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064926)
+- [Локальные LLM на iPhone: память, Core ML, MLX и ограничения](https://habr.com/ru/articles/1064924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064924)
+- [Асинхронный Kotlin. Обзор новинки](https://habr.com/ru/companies/bhv_publishing/articles/1064922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064922)
+- [Чем занимаются и сколько зарабатывают аналитики в IT](https://habr.com/ru/companies/habr_career/articles/1064920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064920)
 <!-- BLOG-POST-LIST:END -->
 
 ---
