@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ в медицине: на пути к клиническому применению](https://habr.com/ru/articles/1064694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064694)
 - [Как защитить LLM-агентов от gradient-based adversarial attacks-атак: VRF + LoRA подход](https://habr.com/ru/articles/1064684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064684)
 - [Как я собрал на одном Angular коде: личный кабинет для сайта, Telegram Mini App, iOS и Android](https://habr.com/ru/articles/1064680/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064680)
 - [Postgresso #6 &lpar;91&rpar;](https://habr.com/ru/companies/postgrespro/articles/1053682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053682)
 - [Глобальная Управляющая Система: интерпретация высшего разума через призму ТАУ и кибернетики](https://habr.com/ru/articles/1064674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064674)
-- [Мой путь в имитационное моделирование: от физры до AnyLogic](https://habr.com/ru/articles/1064672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064672)
 <!-- BLOG-POST-LIST:END -->
 
 ---
