@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Свой проект, команда и код‑ревью: как Школа программистов hh.ru знакомит студентов с культурой реальной разработки](https://habr.com/ru/companies/hh/articles/1064004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064004)
-- [C3D Vision и C3D Viewer: ключевые нововведения и усовершенствования](https://habr.com/ru/companies/ascon/articles/1064972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064972)
-- [Как думает LLM](https://habr.com/ru/companies/bothub/articles/1064512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064512)
-- [Журналирование ошибок: практическое руководство для Java, Kotlin, JavaScript и Python](https://habr.com/ru/companies/T1Holding/articles/1063806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063806)
-- [Next.js, localStorage в App Router без hydration-ошибок](https://habr.com/ru/articles/1064926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064926)
+- [Почему корпоративные курсы не работают и что с этим делать: разбор с данными](https://habr.com/ru/companies/alpinadigital/articles/1065022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065022)
+- [Как дать LLM-агенту доступ к Яндекс Вебмастеру: разбираем устройство MCP-сервера над чужим API](https://habr.com/ru/articles/1065014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065014)
+- [OneDWH VK: как мы консолидировали данные 35 бизнес-вертикалей](https://habr.com/ru/companies/vk/articles/1064978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064978)
+- [Мы поставили ITAM за три недели. А работать он начал через полгода](https://habr.com/ru/companies/simpleone/articles/1065004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065004)
+- [[Перевод] Генератор ID для микросервисной архитектуры: гайд по масштабированию целочисленных идентификаторов](https://habr.com/ru/companies/otus/articles/1064930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064930)
 <!-- BLOG-POST-LIST:END -->
 
 ---
