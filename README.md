@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Свой проект, команда и код‑ревью: как Школа программистов hh.ru знакомит студентов с культурой реальной разработки](https://habr.com/ru/companies/hh/articles/1064004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064004)
+- [C3D Vision и C3D Viewer: ключевые нововведения и усовершенствования](https://habr.com/ru/companies/ascon/articles/1064972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064972)
+- [Как думает LLM](https://habr.com/ru/companies/bothub/articles/1064512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064512)
 - [Журналирование ошибок: практическое руководство для Java, Kotlin, JavaScript и Python](https://habr.com/ru/companies/T1Holding/articles/1063806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063806)
 - [Next.js, localStorage в App Router без hydration-ошибок](https://habr.com/ru/articles/1064926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064926)
-- [Локальные LLM на iPhone: память, Core ML, MLX и ограничения](https://habr.com/ru/articles/1064924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064924)
-- [Асинхронный Kotlin. Обзор новинки](https://habr.com/ru/companies/bhv_publishing/articles/1064922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064922)
-- [Чем занимаются и сколько зарабатывают аналитики в IT](https://habr.com/ru/companies/habr_career/articles/1064920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064920)
 <!-- BLOG-POST-LIST:END -->
 
 ---
