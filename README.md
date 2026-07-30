@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Бенчмаркая System.Text.Json: те же данные, те же настройки, до ×4,3 разницы](https://habr.com/ru/articles/1065092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065092)
+- [Один язык документов, несколько форматов: как я отделил layout engine от PDFBox и Apache POI](https://habr.com/ru/articles/1065080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065080)
+- [Как превратить приемочные критерии в систему, а не в список](https://habr.com/ru/companies/otus/articles/1059874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059874)
+- [Виртуальная примерка одежды для интернет-магазина: почему self-host CatVTON/IDM-VTON это плохая идея для бизнеса](https://habr.com/ru/articles/1065074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065074)
 - [Звезда в машинном тумане: как ИИ стал оружием, целью и чужим голосом в браузере](https://habr.com/ru/companies/rostelecom/articles/1064994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064994)
-- [Почему корпоративные курсы не работают и что с этим делать: разбор с данными](https://habr.com/ru/companies/alpinadigital/articles/1065022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065022)
-- [Как дать LLM-агенту доступ к Яндекс Вебмастеру: разбираем устройство MCP-сервера над чужим API](https://habr.com/ru/articles/1065014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065014)
-- [OneDWH VK: как мы консолидировали данные 35 бизнес-вертикалей](https://habr.com/ru/companies/vk/articles/1064978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064978)
-- [Мы поставили ITAM за три недели. А работать он начал через полгода](https://habr.com/ru/companies/simpleone/articles/1065004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065004)
 <!-- BLOG-POST-LIST:END -->
 
 ---
