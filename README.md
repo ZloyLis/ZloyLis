@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Уведомления на Android без Google: почему UnifiedPush через публичный ntfy у вас не работает](https://habr.com/ru/articles/1065510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065510)
+- [Как мы проектировали идеальный пользовательский опыт для OTP-поля](https://habr.com/ru/companies/yoomoney/articles/1065468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065468)
 - [CONTRACT: одна схема вместо N×M сериализаторов](https://habr.com/ru/articles/1065488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065488)
 - [Сколько стоит час практики на курсах веб‑дизайна: считаем по публичным страницам трёх школ](https://habr.com/ru/articles/1065478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065478)
 - [Как облегчить переезд бота из Telegram в MAX](https://habr.com/ru/articles/1065466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065466)
-- [Один платёж — один чек: идемпотентность в интеграции с «Мой налог»](https://habr.com/ru/articles/1065464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065464)
-- [Как мы несколько дней искали проблему с перемоткой WebM](https://habr.com/ru/articles/1065456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065456)
 <!-- BLOG-POST-LIST:END -->
 
 ---
