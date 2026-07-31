@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Приложение открывается только с VPN. Разбирался почему](https://habr.com/ru/articles/1065126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065126)
-- [Если ссылки схлопываются, значит это кому‑то нужно](https://habr.com/ru/articles/1064016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064016)
-- [Сонар из Музыкальной Колонки](https://habr.com/ru/articles/1050166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050166)
-- [Внешний бенчмарк причинного recall: проверяем память ИИ-ассистента на YDB Яндекса](https://habr.com/ru/articles/1065112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065112)
-- [Бенчмаркая System.Text.Json: те же данные, те же настройки, до ×4,3 разницы](https://habr.com/ru/articles/1065092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065092)
+- [[Перевод] Экономическая выгода рефакторинга в эпоху AI-агентов](https://habr.com/ru/articles/1065178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065178)
+- [Под с GPU не лечится рестартом: устраиваем отказ устройства в кубере и чиним без вечного Pending](https://habr.com/ru/companies/vktech/articles/1064028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064028)
+- [Один интерфейс — девять LLM-провайдеров: как мы подружили Kimi K3, GLM-5.2, Claude и Ollama в одном терминальном агенте](https://habr.com/ru/articles/1065118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065118)
+- [Что остаётся аналитику, если AI крепчает?](https://habr.com/ru/companies/alfa/articles/1064530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064530)
+- [Как я делал текстовую игру для веба](https://habr.com/ru/articles/1065090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065090)
 <!-- BLOG-POST-LIST:END -->
 
 ---
