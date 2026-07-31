@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Экономическая выгода рефакторинга в эпоху AI-агентов](https://habr.com/ru/articles/1065178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065178)
-- [Под с GPU не лечится рестартом: устраиваем отказ устройства в кубере и чиним без вечного Pending](https://habr.com/ru/companies/vktech/articles/1064028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064028)
-- [Один интерфейс — девять LLM-провайдеров: как мы подружили Kimi K3, GLM-5.2, Claude и Ollama в одном терминальном агенте](https://habr.com/ru/articles/1065118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065118)
-- [Что остаётся аналитику, если AI крепчает?](https://habr.com/ru/companies/alfa/articles/1064530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064530)
-- [Как я делал текстовую игру для веба](https://habr.com/ru/articles/1065090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065090)
+- [Стратегия без врагов, шутер без кнопки «стрелять»: как тотальное упрощение помогло заработать миллионы долларов](https://habr.com/ru/articles/1065284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065284)
+- [70 бесплатных уроков августа: от Python и Go до Kubernetes, ML и микросервисной архитектуры](https://habr.com/ru/companies/otus/articles/1064982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064982)
+- [«Кнопка бдительности» за 30 000 ₽: как угольный карьер сделал систему антисна без камер и ИИ](https://habr.com/ru/articles/1065274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065274)
+- [Об одном различии работы оптимизатора Postgres и Oracle](https://habr.com/ru/companies/gnivc/articles/995774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995774)
+- [[Перевод] Axelix выходит в общий доступ. Путь в тысячу миль начинается с первого шага](https://habr.com/ru/companies/spring_aio/articles/1065202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065202)
 <!-- BLOG-POST-LIST:END -->
 
 ---
