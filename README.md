@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Никто не показывает, как стандарты ИБ связаны друг с другом поэтому пришлось собрать самому](https://habr.com/ru/articles/1065380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065380)
-- [Как я развернул Yandex Cloud Stackland на bare metal](https://habr.com/ru/companies/kts/articles/1065376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065376)
-- [Замороженная работа: метрика, которая считает непринятые решения](https://habr.com/ru/articles/1065368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065368)
-- [Мой 2-летний путь в английский: любимые приложения и методы изучения](https://habr.com/ru/articles/1065362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065362)
-- [[Перевод] &amp;lt;usermedia&amp;gt; — новый HTML элемент](https://habr.com/ru/articles/1065336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065336)
+- [Статья по DataFest](https://habr.com/ru/companies/avito/articles/1064100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064100)
+- [Как я сделал общие доски в Telegram, которые живут прямо в чате](https://habr.com/ru/articles/1065448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065448)
+- [«AI-Disrupt PDLC» 2.0: трансформации Сбера за два месяца](https://habr.com/ru/companies/oleg-bunin/articles/1065446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065446)
+- [[Перевод] 5 ошибок аналитика, из-за которых требования не выдерживают тестирования](https://habr.com/ru/companies/otus/articles/1065278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065278)
+- [Почему ИИ-агент без памяти — это дорогой калькулятор. Строим персистентную память](https://habr.com/ru/companies/cloud_ru/articles/1065290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065290)
 <!-- BLOG-POST-LIST:END -->
 
 ---
