@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Стратегия без врагов, шутер без кнопки «стрелять»: как тотальное упрощение помогло заработать миллионы долларов](https://habr.com/ru/articles/1065284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065284)
-- [70 бесплатных уроков августа: от Python и Go до Kubernetes, ML и микросервисной архитектуры](https://habr.com/ru/companies/otus/articles/1064982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064982)
-- [«Кнопка бдительности» за 30 000 ₽: как угольный карьер сделал систему антисна без камер и ИИ](https://habr.com/ru/articles/1065274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065274)
-- [Об одном различии работы оптимизатора Postgres и Oracle](https://habr.com/ru/companies/gnivc/articles/995774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=995774)
-- [[Перевод] Axelix выходит в общий доступ. Путь в тысячу миль начинается с первого шага](https://habr.com/ru/companies/spring_aio/articles/1065202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065202)
+- [Никто не показывает, как стандарты ИБ связаны друг с другом поэтому пришлось собрать самому](https://habr.com/ru/articles/1065380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065380)
+- [Как я развернул Yandex Cloud Stackland на bare metal](https://habr.com/ru/companies/kts/articles/1065376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065376)
+- [Замороженная работа: метрика, которая считает непринятые решения](https://habr.com/ru/articles/1065368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065368)
+- [Мой 2-летний путь в английский: любимые приложения и методы изучения](https://habr.com/ru/articles/1065362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065362)
+- [[Перевод] &amp;lt;usermedia&amp;gt; — новый HTML элемент](https://habr.com/ru/articles/1065336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065336)
 <!-- BLOG-POST-LIST:END -->
 
 ---
