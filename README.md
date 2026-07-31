@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Приложение открывается только с VPN. Разбирался почему](https://habr.com/ru/articles/1065126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065126)
 - [Если ссылки схлопываются, значит это кому‑то нужно](https://habr.com/ru/articles/1064016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064016)
 - [Сонар из Музыкальной Колонки](https://habr.com/ru/articles/1050166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1050166)
 - [Внешний бенчмарк причинного recall: проверяем память ИИ-ассистента на YDB Яндекса](https://habr.com/ru/articles/1065112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065112)
 - [Бенчмаркая System.Text.Json: те же данные, те же настройки, до ×4,3 разницы](https://habr.com/ru/articles/1065092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065092)
-- [Один язык документов, несколько форматов: как я отделил layout engine от PDFBox и Apache POI](https://habr.com/ru/articles/1065080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065080)
 <!-- BLOG-POST-LIST:END -->
 
 ---
