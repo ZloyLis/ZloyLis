@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Статья по DataFest](https://habr.com/ru/companies/avito/articles/1064100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064100)
-- [Как я сделал общие доски в Telegram, которые живут прямо в чате](https://habr.com/ru/articles/1065448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065448)
-- [«AI-Disrupt PDLC» 2.0: трансформации Сбера за два месяца](https://habr.com/ru/companies/oleg-bunin/articles/1065446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065446)
-- [[Перевод] 5 ошибок аналитика, из-за которых требования не выдерживают тестирования](https://habr.com/ru/companies/otus/articles/1065278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065278)
-- [Почему ИИ-агент без памяти — это дорогой калькулятор. Строим персистентную память](https://habr.com/ru/companies/cloud_ru/articles/1065290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065290)
+- [CONTRACT: одна схема вместо N×M сериализаторов](https://habr.com/ru/articles/1065488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065488)
+- [Сколько стоит час практики на курсах веб‑дизайна: считаем по публичным страницам трёх школ](https://habr.com/ru/articles/1065478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065478)
+- [Как облегчить переезд бота из Telegram в MAX](https://habr.com/ru/articles/1065466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065466)
+- [Один платёж — один чек: идемпотентность в интеграции с «Мой налог»](https://habr.com/ru/articles/1065464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065464)
+- [Как мы несколько дней искали проблему с перемоткой WebM](https://habr.com/ru/articles/1065456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065456)
 <!-- BLOG-POST-LIST:END -->
 
 ---
