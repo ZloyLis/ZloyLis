@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Бенчмаркая ArrayPool: подстава при копировании потоков — 131 072 байта в LOH](https://habr.com/ru/articles/1065518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065518)
+- [Бэкдоры в вакансиях на работу](https://habr.com/ru/companies/globalsign/articles/1065512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065512)
 - [Уведомления на Android без Google: почему UnifiedPush через публичный ntfy у вас не работает](https://habr.com/ru/articles/1065510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065510)
 - [Как мы проектировали идеальный пользовательский опыт для OTP-поля](https://habr.com/ru/companies/yoomoney/articles/1065468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065468)
 - [CONTRACT: одна схема вместо N×M сериализаторов](https://habr.com/ru/articles/1065488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065488)
-- [Сколько стоит час практики на курсах веб‑дизайна: считаем по публичным страницам трёх школ](https://habr.com/ru/articles/1065478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065478)
-- [Как облегчить переезд бота из Telegram в MAX](https://habr.com/ru/articles/1065466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065466)
 <!-- BLOG-POST-LIST:END -->
 
 ---
