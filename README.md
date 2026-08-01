@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [«У вас в резюме указаны навыки ИИ. Что вы имели в виду?» Что отвечать, кроме количества потраченных токенов](https://habr.com/ru/articles/1064110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064110)
-- [Дайджест технических новостей, переводов и лонгридов инфослужбы Хабра за июль 2026 года](https://habr.com/ru/articles/1025502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025502)
-- [Двойная бронь: как мы поймали гонку в записи и закрыли её EXCLUDE-констрейнтом](https://habr.com/ru/articles/1065522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065522)
-- [Бенчмаркая ArrayPool: подстава при копировании потоков — 131 072 байта в LOH](https://habr.com/ru/articles/1065518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065518)
-- [Бэкдоры в вакансиях на работу](https://habr.com/ru/companies/globalsign/articles/1065512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065512)
+- [Торговля по паттернам с точки зрения алгоритмов](https://habr.com/ru/articles/1065564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065564)
+- [ИграКОД: Генератор судоку на TypeScript: почему найти решение проще, чем доказать единственность](https://habr.com/ru/articles/1065276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065276)
+- [Эхолокация: микрофон и фазированная решётка из колонок](https://habr.com/ru/articles/1065556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065556)
+- [Разработчик 2.0. Следующий уровень абстракции](https://habr.com/ru/articles/1065548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065548)
+- [Как успеть поступить в онлайн-магистратуру НИЯУ МИФИ по кибербезопасности в 2026 году: правила и сроки приёма](https://habr.com/ru/companies/yandex_praktikum/articles/1065406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065406)
 <!-- BLOG-POST-LIST:END -->
 
 ---
