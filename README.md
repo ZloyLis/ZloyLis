@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему кнопка «Войти через VK» заняла три дня. Кейс](https://habr.com/ru/articles/1065576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065576)
+- [Школьное уравнение, в котором прячется гиперболический тангенс](https://habr.com/ru/articles/1065572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065572)
 - [Торговля по паттернам с точки зрения алгоритмов](https://habr.com/ru/articles/1065564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065564)
 - [ИграКОД: Генератор судоку на TypeScript: почему найти решение проще, чем доказать единственность](https://habr.com/ru/articles/1065276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065276)
 - [Эхолокация: микрофон и фазированная решётка из колонок](https://habr.com/ru/articles/1065556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065556)
-- [Разработчик 2.0. Следующий уровень абстракции](https://habr.com/ru/articles/1065548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065548)
-- [Как успеть поступить в онлайн-магистратуру НИЯУ МИФИ по кибербезопасности в 2026 году: правила и сроки приёма](https://habr.com/ru/companies/yandex_praktikum/articles/1065406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065406)
 <!-- BLOG-POST-LIST:END -->
 
 ---
