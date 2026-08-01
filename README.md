@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Почему кнопка «Войти через VK» заняла три дня. Кейс](https://habr.com/ru/articles/1065576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065576)
-- [Школьное уравнение, в котором прячется гиперболический тангенс](https://habr.com/ru/articles/1065572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065572)
-- [Торговля по паттернам с точки зрения алгоритмов](https://habr.com/ru/articles/1065564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065564)
-- [ИграКОД: Генератор судоку на TypeScript: почему найти решение проще, чем доказать единственность](https://habr.com/ru/articles/1065276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065276)
-- [Эхолокация: микрофон и фазированная решётка из колонок](https://habr.com/ru/articles/1065556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065556)
+- [Три диплома, два курса и 1700 вакансий: что я понял про обучение на айтишника в 2026-м](https://habr.com/ru/articles/1065608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065608)
+- [Как корректно описать приём и обработку webhook](https://habr.com/ru/companies/otus/articles/1064436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064436)
+- [07.2026 Тренды агентной разработки за июль и подборка полезных статей на эту тему](https://habr.com/ru/articles/1055452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055452)
+- [[Перевод] Спросите Итана: что определяет размер наблюдаемой Вселенной?](https://habr.com/ru/articles/1058314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058314)
+- [Китайцы тоже могут. Открытый ИИ-агент Tencent сделал то, что не удалось AlphaEvolve, GPT и Claude](https://habr.com/ru/articles/1065592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065592)
 <!-- BLOG-POST-LIST:END -->
 
 ---
