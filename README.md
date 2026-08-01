@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Спустя 6 лет я докопался до ядра компьютера, и там была математика](https://habr.com/ru/articles/1065088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065088)
+- [time.ticks_ms&lpar;&rpar; в MicroPython: как не блокировать код и выполнять задачи конкурентно на ESP](https://habr.com/ru/articles/1065666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065666)
 - [7 месяцев вайбкодинга: как в одиночку делать то, что раньше требовало команду](https://habr.com/ru/articles/1065582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065582)
 - [[Перевод] Стохастический клеточный автомат на системе типов](https://habr.com/ru/articles/1065604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065604)
 - [Как не потерять себя в эпоху ИИ](https://habr.com/ru/articles/1065654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065654)
-- [Три диплома, два курса и 1700 вакансий: что я понял про обучение на айтишника в 2026-м](https://habr.com/ru/articles/1065608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065608)
-- [Как корректно описать приём и обработку webhook](https://habr.com/ru/companies/otus/articles/1064436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064436)
 <!-- BLOG-POST-LIST:END -->
 
 ---
