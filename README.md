@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как не потерять себя в эпоху ИИ](https://habr.com/ru/articles/1065654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065654)
 - [Три диплома, два курса и 1700 вакансий: что я понял про обучение на айтишника в 2026-м](https://habr.com/ru/articles/1065608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065608)
 - [Как корректно описать приём и обработку webhook](https://habr.com/ru/companies/otus/articles/1064436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064436)
 - [07.2026 Тренды агентной разработки за июль и подборка полезных статей на эту тему](https://habr.com/ru/articles/1055452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055452)
 - [[Перевод] Спросите Итана: что определяет размер наблюдаемой Вселенной?](https://habr.com/ru/articles/1058314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058314)
-- [Китайцы тоже могут. Открытый ИИ-агент Tencent сделал то, что не удалось AlphaEvolve, GPT и Claude](https://habr.com/ru/articles/1065592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065592)
 <!-- BLOG-POST-LIST:END -->
 
 ---
