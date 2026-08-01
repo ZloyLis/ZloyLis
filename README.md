@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«У вас в резюме указаны навыки ИИ. Что вы имели в виду?» Что отвечать, кроме количества потраченных токенов](https://habr.com/ru/articles/1064110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064110)
+- [Дайджест технических новостей, переводов и лонгридов инфослужбы Хабра за июль 2026 года](https://habr.com/ru/articles/1025502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1025502)
 - [Двойная бронь: как мы поймали гонку в записи и закрыли её EXCLUDE-констрейнтом](https://habr.com/ru/articles/1065522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065522)
 - [Бенчмаркая ArrayPool: подстава при копировании потоков — 131 072 байта в LOH](https://habr.com/ru/articles/1065518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065518)
 - [Бэкдоры в вакансиях на работу](https://habr.com/ru/companies/globalsign/articles/1065512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065512)
-- [Уведомления на Android без Google: почему UnifiedPush через публичный ntfy у вас не работает](https://habr.com/ru/articles/1065510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065510)
-- [Как мы проектировали идеальный пользовательский опыт для OTP-поля](https://habr.com/ru/companies/yoomoney/articles/1065468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065468)
 <!-- BLOG-POST-LIST:END -->
 
 ---
