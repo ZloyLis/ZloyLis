@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Спустя 6 лет я докопался до ядра компьютера, и там была математика](https://habr.com/ru/articles/1065088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065088)
+- [«Оценка 300 часов? ИИ мне сделает за вечер!». Считаем тремя методами, и 300 — ниже плинтуса в индустрии](https://habr.com/ru/articles/1065640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065640)
+- [Спустя 6 лет я докопался до ядра компьютера, и там была математическая формула](https://habr.com/ru/articles/1065688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065688)
+- [JOIN как в ORM: связи по foreign key в PostgreSQL](https://habr.com/ru/articles/1065684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065684)
 - [time.ticks_ms&lpar;&rpar; в MicroPython: как не блокировать код и выполнять задачи конкурентно на ESP](https://habr.com/ru/articles/1065666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065666)
 - [7 месяцев вайбкодинга: как в одиночку делать то, что раньше требовало команду](https://habr.com/ru/articles/1065582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065582)
-- [[Перевод] Стохастический клеточный автомат на системе типов](https://habr.com/ru/articles/1065604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065604)
-- [Как не потерять себя в эпоху ИИ](https://habr.com/ru/articles/1065654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065654)
 <!-- BLOG-POST-LIST:END -->
 
 ---
