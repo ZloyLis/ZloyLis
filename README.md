@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Одноразовые события в UI &lpar;Effect&rpar; — StateFlow, Channel или SharedFlow?](https://habr.com/ru/articles/1065784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065784)
+- [Как предсказывать долгосрочный эффект A/B теста по коротким метрикам — и почему регрессия может обмануть](https://habr.com/ru/articles/1065770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065770)
 - [Возрастная дискриминация в IT, как IT компании продолжают отсеивать по возрасту](https://habr.com/ru/articles/1065752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065752)
 - [Агент изменил рабочую базу данных, хотя это было запрещено в правилах](https://habr.com/ru/companies/veai/articles/1065728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065728)
 - [Если вы думаете, что знаете, чем отличается «Expression» от «Statement», то, скорее всего, вы ошибаетесь](https://habr.com/ru/articles/1065722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065722)
-- [Мобильная разработка за неделю #641 &lpar;27 июля — 2 августа&rpar;](https://habr.com/ru/articles/1065718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065718)
-- [История о том, как я написал компилятор Svelte на Rust](https://habr.com/ru/articles/1065708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065708)
 <!-- BLOG-POST-LIST:END -->
 
 ---
