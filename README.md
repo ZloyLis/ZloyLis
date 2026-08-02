@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Избыточные размышления не любят движущуюся цель](https://habr.com/ru/articles/1065780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065780)
 - [Расширяем границы ArgoCD: Использование Helmfile и Helmwave](https://habr.com/ru/articles/1065798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065798)
 - [ИИ в IT: как пользоваться ChatGPT и не слить конфиденциальные данные](https://habr.com/ru/articles/1065792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065792)
 - [Одноразовые события в UI &lpar;Effect&rpar; — StateFlow, Channel или SharedFlow?](https://habr.com/ru/articles/1065784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065784)
 - [Как предсказывать долгосрочный эффект A/B теста по коротким метрикам — и почему регрессия может обмануть](https://habr.com/ru/articles/1065770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065770)
-- [Возрастная дискриминация в IT, как IT компании продолжают отсеивать по возрасту](https://habr.com/ru/articles/1065752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065752)
 <!-- BLOG-POST-LIST:END -->
 
 ---
