@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Агент изменил рабочую базу данных, хотя это было запрещено в правилах](https://habr.com/ru/companies/veai/articles/1065728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065728)
 - [Если вы думаете, что знаете, чем отличается «Expression» от «Statement», то, скорее всего, вы ошибаетесь](https://habr.com/ru/articles/1065722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065722)
 - [Мобильная разработка за неделю #641 &lpar;27 июля — 2 августа&rpar;](https://habr.com/ru/articles/1065718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065718)
 - [История о том, как я написал компилятор Svelte на Rust](https://habr.com/ru/articles/1065708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065708)
 - [Геометрия ОТО на Python: рисуем эргосферу, черную дыру и фотонную сферу в различных метриках](https://habr.com/ru/articles/1063448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063448)
-- [Шизофрения LLM, или Поваренная книга вайбкодера](https://habr.com/ru/articles/1065704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065704)
 <!-- BLOG-POST-LIST:END -->
 
 ---
