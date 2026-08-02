@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [«Оценка 300 часов? ИИ мне сделает за вечер!». Считаем тремя методами, и 300 — ниже плинтуса в индустрии](https://habr.com/ru/articles/1065640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065640)
-- [Спустя 6 лет я докопался до ядра компьютера, и там была математическая формула](https://habr.com/ru/articles/1065688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065688)
-- [JOIN как в ORM: связи по foreign key в PostgreSQL](https://habr.com/ru/articles/1065684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065684)
-- [time.ticks_ms&lpar;&rpar; в MicroPython: как не блокировать код и выполнять задачи конкурентно на ESP](https://habr.com/ru/articles/1065666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065666)
-- [7 месяцев вайбкодинга: как в одиночку делать то, что раньше требовало команду](https://habr.com/ru/articles/1065582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065582)
+- [Если вы думаете, что знаете, чем отличается «Expression» от «Statement», то, скорее всего, вы ошибаетесь](https://habr.com/ru/articles/1065722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065722)
+- [Мобильная разработка за неделю #641 &lpar;27 июля — 2 августа&rpar;](https://habr.com/ru/articles/1065718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065718)
+- [История о том, как я написал компилятор Svelte на Rust](https://habr.com/ru/articles/1065708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065708)
+- [Геометрия ОТО на Python: рисуем эргосферу, черную дыру и фотонную сферу в различных метриках](https://habr.com/ru/articles/1063448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063448)
+- [Шизофрения LLM, или Поваренная книга вайбкодера](https://habr.com/ru/articles/1065704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065704)
 <!-- BLOG-POST-LIST:END -->
 
 ---
