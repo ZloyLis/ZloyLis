@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Любовь на языке Rust: ownership, borrowing и конечный автомат отношений](https://habr.com/ru/articles/1066278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066278)
+- [Генератор M-последовательностей](https://habr.com/ru/articles/1065746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065746)
+- [DocGen: как я сделал AI-ассистента для системного аналитика и не сошёл с ума](https://habr.com/ru/articles/1066274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066274)
+- [«Я грохнула половину интерфейса, и этого никто не заметил»: как мы улучшили UX, чтобы отучить систему мешать работать](https://habr.com/ru/companies/itarena/articles/1066270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066270)
 - [Почему агентный SDD ломается между микросервисами?](https://habr.com/ru/articles/1066242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066242)
-- [Почему отправленная MDM-команда ещё не означает выполненную](https://habr.com/ru/articles/1066224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066224)
-- [Скилл для ИИ-агента: как превратить пожелание в правило](https://habr.com/ru/articles/1066212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066212)
-- [Мониторинг, который не переживёт собственного падения](https://habr.com/ru/articles/1066210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066210)
-- [Сервис деск в телекоме: 6 фатальных ошибок в автоматизации поддержки и как их избежать](https://habr.com/ru/companies/itarena/articles/1066206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066206)
 <!-- BLOG-POST-LIST:END -->
 
 ---
