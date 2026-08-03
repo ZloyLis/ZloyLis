@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js, optimistic UI и autosave](https://habr.com/ru/articles/1066080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066080)
-- [Выпекаем тесты на Go с Testo: делимся нашим open-source-фреймворком](https://habr.com/ru/companies/ozontech/articles/1062036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062036)
-- [Между tsc и node:test: как ловить устаревшие тесты в dist](https://habr.com/ru/articles/1066056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066056)
-- [Служебный e-mail вместо рекламной СМС: как мы проверяем разбор решений ФАС](https://habr.com/ru/articles/1066048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066048)
-- [Курс системного администрирования &lpar;полный цикл практической работы&rpar; — Лимб](https://habr.com/ru/articles/1066036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066036)
+- [librats: Выпуск версии 2.1.x &lpar;библиотека для распределённых P2P-приложений&rpar;. Так же релиз rats-search 2.1.7 и rasync](https://habr.com/ru/articles/1066186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066186)
+- [Ваш AI‑агент не ошибся. Он точно выполнил плохую спецификацию](https://habr.com/ru/articles/1066182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066182)
+- [Риск был у всех. Ответственность оказалась у одного](https://habr.com/ru/articles/1066158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066158)
+- [Переписал CRest от Битрикса с нуля: гонки токенов, даунтаймы и мультипортальность, которых нет в стоке](https://habr.com/ru/articles/1061694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061694)
+- [1823 коммита за четыре месяца в четыре руки с LLM: что получилось, а что чуть не убило проект](https://habr.com/ru/articles/1066172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066172)
 <!-- BLOG-POST-LIST:END -->
 
 ---
