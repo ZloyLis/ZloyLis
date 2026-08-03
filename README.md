@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему агентный SDD ломается между микросервисами?](https://habr.com/ru/articles/1066242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066242)
 - [Почему отправленная MDM-команда ещё не означает выполненную](https://habr.com/ru/articles/1066224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066224)
 - [Скилл для ИИ-агента: как превратить пожелание в правило](https://habr.com/ru/articles/1066212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066212)
 - [Мониторинг, который не переживёт собственного падения](https://habr.com/ru/articles/1066210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066210)
 - [Сервис деск в телекоме: 6 фатальных ошибок в автоматизации поддержки и как их избежать](https://habr.com/ru/companies/itarena/articles/1066206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066206)
-- [librats: Выпуск версии 2.1.x &lpar;библиотека для распределённых P2P-приложений&rpar;. Так же релиз rats-search 2.1.7 и rasync](https://habr.com/ru/articles/1066186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066186)
 <!-- BLOG-POST-LIST:END -->
 
 ---
