@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hazelcast: Хороший, плохой, злой](https://habr.com/ru/articles/1065852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065852)
-- [[Перевод] Научный метод](https://habr.com/ru/articles/1065846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065846)
-- [Мой код терял бы 230 байт из 231. Чтобы это увидеть, пришлось патчить QEMU](https://habr.com/ru/articles/1065662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065662)
-- [[Перевод] Избыточные размышления не любят движущуюся цель](https://habr.com/ru/articles/1065780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065780)
-- [Расширяем границы ArgoCD: Использование Helmfile и Helmwave](https://habr.com/ru/articles/1065798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065798)
+- [99-й перцентиль за 20 мс: T-Digest и магия сжатых распределений](https://habr.com/ru/companies/timeweb/articles/1065882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065882)
+- [? выглядит как try/catch. Внутри — полная противоположность](https://habr.com/ru/companies/beget/articles/1051188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051188)
+- [Система триггеров на событиях Change Stream в MongoDB](https://habr.com/ru/companies/megafon/articles/1065904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065904)
+- [Как за вами следит Яндекс: часть 1/3](https://habr.com/ru/articles/1064698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064698)
+- [Хакатон — соло игра за 2 дня на Fable 5 и Nano Banana 2](https://habr.com/ru/articles/1065796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065796)
 <!-- BLOG-POST-LIST:END -->
 
 ---
