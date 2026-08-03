@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему отправленная MDM-команда ещё не означает выполненную](https://habr.com/ru/articles/1066224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066224)
+- [Скилл для ИИ-агента: как превратить пожелание в правило](https://habr.com/ru/articles/1066212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066212)
+- [Мониторинг, который не переживёт собственного падения](https://habr.com/ru/articles/1066210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066210)
+- [Сервис деск в телекоме: 6 фатальных ошибок в автоматизации поддержки и как их избежать](https://habr.com/ru/companies/itarena/articles/1066206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066206)
 - [librats: Выпуск версии 2.1.x &lpar;библиотека для распределённых P2P-приложений&rpar;. Так же релиз rats-search 2.1.7 и rasync](https://habr.com/ru/articles/1066186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066186)
-- [Ваш AI‑агент не ошибся. Он точно выполнил плохую спецификацию](https://habr.com/ru/articles/1066182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066182)
-- [Риск был у всех. Ответственность оказалась у одного](https://habr.com/ru/articles/1066158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066158)
-- [Переписал CRest от Битрикса с нуля: гонки токенов, даунтаймы и мультипортальность, которых нет в стоке](https://habr.com/ru/articles/1061694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061694)
-- [1823 коммита за четыре месяца в четыре руки с LLM: что получилось, а что чуть не убило проект](https://habr.com/ru/articles/1066172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066172)
 <!-- BLOG-POST-LIST:END -->
 
 ---
