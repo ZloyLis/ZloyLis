@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [99-й перцентиль за 20 мс: T-Digest и магия сжатых распределений](https://habr.com/ru/companies/timeweb/articles/1065882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065882)
-- [? выглядит как try/catch. Внутри — полная противоположность](https://habr.com/ru/companies/beget/articles/1051188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051188)
-- [Система триггеров на событиях Change Stream в MongoDB](https://habr.com/ru/companies/megafon/articles/1065904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065904)
-- [Как за вами следит Яндекс: часть 1/3](https://habr.com/ru/articles/1064698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064698)
-- [Хакатон — соло игра за 2 дня на Fable 5 и Nano Banana 2](https://habr.com/ru/articles/1065796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065796)
+- [Next.js, optimistic UI и autosave](https://habr.com/ru/articles/1066080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066080)
+- [Выпекаем тесты на Go с Testo: делимся нашим open-source-фреймворком](https://habr.com/ru/companies/ozontech/articles/1062036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062036)
+- [Между tsc и node:test: как ловить устаревшие тесты в dist](https://habr.com/ru/articles/1066056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066056)
+- [Служебный e-mail вместо рекламной СМС: как мы проверяем разбор решений ФАС](https://habr.com/ru/articles/1066048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066048)
+- [Курс системного администрирования &lpar;полный цикл практической работы&rpar; — Лимб](https://habr.com/ru/articles/1066036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066036)
 <!-- BLOG-POST-LIST:END -->
 
 ---
