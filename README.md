@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [AAA Движок для GTA San Andreas в браузере и переписывание ThreeJS](https://habr.com/ru/articles/1066360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066360)
-- [Сердце облачной Java: проверяем Quarkus](https://habr.com/ru/companies/pvs-studio/articles/1066358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066358)
-- [Индексируем диапазоны с помощью битовых масок, чтобы k8s не ломал индекс](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/1055120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055120)
-- [Трижды в топ‑3 финтеха: 6 потерь эффективности, которые мы устранили, чтобы быть среди лучших](https://habr.com/ru/companies/psb/articles/1065910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065910)
-- [Создаём DSL на C#: Диагностика](https://habr.com/ru/articles/1066332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066332)
+- [Как деградирует продовый LLM-инференс: KV-cache, OOM и хвост p99](https://habr.com/ru/companies/vktech/articles/1064026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064026)
+- [Картинка грузится, а fetch к тому же хосту — нет: как CSP тихо сломала три интеграции](https://habr.com/ru/articles/1066450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066450)
+- [Заметки фром реакт документейшен | React: грабли, о которые я спотыкалась. Часть 1](https://habr.com/ru/articles/1066444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066444)
+- [О чём писать в книге о браузере, если ChatGPT уже знает все Web API?](https://habr.com/ru/companies/bhv_publishing/articles/1066408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066408)
+- [Частые ошибки в вёрстке, которые встречаются даже на крупных проектах](https://habr.com/ru/companies/ruvds/articles/1063176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063176)
 <!-- BLOG-POST-LIST:END -->
 
 ---
