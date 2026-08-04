@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как деградирует продовый LLM-инференс: KV-cache, OOM и хвост p99](https://habr.com/ru/companies/vktech/articles/1064026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064026)
+- [Отказ — это событие, а не статус: как мы перепроектировали модель данных исполнительного производства](https://habr.com/ru/articles/1066510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066510)
+- [Как оценить свой пет-проект для продажи?](https://habr.com/ru/articles/1066474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066474)
+- [Платформенный шаблон.NET‑сервиса: с нуля до прода за два дня](https://habr.com/ru/companies/tbank/articles/1063534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063534)
+- [Как деградирует продовый LLM-инференс: KV-cache, OOM и хвост p99](https://habr.com/ru/companies/vk/articles/1064026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064026)
 - [Картинка грузится, а fetch к тому же хосту — нет: как CSP тихо сломала три интеграции](https://habr.com/ru/articles/1066450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066450)
-- [Заметки фром реакт документейшен | React: грабли, о которые я спотыкалась. Часть 1](https://habr.com/ru/articles/1066444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066444)
-- [О чём писать в книге о браузере, если ChatGPT уже знает все Web API?](https://habr.com/ru/companies/bhv_publishing/articles/1066408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066408)
-- [Частые ошибки в вёрстке, которые встречаются даже на крупных проектах](https://habr.com/ru/companies/ruvds/articles/1063176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063176)
 <!-- BLOG-POST-LIST:END -->
 
 ---
