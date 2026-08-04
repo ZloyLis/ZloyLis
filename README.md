@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Я написал мессенджер в одиночку. Поможете устроить ему краш‑тест?](https://habr.com/ru/articles/1066668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066668)
-- [Как мы построили ИИ‑аналитику, которая не галлюцинирует](https://habr.com/ru/articles/1066650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066650)
-- [Как предсказывать долгосрочный эффект A/B теста раньше: прокси-метрики и ловушка регрессии](https://habr.com/ru/articles/1066638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066638)
-- [Типизация документов без OCR и нейросетей: 99.79% точности за 3 мс](https://habr.com/ru/companies/smartengines/articles/1066634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066634)
-- [Фронтенд умер? Нет, но AI уже держит лопату](https://habr.com/ru/companies/avito/articles/1066228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066228)
+- [Нейронки опрокинули гипотезы, которым было по 50–90 лет. И тут есть нюанс](https://habr.com/ru/companies/gptunnel/articles/1066700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066700)
+- [Починил ripgrep или поддержка архивной звеRooшки](https://habr.com/ru/articles/1066698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066698)
+- [DocGen: как я сделал AI-ассистента для системного аналитика](https://habr.com/ru/articles/1066622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066622)
+- [Ассистент или агент: я делал одну контент-машину тремя способами](https://habr.com/ru/companies/alpinadigital/articles/1066684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066684)
+- [Проклятие детерминизма, или Меланхолия создателей цифровых миров](https://habr.com/ru/articles/1066678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066678)
 <!-- BLOG-POST-LIST:END -->
 
 ---
