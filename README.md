@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Security Week 2632: массовый угон криптовалюты у пользователей кошельков COLDCARD](https://habr.com/ru/companies/kaspersky/articles/1065992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065992)
-- [Как приручить LLM](https://habr.com/ru/articles/1066298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066298)
-- [Wiremokjs как я создавал свой скриптовый язык для wiremock](https://habr.com/ru/articles/1066180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066180)
-- [Любовь на языке Rust: ownership, borrowing и конечный автомат отношений](https://habr.com/ru/articles/1066278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066278)
-- [Генератор M-последовательностей](https://habr.com/ru/articles/1065746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065746)
+- [AAA Движок для GTA San Andreas в браузере и переписывание ThreeJS](https://habr.com/ru/articles/1066360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066360)
+- [Сердце облачной Java: проверяем Quarkus](https://habr.com/ru/companies/pvs-studio/articles/1066358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066358)
+- [Индексируем диапазоны с помощью битовых масок, чтобы k8s не ломал индекс](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/1055120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055120)
+- [Трижды в топ‑3 финтеха: 6 потерь эффективности, которые мы устранили, чтобы быть среди лучших](https://habr.com/ru/companies/psb/articles/1065910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065910)
+- [Создаём DSL на C#: Диагностика](https://habr.com/ru/articles/1066332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066332)
 <!-- BLOG-POST-LIST:END -->
 
 ---
