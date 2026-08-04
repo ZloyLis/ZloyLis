@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Отказ — это событие, а не статус: как мы перепроектировали модель данных исполнительного производства](https://habr.com/ru/articles/1066510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066510)
-- [Как оценить свой пет-проект для продажи?](https://habr.com/ru/articles/1066474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066474)
-- [Платформенный шаблон.NET‑сервиса: с нуля до прода за два дня](https://habr.com/ru/companies/tbank/articles/1063534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063534)
-- [Как деградирует продовый LLM-инференс: KV-cache, OOM и хвост p99](https://habr.com/ru/companies/vk/articles/1064026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064026)
-- [Картинка грузится, а fetch к тому же хосту — нет: как CSP тихо сломала три интеграции](https://habr.com/ru/articles/1066450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066450)
+- [Я написал мессенджер в одиночку. Поможете устроить ему краш‑тест?](https://habr.com/ru/articles/1066668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066668)
+- [Как мы построили ИИ‑аналитику, которая не галлюцинирует](https://habr.com/ru/articles/1066650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066650)
+- [Как предсказывать долгосрочный эффект A/B теста раньше: прокси-метрики и ловушка регрессии](https://habr.com/ru/articles/1066638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066638)
+- [Типизация документов без OCR и нейросетей: 99.79% точности за 3 мс](https://habr.com/ru/companies/smartengines/articles/1066634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066634)
+- [Фронтенд умер? Нет, но AI уже держит лопату](https://habr.com/ru/companies/avito/articles/1066228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066228)
 <!-- BLOG-POST-LIST:END -->
 
 ---
