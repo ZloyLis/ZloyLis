@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Я собрал конвейер аналитики банков на LLM-агентах. Показываю, где он остановил 7 из 31](https://habr.com/ru/articles/1066822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066822)
-- [Как мы вынесли алгоритм ценообразования из кода Яндекс Такси &lpar;и почему это не было очевидно с самого начала&rpar;](https://habr.com/ru/companies/yandex/articles/1065984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065984)
-- [Внедрение HTTP/3 задерживается](https://habr.com/ru/companies/ruvds/articles/1066412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066412)
-- [Самый ламповый проект Apple, который с треском провалился](https://habr.com/ru/companies/studyai/articles/1066462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066462)
-- [130+ критериев: как холдинг искал замену Excel и чем это кончилось](https://habr.com/ru/articles/1066740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066740)
+- [Невероятно быстрый алгоритм нахождения простых делителей огромных составных чисел](https://habr.com/ru/articles/1066960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066960)
+- [Месяц, 500M токенов и симулятор завода: как мы с ИИ-агентом построили имитационную модель производства чипов](https://habr.com/ru/articles/1065856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065856)
+- [[Перевод] Объяснение диэдральных подгрупп на примере Factorio](https://habr.com/ru/articles/1066864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066864)
+- [Как попасть на стажировку в Яндекс](https://habr.com/ru/companies/yandex_praktikum/articles/1066858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066858)
+- [Объекты в JS не бесплатные](https://habr.com/ru/articles/1066944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066944)
 <!-- BLOG-POST-LIST:END -->
 
 ---
