@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Когда мои старые способы учиться перестали успевать за миром](https://habr.com/ru/articles/1067046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067046)
-- [Аналитика без готовых инструкций: какие кейсы ищут для A&amp;amp;PM EVENT 2026](https://habr.com/ru/companies/infostart/articles/1067022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067022)
-- [[Перевод] Как мигрировать 1 млн строк кода с одного языка на другой за 2 недели](https://habr.com/ru/articles/1066814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066814)
-- [Почему для Telegram-квестов мне пришлось написать свою виртуальную машину: История Questogram](https://habr.com/ru/articles/1065570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065570)
-- [Ubuntu Touch 24.04-2.0: что в свежем релизе мобильной Linux-системы](https://habr.com/ru/companies/selectel/articles/1065892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065892)
+- [Как не захлебнуться в User Stories и не утопить в них команду](https://habr.com/ru/companies/garage8/articles/1067128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067128)
+- [Агентный RAG, бенчмарк TRuST и при чём здесь Нафаня?](https://habr.com/ru/articles/1067136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067136)
+- [Одна статья, 90 языковых версий и Google: как пет‑проект превратился в платформу](https://habr.com/ru/articles/1067132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067132)
+- [Как я придумывал замену Redis и что из этого получилось](https://habr.com/ru/articles/1067130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067130)
+- [Как PVS-Studio улучшает качество embedded-проектов](https://habr.com/ru/companies/pvs-studio/articles/1066854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066854)
 <!-- BLOG-POST-LIST:END -->
 
 ---
