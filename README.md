@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Сложные сайты на вайбкоде: четыре лендинга, два пути к «дорогим» эффектам и 3D-логотип из спрайтов](https://habr.com/ru/companies/alpinadigital/articles/1066732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066732)
-- [Бенчмаркая StringBuilder: подстава на длинном тексте](https://habr.com/ru/articles/1066728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066728)
-- [Нефункциональные требования: 5 ошибок, которые всплывут в проде](https://habr.com/ru/companies/otus/articles/1064230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064230)
-- [Нейронки опрокинули гипотезы, которым было по 50–90 лет. И тут есть нюанс](https://habr.com/ru/companies/gptunnel/articles/1066700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066700)
-- [Починил ripgrep или поддержка архивной звеRooшки](https://habr.com/ru/articles/1066698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066698)
+- [Я собрал конвейер аналитики банков на LLM-агентах. Показываю, где он остановил 7 из 31](https://habr.com/ru/articles/1066822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066822)
+- [Как мы вынесли алгоритм ценообразования из кода Яндекс Такси &lpar;и почему это не было очевидно с самого начала&rpar;](https://habr.com/ru/companies/yandex/articles/1065984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065984)
+- [Внедрение HTTP/3 задерживается](https://habr.com/ru/companies/ruvds/articles/1066412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066412)
+- [Самый ламповый проект Apple, который с треском провалился](https://habr.com/ru/companies/studyai/articles/1066462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066462)
+- [130+ критериев: как холдинг искал замену Excel и чем это кончилось](https://habr.com/ru/articles/1066740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066740)
 <!-- BLOG-POST-LIST:END -->
 
 ---
