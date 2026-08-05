@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Невероятно быстрый алгоритм нахождения простых делителей огромных составных чисел](https://habr.com/ru/articles/1066960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066960)
-- [Месяц, 500M токенов и симулятор завода: как мы с ИИ-агентом построили имитационную модель производства чипов](https://habr.com/ru/articles/1065856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065856)
-- [[Перевод] Объяснение диэдральных подгрупп на примере Factorio](https://habr.com/ru/articles/1066864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066864)
-- [Как попасть на стажировку в Яндекс](https://habr.com/ru/companies/yandex_praktikum/articles/1066858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066858)
-- [Объекты в JS не бесплатные](https://habr.com/ru/articles/1066944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066944)
+- [Когда мои старые способы учиться перестали успевать за миром](https://habr.com/ru/articles/1067046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067046)
+- [Аналитика без готовых инструкций: какие кейсы ищут для A&amp;amp;PM EVENT 2026](https://habr.com/ru/companies/infostart/articles/1067022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067022)
+- [[Перевод] Как мигрировать 1 млн строк кода с одного языка на другой за 2 недели](https://habr.com/ru/articles/1066814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066814)
+- [Почему для Telegram-квестов мне пришлось написать свою виртуальную машину: История Questogram](https://habr.com/ru/articles/1065570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065570)
+- [Ubuntu Touch 24.04-2.0: что в свежем релизе мобильной Linux-системы](https://habr.com/ru/companies/selectel/articles/1065892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065892)
 <!-- BLOG-POST-LIST:END -->
 
 ---
