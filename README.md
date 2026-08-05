@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сложные сайты на вайбкоде: четыре лендинга, два пути к «дорогим» эффектам и 3D-логотип из спрайтов](https://habr.com/ru/companies/alpinadigital/articles/1066732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066732)
 - [Бенчмаркая StringBuilder: подстава на длинном тексте](https://habr.com/ru/articles/1066728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066728)
 - [Нефункциональные требования: 5 ошибок, которые всплывут в проде](https://habr.com/ru/companies/otus/articles/1064230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064230)
 - [Нейронки опрокинули гипотезы, которым было по 50–90 лет. И тут есть нюанс](https://habr.com/ru/companies/gptunnel/articles/1066700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066700)
 - [Починил ripgrep или поддержка архивной звеRooшки](https://habr.com/ru/articles/1066698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066698)
-- [DocGen: как я сделал AI-ассистента для системного аналитика](https://habr.com/ru/articles/1066622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066622)
 <!-- BLOG-POST-LIST:END -->
 
 ---
