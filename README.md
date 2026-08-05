@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Детектор не приступов, а тряски. Приложение для часов Garmin](https://habr.com/ru/articles/1067220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067220)
 - [От object detection к классическому CV: разрабатываем сканер для слабых смартфонов](https://habr.com/ru/articles/1067188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067188)
 - [Я написал мессенджер в одиночку … Разбор 149-ФЗ](https://habr.com/ru/articles/1067162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067162)
 - [Как не захлебнуться в User Stories и не утопить в них команду](https://habr.com/ru/companies/garage8/articles/1067128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067128)
 - [Агентный RAG, бенчмарк TRuST и при чём здесь Нафаня?](https://habr.com/ru/articles/1067136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067136)
-- [Одна статья, 90 языковых версий и Google: как пет‑проект превратился в платформу](https://habr.com/ru/articles/1067132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067132)
 <!-- BLOG-POST-LIST:END -->
 
 ---
