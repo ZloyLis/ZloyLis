@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Я написал мессенджер в одиночку … Разбор 149-ФЗ](https://habr.com/ru/articles/1067162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067162)
 - [Как не захлебнуться в User Stories и не утопить в них команду](https://habr.com/ru/companies/garage8/articles/1067128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067128)
 - [Агентный RAG, бенчмарк TRuST и при чём здесь Нафаня?](https://habr.com/ru/articles/1067136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067136)
 - [Одна статья, 90 языковых версий и Google: как пет‑проект превратился в платформу](https://habr.com/ru/articles/1067132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067132)
 - [Как я придумывал замену Redis и что из этого получилось](https://habr.com/ru/articles/1067130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067130)
-- [Как PVS-Studio улучшает качество embedded-проектов](https://habr.com/ru/companies/pvs-studio/articles/1066854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066854)
 <!-- BLOG-POST-LIST:END -->
 
 ---
