@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как измерить собственный обход блокировок: восемь механизмов, которые не выполнялись ни разу](https://habr.com/ru/articles/1067252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067252)
-- [Я собрал 33 ИИ-агента на одном движке. Показываю, как устроены пять из них](https://habr.com/ru/articles/1067234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067234)
-- [Бенчмаркая Enumerable.Chunk: почему батчей меньше, а проход до ×2,7 дольше](https://habr.com/ru/articles/1067238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067238)
-- [Как я починил энергосбережение OnePlus 3T на mainline ядре](https://habr.com/ru/articles/1067224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067224)
-- [Детектор не приступов, а тряски. Приложение для часов Garmin](https://habr.com/ru/articles/1067220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067220)
+- [Обновления GigaIDE за июль 2026](https://habr.com/ru/companies/sberbank/articles/1066152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066152)
+- [[Перевод] Чему десять лет в разработке научили меня о технологиях](https://habr.com/ru/articles/1067304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067304)
+- [Кейс: управленческая аналитика в BI Конструкторе Битрикс24 для рекламного агентства](https://habr.com/ru/articles/1067302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067302)
+- [Как ИИ-помощник работает с данными 1С: семь практических сценариев](https://habr.com/ru/companies/infostart/articles/1067030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067030)
+- [Вслед за Эдвардом Сьоре, или как я писал свою реализацию on disk B+Tree-индекса на Rust](https://habr.com/ru/articles/1067032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067032)
 <!-- BLOG-POST-LIST:END -->
 
 ---
