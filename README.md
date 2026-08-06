@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Обновления GigaIDE за июль 2026](https://habr.com/ru/companies/sberbank/articles/1066152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066152)
-- [[Перевод] Чему десять лет в разработке научили меня о технологиях](https://habr.com/ru/articles/1067304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067304)
-- [Кейс: управленческая аналитика в BI Конструкторе Битрикс24 для рекламного агентства](https://habr.com/ru/articles/1067302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067302)
-- [Как ИИ-помощник работает с данными 1С: семь практических сценариев](https://habr.com/ru/companies/infostart/articles/1067030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067030)
-- [Вслед за Эдвардом Сьоре, или как я писал свою реализацию on disk B+Tree-индекса на Rust](https://habr.com/ru/articles/1067032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067032)
+- [Как мы проектировали складской учет для пользователей, которые не хотят никакого учета](https://habr.com/ru/companies/cynteka/articles/1067452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067452)
+- [Графический фреймворк «Арго»](https://habr.com/ru/articles/1067450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067450)
+- [База встала под нагрузкой: как найти, кто кого блокирует в PostgreSQL](https://habr.com/ru/companies/otus/articles/1065588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065588)
+- [ChainDrop: как взлом Keyv превратил npm в конвейер заражённых пакетов](https://habr.com/ru/articles/1067402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067402)
+- [Блокчейн глазами разработчика: append‑only база данных, за запись в которую платят](https://habr.com/ru/articles/1067392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067392)
 <!-- BLOG-POST-LIST:END -->
 
 ---
