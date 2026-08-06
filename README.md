@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kotlin: про Structured Concurrency, CoroutineContext и CoroutineScope](https://habr.com/ru/articles/1067510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067510)
-- [Обработка ошибок и исключений в RPG на IBM i](https://habr.com/ru/articles/903516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=903516)
-- [Три разных номера из одной книги — и все проходят контрольную цифру](https://habr.com/ru/articles/1067472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067472)
-- [Как мы проектировали складской учет для пользователей, которые не хотят никакого учета](https://habr.com/ru/companies/cynteka/articles/1067452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067452)
-- [Графический фреймворк «Арго»](https://habr.com/ru/articles/1067450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067450)
+- [С широко закрытыми глазами: двойная жизнь государств, компаний и корпораций —или как измерить то, чего «никто не видит»](https://habr.com/ru/articles/1067596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067596)
+- [[Перевод] Swift на Apple II. Часть 1: язык, компилятор и байткод](https://habr.com/ru/companies/cloud4y/articles/1067592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067592)
+- [Может нам стоит остановить гонку вооружений и сесть за стол переговоров?](https://habr.com/ru/articles/1067340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067340)
+- [10 инсайтов, которые я нашел, когда автоматизировал конкурентную аналитику](https://habr.com/ru/companies/garage8/articles/1067588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067588)
+- [Лучший способ освободить память на iPhone](https://habr.com/ru/articles/1067584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067584)
 <!-- BLOG-POST-LIST:END -->
 
 ---
