@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я спроектировал подземный модуль сортировочного центра площадью 3к м², за месяц…](https://habr.com/ru/articles/1067692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067692)
 - [Один запрос, пять наблюдателей: что сайт, провайдер, DNS и VPN узнают, когда вы открываете страницу](https://habr.com/ru/articles/1067672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067672)
 - [Как пишут базы данных на C#: RavenDb](https://habr.com/ru/articles/1067642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067642)
 - [Как я Zabbix с LLM дружил в свободное время. Архитектурный обзор взаимодействия с нейросетью. Часть 4 «Реализация»](https://habr.com/ru/articles/1067622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067622)
 - [[Перевод] Swift на Apple II. Часть 1: язык, компилятор и байткод](https://habr.com/ru/companies/cloud4y/articles/1067592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067592)
-- [Может нам стоит остановить гонку вооружений и сесть за стол переговоров?](https://habr.com/ru/articles/1067340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067340)
 <!-- BLOG-POST-LIST:END -->
 
 ---
