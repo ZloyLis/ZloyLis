@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [AI и склонение немецких прилагательных](https://habr.com/ru/articles/1068054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068054)
+- [Как показать клиенту новый сервер до переключения DNS](https://habr.com/ru/articles/1068042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068042)
+- [NEOMSA APIM 4.6.0, платформа управления API: как мы устранили уязвимости Critical и High из БДУ ФСТЭК](https://habr.com/ru/companies/neoflex/articles/1067482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067482)
 - [ИИ-агенты заговорили на языке OpenTelemetry: два сигнала от MCP и Otel](https://habr.com/ru/companies/proto/articles/1068040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068040)
 - [[Перевод] Как потеря 17% сессий запустила цепную реакцию в инфраструктуре Discord](https://habr.com/ru/companies/otus/articles/1067388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067388)
-- [Agentic AI: стек агентного инженера](https://habr.com/ru/articles/1068024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068024)
-- [Загрузил не тот файл в нейросеть — уволен. Как устроена безопасность данных в ИИ](https://habr.com/ru/companies/ratingruneta/articles/1068006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068006)
-- [C++-техрадар: что разработчики действительно готовы брать в работу](https://habr.com/ru/companies/kaspersky/articles/1067982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067982)
 <!-- BLOG-POST-LIST:END -->
 
 ---
