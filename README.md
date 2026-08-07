@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Поведенческий антифрод: что еще анализируют антифрод-системы помимо отпечатков железа и браузера](https://habr.com/ru/companies/aurorium/articles/1067810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067810)
+- [Java Digest #38: Valhalla в master, ежемесячные патчи Oracle и AI-скиллы в IDEA](https://habr.com/ru/companies/tbank/articles/1067830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067830)
+- [[Перевод] Пользователи: 46 000. Прибыль: $0. Дикая история запуска приложения для ставок на смерть персонажей “Игры престолов”](https://habr.com/ru/articles/1067826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067826)
 - [Коротко о веб-сертификатах безопасности](https://habr.com/ru/articles/1067820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067820)
 - [ggrebalance: Часть 3. Выполнение ребаланса](https://habr.com/ru/companies/greengage/articles/1067586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067586)
-- [Как мы построили систему регрессионного UI-тестирования для iOS-приложения: XCUITest, mock backend и XcodeBuildMCP](https://habr.com/ru/articles/1067816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067816)
-- [OpenAI‑совместимый API без переписывания приложения: что проверить перед сменой базового адреса](https://habr.com/ru/articles/1067814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067814)
-- [Почему 5G в России нельзя просто «включить»: частоты, базовые станции и цена перехода](https://habr.com/ru/companies/ru_mts/articles/1064950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064950)
 <!-- BLOG-POST-LIST:END -->
 
 ---
