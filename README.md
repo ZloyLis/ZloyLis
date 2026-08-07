@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кольца на срезе или сколько лет программисту?](https://habr.com/ru/articles/1066816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066816)
 - [Telegram 2026 в России: взгляд разработчика ботов](https://habr.com/ru/articles/1068076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068076)
 - [AI и склонение немецких прилагательных](https://habr.com/ru/articles/1068054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068054)
 - [Как показать клиенту новый сервер до переключения DNS](https://habr.com/ru/articles/1068042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068042)
 - [NEOMSA APIM 4.6.0, платформа управления API: как мы устранили уязвимости Critical и High из БДУ ФСТЭК](https://habr.com/ru/companies/neoflex/articles/1067482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067482)
-- [ИИ-агенты заговорили на языке OpenTelemetry: два сигнала от MCP и Otel](https://habr.com/ru/companies/proto/articles/1068040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068040)
 <!-- BLOG-POST-LIST:END -->
 
 ---
