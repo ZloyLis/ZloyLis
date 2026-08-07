@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Из кода в графику: отладка параметрической 3D-геометрии до компиляции](https://habr.com/ru/articles/1066570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066570)
-- [Как я спроектировал подземный модуль сортировочного центра площадью 3к м², за месяц…](https://habr.com/ru/articles/1067692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067692)
-- [Один запрос, пять наблюдателей: что сайт, провайдер, DNS и VPN узнают, когда вы открываете страницу](https://habr.com/ru/articles/1067672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067672)
-- [Как пишут базы данных на C#: RavenDb](https://habr.com/ru/articles/1067642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067642)
-- [Как я Zabbix с LLM дружил в свободное время. Архитектурный обзор взаимодействия с нейросетью. Часть 4 «Реализация»](https://habr.com/ru/articles/1067622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067622)
+- [Коротко о веб-сертификатах безопасности](https://habr.com/ru/articles/1067820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067820)
+- [ggrebalance: Часть 3. Выполнение ребаланса](https://habr.com/ru/companies/greengage/articles/1067586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067586)
+- [Как мы построили систему регрессионного UI-тестирования для iOS-приложения: XCUITest, mock backend и XcodeBuildMCP](https://habr.com/ru/articles/1067816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067816)
+- [OpenAI‑совместимый API без переписывания приложения: что проверить перед сменой базового адреса](https://habr.com/ru/articles/1067814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067814)
+- [Почему 5G в России нельзя просто «включить»: частоты, базовые станции и цена перехода](https://habr.com/ru/companies/ru_mts/articles/1064950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064950)
 <!-- BLOG-POST-LIST:END -->
 
 ---
