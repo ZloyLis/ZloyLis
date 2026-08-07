@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Как за вами &lpar;не&rpar; следит Яндекс»: что на самом деле происходит внутри Android-приложений](https://habr.com/ru/companies/yandex/articles/1067964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067964)
+- [ConnectRPC против gRPC: практическое сравнение](https://habr.com/ru/companies/usetech/articles/1067960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067960)
 - [Вышел Cozystack 1.6: Talos на рабочих узлах, SSO для тенантов, Security Groups и иерархические квоты](https://habr.com/ru/companies/aenix/articles/1067916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067916)
 - [Playwright vs Selenium: 7 ошибок Java‑миграции](https://habr.com/ru/companies/otus/articles/1047066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047066)
 - [«Почему мы снова говорим про архитектуру?»](https://habr.com/ru/articles/1067886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067886)
-- [Как и зачем ускоряют LLM](https://habr.com/ru/companies/bothub/articles/1067658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067658)
-- [Поведенческий антифрод: что еще анализируют антифрод-системы помимо отпечатков железа и браузера](https://habr.com/ru/companies/aurorium/articles/1067810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067810)
 <!-- BLOG-POST-LIST:END -->
 
 ---
