@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ-агенты заговорили на языке OpenTelemetry: два сигнала от MCP и Otel](https://habr.com/ru/companies/proto/articles/1068040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068040)
 - [[Перевод] Как потеря 17% сессий запустила цепную реакцию в инфраструктуре Discord](https://habr.com/ru/companies/otus/articles/1067388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067388)
 - [Agentic AI: стек агентного инженера](https://habr.com/ru/articles/1068024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068024)
 - [Загрузил не тот файл в нейросеть — уволен. Как устроена безопасность данных в ИИ](https://habr.com/ru/companies/ratingruneta/articles/1068006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068006)
 - [C++-техрадар: что разработчики действительно готовы брать в работу](https://habr.com/ru/companies/kaspersky/articles/1067982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067982)
-- [«Как за вами &lpar;не&rpar; следит Яндекс»: что на самом деле происходит внутри Android-приложений](https://habr.com/ru/companies/yandex/articles/1067964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067964)
 <!-- BLOG-POST-LIST:END -->
 
 ---
