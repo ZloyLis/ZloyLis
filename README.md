@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мониторинг удалённых объектов без интернета: ESP, MacroDroid и старый Android](https://habr.com/ru/articles/1068218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068218)
 - [Как я настроил безопасное шифрование данных для сайта с помощью протокола HTTPS и SSL/TLS сертификата](https://habr.com/ru/articles/1068204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068204)
 - [Побеждаем OOM в PyTorch: как обучать гигантские графы на обычной видеокарте](https://habr.com/ru/articles/1068202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068202)
 - [Из немыслимого в элементарное: парсинг сайта спортпита на Python без бэкграунда программиста](https://habr.com/ru/articles/1068200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068200)
 - [Отдали базу штрихкодов статикой: 1,9 МБ, 1387 шардов, медиана в одну строку](https://habr.com/ru/articles/1068190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068190)
-- [Эксперимент: есть ли у ЛЛМ воля к победе над человеком?](https://habr.com/ru/articles/1068186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068186)
 <!-- BLOG-POST-LIST:END -->
 
 ---
