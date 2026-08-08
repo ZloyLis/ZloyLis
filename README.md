@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я настроил безопасное шифрование данных для сайта с помощью протокола HTTPS и SSL/TLS сертификата](https://habr.com/ru/articles/1068204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068204)
+- [Побеждаем OOM в PyTorch: как обучать гигантские графы на обычной видеокарте](https://habr.com/ru/articles/1068202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068202)
+- [Из немыслимого в элементарное: парсинг сайта спортпита на Python без бэкграунда программиста](https://habr.com/ru/articles/1068200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068200)
+- [Отдали базу штрихкодов статикой: 1,9 МБ, 1387 шардов, медиана в одну строку](https://habr.com/ru/articles/1068190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068190)
 - [Эксперимент: есть ли у ЛЛМ воля к победе над человеком?](https://habr.com/ru/articles/1068186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068186)
-- [Когда документация заканчивается, системный аналитик начинает читать код](https://habr.com/ru/articles/1065212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065212)
-- [[Перевод] Победить Hibernate в тестах. Возможно?](https://habr.com/ru/companies/spring_aio/articles/1068176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068176)
-- [Безопасность в cloud-native: главные риски и способы защиты](https://habr.com/ru/companies/cloud_ru/articles/1067052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067052)
-- [[Перевод] Драгоценный камень в сердце квантовой физики](https://habr.com/ru/articles/1066972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066972)
 <!-- BLOG-POST-LIST:END -->
 
 ---
