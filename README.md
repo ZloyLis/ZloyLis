@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Записки нейроманта #0 — Claude Code вчера получил лучшее обновление года](https://habr.com/ru/articles/1068106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068106)
+- [Я печатаю медленнее, чем думаю: локальная диктовка на Whisper для Windows, телефона и Telegram](https://habr.com/ru/articles/1068152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068152)
 - [Когда программист перестает быть автором](https://habr.com/ru/articles/1068146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068146)
 - [Нагрузочный тест Sockudo: два бага в чужом Rust‑коде, которые кладут сервис на ровном месте](https://habr.com/ru/articles/1068142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068142)
 - [Я сделал «идеальный» мессенджер с ИИ и не знаю, что с ним делать](https://habr.com/ru/articles/1068130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068130)
-- [Не отдавайте ИИ то, что должны придумать сами](https://habr.com/ru/articles/1068120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068120)
-- [Теорема Миттаг-Леффлера: главная теорема всего комплексного анализа](https://habr.com/ru/articles/1068102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068102)
 <!-- BLOG-POST-LIST:END -->
 
 ---
