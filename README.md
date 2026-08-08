@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [24 главы, два языка и живой Event Loop: как я собрал с Codex лабораторию по backend-разработке](https://habr.com/ru/articles/1068238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068238)
+- [Эффект бабочки на комплексной плоскости](https://habr.com/ru/articles/1068234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068234)
 - [ИИ Агент для скоринга торговых рекомендаций](https://habr.com/ru/articles/1068228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068228)
 - [Мониторинг удалённых объектов без интернета: ESP, MacroDroid и старый Android](https://habr.com/ru/articles/1068218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068218)
 - [Как я настроил безопасное шифрование данных для сайта с помощью протокола HTTPS и SSL/TLS сертификата](https://habr.com/ru/articles/1068204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068204)
-- [Побеждаем OOM в PyTorch: как обучать гигантские графы на обычной видеокарте](https://habr.com/ru/articles/1068202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068202)
-- [Из немыслимого в элементарное: парсинг сайта спортпита на Python без бэкграунда программиста](https://habr.com/ru/articles/1068200/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068200)
 <!-- BLOG-POST-LIST:END -->
 
 ---
