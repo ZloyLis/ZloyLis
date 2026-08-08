@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Не отдавайте ИИ то, что должны придумать сами](https://habr.com/ru/articles/1068120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068120)
+- [Теорема Миттаг-Леффлера: главная теорема всего комплексного анализа](https://habr.com/ru/articles/1068102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068102)
 - [Сжатие словаря. Языки из омонимов и хроматическое число](https://habr.com/ru/articles/1067888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067888)
 - [Событийная сингулярность как философская модель факта и возможного](https://habr.com/ru/articles/1065800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065800)
 - [EvertyDesk: я отдаю то, на что ушли годы](https://habr.com/ru/articles/1068100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068100)
-- [Кольца на срезе или сколько лет программисту?](https://habr.com/ru/articles/1066816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066816)
-- [Telegram 2026 в России: взгляд разработчика ботов](https://habr.com/ru/articles/1068076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068076)
 <!-- BLOG-POST-LIST:END -->
 
 ---
