@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Не позволим теории струн разрушить вполне успешную науку — физическую космологию](https://habr.com/ru/articles/1068088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068088)
+- [gitTalk: когда лень вспоминать команды для гита](https://habr.com/ru/articles/1068280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068280)
 - [Патчим Codex: управляемая амнезия без потери контекста](https://habr.com/ru/articles/1068252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068252)
 - [24 главы, два языка и живой Event Loop: как я собрал с Codex лабораторию по backend-разработке](https://habr.com/ru/articles/1068238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068238)
 - [Эффект бабочки на комплексной плоскости](https://habr.com/ru/articles/1068234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068234)
-- [ИИ Агент для скоринга торговых рекомендаций](https://habr.com/ru/articles/1068228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068228)
-- [Мониторинг удалённых объектов без интернета: ESP, MacroDroid и старый Android](https://habr.com/ru/articles/1068218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068218)
 <!-- BLOG-POST-LIST:END -->
 
 ---
