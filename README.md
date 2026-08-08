@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Безопасность в cloud-native: главные риски и способы защиты](https://habr.com/ru/companies/cloud_ru/articles/1067052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067052)
 - [[Перевод] Драгоценный камень в сердце квантовой физики](https://habr.com/ru/articles/1066972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066972)
 - [От болтливых LLM-агентов к управляемым системам](https://habr.com/ru/articles/1068168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068168)
 - [Записки нейроманта #0 — Claude Code вчера получил лучшее обновление года](https://habr.com/ru/articles/1068106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068106)
 - [Я печатаю медленнее, чем думаю: локальная диктовка на Whisper для Windows, телефона и Telegram](https://habr.com/ru/articles/1068152/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068152)
-- [Когда программист перестает быть автором](https://habr.com/ru/articles/1068146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068146)
 <!-- BLOG-POST-LIST:END -->
 
 ---
