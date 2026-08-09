@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Локальная база на клиенте: Blazor WebAssembly и MAUI на SQLite — без EF DbContext, Include и миграций](https://habr.com/ru/articles/1068388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068388)
+- [База по системному дизайну для начинающих разработчиков ПО. Часть 0. Сбор и анализ требований, инструменты визуализации](https://habr.com/ru/articles/1068382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068382)
 - [Разделение ответственности между Claude и Codex: как я перестал выбирать одну нейросеть и усилил сразу две](https://habr.com/ru/articles/1068372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068372)
 - [Электрическое поле равномерно заряженных пластин: вывод формулы, код на python и 3D‑визуализация](https://habr.com/ru/articles/1060202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060202)
 - [Как бот ушёл в 7273 год: бесконечный календарь, 88 632 запроса и неожиданный нагрузочный тест Laravel](https://habr.com/ru/articles/1068334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068334)
-- [Playwright: пишем тесты на Kotlin и Java](https://habr.com/ru/companies/amvera/articles/1068330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068330)
-- [ОНТОЛОГО-ЛИНГВИСТИЧЕСКАЯ АРХИТЕКТОНИКА](https://habr.com/ru/articles/1068324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068324)
 <!-- BLOG-POST-LIST:END -->
 
 ---
