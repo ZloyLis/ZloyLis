@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Вторая копия Vue: как лишняя строка в lockfile повесила Chromium](https://habr.com/ru/articles/1068420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068420)
+- [Тест локальных MOE моделей](https://habr.com/ru/articles/1068416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068416)
 - [Как у нас в проекте на самом деле пишется код](https://habr.com/ru/articles/1068410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068410)
 - [Мобильная разработка за неделю #642 &lpar;3 — 9 августа&rpar;](https://habr.com/ru/articles/1068400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068400)
 - [Прокачаться в бизнес-аналитике: блоги и инструкции в стиле «бери и делай» + профильные учебники с теоретической базой](https://habr.com/ru/companies/mkb/articles/1068344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068344)
-- [Локальная база на клиенте: Blazor WebAssembly и MAUI на SQLite — без EF DbContext, Include и миграций](https://habr.com/ru/articles/1068388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068388)
-- [База по системному дизайну для начинающих разработчиков ПО. Часть 0. Сбор и анализ требований, инструменты визуализации](https://habr.com/ru/articles/1068382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068382)
 <!-- BLOG-POST-LIST:END -->
 
 ---
