@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Покажи мне свой харнесс — и я спрошу у Клода, кто ты](https://habr.com/ru/articles/1068466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068466)
 - [50 оттенков PCA](https://habr.com/ru/articles/1068438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068438)
 - [Вторая копия Vue: как лишняя строка в lockfile повесила Chromium](https://habr.com/ru/articles/1068420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068420)
 - [Тест локальных MOE моделей](https://habr.com/ru/articles/1068416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068416)
 - [Как у нас в проекте на самом деле пишется код](https://habr.com/ru/articles/1068410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068410)
-- [Мобильная разработка за неделю #642 &lpar;3 — 9 августа&rpar;](https://habr.com/ru/articles/1068400/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068400)
 <!-- BLOG-POST-LIST:END -->
 
 ---
