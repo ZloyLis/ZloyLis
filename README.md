@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] 99% трафика моего веб‑сайта составляют боты](https://habr.com/ru/articles/1068266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068266)
 - [[Перевод] Не позволим теории струн разрушить вполне успешную науку — физическую космологию](https://habr.com/ru/articles/1068088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068088)
 - [gitTalk: когда лень вспоминать команды для гита](https://habr.com/ru/articles/1068280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068280)
 - [Патчим Codex: управляемая амнезия без потери контекста](https://habr.com/ru/articles/1068252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068252)
 - [24 главы, два языка и живой Event Loop: как я собрал с Codex лабораторию по backend-разработке](https://habr.com/ru/articles/1068238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068238)
-- [Эффект бабочки на комплексной плоскости](https://habr.com/ru/articles/1068234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068234)
 <!-- BLOG-POST-LIST:END -->
 
 ---
