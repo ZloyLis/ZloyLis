@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как бот ушёл в 7273 год: бесконечный календарь, 88 632 запроса и неожиданный нагрузочный тест Laravel](https://habr.com/ru/articles/1068334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068334)
+- [Playwright: пишем тесты на Kotlin и Java](https://habr.com/ru/companies/amvera/articles/1068330/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068330)
 - [ОНТОЛОГО-ЛИНГВИСТИЧЕСКАЯ АРХИТЕКТОНИКА](https://habr.com/ru/articles/1068324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068324)
 - [Математический парадокс Илона Маска](https://habr.com/ru/articles/1068316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068316)
 - [[Перевод] 99% трафика моего веб‑сайта составляют боты](https://habr.com/ru/articles/1068266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068266)
-- [[Перевод] Не позволим теории струн разрушить вполне успешную науку — физическую космологию](https://habr.com/ru/articles/1068088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068088)
-- [gitTalk: когда лень вспоминать команды для гита](https://habr.com/ru/articles/1068280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068280)
 <!-- BLOG-POST-LIST:END -->
 
 ---
