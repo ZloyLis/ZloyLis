@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [С 14 августа Claude Code стартует в авторежиме: что лежит в его рулбуке](https://habr.com/ru/articles/1068658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068658)
-- [INFOSTART A&amp;amp;PM EVENT 2026: опубликованы сайт и программа конференции](https://habr.com/ru/companies/infostart/articles/1068664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068664)
-- [[Перевод] Семья математиков за 20 лет решила важнейшую задачу теории групп](https://habr.com/ru/articles/1067902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067902)
-- [Nelmwave – декларативный оркестратор релизов поверх nelm](https://habr.com/ru/articles/1068644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068644)
-- [[Перевод] Мы сделали “Tinder для любителей аниме и видеоигр”, привлекли 100 000 пользователей… и закрылись. Что пошло не так?](https://habr.com/ru/articles/1068636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068636)
+- [[Перевод] Как я перестал бояться и полюбил ассемблер](https://habr.com/ru/companies/ruvds/articles/1067426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067426)
+- [Платформа — не самоцель: когда ML-разработку стоит унифицировать, а когда лучше остановиться, обсудили на «ИТ-Пикнике»](https://habr.com/ru/companies/ru_mts/articles/1068756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068756)
+- [Пишем логи в journald с помощью Logback и FFM API](https://habr.com/ru/articles/1068800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068800)
+- [Костыль на костыле: как я больше двадцати лет лечил остатки вместо того, чтобы найти причину](https://habr.com/ru/articles/1068786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068786)
+- [Немного про «утечки» памяти: почему PM2 перезапускал Next.js-воркеры и при чём здесь gcTime TanStack Query](https://habr.com/ru/articles/1068784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068784)
 <!-- BLOG-POST-LIST:END -->
 
 ---
