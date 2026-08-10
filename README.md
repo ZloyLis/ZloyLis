@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [С 14 августа Claude Code стартует в авторежиме: что лежит в его рулбуке](https://habr.com/ru/articles/1068658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068658)
+- [INFOSTART A&amp;amp;PM EVENT 2026: опубликованы сайт и программа конференции](https://habr.com/ru/companies/infostart/articles/1068664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068664)
+- [[Перевод] Семья математиков за 20 лет решила важнейшую задачу теории групп](https://habr.com/ru/articles/1067902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067902)
+- [Nelmwave – декларативный оркестратор релизов поверх nelm](https://habr.com/ru/articles/1068644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068644)
 - [[Перевод] Мы сделали “Tinder для любителей аниме и видеоигр”, привлекли 100 000 пользователей… и закрылись. Что пошло не так?](https://habr.com/ru/articles/1068636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068636)
-- [ЕГЭ по математике: как за 10 лет результаты ЕГЭ выросли на 20 баллов. Магия чисел или бум образования?](https://habr.com/ru/companies/ruvds/articles/1066968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066968)
-- [Написал расширение, которое качает статьи Хабра в Markdown — и не долбит сервер](https://habr.com/ru/articles/1061856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061856)
-- [Небольшой интерфейс + агентная сетка для решения задач исследований в продуктовой аналитике](https://habr.com/ru/articles/1068602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068602)
-- [Как разгружать голову: четыре практики ментальной гигиены для тех, кто работает в постоянном стрессе](https://habr.com/ru/companies/oleg-bunin/articles/1068544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068544)
 <!-- BLOG-POST-LIST:END -->
 
 ---
