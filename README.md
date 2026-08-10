@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [RSS вырос до 3 ГБ, а tracemalloc показывает 180 МБ: как найти остальные 2,8](https://habr.com/ru/companies/otus/articles/1068476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068476)
 - [Пятнадцать месяцев финтеха агентами: кривая качества по всей истории проекта](https://habr.com/ru/articles/1068920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068920)
 - [Agent Skills в npm-пакетах: доставка агенту знаний о библиотеке](https://habr.com/ru/articles/1068886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068886)
 - [Security Week 2633: уязвимость оптоволоконных сетей GPON](https://habr.com/ru/companies/kaspersky/articles/1068714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068714)
 - [Go-juggler и протокол Juggler](https://habr.com/ru/articles/1068462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068462)
-- [Топ-5 высокооплачиваемых направлений в IT в 2026 году](https://habr.com/ru/companies/habr_career/articles/1068850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068850)
 <!-- BLOG-POST-LIST:END -->
 
 ---
