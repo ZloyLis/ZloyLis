@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Собрать базу знаний для ИПР системных аналитиков не сложнее, чем кажется](https://habr.com/ru/companies/alfa/articles/1067796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067796)
-- [[Перевод] Масштабирование LLM: от одного чипа до ЦОДа. Глава 4. Тренировка трансформера](https://habr.com/ru/articles/1067140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067140)
-- [Как детектили фрод, а получили Джонни и Джулию: история одной браузерной разминки](https://habr.com/ru/articles/1068136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068136)
-- [Уязвимость wp2shell вылезает за пределы webroot: почему патча WordPress недостаточно и как вычистить сервер](https://habr.com/ru/articles/1068468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068468)
-- [Rust прячет инструменты там, где вы их не ищете. Часть 3](https://habr.com/ru/companies/beget/articles/1051212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051212)
+- [[Перевод] Мы сделали “Tinder для любителей аниме и видеоигр”, привлекли 100 000 пользователей… и закрылись. Что пошло не так?](https://habr.com/ru/articles/1068636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068636)
+- [ЕГЭ по математике: как за 10 лет результаты ЕГЭ выросли на 20 баллов. Магия чисел или бум образования?](https://habr.com/ru/companies/ruvds/articles/1066968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066968)
+- [Написал расширение, которое качает статьи Хабра в Markdown — и не долбит сервер](https://habr.com/ru/articles/1061856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1061856)
+- [Небольшой интерфейс + агентная сетка для решения задач исследований в продуктовой аналитике](https://habr.com/ru/articles/1068602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068602)
+- [Как разгружать голову: четыре практики ментальной гигиены для тех, кто работает в постоянном стрессе](https://habr.com/ru/companies/oleg-bunin/articles/1068544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068544)
 <!-- BLOG-POST-LIST:END -->
 
 ---
