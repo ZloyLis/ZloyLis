@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code History Viewer: история сессий Claude Code в браузере](https://habr.com/ru/articles/1068362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068362)
-- [Kotlin? Swift? Flutter? Нет, кириллица: пишем production-приложение с картой и push-ами на 1С: Элемент](https://habr.com/ru/articles/1068032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068032)
-- [Ваш UI-фреймворк уже написан. Используем возможности Playwright](https://habr.com/ru/companies/infowatch/articles/1065886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065886)
-- [Шпаргалка: Structured Concurrency и отмена корутин](https://habr.com/ru/articles/1068314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068314)
-- [Покажи мне свой харнесс — и я спрошу у Клода, кто ты](https://habr.com/ru/articles/1068466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068466)
+- [Собрать базу знаний для ИПР системных аналитиков не сложнее, чем кажется](https://habr.com/ru/companies/alfa/articles/1067796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067796)
+- [[Перевод] Масштабирование LLM: от одного чипа до ЦОДа. Глава 4. Тренировка трансформера](https://habr.com/ru/articles/1067140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067140)
+- [Как детектили фрод, а получили Джонни и Джулию: история одной браузерной разминки](https://habr.com/ru/articles/1068136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068136)
+- [Уязвимость wp2shell вылезает за пределы webroot: почему патча WordPress недостаточно и как вычистить сервер](https://habr.com/ru/articles/1068468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068468)
+- [Rust прячет инструменты там, где вы их не ищете. Часть 3](https://habr.com/ru/companies/beget/articles/1051212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051212)
 <!-- BLOG-POST-LIST:END -->
 
 ---
