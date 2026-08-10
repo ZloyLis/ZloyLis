@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code History Viewer: история сессий Claude Code в браузере](https://habr.com/ru/articles/1068362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068362)
+- [Kotlin? Swift? Flutter? Нет, кириллица: пишем production-приложение с картой и push-ами на 1С: Элемент](https://habr.com/ru/articles/1068032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068032)
+- [Ваш UI-фреймворк уже написан. Используем возможности Playwright](https://habr.com/ru/companies/infowatch/articles/1065886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065886)
+- [Шпаргалка: Structured Concurrency и отмена корутин](https://habr.com/ru/articles/1068314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068314)
 - [Покажи мне свой харнесс — и я спрошу у Клода, кто ты](https://habr.com/ru/articles/1068466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068466)
-- [50 оттенков PCA](https://habr.com/ru/articles/1068438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068438)
-- [Вторая копия Vue: как лишняя строка в lockfile повесила Chromium](https://habr.com/ru/articles/1068420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068420)
-- [Тест локальных MOE моделей](https://habr.com/ru/articles/1068416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068416)
-- [Как у нас в проекте на самом деле пишется код](https://habr.com/ru/articles/1068410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068410)
 <!-- BLOG-POST-LIST:END -->
 
 ---
