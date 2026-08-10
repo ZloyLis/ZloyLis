@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Пятнадцать месяцев финтеха агентами: кривая качества по всей истории проекта](https://habr.com/ru/articles/1068920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068920)
+- [Agent Skills в npm-пакетах: доставка агенту знаний о библиотеке](https://habr.com/ru/articles/1068886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068886)
 - [Security Week 2633: уязвимость оптоволоконных сетей GPON](https://habr.com/ru/companies/kaspersky/articles/1068714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068714)
 - [Go-juggler и протокол Juggler](https://habr.com/ru/articles/1068462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068462)
 - [Топ-5 высокооплачиваемых направлений в IT в 2026 году](https://habr.com/ru/companies/habr_career/articles/1068850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068850)
-- [Как устроен нейропрофиль пользователя в рекомендациях VK](https://habr.com/ru/companies/vk/articles/1068048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068048)
-- [[Перевод] Как я перестал бояться и полюбил ассемблер](https://habr.com/ru/companies/ruvds/articles/1067426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067426)
 <!-- BLOG-POST-LIST:END -->
 
 ---
