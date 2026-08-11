@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Стек отвечает «где упало», а вопрос был «что случилось»](https://habr.com/ru/articles/1068856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068856)
-- [Инфраструктурный релиз. Консистентность сред vs идентичность сред](https://habr.com/ru/companies/psb/articles/1068552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068552)
-- [BLIS: недостающую среднюю ступеньку построили тридцать лет назад](https://habr.com/ru/articles/1069058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069058)
-- [Что консоли подарили разработчикам](https://habr.com/ru/articles/1062040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062040)
-- [RSS вырос до 3 ГБ, а tracemalloc показывает 180 МБ: как найти остальные 2,8](https://habr.com/ru/companies/otus/articles/1068476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068476)
+- [[Перевод] Почему легендарные задачи Эрдёша поддаются искусственному интеллекту](https://habr.com/ru/articles/1068914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068914)
+- [История одного архитектурного круга: реактивность Vue](https://habr.com/ru/companies/first/articles/1069048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069048)
+- [Электричество, масло и вода: готовим эмульсию под напряжением в 25 000 вольт](https://habr.com/ru/articles/1067342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067342)
+- [Пет-проекты джунов &lpar;Android&rpar;](https://habr.com/ru/articles/1068942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068942)
+- [Как мы заменили Oracle WebLogic в банке из топ-3: опыт внедрения единой платформы управления Java-приложениями](https://habr.com/ru/companies/diasoft_company/articles/1069102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069102)
 <!-- BLOG-POST-LIST:END -->
 
 ---
