@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Цифры не сходятся: алгоритм действий, который поможет находить расхождения в отчетах](https://habr.com/ru/articles/1069396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069396)
 - [Паравиртуализация при отладке графических приложений KasperskyOS в QEMU](https://habr.com/ru/companies/kaspersky/articles/1067226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067226)
 - [Как не начать кодить слишком рано?](https://habr.com/ru/articles/1069360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069360)
 - [Анатомия VDD: Как я нашел RCE в форке Telegram, а Google Security не увидел «ничего вредоносного»](https://habr.com/ru/articles/1069358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069358)
 - [От CTR до сделок: как в Авито устроены ML-модели монетизации](https://habr.com/ru/companies/avito/articles/1069352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069352)
-- [как работали три уязвимости IOS которые apple залатали в новом beta обновлении IOS 27](https://habr.com/ru/articles/1069316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069316)
 <!-- BLOG-POST-LIST:END -->
 
 ---
