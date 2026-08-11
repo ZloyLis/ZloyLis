@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Cделал бесплатный чат для сайта с функциями платных сервисов, делюсь](https://habr.com/ru/articles/1069432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069432)
+- [Как я создал свою мини‑Вселенную](https://habr.com/ru/articles/1069430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069430)
 - [Приложение простояло 918 мс, а сборщик мусора отработал за одну: разбираемся, куда ушло остальное](https://habr.com/ru/companies/otus/articles/1067138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067138)
 - [После Тьюринга: может ли машина программировать?](https://habr.com/ru/articles/1069038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069038)
 - [MLOps для DevOps-инженера: как построить платформу машинного обучения в закрытом контуре](https://habr.com/ru/articles/1069368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069368)
-- [Цифры не сходятся: алгоритм действий, который поможет находить расхождения в отчетах](https://habr.com/ru/articles/1069396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069396)
-- [Паравиртуализация при отладке графических приложений KasperskyOS в QEMU](https://habr.com/ru/companies/kaspersky/articles/1067226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067226)
 <!-- BLOG-POST-LIST:END -->
 
 ---
