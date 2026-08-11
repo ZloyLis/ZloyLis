@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Почему нейросети съедают токены: что происходит с длинными чатами и как снизить расход](https://habr.com/ru/companies/syntx_ai/articles/1069310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069310)
-- [Агент написал Джеймикс, тоже плохой](https://habr.com/ru/companies/haulmont/articles/1069308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069308)
-- [Мы производим гвозди по ГОСТу: как идеально выполнить неправильное ТЗ](https://habr.com/ru/articles/1069260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069260)
-- [Компания «Нанософт» объявляет о выпуске обучающего курса по программе nanoCAD BIM Отопление](https://habr.com/ru/companies/nanosoft/articles/1069296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069296)
-- [ИИ-ревьюверы твоего кода: как нейросети позволяют упрощать анализ PR](https://habr.com/ru/companies/bothub/articles/1069226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069226)
+- [Паравиртуализация при отладке графических приложений KasperskyOS в QEMU](https://habr.com/ru/companies/kaspersky/articles/1067226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067226)
+- [Как не начать кодить слишком рано?](https://habr.com/ru/articles/1069360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069360)
+- [Анатомия VDD: Как я нашел RCE в форке Telegram, а Google Security не увидел «ничего вредоносного»](https://habr.com/ru/articles/1069358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069358)
+- [От CTR до сделок: как в Авито устроены ML-модели монетизации](https://habr.com/ru/companies/avito/articles/1069352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069352)
+- [как работали три уязвимости IOS которые apple залатали в новом beta обновлении IOS 27](https://habr.com/ru/articles/1069316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069316)
 <!-- BLOG-POST-LIST:END -->
 
 ---
