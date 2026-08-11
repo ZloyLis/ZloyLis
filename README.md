@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Автоматизированное тестирование Webauthn с помощью Playwright](https://habr.com/ru/articles/1067938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067938)
-- [Рынок IT-труда в 2026: реальность найма, приоритет для навыков в Ai, ловушки для «волков» и работающие стратегии карьеры](https://habr.com/ru/companies/fix_price/articles/1069190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069190)
-- [/party — скилл для общения между агентскими сессиями: Claude, Cursor, Codex, Grok, и т.д](https://habr.com/ru/articles/1069186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069186)
-- [5 ошибок в NetworkPolicy, из‑за которых ваши политики ничего не блокируют](https://habr.com/ru/companies/otus/articles/1067158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067158)
-- [Почему мы написали свою библиотеку оркестрации ИИ агентов: AgentsGraph](https://habr.com/ru/articles/1069166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069166)
+- [Почему нейросети съедают токены: что происходит с длинными чатами и как снизить расход](https://habr.com/ru/companies/syntx_ai/articles/1069310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069310)
+- [Агент написал Джеймикс, тоже плохой](https://habr.com/ru/companies/haulmont/articles/1069308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069308)
+- [Мы производим гвозди по ГОСТу: как идеально выполнить неправильное ТЗ](https://habr.com/ru/articles/1069260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069260)
+- [Компания «Нанософт» объявляет о выпуске обучающего курса по программе nanoCAD BIM Отопление](https://habr.com/ru/companies/nanosoft/articles/1069296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069296)
+- [ИИ-ревьюверы твоего кода: как нейросети позволяют упрощать анализ PR](https://habr.com/ru/companies/bothub/articles/1069226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069226)
 <!-- BLOG-POST-LIST:END -->
 
 ---
