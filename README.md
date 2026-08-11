@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Почему легендарные задачи Эрдёша поддаются искусственному интеллекту](https://habr.com/ru/articles/1068914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068914)
-- [История одного архитектурного круга: реактивность Vue](https://habr.com/ru/companies/first/articles/1069048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069048)
-- [Электричество, масло и вода: готовим эмульсию под напряжением в 25 000 вольт](https://habr.com/ru/articles/1067342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067342)
-- [Пет-проекты джунов &lpar;Android&rpar;](https://habr.com/ru/articles/1068942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068942)
-- [Как мы заменили Oracle WebLogic в банке из топ-3: опыт внедрения единой платформы управления Java-приложениями](https://habr.com/ru/companies/diasoft_company/articles/1069102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069102)
+- [Рынок IT-труда в 2026: реальность найма, приоритет для навыков в Ai, ловушки для «волков» и работающие стратегии карьеры](https://habr.com/ru/companies/fix_price/articles/1069190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069190)
+- [/party — скилл для общения между агентскими сессиями: Claude, Cursor, Codex, Grok, и т.д](https://habr.com/ru/articles/1069186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069186)
+- [5 ошибок в NetworkPolicy, из‑за которых ваши политики ничего не блокируют](https://habr.com/ru/companies/otus/articles/1067158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067158)
+- [Почему мы написали свою библиотеку оркестрации ИИ агентов: AgentsGraph](https://habr.com/ru/articles/1069166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069166)
+- [Как восстановить KRaft-кворум после потери большинства контроллеров](https://habr.com/ru/companies/vktech/articles/1064848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064848)
 <!-- BLOG-POST-LIST:END -->
 
 ---
