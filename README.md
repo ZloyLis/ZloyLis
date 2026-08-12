@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему HTTPS-прокси не видит трафик приложения](https://habr.com/ru/articles/1067638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067638)
 - [41,6% → 67,2%. Нейросеть далеко обогнала человеческий рекорд по гипотезе Римана](https://habr.com/ru/articles/1069480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069480)
 - [Hexnome: моя первая игра, 245 промптов и один выброшенный бэкенд](https://habr.com/ru/articles/1069478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069478)
 - [Cделал бесплатный чат для сайта с функциями платных сервисов, делюсь](https://habr.com/ru/articles/1069432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069432)
 - [Как я создал свою мини‑Вселенную](https://habr.com/ru/articles/1069430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069430)
-- [Приложение простояло 918 мс, а сборщик мусора отработал за одну: разбираемся, куда ушло остальное](https://habr.com/ru/companies/otus/articles/1067138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067138)
 <!-- BLOG-POST-LIST:END -->
 
 ---
