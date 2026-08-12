@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Синдром ИИ-самозванца у программистов](https://habr.com/ru/companies/ispsystem/articles/1069898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069898)
+- [[Перевод] Джоэл Хэмкинс: бесконечность, математическая реальность и теоремы Гёделя](https://habr.com/ru/articles/1069896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069896)
 - [Антиспам для WordPress, часть 2: что успело поменяться](https://habr.com/ru/articles/1069862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069862)
 - [[Перевод] Встречаем Grok 4.6](https://habr.com/ru/articles/1069844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069844)
 - [Моделирование инерциальных навигационных датчиков в MATLAB](https://habr.com/ru/articles/1069818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069818)
-- [Код написали за нас. Как упростить ревью и сколько это стоит в рантайме](https://habr.com/ru/articles/1068282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068282)
-- [2000 идентификаций в секунду: как выбрать нужную таблицу на документе без нейросетей](https://habr.com/ru/companies/smartengines/articles/1069750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069750)
 <!-- BLOG-POST-LIST:END -->
 
 ---
