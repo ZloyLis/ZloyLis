@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Реалтайм на WebSocket со сквозной типизацией: TypeScript, Bun, React, Point0](https://habr.com/ru/articles/1069716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069716)
+- [[Перевод] wake up: демо в 16 байтах](https://habr.com/ru/articles/1067818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067818)
 - [SOP &amp;amp; CORS](https://habr.com/ru/articles/1069658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069658)
 - [[Перевод] Чему мы научились, написав на Rust среду выполнения для TypeScript](https://habr.com/ru/articles/1069636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069636)
 - [Async на Rust завис: как понять, где именно, когда паники нет и стек молчит](https://habr.com/ru/companies/otus/articles/1065590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065590)
-- [Тебя съедят первым: неформальные правила, которые помогают тимлиду защитить команду](https://habr.com/ru/companies/oleg-bunin/articles/1068546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068546)
-- [[Перевод] GitOps для 15 000+ кластеров: что показало крупномасштабное тестирование с vCluster](https://habr.com/ru/companies/cloud_ru/articles/1066686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066686)
 <!-- BLOG-POST-LIST:END -->
 
 ---
