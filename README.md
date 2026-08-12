@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Реалтайм на WebSocket со сквозной типизацией: TypeScript, Bun, React, Point0](https://habr.com/ru/articles/1069716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069716)
-- [[Перевод] wake up: демо в 16 байтах](https://habr.com/ru/articles/1067818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067818)
-- [SOP &amp;amp; CORS](https://habr.com/ru/articles/1069658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069658)
-- [[Перевод] Чему мы научились, написав на Rust среду выполнения для TypeScript](https://habr.com/ru/articles/1069636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069636)
-- [Async на Rust завис: как понять, где именно, когда паники нет и стек молчит](https://habr.com/ru/companies/otus/articles/1065590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065590)
+- [2000 идентификаций в секунду: как выбрать нужную таблицу на документе без нейросетей](https://habr.com/ru/companies/smartengines/articles/1069750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069750)
+- [Как составить расписание на учебный год и не перегрузить ребёнка](https://habr.com/ru/companies/habr_career/articles/1069738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069738)
+- [Заметки о том, как я писал SFU на Rust &lpar;2 часть&rpar;](https://habr.com/ru/articles/1060434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060434)
+- [От ручных правил к модели: как автоматизировать субсидии, если нельзя просаживать метрики в АБ](https://habr.com/ru/companies/avito/articles/1053408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053408)
+- [6 AI-сервисов, которыми сейчас можно пользоваться бесплатно или почти бесплатно](https://habr.com/ru/articles/1069726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069726)
 <!-- BLOG-POST-LIST:END -->
 
 ---
