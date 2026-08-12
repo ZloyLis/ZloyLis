@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [SOP &amp;amp; CORS](https://habr.com/ru/articles/1069658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069658)
+- [[Перевод] Чему мы научились, написав на Rust среду выполнения для TypeScript](https://habr.com/ru/articles/1069636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069636)
+- [Async на Rust завис: как понять, где именно, когда паники нет и стек молчит](https://habr.com/ru/companies/otus/articles/1065590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065590)
 - [Тебя съедят первым: неформальные правила, которые помогают тимлиду защитить команду](https://habr.com/ru/companies/oleg-bunin/articles/1068546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068546)
 - [[Перевод] GitOps для 15 000+ кластеров: что показало крупномасштабное тестирование с vCluster](https://habr.com/ru/companies/cloud_ru/articles/1066686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066686)
-- [Устанавливаем Digital Q.DataBase 18.2 на РЕД ОС 8: PostgreSQL, MS SQL и Oracle в одной СУБД](https://habr.com/ru/companies/diasoft_company/articles/1069608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069608)
-- [Мысленный эксперимент, который показывает, что ни одна теория не может адекватно формализовать самоощущение машин](https://habr.com/ru/articles/1069596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069596)
-- [2 рубля за сказку с озвучкой: как я считал юнит‑экономику AI‑продукта на коленке](https://habr.com/ru/articles/1069592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069592)
 <!-- BLOG-POST-LIST:END -->
 
 ---
