@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Агентская разработка и Documentation Driven Development: когда ИИ пишет не код, а контракты](https://habr.com/ru/companies/ru_mts/articles/1067434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067434)
-- [Создаём свой BI-дашборд с ИИ-редактором в Битрикс24](https://habr.com/ru/companies/bitrix/articles/1069408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069408)
-- [Анатомия HTTP Request Smuggling](https://habr.com/ru/articles/1069538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069538)
-- [Убежище книги](https://habr.com/ru/articles/1069526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069526)
-- [Что там с trait upcasting: год спустя](https://habr.com/ru/companies/beget/articles/1058366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058366)
+- [Тебя съедят первым: неформальные правила, которые помогают тимлиду защитить команду](https://habr.com/ru/companies/oleg-bunin/articles/1068546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068546)
+- [[Перевод] GitOps для 15 000+ кластеров: что показало крупномасштабное тестирование с vCluster](https://habr.com/ru/companies/cloud_ru/articles/1066686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066686)
+- [Устанавливаем Digital Q.DataBase 18.2 на РЕД ОС 8: PostgreSQL, MS SQL и Oracle в одной СУБД](https://habr.com/ru/companies/diasoft_company/articles/1069608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069608)
+- [Мысленный эксперимент, который показывает, что ни одна теория не может адекватно формализовать самоощущение машин](https://habr.com/ru/articles/1069596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069596)
+- [2 рубля за сказку с озвучкой: как я считал юнит‑экономику AI‑продукта на коленке](https://habr.com/ru/articles/1069592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069592)
 <!-- BLOG-POST-LIST:END -->
 
 ---
