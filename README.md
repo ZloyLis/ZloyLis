@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Тенденции и тренды Python разработки](https://habr.com/ru/articles/1051682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051682)
-- [24 миллиона оценок внешности: что мы нашли в собственной базе за 12 лет](https://habr.com/ru/articles/1069938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069938)
-- [Мой наивный робот: как я оцифровал дилерские рефлексы на VB6](https://habr.com/ru/articles/1069546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069546)
-- [ITIL 5: что реально изменилось и что из этого применимо в России](https://habr.com/ru/companies/alp_itsm/articles/1069908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069908)
-- [Как устроены модули по нейросетям в курсах Яндекс Практикума](https://habr.com/ru/companies/yandex_praktikum/articles/1067970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067970)
+- [Алгоритм был правильным. Ошибка была в контракте графа](https://habr.com/ru/articles/1070054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070054)
+- [Восемь раз я думал, что сломал код. Это была платформа](https://habr.com/ru/articles/1070044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070044)
+- [Code, Force, Repeat. Олдскульный GUI для олдскульных скриптов. Часть 1. Экспозиция](https://habr.com/ru/companies/first/articles/1068484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068484)
+- [[Перевод] Вы ещё пишете код слева направо? Тогда мы идём к вам](https://habr.com/ru/companies/timeweb/articles/1069772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069772)
+- [ИИ в масштабе: как управлять внедрением, метриками и трансформацией команды из 500+ разработчиков](https://habr.com/ru/companies/raiffeisenbank/articles/1069514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069514)
 <!-- BLOG-POST-LIST:END -->
 
 ---
