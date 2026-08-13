@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Синдром ИИ-самозванца у программистов](https://habr.com/ru/companies/ispsystem/articles/1069898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069898)
-- [[Перевод] Джоэл Хэмкинс: бесконечность, математическая реальность и теоремы Гёделя](https://habr.com/ru/articles/1069896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069896)
-- [Антиспам для WordPress, часть 2: что успело поменяться](https://habr.com/ru/articles/1069862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069862)
-- [[Перевод] Встречаем Grok 4.6](https://habr.com/ru/articles/1069844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069844)
-- [Моделирование инерциальных навигационных датчиков в MATLAB](https://habr.com/ru/articles/1069818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069818)
+- [Тенденции и тренды Python разработки](https://habr.com/ru/articles/1051682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1051682)
+- [24 миллиона оценок внешности: что мы нашли в собственной базе за 12 лет](https://habr.com/ru/articles/1069938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069938)
+- [Мой наивный робот: как я оцифровал дилерские рефлексы на VB6](https://habr.com/ru/articles/1069546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069546)
+- [ITIL 5: что реально изменилось и что из этого применимо в России](https://habr.com/ru/companies/alp_itsm/articles/1069908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069908)
+- [Как устроены модули по нейросетям в курсах Яндекс Практикума](https://habr.com/ru/companies/yandex_praktikum/articles/1067970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067970)
 <!-- BLOG-POST-LIST:END -->
 
 ---
