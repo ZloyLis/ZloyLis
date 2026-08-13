@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему в БД на PostgreSQL популярен тип numeric?](https://habr.com/ru/articles/1070300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070300)
+- [Как взломать Генотек. Я навайбкодила свой ДНК-анализатор, и он работает](https://habr.com/ru/articles/1069884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069884)
+- [[Перевод] Flutter 3.47 — Что нового во Flutter?](https://habr.com/ru/articles/1070180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070180)
+- [Приложение течёт, а утечки нет: как оптимизатор картинок Next.js съел 4-гигабайтный VPS](https://habr.com/ru/articles/1070312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070312)
 - [IQ и его термиты. Сотни тысяч умных детей и один неудобный вопрос](https://habr.com/ru/articles/1069850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069850)
-- [Что такое Harness и с какими моделями его едят?](https://habr.com/ru/articles/1070296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070296)
-- [От спанов к сценарию агента: зачем мы добавили GenAI-представление трейса](https://habr.com/ru/companies/proto/articles/1070254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070254)
-- [Красное не мёржим: как мы внедрили e2e тесты в разработку](https://habr.com/ru/articles/1070260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070260)
-- [Как оценить надёжность liveness‑проверки: гайд по метрикам для тех, кто выбирает KYC‑поставщика](https://habr.com/ru/articles/1070214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070214)
 <!-- BLOG-POST-LIST:END -->
 
 ---
