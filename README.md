@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Алгоритм был правильным. Ошибка была в контракте графа](https://habr.com/ru/articles/1070054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070054)
-- [Восемь раз я думал, что сломал код. Это была платформа](https://habr.com/ru/articles/1070044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070044)
-- [Code, Force, Repeat. Олдскульный GUI для олдскульных скриптов. Часть 1. Экспозиция](https://habr.com/ru/companies/first/articles/1068484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068484)
-- [[Перевод] Вы ещё пишете код слева направо? Тогда мы идём к вам](https://habr.com/ru/companies/timeweb/articles/1069772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069772)
-- [ИИ в масштабе: как управлять внедрением, метриками и трансформацией команды из 500+ разработчиков](https://habr.com/ru/companies/raiffeisenbank/articles/1069514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069514)
+- [Пишу русскоязычный ЯП. Помогите выбрать самый читаемый вариант синтаксиса](https://habr.com/ru/articles/1070114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070114)
+- [Что изучить в DevOps, Kubernetes, observability и сетях для работы с современной инфраструктурой](https://habr.com/ru/companies/otus/articles/1070064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070064)
+- [Кэш — это холодильник: TTL, инвалидация и cache stampede](https://habr.com/ru/articles/1070106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070106)
+- [Бесшовный переезд с Perl на Nuxt: история одного 20-летнего монолита](https://habr.com/ru/companies/runity/articles/1070084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070084)
+- [Как тестировать распределенные системы: тайм-ауты, дубликаты, Saga и частичные отказы](https://habr.com/ru/articles/1070068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070068)
 <!-- BLOG-POST-LIST:END -->
 
 ---
