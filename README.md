@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От бизнес-правил к данным. Почему я выбрал ORM2 и сделал свое SPA-приложение](https://habr.com/ru/companies/ru_mts/articles/1064660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064660)
+- [«Пуш – это обещание»: продуктовый подход к тестированию навигации в финтехе](https://habr.com/ru/companies/centicore_group/articles/1069262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069262)
+- [Новые модели в ИИ-роутере, GPU-хост с 4хH200 NVLink и другие новости продуктов Selectel](https://habr.com/ru/companies/selectel/articles/1070082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070082)
+- [Web‑карты: от координат до изображения](https://habr.com/ru/articles/1070122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070122)
 - [Пишу русскоязычный ЯП. Помогите выбрать самый читаемый вариант синтаксиса](https://habr.com/ru/articles/1070114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070114)
-- [Что изучить в DevOps, Kubernetes, observability и сетях для работы с современной инфраструктурой](https://habr.com/ru/companies/otus/articles/1070064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070064)
-- [Кэш — это холодильник: TTL, инвалидация и cache stampede](https://habr.com/ru/articles/1070106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070106)
-- [Бесшовный переезд с Perl на Nuxt: история одного 20-летнего монолита](https://habr.com/ru/companies/runity/articles/1070084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070084)
-- [Как тестировать распределенные системы: тайм-ауты, дубликаты, Saga и частичные отказы](https://habr.com/ru/articles/1070068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070068)
 <!-- BLOG-POST-LIST:END -->
 
 ---
