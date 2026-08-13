@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Красное не мёржим: как мы внедрили e2e тесты в разработку](https://habr.com/ru/articles/1070260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070260)
 - [Как оценить надёжность liveness‑проверки: гайд по метрикам для тех, кто выбирает KYC‑поставщика](https://habr.com/ru/articles/1070214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070214)
 - [Я думал, что 16 воркеров ускорят обработку задач в 16 раз. Но что‑то пошло не так](https://habr.com/ru/articles/1070210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070210)
 - [redb 3.6.0: багрепорт, который оказался в шести провайдерах сразу — плюс AS2/EDI и общий порт](https://habr.com/ru/articles/1070192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070192)
 - [Какую онлайн-магистратуру выбрать: рейтинг лучших программ](https://habr.com/ru/companies/yandex_praktikum/articles/1070096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070096)
-- [Флешбэки адового 2020 года, который в 2026 уже не кажется таким страшным](https://habr.com/ru/companies/jetinfosystems/articles/1070188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070188)
 <!-- BLOG-POST-LIST:END -->
 
 ---
