@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [BiHA: встроенная отказоустойчивость Postgres Pro Enterprise и Standard](https://habr.com/ru/companies/postgrespro/articles/1070620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070620)
+- [Не начинайте пилить фичу, пока не прочитаете этот текст](https://habr.com/ru/companies/avito/articles/1070108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070108)
+- [Мы проверяли, что устройство работает. Оказалось — мы проверяли не то](https://habr.com/ru/articles/1070610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070610)
+- [Предзаказ книги «Предметно-ориентированное проектирование. Модернизация легаси-систем и снижение рисков с помощью DDD»](https://habr.com/ru/companies/piter/articles/1070426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070426)
 - [Как создать архитектуру B2B-пайплайна, в которой не проверяется лишнее и не теряется нужное](https://habr.com/ru/articles/1070562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070562)
-- [Как я перестал разрывать архитектуру на десяток документов — и сделал свой C4-редактор](https://habr.com/ru/articles/1070526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070526)
-- [Цена, которой не существовало: две недели поиска бага, который не видел мониторинг](https://habr.com/ru/articles/1070518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070518)
-- [Astryx: дизайн-система, которой может пользоваться AI-агент](https://habr.com/ru/articles/1070514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070514)
-- [Как не проиграть свою голову в битве с AI](https://habr.com/ru/companies/skbkontur/articles/1065710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065710)
 <!-- BLOG-POST-LIST:END -->
 
 ---
