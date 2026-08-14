@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Вайбкодинг и философский камень](https://habr.com/ru/articles/1070462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070462)
 - [Как мы превратили API-контракт в отдельный артефакт и сократили генерацию клиента с 15 минут до нескольких секунд](https://habr.com/ru/companies/tbank/articles/1069174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069174)
 - [[Перевод] Абстракции для реализаций мертвы. Да здравствуют абстракции для проектирования](https://habr.com/ru/companies/piter/articles/1070208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070208)
 - [Биткоин: эйфория кончилась, паника — нет. Интерактивная модель цены](https://habr.com/ru/articles/1070406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070406)
 - [Encode, don&#39;t stringify — как JSON.stringify вам врёт](https://habr.com/ru/articles/1070394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070394)
-- [Имитационное моделирование: что это такое и с чем его едят](https://habr.com/ru/articles/1070388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070388)
 <!-- BLOG-POST-LIST:END -->
 
 ---
