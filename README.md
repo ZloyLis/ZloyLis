@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Заметки как чаты: почему я перестал искать папку и начал искать сообщение](https://habr.com/ru/articles/1070702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070702)
 - [HA: Отказоустойчивость PostgreSQL. Transaction Guard](https://habr.com/ru/companies/tantor/articles/1070686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070686)
 - [Как мы перенесли ответственность за поддержку мапперов моделей на KSP](https://habr.com/ru/articles/1069866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069866)
 - [Генерация кода: сокращаем рутину в разработке](https://habr.com/ru/companies/T1Holding/articles/1070586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070586)
 - [Имитационное моделирование: что это такое и с чем его едят](https://habr.com/ru/articles/1070648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070648)
-- [BiHA: встроенная отказоустойчивость Postgres Pro Enterprise и Standard](https://habr.com/ru/companies/postgrespro/articles/1070620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070620)
 <!-- BLOG-POST-LIST:END -->
 
 ---
