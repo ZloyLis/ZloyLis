@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ускоряем drop in replace Next.js в 100 раз. Часть 1](https://habr.com/ru/companies/t2/articles/1066044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066044)
+- [Разработка через «ИИ» отбирает у программистов состояние потока?](https://habr.com/ru/articles/1070358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070358)
 - [Написал валидатор llms.txt на 64 тестах — и проверил, читают ли этот файл боты](https://habr.com/ru/articles/1070334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070334)
 - [Структурированные логи в FastAPI: практический гайд от request_id до trace_id](https://habr.com/ru/companies/otus/articles/1067632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067632)
 - [Почему в БД на PostgreSQL популярен тип numeric?](https://habr.com/ru/companies/tantor/articles/1070300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070300)
-- [Как взломать Генотек. Я навайбкодила свой ДНК-анализатор, и он работает](https://habr.com/ru/articles/1069884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069884)
-- [[Перевод] Flutter 3.47 — Что нового во Flutter?](https://habr.com/ru/articles/1070180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070180)
 <!-- BLOG-POST-LIST:END -->
 
 ---
