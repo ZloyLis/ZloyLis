@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как создать архитектуру B2B-пайплайна, в которой не проверяется лишнее и не теряется нужное](https://habr.com/ru/articles/1070562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070562)
 - [Как я перестал разрывать архитектуру на десяток документов — и сделал свой C4-редактор](https://habr.com/ru/articles/1070526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070526)
 - [Цена, которой не существовало: две недели поиска бага, который не видел мониторинг](https://habr.com/ru/articles/1070518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070518)
 - [Astryx: дизайн-система, которой может пользоваться AI-агент](https://habr.com/ru/articles/1070514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070514)
 - [Как не проиграть свою голову в битве с AI](https://habr.com/ru/companies/skbkontur/articles/1065710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065710)
-- [Как стать AI-разработчиком, если ты маркетолог? Моя история](https://habr.com/ru/articles/1070508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070508)
 <!-- BLOG-POST-LIST:END -->
 
 ---
