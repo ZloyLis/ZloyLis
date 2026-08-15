@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Тайна первых iPhone: как Siemens и Samsung сделали железо для первого смартфона Apple](https://habr.com/ru/companies/timeweb/articles/1070488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070488)
+- [«Автомойка в 50 метрах от дома. Пойдем пешком?» Как простая загадка вызвала грандиозный философский спор о будущем ИИ](https://habr.com/ru/articles/1070798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070798)
 - [Как подать документы в онлайн-магистратуру через Госуслуги: инструкция](https://habr.com/ru/companies/yandex_praktikum/articles/1070574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070574)
 - [Смена типа в объекте тоже не бесплатна](https://habr.com/ru/articles/1070790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070790)
 - [Как превратить топологию в 3D‑графики. Рисуем расслоение Зейферта](https://habr.com/ru/articles/1062646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062646)
-- [[Перевод] Что я узнал, поместив GitHub Copilot за MITM‑прокси](https://habr.com/ru/articles/1070652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070652)
-- [Как мы писали Kubernetes-клиент, который старается не врать](https://habr.com/ru/articles/1070728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070728)
 <!-- BLOG-POST-LIST:END -->
 
 ---
