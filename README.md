@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Спустя 5 лет я снова пишу Всерос — часть 1](https://habr.com/ru/articles/1065810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065810)
 - [Протестировал Vibecraft от Яндекса. Один вопрос остался без ответа](https://habr.com/ru/articles/1070724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070724)
 - [Деплой-платформа для MCP-серверов и сайтов, встроенная в каталог](https://habr.com/ru/articles/1070718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070718)
 - [Внутреннее устройство Bitcoin](https://habr.com/ru/articles/1070716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070716)
 - [EvertyDesk Next 2.1.0: VirtualBox VRDE и честный ответ на вопрос «а EVRTCK точно быстрее?»](https://habr.com/ru/articles/1070712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070712)
-- [Заметки как чаты: почему я перестал искать папку и начал искать сообщение](https://habr.com/ru/articles/1070702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070702)
 <!-- BLOG-POST-LIST:END -->
 
 ---
