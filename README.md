@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Что я узнал, поместив GitHub Copilot за MITM‑прокси](https://habr.com/ru/articles/1070652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070652)
 - [Как мы писали Kubernetes-клиент, который старается не врать](https://habr.com/ru/articles/1070728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070728)
 - [Как я дал старому планшету глаза и получил панель для Home Assistant](https://habr.com/ru/articles/1070708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070708)
 - [Как я делал компактную библиотеку для создания приложений с графическим интерфейсом на языке C++. Часть 4](https://habr.com/ru/articles/1070740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070740)
 - [Спустя 5 лет я снова пишу Всерос — часть 1](https://habr.com/ru/articles/1065810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065810)
-- [Протестировал Vibecraft от Яндекса. Один вопрос остался без ответа](https://habr.com/ru/articles/1070724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070724)
 <!-- BLOG-POST-LIST:END -->
 
 ---
