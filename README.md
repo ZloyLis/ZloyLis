@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как подать документы в онлайн-магистратуру через Госуслуги: инструкция](https://habr.com/ru/companies/yandex_praktikum/articles/1070574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070574)
+- [Смена типа в объекте тоже не бесплатна](https://habr.com/ru/articles/1070790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070790)
 - [Как превратить топологию в 3D‑графики. Рисуем расслоение Зейферта](https://habr.com/ru/articles/1062646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062646)
 - [[Перевод] Что я узнал, поместив GitHub Copilot за MITM‑прокси](https://habr.com/ru/articles/1070652/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070652)
 - [Как мы писали Kubernetes-клиент, который старается не врать](https://habr.com/ru/articles/1070728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070728)
-- [Как я дал старому планшету глаза и получил панель для Home Assistant](https://habr.com/ru/articles/1070708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070708)
-- [Как я делал компактную библиотеку для создания приложений с графическим интерфейсом на языке C++. Часть 4](https://habr.com/ru/articles/1070740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070740)
 <!-- BLOG-POST-LIST:END -->
 
 ---
