@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Зачем все так сложно](https://habr.com/ru/articles/1070908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070908)
+- [Мобильная разработка за неделю #643 &lpar;10 — 16 августа&rpar;](https://habr.com/ru/articles/1070904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070904)
 - [Часть 1. Как я делаю backend для браузерной игры три в ряд: server-driven контент, транзакции и идемпотентность](https://habr.com/ru/articles/1070900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070900)
 - [Принять нельзя сопротивляться](https://habr.com/ru/articles/1070888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070888)
 - [# DI без рефлексии и бойлерплейта: магия KSP в действии](https://habr.com/ru/articles/1070880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070880)
-- [Атрибуты качественного процесса](https://habr.com/ru/articles/1068256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068256)
-- [Как я добавил в Braille eMotion установку APK: доступный диспетчер приложений и автономный EXE](https://habr.com/ru/articles/1070820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070820)
 <!-- BLOG-POST-LIST:END -->
 
 ---
