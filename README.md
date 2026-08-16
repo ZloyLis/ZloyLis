@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Зачем всё так сложно: постановка и архитектура](https://habr.com/ru/articles/1070910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070910)
+- [v1.10: роли, личности и снова этот WardLink…](https://habr.com/ru/articles/1070974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070974)
+- [Как я навайбкодил бота в MAX и получил 2000 пользователей в течение 12 часов за 0 рублей](https://habr.com/ru/articles/1070970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070970)
 - [Когда setState недостаточно: как я написал транзакционный стейт-менеджер на TypeScript](https://habr.com/ru/articles/1070960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070960)
 - [Как выжать максимум из Генотека: вайбкодим кастомный ДНК-анализатор](https://habr.com/ru/articles/1070956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070956)
-- [У каждой системы своя правда. Кто решает, какая из них корпоративная?](https://habr.com/ru/articles/1070944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070944)
-- [TRON, Aptos и BSC в одной цепочке заражения: расследование JavaScript-загрузчика, связанного с ChainVeil](https://habr.com/ru/articles/1070914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070914)
-- [Зачем все так сложно](https://habr.com/ru/articles/1070908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070908)
 <!-- BLOG-POST-LIST:END -->
 
 ---
