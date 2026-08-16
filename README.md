@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нужную книгу больше не обязательно искать: как ИИ меняет сам принцип работы с информацией](https://habr.com/ru/companies/ods/articles/1070832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070832)
 - [Зачем всё так сложно: постановка и архитектура](https://habr.com/ru/articles/1070910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070910)
 - [v1.10: роли, личности и снова этот WardLink…](https://habr.com/ru/articles/1070974/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070974)
 - [Как я навайбкодил бота в MAX и получил 2000 пользователей в течение 12 часов за 0 рублей](https://habr.com/ru/articles/1070970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070970)
 - [Когда setState недостаточно: как я написал транзакционный стейт-менеджер на TypeScript](https://habr.com/ru/articles/1070960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070960)
-- [Как выжать максимум из Генотека: вайбкодим кастомный ДНК-анализатор](https://habr.com/ru/articles/1070956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070956)
 <!-- BLOG-POST-LIST:END -->
 
 ---
