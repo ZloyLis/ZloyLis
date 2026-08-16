@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [У каждой системы своя правда. Кто решает, какая из них корпоративная?](https://habr.com/ru/articles/1070944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070944)
 - [TRON, Aptos и BSC в одной цепочке заражения: расследование JavaScript-загрузчика, связанного с ChainVeil](https://habr.com/ru/articles/1070914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070914)
 - [Зачем все так сложно](https://habr.com/ru/articles/1070908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070908)
 - [Мобильная разработка за неделю #643 &lpar;10 — 16 августа&rpar;](https://habr.com/ru/articles/1070904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070904)
 - [Часть 1. Как я делаю backend для браузерной игры три в ряд: server-driven контент, транзакции и идемпотентность](https://habr.com/ru/articles/1070900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070900)
-- [Принять нельзя сопротивляться](https://habr.com/ru/articles/1070888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070888)
 <!-- BLOG-POST-LIST:END -->
 
 ---
