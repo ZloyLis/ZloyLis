@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [# DI без рефлексии и бойлерплейта: магия KSP в действии](https://habr.com/ru/articles/1070880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070880)
 - [Атрибуты качественного процесса](https://habr.com/ru/articles/1068256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068256)
 - [Как я добавил в Braille eMotion установку APK: доступный диспетчер приложений и автономный EXE](https://habr.com/ru/articles/1070820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070820)
 - [Тайна первых iPhone: как Siemens и Samsung сделали железо для первого смартфона Apple](https://habr.com/ru/companies/timeweb/articles/1070488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070488)
 - [«Автомойка в 50 метрах от дома. Пойдем пешком?» Как простая загадка вызвала грандиозный философский спор о будущем ИИ](https://habr.com/ru/articles/1070798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070798)
-- [Как подать документы в онлайн-магистратуру через Госуслуги: инструкция](https://habr.com/ru/companies/yandex_praktikum/articles/1070574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070574)
 <!-- BLOG-POST-LIST:END -->
 
 ---
