@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Кронекером по Фишеру: как при сжатии LLM учесть кривизну второго порядка и не умереть](https://habr.com/ru/companies/airi/articles/1065296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065296)
-- [Оптимизируем код решения СЛАУ методом Гаусса под процессор Эльбрус‑8СВ](https://habr.com/ru/articles/1071148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071148)
-- [«Прикладные компетенции аналитика» на A&amp;amp;PM EVENT 2026: как действовать там, где нет готового шаблона](https://habr.com/ru/companies/infostart/articles/1071186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071186)
-- [Куда уходит сервер: что происходит с жизненным циклом западного ИТ-оборудования?](https://habr.com/ru/companies/rt-dc/articles/1070182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070182)
-- [[Перевод] Вместо того, чтобы укоротить рабочую неделю на день, внедрение ИИ только увеличило количество работы](https://habr.com/ru/articles/1071170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071170)
+- [Универсальный подход к регрессионному тестированию микросервисов: интеграция Postman, Newman и Python в Jenkins](https://habr.com/ru/articles/1071232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071232)
+- [Tinted — то, из‑за чего ты захочешь использовать терминал](https://habr.com/ru/articles/1071228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071228)
+- [AI R&amp;amp;D DAY: два трека об исследованиях и продуктизации ИИ](https://habr.com/ru/companies/oleg-bunin/articles/1071216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071216)
+- [Асинхронный I/O в PostgreSQL или история выходного дня](https://habr.com/ru/articles/1071134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071134)
+- [Обзор технологий S3-хранилища: как изменился подход к хранению данных и обеспечению их безопасности](https://habr.com/ru/companies/vktech/articles/1071120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071120)
 <!-- BLOG-POST-LIST:END -->
 
 ---
