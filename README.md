@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Вики из 48 часов видео: конвейер, который не даёт LLM выдумывать](https://habr.com/ru/articles/1069706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069706)
-- [Паничный PIN, который отдавал ключ от всего: разбор ошибок](https://habr.com/ru/articles/1071030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071030)
-- [[Перевод] Язык Java быстрый, а ваш код — не факт](https://habr.com/ru/articles/1071004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071004)
-- [[Перевод] Физическая Вселенная — нечто большее, чем просто математика](https://habr.com/ru/articles/1071000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071000)
-- [Нужную книгу больше не обязательно искать: как ИИ меняет сам принцип работы с информацией](https://habr.com/ru/companies/ods/articles/1070832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070832)
+- [Что изучить во второй половине августа: 39 открытых уроков для IT‑специалистов](https://habr.com/ru/companies/otus/articles/1070042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070042)
+- [Какие профессии создал ИИ: разбор с цифрами](https://habr.com/ru/companies/yandex_praktikum/articles/1070046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070046)
+- [Vec и Vec — это две разные функции. И линкер это не чинит](https://habr.com/ru/companies/beget/articles/1066124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066124)
+- [Как я ускорил TypeScript-типы в 15.7 раза](https://habr.com/ru/articles/1071086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071086)
+- [C++29 — начало. Встреча ISO C++ в Брно](https://habr.com/ru/companies/yandex/articles/1067348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067348)
 <!-- BLOG-POST-LIST:END -->
 
 ---
