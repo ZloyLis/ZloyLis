@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Count-Min Sketch: как посчитать частоту миллиарда событий в 10 килобайт](https://habr.com/ru/companies/timeweb/articles/1070742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070742)
-- [JS-инъекция для iOS-тестов: как подружить WKWebView и XCTest](https://habr.com/ru/companies/ozonbank/articles/1016596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1016596)
-- [Dart 3.13 — что нового в Dart?](https://habr.com/ru/articles/1071116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071116)
-- [Как уронить базу данных](https://habr.com/ru/articles/1071020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071020)
-- [Что изучить во второй половине августа: 39 открытых уроков для IT‑специалистов](https://habr.com/ru/companies/otus/articles/1070042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070042)
+- [Кронекером по Фишеру: как при сжатии LLM учесть кривизну второго порядка и не умереть](https://habr.com/ru/companies/airi/articles/1065296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065296)
+- [Оптимизируем код решения СЛАУ методом Гаусса под процессор Эльбрус‑8СВ](https://habr.com/ru/articles/1071148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071148)
+- [«Прикладные компетенции аналитика» на A&amp;amp;PM EVENT 2026: как действовать там, где нет готового шаблона](https://habr.com/ru/companies/infostart/articles/1071186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071186)
+- [Куда уходит сервер: что происходит с жизненным циклом западного ИТ-оборудования?](https://habr.com/ru/companies/rt-dc/articles/1070182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070182)
+- [[Перевод] Вместо того, чтобы укоротить рабочую неделю на день, внедрение ИИ только увеличило количество работы](https://habr.com/ru/articles/1071170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071170)
 <!-- BLOG-POST-LIST:END -->
 
 ---
