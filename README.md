@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Инженерный подход к этимологии русского &lpar;индоевропейского&rpar; праязыка и преодоление «ленивых ответов» LLM](https://habr.com/ru/articles/1071302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071302)
 - [Как мы заменили 30-минутный polling на IMAP IDLE и построили маленькую распределённую систему](https://habr.com/ru/articles/1065768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065768)
 - [Чему меня научили дети, пока я пытался научить их программированию](https://habr.com/ru/companies/selectel/articles/1063372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063372)
 - [Где заканчиваются отчёты и начинается безопасность: аудит ИБ без «бумажной пыли»](https://habr.com/ru/companies/ozontech/articles/1070378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070378)
 - [Расследование по Kubernetes events, которых уже нет](https://habr.com/ru/articles/1071266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071266)
-- [Бенчмаркая try/finally: один finally — и метод в 6,45 раза медленнее](https://habr.com/ru/articles/1071238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071238)
 <!-- BLOG-POST-LIST:END -->
 
 ---
