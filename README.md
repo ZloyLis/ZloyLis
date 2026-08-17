@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Dart 3.13 — что нового в Dart?](https://habr.com/ru/articles/1071116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071116)
+- [Как уронить базу данных](https://habr.com/ru/articles/1071020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071020)
 - [Что изучить во второй половине августа: 39 открытых уроков для IT‑специалистов](https://habr.com/ru/companies/otus/articles/1070042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070042)
 - [Какие профессии создал ИИ: разбор с цифрами](https://habr.com/ru/companies/yandex_praktikum/articles/1070046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070046)
 - [Vec и Vec — это две разные функции. И линкер это не чинит](https://habr.com/ru/companies/beget/articles/1066124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066124)
-- [Как я ускорил TypeScript-типы в 15.7 раза](https://habr.com/ru/articles/1071086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071086)
-- [C++29 — начало. Встреча ISO C++ в Брно](https://habr.com/ru/companies/yandex/articles/1067348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067348)
 <!-- BLOG-POST-LIST:END -->
 
 ---
