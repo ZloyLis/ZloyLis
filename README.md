@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Маскируем чувствительные данные при отправке в ИИ‑чат. Бесплатное приложение](https://habr.com/ru/articles/1071398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071398)
 - [Как PHP превратился в героя мемов и пережил все свои «похороны»](https://habr.com/ru/articles/1071378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071378)
 - [Продакт-менеджмент на удалёнке: как онлайн-магистратура ИТМО и Яндекс Практикума готовит лидеров цифровых продуктов](https://habr.com/ru/companies/yandex_praktikum/articles/1071374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071374)
 - [От стажера до сеньора: как «Ростелеком» прокачивает студентов до уровня ИБ-специалистов](https://habr.com/ru/companies/rostelecom/articles/1071298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071298)
 - [Что настоящего осталось в программисте?](https://habr.com/ru/articles/1070746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070746)
-- [Как мы научили XCUITest тапать в контролы на глубине 136 уровней вложенности](https://habr.com/ru/companies/cian/articles/1071034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071034)
 <!-- BLOG-POST-LIST:END -->
 
 ---
