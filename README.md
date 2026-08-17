@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [DragonDoll для Google Chrome: обновите ваш шпион до последней версии](https://habr.com/ru/companies/pt/articles/1069960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069960)
-- [Инженерный подход к этимологии русского &lpar;индоевропейского&rpar; праязыка и преодоление «ленивых ответов» LLM](https://habr.com/ru/articles/1071302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071302)
-- [Как мы заменили 30-минутный polling на IMAP IDLE и построили маленькую распределённую систему](https://habr.com/ru/articles/1065768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065768)
-- [Чему меня научили дети, пока я пытался научить их программированию](https://habr.com/ru/companies/selectel/articles/1063372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063372)
-- [Где заканчиваются отчёты и начинается безопасность: аудит ИБ без «бумажной пыли»](https://habr.com/ru/companies/ozontech/articles/1070378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070378)
+- [Как PHP превратился в героя мемов и пережил все свои «похороны»](https://habr.com/ru/articles/1071378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071378)
+- [Продакт-менеджмент на удалёнке: как онлайн-магистратура ИТМО и Яндекс Практикума готовит лидеров цифровых продуктов](https://habr.com/ru/companies/yandex_praktikum/articles/1071374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071374)
+- [От стажера до сеньора: как «Ростелеком» прокачивает студентов до уровня ИБ-специалистов](https://habr.com/ru/companies/rostelecom/articles/1071298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071298)
+- [Что настоящего осталось в программисте?](https://habr.com/ru/articles/1070746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070746)
+- [Как мы научили XCUITest тапать в контролы на глубине 136 уровней вложенности](https://habr.com/ru/companies/cian/articles/1071034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071034)
 <!-- BLOG-POST-LIST:END -->
 
 ---
