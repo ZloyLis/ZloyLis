@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Универсальный подход к регрессионному тестированию микросервисов: интеграция Postman, Newman и Python в Jenkins](https://habr.com/ru/articles/1071232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071232)
-- [Tinted — то, из‑за чего ты захочешь использовать терминал](https://habr.com/ru/articles/1071228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071228)
-- [AI R&amp;amp;D DAY: два трека об исследованиях и продуктизации ИИ](https://habr.com/ru/companies/oleg-bunin/articles/1071216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071216)
-- [Асинхронный I/O в PostgreSQL или история выходного дня](https://habr.com/ru/articles/1071134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071134)
-- [Обзор технологий S3-хранилища: как изменился подход к хранению данных и обеспечению их безопасности](https://habr.com/ru/companies/vktech/articles/1071120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071120)
+- [Как мы заменили 30-минутный polling на IMAP IDLE и построили маленькую распределённую систему](https://habr.com/ru/articles/1065768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065768)
+- [Чему меня научили дети, пока я пытался научить их программированию](https://habr.com/ru/companies/selectel/articles/1063372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063372)
+- [Где заканчиваются отчёты и начинается безопасность: аудит ИБ без «бумажной пыли»](https://habr.com/ru/companies/ozontech/articles/1070378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070378)
+- [Расследование по Kubernetes events, которых уже нет](https://habr.com/ru/articles/1071266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071266)
+- [Бенчмаркая try/finally: один finally — и метод в 6,45 раза медленнее](https://habr.com/ru/articles/1071238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071238)
 <!-- BLOG-POST-LIST:END -->
 
 ---
