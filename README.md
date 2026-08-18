@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как ИИ изменил нагрузку &lpar;и откуда взялся демпинг&rpar;](https://habr.com/ru/articles/1071640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071640)
-- [[Перевод] Деградация безопасности при итеративной генерации кода с помощью ИИ &lpar;краткое изложение исследования&rpar;](https://habr.com/ru/articles/1071632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071632)
-- [Конфигурация в Python: эволюция подходов](https://habr.com/ru/companies/tbank/articles/1059806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059806)
-- [Проверка субъекта на входе как часть AML](https://habr.com/ru/articles/1071600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071600)
-- [Вскрытие ноу‑код сметы за 500$ или как купить «АИ — ассистента» который сожрёт весь бюджет заказчика](https://habr.com/ru/articles/1071580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071580)
+- [Как я запустил свою онлайн‑радиостанцию GrindFM на AzuraCast и Яндекс.Облаке](https://habr.com/ru/articles/1071714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071714)
+- [Я хотел понять, где создана AI‑картинка. В итоге разобрался, что на самом деле проверяет C2PA](https://habr.com/ru/articles/1071706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071706)
+- [Технический аудит сайта — что проверять, чтобы сайт быстро работал](https://habr.com/ru/companies/aspro/articles/1071700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071700)
+- [Не в 12,1 раз, а 2,3–2,9: сколько стоит новый тариф DeepSeek V4 и почему все решают 3 часа с 10:00 до 13:00 МСК](https://habr.com/ru/articles/1071692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071692)
+- [Эксперимент с Claude Code на заброшенном Java-проекте](https://habr.com/ru/articles/1071690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071690)
 <!-- BLOG-POST-LIST:END -->
 
 ---
