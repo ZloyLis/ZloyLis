@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Мои любимые CSS-трюки для фронтендеров, которые не используют Tailwind](https://habr.com/ru/companies/ruvds/articles/1069800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069800)
-- [Софт для интегратора: сметы, проектирование щитов, настройка оборудования и Home Assistant](https://habr.com/ru/companies/wirenboard/articles/1071426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071426)
-- [Число π: история вычислений от Гиппаса до наших дней](https://habr.com/ru/companies/psb/articles/1071070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071070)
-- [Istio: sidecar или ambient в 2026 — когда что и почему](https://habr.com/ru/articles/1062018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062018)
-- [От LLM-портала до фабрики внутренних агентов: как в Авито строят корпоративного ассистента «Виталик»](https://habr.com/ru/companies/avito/articles/1071126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071126)
+- [Сервер стал вдвое мощнее, а хвост задержек вырос втрое](https://habr.com/ru/companies/otus/articles/1068478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068478)
+- [Страница, которая не моргает: SPA-роутинг для HTML и Web Components](https://habr.com/ru/articles/1071552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071552)
+- [«Эй, агент, исправь мой билд». Строим первую линию техподдержки на n8n. Часть 3](https://habr.com/ru/articles/1071028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071028)
+- [Selective Remote после первой статьи: как RDP-клиент для macOS вырос в рабочее место для RDP, SSH и SFTP](https://habr.com/ru/articles/1071532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071532)
+- [Память агента без вектор-БД: 363 markdown-файла вместо эмбеддингов](https://habr.com/ru/articles/1071530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071530)
 <!-- BLOG-POST-LIST:END -->
 
 ---
