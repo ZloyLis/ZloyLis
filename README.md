@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Сервер стал вдвое мощнее, а хвост задержек вырос втрое](https://habr.com/ru/companies/otus/articles/1068478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068478)
-- [Страница, которая не моргает: SPA-роутинг для HTML и Web Components](https://habr.com/ru/articles/1071552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071552)
-- [«Эй, агент, исправь мой билд». Строим первую линию техподдержки на n8n. Часть 3](https://habr.com/ru/articles/1071028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071028)
-- [Selective Remote после первой статьи: как RDP-клиент для macOS вырос в рабочее место для RDP, SSH и SFTP](https://habr.com/ru/articles/1071532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071532)
-- [Память агента без вектор-БД: 363 markdown-файла вместо эмбеддингов](https://habr.com/ru/articles/1071530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071530)
+- [Вскрытие ноу‑код сметы за 500$ или как купить «АИ — ассистента» который сожрёт весь бюджет заказчика](https://habr.com/ru/articles/1071580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071580)
+- [[Перевод] Утверждение «Код — это не самое сложное» оскорбляет всех программистов](https://habr.com/ru/companies/ruvds/articles/1069648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069648)
+- [Как собрать AI-контур на VPS: подписки ChatGPT и Claude, OmniRoute, LiteLLM и разработка без VPN](https://habr.com/ru/companies/hostkey/articles/1068632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068632)
+- [Инженеров ставят у доски: как ИТ-компаниям сотрудничать с вузами](https://habr.com/ru/companies/rshb/articles/1071534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071534)
+- [GridStack: цена выбора API для nested grids](https://habr.com/ru/articles/1071556/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071556)
 <!-- BLOG-POST-LIST:END -->
 
 ---
