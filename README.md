@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я измеряю видимость брендов в шести нейросетях: схема замера, формат логов и ошибки](https://habr.com/ru/articles/1071762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071762)
 - [Train и eval в ARC-AGI-2 — это разные распределения](https://habr.com/ru/articles/1071730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071730)
 - [Как я запустил свою онлайн‑радиостанцию GrindFM на AzuraCast и Яндекс.Облаке](https://habr.com/ru/articles/1071714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071714)
 - [Я хотел понять, где создана AI‑картинка. В итоге разобрался, что на самом деле проверяет C2PA](https://habr.com/ru/articles/1071706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071706)
 - [Технический аудит сайта — что проверять, чтобы сайт быстро работал](https://habr.com/ru/companies/aspro/articles/1071700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071700)
-- [Не в 12,1 раз, а 2,3–2,9: сколько стоит новый тариф DeepSeek V4 и почему все решают 3 часа с 10:00 до 13:00 МСК](https://habr.com/ru/articles/1071692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071692)
 <!-- BLOG-POST-LIST:END -->
 
 ---
