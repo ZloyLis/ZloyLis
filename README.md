@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ни строчки руками: как я вайбкодил AI-мастера D&amp;amp;D и что показали два месяца открытой беты](https://habr.com/ru/articles/1071434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071434)
+- [Как совмещать работу и учёбу: кейс студентки онлайн-магистратуры ИТМО в партнёрстве с Яндексом](https://habr.com/ru/companies/yandex_praktikum/articles/1071312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071312)
+- [Проиндексирован, исправен и невидим: ноль из 32 в ответах нейросетей](https://habr.com/ru/articles/1071806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071806)
 - [Как я измеряю видимость брендов в шести нейросетях: схема замера, формат логов и ошибки](https://habr.com/ru/articles/1071762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071762)
 - [Train и eval в ARC-AGI-2 — это разные распределения](https://habr.com/ru/articles/1071730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071730)
-- [Как я запустил свою онлайн‑радиостанцию GrindFM на AzuraCast и Яндекс.Облаке](https://habr.com/ru/articles/1071714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071714)
-- [Я хотел понять, где создана AI‑картинка. В итоге разобрался, что на самом деле проверяет C2PA](https://habr.com/ru/articles/1071706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071706)
-- [Технический аудит сайта — что проверять, чтобы сайт быстро работал](https://habr.com/ru/companies/aspro/articles/1071700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071700)
 <!-- BLOG-POST-LIST:END -->
 
 ---
