@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Интеллектуальный контур контроля человеческого фактора на цифровом двойнике буровой: от xAPI-лога до пункта ФНП](https://habr.com/ru/articles/1071468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071468)
+- [SAT-солвер на основе метода резолюций](https://habr.com/ru/articles/1071466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071466)
 - [Микроядро SME2 sgemm: 1024 умножения-сложения за проход](https://habr.com/ru/articles/1071462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071462)
 - [Оптимизация агрегатов PostgreSQL — что может расширение?](https://habr.com/ru/companies/tantor/articles/1071372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071372)
 - [Как я собрал сайт на 30 000 SEO‑страниц за месяц](https://habr.com/ru/articles/1071424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071424)
-- [Маскируем чувствительные данные при отправке в ИИ‑чат. Бесплатное приложение](https://habr.com/ru/articles/1071398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071398)
-- [Как PHP превратился в героя мемов и пережил все свои «похороны»](https://habr.com/ru/articles/1071378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071378)
 <!-- BLOG-POST-LIST:END -->
 
 ---
