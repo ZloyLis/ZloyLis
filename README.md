@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как ИИ изменил нагрузку &lpar;и откуда взялся демпинг&rpar;](https://habr.com/ru/articles/1071640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071640)
+- [[Перевод] Деградация безопасности при итеративной генерации кода с помощью ИИ &lpar;краткое изложение исследования&rpar;](https://habr.com/ru/articles/1071632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071632)
 - [Конфигурация в Python: эволюция подходов](https://habr.com/ru/companies/tbank/articles/1059806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059806)
 - [Проверка субъекта на входе как часть AML](https://habr.com/ru/articles/1071600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071600)
 - [Вскрытие ноу‑код сметы за 500$ или как купить «АИ — ассистента» который сожрёт весь бюджет заказчика](https://habr.com/ru/articles/1071580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071580)
-- [[Перевод] Утверждение «Код — это не самое сложное» оскорбляет всех программистов](https://habr.com/ru/companies/ruvds/articles/1069648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069648)
-- [Как собрать AI-контур на VPS: подписки ChatGPT и Claude, OmniRoute, LiteLLM и разработка без VPN](https://habr.com/ru/companies/hostkey/articles/1068632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068632)
 <!-- BLOG-POST-LIST:END -->
 
 ---
