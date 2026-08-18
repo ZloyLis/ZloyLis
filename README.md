@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мои любимые CSS-трюки для фронтендеров, которые не используют Tailwind](https://habr.com/ru/companies/ruvds/articles/1069800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069800)
+- [Софт для интегратора: сметы, проектирование щитов, настройка оборудования и Home Assistant](https://habr.com/ru/companies/wirenboard/articles/1071426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071426)
 - [Число π: история вычислений от Гиппаса до наших дней](https://habr.com/ru/companies/psb/articles/1071070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071070)
 - [Istio: sidecar или ambient в 2026 — когда что и почему](https://habr.com/ru/articles/1062018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1062018)
 - [От LLM-портала до фабрики внутренних агентов: как в Авито строят корпоративного ассистента «Виталик»](https://habr.com/ru/companies/avito/articles/1071126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071126)
-- [Интеллектуальный контур контроля человеческого фактора на цифровом двойнике буровой: от xAPI-лога до пункта ФНП](https://habr.com/ru/articles/1071468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071468)
-- [SAT-солвер на основе метода резолюций](https://habr.com/ru/articles/1071466/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071466)
 <!-- BLOG-POST-LIST:END -->
 
 ---
