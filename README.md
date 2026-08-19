@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Excel на 150 вкладок, рассылка 150 файлов руками и проценты по памяти: как я искал, где кинодистрибьютор теряет деньги](https://habr.com/ru/articles/1071998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071998)
-- [[Перевод] Война машин за валяющиеся трусы: как работа с грязным бельем вдруг стала главной задачей для ИИ-роботов](https://habr.com/ru/articles/1071996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071996)
-- [С++20 и асинхронный ввод-вывод для обработки крашей приложения](https://habr.com/ru/articles/1071994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071994)
-- [Шесть основ бизнес-анализа: почему игнорирование среды превращает блестящие решения в нежизнеспособные](https://habr.com/ru/companies/bcs_company/articles/1071610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071610)
-- [Найти человека по голосу среди 134 тысяч записей](https://habr.com/ru/articles/1043378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043378)
+- [От одного npm‑пакета к кластеру Contagious Interview: практическое расследование supply chain‑кампании](https://habr.com/ru/articles/1072054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072054)
+- [Canva Code 2.0 доступна всем: можно ли собрать сайт для бизнеса](https://habr.com/ru/articles/1071498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071498)
+- [Психанул: как я за полтора месяца сделал формат конфигов и парсеры для семи языков](https://habr.com/ru/articles/1072042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072042)
+- [Как я искала неизвестно что, но нашла основной принцип для современной базы знаний &lpar;в моём представлении&rpar;](https://habr.com/ru/articles/1072034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072034)
+- [Как я улучшил векторный поиск в YDB](https://habr.com/ru/articles/1072032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072032)
 <!-- BLOG-POST-LIST:END -->
 
 ---
