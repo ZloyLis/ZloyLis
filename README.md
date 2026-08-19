@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как фонд в $45 млрд потерял почти всё за несколько недель](https://habr.com/ru/articles/1070972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070972)
+- [Go 1.27: generic-методы, которых не видит reflect](https://habr.com/ru/articles/1072194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072194)
 - [Опухший C++ код](https://habr.com/ru/companies/pvs-studio/articles/1072264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072264)
 - [Как мы проверяем до 1 000 cайтов в час: рассказываем про ЮScan — сервис оценки рисков в сегменте e-commerce](https://habr.com/ru/companies/yoomoney/articles/1072262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072262)
 - [Ананкастное расстройство личности — проклятье и сила программиста](https://habr.com/ru/articles/1072088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072088)
-- [Собственный RAG над Confluence на Java](https://habr.com/ru/articles/1072220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072220)
-- [История создания звонилки без номера: месяц, миллионы токенов и грабли, которые легли в основу этого цикла статей](https://habr.com/ru/articles/1072176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072176)
 <!-- BLOG-POST-LIST:END -->
 
 ---
