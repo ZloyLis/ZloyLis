@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Excel на 150 вкладок, рассылка 150 файлов руками и проценты по памяти: как я искал, где кинодистрибьютор теряет деньги](https://habr.com/ru/articles/1071998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071998)
+- [[Перевод] Война машин за валяющиеся трусы: как работа с грязным бельем вдруг стала главной задачей для ИИ-роботов](https://habr.com/ru/articles/1071996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071996)
+- [С++20 и асинхронный ввод-вывод для обработки крашей приложения](https://habr.com/ru/articles/1071994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071994)
+- [Шесть основ бизнес-анализа: почему игнорирование среды превращает блестящие решения в нежизнеспособные](https://habr.com/ru/companies/bcs_company/articles/1071610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071610)
 - [Найти человека по голосу среди 134 тысяч записей](https://habr.com/ru/articles/1043378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043378)
-- [SAX-парсинг больших XML в Free Pascal: разбираем OpenCorpora без переполнения памяти](https://habr.com/ru/articles/1071958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071958)
-- [Rust в высоконагруженной видеоаналитике: кейс «Фалькон Тех»](https://habr.com/ru/companies/falcontech/articles/1071954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071954)
-- [Первая транзакция в Ethereum из TypeScript: 20 строк кода и три грабли по дороге](https://habr.com/ru/articles/1071936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071936)
-- [Я DevOps-инженер. Моя работа — чтобы вы обо мне не вспоминали](https://habr.com/ru/companies/cloud_ru/articles/1070590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070590)
 <!-- BLOG-POST-LIST:END -->
 
 ---
