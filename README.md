@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Законный вход в Telegram через РФ сервисы на примере личного проекта](https://habr.com/ru/articles/1072284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072284)
 - [[Перевод] Статистика PostgreSQL: почему запросы выполняются медленно](https://habr.com/ru/companies/otus/articles/1069656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069656)
 - [Как фонд в $45 млрд потерял почти всё за несколько недель](https://habr.com/ru/articles/1070972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070972)
 - [Go 1.27: generic-методы, которых не видит reflect](https://habr.com/ru/articles/1072194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072194)
 - [Опухший C++ код](https://habr.com/ru/companies/pvs-studio/articles/1072264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072264)
-- [Как мы проверяем до 1 000 cайтов в час: рассказываем про ЮScan — сервис оценки рисков в сегменте e-commerce](https://habr.com/ru/companies/yoomoney/articles/1072262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072262)
 <!-- BLOG-POST-LIST:END -->
 
 ---
