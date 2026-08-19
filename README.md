@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [FESB и PostgreSQL. Кейс «Отметка по дате изменения»](https://habr.com/ru/articles/1071662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071662)
-- [Вино за пять евро и за пять тысяч попало в один GROUP BY](https://habr.com/ru/articles/1071856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071856)
-- [Второй фактор, который жил в чужой странице: как я выбросил WebAuthn из своего сервиса ключей](https://habr.com/ru/articles/1070614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070614)
-- [[Перевод] Три месяца с Claude: хороший ассистент, плохой программист](https://habr.com/ru/companies/otus/articles/1069740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069740)
-- [Семантического поиска оказалось мало. Как я научил Obsidian находить похожие заметки](https://habr.com/ru/articles/1071832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071832)
+- [NVMe выдаёт 600 000 записей в секунду, а база коммитит 180](https://habr.com/ru/companies/otus/articles/1068480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068480)
+- [Как Omit {T, K} растворил типы, или что такое дистрибутивность типов в TypeScript](https://habr.com/ru/companies/yandex/articles/1070236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070236)
+- [The dark side of компрессия в PostgreSQL](https://habr.com/ru/companies/tantor/articles/1071746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071746)
+- [Рецензия на книгу «Программирование на C++ в среде Qt»](https://habr.com/ru/companies/ssp-soft/articles/1065712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1065712)
+- [Думал, Android пишет двигатель хуже iOS. Передумал. Потом оказалось, что прав, но по своему](https://habr.com/ru/articles/1071866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071866)
 <!-- BLOG-POST-LIST:END -->
 
 ---
