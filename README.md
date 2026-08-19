@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [FESB и PostgreSQL. Кейс «Отметка по дате изменения»](https://habr.com/ru/articles/1071662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071662)
+- [Вино за пять евро и за пять тысяч попало в один GROUP BY](https://habr.com/ru/articles/1071856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071856)
+- [Второй фактор, который жил в чужой странице: как я выбросил WebAuthn из своего сервиса ключей](https://habr.com/ru/articles/1070614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070614)
 - [[Перевод] Три месяца с Claude: хороший ассистент, плохой программист](https://habr.com/ru/companies/otus/articles/1069740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069740)
 - [Семантического поиска оказалось мало. Как я научил Obsidian находить похожие заметки](https://habr.com/ru/articles/1071832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071832)
-- [Ни строчки руками: как я вайбкодил AI-мастера D&amp;amp;D и что показали два месяца открытой беты](https://habr.com/ru/articles/1071434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071434)
-- [Как совмещать работу и учёбу: кейс студентки онлайн-магистратуры ИТМО в партнёрстве с Яндексом](https://habr.com/ru/companies/yandex_praktikum/articles/1071312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071312)
-- [Проиндексирован, исправен и невидим: ноль из 32 в ответах нейросетей](https://habr.com/ru/articles/1071806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071806)
 <!-- BLOG-POST-LIST:END -->
 
 ---
