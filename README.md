@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Найти человека по голосу среди 134 тысяч записей](https://habr.com/ru/articles/1043378/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1043378)
+- [SAX-парсинг больших XML в Free Pascal: разбираем OpenCorpora без переполнения памяти](https://habr.com/ru/articles/1071958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071958)
+- [Rust в высоконагруженной видеоаналитике: кейс «Фалькон Тех»](https://habr.com/ru/companies/falcontech/articles/1071954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071954)
 - [Первая транзакция в Ethereum из TypeScript: 20 строк кода и три грабли по дороге](https://habr.com/ru/articles/1071936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071936)
 - [Я DevOps-инженер. Моя работа — чтобы вы обо мне не вспоминали](https://habr.com/ru/companies/cloud_ru/articles/1070590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070590)
-- [Как отдать копию базы 1С подрядчику и не отдать вместе с ней персональные данные](https://habr.com/ru/companies/infostart/articles/1071778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071778)
-- [Сверхпроводящий квантовый тепловой двигатель](https://habr.com/ru/companies/ua-hosting/articles/1071558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071558)
-- [NVMe выдаёт 600 000 записей в секунду, а база коммитит 180](https://habr.com/ru/companies/otus/articles/1068480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068480)
 <!-- BLOG-POST-LIST:END -->
 
 ---
