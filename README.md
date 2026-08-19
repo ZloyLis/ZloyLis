@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Чем Go полезен при разработке AI-агентов](https://habr.com/ru/companies/avito/articles/1069734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069734)
+- [Как я ускорил работу с топом-пользователей с 36 минут до 20 секунд, используя Redis Sorted Set](https://habr.com/ru/articles/1071718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071718)
 - [Надёжность, устойчивость, доступность](https://habr.com/ru/articles/1072108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072108)
 - [В 1С:ERP есть адресное хранение. Зачем тогда складу отдельная WMS?](https://habr.com/ru/articles/1072100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072100)
 - [Одно лишнее if — и объект уезжает в кучу: как C2 решает, каким аллокациям не быть](https://habr.com/ru/companies/otus/articles/1068474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068474)
-- [README врёт: как я сделал open‑source линтер, который сверяет документацию с реальным репозиторием](https://habr.com/ru/articles/1072076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072076)
-- [[Перевод] Математики до сих пор не уверены, как быстрее всего перемножать числа](https://habr.com/ru/articles/1072074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072074)
 <!-- BLOG-POST-LIST:END -->
 
 ---
