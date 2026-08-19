@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Собственный RAG над Confluence на Java](https://habr.com/ru/articles/1072220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072220)
 - [История создания звонилки без номера: месяц, миллионы токенов и грабли, которые легли в основу этого цикла статей](https://habr.com/ru/articles/1072176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072176)
 - [Не заводите вторую базу ради объектов: redb против MongoDB и RavenDB](https://habr.com/ru/articles/1072170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072170)
 - [Пять месяцев на игровой движок, месяц на игру. Зачем я написал собственный движок на C](https://habr.com/ru/articles/1072162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072162)
 - [Онлайн-магистратура НИЯУ МИФИ «Специалист по работе с данными и применению ИИ»: как успеть поступить в 2026 году](https://habr.com/ru/companies/yandex_praktikum/articles/1072134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072134)
-- [Чем Go полезен при разработке AI‑агентов](https://habr.com/ru/companies/avito/articles/1069734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069734)
 <!-- BLOG-POST-LIST:END -->
 
 ---
