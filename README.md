@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Positional encoding или как нейросеть «читает» текст](https://habr.com/ru/articles/1072510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072510)
+- [Как провести gap‑анализ казначейства в 1С и не заложить лишние доработки в бюджет](https://habr.com/ru/companies/otus/articles/1067754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067754)
+- [[Перевод] Как ИИ убивает карьеру джунов и что с этим делать.  Полный перевод статьи Руссиновича и Хансельмана о будущем разработки](https://habr.com/ru/companies/croc/articles/1072496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072496)
 - [Shadow AI — почему инженеры скрывают, что пользуются ИИ](https://habr.com/ru/articles/1072478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072478)
 - [Kuber Community Day&#39;26: контент, который нельзя пропустить](https://habr.com/ru/companies/chislitellab/articles/1072456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072456)
-- [Как находить работу в IT в 2026 году](https://habr.com/ru/articles/1072448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072448)
-- [Философия и практика IT — Архитектуры](https://habr.com/ru/articles/1072452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072452)
-- [Четыре антипаттерна CTE в PostgreSQL: разбираем на EXPLAIN ANALYZE](https://habr.com/ru/companies/first/articles/1071080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071080)
 <!-- BLOG-POST-LIST:END -->
 
 ---
