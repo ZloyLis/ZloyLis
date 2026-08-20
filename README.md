@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что входит в инструментарий аналитика в 2026 году: темы секции INFOSTART A&amp;amp;PM EVENT 2026](https://habr.com/ru/companies/infostart/articles/1072678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072678)
 - [Не крутил с агентом циклы — жизни не видал](https://habr.com/ru/articles/1072668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072668)
 - [“Эй, детка, ты случайно не TikTok? А то я на тебя залип”: дикая история приложения для пикап-фразочек RIZZ](https://habr.com/ru/articles/1072664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072664)
 - [Аптечный e-com: как не перестараться с заботой и не потерять клиента при оформлении заказа](https://habr.com/ru/companies/zdravcity_pro/articles/1072636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072636)
 - [etcd для самых маленьких: гайд по хранилищу kubernetes](https://habr.com/ru/articles/1072628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072628)
-- [[Перевод] Что находится внутри файла PowerPoint?](https://habr.com/ru/companies/cloud4y/articles/1072624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072624)
 <!-- BLOG-POST-LIST:END -->
 
 ---
