@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нарисованный очаг LLM: почему красивые схемы без предметной модели не греют](https://habr.com/ru/articles/1072730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072730)
+- [Анти Бот для 1C Битрикс: как антиспам для WordPress обзавёлся родственником на Битриксе](https://habr.com/ru/articles/1072726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072726)
 - [Почему O&lpar;1&rpar; проигрывает O&lpar;n&rpar;: структуры данных в Go на реальном железе](https://habr.com/ru/articles/1072720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072720)
 - [Капча, которую рисуют: drop‑in альтернатива reCAPTCHA на динамике жеста](https://habr.com/ru/articles/1072718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072718)
 - [Скрипт деплоя отчитался об успехе, а на сервере осталась старая версия: 5 ошибок в bash, которые допускают новички](https://habr.com/ru/companies/otus/articles/1068482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068482)
-- [Что входит в инструментарий аналитика в 2026 году: темы секции INFOSTART A&amp;amp;PM EVENT 2026](https://habr.com/ru/companies/infostart/articles/1072678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072678)
-- [Не крутил с агентом циклы — жизни не видал](https://habr.com/ru/articles/1072668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072668)
 <!-- BLOG-POST-LIST:END -->
 
 ---
