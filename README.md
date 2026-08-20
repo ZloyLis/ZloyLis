@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Access‑token в переменной, refresh — в HttpOnly‑cookie: безопасная авторизация на Go + Vue 3](https://habr.com/ru/articles/1072430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072430)
+- [Строительный UX-кейс: создаем сервис для пользователей, которые не любят нажимать на кнопки](https://habr.com/ru/companies/cynteka/articles/1072428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072428)
 - [REPACK в PostgreSQL 19: перепаковка в ядре и, как всегда, дьявол в деталях](https://habr.com/ru/articles/1072388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072388)
 - [Приватная LLM в облаке: развертываем RAG-систему в Managed Kubernetes](https://habr.com/ru/companies/selectel/articles/1071938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071938)
 - [[Перевод] Pods как Workers, а не агенты: переосмысление единицы развёртывания для ИИ-агентов в Kubernetes](https://habr.com/ru/companies/vktech/articles/1071336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071336)
-- [[Перевод] One Branch To Rule Them All](https://habr.com/ru/companies/spring_aio/articles/1072386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072386)
-- [ИИ как thinking partner в T&amp;amp;D: как изменился мой подход к разработке образовательных продуктов](https://habr.com/ru/companies/ru_mts/articles/1071088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071088)
 <!-- BLOG-POST-LIST:END -->
 
 ---
