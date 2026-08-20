@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Не крутил с агентом циклы — жизни не видал](https://habr.com/ru/articles/1072668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072668)
+- [“Эй, детка, ты случайно не TikTok? А то я на тебя залип”: дикая история приложения для пикап-фразочек RIZZ](https://habr.com/ru/articles/1072664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072664)
 - [Аптечный e-com: как не перестараться с заботой и не потерять клиента при оформлении заказа](https://habr.com/ru/companies/zdravcity_pro/articles/1072636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072636)
 - [etcd для самых маленьких: гайд по хранилищу kubernetes](https://habr.com/ru/articles/1072628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072628)
 - [[Перевод] Что находится внутри файла PowerPoint?](https://habr.com/ru/companies/cloud4y/articles/1072624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072624)
-- [Засовываем VLA на гуманоида: как выбрать платформу, модель и планировщик](https://habr.com/ru/articles/1059204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059204)
-- [Я убрал кнопку «Начать тренировку» из приложения для изучения иностранных слов. Кажется, она мешала людям учиться](https://habr.com/ru/articles/1072568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072568)
 <!-- BLOG-POST-LIST:END -->
 
 ---
