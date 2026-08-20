@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Positional encoding или как нейросеть «читает» текст](https://habr.com/ru/articles/1072510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072510)
-- [Как провести gap‑анализ казначейства в 1С и не заложить лишние доработки в бюджет](https://habr.com/ru/companies/otus/articles/1067754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067754)
-- [[Перевод] Как ИИ убивает карьеру джунов и что с этим делать.  Полный перевод статьи Руссиновича и Хансельмана о будущем разработки](https://habr.com/ru/companies/croc/articles/1072496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072496)
-- [Shadow AI — почему инженеры скрывают, что пользуются ИИ](https://habr.com/ru/articles/1072478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072478)
-- [Kuber Community Day&#39;26: контент, который нельзя пропустить](https://habr.com/ru/companies/chislitellab/articles/1072456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072456)
+- [librats: Выпуск версии 2.1.x &lpar;библиотека для распределённых P2P-приложений&rpar;. Так же релиз rats-search 2.2.2 и rasync](https://habr.com/ru/articles/1072550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072550)
+- [Эх, невизуальная доступность, как же тебя наладить](https://habr.com/ru/companies/alfa/articles/1072440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072440)
+- [BACamp: как мы запустили школу бизнес‑анализа и что из этого вышло](https://habr.com/ru/companies/ecom_tech/articles/1071682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071682)
+- [Как поймать поддельный документ по голограмме – даже без ультрафиолета](https://habr.com/ru/companies/smartengines/articles/1072526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072526)
+- [React Native в 2026 году: New Architecture, нативный код и AI в реальном проекте](https://habr.com/ru/articles/1072522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072522)
 <!-- BLOG-POST-LIST:END -->
 
 ---
