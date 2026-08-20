@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как понять, что компания выросла из своей системы заявок](https://habr.com/ru/companies/simpleone/articles/1072554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072554)
-- [Самое интересное в новой версии Go — 1.27](https://habr.com/ru/companies/avito/articles/1072472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072472)
-- [[Перевод] Сколько автономности должно быть у ИИ‑агента](https://habr.com/ru/articles/1072558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072558)
-- [librats: Выпуск версии 2.1.x &lpar;библиотека для распределённых P2P-приложений&rpar;. Так же релиз rats-search 2.2.2 и rasync](https://habr.com/ru/articles/1072550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072550)
-- [Эх, невизуальная доступность, как же тебя наладить](https://habr.com/ru/companies/alfa/articles/1072440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072440)
+- [Аптечный e-com: как не перестараться с заботой и не потерять клиента при оформлении заказа](https://habr.com/ru/companies/zdravcity_pro/articles/1072636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072636)
+- [etcd для самых маленьких: гайд по хранилищу kubernetes](https://habr.com/ru/articles/1072628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072628)
+- [[Перевод] Что находится внутри файла PowerPoint?](https://habr.com/ru/companies/cloud4y/articles/1072624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072624)
+- [Засовываем VLA на гуманоида: как выбрать платформу, модель и планировщик](https://habr.com/ru/articles/1059204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1059204)
+- [Я убрал кнопку «Начать тренировку» из приложения для изучения иностранных слов. Кажется, она мешала людям учиться](https://habr.com/ru/articles/1072568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072568)
 <!-- BLOG-POST-LIST:END -->
 
 ---
