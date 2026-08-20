@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как понять, что компания выросла из своей системы заявок](https://habr.com/ru/companies/simpleone/articles/1072554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072554)
+- [Самое интересное в новой версии Go — 1.27](https://habr.com/ru/companies/avito/articles/1072472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072472)
+- [[Перевод] Сколько автономности должно быть у ИИ‑агента](https://habr.com/ru/articles/1072558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072558)
 - [librats: Выпуск версии 2.1.x &lpar;библиотека для распределённых P2P-приложений&rpar;. Так же релиз rats-search 2.2.2 и rasync](https://habr.com/ru/articles/1072550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072550)
 - [Эх, невизуальная доступность, как же тебя наладить](https://habr.com/ru/companies/alfa/articles/1072440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072440)
-- [BACamp: как мы запустили школу бизнес‑анализа и что из этого вышло](https://habr.com/ru/companies/ecom_tech/articles/1071682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071682)
-- [Как поймать поддельный документ по голограмме – даже без ультрафиолета](https://habr.com/ru/companies/smartengines/articles/1072526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072526)
-- [React Native в 2026 году: New Architecture, нативный код и AI в реальном проекте](https://habr.com/ru/articles/1072522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072522)
 <!-- BLOG-POST-LIST:END -->
 
 ---
