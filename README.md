@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Access‑token в переменной, refresh — в HttpOnly‑cookie: безопасная авторизация на Go + Vue 3](https://habr.com/ru/articles/1072430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072430)
-- [Строительный UX-кейс: создаем сервис для пользователей, которые не любят нажимать на кнопки](https://habr.com/ru/companies/cynteka/articles/1072428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072428)
-- [REPACK в PostgreSQL 19: перепаковка в ядре и, как всегда, дьявол в деталях](https://habr.com/ru/articles/1072388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072388)
-- [Приватная LLM в облаке: развертываем RAG-систему в Managed Kubernetes](https://habr.com/ru/companies/selectel/articles/1071938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071938)
-- [[Перевод] Pods как Workers, а не агенты: переосмысление единицы развёртывания для ИИ-агентов в Kubernetes](https://habr.com/ru/companies/vktech/articles/1071336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071336)
+- [Shadow AI — почему инженеры скрывают, что пользуются ИИ](https://habr.com/ru/articles/1072478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072478)
+- [Kuber Community Day&#39;26: контент, который нельзя пропустить](https://habr.com/ru/companies/chislitellab/articles/1072456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072456)
+- [Как находить работу в IT в 2026 году](https://habr.com/ru/articles/1072448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072448)
+- [Философия и практика IT — Архитектуры](https://habr.com/ru/articles/1072452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072452)
+- [Четыре антипаттерна CTE в PostgreSQL: разбираем на EXPLAIN ANALYZE](https://habr.com/ru/companies/first/articles/1071080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071080)
 <!-- BLOG-POST-LIST:END -->
 
 ---
