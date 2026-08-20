@@ -36,7 +36,7 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Наносервисы — как довести распределенные системы до логического конца](https://habr.com/ru/articles/1064204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064204)
-- [Нарисованный очаг LLM: почему красивые схемы без предметной модели не греют](https://habr.com/ru/articles/1072730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072730)
+- [Нарисованный очаг LLM: почему красивые схемы без предметной модели не греют](https://habr.com/ru/articles/1072730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072730)
 - [Анти Бот для 1C Битрикс: как антиспам для WordPress обзавёлся родственником на Битриксе](https://habr.com/ru/articles/1072726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072726)
 - [Почему O&lpar;1&rpar; проигрывает O&lpar;n&rpar;: структуры данных в Go на реальном железе](https://habr.com/ru/articles/1072720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072720)
 - [Капча, которую рисуют: drop‑in альтернатива reCAPTCHA на динамике жеста](https://habr.com/ru/articles/1072718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072718)
