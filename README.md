@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему O&lpar;1&rpar; проигрывает O&lpar;n&rpar;: структуры данных в Go на реальном железе](https://habr.com/ru/articles/1072720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072720)
+- [Капча, которую рисуют: drop‑in альтернатива reCAPTCHA на динамике жеста](https://habr.com/ru/articles/1072718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072718)
+- [Скрипт деплоя отчитался об успехе, а на сервере осталась старая версия: 5 ошибок в bash, которые допускают новички](https://habr.com/ru/companies/otus/articles/1068482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068482)
 - [Что входит в инструментарий аналитика в 2026 году: темы секции INFOSTART A&amp;amp;PM EVENT 2026](https://habr.com/ru/companies/infostart/articles/1072678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072678)
 - [Не крутил с агентом циклы — жизни не видал](https://habr.com/ru/articles/1072668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072668)
-- [“Эй, детка, ты случайно не TikTok? А то я на тебя залип”: дикая история приложения для пикап-фразочек RIZZ](https://habr.com/ru/articles/1072664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072664)
-- [Аптечный e-com: как не перестараться с заботой и не потерять клиента при оформлении заказа](https://habr.com/ru/companies/zdravcity_pro/articles/1072636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072636)
-- [etcd для самых маленьких: гайд по хранилищу kubernetes](https://habr.com/ru/articles/1072628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072628)
 <!-- BLOG-POST-LIST:END -->
 
 ---
