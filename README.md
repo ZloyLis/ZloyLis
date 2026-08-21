@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Хороший код, минусов нет: встреча «плюсовиков» YADRO и C++ Russia](https://habr.com/ru/companies/yadro/articles/1072856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072856)
-- [nanoCAD BIM ВК: проектирование спринклерных и дренчерных систем пожаротушения](https://habr.com/ru/companies/nanosoft/articles/1072946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072946)
-- [ИИ-трафик обогнал человеческий: что это значит для сервера и видимости сайта у нейросетей](https://habr.com/ru/companies/aspro/articles/1072944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072944)
-- [BlocklyKlik — автономный редактор кода с компилятором](https://habr.com/ru/articles/1072940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072940)
-- [Роспотребнадзор и ФАС дойдут и до сайтов: как настроить автопоиск и замену иностранных слов с помощью LLM](https://habr.com/ru/companies/dalee_group/articles/1071664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071664)
+- [Как мы переводили страницу объявления на Beduin в мобильной версии Авито](https://habr.com/ru/companies/avito/articles/1072198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072198)
+- [[Перевод] Эссе об Elixir. В акведуке все это время была вода. Часть 1](https://habr.com/ru/companies/cloud_ru/articles/1068860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068860)
+- [Мой 2-летний путь в английский: любимые приложения и методы изучения](https://habr.com/ru/articles/1073002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073002)
+- [Мой первый KitRover: попытка сделать машинку с управлением по сети. &lpar;часть 1&rpar;](https://habr.com/ru/articles/1072754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072754)
+- [Bun в 2026](https://habr.com/ru/articles/1072980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072980)
 <!-- BLOG-POST-LIST:END -->
 
 ---
