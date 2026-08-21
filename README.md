@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Как найти остров по одной фотографии: геолокация через геометрию и CUDA](https://habr.com/ru/companies/cloud4y/articles/1072778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072778)
-- [Платформер в стиле DOOM: портируем старую курсовую на чистый JavaScript](https://habr.com/ru/companies/ruvds/articles/1071376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071376)
-- [«Оно само»](https://habr.com/ru/articles/1069304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069304)
-- [Мой опыт с Hermes Agent — ненависть, любовь, ненависть, любовь](https://habr.com/ru/articles/1072770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072770)
-- [Наносервисы — как довести распределенные системы до логического конца](https://habr.com/ru/articles/1064204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064204)
+- [Локальный ИИ-агент в своём контуре: Ollama плюс OpenClaw на серверном GPU](https://habr.com/ru/companies/vktech/articles/1068686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068686)
+- [[Перевод] Таинственный остров: находим геолокацию с помощью геометрии и программирования GPU CUDA](https://habr.com/ru/articles/1072202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072202)
+- [Экономика 5G в России: где может окупиться сеть и почему ставка идет на промышленность](https://habr.com/ru/companies/ru_mts/articles/1063828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063828)
+- [Capability-based Security в Python на практике: библиотека PyIntents](https://habr.com/ru/companies/selectel/articles/1071066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071066)
+- [DI во фронтенде: от Context API к Composition Root](https://habr.com/ru/articles/1072780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072780)
 <!-- BLOG-POST-LIST:END -->
 
 ---
