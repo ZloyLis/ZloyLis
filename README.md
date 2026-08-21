@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как мы переводили страницу объявления на Beduin в мобильной версии Авито](https://habr.com/ru/companies/avito/articles/1072198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072198)
-- [[Перевод] Эссе об Elixir. В акведуке все это время была вода. Часть 1](https://habr.com/ru/companies/cloud_ru/articles/1068860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068860)
-- [Мой 2-летний путь в английский: любимые приложения и методы изучения](https://habr.com/ru/articles/1073002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073002)
-- [Мой первый KitRover: попытка сделать машинку с управлением по сети. &lpar;часть 1&rpar;](https://habr.com/ru/articles/1072754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072754)
-- [Bun в 2026](https://habr.com/ru/articles/1072980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072980)
+- [3000 точек на карте грузились полсекунды. Ускорял не там, где думал](https://habr.com/ru/articles/1073070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073070)
+- [Миграция AI-agent harness: как перенести rules, skills и MCP между ИИ-агентами](https://habr.com/ru/articles/1069340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069340)
+- [Как не ошибиться при работе с датами и временем. Разбираем все нюансы и ограничения](https://habr.com/ru/companies/ispring/articles/1053384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053384)
+- [Как научить ИИ разгребать метрики, пока дежурный допивает чай](https://habr.com/ru/companies/slurm/articles/1073062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073062)
+- [Grok 4.6: как за месяц допрыгнуть до тройки лидеров &lpar;и купить себе Cursor в придачу&rpar;](https://habr.com/ru/companies/gptunnel/articles/1073058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073058)
 <!-- BLOG-POST-LIST:END -->
 
 ---
