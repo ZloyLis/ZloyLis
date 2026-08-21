@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Хороший код, минусов нет: встреча «плюсовиков» YADRO и C++ Russia](https://habr.com/ru/companies/yadro/articles/1072856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072856)
+- [nanoCAD BIM ВК: проектирование спринклерных и дренчерных систем пожаротушения](https://habr.com/ru/companies/nanosoft/articles/1072946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072946)
+- [ИИ-трафик обогнал человеческий: что это значит для сервера и видимости сайта у нейросетей](https://habr.com/ru/companies/aspro/articles/1072944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072944)
 - [BlocklyKlik — автономный редактор кода с компилятором](https://habr.com/ru/articles/1072940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072940)
 - [Роспотребнадзор и ФАС дойдут и до сайтов: как настроить автопоиск и замену иностранных слов с помощью LLM](https://habr.com/ru/companies/dalee_group/articles/1071664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071664)
-- [[Перевод] Кирпич, брусок, шоколадка: мобильники Nokia 1987–1992 годов](https://habr.com/ru/companies/timeweb/articles/1072122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072122)
-- [Скептик выбрал гипотезу, которую ИИ не решит. Grok ее решил](https://habr.com/ru/articles/1072922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072922)
-- [[Перевод] Изучаем Triton ядро за ядром: сложение векторов](https://habr.com/ru/companies/piter/articles/1072884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072884)
 <!-- BLOG-POST-LIST:END -->
 
 ---
