@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Как найти остров по одной фотографии: геолокация через геометрию и CUDA](https://habr.com/ru/companies/cloud4y/articles/1072778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072778)
+- [Платформер в стиле DOOM: портируем старую курсовую на чистый JavaScript](https://habr.com/ru/companies/ruvds/articles/1071376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071376)
 - [«Оно само»](https://habr.com/ru/articles/1069304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069304)
 - [Мой опыт с Hermes Agent — ненависть, любовь, ненависть, любовь](https://habr.com/ru/articles/1072770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072770)
 - [Наносервисы — как довести распределенные системы до логического конца](https://habr.com/ru/articles/1064204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1064204)
-- [Нарисованный очаг LLM: почему красивые схемы без предметной модели не греют](https://habr.com/ru/articles/1072730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072730)
-- [Анти Бот для 1C Битрикс: как антиспам для WordPress обзавёлся родственником на Битриксе](https://habr.com/ru/articles/1072726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072726)
 <!-- BLOG-POST-LIST:END -->
 
 ---
