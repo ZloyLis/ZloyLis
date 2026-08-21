@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [У Claude Code уже есть такая память. Тогда зачем я держу свою?](https://habr.com/ru/articles/1072876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072876)
-- [Как взять образовательный кредит на онлайн-магистратуру в 2026 году: полное руководство](https://habr.com/ru/companies/yandex_praktikum/articles/1072696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072696)
-- [Локальный ИИ-агент в своём контуре: Ollama плюс OpenClaw на серверном GPU](https://habr.com/ru/companies/vk/articles/1068686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068686)
-- [[Перевод] Таинственный остров: находим геолокацию с помощью геометрии и программирования GPU CUDA](https://habr.com/ru/articles/1072202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072202)
-- [Экономика 5G в России: где может окупиться сеть и почему ставка идет на промышленность](https://habr.com/ru/companies/ru_mts/articles/1063828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063828)
+- [BlocklyKlik — автономный редактор кода с компилятором](https://habr.com/ru/articles/1072940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072940)
+- [Роспотребнадзор и ФАС дойдут и до сайтов: как настроить автопоиск и замену иностранных слов с помощью LLM](https://habr.com/ru/companies/dalee_group/articles/1071664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071664)
+- [[Перевод] Кирпич, брусок, шоколадка: мобильники Nokia 1987–1992 годов](https://habr.com/ru/companies/timeweb/articles/1072122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072122)
+- [Скептик выбрал гипотезу, которую ИИ не решит. Grok ее решил](https://habr.com/ru/articles/1072922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072922)
+- [[Перевод] Изучаем Triton ядро за ядром: сложение векторов](https://habr.com/ru/companies/piter/articles/1072884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072884)
 <!-- BLOG-POST-LIST:END -->
 
 ---
