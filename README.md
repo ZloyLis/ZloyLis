@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Локальный ИИ-агент в своём контуре: Ollama плюс OpenClaw на серверном GPU](https://habr.com/ru/companies/vktech/articles/1068686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068686)
+- [У Claude Code уже есть такая память. Тогда зачем я держу свою?](https://habr.com/ru/articles/1072876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072876)
+- [Как взять образовательный кредит на онлайн-магистратуру в 2026 году: полное руководство](https://habr.com/ru/companies/yandex_praktikum/articles/1072696/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072696)
+- [Локальный ИИ-агент в своём контуре: Ollama плюс OpenClaw на серверном GPU](https://habr.com/ru/companies/vk/articles/1068686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068686)
 - [[Перевод] Таинственный остров: находим геолокацию с помощью геометрии и программирования GPU CUDA](https://habr.com/ru/articles/1072202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072202)
 - [Экономика 5G в России: где может окупиться сеть и почему ставка идет на промышленность](https://habr.com/ru/companies/ru_mts/articles/1063828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063828)
-- [Capability-based Security в Python на практике: библиотека PyIntents](https://habr.com/ru/companies/selectel/articles/1071066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071066)
-- [DI во фронтенде: от Context API к Composition Root](https://habr.com/ru/articles/1072780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072780)
 <!-- BLOG-POST-LIST:END -->
 
 ---
