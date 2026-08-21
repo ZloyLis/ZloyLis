@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Make STL Cringe Again: Как я динамические строки на C создавал](https://habr.com/ru/articles/1073150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073150)
 - [Один «+», восемь дверей и борщ: уменьшаем трение в приложениях](https://habr.com/ru/articles/1073148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073148)
 - [Пагинация. Ошибки тестирования списков и курсоров](https://habr.com/ru/companies/otus/articles/1070840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070840)
 - [Развитие FastAPI приложения в ходе разработки production-системы](https://habr.com/ru/articles/1073130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073130)
 - [Бенчмаркая Span.Sort: выбрал компаратор-структуру — и получил 88 байт на вызов](https://habr.com/ru/articles/1073128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073128)
-- [Ловушка совместимости](https://habr.com/ru/articles/1073120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073120)
 <!-- BLOG-POST-LIST:END -->
 
 ---
