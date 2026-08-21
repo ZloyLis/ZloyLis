@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как подружить мастера с менеджером по логистике и 1С8 с 1С7 на сервере с закрытыми портами](https://habr.com/ru/articles/1073106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073106)
-- [3000 точек на карте грузились полсекунды. Ускорял не там, где думал](https://habr.com/ru/articles/1073070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073070)
-- [Миграция AI-agent harness: как перенести rules, skills и MCP между ИИ-агентами](https://habr.com/ru/articles/1069340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069340)
-- [Как не ошибиться при работе с датами и временем. Разбираем все нюансы и ограничения](https://habr.com/ru/companies/ispring/articles/1053384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053384)
-- [Как научить ИИ разгребать метрики, пока дежурный допивает чай](https://habr.com/ru/companies/slurm/articles/1073062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073062)
+- [Развитие FastAPI приложения в ходе разработки production-системы](https://habr.com/ru/articles/1073130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073130)
+- [Бенчмаркая Span.Sort: выбрал компаратор-структуру — и получил 88 байт на вызов](https://habr.com/ru/articles/1073128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073128)
+- [Ловушка совместимости](https://habr.com/ru/articles/1073120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073120)
+- [Почему архитектура до сих пор живёт в прошлом?](https://habr.com/ru/articles/1073116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073116)
+- [Как увеличить длительность игровой сессии в играх для бизнеса](https://habr.com/ru/articles/1073110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073110)
 <!-- BLOG-POST-LIST:END -->
 
 ---
