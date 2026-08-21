@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как подружить мастера с менеджером по логистике и 1С8 с 1С7 на сервере с закрытыми портами](https://habr.com/ru/articles/1073106/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073106)
 - [3000 точек на карте грузились полсекунды. Ускорял не там, где думал](https://habr.com/ru/articles/1073070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073070)
 - [Миграция AI-agent harness: как перенести rules, skills и MCP между ИИ-агентами](https://habr.com/ru/articles/1069340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069340)
 - [Как не ошибиться при работе с датами и временем. Разбираем все нюансы и ограничения](https://habr.com/ru/companies/ispring/articles/1053384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053384)
 - [Как научить ИИ разгребать метрики, пока дежурный допивает чай](https://habr.com/ru/companies/slurm/articles/1073062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073062)
-- [Grok 4.6: как за месяц допрыгнуть до тройки лидеров &lpar;и купить себе Cursor в придачу&rpar;](https://habr.com/ru/companies/gptunnel/articles/1073058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073058)
 <!-- BLOG-POST-LIST:END -->
 
 ---
