@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как объединить личные AI подписки в единый пул](https://habr.com/ru/articles/1073270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073270)
-- [ora2pg переносит около 80% Oracle‑схемы. А что происходит с оставшимися 20%?](https://habr.com/ru/articles/1073264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073264)
-- [Как коммунист создал монстра капитализма — История Huawei](https://habr.com/ru/articles/1073258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073258)
-- [Сеть kubernetes без магии: трассировка пакета на kind + Cilium](https://habr.com/ru/articles/1073254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073254)
-- [Вордстат в чате с Claude, или как я автоматизировал сбор семантики](https://habr.com/ru/articles/1073250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073250)
+- [Бенчмаркая LINQ: подстава с OrderBy — одно условие и полная сортировка](https://habr.com/ru/articles/1073310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073310)
+- [Что нового в Claude Code: разбор восьми августовских релизов](https://habr.com/ru/articles/1073304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073304)
+- [Свой инференс для 25 разработчиков: 452:1, KV‑пул и почему это не экономит денег](https://habr.com/ru/articles/1073300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073300)
+- [Аналитика без cookie: дневной HMAC вместо идентификатора посетителя](https://habr.com/ru/articles/1073296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073296)
+- [Почему мы перестали собирать персональную ленту SQL-запросами](https://habr.com/ru/articles/1073288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073288)
 <!-- BLOG-POST-LIST:END -->
 
 ---
