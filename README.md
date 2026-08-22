@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Проверяем Антиплагиат и Руконтекст на живых работах: отчёты, оригинальность и ИИ-детекция](https://habr.com/ru/articles/1073240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073240)
+- [Чит‑код к реальности: как я устал от школы и написал для 15-летней дочери мануал по нейробиологии и логике](https://habr.com/ru/articles/1073238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073238)
 - [Как случайно создать облачный кроссплатформенный сервис для Excel](https://habr.com/ru/articles/1073232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073232)
 - [Почему тип `numeric` в PostgreSQL такой медленный?](https://habr.com/ru/companies/tantor/articles/1073040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073040)
 - [Бэкапим чат «Избранное» из VK](https://habr.com/ru/articles/1073176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073176)
-- [Путь к ubuntu touch и обратно](https://habr.com/ru/articles/1073208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073208)
-- [За ночь у меня удалили все 22 виртуальные машины](https://habr.com/ru/articles/1073206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073206)
 <!-- BLOG-POST-LIST:END -->
 
 ---
