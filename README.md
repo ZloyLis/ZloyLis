@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как коммунист победил США — История Huawei](https://habr.com/ru/articles/1073258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073258)
+- [Сеть kubernetes без магии: трассировка пакета на kind + Cilium](https://habr.com/ru/articles/1073254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073254)
+- [Вордстат в чате с Claude, или как я автоматизировал сбор семантики](https://habr.com/ru/articles/1073250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073250)
+- [Цена за успешный результат: почему дешёвая модель может обойтись дороже дорогой](https://habr.com/ru/companies/otus/articles/1067744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067744)
 - [TrueForge: открытая обвязка, которая превращает LLM в полноценного агента](https://habr.com/ru/articles/1073242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073242)
-- [[Перевод] Известное исследование содержит ошибку: Вселенная не является анизотропной](https://habr.com/ru/articles/1073234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073234)
-- [Проверяем Антиплагиат и Руконтекст на живых работах: отчёты, оригинальность и ИИ-детекция](https://habr.com/ru/articles/1073240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073240)
-- [Чит‑код к реальности: как я устал от школы и написал для 15-летней дочери мануал по нейробиологии и логике](https://habr.com/ru/articles/1073238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073238)
-- [Как случайно создать облачный кроссплатформенный сервис для Excel](https://habr.com/ru/articles/1073232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073232)
 <!-- BLOG-POST-LIST:END -->
 
 ---
