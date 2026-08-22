@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему тип `numeric` в PostgreSQL такой медленный?](https://habr.com/ru/companies/tantor/articles/1073040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073040)
 - [Бэкапим чат «Избранное» из VK](https://habr.com/ru/articles/1073176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073176)
 - [Путь к ubuntu touch и обратно](https://habr.com/ru/articles/1073208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073208)
 - [За ночь у меня удалили все 22 виртуальные машины](https://habr.com/ru/articles/1073206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073206)
 - [Гидродинамика на python: Пишем CFD симуляцию плоского течения несжимаемой жидкости](https://habr.com/ru/articles/1072322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072322)
-- [Путь компьютерного самурая, или Как вайбкодинг дарит свободу творчества](https://habr.com/ru/articles/1073178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073178)
 <!-- BLOG-POST-LIST:END -->
 
 ---
