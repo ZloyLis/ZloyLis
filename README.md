@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [&lpar;Не&rpar;видимая цена интеллекта: почему экономия на LLM убивает ваши агентные системы](https://habr.com/ru/companies/bothub/articles/1073292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073292)
 - [Бенчмаркая LINQ: подстава с OrderBy — одно условие и полная сортировка](https://habr.com/ru/articles/1073310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073310)
 - [Что нового в Claude Code: разбор восьми августовских релизов](https://habr.com/ru/articles/1073304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073304)
 - [Свой инференс для 25 разработчиков: 452:1, KV‑пул и почему это не экономит денег](https://habr.com/ru/articles/1073300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073300)
 - [Аналитика без cookie: дневной HMAC вместо идентификатора посетителя](https://habr.com/ru/articles/1073296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073296)
-- [Почему мы перестали собирать персональную ленту SQL-запросами](https://habr.com/ru/articles/1073288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073288)
 <!-- BLOG-POST-LIST:END -->
 
 ---
