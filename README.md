@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как коммунист победил США — История Huawei](https://habr.com/ru/articles/1073258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073258)
+- [Как объединить личные AI подписки в единый пул](https://habr.com/ru/articles/1073270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073270)
+- [ora2pg переносит около 80% Oracle‑схемы. А что происходит с оставшимися 20%?](https://habr.com/ru/articles/1073264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073264)
+- [Как коммунист создал монстра капитализма — История Huawei](https://habr.com/ru/articles/1073258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073258)
 - [Сеть kubernetes без магии: трассировка пакета на kind + Cilium](https://habr.com/ru/articles/1073254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073254)
 - [Вордстат в чате с Claude, или как я автоматизировал сбор семантики](https://habr.com/ru/articles/1073250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073250)
-- [Цена за успешный результат: почему дешёвая модель может обойтись дороже дорогой](https://habr.com/ru/companies/otus/articles/1067744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067744)
-- [TrueForge: открытая обвязка, которая превращает LLM в полноценного агента](https://habr.com/ru/articles/1073242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073242)
 <!-- BLOG-POST-LIST:END -->
 
 ---
