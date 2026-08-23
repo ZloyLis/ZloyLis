@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Три плагина для Mattermost за день: как мы закрыли боли мессенджера с помощью Cursor](https://habr.com/ru/articles/1073404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073404)
+- [ZeroTier без native: managed ZtSharp и VL1-only ZtLite для ESP32](https://habr.com/ru/articles/1073418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073418)
 - [Кого обслуживает твой сайт на старте, юзеров или ботов? Как оценить нужную производительность? Реальные измерения](https://habr.com/ru/articles/1073398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073398)
 - [Что общего у Эйлера, воздушных шариков и одной из самых сложных задач информатики?](https://habr.com/ru/articles/1073396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073396)
 - [[Перевод] Почему Java-разработчики слишком доверяют рекомендациям ИИ](https://habr.com/ru/companies/axiomjdk/articles/1071236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071236)
-- [[Перевод] Больше свободы агентам — жёстче проверки: линтинг React 19 на ESLint 10](https://habr.com/ru/articles/1073392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073392)
-- [Только 5% детей уходят из школы по здоровью. Кто и зачем уходит на самом деле](https://habr.com/ru/articles/1073384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073384)
 <!-- BLOG-POST-LIST:END -->
 
 ---
