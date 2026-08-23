@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Написание ядра ОС с нуля. Ч3 — Пропуск в высшую лигу](https://habr.com/ru/articles/1073192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073192)
 - [От детерминированного хаоса к устойчивости: как управлять поведением многоагентных систем](https://habr.com/ru/articles/1073530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073530)
 - [Приложение для быстрого запоминания текста на английском](https://habr.com/ru/articles/1073500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073500)
 - [Теория и практика DWH: все виды SCD по Кимбаллу](https://habr.com/ru/articles/1073420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073420)
 - [Мобильная разработка за неделю #644 &lpar;17 — 23 августа&rpar;](https://habr.com/ru/articles/1073464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073464)
-- [Mojo 1.0 вышел из бета-тестирования. Что это за язык программирования и зачем он нужен](https://habr.com/ru/companies/selectel/articles/1071074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071074)
 <!-- BLOG-POST-LIST:END -->
 
 ---
