@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Теория и практика DWH: все виды SCD по Кимбаллу](https://habr.com/ru/articles/1073420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073420)
+- [Мобильная разработка за неделю #644 &lpar;17 — 23 августа&rpar;](https://habr.com/ru/articles/1073464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073464)
 - [Mojo 1.0 вышел из бета-тестирования. Что это за язык программирования и зачем он нужен](https://habr.com/ru/companies/selectel/articles/1071074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071074)
 - [Скрапер Google Maps на Playwright: семь граблей, на которые я наступил](https://habr.com/ru/articles/1073446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073446)
 - [Три плагина для Mattermost за день: как мы закрыли боли мессенджера с помощью Cursor](https://habr.com/ru/articles/1073404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073404)
-- [ZeroTier без native: managed ZtSharp и VL1-only ZtLite для ESP32](https://habr.com/ru/articles/1073418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073418)
-- [Кого обслуживает твой сайт на старте, юзеров или ботов? Как оценить нужную производительность? Реальные измерения](https://habr.com/ru/articles/1073398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073398)
 <!-- BLOG-POST-LIST:END -->
 
 ---
