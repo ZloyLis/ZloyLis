@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Только 5% детей уходят из школы по здоровью. Кто и зачем уходит на самом деле](https://habr.com/ru/articles/1073384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073384)
 - [System Design на практике: создаем микросервис генерации уникальных идентификаторов](https://habr.com/ru/articles/1068960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068960)
 - [От героев былых времен](https://habr.com/ru/articles/1073364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073364)
 - [Что вы увидели на картинке первым? Спрашиваем трансформер](https://habr.com/ru/articles/1073336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073336)
 - [Настоящий мобильный компьютер из нулевых — HTC Universal](https://habr.com/ru/companies/timeweb/articles/1073132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073132)
-- [[Перевод] Безопасность корпоративного MCP‑шлюза на практике с agentgateway](https://habr.com/ru/articles/1073322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073322)
 <!-- BLOG-POST-LIST:END -->
 
 ---
