@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кого обслуживает твой сайт на старте, юзеров или ботов? Как оценить нужную производительность? Реальные измерения](https://habr.com/ru/articles/1073398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073398)
+- [Что общего у Эйлера, воздушных шариков и одной из самых сложных задач информатики?](https://habr.com/ru/articles/1073396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073396)
+- [[Перевод] Почему Java-разработчики слишком доверяют рекомендациям ИИ](https://habr.com/ru/companies/axiomjdk/articles/1071236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071236)
+- [[Перевод] Больше свободы агентам — жёстче проверки: линтинг React 19 на ESLint 10](https://habr.com/ru/articles/1073392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073392)
 - [Только 5% детей уходят из школы по здоровью. Кто и зачем уходит на самом деле](https://habr.com/ru/articles/1073384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073384)
-- [System Design на практике: создаем микросервис генерации уникальных идентификаторов](https://habr.com/ru/articles/1068960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068960)
-- [От героев былых времен](https://habr.com/ru/articles/1073364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073364)
-- [Что вы увидели на картинке первым? Спрашиваем трансформер](https://habr.com/ru/articles/1073336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073336)
-- [Настоящий мобильный компьютер из нулевых — HTC Universal](https://habr.com/ru/companies/timeweb/articles/1073132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073132)
 <!-- BLOG-POST-LIST:END -->
 
 ---
