@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что понимаешь про алерты, только когда сам начинаешь их писать](https://habr.com/ru/articles/1073738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073738)
+- [Код‑ревью в эпоху ИИ: 7 ошибок, ведущих к инцидентам](https://habr.com/ru/companies/otus/articles/1067756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067756)
 - [Вход в SpecDriven Development: OpenSpec vs SpecKit](https://habr.com/ru/companies/haulmont/articles/1073034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073034)
 - [Многомировая природа контингентности, или как выйти из корреляционного круга и не уничтожить физику](https://habr.com/ru/articles/1073710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073710)
 - [[Перевод] Swift на Apple II. Часть 2: среда разработки и сборка с ИИ](https://habr.com/ru/companies/cloud4y/articles/1073694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073694)
-- [Интеграция Oracle с PostgreSQL через гетерогенный сервис](https://habr.com/ru/articles/1073682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073682)
-- [DML против PSM: как оценивать нерандомизированные эксперименты быстрее и надёжнее?](https://habr.com/ru/companies/rwb/articles/1070206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070206)
 <!-- BLOG-POST-LIST:END -->
 
 ---
