@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Я сделал CRM без бэкенда. Вот чего мне это стоило](https://habr.com/ru/articles/1073454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073454)
+- [Radar: Kubernetes UI, которого не хватало](https://habr.com/ru/articles/1073566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073566)
 - [Учителей физики стало вдвое меньше. ЕГЭ по ней сдают 37% от плана приёма в вузы](https://habr.com/ru/articles/1073550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073550)
 - [Шпаргалка: Kotlin Coroutines Channels и Actor-модель](https://habr.com/ru/articles/1071290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071290)
 - [Почему баннер Yandex Ads мигает в LazyColumn — и при чём здесь AndroidView.onReset](https://habr.com/ru/articles/1072196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072196)
-- [Исправляем интерфейс криптокошелька. Как не заставлять пользователя считать в уме](https://habr.com/ru/articles/1073546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073546)
-- [Написание ядра ОС с нуля. Ч3 — Пропуск в высшую лигу](https://habr.com/ru/articles/1073192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073192)
 <!-- BLOG-POST-LIST:END -->
 
 ---
