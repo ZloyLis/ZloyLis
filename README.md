@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Модель не влезает на стол: почему плоскость — плохой нож](https://habr.com/ru/articles/1073940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073940)
 - [Из Oracle в PostgreSQL одним INSERT: DuckDB как ETL без Oracle-клиента](https://habr.com/ru/articles/1073924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073924)
 - [Я отдал языковой модели доступ к продовой панели администрирования. Вот что пришлось построить, чтобы она её не сожгла](https://habr.com/ru/articles/1073920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073920)
 - [Генератор трафика как инструмент RnD: от концепции до метрик](https://habr.com/ru/companies/infotecs_tech/articles/1073878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073878)
 - [Data Lakehouse по‑русски: как не утонуть в болоте импортозамещения](https://habr.com/ru/articles/1073884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073884)
-- [[Перевод] Глубокое погружение в React Fiber](https://habr.com/ru/companies/timeweb/articles/1068626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068626)
 <!-- BLOG-POST-LIST:END -->
 
 ---
