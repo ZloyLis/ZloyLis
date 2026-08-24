@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Конвертация docx на сервере: LibreOffice headless против Apache POI, и где каждый ломается](https://habr.com/ru/articles/1073800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073800)
+- [Установка мышления для изучения программирования](https://habr.com/ru/articles/1073784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073784)
+- [CLAUDE CODE ANTIFRAUD, ЧАСТЬ 2: крысы-биссектрисы и обезьяны-медианы на детской олимпиаде](https://habr.com/ru/articles/1073224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073224)
+- [Хватит с меня отвалившихся VPN: как я раз и навсегда решил вопрос с доступом к ChatGPT из РФ](https://habr.com/ru/articles/1073776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073776)
 - [Что понимаешь про алерты, только когда сам начинаешь их писать](https://habr.com/ru/articles/1073738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073738)
-- [Код‑ревью в эпоху ИИ: 7 ошибок, ведущих к инцидентам](https://habr.com/ru/companies/otus/articles/1067756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067756)
-- [Вход в SpecDriven Development: OpenSpec vs SpecKit](https://habr.com/ru/companies/haulmont/articles/1073034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073034)
-- [Многомировая природа контингентности, или как выйти из корреляционного круга и не уничтожить физику](https://habr.com/ru/articles/1073710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073710)
-- [[Перевод] Swift на Apple II. Часть 2: среда разработки и сборка с ИИ](https://habr.com/ru/companies/cloud4y/articles/1073694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073694)
 <!-- BLOG-POST-LIST:END -->
 
 ---
