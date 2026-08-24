@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Структуры данных на практике. Глава 19: Управление памятью в прошивках](https://habr.com/ru/articles/1068876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068876)
+- [GFM: децентрализованная альтернатива Patroni и etcd для PostgreSQL на базе P2P-меша с In-Memory управлением](https://habr.com/ru/articles/1073966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073966)
+- [Распределённые вычисления: гарантия завершения на исполнителях, которые вам ничего не должны](https://habr.com/ru/articles/1073954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073954)
 - [Модель не влезает на стол: почему плоскость — плохой нож](https://habr.com/ru/articles/1073940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073940)
 - [Из Oracle в PostgreSQL одним INSERT: DuckDB как ETL без Oracle-клиента](https://habr.com/ru/articles/1073924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073924)
-- [Я отдал языковой модели доступ к продовой панели администрирования. Вот что пришлось построить, чтобы она её не сожгла](https://habr.com/ru/articles/1073920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073920)
-- [Генератор трафика как инструмент RnD: от концепции до метрик](https://habr.com/ru/companies/infotecs_tech/articles/1073878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073878)
-- [Data Lakehouse по‑русски: как не утонуть в болоте импортозамещения](https://habr.com/ru/articles/1073884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073884)
 <!-- BLOG-POST-LIST:END -->
 
 ---
