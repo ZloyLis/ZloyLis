@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Конвертация docx на сервере: LibreOffice headless против Apache POI, и где каждый ломается](https://habr.com/ru/articles/1073800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073800)
-- [Установка мышления для изучения программирования](https://habr.com/ru/articles/1073784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073784)
-- [CLAUDE CODE ANTIFRAUD, ЧАСТЬ 2: крысы-биссектрисы и обезьяны-медианы на детской олимпиаде](https://habr.com/ru/articles/1073224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073224)
-- [Хватит с меня отвалившихся VPN: как я раз и навсегда решил вопрос с доступом к ChatGPT из РФ](https://habr.com/ru/articles/1073776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073776)
-- [Что понимаешь про алерты, только когда сам начинаешь их писать](https://habr.com/ru/articles/1073738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073738)
+- [Архитектор в AI‑native разработке: что произойдёт с ролью к 2029 году](https://habr.com/ru/articles/1073862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073862)
+- [Как устроен локальный шахматный помощник в браузере: Stockfish 18, Manifest V3 и веб-доски](https://habr.com/ru/articles/1073856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073856)
+- [[Перевод] Делегирование работы облачным агентам](https://habr.com/ru/articles/1073852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073852)
+- [Генератор QR‑кодов листами на PHP: детерминированное ядро и пять граблей по дороге](https://habr.com/ru/articles/1073850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073850)
+- [Охотники на призраков: 7 писем о том, как работать с легаси на «плюсах»](https://habr.com/ru/companies/yadro/articles/1073736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073736)
 <!-- BLOG-POST-LIST:END -->
 
 ---
