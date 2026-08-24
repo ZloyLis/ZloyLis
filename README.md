@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [o2 game engine](https://habr.com/ru/articles/1073630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073630)
+- [Как отправить данные из 1С в нейросеть и получить ответ обратно с настоящими именами и суммами](https://habr.com/ru/companies/infostart/articles/1072120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072120)
+- [[Перевод] Масштабирование LLM: от одного чипа до ЦОДа. Глава 5. Инференс](https://habr.com/ru/articles/1069746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069746)
 - [Я сделал CRM без бэкенда. Вот чего мне это стоило](https://habr.com/ru/articles/1073454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073454)
 - [Radar: Kubernetes UI, которого не хватало](https://habr.com/ru/articles/1073566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073566)
-- [Учителей физики стало вдвое меньше. ЕГЭ по ней сдают 37% от плана приёма в вузы](https://habr.com/ru/articles/1073550/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073550)
-- [Шпаргалка: Kotlin Coroutines Channels и Actor-модель](https://habr.com/ru/articles/1071290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071290)
-- [Почему баннер Yandex Ads мигает в LazyColumn — и при чём здесь AndroidView.onReset](https://habr.com/ru/articles/1072196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072196)
 <!-- BLOG-POST-LIST:END -->
 
 ---
