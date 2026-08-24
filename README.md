@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Моё представление об идеальном системном языке программирования](https://habr.com/ru/articles/1071836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071836)
 - [Мой первый KitRover: попытка сделать машинку с управлением по сети &lpar;часть 2&rpar;](https://habr.com/ru/articles/1073998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073998)
 - [Jabbit — фоновые задачи в KMP с API как у WorkManager &lpar;почти&rpar;](https://habr.com/ru/articles/1073906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073906)
 - [[Перевод] Структуры данных на практике. Глава 19: Управление памятью в прошивках](https://habr.com/ru/articles/1068876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068876)
 - [GFM: децентрализованная альтернатива Patroni и etcd для PostgreSQL на базе P2P-меша с In-Memory управлением](https://habr.com/ru/articles/1073966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073966)
-- [Распределённые вычисления: гарантия завершения на исполнителях, которые вам ничего не должны](https://habr.com/ru/articles/1073954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073954)
 <!-- BLOG-POST-LIST:END -->
 
 ---
