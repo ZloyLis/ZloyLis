@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Из Oracle в PostgreSQL одним INSERT: DuckDB как ETL без Oracle-клиента](https://habr.com/ru/articles/1073924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073924)
+- [Я отдал языковой модели доступ к продовой панели администрирования. Вот что пришлось построить, чтобы она её не сожгла](https://habr.com/ru/articles/1073920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073920)
+- [Генератор трафика как инструмент RnD: от концепции до метрик](https://habr.com/ru/companies/infotecs_tech/articles/1073878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073878)
 - [Data Lakehouse по‑русски: как не утонуть в болоте импортозамещения](https://habr.com/ru/articles/1073884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073884)
 - [[Перевод] Глубокое погружение в React Fiber](https://habr.com/ru/companies/timeweb/articles/1068626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068626)
-- [Android CameraX: детекция лица в реалтайме для биометрии](https://habr.com/ru/companies/tbank/articles/900136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=900136)
-- [DeepSeek управляет вашим рестораном](https://habr.com/ru/articles/1073824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073824)
-- [Архитектор в AI‑native разработке: что произойдёт с ролью к 2029 году](https://habr.com/ru/articles/1073862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073862)
 <!-- BLOG-POST-LIST:END -->
 
 ---
