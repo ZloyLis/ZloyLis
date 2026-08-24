@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Data Lakehouse по‑русски: как не утонуть в болоте импортозамещения](https://habr.com/ru/articles/1073884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073884)
+- [[Перевод] Глубокое погружение в React Fiber](https://habr.com/ru/companies/timeweb/articles/1068626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068626)
+- [Android CameraX: детекция лица в реалтайме для биометрии](https://habr.com/ru/companies/tbank/articles/900136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=900136)
+- [DeepSeek управляет вашим рестораном](https://habr.com/ru/articles/1073824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073824)
 - [Архитектор в AI‑native разработке: что произойдёт с ролью к 2029 году](https://habr.com/ru/articles/1073862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073862)
-- [Как устроен локальный шахматный помощник в браузере: Stockfish 18, Manifest V3 и веб-доски](https://habr.com/ru/articles/1073856/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073856)
-- [[Перевод] Делегирование работы облачным агентам](https://habr.com/ru/articles/1073852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073852)
-- [Генератор QR‑кодов листами на PHP: детерминированное ядро и пять граблей по дороге](https://habr.com/ru/articles/1073850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073850)
-- [Охотники на призраков: 7 писем о том, как работать с легаси на «плюсах»](https://habr.com/ru/companies/yadro/articles/1073736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073736)
 <!-- BLOG-POST-LIST:END -->
 
 ---
