@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Эссе об Elixir. Акведук все это время был с водой. Часть 2](https://habr.com/ru/companies/cloud_ru/articles/1071500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071500)
-- [Ускоряем drop in replace Next.js в 100 раз. Часть 2](https://habr.com/ru/companies/t2/articles/1069300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069300)
-- [Регистр выбирают за минуту, а перепроводят историю выходными](https://habr.com/ru/companies/otus/articles/1073072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073072)
-- [Разработчики в вашей компании уже тратят много токенов. Как проверить реальную пользу ИИ для бизнеса?](https://habr.com/ru/articles/1074132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074132)
-- [Сторож бюджета сработал ровно так, как я его написал. Поэтому за сутки ушло 225 евро при жёстком пороге 150](https://habr.com/ru/articles/1074138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074138)
+- [Code, Force, Repeat. Олдскульный GUI для олдскульных скриптов. Часть 2. Действие](https://habr.com/ru/companies/first/articles/1073580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073580)
+- [# Слепой поиск новых частиц &lpar;и не только частиц&rpar;: что мы построили и что из этого получилось](https://habr.com/ru/articles/1074208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074208)
+- [Как перенести навайбкоженный проект в Figma через Claude Code и получить дизайн‑систему](https://habr.com/ru/articles/1074204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074204)
+- [Кто-нибудь читал это до релиза? Как мы ловим ошибки в ИТ-книгах](https://habr.com/ru/companies/oleg-bunin/articles/1073840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073840)
+- [Аналитика Jira без API: считаем Lead Time, CFD и метрики релизов прямо в SQL по базе Postgres](https://habr.com/ru/articles/1074196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074196)
 <!-- BLOG-POST-LIST:END -->
 
 ---
