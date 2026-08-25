@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenIDE Pro в деле: Java, Spring, базы данных и AI-агенты в одной IDE](https://habr.com/ru/companies/axiomjdk/articles/1073796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073796)
+- [От ручного Excel к ИИ-генерации кода: опыт автоматизации обработки справочников для тех, кто далек от разработки](https://habr.com/ru/companies/lanit/articles/1072126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072126)
+- [Анатомия HurriCache: архитектура, lock-free шардирование и сравнение с Redis](https://habr.com/ru/articles/1073628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073628)
 - [Сайты, домены, реклама. Все сроки скоро пройдут, придет пора штрафов и отсутствия клиентов](https://habr.com/ru/articles/1074080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074080)
 - [NORA: лёгкий artifact registry для Kubernetes с карантином свежих пакетов и блокировкой CVE](https://habr.com/ru/articles/1074042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074042)
-- [Двойная точность: в основном «найти и заменить», плюс два настоящих сюрприза](https://habr.com/ru/articles/1074022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074022)
-- [Проблему репетиторства сформулировали в 1984 году. Ответа до сих пор нет](https://habr.com/ru/articles/1074020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074020)
-- [Моё представление об идеальном системном языке программирования](https://habr.com/ru/articles/1071836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071836)
 <!-- BLOG-POST-LIST:END -->
 
 ---
