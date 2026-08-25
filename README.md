@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenIDE Pro в деле: Java, Spring, базы данных и AI-агенты в одной IDE](https://habr.com/ru/companies/axiomjdk/articles/1073796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073796)
-- [От ручного Excel к ИИ-генерации кода: опыт автоматизации обработки справочников для тех, кто далек от разработки](https://habr.com/ru/companies/lanit/articles/1072126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072126)
-- [Анатомия HurriCache: архитектура, lock-free шардирование и сравнение с Redis](https://habr.com/ru/articles/1073628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073628)
-- [Сайты, домены, реклама. Все сроки скоро пройдут, придет пора штрафов и отсутствия клиентов](https://habr.com/ru/articles/1074080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074080)
-- [NORA: лёгкий artifact registry для Kubernetes с карантином свежих пакетов и блокировкой CVE](https://habr.com/ru/articles/1074042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074042)
+- [[Перевод] Эссе об Elixir. Акведук все это время был с водой. Часть 2](https://habr.com/ru/companies/cloud_ru/articles/1071500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071500)
+- [Ускоряем drop in replace Next.js в 100 раз. Часть 2](https://habr.com/ru/companies/t2/articles/1069300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069300)
+- [Регистр выбирают за минуту, а перепроводят историю выходными](https://habr.com/ru/companies/otus/articles/1073072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073072)
+- [Разработчики в вашей компании уже тратят много токенов. Как проверить реальную пользу ИИ для бизнеса?](https://habr.com/ru/articles/1074132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074132)
+- [Сторож бюджета сработал ровно так, как я его написал. Поэтому за сутки ушло 225 евро при жёстком пороге 150](https://habr.com/ru/articles/1074138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074138)
 <!-- BLOG-POST-LIST:END -->
 
 ---
