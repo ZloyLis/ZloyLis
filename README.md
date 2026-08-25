@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сайты, домены, реклама. Все сроки скоро пройдут, придет пора штрафов и отсутствия клиентов](https://habr.com/ru/articles/1074080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074080)
+- [NORA: лёгкий artifact registry для Kubernetes с карантином свежих пакетов и блокировкой CVE](https://habr.com/ru/articles/1074042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074042)
 - [Двойная точность: в основном «найти и заменить», плюс два настоящих сюрприза](https://habr.com/ru/articles/1074022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074022)
 - [Проблему репетиторства сформулировали в 1984 году. Ответа до сих пор нет](https://habr.com/ru/articles/1074020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074020)
 - [Моё представление об идеальном системном языке программирования](https://habr.com/ru/articles/1071836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071836)
-- [Мой первый KitRover: попытка сделать машинку с управлением по сети &lpar;часть 2&rpar;](https://habr.com/ru/articles/1073998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073998)
-- [Jabbit — фоновые задачи в KMP с API как у WorkManager &lpar;почти&rpar;](https://habr.com/ru/articles/1073906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073906)
 <!-- BLOG-POST-LIST:END -->
 
 ---
