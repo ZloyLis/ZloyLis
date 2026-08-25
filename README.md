@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Заканчиваем с англицизмами в русском языке. Принимаем всем инженерным сообществом термин «вибрировать»](https://habr.com/ru/articles/1074482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074482)
+- [Через гейт без слез: безопасность для живых людей](https://habr.com/ru/companies/avito/articles/1074444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074444)
 - [Значение поменялось, а экран нет: где Vue теряет реактивность и почему это не баг](https://habr.com/ru/companies/otus/articles/1072130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072130)
 - [CheckMateDB в РСХБ: как мы автоматизируем автотесты на Java &lpar;и почему это не заменяет автоматизаторов&rpar;](https://habr.com/ru/companies/rshb/articles/1056990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056990)
 - [Назад в машинный зал: как собрать эмулятор PDP-11/70 с телетайпом, блэкджеком и без Rust](https://habr.com/ru/articles/1074408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074408)
-- [Свежий взгляд на бронирование тайм‑слотов, или как я это сделал на Spring boot, используя пессимистические блокировки](https://habr.com/ru/articles/1074366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074366)
-- [Архитектура 1С без иллюзий: что происходит с системой после внедрения](https://habr.com/ru/companies/infostart/articles/1074332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074332)
 <!-- BLOG-POST-LIST:END -->
 
 ---
