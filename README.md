@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Эпистемическая логика и проблема общего знания. Часть 1](https://habr.com/ru/articles/1074536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074536)
+- [Меня подняли на смех за ответ про VIEW. Я поднял MySQL 8.4 и PostgreSQL 17 и померил](https://habr.com/ru/articles/1074534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074534)
+- [Соревнование замерло 16 августа, а таблица поехала дальше. Разбираю, что из этого настоящее](https://habr.com/ru/articles/1074532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074532)
 - [RAG в медицинской аналитике: как построить управляемый контур вместо очередного чат‑бота](https://habr.com/ru/articles/1074518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074518)
 - [Управляемые корутины в TypeScript: как получить контроль над асинхронностью и памятью. Разбираемся во всех аспектах](https://habr.com/ru/articles/1074510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074510)
-- [17 000 документов, 2000 сотрудников и 450 машин: как мы автоматизировали пропускной режим на Ямале](https://habr.com/ru/articles/1074494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074494)
-- [Через гейт без слез: безопасность для живых людей](https://habr.com/ru/companies/avito/articles/1074444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074444)
-- [Значение поменялось, а экран нет: где Vue теряет реактивность и почему это не баг](https://habr.com/ru/companies/otus/articles/1072130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072130)
 <!-- BLOG-POST-LIST:END -->
 
 ---
