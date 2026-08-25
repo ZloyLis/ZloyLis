@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-ассистент в десктопном EDA: tool-calling, детерминированный роутер и локальный RAG на BGE-M3](https://habr.com/ru/articles/1074298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074298)
-- [Как одноклеточный слизевик спроектировал токийское метро](https://habr.com/ru/articles/1074296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074296)
-- [Что происходит, когда вы открываете сайт в браузере: путь одного запроса](https://habr.com/ru/companies/timeweb/articles/1073860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073860)
-- [Один рендер-стек, два мира: как мы показали layout микросхем в браузере через WebGPU](https://habr.com/ru/articles/1074278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074278)
-- [Когда пригодится резервный поставщик SMS и с чего начать](https://habr.com/ru/articles/1074276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074276)
+- [Выбор Kafka UI: сравнение популярных инструментов для Apache Kafka от VK Data Platform](https://habr.com/ru/companies/vktech/articles/1073986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073986)
+- [Sequence в PlantUML — проще, понятнее, ярче… И стандартнее :&rpar;](https://habr.com/ru/companies/sberbank/articles/1072650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072650)
+- [2,2 МБ против 128 МБ: честный бенчмарк Win32 и Tauri на живом голосовом клиенте](https://habr.com/ru/articles/1074320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074320)
+- [ИИ поступает в ШАД в 2026](https://habr.com/ru/articles/1074182/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074182)
+- [AI Enablement at Scale, часть 1: почему мы начали не с агентов, а с оценки 13 команд](https://habr.com/ru/articles/1074004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074004)
 <!-- BLOG-POST-LIST:END -->
 
 ---
