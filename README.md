@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как меняется корпоративное обучение в 2026 году: от антихрупкости до ИИ](https://habr.com/ru/companies/sportmaster_lab/articles/1074248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074248)
-- [[Перевод] Улучшения Embedded Swift, грядущие в Swift 6.4](https://habr.com/ru/articles/1074236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074236)
-- [Стоит ли писать ТЗ на разработку в 2026 году и зачем](https://habr.com/ru/articles/1074232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074232)
-- [Code, Force, Repeat. Олдскульный GUI для олдскульных скриптов. Часть 2. Действие](https://habr.com/ru/companies/first/articles/1073580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073580)
-- [Слепой поиск новых частиц &lpar;и не только частиц&rpar;: что мы построили и что из этого получилось](https://habr.com/ru/articles/1074208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074208)
+- [AI-ассистент в десктопном EDA: tool-calling, детерминированный роутер и локальный RAG на BGE-M3](https://habr.com/ru/articles/1074298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074298)
+- [Как одноклеточный слизевик спроектировал токийское метро](https://habr.com/ru/articles/1074296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074296)
+- [Что происходит, когда вы открываете сайт в браузере: путь одного запроса](https://habr.com/ru/companies/timeweb/articles/1073860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073860)
+- [Один рендер-стек, два мира: как мы показали layout микросхем в браузере через WebGPU](https://habr.com/ru/articles/1074278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074278)
+- [Когда пригодится резервный поставщик SMS и с чего начать](https://habr.com/ru/articles/1074276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074276)
 <!-- BLOG-POST-LIST:END -->
 
 ---
