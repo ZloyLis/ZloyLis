@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Управляемые корутины в TypeScript: как получить контроль над асинхронностью и памятью. Разбираемся во всех аспектах](https://habr.com/ru/articles/1074510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074510)
 - [17 000 документов, 2000 сотрудников и 450 машин: как мы автоматизировали пропускной режим на Ямале](https://habr.com/ru/articles/1074494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074494)
 - [Заканчиваем с англицизмами в русском языке. Принимаем всем инженерным сообществом термин «вибрировать»](https://habr.com/ru/articles/1074482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074482)
 - [Через гейт без слез: безопасность для живых людей](https://habr.com/ru/companies/avito/articles/1074444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074444)
 - [Значение поменялось, а экран нет: где Vue теряет реактивность и почему это не баг](https://habr.com/ru/companies/otus/articles/1072130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072130)
-- [CheckMateDB в РСХБ: как мы автоматизируем автотесты на Java &lpar;и почему это не заменяет автоматизаторов&rpar;](https://habr.com/ru/companies/rshb/articles/1056990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056990)
 <!-- BLOG-POST-LIST:END -->
 
 ---
