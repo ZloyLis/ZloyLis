@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как меняется корпоративное обучение в 2026 году: от антихрупкости до ИИ](https://habr.com/ru/companies/sportmaster_lab/articles/1074248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074248)
+- [[Перевод] Улучшения Embedded Swift, грядущие в Swift 6.4](https://habr.com/ru/articles/1074236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074236)
+- [Стоит ли писать ТЗ на разработку в 2026 году и зачем](https://habr.com/ru/articles/1074232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074232)
 - [Code, Force, Repeat. Олдскульный GUI для олдскульных скриптов. Часть 2. Действие](https://habr.com/ru/companies/first/articles/1073580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073580)
-- [# Слепой поиск новых частиц &lpar;и не только частиц&rpar;: что мы построили и что из этого получилось](https://habr.com/ru/articles/1074208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074208)
-- [Как перенести навайбкоженный проект в Figma через Claude Code и получить дизайн‑систему](https://habr.com/ru/articles/1074204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074204)
-- [Кто-нибудь читал это до релиза? Как мы ловим ошибки в ИТ-книгах](https://habr.com/ru/companies/oleg-bunin/articles/1073840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073840)
-- [Аналитика Jira без API: считаем Lead Time, CFD и метрики релизов прямо в SQL по базе Postgres](https://habr.com/ru/articles/1074196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074196)
+- [Слепой поиск новых частиц &lpar;и не только частиц&rpar;: что мы построили и что из этого получилось](https://habr.com/ru/articles/1074208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074208)
 <!-- BLOG-POST-LIST:END -->
 
 ---
