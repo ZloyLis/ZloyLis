@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [CheckMateDB в РСХБ: как мы автоматизируем автотесты на Java &lpar;и почему это не заменяет автоматизаторов&rpar;](https://habr.com/ru/companies/rshb/articles/1056990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056990)
+- [Назад в машинный зал: как собрать эмулятор PDP-11/70 с телетайпом, блэкджеком и без Rust](https://habr.com/ru/articles/1074408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074408)
 - [Свежий взгляд на бронирование тайм‑слотов, или как я это сделал на Spring boot, используя пессимистические блокировки](https://habr.com/ru/articles/1074366/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074366)
 - [Архитектура 1С без иллюзий: что происходит с системой после внедрения](https://habr.com/ru/companies/infostart/articles/1074332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074332)
 - [Автофикс проблем прода с ИИ без инженера](https://habr.com/ru/companies/slurm/articles/1073952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073952)
-- [Как оценивать качество LLM, RAG и AI‑агентов: метрики, тестирование и LLM‑as‑a‑Judge](https://habr.com/ru/articles/1074356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074356)
-- [Licensing as Code. Почему мы отказались от ключей активации и лицензионных серверов](https://habr.com/ru/companies/luxms_bi/articles/1074344/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074344)
 <!-- BLOG-POST-LIST:END -->
 
 ---
