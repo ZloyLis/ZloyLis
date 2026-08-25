@@ -35,7 +35,7 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Эпистемическая логика и проблема общего знания. Часть 1](https://habr.com/ru/articles/1074536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074536)
+- [[Перевод] Проблема общего знания. Часть 1](https://habr.com/ru/articles/1074536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074536)
 - [Меня подняли на смех за ответ про VIEW. Я поднял MySQL 8.4 и PostgreSQL 17 и померил](https://habr.com/ru/articles/1074534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074534)
 - [Соревнование замерло 16 августа, а таблица поехала дальше. Разбираю, что из этого настоящее](https://habr.com/ru/articles/1074532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074532)
 - [RAG в медицинской аналитике: как построить управляемый контур вместо очередного чат‑бота](https://habr.com/ru/articles/1074518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074518)
