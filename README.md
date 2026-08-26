@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Дисциплина процессов — это скучно. Поэтому она и нужна агентам](https://habr.com/ru/articles/1074636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074636)
-- [Новых методов обучения нейросетей, которые придуманы тысячелетия назад](https://habr.com/ru/articles/1074630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074630)
-- [[Перевод] Как вывести YAML для Kubernetes в формате KYAML и зачем это может понадобиться](https://habr.com/ru/companies/vktech/articles/1074616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074616)
-- [Масштабирование от 100 до 100 000+ автотестов: архитектура и инструменты](https://habr.com/ru/companies/ozontech/articles/1072880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072880)
-- [Учим ИИ готовить датасеты для BI-конструктора Битрикс24](https://habr.com/ru/companies/bitrix/articles/1074452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074452)
+- [Эволюция архитектора: «от технического писателя до управления сложностью»](https://habr.com/ru/companies/sberbank/articles/1074292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074292)
+- [Oracle → PostgreSQL без даунтайма: как мы перевозили терабайт банковской базы и где всё ломалось](https://habr.com/ru/articles/1074552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074552)
+- [Патерны и антипатерны начинающих руководителей](https://habr.com/ru/articles/1074688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074688)
+- [Не еще один чат-бот: как ИИ-агентов встраивают в корпоративные процессы](https://habr.com/ru/companies/infostart/articles/1074664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074664)
+- [Три негативных ответа ИИ оказались о другой компании: разбор одной ошибки в метрике тональности](https://habr.com/ru/articles/1074654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074654)
 <!-- BLOG-POST-LIST:END -->
 
 ---
