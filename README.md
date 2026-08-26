@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Семь зон IT-риска, которые бизнес обычно игнорирует](https://habr.com/ru/articles/1074886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074886)
+- [410.chat — Одноразовый чат для двоих](https://habr.com/ru/articles/1074872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074872)
+- [Как я, учась в айти, работаю на 15-тонном советском станке и автоматизирую его без CAM‑системы и комментариев](https://habr.com/ru/articles/1074868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074868)
+- [FlautGuard: как мы построили многоуровневую защиту LLM от prompt injection и утечек данных](https://habr.com/ru/articles/1074854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074854)
 - [[Перевод] Структуры данных на практике. Глава 20: Исследование бенчмарков](https://habr.com/ru/articles/1070946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070946)
-- [От чата вместо форм до разработки без конфигуратора: что меняется в экосистеме 1С](https://habr.com/ru/companies/infostart/articles/1074784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074784)
-- [Почему ML-модель получает неправильные признаки: Event Time, Watermarks и Apache Flink](https://habr.com/ru/articles/1074822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074822)
-- [Когда Chisel уже недостаточно: создаем свой фреймворк аппаратного тестирования на Verilator](https://habr.com/ru/companies/yadro/articles/1074380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074380)
-- [Проверка теории улучшения результата LoRA файн‑тюнинга на «умных» слоях](https://habr.com/ru/articles/1074796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074796)
 <!-- BLOG-POST-LIST:END -->
 
 ---
