@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Двадцать третий пуш в 02:40: как MFA-усталость выглядит в логах и почему number matching реально помогает](https://habr.com/ru/articles/1074610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074610)
-- [[Перевод] Почему реки так математичны?](https://habr.com/ru/articles/1074458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074458)
-- [Рецензия на книгу «Асинхронный Kotlin»](https://habr.com/ru/companies/ssp-soft/articles/1073574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073574)
-- [Бенто-тест, который проваливают агенты — стресс-тест для интерфейса в японском стиле](https://habr.com/ru/articles/1073312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073312)
-- [Redis — история одного падения](https://habr.com/ru/companies/hh/articles/1074194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074194)
+- [[Перевод] Дисциплина процессов — это скучно. Поэтому она и нужна агентам](https://habr.com/ru/articles/1074636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074636)
+- [Новых методов обучения нейросетей, которые придуманы тысячелетия назад](https://habr.com/ru/articles/1074630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074630)
+- [[Перевод] Как вывести YAML для Kubernetes в формате KYAML и зачем это может понадобиться](https://habr.com/ru/companies/vktech/articles/1074616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074616)
+- [Масштабирование от 100 до 100 000+ автотестов: архитектура и инструменты](https://habr.com/ru/companies/ozontech/articles/1072880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072880)
+- [Учим ИИ готовить датасеты для BI-конструктора Битрикс24](https://habr.com/ru/companies/bitrix/articles/1074452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074452)
 <!-- BLOG-POST-LIST:END -->
 
 ---
