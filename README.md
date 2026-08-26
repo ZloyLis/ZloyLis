@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Структуры данных на практике. Глава 20: Исследование бенчмарков](https://habr.com/ru/articles/1070946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070946)
+- [От чата вместо форм до разработки без конфигуратора: что меняется в экосистеме 1С](https://habr.com/ru/companies/infostart/articles/1074784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074784)
+- [Почему ML-модель получает неправильные признаки: Event Time, Watermarks и Apache Flink](https://habr.com/ru/articles/1074822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074822)
 - [Когда Chisel уже недостаточно: создаем свой фреймворк аппаратного тестирования на Verilator](https://habr.com/ru/companies/yadro/articles/1074380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074380)
 - [Проверка теории улучшения результата LoRA файн‑тюнинга на «умных» слоях](https://habr.com/ru/articles/1074796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074796)
-- [«Я родился!» или Первые CSPU-релизы Axiom JDK и Axiom NIK Pro](https://habr.com/ru/companies/axiomjdk/articles/1074760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074760)
-- [Принципы умной оптимизации: как HRD адаптироваться к требованиям бизнеса в 2026 году](https://habr.com/ru/companies/directum/articles/1074748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074748)
-- [Граф переписки: как поймать поддельного контрагента, когда все проверки письма проходят](https://habr.com/ru/articles/1074770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074770)
 <!-- BLOG-POST-LIST:END -->
 
 ---
