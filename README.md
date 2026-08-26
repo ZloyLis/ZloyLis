@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Бенто-тест, который проваливают агенты — стресс-тест для интерфейса в японском стиле](https://habr.com/ru/articles/1073312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073312)
 - [Redis — история одного падения](https://habr.com/ru/companies/hh/articles/1074194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074194)
 - [Два сервера дома: аварийная инфраструктура на списанном железе](https://habr.com/ru/articles/1074564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074564)
 - [SSO под другим углом](https://habr.com/ru/articles/1074438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074438)
 - [Как вернуть радость простого программирования: пишем игру для терминала на Python](https://habr.com/ru/companies/yandex_praktikum/articles/1068624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068624)
-- [[Перевод] Проблема общего знания. Часть 1](https://habr.com/ru/articles/1074536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074536)
 <!-- BLOG-POST-LIST:END -->
 
 ---
