@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как вернуть радость простого программирования: пишем игру для терминала на Python](https://habr.com/ru/companies/yandex_praktikum/articles/1068624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068624)
 - [[Перевод] Проблема общего знания. Часть 1](https://habr.com/ru/articles/1074536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074536)
 - [Меня подняли на смех за ответ про VIEW. Я поднял MySQL 8.4 и PostgreSQL 17 и померил](https://habr.com/ru/articles/1074534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074534)
 - [Соревнование замерло 16 августа, а таблица поехала дальше. Разбираю, что из этого настоящее](https://habr.com/ru/articles/1074532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074532)
 - [RAG в медицинской аналитике: как построить управляемый контур вместо очередного чат‑бота](https://habr.com/ru/articles/1074518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074518)
-- [Управляемые корутины в TypeScript: как получить контроль над асинхронностью и памятью. Разбираемся во всех аспектах](https://habr.com/ru/articles/1074510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074510)
 <!-- BLOG-POST-LIST:END -->
 
 ---
