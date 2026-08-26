@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Помогите, FLAKY](https://habr.com/ru/companies/2gis/articles/1074116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074116)
-- [Self-hosted вместо подписок: асинхронная очередь для ИИ-агента на n8n и Redis](https://habr.com/ru/articles/1074734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074734)
-- [Заголовки товарной кампании Директа — это теги YML-фида: прослойка на Node вместо правки сайта](https://habr.com/ru/articles/1074716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074716)
-- [Провожу тест‑драйв GigaChat Audio в рабочих условиях](https://habr.com/ru/specials/1072222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072222)
-- [Эволюция архитектора: «от технического писателя до управления сложностью»](https://habr.com/ru/companies/sberbank/articles/1074292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074292)
+- [Принципы умной оптимизации: как HRD адаптироваться к требованиям бизнеса в 2026 году](https://habr.com/ru/companies/directum/articles/1074748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074748)
+- [Граф переписки: как поймать поддельного контрагента, когда все проверки письма проходят](https://habr.com/ru/articles/1074770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074770)
+- [Из Java во Flutter: я написала мобильное MVP и вот что поняла](https://habr.com/ru/companies/banki/articles/1074432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074432)
+- [Harness engineering: контроль правил агента и где ломается](https://habr.com/ru/articles/1074764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074764)
+- [Как и сколько зарабатывают в Базе знаний Инфостарт: кейсы реальных авторов](https://habr.com/ru/companies/infostart/articles/1074672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074672)
 <!-- BLOG-POST-LIST:END -->
 
 ---
