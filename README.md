@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [AWG-Easy 3: как с помощью вайб-кода сделал простую панель для AmneziaWG 3.x](https://habr.com/ru/articles/1074986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074986)
+- [Как мы за год снизили зависимость от наставников и ускорили адаптацию аналитиков](https://habr.com/ru/companies/tbank/articles/1074724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074724)
+- [redb 3.7.1: поиск по props быстрее до 100 раз. Альтернатива EF Core или дополнение к нему](https://habr.com/ru/articles/1074984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074984)
 - [Rokid Glasses RV101: зачем программисту очки, в которые можно залезть с кодом](https://habr.com/ru/articles/1074960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074960)
 - [SVG: почему иконка получает не тот размер](https://habr.com/ru/articles/1074956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074956)
-- [Как дизайнеру понять, что его вайб‑код не мусор: веб‑версия моей настолки с середины пути](https://habr.com/ru/articles/1073538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073538)
-- [«У меня ничего не грузится». Как я пришёл к приложению для диагностики сети](https://habr.com/ru/articles/1074940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074940)
-- [ChromaDB Manager [macos] — графический интерфейс для построения локальных RAG](https://habr.com/ru/articles/1074938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074938)
 <!-- BLOG-POST-LIST:END -->
 
 ---
