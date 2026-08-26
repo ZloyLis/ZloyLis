@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Семь зон IT-риска, которые бизнес обычно игнорирует](https://habr.com/ru/articles/1074886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074886)
-- [410.chat — Одноразовый чат для двоих](https://habr.com/ru/articles/1074872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074872)
-- [Как я, учась в айти, работаю на 15-тонном советском станке и автоматизирую его без CAM‑системы и комментариев](https://habr.com/ru/articles/1074868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074868)
-- [FlautGuard: как мы построили многоуровневую защиту LLM от prompt injection и утечек данных](https://habr.com/ru/articles/1074854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074854)
-- [[Перевод] Структуры данных на практике. Глава 20: Исследование бенчмарков](https://habr.com/ru/articles/1070946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070946)
+- [Rokid Glasses RV101: зачем программисту очки, в которые можно залезть с кодом](https://habr.com/ru/articles/1074960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074960)
+- [SVG: почему иконка получает не тот размер](https://habr.com/ru/articles/1074956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074956)
+- [Как дизайнеру понять, что его вайб‑код не мусор: веб‑версия моей настолки с середины пути](https://habr.com/ru/articles/1073538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073538)
+- [«У меня ничего не грузится». Как я пришёл к приложению для диагностики сети](https://habr.com/ru/articles/1074940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074940)
+- [ChromaDB Manager [macos] — графический интерфейс для построения локальных RAG](https://habr.com/ru/articles/1074938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074938)
 <!-- BLOG-POST-LIST:END -->
 
 ---
