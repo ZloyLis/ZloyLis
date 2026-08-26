@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Помогите, FLAKY](https://habr.com/ru/companies/2gis/articles/1074116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074116)
+- [Self-hosted вместо подписок: асинхронная очередь для ИИ-агента на n8n и Redis](https://habr.com/ru/articles/1074734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074734)
+- [Заголовки товарной кампании Директа — это теги YML-фида: прослойка на Node вместо правки сайта](https://habr.com/ru/articles/1074716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074716)
+- [Провожу тест‑драйв GigaChat Audio в рабочих условиях](https://habr.com/ru/specials/1072222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072222)
 - [Эволюция архитектора: «от технического писателя до управления сложностью»](https://habr.com/ru/companies/sberbank/articles/1074292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074292)
-- [Oracle → PostgreSQL без даунтайма: как мы перевозили терабайт банковской базы и где всё ломалось](https://habr.com/ru/articles/1074552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074552)
-- [Патерны и антипатерны начинающих руководителей](https://habr.com/ru/articles/1074688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074688)
-- [Не еще один чат-бот: как ИИ-агентов встраивают в корпоративные процессы](https://habr.com/ru/companies/infostart/articles/1074664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074664)
-- [Три негативных ответа ИИ оказались о другой компании: разбор одной ошибки в метрике тональности](https://habr.com/ru/articles/1074654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074654)
 <!-- BLOG-POST-LIST:END -->
 
 ---
