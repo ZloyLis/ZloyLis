@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Школьный класс — не модель общества. Это случайный набор ровесников с соседних улиц](https://habr.com/ru/articles/1075042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075042)
-- [Базовые модели надежности отказоустойчивого кластера](https://habr.com/ru/articles/1075024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075024)
-- [AWG-Easy 3: как с помощью вайб-кода сделал простую панель для AmneziaWG 3.x](https://habr.com/ru/articles/1074986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074986)
-- [Как мы за год снизили зависимость от наставников и ускорили адаптацию аналитиков](https://habr.com/ru/companies/tbank/articles/1074724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074724)
-- [redb 3.7.1: поиск по props быстрее до 100 раз. Альтернатива EF Core или дополнение к нему](https://habr.com/ru/articles/1074984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074984)
+- [Анатомия HurriCache](https://habr.com/ru/articles/1075428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075428)
+- [Автопочинка чинила объявление, которого уже не было в фиде](https://habr.com/ru/articles/1075426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075426)
+- [Клиент попросил удалить свои данные, вы сделали DELETE. Данные остались в файле](https://habr.com/ru/articles/1075420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075420)
+- [[Перевод] От разовых запросов к повторно используемым ИИ-флоу в QA](https://habr.com/ru/articles/1075414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075414)
+- [Postgresso 7-8 &lpar;92-93&rpar;](https://habr.com/ru/companies/postgrespro/articles/1053412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053412)
 <!-- BLOG-POST-LIST:END -->
 
 ---
