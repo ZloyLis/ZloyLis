@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Анатомия HurriCache](https://habr.com/ru/articles/1075428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075428)
-- [Автопочинка чинила объявление, которого уже не было в фиде](https://habr.com/ru/articles/1075426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075426)
-- [Клиент попросил удалить свои данные, вы сделали DELETE. Данные остались в файле](https://habr.com/ru/articles/1075420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075420)
-- [[Перевод] От разовых запросов к повторно используемым ИИ-флоу в QA](https://habr.com/ru/articles/1075414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075414)
-- [Postgresso 7-8 &lpar;92-93&rpar;](https://habr.com/ru/companies/postgrespro/articles/1053412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1053412)
+- [У моего героя нет здоровья, ключей и очков. Есть масса, и это всё сразу](https://habr.com/ru/articles/1075536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075536)
+- [[Перевод] Убедительный экспериментальный намёк на квантовую природу гравитации](https://habr.com/ru/articles/1075516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075516)
+- [Робот написал одному человеку пять раз. Виноват оказался знак доллара](https://habr.com/ru/articles/1075508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075508)
+- [Как я написал простой HTML-сайт, который избавляет от ручного поиска и конвертации бренд-иконок](https://habr.com/ru/articles/1075490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075490)
+- [Ленивый LINQ: разбираем yield и ленивые вычисления по кирпичикам. Часть 2](https://habr.com/ru/articles/1075482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075482)
 <!-- BLOG-POST-LIST:END -->
 
 ---
