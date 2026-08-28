@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Калькулятор плитки научился ёлочке и плану всей квартиры — что поменялось за месяц](https://habr.com/ru/articles/1075904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075904)
-- [Компилятор удалил вашу проверку на переполнение. И он прав](https://habr.com/ru/companies/otus/articles/1072096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072096)
-- [Автогенерация типов показала, что проблема была не в типах](https://habr.com/ru/articles/1075808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075808)
-- [Подмена страницы интернет-банка First Partner Bank на Standoff 365](https://habr.com/ru/companies/pt/articles/1074454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074454)
-- [Статистика в отделе маркетинга. Квалификация лидов и биномиальный эксперимент](https://habr.com/ru/articles/1075798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075798)
+- [Как найти настоящую &lpar;его&rpar; гуся или задачу в уже работающем продукте: разбор EVRTCK после возвращения в EvertyDesk](https://habr.com/ru/articles/1076032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076032)
+- [Yet Another English — и да, ещё один сайт по изучению английского, ну че поделать?](https://habr.com/ru/articles/1076020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076020)
+- [А раньше деньги были](https://habr.com/ru/articles/1076008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076008)
+- [PostgreSQL Recovery на пальцах: WAL, base_backup и PITR в Docker-compose](https://habr.com/ru/articles/1076002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076002)
+- [SOAP в .NET без WCF: WS-Security, MTOM и ?wsdl как шаг маршрута](https://habr.com/ru/articles/1075966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075966)
 <!-- BLOG-POST-LIST:END -->
 
 ---
