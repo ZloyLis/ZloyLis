@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [У моего героя нет здоровья, ключей и очков. Есть масса, и это всё сразу](https://habr.com/ru/articles/1075536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075536)
-- [[Перевод] Убедительный экспериментальный намёк на квантовую природу гравитации](https://habr.com/ru/articles/1075516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075516)
-- [Робот написал одному человеку пять раз. Виноват оказался знак доллара](https://habr.com/ru/articles/1075508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075508)
-- [Как я написал простой HTML-сайт, который избавляет от ручного поиска и конвертации бренд-иконок](https://habr.com/ru/articles/1075490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075490)
-- [Ленивый LINQ: разбираем yield и ленивые вычисления по кирпичикам. Часть 2](https://habr.com/ru/articles/1075482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075482)
+- [Калькулятор плитки научился ёлочке и плану всей квартиры — что поменялось за месяц](https://habr.com/ru/articles/1075904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075904)
+- [Компилятор удалил вашу проверку на переполнение. И он прав](https://habr.com/ru/companies/otus/articles/1072096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072096)
+- [Автогенерация типов показала, что проблема была не в типах](https://habr.com/ru/articles/1075808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075808)
+- [Подмена страницы интернет-банка First Partner Bank на Standoff 365](https://habr.com/ru/companies/pt/articles/1074454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074454)
+- [Статистика в отделе маркетинга. Квалификация лидов и биномиальный эксперимент](https://habr.com/ru/articles/1075798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075798)
 <!-- BLOG-POST-LIST:END -->
 
 ---
