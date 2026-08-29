@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Часть 2. Бан ещё не модерация: как описать цифровые санкции как предметную область](https://habr.com/ru/articles/1076228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076228)
+- [Location King: геогессер на спутниковых снимках](https://habr.com/ru/articles/1076220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076220)
 - [Пассивный пространственный преобразователь: может ли форма полости кодировать волновую сцену?](https://habr.com/ru/articles/1076210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076210)
-- [Часть 1. Антропология цифровой казни: что мы выключаем, когда требуем удалить аккаунт?](https://habr.com/ru/articles/1076214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076214)
 - [Claude, GPT, Qwen, DeepSeek, GigaChat и YandexGPT: какая LLM лучше подходит для создания алго-трейдинг бота](https://habr.com/ru/articles/1076212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076212)
 - [Из генерации — в переписку: доводим ответ ИИ‑агента до клиента и CRM на n8n](https://habr.com/ru/articles/1076198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076198)
-- [Как Mojang кинула свою же игру?](https://habr.com/ru/articles/1076186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076186)
 <!-- BLOG-POST-LIST:END -->
 
 ---
