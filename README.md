@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как не подарить полный продукт вузу, заводу без интернета и торренту](https://habr.com/ru/articles/1076122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076122)
-- [[Перевод] «Я знаю, что ты не знаешь»: три задачи о спрятанном призе](https://habr.com/ru/articles/1076120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076120)
-- [Шесть миллиардов прогонов ради одной галочки: как устроено ревью научного софта на GitHub](https://habr.com/ru/articles/1076116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076116)
-- [«С вами работает наша команда». А если это не так?](https://habr.com/ru/articles/1076114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076114)
-- [Распилили монолит на 6 сервисов — и случайно собрали распределённый монолит: где мы ошиблись с границами](https://habr.com/ru/articles/1076092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076092)
+- [Как Mojang кинула свою же игру?](https://habr.com/ru/articles/1076186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076186)
+- [Мой первый KitRover: попытка сделать машинку с управлением по сети &lpar;часть 3&rpar;](https://habr.com/ru/articles/1076184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076184)
+- [Какая LLM поможет вам заработать в 2026/27 году](https://habr.com/ru/articles/1070596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070596)
+- [Как интеграционная платформа &lpar;ESB&rpar; превращает цифровую имитацию в реальную трансформацию](https://habr.com/ru/articles/1076160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076160)
+- [Пишем свой React: Fiber, хуки и рендеринг под капотом](https://habr.com/ru/articles/1076158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076158)
 <!-- BLOG-POST-LIST:END -->
 
 ---
