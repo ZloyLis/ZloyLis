@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Должен был платить за объектное хранилище 25 рублей, которые превратились в 42000 рублей](https://habr.com/ru/articles/1076040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076040)
 - [Как найти настоящую &lpar;его&rpar; гуся или задачу в уже работающем продукте: разбор EVRTCK после возвращения в EvertyDesk](https://habr.com/ru/articles/1076032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076032)
 - [Yet Another English — и да, ещё один сайт по изучению английского, ну че поделать?](https://habr.com/ru/articles/1076020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076020)
 - [А раньше деньги были](https://habr.com/ru/articles/1076008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076008)
 - [PostgreSQL Recovery на пальцах: WAL, base_backup и PITR в Docker-compose](https://habr.com/ru/articles/1076002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076002)
-- [SOAP в .NET без WCF: WS-Security, MTOM и ?wsdl как шаг маршрута](https://habr.com/ru/articles/1075966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075966)
 <!-- BLOG-POST-LIST:END -->
 
 ---
