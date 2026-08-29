@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Должен был платить за объектное хранилище 25 рублей, которые превратились в 42000 рублей](https://habr.com/ru/articles/1076040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076040)
-- [Как найти настоящую &lpar;его&rpar; гуся или задачу в уже работающем продукте: разбор EVRTCK после возвращения в EvertyDesk](https://habr.com/ru/articles/1076032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076032)
-- [Yet Another English — и да, ещё один сайт по изучению английского, ну че поделать?](https://habr.com/ru/articles/1076020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076020)
-- [А раньше деньги были](https://habr.com/ru/articles/1076008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076008)
-- [PostgreSQL Recovery на пальцах: WAL, base_backup и PITR в Docker-compose](https://habr.com/ru/articles/1076002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076002)
+- [Как не подарить полный продукт вузу, заводу без интернета и торренту](https://habr.com/ru/articles/1076122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076122)
+- [[Перевод] «Я знаю, что ты не знаешь»: три задачи о спрятанном призе](https://habr.com/ru/articles/1076120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076120)
+- [Шесть миллиардов прогонов ради одной галочки: как устроено ревью научного софта на GitHub](https://habr.com/ru/articles/1076116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076116)
+- [«С вами работает наша команда». А если это не так?](https://habr.com/ru/articles/1076114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076114)
+- [Распилили монолит на 6 сервисов — и случайно собрали распределённый монолит: где мы ошиблись с границами](https://habr.com/ru/articles/1076092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076092)
 <!-- BLOG-POST-LIST:END -->
 
 ---
