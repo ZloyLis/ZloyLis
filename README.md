@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как Mojang кинула свою же игру?](https://habr.com/ru/articles/1076186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076186)
-- [Мой первый KitRover: попытка сделать машинку с управлением по сети &lpar;часть 3&rpar;](https://habr.com/ru/articles/1076184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076184)
-- [Какая LLM поможет вам заработать в 2026/27 году](https://habr.com/ru/articles/1070596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070596)
-- [Как интеграционная платформа &lpar;ESB&rpar; превращает цифровую имитацию в реальную трансформацию](https://habr.com/ru/articles/1076160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076160)
-- [Пишем свой React: Fiber, хуки и рендеринг под капотом](https://habr.com/ru/articles/1076158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076158)
+- [Пассивный пространственный преобразователь: может ли форма полости кодировать волновую сцену?](https://habr.com/ru/articles/1076210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076210)
+- [Часть 1. Антропология цифровой казни: что мы выключаем, когда требуем удалить аккаунт?](https://habr.com/ru/articles/1076214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076214)
+- [Claude, GPT, Qwen, DeepSeek, GigaChat и YandexGPT: какая LLM лучше подходит для создания алго-трейдинг бота](https://habr.com/ru/articles/1076212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076212)
+- [Из генерации — в переписку: доводим ответ ИИ‑агента до клиента и CRM на n8n](https://habr.com/ru/articles/1076198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076198)
+- [Как Mojang кинула свою же игру?](https://habr.com/ru/articles/1076186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076186)
 <!-- BLOG-POST-LIST:END -->
 
 ---
