@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Создаём DSL на C#: LSP и поддержка в Visual Studio](https://habr.com/ru/articles/1075978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075978)
-- [Часть 2. Бан ещё не модерация: как описать цифровые санкции как предметную область](https://habr.com/ru/articles/1076228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076228)
-- [Location King: геогессер на спутниковых снимках](https://habr.com/ru/articles/1076220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076220)
-- [Пассивный пространственный преобразователь: может ли форма полости кодировать волновую сцену?](https://habr.com/ru/articles/1076210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076210)
-- [Claude, GPT, Qwen, DeepSeek, GigaChat и YandexGPT: какая LLM лучше подходит для создания алго-трейдинг бота](https://habr.com/ru/articles/1076212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076212)
+- [[Перевод] VideoFloppy: пять лет, десять пользователей, один доллар](https://habr.com/ru/articles/1076350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076350)
+- [Влияние кэша L4 i7-5775C на производительность в Minecraft: Java Edition в воспроизводимых серверных тестах](https://habr.com/ru/articles/1076340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076340)
+- [Мобильная разработка за неделю #645 &lpar;24 — 30 августа&rpar;](https://habr.com/ru/articles/1076326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076326)
+- [GPT Сгенерировал картинку игры, пытаюсь ее разработать. Часть 2](https://habr.com/ru/articles/1076098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076098)
+- [Ошибки ценою в миллионы: как не попасть под штраф за некорректную работу с персональными данными](https://habr.com/ru/articles/1076288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076288)
 <!-- BLOG-POST-LIST:END -->
 
 ---
