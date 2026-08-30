@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Долго запускается qt creator, долго переходит между вкладками &lpar;проект, отладка, редактор&rpar;, не работает масштабирование](https://habr.com/ru/articles/1076390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076390)
 - [[Перевод] VideoFloppy: пять лет, десять пользователей, один доллар](https://habr.com/ru/articles/1076350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076350)
 - [Влияние кэша L4 i7-5775C на производительность в Minecraft: Java Edition в воспроизводимых серверных тестах](https://habr.com/ru/articles/1076340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076340)
 - [Мобильная разработка за неделю #645 &lpar;24 — 30 августа&rpar;](https://habr.com/ru/articles/1076326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076326)
 - [GPT Сгенерировал картинку игры, пытаюсь ее разработать. Часть 2](https://habr.com/ru/articles/1076098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076098)
-- [Ошибки ценою в миллионы: как не попасть под штраф за некорректную работу с персональными данными](https://habr.com/ru/articles/1076288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076288)
 <!-- BLOG-POST-LIST:END -->
 
 ---
