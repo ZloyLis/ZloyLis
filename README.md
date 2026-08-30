@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Спустя год разработки приложения для изучения слов и фраз я наконец нащупал его главную концепцию](https://habr.com/ru/articles/1076372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076372)
-- [[Перевод] Работа Рудольфа Клаузиуса, в которой впервые введено понятие энтропии](https://habr.com/ru/articles/1076208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076208)
-- [Непротиворечивая классификация IoC](https://habr.com/ru/articles/1076226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076226)
-- [Долго запускается qt creator, долго переходит между вкладками &lpar;проект, отладка, редактор&rpar;, не работает масштабирование](https://habr.com/ru/articles/1076390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076390)
-- [[Перевод] VideoFloppy: пять лет, десять пользователей, один доллар](https://habr.com/ru/articles/1076350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076350)
+- [IMLE: неявное оценивание максимального правдоподобия](https://habr.com/ru/articles/1076488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076488)
+- [Превратил весь ML-пайплайн в единый вычислительный граф и ни о чём не жалею](https://habr.com/ru/articles/1074792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074792)
+- [Почему мне больше не весело делать игры](https://habr.com/ru/companies/ispsystem/articles/1076478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076478)
+- [Спустя год разработки приложения для изучения иностранных слов — я наконец нащупал его главную концепцию](https://habr.com/ru/articles/1076372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076372)
+- [[Перевод] Работа Рудольфа Клаузиуса, в которой впервые введено понятие энтропии](https://habr.com/ru/articles/1076208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076208)
 <!-- BLOG-POST-LIST:END -->
 
 ---
