@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Создаём DSL на C#: LSP и поддержка в Visual Studio](https://habr.com/ru/articles/1075978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075978)
 - [Часть 2. Бан ещё не модерация: как описать цифровые санкции как предметную область](https://habr.com/ru/articles/1076228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076228)
 - [Location King: геогессер на спутниковых снимках](https://habr.com/ru/articles/1076220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076220)
 - [Пассивный пространственный преобразователь: может ли форма полости кодировать волновую сцену?](https://habr.com/ru/articles/1076210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076210)
 - [Claude, GPT, Qwen, DeepSeek, GigaChat и YandexGPT: какая LLM лучше подходит для создания алго-трейдинг бота](https://habr.com/ru/articles/1076212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076212)
-- [Из генерации — в переписку: доводим ответ ИИ‑агента до клиента и CRM на n8n](https://habr.com/ru/articles/1076198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076198)
 <!-- BLOG-POST-LIST:END -->
 
 ---
