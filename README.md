@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Фреймворк WebDesktopGL для запуска веб-сайтов как десктопных приложений в Astra Linux и Linux системах. Через Chromium](https://habr.com/ru/articles/1073994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073994)
+- [Alpha канал и конвертация изображений в пиксельный формат ARGB. Конвертация форматов gif, webp, mov, mp4, png через Bash](https://habr.com/ru/articles/1073540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073540)
+- [Управление окнами в Linux через libx11&lpar;X11/Xlib.h&rpar; + Утилита для управления окнами в Linux дистрибутивах X11 и wayland](https://habr.com/ru/articles/1073486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073486)
 - [IMLE: неявное оценивание максимального правдоподобия](https://habr.com/ru/articles/1076488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076488)
 - [Превратил весь ML-пайплайн в единый вычислительный граф и ни о чём не жалею](https://habr.com/ru/articles/1074792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074792)
-- [Почему мне больше не весело делать игры](https://habr.com/ru/companies/ispsystem/articles/1076478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076478)
-- [Спустя год разработки приложения для изучения иностранных слов — я наконец нащупал его главную концепцию](https://habr.com/ru/articles/1076372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076372)
-- [[Перевод] Работа Рудольфа Клаузиуса, в которой впервые введено понятие энтропии](https://habr.com/ru/articles/1076208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076208)
 <!-- BLOG-POST-LIST:END -->
 
 ---
