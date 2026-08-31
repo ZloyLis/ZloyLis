@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [vm5277: Java-синтаксис и ООП для 8-бит МК без оверхеда](https://habr.com/ru/articles/1076668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076668)
-- [Утёкшие горутины теперь ищет сборщик мусора. Проверил, где он молчит](https://habr.com/ru/articles/1076654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076654)
-- [Миллион частиц на iPhone: строим аттрактор Лоренца на GPU с Metal](https://habr.com/ru/companies/codesrc_it/articles/1075402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075402)
-- [Не хамите чат-ботам: ИИ умеет злиться, но не так, как люди](https://habr.com/ru/companies/ru_mts/articles/1075908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075908)
-- [Фоновая вкладка Chrome душит таймеры в десять раз. Мы это заметили только на замере](https://habr.com/ru/articles/1076590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076590)
+- [[Перевод] ИИ использовали для проверки самого сложного на сегодняшний день математического доказательства](https://habr.com/ru/articles/1076902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076902)
+- [Микросервисы на.NET без своей платформы: кластер воркеров, общий дашборд и горячая замена модулей](https://habr.com/ru/articles/1076910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076910)
+- [[Перевод] Лучшие практики управления конфигурацией в Spring Boot](https://habr.com/ru/companies/spring_aio/articles/1076862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076862)
+- [Локальная LLM миграция Vertica2Trino. Как довести до рабочего состояния, если модель не тянет](https://habr.com/ru/companies/avito/articles/1075942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075942)
+- [Как мы победили рутину: строим spec-driven платформу для генерации email](https://habr.com/ru/companies/yoomoney/articles/1076874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076874)
 <!-- BLOG-POST-LIST:END -->
 
 ---
