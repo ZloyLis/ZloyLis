@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] «Я знаю, что ты не знаешь»: задача про голубоглазых островитян](https://habr.com/ru/articles/1076964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076964)
+- [Универсальное логирование HTTP-запросов в Spring Boot с помощью AOP](https://habr.com/ru/companies/alfastrah/articles/1076956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076956)
+- [Фибоначь врагов](https://habr.com/ru/articles/1076886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076886)
+- [Ваша Kubernetes-платформа всё ещё держится на nginx.ingress.kubernetes.io/*? У меня плохие новости](https://habr.com/ru/articles/1076928/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076928)
 - [[Перевод] ИИ использовали для проверки самого сложного на сегодняшний день математического доказательства](https://habr.com/ru/articles/1076902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076902)
-- [Микросервисы на.NET без своей платформы: кластер воркеров, общий дашборд и горячая замена модулей](https://habr.com/ru/articles/1076910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076910)
-- [[Перевод] Лучшие практики управления конфигурацией в Spring Boot](https://habr.com/ru/companies/spring_aio/articles/1076862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076862)
-- [Локальная LLM миграция Vertica2Trino. Как довести до рабочего состояния, если модель не тянет](https://habr.com/ru/companies/avito/articles/1075942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075942)
-- [Как мы победили рутину: строим spec-driven платформу для генерации email](https://habr.com/ru/companies/yoomoney/articles/1076874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076874)
 <!-- BLOG-POST-LIST:END -->
 
 ---
