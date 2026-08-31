@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Фреймворк WebDesktopGL для запуска веб-сайтов как десктопных приложений в Astra Linux и Linux системах. Через Chromium](https://habr.com/ru/articles/1073994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073994)
-- [Alpha канал и конвертация изображений в пиксельный формат ARGB. Конвертация форматов gif, webp, mov, mp4, png через Bash](https://habr.com/ru/articles/1073540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073540)
-- [Управление окнами в Linux через libx11&lpar;X11/Xlib.h&rpar; + Утилита для управления окнами в Linux дистрибутивах X11 и wayland](https://habr.com/ru/articles/1073486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073486)
-- [IMLE: неявное оценивание максимального правдоподобия](https://habr.com/ru/articles/1076488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076488)
-- [Превратил весь ML-пайплайн в единый вычислительный граф и ни о чём не жалею](https://habr.com/ru/articles/1074792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074792)
+- [vm5277: Java-синтаксис и ООП для 8-бит МК без оверхеда](https://habr.com/ru/articles/1076668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076668)
+- [Утёкшие горутины теперь ищет сборщик мусора. Проверил, где он молчит](https://habr.com/ru/articles/1076654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076654)
+- [Миллион частиц на iPhone: строим аттрактор Лоренца на GPU с Metal](https://habr.com/ru/companies/codesrc_it/articles/1075402/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075402)
+- [Не хамите чат-ботам: ИИ умеет злиться, но не так, как люди](https://habr.com/ru/companies/ru_mts/articles/1075908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075908)
+- [Фоновая вкладка Chrome душит таймеры в десять раз. Мы это заметили только на замере](https://habr.com/ru/articles/1076590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076590)
 <!-- BLOG-POST-LIST:END -->
 
 ---
