@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Аналитика начинается не с дашборда: как понять, какое решение должен поддерживать отчёт](https://habr.com/ru/articles/1076978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076978)
-- [[Перевод] Кто на самом деле управляет вашей Cloud Native-платформой: архитектура из нескольких плоскостей](https://habr.com/ru/companies/vktech/articles/1077072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077072)
-- [Назад в машинный зал: как собрать эмулятор PDP-11/70 с телетайпом, блэкджеком и без Rust — где я схалтурил](https://habr.com/ru/articles/1075948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075948)
-- [Пакуем PHP в PHP, чтобы запаковать в JS, чтобы обернуть в HTML](https://habr.com/ru/articles/1077060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077060)
-- [Обработка сделок в реальном времени: как мы переехали с batch-обработки на Kafka Streams](https://habr.com/ru/companies/rshb/articles/1077066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077066)
+- [Будущее приложений — без приложений](https://habr.com/ru/companies/sberbank/articles/1077268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077268)
+- [320 348 строк за 98 дней: что на самом деле меняется, когда у инженера появляется исполнитель](https://habr.com/ru/articles/1077270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077270)
+- [Ускоряем eMMC в 5 раз для процессора AllWinner H6 на примере Repka Pi 4](https://habr.com/ru/articles/1046748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046748)
+- [TUI-агент включает alt-буфер один раз за сессию. Через 256 КБ вывода это ломает терминал](https://habr.com/ru/articles/1077252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077252)
+- [Проверка исходников VSCode](https://habr.com/ru/companies/pvs-studio/articles/1077246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077246)
 <!-- BLOG-POST-LIST:END -->
 
 ---
