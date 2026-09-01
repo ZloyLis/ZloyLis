@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я случайно напечатал инфляцию в Discord‑боте и переделал ставки в тотализатор](https://habr.com/ru/articles/1077434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077434)
 - [Кто вырастит будущих сеньоров, если код теперь пишет AI?](https://habr.com/ru/articles/1077426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077426)
 - [Вы выбираете не решение. Вы выбираете его будущие проблемы](https://habr.com/ru/articles/1077396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077396)
 - [Свет в конце пайплайна: 3D-движок на чистом Dart &lpar;+gpu&rpar;](https://habr.com/ru/articles/1077334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077334)
 - [[Перевод] DuckDB перерос своё гнездо](https://habr.com/ru/articles/1077408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077408)
-- [Инструкция по устранению нарушений по персональным данным на сайте](https://habr.com/ru/articles/1077394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077394)
 <!-- BLOG-POST-LIST:END -->
 
 ---
