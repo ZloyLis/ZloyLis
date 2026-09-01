@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [OPERATION MOONLIGHT 1.0.0: курс языка C, который я сам себе собрал](https://habr.com/ru/articles/1077372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077372)
-- [Кроссплатформенный мониторинг аппаратных ресурсов на C++ и Python: библиотека hardware_monitor_cpp](https://habr.com/ru/articles/1077310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077310)
-- [Задача в проекте оказалась обработана за 11 секунд до создания…](https://habr.com/ru/articles/1077292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077292)
-- [«Завтра в 18:00» — это когда? Разбираем даты и часовые пояса в Python](https://habr.com/ru/articles/1077284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077284)
-- [Будущее приложений — без приложений](https://habr.com/ru/companies/sberbank/articles/1077268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077268)
+- [Кто вырастит будущих сеньоров, если код теперь пишет AI?](https://habr.com/ru/articles/1077426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077426)
+- [Вы выбираете не решение. Вы выбираете его будущие проблемы](https://habr.com/ru/articles/1077396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077396)
+- [Свет в конце пайплайна: 3D-движок на чистом Dart &lpar;+gpu&rpar;](https://habr.com/ru/articles/1077334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077334)
+- [[Перевод] DuckDB перерос своё гнездо](https://habr.com/ru/articles/1077408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077408)
+- [Инструкция по устранению нарушений по персональным данным на сайте](https://habr.com/ru/articles/1077394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077394)
 <!-- BLOG-POST-LIST:END -->
 
 ---
