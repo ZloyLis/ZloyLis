@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Дайджест технических новостей, переводов и лонгридов инфослужбы Хабра за август 2026 года](https://habr.com/ru/articles/1060772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1060772)
-- [Claude Code за неделю: /resume в десктопе, запуск сессии с телефона и своя память у субагентов](https://habr.com/ru/articles/1076988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076988)
-- [[Перевод] «Я знаю, что ты не знаешь»: задача про голубоглазых островитян](https://habr.com/ru/articles/1076964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076964)
-- [Универсальное логирование HTTP-запросов в Spring Boot с помощью AOP](https://habr.com/ru/companies/alfastrah/articles/1076956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076956)
-- [Фибоначь врагов](https://habr.com/ru/articles/1076886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076886)
+- [Аналитика начинается не с дашборда: как понять, какое решение должен поддерживать отчёт](https://habr.com/ru/articles/1076978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076978)
+- [[Перевод] Кто на самом деле управляет вашей Cloud Native-платформой: архитектура из нескольких плоскостей](https://habr.com/ru/companies/vktech/articles/1077072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077072)
+- [Назад в машинный зал: как собрать эмулятор PDP-11/70 с телетайпом, блэкджеком и без Rust — где я схалтурил](https://habr.com/ru/articles/1075948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075948)
+- [Пакуем PHP в PHP, чтобы запаковать в JS, чтобы обернуть в HTML](https://habr.com/ru/articles/1077060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077060)
+- [Обработка сделок в реальном времени: как мы переехали с batch-обработки на Kafka Streams](https://habr.com/ru/companies/rshb/articles/1077066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077066)
 <!-- BLOG-POST-LIST:END -->
 
 ---
