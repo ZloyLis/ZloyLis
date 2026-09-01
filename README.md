@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [OPERATION MOONLIGHT 1.0.0: курс языка C, который я сам себе собрал](https://habr.com/ru/articles/1077372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077372)
+- [Кроссплатформенный мониторинг аппаратных ресурсов на C++ и Python: библиотека hardware_monitor_cpp](https://habr.com/ru/articles/1077310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077310)
+- [Задача в проекте оказалась обработана за 11 секунд до создания…](https://habr.com/ru/articles/1077292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077292)
+- [«Завтра в 18:00» — это когда? Разбираем даты и часовые пояса в Python](https://habr.com/ru/articles/1077284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077284)
 - [Будущее приложений — без приложений](https://habr.com/ru/companies/sberbank/articles/1077268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077268)
-- [320 348 строк за 98 дней: что на самом деле меняется, когда у инженера появляется исполнитель](https://habr.com/ru/articles/1077270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077270)
-- [Ускоряем eMMC в 5 раз для процессора AllWinner H6 на примере Repka Pi 4](https://habr.com/ru/articles/1046748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046748)
-- [TUI-агент включает alt-буфер один раз за сессию. Через 256 КБ вывода это ломает терминал](https://habr.com/ru/articles/1077252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077252)
-- [Проверка исходников VSCode](https://habr.com/ru/companies/pvs-studio/articles/1077246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077246)
 <!-- BLOG-POST-LIST:END -->
 
 ---
