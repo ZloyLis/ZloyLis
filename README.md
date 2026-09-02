@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Продуктовая гипотеза или баг фронтенда: как перестать угадывать почему пользователи не дошли до цели](https://habr.com/ru/companies/proto/articles/1077812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077812)
-- [Локальный путь в image_input съел четыре слота подряд](https://habr.com/ru/articles/1077800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077800)
-- [Меньше шума, больше смысла: опыт SESAME для Speech Enhancement](https://habr.com/ru/companies/vk/articles/1077722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077722)
-- [Как подключить к LLM вашу документацию и базу знаний](https://habr.com/ru/companies/otus/articles/1075188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075188)
-- [Вы скопировали команду с сайта. В буфер попало не то, что вы выделили](https://habr.com/ru/articles/1076416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076416)
+- [За что платить, когда учишься аналитике и машинному обучению](https://habr.com/ru/articles/1077872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077872)
+- [Как развивать джуниоров‑аналитиков без «эффекта слепого пятна» у сеньоров](https://habr.com/ru/companies/otus/articles/1076398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076398)
+- [Владельцев сайтов оштрафуют за вход через Google или Gmail? Разбираем новые правила и алгоритм действий](https://habr.com/ru/articles/1077862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077862)
+- [[Перевод] «Я знаю, что ты не знаешь»: задача про пиратов](https://habr.com/ru/articles/1077842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077842)
+- [Продуктовая гипотеза или баг фронтенда: как перестать угадывать почему пользователи не дошли до цели](https://habr.com/ru/companies/proto/articles/1077812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077812)
 <!-- BLOG-POST-LIST:END -->
 
 ---
