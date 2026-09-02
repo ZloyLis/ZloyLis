@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Вышел Fable 5.1 и Mythos 5.1](https://habr.com/ru/articles/1077540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077540)
-- [Миграция без права на ошибку: как перенести 70 кластеров MongoDB в 7 и не сломать продакшен](https://habr.com/ru/companies/yandex/articles/1076858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076858)
-- [Выиграть тендер — не значит заработать: 44-ФЗ,223-ФЗ, обеспечение, ошибки и реальный рынок — интервью с Тураном Амировым](https://habr.com/ru/articles/1077472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077472)
-- [Как я делал self‑host медиатеку на Kotlin Multiplatform и почему сервер «стримит» интерфейс на клиент](https://habr.com/ru/articles/1077458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077458)
-- [Как я случайно напечатал инфляцию в Discord‑боте и переделал ставки в тотализатор](https://habr.com/ru/articles/1077434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077434)
+- [Негативные тесты API, которые ничего не доказывают](https://habr.com/ru/companies/otus/articles/1070836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070836)
+- [[Перевод] Чем был прекрасен интерфейс Windows 2000](https://habr.com/ru/companies/ruvds/articles/1077290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077290)
+- [Я не откликаюсь на вакансии. Я пишу людям — и написал программу, которая их находит](https://habr.com/ru/articles/1077720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077720)
+- [Вверх ногами: как научить OCR понимать, что документ перевернут](https://habr.com/ru/companies/smartengines/articles/1077714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077714)
+- [JupyterLab на GPU-сервере: полное руководство по настройке для команды в 2026 году](https://habr.com/ru/companies/hostkey/articles/1077686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077686)
 <!-- BLOG-POST-LIST:END -->
 
 ---
