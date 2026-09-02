@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Негативные тесты API, которые ничего не доказывают](https://habr.com/ru/companies/otus/articles/1070836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070836)
-- [[Перевод] Чем был прекрасен интерфейс Windows 2000](https://habr.com/ru/companies/ruvds/articles/1077290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077290)
-- [Я не откликаюсь на вакансии. Я пишу людям — и написал программу, которая их находит](https://habr.com/ru/articles/1077720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077720)
-- [Вверх ногами: как научить OCR понимать, что документ перевернут](https://habr.com/ru/companies/smartengines/articles/1077714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077714)
-- [JupyterLab на GPU-сервере: полное руководство по настройке для команды в 2026 году](https://habr.com/ru/companies/hostkey/articles/1077686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077686)
+- [Продуктовая гипотеза или баг фронтенда: как перестать угадывать почему пользователи не дошли до цели](https://habr.com/ru/companies/proto/articles/1077812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077812)
+- [Локальный путь в image_input съел четыре слота подряд](https://habr.com/ru/articles/1077800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077800)
+- [Меньше шума, больше смысла: опыт SESAME для Speech Enhancement](https://habr.com/ru/companies/vk/articles/1077722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077722)
+- [Как подключить к LLM вашу документацию и базу знаний](https://habr.com/ru/companies/otus/articles/1075188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075188)
+- [Вы скопировали команду с сайта. В буфер попало не то, что вы выделили](https://habr.com/ru/articles/1076416/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076416)
 <!-- BLOG-POST-LIST:END -->
 
 ---
