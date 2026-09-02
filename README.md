@@ -35,7 +35,7 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [За что платить, когда учишься аналитике и машинному обучению](https://habr.com/ru/articles/1077872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077872)
+- [За что платить, когда учишься аналитике и машинному обучению](https://habr.com/ru/articles/1077872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077872)
 - [Как развивать джуниоров‑аналитиков без «эффекта слепого пятна» у сеньоров](https://habr.com/ru/companies/otus/articles/1076398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076398)
 - [Владельцев сайтов оштрафуют за вход через Google или Gmail? Разбираем новые правила и алгоритм действий](https://habr.com/ru/articles/1077862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077862)
 - [[Перевод] «Я знаю, что ты не знаешь»: задача про пиратов](https://habr.com/ru/articles/1077842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077842)
