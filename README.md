@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Я хотел просто навести порядок в Obsidian. В итоге написал два индекса, semantic search и RAG](https://habr.com/ru/articles/1078328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078328)
+- [«Если что, поднимем и разберемся»](https://habr.com/ru/articles/1078322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078322)
+- [Диагностика «смысловой кашицы» или как отличить требование от иллюзии требования](https://habr.com/ru/companies/otus/articles/1072662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072662)
+- [Пытка тишиной](https://habr.com/ru/articles/1076384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076384)
 - [Почему разработчики продолжают писать код руками?](https://habr.com/ru/articles/1078298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078298)
-- [Три поломки одного вечера: рубль в заголовке, обёртка stdout и капча, которая выросла на весь экран](https://habr.com/ru/articles/1078280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078280)
-- [Дорогая, я улучшил KubeVirt! Сделали классическую виртуализацию на рельсах Kubernetes](https://habr.com/ru/companies/flant/articles/1077724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077724)
-- [Сколько зарабатывает DevOps-инженер в 2026 году](https://habr.com/ru/companies/slurm/articles/1077704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077704)
-- [От обновлённого ранкера до алгоритма Брезенхема: что дало + 11% ко времени в ленте ВКонтакте в 2026 году](https://habr.com/ru/companies/vk/articles/1078192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078192)
 <!-- BLOG-POST-LIST:END -->
 
 ---
