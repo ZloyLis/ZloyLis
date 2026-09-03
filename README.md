@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Складской учёт на трёх платформах без дублирования логики: расширение Chrome, мобилка и SaaS из одного кода](https://habr.com/ru/articles/1077994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077994)
-- [AI-Disrupt PDLC и полный цикл ценности: продуктовая архитектура после ускорения Delivery](https://habr.com/ru/companies/oleg-bunin/articles/1077982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077982)
-- [Пересмотрел свое отношение к Obsidian когда сделал второй мозг на 219 тысяч файлов](https://habr.com/ru/articles/1077976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077976)
-- [Как устроена паника в Rust: раскрутка стека, panic = «abort» и что поменялось за два года](https://habr.com/ru/companies/beget/articles/1046970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046970)
-- [В JWT кладут отдел, роль и почту сотрудника, считая, что токен зашифрован. Он не зашифрован](https://habr.com/ru/articles/1076420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076420)
+- [Мы не смогли выбрать таск-трекер и написали свой за два дня. Канбан прожил два с половиной часа](https://habr.com/ru/articles/1078194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078194)
+- [Премьера nanoCAD BIM Строительство 26: смотрите онлайн 15 сентября](https://habr.com/ru/companies/nanosoft/articles/1078178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078178)
+- [Учебная группа: как я собрала людей, чтобы мы вместе не бросили учебу](https://habr.com/ru/companies/rgs_it/articles/1078146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078146)
+- [Protestware: как идейные злоумышленники атакуют ваш код — и как этого избежать](https://habr.com/ru/companies/yadro/articles/1074888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074888)
+- [Цель не вижу, в себя верю](https://habr.com/ru/companies/haulmont/articles/1078148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078148)
 <!-- BLOG-POST-LIST:END -->
 
 ---
