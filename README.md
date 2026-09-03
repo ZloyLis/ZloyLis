@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Мы не смогли выбрать таск-трекер и написали свой за два дня. Канбан прожил два с половиной часа](https://habr.com/ru/articles/1078194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078194)
-- [Премьера nanoCAD BIM Строительство 26: смотрите онлайн 15 сентября](https://habr.com/ru/companies/nanosoft/articles/1078178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078178)
-- [Учебная группа: как я собрала людей, чтобы мы вместе не бросили учебу](https://habr.com/ru/companies/rgs_it/articles/1078146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078146)
-- [Protestware: как идейные злоумышленники атакуют ваш код — и как этого избежать](https://habr.com/ru/companies/yadro/articles/1074888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074888)
-- [Цель не вижу, в себя верю](https://habr.com/ru/companies/haulmont/articles/1078148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078148)
+- [Почему разработчики продолжают писать код руками?](https://habr.com/ru/articles/1078298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078298)
+- [Три поломки одного вечера: рубль в заголовке, обёртка stdout и капча, которая выросла на весь экран](https://habr.com/ru/articles/1078280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078280)
+- [Дорогая, я улучшил KubeVirt! Сделали классическую виртуализацию на рельсах Kubernetes](https://habr.com/ru/companies/flant/articles/1077724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077724)
+- [Сколько зарабатывает DevOps-инженер в 2026 году](https://habr.com/ru/companies/slurm/articles/1077704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077704)
+- [От обновлённого ранкера до алгоритма Брезенхема: что дало + 11% ко времени в ленте ВКонтакте в 2026 году](https://habr.com/ru/companies/vk/articles/1078192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078192)
 <!-- BLOG-POST-LIST:END -->
 
 ---
