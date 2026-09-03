@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Анатомия граблей](https://habr.com/ru/articles/1078334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078334)
 - [Я хотел просто навести порядок в Obsidian. В итоге написал два индекса, semantic search и RAG](https://habr.com/ru/articles/1078328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078328)
 - [«Если что, поднимем и разберемся»](https://habr.com/ru/articles/1078322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078322)
 - [Диагностика «смысловой кашицы» или как отличить требование от иллюзии требования](https://habr.com/ru/companies/otus/articles/1072662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072662)
 - [Пытка тишиной](https://habr.com/ru/articles/1076384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076384)
-- [Почему разработчики продолжают писать код руками?](https://habr.com/ru/articles/1078298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078298)
 <!-- BLOG-POST-LIST:END -->
 
 ---
