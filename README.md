@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [И снова 3 сентября: Sheeternetes-оператор для Google-таблиц, который лечит сам себя](https://habr.com/ru/articles/1077902/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077902)
-- [За что платить, когда учишься аналитике и машинному обучению](https://habr.com/ru/articles/1077872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077872)
-- [Как развивать джуниоров‑аналитиков без «эффекта слепого пятна» у сеньоров](https://habr.com/ru/companies/otus/articles/1076398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076398)
-- [Владельцев сайтов оштрафуют за вход через Google или Gmail? Разбираем новые правила и алгоритм действий](https://habr.com/ru/articles/1077862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077862)
-- [[Перевод] «Я знаю, что ты не знаешь»: задача про пиратов](https://habr.com/ru/articles/1077842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077842)
+- [Складской учёт на трёх платформах без дублирования логики: расширение Chrome, мобилка и SaaS из одного кода](https://habr.com/ru/articles/1077994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077994)
+- [AI-Disrupt PDLC и полный цикл ценности: продуктовая архитектура после ускорения Delivery](https://habr.com/ru/companies/oleg-bunin/articles/1077982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077982)
+- [Пересмотрел свое отношение к Obsidian когда сделал второй мозг на 219 тысяч файлов](https://habr.com/ru/articles/1077976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077976)
+- [Как устроена паника в Rust: раскрутка стека, panic = «abort» и что поменялось за два года](https://habr.com/ru/companies/beget/articles/1046970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1046970)
+- [В JWT кладут отдел, роль и почту сотрудника, считая, что токен зашифрован. Он не зашифрован](https://habr.com/ru/articles/1076420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076420)
 <!-- BLOG-POST-LIST:END -->
 
 ---
