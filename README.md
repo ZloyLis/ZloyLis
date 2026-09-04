@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Гетерогенный lookup: как одна фича C++ сделала драйвер проще, чище и быстрее, чем на C](https://habr.com/ru/companies/kaspersky/articles/1074722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074722)
-- [[Перевод] «Я знаю, что ты не знаешь»: задача про совет философов](https://habr.com/ru/articles/1078506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078506)
-- [Архитектор, параноик, фантазёр и другие сотрудники IT‑компании будущего](https://habr.com/ru/articles/1078486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078486)
-- [1.5 миллиона событий в день и ни одной таблицы events: как мы считали продуктовую аналитику 300K-бота по голому проду](https://habr.com/ru/articles/1078480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078480)
-- [Измерительные приборы под контролем — универсальный SCPI-драйвер управления: Python + Keysight, АКИП, R&amp;amp;S](https://habr.com/ru/articles/1078472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078472)
+- [От «когда-нибудь» к работающему прототипу: как LLM дала идее шанс](https://habr.com/ru/companies/avito/articles/1078084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078084)
+- [Если ваш админ — самурай, или История восстановления очень нужных данных](https://habr.com/ru/companies/postgrespro/articles/1078598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078598)
+- [Разработчики больше не нужны для релиза. Нужны JSON Schema и Monaco](https://habr.com/ru/articles/1078548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078548)
+- [Что умеет ассистент по умолчанию на Android — на примере Алисы AI](https://habr.com/ru/companies/yandex/articles/1078580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078580)
+- [Плагины в Picodata](https://habr.com/ru/companies/arenadata/articles/1078252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078252)
 <!-- BLOG-POST-LIST:END -->
 
 ---
