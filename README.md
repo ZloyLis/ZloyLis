@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [От «когда-нибудь» к работающему прототипу: как LLM дала идее шанс](https://habr.com/ru/companies/avito/articles/1078084/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078084)
-- [Если ваш админ — самурай, или История восстановления очень нужных данных](https://habr.com/ru/companies/postgrespro/articles/1078598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078598)
-- [Разработчики больше не нужны для релиза. Нужны JSON Schema и Monaco](https://habr.com/ru/articles/1078548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078548)
-- [Что умеет ассистент по умолчанию на Android — на примере Алисы AI](https://habr.com/ru/companies/yandex/articles/1078580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078580)
-- [Плагины в Picodata](https://habr.com/ru/companies/arenadata/articles/1078252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078252)
+- [Свой git без gitlab-комбайна: настраиваем gitea, подключаем ci и проверяем полное восстановление](https://habr.com/ru/articles/1078690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078690)
+- [Почему фирменный стиль ломается внутри интерфейса](https://habr.com/ru/articles/1078684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078684)
+- [Rust: Макетирование форм для Iced 14](https://habr.com/ru/articles/1078674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078674)
+- [Очередные извращения с DOOM: упаковали в sheet-контейнер и запустили внутри Sheeternetes в электронной таблице](https://habr.com/ru/articles/1078656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078656)
+- [Vanilla Disintegrate — современные и эффектные анимации для веба](https://habr.com/ru/articles/1078638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078638)
 <!-- BLOG-POST-LIST:END -->
 
 ---
