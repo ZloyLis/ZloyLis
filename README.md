@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Свой git без gitlab-комбайна: настраиваем gitea, подключаем ci и проверяем полное восстановление](https://habr.com/ru/articles/1078690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078690)
-- [Почему фирменный стиль ломается внутри интерфейса](https://habr.com/ru/articles/1078684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078684)
-- [Rust: Макетирование форм для Iced 14](https://habr.com/ru/articles/1078674/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078674)
-- [Очередные извращения с DOOM: упаковали в sheet-контейнер и запустили внутри Sheeternetes в электронной таблице](https://habr.com/ru/articles/1078656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078656)
-- [Vanilla Disintegrate — современные и эффектные анимации для веба](https://habr.com/ru/articles/1078638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078638)
+- [Одна цифра сломала QR. Почему успешного чтения недостаточно](https://habr.com/ru/articles/1078710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078710)
+- [Ручного курьера приняли за чужого: почему ID оказался плохим признаком происхождения записи](https://habr.com/ru/articles/1078708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078708)
+- [А как у них-2: как регистрируют программы в Европе](https://habr.com/ru/articles/1078698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078698)
+- [Ошибки аналитиков, проектирующих системы под себя](https://habr.com/ru/companies/otus/articles/1072646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072646)
+- [Свой git без gitlab‑комбайна: настраиваем gitea, подключаем ci и проверяем полное восстановление](https://habr.com/ru/articles/1078690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078690)
 <!-- BLOG-POST-LIST:END -->
 
 ---
