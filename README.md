@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ещё одна айтишно-заводская задача: отслеживаем историю прокатных валков, чтобы снизить простои](https://habr.com/ru/companies/evraz/articles/1078246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078246)
 - [Анатомия граблей](https://habr.com/ru/articles/1078334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078334)
 - [Я хотел просто навести порядок в Obsidian. В итоге написал два индекса, semantic search и RAG](https://habr.com/ru/articles/1078328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078328)
 - [«Если что, поднимем и разберемся»](https://habr.com/ru/articles/1078322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078322)
 - [Диагностика «смысловой кашицы» или как отличить требование от иллюзии требования](https://habr.com/ru/companies/otus/articles/1072662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072662)
-- [Пытка тишиной](https://habr.com/ru/articles/1076384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076384)
 <!-- BLOG-POST-LIST:END -->
 
 ---
