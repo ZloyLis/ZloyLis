@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ещё одна айтишно-заводская задача: отслеживаем историю прокатных валков, чтобы снизить простои](https://habr.com/ru/companies/evraz/articles/1078246/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078246)
-- [Анатомия граблей](https://habr.com/ru/articles/1078334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078334)
-- [Я хотел просто навести порядок в Obsidian. В итоге написал два индекса, semantic search и RAG](https://habr.com/ru/articles/1078328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078328)
-- [«Если что, поднимем и разберемся»](https://habr.com/ru/articles/1078322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078322)
-- [Диагностика «смысловой кашицы» или как отличить требование от иллюзии требования](https://habr.com/ru/companies/otus/articles/1072662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072662)
+- [Гетерогенный lookup: как одна фича C++ сделала драйвер проще, чище и быстрее, чем на C](https://habr.com/ru/companies/kaspersky/articles/1074722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074722)
+- [[Перевод] «Я знаю, что ты не знаешь»: задача про совет философов](https://habr.com/ru/articles/1078506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078506)
+- [Архитектор, параноик, фантазёр и другие сотрудники IT‑компании будущего](https://habr.com/ru/articles/1078486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078486)
+- [1.5 миллиона событий в день и ни одной таблицы events: как мы считали продуктовую аналитику 300K-бота по голому проду](https://habr.com/ru/articles/1078480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078480)
+- [Измерительные приборы под контролем — универсальный SCPI-драйвер управления: Python + Keysight, АКИП, R&amp;amp;S](https://habr.com/ru/articles/1078472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078472)
 <!-- BLOG-POST-LIST:END -->
 
 ---
