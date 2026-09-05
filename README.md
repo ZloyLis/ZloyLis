@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Один пользователь зарегистрировался у вас четыре раза, и все четыре легально](https://habr.com/ru/articles/1076430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076430)
+- [Сарайчик или музей: как выбирать между быстрым MVP и идеальной архитектурой](https://habr.com/ru/articles/1078738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078738)
+- [Найти ПДн, замаскировать, развернуть копию: большой разбор открытого pg_anon](https://habr.com/ru/companies/tantor/articles/1078064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078064)
+- [Заметки на полях: геометрия замкнутых потоков](https://habr.com/ru/articles/1072060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072060)
 - [Одна цифра сломала QR. Почему успешного чтения недостаточно](https://habr.com/ru/articles/1078710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078710)
-- [Ручного курьера приняли за чужого: почему ID оказался плохим признаком происхождения записи](https://habr.com/ru/articles/1078708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078708)
-- [А как у них-2: как регистрируют программы в Европе](https://habr.com/ru/articles/1078698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078698)
-- [Ошибки аналитиков, проектирующих системы под себя](https://habr.com/ru/companies/otus/articles/1072646/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072646)
-- [Свой git без gitlab‑комбайна: настраиваем gitea, подключаем ci и проверяем полное восстановление](https://habr.com/ru/articles/1078690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078690)
 <!-- BLOG-POST-LIST:END -->
 
 ---
