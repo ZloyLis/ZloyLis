@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нажали Approve на одно действие, а workflow попытался выполнить другое: разбор n8n + MCP + Bitrix24](https://habr.com/ru/articles/1078864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078864)
+- [Защита сайта от ботов: 6 лет эволюции фильтрации трафика](https://habr.com/ru/articles/1078860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078860)
+- [Говард Маркс. Риск — новое осмысление](https://habr.com/ru/articles/1068264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068264)
 - [5 ошибок, которые заставят игру на LibGDX тормозить](https://habr.com/ru/articles/1078820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078820)
 - [Cursor закрылся для России. Чем 1С разработчику писать код теперь](https://habr.com/ru/articles/1078814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078814)
-- [[Перевод] Что нового в Swift: Август 2026 года](https://habr.com/ru/articles/1078798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078798)
-- [Хватит рисовать интеграции в Miro: я сделал архитектуру, которую можно прокликать](https://habr.com/ru/articles/1078792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078792)
-- [Как превратить бизнес‑вопрос в набор показателей](https://habr.com/ru/articles/1076984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076984)
 <!-- BLOG-POST-LIST:END -->
 
 ---
