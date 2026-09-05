@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Что нового в Swift: Август 2026 года](https://habr.com/ru/articles/1078798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078798)
+- [Хватит рисовать интеграции в Miro: я сделал архитектуру, которую можно прокликать](https://habr.com/ru/articles/1078792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078792)
+- [Как превратить бизнес-вопрос в набор показателей](https://habr.com/ru/articles/1076984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076984)
+- [Месяц Кубыша в App Store: 4 тысячи показов, 155 установок и 52 товарища из Шанхая](https://habr.com/ru/articles/1078768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078768)
 - [Один пользователь зарегистрировался у вас четыре раза, и все четыре легально](https://habr.com/ru/articles/1076430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076430)
-- [Сарайчик или музей: как выбирать между быстрым MVP и идеальной архитектурой](https://habr.com/ru/articles/1078738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078738)
-- [Найти ПДн, замаскировать, развернуть копию: большой разбор открытого pg_anon](https://habr.com/ru/companies/tantor/articles/1078064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078064)
-- [Заметки на полях: геометрия замкнутых потоков](https://habr.com/ru/articles/1072060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072060)
-- [Одна цифра сломала QR. Почему успешного чтения недостаточно](https://habr.com/ru/articles/1078710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078710)
 <!-- BLOG-POST-LIST:END -->
 
 ---
