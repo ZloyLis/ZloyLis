@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Что нового в Swift: Август 2026 года](https://habr.com/ru/articles/1078798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078798)
-- [Хватит рисовать интеграции в Miro: я сделал архитектуру, которую можно прокликать](https://habr.com/ru/articles/1078792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078792)
-- [Как превратить бизнес-вопрос в набор показателей](https://habr.com/ru/articles/1076984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076984)
-- [Месяц Кубыша в App Store: 4 тысячи показов, 155 установок и 52 товарища из Шанхая](https://habr.com/ru/articles/1078768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078768)
-- [Один пользователь зарегистрировался у вас четыре раза, и все четыре легально](https://habr.com/ru/articles/1076430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076430)
+- [5 ошибок, которые заставят игру на LibGDX тормозить](https://habr.com/ru/articles/1078820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078820)
+- [Cursor закрылся для России. Чем 1С разработчику писать код теперь](https://habr.com/ru/articles/1078814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078814)
+- [[Перевод] Что нового в Swift: Август 2026 года](https://habr.com/ru/articles/1078798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078798)
+- [Хватит рисовать интеграции в Miro: я сделал архитектуру, которую можно прокликать](https://habr.com/ru/articles/1078792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078792)
+- [Как превратить бизнес‑вопрос в набор показателей](https://habr.com/ru/articles/1076984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076984)
 <!-- BLOG-POST-LIST:END -->
 
 ---
