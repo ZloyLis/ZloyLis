@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [6 бесплатных AI API-шлюзов: модели, лимиты и реальные RPM](https://habr.com/ru/articles/1078896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078896)
+- [«Я робот», или история о том, как я начал учиться в IT, когда AI был только в кино. Это заняло у меня 10 лет](https://habr.com/ru/articles/1078892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078892)
 - [Я попросил Claude Code собрать макеты сайтов и выяснил, на что уходят токены](https://habr.com/ru/articles/1078882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078882)
 - [Как пользоваться ChatGPT бесплатно, меняя аккаунты: личный опыт](https://habr.com/ru/articles/1078868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078868)
 - [Нажали Approve на одно действие, а workflow попытался выполнить другое: разбор n8n + MCP + Bitrix24](https://habr.com/ru/articles/1078864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078864)
-- [Защита сайта от ботов: 6 лет практики фильтрации трафика](https://habr.com/ru/articles/1078860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078860)
-- [Говард Маркс. Риск — новое осмысление](https://habr.com/ru/articles/1068264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068264)
 <!-- BLOG-POST-LIST:END -->
 
 ---
