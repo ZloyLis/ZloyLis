@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [WUI три года спустя: C++ интерфейс на Windows, Linux, macOS и в браузере](https://habr.com/ru/articles/1078970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078970)
-- [Как получить OV-сертификат Минцифры для HTTPS в 2026 году](https://habr.com/ru/articles/1078966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078966)
-- [Четыре зелёных релиза поверх неверной сущности](https://habr.com/ru/articles/1078948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078948)
-- [Физические теории и физическая реальность: Математика vs Физика?](https://habr.com/ru/articles/1078944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078944)
-- [История G1. JDK 17–25](https://habr.com/ru/companies/axiomjdk/articles/1078440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078440)
+- [Cordis: плагинная архитектура как новый слой композиции JS/TS-приложений](https://habr.com/ru/articles/1079044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079044)
+- [withComponentInputBinding: уменьшаем связанность, инвертируем зависимости](https://habr.com/ru/articles/1078996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078996)
+- [Пиротерапия от выгорания, или как я стал вайбкодером](https://habr.com/ru/articles/1079032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079032)
+- [K3s на колёсах: HA-кластер для автопарка с ARM-агентами, WireGuard и офлайн-режимом](https://habr.com/ru/articles/1079024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079024)
+- [Свои книжные метаданные: Pivot-архитектура, Spring Boot и бесплатный API для Obsidian](https://habr.com/ru/articles/1079014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079014)
 <!-- BLOG-POST-LIST:END -->
 
 ---
