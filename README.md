@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Осторожная попытка переосмыслить сложное: Как связать документы, диаграммы и знания?](https://habr.com/ru/articles/1079138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079138)
 - [Сканер альткоинов на Python: данные пяти бирж и Telegram Mini App](https://habr.com/ru/articles/1079130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079130)
-- [QML и CSS не нужны. Использование QStyle &lpar;QStyleFactory&rpar; для изменения дизайна Qt приложения с выбором для пользователя](https://habr.com/ru/articles/1078894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078894)
+- [QML и CSS не нужны. Использование QStyle &lpar;QStyleFactory&rpar; для изменения дизайна Qt приложения с выбором для пользователя](https://habr.com/ru/articles/1078894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078894)
 - [Уборщик резервов кадров жил по таймеру в 15 минут. Генерация укладывалась в 16](https://habr.com/ru/articles/1079112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079112)
 - [[Перевод] Делимся состоянием приложения через URL](https://habr.com/ru/articles/1079078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079078)
-- [Программирование это искусство](https://habr.com/ru/articles/1079074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079074)
 <!-- BLOG-POST-LIST:END -->
 
 ---
