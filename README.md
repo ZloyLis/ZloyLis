@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Считаем ударную волну ядерного взрыва: простая симуляция на Python по формуле Седова](https://habr.com/ru/articles/1078286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078286)
 - [6 бесплатных AI API‑шлюзов: модели, лимиты и реальные RPM](https://habr.com/ru/articles/1078896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078896)
 - [«Я робот», или история о том, как я начал учиться в IT, когда AI был только в кино. Это заняло у меня 10 лет](https://habr.com/ru/articles/1078892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078892)
 - [Я попросил Claude Code собрать макеты сайтов и выяснил, на что уходят токены](https://habr.com/ru/articles/1078882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078882)
 - [Нажали Approve на одно действие, а workflow попытался выполнить другое: разбор n8n + MCP + Bitrix24](https://habr.com/ru/articles/1078864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078864)
-- [Защита сайта от ботов: 6 лет практики фильтрации трафика](https://habr.com/ru/articles/1078860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078860)
 <!-- BLOG-POST-LIST:END -->
 
 ---
