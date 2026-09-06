@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Считаем ударную волну ядерного взрыва: простая симуляция на Python по формуле Седова](https://habr.com/ru/articles/1078286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078286)
-- [6 бесплатных AI API‑шлюзов: модели, лимиты и реальные RPM](https://habr.com/ru/articles/1078896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078896)
-- [«Я робот», или история о том, как я начал учиться в IT, когда AI был только в кино. Это заняло у меня 10 лет](https://habr.com/ru/articles/1078892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078892)
-- [Я попросил Claude Code собрать макеты сайтов и выяснил, на что уходят токены](https://habr.com/ru/articles/1078882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078882)
-- [Нажали Approve на одно действие, а workflow попытался выполнить другое: разбор n8n + MCP + Bitrix24](https://habr.com/ru/articles/1078864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078864)
+- [WUI три года спустя: C++ интерфейс на Windows, Linux, macOS и в браузере](https://habr.com/ru/articles/1078970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078970)
+- [Как получить OV-сертификат Минцифры для HTTPS в 2026 году](https://habr.com/ru/articles/1078966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078966)
+- [Четыре зелёных релиза поверх неверной сущности](https://habr.com/ru/articles/1078948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078948)
+- [Физические теории и физическая реальность: Математика vs Физика?](https://habr.com/ru/articles/1078944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078944)
+- [История G1. JDK 17–25](https://habr.com/ru/companies/axiomjdk/articles/1078440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078440)
 <!-- BLOG-POST-LIST:END -->
 
 ---
