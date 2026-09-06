@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cordis: плагинная архитектура как новый слой композиции JS/TS-приложений](https://habr.com/ru/articles/1079044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079044)
-- [withComponentInputBinding: уменьшаем связанность, инвертируем зависимости](https://habr.com/ru/articles/1078996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078996)
-- [Пиротерапия от выгорания, или как я стал вайбкодером](https://habr.com/ru/articles/1079032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079032)
-- [K3s на колёсах: HA-кластер для автопарка с ARM-агентами, WireGuard и офлайн-режимом](https://habr.com/ru/articles/1079024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079024)
-- [Свои книжные метаданные: Pivot-архитектура, Spring Boot и бесплатный API для Obsidian](https://habr.com/ru/articles/1079014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079014)
+- [Уборщик резервов кадров жил по таймеру в 15 минут. Генерация укладывалась в 16](https://habr.com/ru/articles/1079112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079112)
+- [[Перевод] Делимся состоянием приложения через URL](https://habr.com/ru/articles/1079078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079078)
+- [Программирование это искусство](https://habr.com/ru/articles/1079074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079074)
+- [Пишем нативное приложение на Mi Band 10 Pro](https://habr.com/ru/articles/1079066/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079066)
+- [Как frontend‑разработчик за два дня завайбкодил нативное приложение для macOS, не зная Swift](https://habr.com/ru/articles/1079056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079056)
 <!-- BLOG-POST-LIST:END -->
 
 ---
