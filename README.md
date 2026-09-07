@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Восемь аниме-плееров рунета изнутри: шифр Цезаря, пустой параметр и домен, который увели](https://habr.com/ru/articles/1079156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079156)
-- [Осторожная попытка переосмыслить сложное: Как связать документы, диаграммы и знания?](https://habr.com/ru/articles/1079138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079138)
-- [Сканер альткоинов на Python: данные пяти бирж и Telegram Mini App](https://habr.com/ru/articles/1079130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079130)
-- [QML и CSS не нужны. Использование QStyle &lpar;QStyleFactory&rpar; для изменения дизайна Qt приложения с выбором для пользователя](https://habr.com/ru/articles/1078894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078894)
-- [Уборщик резервов кадров жил по таймеру в 15 минут. Генерация укладывалась в 16](https://habr.com/ru/articles/1079112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079112)
+- [Как проверить компанию до собеседования: мой чек-лист из 7 шагов](https://habr.com/ru/articles/1079270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079270)
+- [ПИК это 15 республик: переводим ЖКХ-гиганта в режим отладки через Си и Linux](https://habr.com/ru/articles/1079234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079234)
+- [Я 22 месяца двигал ставки в Telegram Ads руками, потом написал автомат. Он воевал сам с собой](https://habr.com/ru/articles/1079252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079252)
+- [Модульный монолит в суровых условиях: как я написал фреймворк для производства](https://habr.com/ru/articles/1079240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079240)
+- [Теренс Тао: вундеркинд из Австралии, который вырос гениальным математиком](https://habr.com/ru/companies/ruvds/articles/1074486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074486)
 <!-- BLOG-POST-LIST:END -->
 
 ---
