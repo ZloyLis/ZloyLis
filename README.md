@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Эти пчелы делают неправильный с++](https://habr.com/ru/articles/1068934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068934)
+- [Security Week 2637: взлом Dropbox через Lenovo ID](https://habr.com/ru/companies/kaspersky/articles/1079346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079346)
+- [«Я Сетунь 70». Эмулятор троичной ЭВМ на Rust](https://habr.com/ru/articles/1079308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079308)
+- [Можно ли поймать breaking change REST API до интеграционных тестов](https://habr.com/ru/companies/otus/articles/1071848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071848)
 - [Как ускорить выборку из больших таблиц PostgreSQL без ручного создания индексов: разбираем iHeap](https://habr.com/ru/companies/postgrespro/articles/1079498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079498)
-- [Сторис рендерились 1080×1920, а публиковались 1080×1350. Я два раза чинил не ту причину](https://habr.com/ru/articles/1079542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079542)
-- [Сборщик мусора в Dart. Часть 3: старое поколение](https://habr.com/ru/articles/1079500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079500)
-- [Claude Code — Все статуслайны показывают тебя. Я сделал тот, который показывает других](https://habr.com/ru/articles/1079494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079494)
-- [Intekey WMS: собственный DevOps-оркестратор для поставки обновлений](https://habr.com/ru/companies/intekey/articles/1079492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079492)
 <!-- BLOG-POST-LIST:END -->
 
 ---
