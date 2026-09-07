@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Задача взяла lock&lpar;&rpar; и остановила весь рантайм: пять ошибок с блокировками в async Rust](https://habr.com/ru/companies/otus/articles/1077262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077262)
-- [Java Digest #39: 91 CVE в Spring, Value Objects в Java и AI-native разработка](https://habr.com/ru/companies/tbank/articles/1079464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079464)
-- [Почему одинаковые показатели в разных отчётах не совпадают](https://habr.com/ru/articles/1079462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079462)
-- [QArtText: QR коды для чтения невооружённым глазом](https://habr.com/ru/articles/1078888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078888)
-- [i18n в Next.js без SEO-дублей, locale в маршрутах, metadata и hreflang](https://habr.com/ru/articles/1079438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079438)
+- [Как ускорить выборку из больших таблиц PostgreSQL без ручного создания индексов: разбираем iHeap](https://habr.com/ru/companies/postgrespro/articles/1079498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079498)
+- [Сторис рендерились 1080×1920, а публиковались 1080×1350. Я два раза чинил не ту причину](https://habr.com/ru/articles/1079542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079542)
+- [Сборщик мусора в Dart. Часть 3: старое поколение](https://habr.com/ru/articles/1079500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079500)
+- [Claude Code — Все статуслайны показывают тебя. Я сделал тот, который показывает других](https://habr.com/ru/articles/1079494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079494)
+- [Intekey WMS: собственный DevOps-оркестратор для поставки обновлений](https://habr.com/ru/companies/intekey/articles/1079492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079492)
 <!-- BLOG-POST-LIST:END -->
 
 ---
