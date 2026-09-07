@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как проверить компанию до собеседования: мой чек-лист из 7 шагов](https://habr.com/ru/articles/1079270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079270)
-- [ПИК это 15 республик: переводим ЖКХ-гиганта в режим отладки через Си и Linux](https://habr.com/ru/articles/1079234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079234)
-- [Я 22 месяца двигал ставки в Telegram Ads руками, потом написал автомат. Он воевал сам с собой](https://habr.com/ru/articles/1079252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079252)
-- [Модульный монолит в суровых условиях: как я написал фреймворк для производства](https://habr.com/ru/articles/1079240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079240)
-- [Теренс Тао: вундеркинд из Австралии, который вырос гениальным математиком](https://habr.com/ru/companies/ruvds/articles/1074486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074486)
+- [Задача взяла lock&lpar;&rpar; и остановила весь рантайм: пять ошибок с блокировками в async Rust](https://habr.com/ru/companies/otus/articles/1077262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077262)
+- [Java Digest #39: 91 CVE в Spring, Value Objects в Java и AI-native разработка](https://habr.com/ru/companies/tbank/articles/1079464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079464)
+- [Почему одинаковые показатели в разных отчётах не совпадают](https://habr.com/ru/articles/1079462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079462)
+- [QArtText: QR коды для чтения невооружённым глазом](https://habr.com/ru/articles/1078888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078888)
+- [i18n в Next.js без SEO-дублей, locale в маршрутах, metadata и hreflang](https://habr.com/ru/articles/1079438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079438)
 <!-- BLOG-POST-LIST:END -->
 
 ---
