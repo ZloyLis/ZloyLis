@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [А чё, так можно было? new ≠ память](https://habr.com/ru/articles/1080016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080016)
-- [Красная королева в Core War: как ИИ сражался с 317 человеческими воинами](https://habr.com/ru/articles/1080002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080002)
-- [Отказ по квоте я записывал в журнал как попытку — и адрес выпадал из очереди на две недели](https://habr.com/ru/articles/1079996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079996)
-- [Мы все станем инвесторами. Пора с этим смириться](https://habr.com/ru/articles/1079994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079994)
-- [Как защитить платежный API от двойных списаний с помощью идемпотентности](https://habr.com/ru/companies/otus/articles/1072058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072058)
+- [Почему в отделе из десяти инженеров PID-регуляторы обычно настраивает только один](https://habr.com/ru/articles/1079634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079634)
+- [Как атрибуты width и height у картинок ускорят сайт на 12% и сделают его комфортнее?](https://habr.com/ru/articles/1080050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080050)
+- [Можно ли вселенную нарисовать на бесконечном холсте редактора?](https://habr.com/ru/articles/1080040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080040)
+- [Я положил Tailwind‑классы в базу. После сборки половина стилей исчезла](https://habr.com/ru/articles/1080034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080034)
+- [Используем Buildozer для компиляции python в apk. Проблемы, решения и личный опыт](https://habr.com/ru/articles/1080026/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
