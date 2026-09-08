@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как не превратить Kubernetes Audit Policy в решето: разбор реального конфига](https://habr.com/ru/articles/1079968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079968)
-- [Нейронный Навье-Стоксгейт: скандал с OpenAI вокруг решения «задачи тысячелетия» на $1&#39;000&#39;000](https://habr.com/ru/articles/1079940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079940)
-- [Как выбрать IT-профессию и понять, что учить — метод на примере кибербезопасности](https://habr.com/ru/companies/ruvds/articles/1070930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070930)
-- [Как я превратил статус-лайн Claude Code в тренажёр ПДД за 60 строк bash](https://habr.com/ru/articles/1079890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079890)
-- [Как FMCG‑компаниям сэкономить деньги на планировании: 3 метода оптимизации на основе практических кейсов](https://habr.com/ru/articles/1079794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079794)
+- [А чё, так можно было? new ≠ память](https://habr.com/ru/articles/1080016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080016)
+- [Красная королева в Core War: как ИИ сражался с 317 человеческими воинами](https://habr.com/ru/articles/1080002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080002)
+- [Отказ по квоте я записывал в журнал как попытку — и адрес выпадал из очереди на две недели](https://habr.com/ru/articles/1079996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079996)
+- [Мы все станем инвесторами. Пора с этим смириться](https://habr.com/ru/articles/1079994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079994)
+- [Как защитить платежный API от двойных списаний с помощью идемпотентности](https://habr.com/ru/companies/otus/articles/1072058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1072058)
 <!-- BLOG-POST-LIST:END -->
 
 ---
