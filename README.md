@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как я автоматизировал выдачу ТСД на складе: от бумажных талонов до Python‑приложения](https://habr.com/ru/articles/1079628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079628)
-- [Эти пчелы делают неправильный с++](https://habr.com/ru/articles/1068934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068934)
-- [Security Week 2637: взлом Dropbox через Lenovo ID](https://habr.com/ru/companies/kaspersky/articles/1079346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079346)
-- [«Я Сетунь 70». Эмулятор троичной ЭВМ на Rust](https://habr.com/ru/articles/1079308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079308)
-- [Можно ли поймать breaking change REST API до интеграционных тестов](https://habr.com/ru/companies/otus/articles/1071848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071848)
+- [Я разработал самопишущую клавиатуру. Неоконченная пьеса для механического пианино](https://habr.com/ru/articles/1079800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079800)
+- [Я разбил две машины и написал оркестратор ИИ‑агентов](https://habr.com/ru/articles/1079820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079820)
+- [CommuniGate Pro: переложить продуктовые рельсы](https://habr.com/ru/companies/communigate_pro/articles/1079596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079596)
+- [Как мы обучаем обычных сотрудников использовать ИИ &lpar;и зачем&rpar;](https://habr.com/ru/articles/1079590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079590)
+- [Один BPF-объект, два верификатора, разные вердикты: разбираемся, кто прав](https://habr.com/ru/companies/first/articles/1079176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079176)
 <!-- BLOG-POST-LIST:END -->
 
 ---
