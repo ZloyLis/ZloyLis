@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Я разработал самопишущую клавиатуру. Неоконченная пьеса для механического пианино](https://habr.com/ru/articles/1079800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079800)
-- [Я разбил две машины и написал оркестратор ИИ‑агентов](https://habr.com/ru/articles/1079820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079820)
-- [CommuniGate Pro: переложить продуктовые рельсы](https://habr.com/ru/companies/communigate_pro/articles/1079596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079596)
-- [Как мы обучаем обычных сотрудников использовать ИИ &lpar;и зачем&rpar;](https://habr.com/ru/articles/1079590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079590)
-- [Один BPF-объект, два верификатора, разные вердикты: разбираемся, кто прав](https://habr.com/ru/companies/first/articles/1079176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079176)
+- [Как не превратить Kubernetes Audit Policy в решето: разбор реального конфига](https://habr.com/ru/articles/1079968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079968)
+- [Нейронный Навье-Стоксгейт: скандал с OpenAI вокруг решения «задачи тысячелетия» на $1&#39;000&#39;000](https://habr.com/ru/articles/1079940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079940)
+- [Как выбрать IT-профессию и понять, что учить — метод на примере кибербезопасности](https://habr.com/ru/companies/ruvds/articles/1070930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070930)
+- [Как я превратил статус-лайн Claude Code в тренажёр ПДД за 60 строк bash](https://habr.com/ru/articles/1079890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079890)
+- [Как FMCG‑компаниям сэкономить деньги на планировании: 3 метода оптимизации на основе практических кейсов](https://habr.com/ru/articles/1079794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079794)
 <!-- BLOG-POST-LIST:END -->
 
 ---
