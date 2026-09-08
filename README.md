@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я автоматизировал выдачу ТСД на складе: от бумажных талонов до Python‑приложения](https://habr.com/ru/articles/1079628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079628)
 - [Эти пчелы делают неправильный с++](https://habr.com/ru/articles/1068934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068934)
 - [Security Week 2637: взлом Dropbox через Lenovo ID](https://habr.com/ru/companies/kaspersky/articles/1079346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079346)
-- [«Я Сетунь 70». Эмулятор троичной ЭВМ на Rust](https://habr.com/ru/articles/1079308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079308)
-- [Можно ли поймать breaking change REST API до интеграционных тестов](https://habr.com/ru/companies/otus/articles/1071848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071848)
-- [Как ускорить выборку из больших таблиц PostgreSQL без ручного создания индексов: разбираем iHeap](https://habr.com/ru/companies/postgrespro/articles/1079498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079498)
+- [«Я Сетунь 70». Эмулятор троичной ЭВМ на Rust](https://habr.com/ru/articles/1079308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079308)
+- [Можно ли поймать breaking change REST API до интеграционных тестов](https://habr.com/ru/companies/otus/articles/1071848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071848)
 <!-- BLOG-POST-LIST:END -->
 
 ---
