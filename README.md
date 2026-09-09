@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Обвязка решает](https://habr.com/ru/articles/1079012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079012)
-- [PostgreSQL и временные таблицы. Часть 2: почему 1024 счётчиков бывает мало](https://habr.com/ru/articles/1080150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080150)
-- [Prometheus и VictoriaMetrics: почему одни и те же метрики могут занимать в 139 раз больше места](https://habr.com/ru/companies/vk/articles/1068798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068798)
-- [Книги и деньги: финансовые уроки от классических авторов](https://habr.com/ru/companies/yandex_praktikum/articles/1079636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079636)
-- [Как можно плохо сделать маленький тест если ты — большая компания? А вот же :&rpar;](https://habr.com/ru/articles/1080124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080124)
+- [TLS PSK для Mamonsu: как мы добавили защищённую передачу PostgreSQL-метрик в Zabbix](https://habr.com/ru/articles/1080376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080376)
+- [Как выбрать поставщика, когда самая дешёвая цена – это ловушка: многокритериальная оптимизация с учётом MOQ](https://habr.com/ru/articles/1077648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077648)
+- [IBM Simon: История прото-смартфона, его взлет и провал](https://habr.com/ru/companies/studyai/articles/1080360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080360)
+- [Почему ML-модель в андеррайтинге находит только то, что вы и так знали](https://habr.com/ru/articles/1080354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080354)
+- [Учет ИТ-активов: как свести данные из пяти систем в одну точку](https://habr.com/ru/companies/simpleone/articles/1080338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080338)
 <!-- BLOG-POST-LIST:END -->
 
 ---
