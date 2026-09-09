@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Компактная кросс‑платформенная open source C++ библиотека для разработки приложений с графическим интерфейсом — Frenchie](https://habr.com/ru/articles/1080500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080500)
 - [А чё, так можно было? Недокументированный C#](https://habr.com/ru/articles/1080494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080494)
 - [Как выявлять саботаж стейкхолдеров в ИТ‑проектах и сохранить внедрение под контролем](https://habr.com/ru/companies/otus/articles/1071430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071430)
 - [[Перевод] ИИ решил одну из математических «задач тысячелетия» с призом в $1 млн](https://habr.com/ru/articles/1080492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080492)
 - [ML System Design: Что на самом деле проверяют на собеседовании?](https://habr.com/ru/articles/1079002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079002)
-- [Внутренний вебхук исполнял любой SQL под суперюзером. Без пароля, без токена, без единого заголовка](https://habr.com/ru/articles/1080478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080478)
 <!-- BLOG-POST-LIST:END -->
 
 ---
