@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как я объяснял племяннику 2x + 4 = 10 и случайно собрал визуальную лабораторию &lpar;сайт&rpar;](https://habr.com/ru/articles/1080086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080086)
-- [Аудит-политика Kubernetes: чек-лист против типовых слепых зон в правилах](https://habr.com/ru/articles/1080076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080076)
-- [Больше инструментов богу инструментов. И меньше времени на саму работу?](https://habr.com/ru/companies/ispsystem/articles/1080072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080072)
-- [А чё, так можно было? +1 ключ = ×12 к скорости](https://habr.com/ru/articles/1080068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080068)
-- [Как атрибуты width и height у картинок ускорят сайт на 12% и сделают его комфортнее?](https://habr.com/ru/articles/1080050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080050)
+- [Обвязка решает](https://habr.com/ru/articles/1079012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079012)
+- [PostgreSQL и временные таблицы. Часть 2: почему 1024 счётчиков бывает мало](https://habr.com/ru/articles/1080150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080150)
+- [Prometheus и VictoriaMetrics: почему одни и те же метрики могут занимать в 139 раз больше места](https://habr.com/ru/companies/vk/articles/1068798/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068798)
+- [Книги и деньги: финансовые уроки от классических авторов](https://habr.com/ru/companies/yandex_praktikum/articles/1079636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079636)
+- [Как можно плохо сделать маленький тест если ты — большая компания? А вот же :&rpar;](https://habr.com/ru/articles/1080124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080124)
 <!-- BLOG-POST-LIST:END -->
 
 ---
