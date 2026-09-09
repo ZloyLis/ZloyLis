@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [TLS PSK для Mamonsu: как мы добавили защищённую передачу PostgreSQL-метрик в Zabbix](https://habr.com/ru/articles/1080376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080376)
-- [Как выбрать поставщика, когда самая дешёвая цена – это ловушка: многокритериальная оптимизация с учётом MOQ](https://habr.com/ru/articles/1077648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077648)
-- [IBM Simon: История прото-смартфона, его взлет и провал](https://habr.com/ru/companies/studyai/articles/1080360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080360)
-- [Почему ML-модель в андеррайтинге находит только то, что вы и так знали](https://habr.com/ru/articles/1080354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080354)
-- [Учет ИТ-активов: как свести данные из пяти систем в одну точку](https://habr.com/ru/companies/simpleone/articles/1080338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080338)
+- [А чё, так можно было? Недокументированный C#](https://habr.com/ru/articles/1080494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080494)
+- [Как выявлять саботаж стейкхолдеров в ИТ‑проектах и сохранить внедрение под контролем](https://habr.com/ru/companies/otus/articles/1071430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071430)
+- [[Перевод] ИИ решил одну из математических «задач тысячелетия» с призом в $1 млн](https://habr.com/ru/articles/1080492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080492)
+- [ML System Design: Что на самом деле проверяют на собеседовании?](https://habr.com/ru/articles/1079002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079002)
+- [Внутренний вебхук исполнял любой SQL под суперюзером. Без пароля, без токена, без единого заголовка](https://habr.com/ru/articles/1080478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080478)
 <!-- BLOG-POST-LIST:END -->
 
 ---
