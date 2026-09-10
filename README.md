@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Выглядит как баг: что не так с консолидацией узлов в Karpenter?](https://habr.com/ru/companies/flant/articles/1077764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077764)
 - [lukidown — Telegram бот для загрузки всего отовсюду](https://habr.com/ru/articles/1080558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080558)
 - [А чё, так можно было? Приватное поле за 0,25 наносекунды](https://habr.com/ru/articles/1080538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080538)
 - [Как не получить лгущий дашборд: 7 ошибок в SQL‑агрегациях](https://habr.com/ru/companies/otus/articles/1079894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079894)
 - [Компактная кросс‑платформенная open source C++ библиотека для разработки приложений с графическим интерфейсом — Frenchie](https://habr.com/ru/articles/1080500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080500)
-- [А чё, так можно было? Недокументированный C#](https://habr.com/ru/articles/1080494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080494)
 <!-- BLOG-POST-LIST:END -->
 
 ---
