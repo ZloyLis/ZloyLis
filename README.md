@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Я попал к психиатру из-за кодинга с AI](https://habr.com/ru/articles/1080778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080778)
+- [Whisper больше не нужен, русская диктовка мгновенно и без видеокарты](https://habr.com/ru/articles/1080986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080986)
+- [Долговременная память для ИИ-ассистента: как превратить переписку в Telegram в структурированную базу знаний](https://habr.com/ru/articles/1080828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080828)
+- [Утечка на 3.5 часа вперёд: как модель обманывала саму себя полтора месяца — и как мы это поймали](https://habr.com/ru/articles/1080972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080972)
+- [Я попал к психиатру из‑за кодинга с AI](https://habr.com/ru/articles/1080778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080778)
 - [А чё, так можно было? int == -int](https://habr.com/ru/articles/1080958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080958)
-- [Как тестировать API: 20 проверок, которые должен уметь делать QA](https://habr.com/ru/companies/netologyru/articles/1075684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075684)
-- [Вместе, но независимо: как мы «подружили» разные движки визуализаций в одном BI-отчете](https://habr.com/ru/companies/modusbi/articles/1079796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079796)
-- [Почему видео из аниме-плеера нельзя вставить в &amp;lt;video&amp;gt;, и как я всё-таки собрал синхронный просмотр на двоих](https://habr.com/ru/articles/1080934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080934)
 <!-- BLOG-POST-LIST:END -->
 
 ---
