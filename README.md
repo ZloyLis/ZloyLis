@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Когда разработчики ленятся писать документацию: описываем клиентский API силами нейросетей](https://habr.com/ru/companies/hostkey/articles/1077728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077728)
-- [А чё, так можно было? Dictionary == List](https://habr.com/ru/articles/1080782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080782)
-- [Мы сделали свой UI Kit: 6 компонентов превратились в 30+, а одна ошибка сломала разметку во всех проектах](https://habr.com/ru/articles/1080784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080784)
-- [Практический опыт применения отечественного ТИМ-контура при сопровождении проекта на стадии «Проектная документация»](https://habr.com/ru/companies/nanosoft/articles/1080762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080762)
-- [От исходных данных до аналитической витрины: что происходит между ними](https://habr.com/ru/articles/1080488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080488)
+- [Я попал к психиатру из-за кодинга с AI](https://habr.com/ru/articles/1080778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080778)
+- [А чё, так можно было? int == -int](https://habr.com/ru/articles/1080958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080958)
+- [Как тестировать API: 20 проверок, которые должен уметь делать QA](https://habr.com/ru/companies/netologyru/articles/1075684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075684)
+- [Вместе, но независимо: как мы «подружили» разные движки визуализаций в одном BI-отчете](https://habr.com/ru/companies/modusbi/articles/1079796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079796)
+- [Почему видео из аниме-плеера нельзя вставить в &amp;lt;video&amp;gt;, и как я всё-таки собрал синхронный просмотр на двоих](https://habr.com/ru/articles/1080934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080934)
 <!-- BLOG-POST-LIST:END -->
 
 ---
