@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [SPAC — биржевая фирма-обертка. Выводит на биржу того кто не может. Почему в App Store и Google Play такого почти нет?](https://habr.com/ru/articles/1081056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081056)
+- [SPAC — биржевая фирма‑обертка. Выводит на биржу того кто не может. Почему в App Store и Google Play такого почти нет?](https://habr.com/ru/articles/1081056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081056)
 - [Whisper больше не нужен, русская диктовка мгновенно и без видеокарты](https://habr.com/ru/articles/1080986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080986)
-- [Долговременная память для ИИ-ассистента: как превратить переписку в Telegram в структурированную базу знаний](https://habr.com/ru/articles/1080828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080828)
 - [Утечка на 3.5 часа вперёд: как модель обманывала саму себя полтора месяца — и как мы это поймали](https://habr.com/ru/articles/1080972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080972)
 - [Я попал к психиатру из‑за кодинга с AI](https://habr.com/ru/articles/1080778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080778)
+- [А чё, так можно было? int == -int](https://habr.com/ru/articles/1080958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080958)
 <!-- BLOG-POST-LIST:END -->
 
 ---
