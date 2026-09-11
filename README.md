@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [SPAC — биржевая фирма‑обертка. Выводит на биржу того кто не может. Почему в App Store и Google Play такого почти нет?](https://habr.com/ru/articles/1081056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081056)
-- [Whisper больше не нужен, русская диктовка мгновенно и без видеокарты](https://habr.com/ru/articles/1080986/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080986)
-- [Утечка на 3.5 часа вперёд: как модель обманывала саму себя полтора месяца — и как мы это поймали](https://habr.com/ru/articles/1080972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080972)
-- [Я попал к психиатру из‑за кодинга с AI](https://habr.com/ru/articles/1080778/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080778)
-- [А чё, так можно было? int == -int](https://habr.com/ru/articles/1080958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080958)
+- [Он удалил 11 строк кода. Через час перестали собираться Babel, React Native и тысячи проектов по всему миру](https://habr.com/ru/articles/1081046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081046)
+- [Особенности сбора кодового покрытия в ОС “Нейтрино”](https://habr.com/ru/companies/swd_es/articles/1080274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080274)
+- [Когда decode&lpar;encode&lpar;x&rpar;&rpar; == x недостаточно](https://habr.com/ru/articles/1081156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081156)
+- [Что делает разработчика ценным, когда код всё лучше пишут AI‑агенты](https://habr.com/ru/articles/1081150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081150)
+- [Как разрабатывать приложения для iPhone на iPad](https://habr.com/ru/articles/1081138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081138)
 <!-- BLOG-POST-LIST:END -->
 
 ---
