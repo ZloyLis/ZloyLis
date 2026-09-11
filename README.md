@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как ИИ меняет математику?](https://habr.com/ru/companies/kodik/articles/1081264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081264)
-- [Код будущего: Хабр и Сбер запускают новый сезон статей о роли ИИ в создании ПО](https://habr.com/ru/specials/1080998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080998)
-- [Авторизация как код, но не в коде: ABAC для Spring Boot на Open Policy Agent](https://habr.com/ru/companies/severstal/articles/1081304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081304)
-- [Сознание в рамках Макро- и Микро-Систем &lpar;Первая статья в серии по моему проекту «Zero»&rpar;](https://habr.com/ru/articles/1067612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067612)
-- [Как использовать фреймворк Perseus для решения задач](https://habr.com/ru/companies/tbank/articles/1081276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081276)
+- [[Перевод] Жизненный цикл токена API: от выпуска до отзыва](https://habr.com/ru/companies/timeweb/articles/1077690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077690)
+- [Мы поставили сторожа на конвейер публикаций. Первую неделю он сторожил сам себя](https://habr.com/ru/articles/1081430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081430)
+- [AI меняет центр тяжести разработки](https://habr.com/ru/articles/1081410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081410)
+- [Спиральный фрактал разработки ПО](https://habr.com/ru/articles/1081392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081392)
+- [Как мы разрешили чтение с реплик PostgreSQL — и почему шесть лет говорили «нет»](https://habr.com/ru/companies/avito/articles/1081346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081346)
 <!-- BLOG-POST-LIST:END -->
 
 ---
