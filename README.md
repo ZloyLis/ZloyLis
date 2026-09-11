@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Он удалил 11 строк кода. Через час перестали собираться Babel, React Native и тысячи проектов по всему миру](https://habr.com/ru/articles/1081046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081046)
-- [Особенности сбора кодового покрытия в ОС “Нейтрино”](https://habr.com/ru/companies/swd_es/articles/1080274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080274)
-- [Когда decode&lpar;encode&lpar;x&rpar;&rpar; == x недостаточно](https://habr.com/ru/articles/1081156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081156)
-- [Что делает разработчика ценным, когда код всё лучше пишут AI‑агенты](https://habr.com/ru/articles/1081150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081150)
-- [Как разрабатывать приложения для iPhone на iPad](https://habr.com/ru/articles/1081138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081138)
+- [Как ИИ меняет математику?](https://habr.com/ru/companies/kodik/articles/1081264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081264)
+- [Код будущего: Хабр и Сбер запускают новый сезон статей о роли ИИ в создании ПО](https://habr.com/ru/specials/1080998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080998)
+- [Авторизация как код, но не в коде: ABAC для Spring Boot на Open Policy Agent](https://habr.com/ru/companies/severstal/articles/1081304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081304)
+- [Сознание в рамках Макро- и Микро-Систем &lpar;Первая статья в серии по моему проекту «Zero»&rpar;](https://habr.com/ru/articles/1067612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1067612)
+- [Как использовать фреймворк Perseus для решения задач](https://habr.com/ru/companies/tbank/articles/1081276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081276)
 <!-- BLOG-POST-LIST:END -->
 
 ---
