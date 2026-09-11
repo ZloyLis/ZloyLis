@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Расширяющаяся Вселенная — это растяжение имеющегося пространства или же она создаёт новое пространство?](https://habr.com/ru/articles/1081062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081062)
 - [[Перевод] Жизненный цикл токена API: от выпуска до отзыва](https://habr.com/ru/companies/timeweb/articles/1077690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077690)
 - [Мы поставили сторожа на конвейер публикаций. Первую неделю он сторожил сам себя](https://habr.com/ru/articles/1081430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081430)
 - [AI меняет центр тяжести разработки](https://habr.com/ru/articles/1081410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081410)
 - [Спиральный фрактал разработки ПО](https://habr.com/ru/articles/1081392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081392)
-- [Как мы разрешили чтение с реплик PostgreSQL — и почему шесть лет говорили «нет»](https://habr.com/ru/companies/avito/articles/1081346/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081346)
 <!-- BLOG-POST-LIST:END -->
 
 ---
