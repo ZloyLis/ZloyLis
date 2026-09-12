@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как бумажный «миникомпьютер» Жоржа Папи &lpar;Papy&#39;s Minicomputer&rpar; учил детей двоичной логике](https://habr.com/ru/articles/1081502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081502)
-- [HikariCP в проде: три раза, когда пул соединений уронил сервис, и почему maximumPoolSize тут был ни при чём](https://habr.com/ru/articles/1081494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081494)
-- [Великая теорема Ферма в картинках: эллиптические кривые, кривые Фрея, теория Ивасавы и когомологии](https://habr.com/ru/articles/1073390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073390)
-- [Реестр контейнеров, который живёт внутри ячеек электронной таблицы](https://habr.com/ru/articles/1081480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081480)
-- [Пишу алгоритм FFT на Си для процессора Эльбрус: прямая векторизация](https://habr.com/ru/articles/1080522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080522)
+- [Мы запустили справочник — и через неделю выяснили, что главный ответ на нём неверный](https://habr.com/ru/articles/1081542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081542)
+- [[Перевод] Микрокод внутри сопроцессора Intel 8087: обмен регистрами](https://habr.com/ru/companies/otus/articles/1081142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081142)
+- [Федерация двух кластеров через таблицу: сеть, пул ёмкости и WASM-рантайм в ячейке](https://habr.com/ru/articles/1081536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081536)
+- [Как впихнуть невпихуемое: проектируем B2B‑интерфейс для управления 10 000+ ПК](https://habr.com/ru/articles/1081534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081534)
+- [Cognition выпустила Fusion для Devin Desktop и CLI: две ИИ-модели делят одну задачу](https://habr.com/ru/companies/koda/articles/1081524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081524)
 <!-- BLOG-POST-LIST:END -->
 
 ---
