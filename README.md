@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я автоматизировал почти всю работу в CRM](https://habr.com/ru/articles/1081584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081584)
+- [Цифровая слежка в кармане: аудит 11 популярных российских Android-приложений](https://habr.com/ru/articles/1081580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081580)
+- [Apple против OpenAI: суд за коммерческие тайны или смена технологических формаций?](https://habr.com/ru/articles/1081570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081570)
+- [PostgreSQL умер, да здравствует… PostgreSQL?](https://habr.com/ru/articles/1081568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081568)
 - [Мы запустили справочник — и через неделю выяснили, что главный ответ на нём неверный](https://habr.com/ru/articles/1081542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081542)
-- [[Перевод] Микрокод внутри сопроцессора Intel 8087: обмен регистрами](https://habr.com/ru/companies/otus/articles/1081142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081142)
-- [Федерация двух кластеров через таблицу: сеть, пул ёмкости и WASM-рантайм в ячейке](https://habr.com/ru/articles/1081536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081536)
-- [Как впихнуть невпихуемое: проектируем B2B‑интерфейс для управления 10 000+ ПК](https://habr.com/ru/articles/1081534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081534)
-- [Cognition выпустила Fusion для Devin Desktop и CLI: две ИИ-модели делят одну задачу](https://habr.com/ru/companies/koda/articles/1081524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081524)
 <!-- BLOG-POST-LIST:END -->
 
 ---
