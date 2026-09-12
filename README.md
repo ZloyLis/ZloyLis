@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как бумажный «миникомпьютер» Жоржа Папи &lpar;Papy&#39;s Minicomputer&rpar; учил детей двоичной логике](https://habr.com/ru/articles/1081502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081502)
+- [HikariCP в проде: три раза, когда пул соединений уронил сервис, и почему maximumPoolSize тут был ни при чём](https://habr.com/ru/articles/1081494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081494)
+- [Великая теорема Ферма в картинках: эллиптические кривые, кривые Фрея, теория Ивасавы и когомологии](https://habr.com/ru/articles/1073390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073390)
+- [Реестр контейнеров, который живёт внутри ячеек электронной таблицы](https://habr.com/ru/articles/1081480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081480)
 - [Пишу алгоритм FFT на Си для процессора Эльбрус: прямая векторизация](https://habr.com/ru/articles/1080522/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080522)
-- [[Перевод] Расширяющаяся Вселенная — это растяжение имеющегося пространства или же она создаёт новое пространство?](https://habr.com/ru/articles/1081062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081062)
-- [[Перевод] Жизненный цикл токена API: от выпуска до отзыва](https://habr.com/ru/companies/timeweb/articles/1077690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077690)
-- [Мы поставили сторожа на конвейер публикаций. Первую неделю он сторожил сам себя](https://habr.com/ru/articles/1081430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081430)
-- [AI меняет центр тяжести разработки](https://habr.com/ru/articles/1081410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081410)
 <!-- BLOG-POST-LIST:END -->
 
 ---
