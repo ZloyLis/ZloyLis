@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Я просил ход, который сделал бы человек. Stockfish ответил правильным](https://habr.com/ru/articles/1081610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081610)
 - [Перестать строить планы](https://habr.com/ru/articles/1068230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068230)
 - [Cubot A50 — годный смартфон за 10.000 рублей](https://habr.com/ru/articles/1079998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079998)
-- [Как я автоматизировал почти всю работу в CRM](https://habr.com/ru/articles/1081584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081584)
+- [Как я автоматизировал почти всю работу в CRM](https://habr.com/ru/articles/1081584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081584)
 - [Цифровая слежка в кармане: аудит 11 популярных российских Android-приложений](https://habr.com/ru/articles/1081580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081580)
-- [Apple против OpenAI: суд за коммерческие тайны или смена технологических формаций?](https://habr.com/ru/articles/1081570/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081570)
 <!-- BLOG-POST-LIST:END -->
 
 ---
