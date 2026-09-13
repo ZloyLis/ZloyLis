@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Счастлив тот, кто смог познать причины вещей](https://habr.com/ru/articles/1081822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081822)
+- [Quo vadis?](https://habr.com/ru/articles/655691/?utm_source=habrahabr&utm_medium=rss&utm_campaign=655691)
+- [Проектирование архитектуры плагинов для сторонних провайдеров баз данных в TypeScript-приложении](https://habr.com/ru/articles/1081836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081836)
 - [Я собрала ретрофутуристичную «Виселицу»](https://habr.com/ru/articles/1081814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081814)
 - [Standard JSON Schema vs JSON Schema](https://habr.com/ru/articles/1081812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081812)
-- [Я всегда не любил Duolingo всей душой. Но когда в моем приложении оказалось 70% новичков, то кое‑что сделал так же](https://habr.com/ru/articles/1081726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081726)
-- [ХИ‑квадрат. Как я выбирал low‑code платформу](https://habr.com/ru/articles/1081786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081786)
-- [Перепеть песню и пересобрать код: почему это законно и что делать авторам в эпоху ИИ](https://habr.com/ru/articles/1081768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081768)
 <!-- BLOG-POST-LIST:END -->
 
 ---
