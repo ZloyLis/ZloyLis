@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Тернарная нейронка на C#](https://habr.com/ru/articles/1074678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074678)
 - [Я написал честный сайт с кейсами CS2 — и понял, почему честность тут ничего не решает](https://habr.com/ru/articles/1081642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081642)
 - [Архитектура универсального провайдера баз данных на TypeScript без JDBC](https://habr.com/ru/articles/1081638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081638)
 - [Я просил ход, который сделал бы человек. Stockfish ответил правильным](https://habr.com/ru/articles/1081610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081610)
 - [Перестать строить планы](https://habr.com/ru/articles/1068230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068230)
-- [Cubot A50 — годный смартфон за 10.000 рублей](https://habr.com/ru/articles/1079998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079998)
 <!-- BLOG-POST-LIST:END -->
 
 ---
