@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Тернарная нейронка на C#](https://habr.com/ru/articles/1074678/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1074678)
-- [Я написал честный сайт с кейсами CS2 — и понял, почему честность тут ничего не решает](https://habr.com/ru/articles/1081642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081642)
-- [Архитектура универсального провайдера баз данных на TypeScript без JDBC](https://habr.com/ru/articles/1081638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081638)
-- [Я просил ход, который сделал бы человек. Stockfish ответил правильным](https://habr.com/ru/articles/1081610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081610)
-- [Перестать строить планы](https://habr.com/ru/articles/1068230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068230)
+- [Я дал LLM память, root-доступ и деньги. Получился ли «свободный ИИ»?](https://habr.com/ru/articles/1081714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081714)
+- [Своя телефония на своём железе: SMS через GSM-шлюз и звонки из FreePBX в Telegram](https://habr.com/ru/articles/1081702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081702)
+- [Рендеринг Angular-приложения в Minecraft](https://habr.com/ru/articles/1081682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081682)
+- [Как мы элегантно решили проблему динамических прав в MFC Ribbon, или Наш ответ Чемберлену из Microsoft](https://habr.com/ru/articles/1081672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081672)
+- [[Перевод] Решаем задачу по реверс-инжинирингу от Jane Street](https://habr.com/ru/companies/ruvds/articles/1081192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081192)
 <!-- BLOG-POST-LIST:END -->
 
 ---
