@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Перепеть песню и пересобрать код: почему это законно и что делать авторам в эпоху ИИ](https://habr.com/ru/articles/1081768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081768)
-- [YOLO-JSON: знание [на этапе компиляции] — сила](https://habr.com/ru/articles/1076274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076274)
-- [Давайте сначала сделаем один завод](https://habr.com/ru/articles/1081752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081752)
-- [Как я делаю ИИ-память из переписки в Telegram: десятки тысяч сообщений, тысячи фактов, сотни людей](https://habr.com/ru/articles/1081382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081382)
-- [Бесплатный плагин для входа через VK ID на WordPress: как закрыли потребность, когда готовых решений не нашлось](https://habr.com/ru/articles/1081754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081754)
+- [Я собрала ретрофутуристичную «Виселицу»](https://habr.com/ru/articles/1081814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081814)
+- [Standard JSON Schema vs JSON Schema](https://habr.com/ru/articles/1081812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081812)
+- [Я всегда не любил Duolingo всей душой. Но когда в моем приложении оказалось 70% новичков, то кое‑что сделал так же](https://habr.com/ru/articles/1081726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081726)
+- [ХИ‑квадрат. Как я выбирал low‑code платформу](https://habr.com/ru/articles/1081786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081786)
+- [Перепеть песню и пересобрать код: почему это законно и что делать авторам в эпоху ИИ](https://habr.com/ru/articles/1081768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081768)
 <!-- BLOG-POST-LIST:END -->
 
 ---
