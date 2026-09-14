@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышла Крипто Шифр — моя игра головоломка](https://habr.com/ru/articles/1078772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078772)
-- [Декларативные макросы в Rust: полное руководство](https://habr.com/ru/articles/1070794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070794)
-- [[Перевод] Счастлив тот, кто смог познать причины вещей](https://habr.com/ru/articles/1081822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081822)
-- [Quo vadis?](https://habr.com/ru/articles/655691/?utm_source=habrahabr&utm_medium=rss&utm_campaign=655691)
-- [Проектирование архитектуры плагинов для сторонних провайдеров баз данных в TypeScript-приложении](https://habr.com/ru/articles/1081836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081836)
+- [Одна «кнопка» для гибридного Kubernetes: рассказываем, для каких сценариев она нужна](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/1081112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081112)
+- [Приз за то, чего вы не сделали: соревнование по кибербезопасности для тех, кто не пишет код](https://habr.com/ru/companies/avito/articles/1080584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080584)
+- [ЮKassa, первый платёж в AI-продукте, купоны, анти-даблклик и запрет дублей подписки](https://habr.com/ru/articles/1081996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081996)
+- [Аналитическая платформа данных по игре Dota 2: источники](https://habr.com/ru/articles/1081990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081990)
+- [Фича популярна у самых ценных пользователей. Стоит ли делать её центральной частью продукта?](https://habr.com/ru/companies/otus/articles/1079624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079624)
 <!-- BLOG-POST-LIST:END -->
 
 ---
