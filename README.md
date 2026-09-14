@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Одна «кнопка» для гибридного Kubernetes: рассказываем, для каких сценариев она нужна](https://habr.com/ru/companies/yandex_cloud_and_infra/articles/1081112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081112)
-- [Приз за то, чего вы не сделали: соревнование по кибербезопасности для тех, кто не пишет код](https://habr.com/ru/companies/avito/articles/1080584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080584)
-- [ЮKassa, первый платёж в AI-продукте, купоны, анти-даблклик и запрет дублей подписки](https://habr.com/ru/articles/1081996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081996)
-- [Аналитическая платформа данных по игре Dota 2: источники](https://habr.com/ru/articles/1081990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081990)
-- [Фича популярна у самых ценных пользователей. Стоит ли делать её центральной частью продукта?](https://habr.com/ru/companies/otus/articles/1079624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079624)
+- [Я сисадмин, а не разработчик. Полгода я собирала симулятор ПК на телефон, чтобы научить людей отличать архив от папки](https://habr.com/ru/articles/1082190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082190)
+- [Вебхук ЮKassa принимал payment.succeeded на веру. Подделать оплату брони можно было одним curl](https://habr.com/ru/articles/1082170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082170)
+- [Лучший хостинг для Node.js-приложений и Next.js-сайтов с SSR в 2026](https://habr.com/ru/companies/amvera/articles/1082156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082156)
+- [ИИ делает аналитику доступной каждому, но значит ли это, что аналитиков станет меньше?](https://habr.com/ru/articles/1079068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079068)
+- [Security Week 2638: опасные уязвимости в роутерах MikroTik](https://habr.com/ru/companies/kaspersky/articles/1082108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082108)
 <!-- BLOG-POST-LIST:END -->
 
 ---
