@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла Крипто Шифр — моя игра головоломка](https://habr.com/ru/articles/1078772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078772)
+- [Декларативные макросы в Rust: полное руководство](https://habr.com/ru/articles/1070794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070794)
 - [[Перевод] Счастлив тот, кто смог познать причины вещей](https://habr.com/ru/articles/1081822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081822)
 - [Quo vadis?](https://habr.com/ru/articles/655691/?utm_source=habrahabr&utm_medium=rss&utm_campaign=655691)
 - [Проектирование архитектуры плагинов для сторонних провайдеров баз данных в TypeScript-приложении](https://habr.com/ru/articles/1081836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081836)
-- [Я собрала ретрофутуристичную «Виселицу»](https://habr.com/ru/articles/1081814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081814)
-- [Standard JSON Schema vs JSON Schema](https://habr.com/ru/articles/1081812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081812)
 <!-- BLOG-POST-LIST:END -->
 
 ---
