@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [WXL: как создавать объекты в 15 раз быстрее](https://habr.com/ru/articles/1082702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082702)
-- [[Перевод] Я обучил собственную визуально-языковую модель меньше чем на 1 млрд параметров](https://habr.com/ru/companies/otus/articles/1082580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082580)
-- [А чё, так можно было? Три места в .NET, которые не развидеть](https://habr.com/ru/articles/1082672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082672)
-- [Codex написал рабочий код, но не закрыл задачу: как меняется мой процесс разработки](https://habr.com/ru/articles/1082478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082478)
-- [Роадмап ML 2026: полный путь до оффера за 36 недель](https://habr.com/ru/articles/1082610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082610)
+- [Я написал сайт с кейсами CS2 целиком и выложил под MIT](https://habr.com/ru/articles/1082714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082714)
+- [Вайб‑кодинг до первой катастрофы: Изолируем ИИ‑агентов](https://habr.com/ru/articles/1082718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082718)
+- [WXL: как создавать объекты в 15 раз быстрее](https://habr.com/ru/articles/1082702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082702)
+- [[Перевод] Я обучил собственную визуально‑языковую модель меньше чем на 1 млрд параметров](https://habr.com/ru/companies/otus/articles/1082580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082580)
+- [А чё, так можно было? Три места в.NET, которые не развидеть](https://habr.com/ru/articles/1082672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082672)
 <!-- BLOG-POST-LIST:END -->
 
 ---
