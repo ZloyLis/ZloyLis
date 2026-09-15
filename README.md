@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Нужен ли вашему сайту WAF](https://habr.com/ru/companies/cloud4y/articles/1082306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082306)
-- [Падающая сборка, и это я её просил](https://habr.com/ru/articles/1082060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082060)
-- [Моя «первая» модель CVaR или «Как балансировать между умением выдерживать шторм и способностью заработать на рынке РФ»](https://habr.com/ru/articles/1082296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082296)
-- [Анатомия FASTTRUNCATE: как 1С работает с временными таблицами в PostgreSQL](https://habr.com/ru/companies/tantor/articles/1078088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078088)
-- [Единица, ноль и самообразование: история Джорджа Буля](https://habr.com/ru/companies/psb/articles/1081328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081328)
+- [Как методичка из 1990-х объясняет устройство современных нейросетей](https://habr.com/ru/companies/selectel/articles/1082424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082424)
+- [Codex CLI через свой endpoint: config.toml по строкам и девять способов его сломать](https://habr.com/ru/articles/1082514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082514)
+- [Как AI‑ассистент вырос в production‑систему: путь от NLU к оркестрации и надёжной обработке сообщений](https://habr.com/ru/articles/1082504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082504)
+- [А чё, так можно было? Опечатка в исходниках .NET, которой больше 20 лет](https://habr.com/ru/articles/1082498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082498)
+- [Маленькие тонкости большого дела](https://habr.com/ru/articles/1080876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080876)
 <!-- BLOG-POST-LIST:END -->
 
 ---
