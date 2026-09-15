@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Найм умирает. Может, теперь делать свой продукт не такая уж плохая идея?](https://habr.com/ru/articles/1082238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082238)
-- [Как я перенёс 7 000 треков из Яндекс Музыки в Spotify, хотя у одного нет API, а другой урезал квоту](https://habr.com/ru/articles/1082228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082228)
-- [Что можно сделать с массивом массивов](https://habr.com/ru/articles/1080266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080266)
-- [Выполняю тестовое задание для DevOps Cloud.ru Camp 2025](https://habr.com/ru/articles/1082220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082220)
-- [А чё, так можно было? Три недооценённых атрибута.NET](https://habr.com/ru/articles/1082206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082206)
+- [Нужен ли вашему сайту WAF](https://habr.com/ru/companies/cloud4y/articles/1082306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082306)
+- [Падающая сборка, и это я её просил](https://habr.com/ru/articles/1082060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082060)
+- [Моя «первая» модель CVaR или «Как балансировать между умением выдерживать шторм и способностью заработать на рынке РФ»](https://habr.com/ru/articles/1082296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082296)
+- [Анатомия FASTTRUNCATE: как 1С работает с временными таблицами в PostgreSQL](https://habr.com/ru/companies/tantor/articles/1078088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078088)
+- [Единица, ноль и самообразование: история Джорджа Буля](https://habr.com/ru/companies/psb/articles/1081328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081328)
 <!-- BLOG-POST-LIST:END -->
 
 ---
