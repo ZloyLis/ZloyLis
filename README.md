@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Найм умирает. Может, теперь делать свой продукт не такая уж плохая идея?](https://habr.com/ru/articles/1082238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082238)
 - [Как я перенёс 7 000 треков из Яндекс Музыки в Spotify, хотя у одного нет API, а другой урезал квоту](https://habr.com/ru/articles/1082228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082228)
-- [Что можно сделать с массивом массивов](https://habr.com/ru/articles/1080266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080266)
+- [Что можно сделать с массивом массивов](https://habr.com/ru/articles/1080266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080266)
 - [Выполняю тестовое задание для DevOps Cloud.ru Camp 2025](https://habr.com/ru/articles/1082220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082220)
-- [А чё, так можно было? Три недооценённых атрибута .NET](https://habr.com/ru/articles/1082206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082206)
-- [Промпт-инжиниринг для моделей надежности отказоустойчивого кластера](https://habr.com/ru/articles/1082196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082196)
+- [А чё, так можно было? Три недооценённых атрибута.NET](https://habr.com/ru/articles/1082206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082206)
 <!-- BLOG-POST-LIST:END -->
 
 ---
