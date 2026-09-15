@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как методичка из 1990-х объясняет устройство современных нейросетей](https://habr.com/ru/companies/selectel/articles/1082424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082424)
-- [Codex CLI через свой endpoint: config.toml по строкам и девять способов его сломать](https://habr.com/ru/articles/1082514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082514)
-- [Как AI‑ассистент вырос в production‑систему: путь от NLU к оркестрации и надёжной обработке сообщений](https://habr.com/ru/articles/1082504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082504)
-- [А чё, так можно было? Опечатка в исходниках .NET, которой больше 20 лет](https://habr.com/ru/articles/1082498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082498)
-- [Маленькие тонкости большого дела](https://habr.com/ru/articles/1080876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080876)
+- [А чё, так можно было? Три места в .NET, которые не развидеть](https://habr.com/ru/articles/1082672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082672)
+- [Codex написал рабочий код, но не закрыл задачу: как меняется мой процесс разработки](https://habr.com/ru/articles/1082478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082478)
+- [Роадмап ML 2026: полный путь до оффера за 36 недель](https://habr.com/ru/articles/1082610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082610)
+- [ИИ‑фабрика: переход к автономной разработке](https://habr.com/ru/articles/1082598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082598)
+- [Марио про джуна: платформер на 40 КБ без файлов графики и бот, который проверяет каждый уровень перед выкладкой](https://habr.com/ru/articles/1082596/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082596)
 <!-- BLOG-POST-LIST:END -->
 
 ---
