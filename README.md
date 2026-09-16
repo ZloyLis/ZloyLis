@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Я написал сайт с кейсами CS2 целиком и выложил под MIT](https://habr.com/ru/articles/1082714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082714)
-- [Вайб‑кодинг до первой катастрофы: Изолируем ИИ‑агентов](https://habr.com/ru/articles/1082718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082718)
-- [WXL: как создавать объекты в 15 раз быстрее](https://habr.com/ru/articles/1082702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082702)
-- [[Перевод] Я обучил собственную визуально‑языковую модель меньше чем на 1 млрд параметров](https://habr.com/ru/companies/otus/articles/1082580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082580)
-- [А чё, так можно было? Три места в.NET, которые не развидеть](https://habr.com/ru/articles/1082672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082672)
+- [Сделал себе вышибалу для VPS: кто стучится в.env и в ssh — тот сидит за баном…](https://habr.com/ru/articles/1082848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082848)
+- [«Обратная змейка», часть 2: читаю комментарии, чиню баги и добавляю босса](https://habr.com/ru/companies/ruvds/articles/1081436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081436)
+- [Дайджест: скачиваемые решения в Базе знаний за месяц](https://habr.com/ru/companies/infostart/articles/1082838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082838)
+- [Variadic templates в C++. 11 приёмов работы с пакетами параметров](https://habr.com/ru/companies/simbirsoft/articles/1082340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082340)
+- [Эволюция рендеринга в Zenith Engine: многопоточная загрузка GPU-ресурсов](https://habr.com/ru/companies/2gis/articles/1077552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077552)
 <!-- BLOG-POST-LIST:END -->
 
 ---
