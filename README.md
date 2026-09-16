@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Почему LLM не могут овладеть человеческим языком в совершенстве](https://habr.com/ru/companies/ru_mts/articles/1082524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082524)
-- [Как я собрал бота‑команду из 11 ИИ‑юристов и что под капотом пошло не так первым же смоук‑тестом](https://habr.com/ru/articles/1082992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082992)
-- [Штрихкод есть, базы нет: как я собирал справочник продуктов для домашнего приложения](https://habr.com/ru/articles/1082940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082940)
-- [Как разрабатывать фронтенд без готового бэкенда: инструменты перехвата трафика, мокирования и принцип их работы](https://habr.com/ru/companies/tbank/articles/1082854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082854)
-- [Как я строил zero-knowledge менеджер паролей: три архитектуры, модель угроз и восемь багов](https://habr.com/ru/articles/1082586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082586)
+- [Из книги «Легко не будет»](https://habr.com/ru/articles/1075560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075560)
+- [Как соцсеть для Егоров превратилась в автономный город на Node.js и SQLite](https://habr.com/ru/articles/1083116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083116)
+- [Грязные игры](https://habr.com/ru/articles/1078838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078838)
+- [Kubernetes просто, часть 2: что происходит после kubectl apply](https://habr.com/ru/articles/1083100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083100)
+- [Я устала листать вакансии в телеге и собрала себе агрегатор. Бесплатный, на GitHub Pages и без API нейросетей](https://habr.com/ru/articles/1083086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083086)
 <!-- BLOG-POST-LIST:END -->
 
 ---
