@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Сделал себе вышибалу для VPS: кто стучится в.env и в ssh — тот сидит за баном…](https://habr.com/ru/articles/1082848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082848)
-- [«Обратная змейка», часть 2: читаю комментарии, чиню баги и добавляю босса](https://habr.com/ru/companies/ruvds/articles/1081436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081436)
-- [Дайджест: скачиваемые решения в Базе знаний за месяц](https://habr.com/ru/companies/infostart/articles/1082838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082838)
-- [Variadic templates в C++. 11 приёмов работы с пакетами параметров](https://habr.com/ru/companies/simbirsoft/articles/1082340/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082340)
-- [Эволюция рендеринга в Zenith Engine: многопоточная загрузка GPU-ресурсов](https://habr.com/ru/companies/2gis/articles/1077552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077552)
+- [Почему LLM не могут овладеть человеческим языком в совершенстве](https://habr.com/ru/companies/ru_mts/articles/1082524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082524)
+- [Как я собрал бота‑команду из 11 ИИ‑юристов и что под капотом пошло не так первым же смоук‑тестом](https://habr.com/ru/articles/1082992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082992)
+- [Штрихкод есть, базы нет: как я собирал справочник продуктов для домашнего приложения](https://habr.com/ru/articles/1082940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082940)
+- [Как разрабатывать фронтенд без готового бэкенда: инструменты перехвата трафика, мокирования и принцип их работы](https://habr.com/ru/companies/tbank/articles/1082854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082854)
+- [Как я строил zero-knowledge менеджер паролей: три архитектуры, модель угроз и восемь багов](https://habr.com/ru/articles/1082586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082586)
 <!-- BLOG-POST-LIST:END -->
 
 ---
