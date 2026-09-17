@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kodacode лучший харнес для DeepSeek v4 Flash!? Замерили различные харнессы и модели](https://habr.com/ru/companies/koda/articles/1083546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083546)
+- [Пять способов навсегда поселить flaky‑тесты в своём CI](https://habr.com/ru/companies/otus/articles/1080406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080406)
+- [Наблюдаемость распределенных систем. Практика](https://habr.com/ru/articles/1029244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029244)
+- [[Перевод] Как Amazon пережила крах доткомов](https://habr.com/ru/articles/1080576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080576)
+- [Kodacode лучший харнес для DeepSeek v4 Flash!? Замерили различные харнессы и модели](https://habr.com/ru/companies/koda/articles/1083546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083546)
 - [Как я схлопнул 14 переводов в 5: бот для дележа расходов на голом Node без единой зависимости](https://habr.com/ru/articles/1083534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083534)
-- [Это больше не ХИ‑ХИ: как использовать ИИ — и не разучиться думать](https://habr.com/ru/companies/profi_ru/articles/1083498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083498)
-- [Diablo II, римские стратегии и Prince of Persia: что фронтенду стоит перенять у геймдева](https://habr.com/ru/companies/kaspersky/articles/1078628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078628)
-- [ERP внедрили. Что дальше?](https://habr.com/ru/articles/1083144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083144)
 <!-- BLOG-POST-LIST:END -->
 
 ---
