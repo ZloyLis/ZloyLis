@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Я перестал пользоваться самыми умными ИИ-моделями. Программировать стало быстрее и дешевле](https://habr.com/ru/articles/1083368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083368)
-- [Бэкенд без лишних граблей: 13 статей о PostgreSQL, микросервисах и коде](https://habr.com/ru/companies/otus/articles/1083088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083088)
-- [Как выбирать BI-систему под реальные ограничения организации](https://habr.com/ru/articles/1082098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082098)
-- [Спросил у Claude Code одно слово — он отправил на сервер 305 килобайт. Вскрыл трафик двух кодинг-агентов](https://habr.com/ru/articles/1083326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083326)
-- [Системная отладка или Как искать баги: при чем тут дедукция и цепочка Целлера](https://habr.com/ru/companies/garda/articles/1083046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083046)
+- [Kodacode лучший харнес для DeepSeek v4 Flash!? Замерили различные харнессы и модели](https://habr.com/ru/companies/koda/articles/1083546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083546)
+- [Как я схлопнул 14 переводов в 5: бот для дележа расходов на голом Node без единой зависимости](https://habr.com/ru/articles/1083534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083534)
+- [Это больше не ХИ‑ХИ: как использовать ИИ — и не разучиться думать](https://habr.com/ru/companies/profi_ru/articles/1083498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083498)
+- [Diablo II, римские стратегии и Prince of Persia: что фронтенду стоит перенять у геймдева](https://habr.com/ru/companies/kaspersky/articles/1078628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078628)
+- [ERP внедрили. Что дальше?](https://habr.com/ru/articles/1083144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083144)
 <!-- BLOG-POST-LIST:END -->
 
 ---
