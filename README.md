@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [100 и одна ночь с SDK VK и RuStore: Flutter 3.47, AGP 9 и переезд на Nexus](https://habr.com/ru/articles/1083618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083618)
+- [Так как же всё-таки искать с агентами по нормативке?](https://habr.com/ru/articles/1083156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083156)
 - [Пять способов навсегда поселить flaky‑тесты в своём CI](https://habr.com/ru/companies/otus/articles/1080406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080406)
 - [Наблюдаемость распределенных систем. Практика](https://habr.com/ru/articles/1029244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029244)
-- [[Перевод] Как Amazon пережила крах доткомов](https://habr.com/ru/articles/1080576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080576)
-- [Kodacode лучший харнес для DeepSeek v4 Flash!? Замерили различные харнессы и модели](https://habr.com/ru/companies/koda/articles/1083546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083546)
-- [Как я схлопнул 14 переводов в 5: бот для дележа расходов на голом Node без единой зависимости](https://habr.com/ru/articles/1083534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083534)
+- [[Перевод] Как Amazon пережила крах доткомов](https://habr.com/ru/articles/1080576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080576)
 <!-- BLOG-POST-LIST:END -->
 
 ---
