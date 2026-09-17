@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Из книги «Легко не будет»](https://habr.com/ru/articles/1075560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1075560)
-- [Как соцсеть для Егоров превратилась в автономный город на Node.js и SQLite](https://habr.com/ru/articles/1083116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083116)
-- [Грязные игры](https://habr.com/ru/articles/1078838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078838)
-- [Kubernetes просто, часть 2: что происходит после kubectl apply](https://habr.com/ru/articles/1083100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083100)
-- [Я устала листать вакансии в телеге и собрала себе агрегатор. Бесплатный, на GitHub Pages и без API нейросетей](https://habr.com/ru/articles/1083086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083086)
+- [Я перестал пользоваться самыми умными ИИ-моделями. Программировать стало быстрее и дешевле](https://habr.com/ru/articles/1083368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083368)
+- [Бэкенд без лишних граблей: 13 статей о PostgreSQL, микросервисах и коде](https://habr.com/ru/companies/otus/articles/1083088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083088)
+- [Как выбирать BI-систему под реальные ограничения организации](https://habr.com/ru/articles/1082098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082098)
+- [Спросил у Claude Code одно слово — он отправил на сервер 305 килобайт. Вскрыл трафик двух кодинг-агентов](https://habr.com/ru/articles/1083326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083326)
+- [Системная отладка или Как искать баги: при чем тут дедукция и цепочка Целлера](https://habr.com/ru/companies/garda/articles/1083046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083046)
 <!-- BLOG-POST-LIST:END -->
 
 ---
