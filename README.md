@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Codebase Intelligence для агента: строим «dev tool будущего» и сразу тестируем на Rails монолите в 3,5M+ строк](https://habr.com/ru/articles/1084028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084028)
+- [Навигация во Flutter: выносим переходы из экранов](https://habr.com/ru/articles/1083932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083932)
 - [Почему сеньоры не хотят становиться тимлидами &lpar;и правильно делают&rpar;](https://habr.com/ru/articles/1083768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083768)
 - [«Да, конечно»: как один вопрос на брифинге переписал ролевую модель](https://habr.com/ru/articles/1084000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084000)
 - [NEOMSA ESB: как мы приводили в порядок состав зависимостей интеграционной шины](https://habr.com/ru/companies/neoflex/articles/1083806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083806)
-- [Почему AI упрощает обучение программированию и поднимает порог первой работы](https://habr.com/ru/articles/1083658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083658)
-- [Один Gmail = тысячи адресов для сервиса: что мы случайно нашли в админке](https://habr.com/ru/articles/1083948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083948)
 <!-- BLOG-POST-LIST:END -->
 
 ---
