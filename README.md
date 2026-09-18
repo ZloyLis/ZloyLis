@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Гуси собирают крупу &lpar;приложение&rpar;](https://habr.com/ru/articles/1083630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083630)
-- [100 и одна ночь с SDK VK и RuStore: Flutter 3.47, AGP 9 и переезд на Nexus](https://habr.com/ru/articles/1083618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083618)
-- [Так как же всё-таки искать с агентами по нормативке?](https://habr.com/ru/articles/1083156/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083156)
-- [Пять способов навсегда поселить flaky‑тесты в своём CI](https://habr.com/ru/companies/otus/articles/1080406/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080406)
-- [Наблюдаемость распределенных систем. Практика](https://habr.com/ru/articles/1029244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1029244)
+- [Прозрачный Яндекс.Навигатор: эстетика iOS против читаемости на дороге](https://habr.com/ru/articles/1081574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081574)
+- [Диагностика медленных запросов в 1С: от технологического журнала до плана в SSMS](https://habr.com/ru/articles/1083712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083712)
+- [Сетевой стек ОС «Нейтрино»: встроенная технология data diode](https://habr.com/ru/companies/swd_es/articles/1083052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083052)
+- [[Перевод] Можем ли мы быть уверены, что время действительно существует?](https://habr.com/ru/articles/1083004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083004)
+- [От Excel к диалогу: как мы построили ИИ-помощника Эйру для управления портфелем из 100+ проектов](https://habr.com/ru/companies/bcs_company/articles/1083670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083670)
 <!-- BLOG-POST-LIST:END -->
 
 ---
