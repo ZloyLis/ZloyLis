@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Прозрачный Яндекс.Навигатор: эстетика iOS против читаемости на дороге](https://habr.com/ru/articles/1081574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081574)
-- [Диагностика медленных запросов в 1С: от технологического журнала до плана в SSMS](https://habr.com/ru/articles/1083712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083712)
-- [Сетевой стек ОС «Нейтрино»: встроенная технология data diode](https://habr.com/ru/companies/swd_es/articles/1083052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083052)
-- [[Перевод] Можем ли мы быть уверены, что время действительно существует?](https://habr.com/ru/articles/1083004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083004)
-- [От Excel к диалогу: как мы построили ИИ-помощника Эйру для управления портфелем из 100+ проектов](https://habr.com/ru/companies/bcs_company/articles/1083670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083670)
+- [SQL-инъекция через декомпиляцию: от JAR-файла до захвата пароля](https://habr.com/ru/articles/1083916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083916)
+- [Obsidian для чайников](https://habr.com/ru/articles/1082438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082438)
+- [[Перевод] Как создать собственный экспортер метрик для Kubernetes](https://habr.com/ru/companies/cloud_ru/articles/1083808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083808)
+- [Как мы научили ИИ-модель понимать документы и теперь оформляем новых сотрудников в 2 раза быстрее](https://habr.com/ru/companies/sminex_developer/articles/1083860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083860)
+- [Как моделировали дорожное движение до ИИ](https://habr.com/ru/companies/ru_mts/articles/1083530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083530)
 <!-- BLOG-POST-LIST:END -->
 
 ---
