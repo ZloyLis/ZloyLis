@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL-инъекция через декомпиляцию: от JAR-файла до захвата пароля](https://habr.com/ru/articles/1083916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083916)
-- [Obsidian для чайников](https://habr.com/ru/articles/1082438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082438)
-- [[Перевод] Как создать собственный экспортер метрик для Kubernetes](https://habr.com/ru/companies/cloud_ru/articles/1083808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083808)
-- [Как мы научили ИИ-модель понимать документы и теперь оформляем новых сотрудников в 2 раза быстрее](https://habr.com/ru/companies/sminex_developer/articles/1083860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083860)
-- [Как моделировали дорожное движение до ИИ](https://habr.com/ru/companies/ru_mts/articles/1083530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083530)
+- [Почему сеньоры не хотят становиться тимлидами &lpar;и правильно делают&rpar;](https://habr.com/ru/articles/1083768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083768)
+- [«Да, конечно»: как один вопрос на брифинге переписал ролевую модель](https://habr.com/ru/articles/1084000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084000)
+- [NEOMSA ESB: как мы приводили в порядок состав зависимостей интеграционной шины](https://habr.com/ru/companies/neoflex/articles/1083806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083806)
+- [Почему AI упрощает обучение программированию и поднимает порог первой работы](https://habr.com/ru/articles/1083658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083658)
+- [Один Gmail = тысячи адресов для сервиса: что мы случайно нашли в админке](https://habr.com/ru/articles/1083948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083948)
 <!-- BLOG-POST-LIST:END -->
 
 ---
