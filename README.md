@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Graceful Shutdown в Python-приложениях на Kubernetes: внедрение и практический опыт](https://habr.com/ru/companies/selectel/articles/1081930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081930)
+- [Карточный домик из GPU: архитектура neocloud-пузыря](https://habr.com/ru/articles/1084082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084082)
+- [Имя вашей внутренней библиотеки может занять кто угодно, и сборка возьмёт его версию](https://habr.com/ru/articles/1078232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078232)
+- [Заметки на полях: геометрия спина](https://habr.com/ru/articles/1083892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083892)
 - [[Перевод] Спросите Итана: существуют ли в реальности белые дыры, как противоположность чёрных дыр?](https://habr.com/ru/articles/1083720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083720)
-- [Сервер был нужен ради одного заголовка: порт на Dart, future, который ждёт сам себя, и загрузчик без ffmpeg](https://habr.com/ru/articles/1084044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084044)
-- [Codebase Intelligence для агента: строим «dev tool будущего» и сразу тестируем на Rails монолите в 3,5M+ строк](https://habr.com/ru/articles/1084028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084028)
-- [Навигация во Flutter: выносим переходы из экранов](https://habr.com/ru/articles/1083932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083932)
-- [Почему сеньоры не хотят становиться тимлидами &lpar;и правильно делают&rpar;](https://habr.com/ru/articles/1083768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083768)
 <!-- BLOG-POST-LIST:END -->
 
 ---
