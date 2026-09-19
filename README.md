@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Graceful Shutdown в Python-приложениях на Kubernetes: внедрение и практический опыт](https://habr.com/ru/companies/selectel/articles/1081930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081930)
-- [Карточный домик из GPU: архитектура neocloud-пузыря](https://habr.com/ru/articles/1084082/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084082)
-- [Имя вашей внутренней библиотеки может занять кто угодно, и сборка возьмёт его версию](https://habr.com/ru/articles/1078232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078232)
-- [Заметки на полях: геометрия спина](https://habr.com/ru/articles/1083892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083892)
-- [[Перевод] Спросите Итана: существуют ли в реальности белые дыры, как противоположность чёрных дыр?](https://habr.com/ru/articles/1083720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083720)
+- [Одна буква «Е», две раскладки и 87 тысяч составов](https://habr.com/ru/articles/1084138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084138)
+- [[Перевод] Rewrite It in Rust: когда переписывание действительно оправдано](https://habr.com/ru/companies/otus/articles/1083700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083700)
+- [Кнопка нажата, а ответа нет: как не потерять действие пользователя и не наделать дублей](https://habr.com/ru/articles/1084120/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084120)
+- [Почему внедрение BI не заканчивается публикацией дашборда](https://habr.com/ru/articles/1082112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082112)
+- [А как вы проводите технический онбординг?](https://habr.com/ru/articles/1084100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084100)
 <!-- BLOG-POST-LIST:END -->
 
 ---
