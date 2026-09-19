@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Тайна кнопочного Android-смартфона за 900 рублей, который мощнее чем ПК из середины нулевых: разбираем и изучаем девайс](https://habr.com/ru/companies/timeweb/articles/1083994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083994)
-- [А какое у вас нишевое хобби? Я вот сделала курс по архитектуре мессенджера, пока готовилась к собесу](https://habr.com/ru/articles/1084150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084150)
+- [ИИ-агенту запретили запись в CRM. Но CRM всё равно изменилась](https://habr.com/ru/articles/1084190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084190)
+- [Тайна кнопочного Android‑смартфона за 900 рублей, который мощнее чем ПК из середины нулевых: разбираем и изучаем девайс](https://habr.com/ru/companies/timeweb/articles/1083994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083994)
+- [А какое у вас нишевое хобби? Я вот сделала курс по архитектуре мессенджера, пока готовилась к собесу](https://habr.com/ru/articles/1084150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084150)
 - [Completion не доказывает качество результата AI-агента](https://habr.com/ru/articles/1084146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084146)
 - [Одна буква «Е», две раскладки и 87 тысяч составов](https://habr.com/ru/articles/1084138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084138)
-- [[Перевод] Rewrite It in Rust: когда переписывание действительно оправдано](https://habr.com/ru/companies/otus/articles/1083700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083700)
 <!-- BLOG-POST-LIST:END -->
 
 ---
