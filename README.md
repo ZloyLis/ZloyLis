@@ -35,7 +35,7 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [DDoS-атака или парсеры? Как боты перегружали интернет-магазин на OT Box и увеличивали платные вызовы OTAPI](https://habr.com/ru/articles/1084220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084220)
+- [DDoS‑атака или парсеры? Как боты перегружали интернет‑магазин на OT Box и увеличивали платные вызовы OTAPI](https://habr.com/ru/articles/1084220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084220)
 - [ИИ-агенту запретили запись в CRM. Но CRM всё равно изменилась](https://habr.com/ru/articles/1084190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084190)
 - [Тайна кнопочного Android‑смартфона за 900 рублей, который мощнее чем ПК из середины нулевых: разбираем и изучаем девайс](https://habr.com/ru/companies/timeweb/articles/1083994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083994)
 - [А какое у вас нишевое хобби? Я вот сделала курс по архитектуре мессенджера, пока готовилась к собесу](https://habr.com/ru/articles/1084150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084150)
