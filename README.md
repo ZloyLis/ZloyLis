@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [YOLO-JSON: Рефлексия + #embed + JSON schema = сверхоптимизированный парсер](https://habr.com/ru/articles/1082564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082564)
-- [Персональные инструменты как пет-проект](https://habr.com/ru/articles/1084338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084338)
-- [Я больше не пишу код руками. Работать стало тяжелее](https://habr.com/ru/articles/1084336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084336)
-- [Apache Iceberg: Индиана Джонс и Каталог судьбы в Lakehouse](https://habr.com/ru/articles/1084334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084334)
-- [Четверо в одной транзакции: кейс-батлы, PgBouncer под Prisma и реплика, которая показывает пустой инвентарь](https://habr.com/ru/articles/1084056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084056)
+- [5 способов быстро улучшить игру на LibGDX](https://habr.com/ru/articles/1084390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084390)
+- [AI написал весь код. Почему архитектуру PoC и деплой пришлось делать самому?](https://habr.com/ru/articles/1082454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082454)
+- [Интерфейс наблюдателя: структурная и математическая модель различения](https://habr.com/ru/articles/1084414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084414)
+- [Финальная битва за календари. Первая битва за контекст для ИИ](https://habr.com/ru/articles/1084412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084412)
+- [Одинаковые данные, разные p-value: почему важно правило остановки](https://habr.com/ru/articles/1084294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084294)
 <!-- BLOG-POST-LIST:END -->
 
 ---
