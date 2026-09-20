@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Четверо в одной транзакции: кейс-батлы, PgBouncer под Prisma и реплика, которая показывает пустой инвентарь](https://habr.com/ru/articles/1084056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084056)
+- [Нужна ли умная модель для рутины? Дал четырём моделям пять одинаковых задач и сравнил](https://habr.com/ru/articles/1084270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084270)
 - [Системы управления требованиями где вы?](https://habr.com/ru/articles/1080018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080018)
 - [Tatarnetes: как мы научили Kubernetes говорить по-татарски, цитировать Габдуллу Тукая и останавливаться на чай с молоком](https://habr.com/ru/articles/1084230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084230)
-- [Защита сайта от DDoS и парсеров: реальный кейс интернет-магазина на OT Box и OTAPI](https://habr.com/ru/articles/1084220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084220)
-- [ИИ-агенту запретили запись в CRM. Но CRM всё равно изменилась](https://habr.com/ru/articles/1084190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084190)
-- [Тайна кнопочного Android‑смартфона за 900 рублей, который мощнее чем ПК из середины нулевых: разбираем и изучаем девайс](https://habr.com/ru/companies/timeweb/articles/1083994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083994)
+- [Защита сайта от парсеров: снижение нагрузки на OT Box и вызовов OTAPI](https://habr.com/ru/articles/1084220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084220)
 <!-- BLOG-POST-LIST:END -->
 
 ---
