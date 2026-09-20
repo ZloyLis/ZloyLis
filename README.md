@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [DDoS‑атака или парсеры? Как боты перегружали интернет‑магазин на OT Box и увеличивали платные вызовы OTAPI](https://habr.com/ru/articles/1084220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084220)
+- [Системы управления требованиями где вы?](https://habr.com/ru/articles/1080018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080018)
+- [Tatarnetes: как мы научили Kubernetes говорить по-татарски, цитировать Габдуллу Тукая и останавливаться на чай с молоком](https://habr.com/ru/articles/1084230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084230)
+- [Защита сайта от DDoS и парсеров: реальный кейс интернет-магазина на OT Box и OTAPI](https://habr.com/ru/articles/1084220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084220)
 - [ИИ-агенту запретили запись в CRM. Но CRM всё равно изменилась](https://habr.com/ru/articles/1084190/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084190)
 - [Тайна кнопочного Android‑смартфона за 900 рублей, который мощнее чем ПК из середины нулевых: разбираем и изучаем девайс](https://habr.com/ru/companies/timeweb/articles/1083994/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083994)
-- [А какое у вас нишевое хобби? Я вот сделала курс по архитектуре мессенджера, пока готовилась к собесу](https://habr.com/ru/articles/1084150/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084150)
-- [Completion не доказывает качество результата AI-агента](https://habr.com/ru/articles/1084146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084146)
 <!-- BLOG-POST-LIST:END -->
 
 ---
