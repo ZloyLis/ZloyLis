@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [YOLO-JSON: Рефлексия + #embed + JSON schema = сверхоптимизированный парсер](https://habr.com/ru/articles/1082564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082564)
+- [Персональные инструменты как пет-проект](https://habr.com/ru/articles/1084338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084338)
+- [Я больше не пишу код руками. Работать стало тяжелее](https://habr.com/ru/articles/1084336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084336)
+- [Apache Iceberg: Индиана Джонс и Каталог судьбы в Lakehouse](https://habr.com/ru/articles/1084334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084334)
 - [Четверо в одной транзакции: кейс-батлы, PgBouncer под Prisma и реплика, которая показывает пустой инвентарь](https://habr.com/ru/articles/1084056/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084056)
-- [Нужна ли умная модель для рутины? Дал четырём моделям пять одинаковых задач и сравнил](https://habr.com/ru/articles/1084270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084270)
-- [Системы управления требованиями где вы?](https://habr.com/ru/articles/1080018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1080018)
-- [Tatarnetes: как мы научили Kubernetes говорить по-татарски, цитировать Габдуллу Тукая и останавливаться на чай с молоком](https://habr.com/ru/articles/1084230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084230)
-- [Защита сайта от парсеров: снижение нагрузки на OT Box и вызовов OTAPI](https://habr.com/ru/articles/1084220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084220)
 <!-- BLOG-POST-LIST:END -->
 
 ---
