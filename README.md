@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Мечтает ли трехмерный андроид о четырехмерных овцах?](https://habr.com/ru/articles/1084430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084430)
+- [Откуда берётся сложность](https://habr.com/ru/articles/1079460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079460)
+- [Мечтает ли трехмерный андроид о четырехмерных овцах?](https://habr.com/ru/articles/1084430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084430)
 - [Каррирование и частичное применение в C++: владение, время жизни и категории значений](https://habr.com/ru/articles/1084890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084890)
 - [[Перевод] Как устроены LLM: разбираем на примере 3-уровневой абстракции](https://habr.com/ru/articles/1084878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084878)
 - [Почему &amp;quot;+=&amp;quot; сложнее реализовать, чем &amp;quot;+&amp;quot;: опыт HydraScript](https://habr.com/ru/articles/1084870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084870)
-- [Kubernetes просто, часть 3: зачем нужен Service и как трафик доходит до конкретного Pod](https://habr.com/ru/articles/1084866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084866)
 <!-- BLOG-POST-LIST:END -->
 
 ---
