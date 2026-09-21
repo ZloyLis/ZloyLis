@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Я стала руководителем. А кто-нибудь объяснит, что теперь делать?](https://habr.com/ru/articles/1084606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084606)
-- [Бесплатного интеллекта не бывает: кто оплачивает данные для LLM](https://habr.com/ru/articles/1084566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084566)
-- [Про то, как я научил своего аватара снимать видео по сценарию без ИИ-генерации видео &lpar;часть 2&rpar;](https://habr.com/ru/articles/1083540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083540)
-- [[Перевод] Программирование на грани понимания](https://habr.com/ru/articles/1084578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084578)
-- [Вход в Kubernetes по 2FA: как мы связали Gateway API, Dex и MULTIDIRECTORY](https://habr.com/ru/companies/multifactor/articles/1084572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084572)
+- [Security Week 2639: вредоносное ПО на торрент-трекерах](https://habr.com/ru/companies/kaspersky/articles/1084718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084718)
+- [Код быстрее, проверок больше: как ИИ меняет DevSecOps](https://habr.com/ru/companies/solarsecurity/articles/1084802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084802)
+- [Как перестать писать шаблонный код в Symfony: Практические DX-трюки для ленивого разработчика](https://habr.com/ru/companies/codesrc_it/articles/1083762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083762)
+- [ИИ не напишет за вас: как масштабировать проект и не утонуть в нечитаемом коде](https://habr.com/ru/articles/1084782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084782)
+- [[Перевод] Трагедия версионирования ПО](https://habr.com/ru/companies/spring_aio/articles/1084716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084716)
 <!-- BLOG-POST-LIST:END -->
 
 ---
