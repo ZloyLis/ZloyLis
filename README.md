@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Security Week 2639: вредоносное ПО на торрент-трекерах](https://habr.com/ru/companies/kaspersky/articles/1084718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084718)
-- [Код быстрее, проверок больше: как ИИ меняет DevSecOps](https://habr.com/ru/companies/solarsecurity/articles/1084802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084802)
-- [Как перестать писать шаблонный код в Symfony: Практические DX-трюки для ленивого разработчика](https://habr.com/ru/companies/codesrc_it/articles/1083762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083762)
-- [ИИ не напишет за вас: как масштабировать проект и не утонуть в нечитаемом коде](https://habr.com/ru/articles/1084782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084782)
-- [[Перевод] Трагедия версионирования ПО](https://habr.com/ru/companies/spring_aio/articles/1084716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084716)
+- [Мечтает ли трехмерный андроид о четырехмерных овцах?](https://habr.com/ru/articles/1084430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084430)
+- [Каррирование и частичное применение в C++: владение, время жизни и категории значений](https://habr.com/ru/articles/1084890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084890)
+- [[Перевод] Как устроены LLM: разбираем на примере 3-уровневой абстракции](https://habr.com/ru/articles/1084878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084878)
+- [Почему &amp;quot;+=&amp;quot; сложнее реализовать, чем &amp;quot;+&amp;quot;: опыт HydraScript](https://habr.com/ru/articles/1084870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084870)
+- [Kubernetes просто, часть 3: зачем нужен Service и как трафик доходит до конкретного Pod](https://habr.com/ru/articles/1084866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084866)
 <!-- BLOG-POST-LIST:END -->
 
 ---
