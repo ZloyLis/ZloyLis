@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] ИИ-дилемма: рост против риска для человечества. Разбираем этически неоднозначную статью экономиста Чарльза Джонса](https://habr.com/ru/articles/1052748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052748)
 - [Подбор рекламных объектов в DSP: сколько стоит найти нужный баннер за сто миллисекунд](https://habr.com/ru/articles/1084422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084422)
 - [5 способов быстро улучшить игру на LibGDX](https://habr.com/ru/articles/1084390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084390)
 - [AI написал весь код. Почему архитектуру PoC и деплой пришлось делать самому?](https://habr.com/ru/articles/1082454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082454)
 - [Финальная битва за календари. Первая битва за контекст для ИИ](https://habr.com/ru/articles/1084412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084412)
-- [Одинаковые данные, разные p‑value: почему важно правило остановки](https://habr.com/ru/articles/1084294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084294)
 <!-- BLOG-POST-LIST:END -->
 
 ---
