@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] ИИ-дилемма: рост против риска для человечества. Разбираем этически неоднозначную статью экономиста Чарльза Джонса](https://habr.com/ru/articles/1052748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052748)
-- [Подбор рекламных объектов в DSP: сколько стоит найти нужный баннер за сто миллисекунд](https://habr.com/ru/articles/1084422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084422)
-- [5 способов быстро улучшить игру на LibGDX](https://habr.com/ru/articles/1084390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084390)
-- [AI написал весь код. Почему архитектуру PoC и деплой пришлось делать самому?](https://habr.com/ru/articles/1082454/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082454)
-- [Финальная битва за календари. Первая битва за контекст для ИИ](https://habr.com/ru/articles/1084412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084412)
+- [Я стала руководителем. А кто-нибудь объяснит, что теперь делать?](https://habr.com/ru/articles/1084606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084606)
+- [Бесплатного интеллекта не бывает: кто оплачивает данные для LLM](https://habr.com/ru/articles/1084566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084566)
+- [Про то, как я научил своего аватара снимать видео по сценарию без ИИ-генерации видео &lpar;часть 2&rpar;](https://habr.com/ru/articles/1083540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083540)
+- [[Перевод] Программирование на грани понимания](https://habr.com/ru/articles/1084578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084578)
+- [Вход в Kubernetes по 2FA: как мы связали Gateway API, Dex и MULTIDIRECTORY](https://habr.com/ru/companies/multifactor/articles/1084572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084572)
 <!-- BLOG-POST-LIST:END -->
 
 ---
