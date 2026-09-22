@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Рулим в облака: деплой микросервиса генерации ID в Kubernetes](https://habr.com/ru/articles/1084446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084446)
+- [Native AOT заставил меня переписать весь .NET проект](https://habr.com/ru/articles/1085386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085386)
+- [Гайд по switchback‑экспериментам: длина окна, кластеризация ошибок и мощность](https://habr.com/ru/companies/otus/articles/1081848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081848)
+- [[Перевод] Наибольшее число, которое можно уместить в одном твите](https://habr.com/ru/articles/1085210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085210)
 - [Где ещё дают LLM API бесплатно: проверяю очередные находки](https://habr.com/ru/articles/1085352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085352)
-- [Корутины C++: как приручить асинхронный I/O](https://habr.com/ru/articles/1085348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085348)
-- [Карта чёрная, в консоли ни одной ошибки. Три бага одной подложки](https://habr.com/ru/articles/1085300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085300)
-- [Как мы мигрировали с MongoDB на Cassandra за квартал: опыт использования АI-агентов](https://habr.com/ru/companies/avito/articles/1082358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082358)
-- [Кто нашёл больше багов — агент или человек? Мои замеры 11 недель работы с AI-тестировщиком](https://habr.com/ru/articles/1085288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085288)
 <!-- BLOG-POST-LIST:END -->
 
 ---
