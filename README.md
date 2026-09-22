@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Промпт — не контракт: замерил, как часто модель нарушает жёсткие правила, и вынес их в код](https://habr.com/ru/articles/1085028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085028)
-- [Шрифт — это не просто буквы: как устроен шрифтовой дизайн, что изменят нейросети и за что на самом деле платят](https://habr.com/ru/articles/1085010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085010)
-- [Как я понял, что делаю x16 на Cursor — и почему убрали цену](https://habr.com/ru/articles/1085008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085008)
-- [[Перевод] Полезные новшества в ECMAScript 2026](https://habr.com/ru/companies/timeweb/articles/1081878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081878)
-- [Блокчейн цел, деньги пропали: атаки на оракулы и безопасное чтение цены в Solidity](https://habr.com/ru/articles/1085004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085004)
+- [Сколько живёт GPU: вопрос на $300 млрд](https://habr.com/ru/articles/1085236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085236)
+- [Неудаляемый бэкап: три режима Object Lock и цена неверного выбора](https://habr.com/ru/companies/vktech/articles/1078614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078614)
+- [Нода загружена на 40%, а поды стоят: как найти причину через PSI в Kubernetes](https://habr.com/ru/companies/otus/articles/1081844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081844)
+- [Почему одна и та же модель может стоить в пять раз дороже](https://habr.com/ru/companies/koda/articles/1084448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084448)
+- [Теперь Яндекс показывает рекламу посетителям прямо на вашем сайте](https://habr.com/ru/articles/1085158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085158)
 <!-- BLOG-POST-LIST:END -->
 
 ---
