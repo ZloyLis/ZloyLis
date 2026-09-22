@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Сколько живёт GPU: вопрос на $300 млрд](https://habr.com/ru/articles/1085236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085236)
-- [Неудаляемый бэкап: три режима Object Lock и цена неверного выбора](https://habr.com/ru/companies/vktech/articles/1078614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078614)
-- [Нода загружена на 40%, а поды стоят: как найти причину через PSI в Kubernetes](https://habr.com/ru/companies/otus/articles/1081844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081844)
-- [Почему одна и та же модель может стоить в пять раз дороже](https://habr.com/ru/companies/koda/articles/1084448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084448)
-- [Теперь Яндекс показывает рекламу посетителям прямо на вашем сайте](https://habr.com/ru/articles/1085158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085158)
+- [Где ещё дают LLM API бесплатно: проверяю очередные находки](https://habr.com/ru/articles/1085352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085352)
+- [Корутины C++: как приручить асинхронный I/O](https://habr.com/ru/articles/1085348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085348)
+- [Карта чёрная, в консоли ни одной ошибки. Три бага одной подложки](https://habr.com/ru/articles/1085300/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085300)
+- [Как мы мигрировали с MongoDB на Cassandra за квартал: опыт использования АI-агентов](https://habr.com/ru/companies/avito/articles/1082358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082358)
+- [Кто нашёл больше багов — агент или человек? Мои замеры 11 недель работы с AI-тестировщиком](https://habr.com/ru/articles/1085288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085288)
 <!-- BLOG-POST-LIST:END -->
 
 ---
