@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Откуда берётся сложность](https://habr.com/ru/articles/1079460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1079460)
-- [Мечтает ли трехмерный андроид о четырехмерных овцах?](https://habr.com/ru/articles/1084430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084430)
-- [Каррирование и частичное применение в C++: владение, время жизни и категории значений](https://habr.com/ru/articles/1084890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084890)
-- [[Перевод] Как устроены LLM: разбираем на примере 3-уровневой абстракции](https://habr.com/ru/articles/1084878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084878)
-- [Почему &amp;quot;+=&amp;quot; сложнее реализовать, чем &amp;quot;+&amp;quot;: опыт HydraScript](https://habr.com/ru/articles/1084870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084870)
+- [Промпт — не контракт: замерил, как часто модель нарушает жёсткие правила, и вынес их в код](https://habr.com/ru/articles/1085028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085028)
+- [Шрифт — это не просто буквы: как устроен шрифтовой дизайн, что изменят нейросети и за что на самом деле платят](https://habr.com/ru/articles/1085010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085010)
+- [Как я понял, что делаю x16 на Cursor — и почему убрали цену](https://habr.com/ru/articles/1085008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085008)
+- [[Перевод] Полезные новшества в ECMAScript 2026](https://habr.com/ru/companies/timeweb/articles/1081878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081878)
+- [Блокчейн цел, деньги пропали: атаки на оракулы и безопасное чтение цены в Solidity](https://habr.com/ru/articles/1085004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085004)
 <!-- BLOG-POST-LIST:END -->
 
 ---
