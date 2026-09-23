@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы вдвоем писали кроссплатформенный мессенджер: Compose Multiplatform, SFU на Go и сжатие трафика](https://habr.com/ru/articles/1085446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085446)
+- [Методология нейрослопа](https://habr.com/ru/articles/1085426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085426)
+- [Проблема с vue-i18n и почему Intlayer ее решает](https://habr.com/ru/articles/1085432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085432)
+- [Компьютер остался дома: как подключиться к нему с телефона или планшета](https://habr.com/ru/articles/1085424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085424)
 - [Рулим в облака: деплой микросервиса генерации ID в Kubernetes](https://habr.com/ru/articles/1084446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084446)
-- [Native AOT заставил меня переписать весь .NET проект](https://habr.com/ru/articles/1085386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085386)
-- [Гайд по switchback‑экспериментам: длина окна, кластеризация ошибок и мощность](https://habr.com/ru/companies/otus/articles/1081848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081848)
-- [[Перевод] Наибольшее число, которое можно уместить в одном твите](https://habr.com/ru/articles/1085210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085210)
-- [Где ещё дают LLM API бесплатно: проверяю очередные находки](https://habr.com/ru/articles/1085352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085352)
 <!-- BLOG-POST-LIST:END -->
 
 ---
