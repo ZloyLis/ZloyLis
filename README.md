@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как мы вдвоем писали кроссплатформенный мессенджер: Compose Multiplatform, SFU на Go и сжатие трафика](https://habr.com/ru/articles/1085446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085446)
-- [Методология нейрослопа](https://habr.com/ru/articles/1085426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085426)
-- [Проблема с vue-i18n и почему Intlayer ее решает](https://habr.com/ru/articles/1085432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085432)
-- [Компьютер остался дома: как подключиться к нему с телефона или планшета](https://habr.com/ru/articles/1085424/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085424)
-- [Рулим в облака: деплой микросервиса генерации ID в Kubernetes](https://habr.com/ru/articles/1084446/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084446)
+- [Мы два года строили информационную систему, думая, что пишем телеграм бота](https://habr.com/ru/articles/1085620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085620)
+- [Переход с Docker Swarm на Kubernetes. Сложности и перспективы](https://habr.com/ru/articles/1085610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085610)
+- [Записки оптимизатора 1С &lpar;ч.20&rpar;. На сколько реально настройки Huge Pages для Postgres могут ускорить запросы 1С](https://habr.com/ru/companies/softpoint/articles/1085598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085598)
+- [Когда разработчиков больше нуля, но меньше двух: как я держу планку продакшна в одиночку](https://habr.com/ru/articles/1085594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085594)
+- [Чтобы поменять запятую в боте, нужен был деплой](https://habr.com/ru/articles/1084298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084298)
 <!-- BLOG-POST-LIST:END -->
 
 ---
