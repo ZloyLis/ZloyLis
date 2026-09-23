@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Мы два года строили информационную систему, думая, что пишем телеграм бота](https://habr.com/ru/articles/1085620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085620)
-- [Переход с Docker Swarm на Kubernetes. Сложности и перспективы](https://habr.com/ru/articles/1085610/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085610)
-- [Записки оптимизатора 1С &lpar;ч.20&rpar;. На сколько реально настройки Huge Pages для Postgres могут ускорить запросы 1С](https://habr.com/ru/companies/softpoint/articles/1085598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085598)
-- [Когда разработчиков больше нуля, но меньше двух: как я держу планку продакшна в одиночку](https://habr.com/ru/articles/1085594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085594)
-- [Чтобы поменять запятую в боте, нужен был деплой](https://habr.com/ru/articles/1084298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084298)
+- [Почему разработка постоянно выходит за сроки и как исправить это с помощью Shape Up](https://habr.com/ru/companies/otus/articles/1081850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081850)
+- [Тест на подделку куки проходил без проверки подписи: как я принимаю код от ИИ-агентов](https://habr.com/ru/articles/1085452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085452)
+- [Веб‑кошелёк Monero на официальном monero‑wallet‑rpc: digest‑авторизация, двухфазная отправка и BigInt вместо float](https://habr.com/ru/articles/1085792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085792)
+- [Мы написали автономного агента для VACUUM/ANALYZE и запустили на 800+ тестовых БД: что из этого вышло](https://habr.com/ru/companies/sberbank/articles/1085576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085576)
+- [Планировщик маршрутов для походов, который я писал для себя и почему другие сервисы заставили меня это сделать](https://habr.com/ru/articles/1085732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085732)
 <!-- BLOG-POST-LIST:END -->
 
 ---
