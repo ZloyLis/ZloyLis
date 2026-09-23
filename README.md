@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Почему разработка постоянно выходит за сроки и как исправить это с помощью Shape Up](https://habr.com/ru/companies/otus/articles/1081850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1081850)
-- [Тест на подделку куки проходил без проверки подписи: как я принимаю код от ИИ-агентов](https://habr.com/ru/articles/1085452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085452)
-- [Веб‑кошелёк Monero на официальном monero‑wallet‑rpc: digest‑авторизация, двухфазная отправка и BigInt вместо float](https://habr.com/ru/articles/1085792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085792)
-- [Мы написали автономного агента для VACUUM/ANALYZE и запустили на 800+ тестовых БД: что из этого вышло](https://habr.com/ru/companies/sberbank/articles/1085576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085576)
-- [Планировщик маршрутов для походов, который я писал для себя и почему другие сервисы заставили меня это сделать](https://habr.com/ru/articles/1085732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085732)
+- [Long Tanh: гибридная функция активации для глубоких сетей](https://habr.com/ru/articles/1085894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085894)
+- [Держи хотпас в холоде, а кеш в тепле](https://habr.com/ru/articles/1066452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066452)
+- [Сколько нужно знать, чтобы уже отвечать за результат](https://habr.com/ru/articles/1085886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085886)
+- [[Перевод] Рейтинг венчурных фондов Стребулаева-Джексона за 2026 год](https://habr.com/ru/articles/1076038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076038)
+- [Кросс-компиляция под андроид и не только](https://habr.com/ru/articles/1085858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085858)
 <!-- BLOG-POST-LIST:END -->
 
 ---
