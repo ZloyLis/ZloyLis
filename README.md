@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Терпение. Или как один зависший кадр заставил меня построить ещё полсистемы;‑&rpar;](https://habr.com/ru/articles/1085912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085912)
-- [Long Tanh: гибридная функция активации для глубоких сетей](https://habr.com/ru/articles/1085894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085894)
-- [Держи хотпас в холоде, а кеш в тепле](https://habr.com/ru/articles/1066452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066452)
-- [Сколько нужно знать, чтобы уже отвечать за результат](https://habr.com/ru/articles/1085886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085886)
-- [[Перевод] Рейтинг венчурных фондов Стребулаева‑Джексона за 2026 год](https://habr.com/ru/articles/1076038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076038)
+- [Обзор low-code платформы Интернета вещей AggreGate](https://habr.com/ru/companies/w_code/articles/1085960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085960)
+- [RuntimeNodes: как мы, ML‑щики, стали писать рантайм](https://habr.com/ru/companies/yandex/articles/1084502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084502)
+- [PostgreSQL: три источника времени в одной таблице](https://habr.com/ru/articles/1085828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085828)
+- [[Перевод] Попробуйте Flutter Web с WebAssembly Week](https://habr.com/ru/articles/1085926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085926)
+- [Шильдик «Опытный пользователь LLM»](https://habr.com/ru/articles/1085916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085916)
 <!-- BLOG-POST-LIST:END -->
 
 ---
