@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Помните исследование про «ИИ замедляет на 19%»? Его повторили — и оно сломалось](https://habr.com/ru/companies/domclick/articles/1085232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085232)
-- [Как я всё‑таки опубликовала игру в Google Play из России](https://habr.com/ru/articles/1086240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086240)
-- [[Перевод] AI пишет код быстрее, но ревью становится тяжелее: откуда берётся когнитивный долг](https://habr.com/ru/companies/otus/articles/1085730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085730)
-- [ИИ заберёт тексты и код. Но это никогда не было главной работой человека. Часть 3](https://habr.com/ru/companies/X5Tech/articles/1063486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063486)
-- [Как взвесить чужой репозиторий, не запуская его: 138 проектов из трендов GitHub](https://habr.com/ru/articles/1086232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086232)
+- [Как мы научили LLMCOD собирать базу знаний не только из HTML, но и из SPA и открытых API](https://habr.com/ru/articles/1086396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086396)
+- [Как перестать искать ошибки в YAML глазами: пишем валидатор для Go](https://habr.com/ru/articles/1086386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086386)
+- [Код, пот и слезы: композиционный анализ проектов на С/С++](https://habr.com/ru/companies/codescoring/articles/1086376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086376)
+- [Flowise закрыли, я его форкнул — и выяснил, что форкать было нельзя](https://habr.com/ru/articles/1086288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086288)
+- [Я автоматизировал поиск работы, сделал 553 отклика за три недели и сходил на собеседования](https://habr.com/ru/articles/1086362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086362)
 <!-- BLOG-POST-LIST:END -->
 
 ---
