@@ -35,7 +35,7 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Терпение. Или как один зависший кадр заставил меня построить ещё полсистемы ;&rpar;](https://habr.com/ru/articles/1085912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085912)
+- [Терпение. Или как один зависший кадр заставил меня построить ещё полсистемы;‑&rpar;](https://habr.com/ru/articles/1085912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085912)
 - [Long Tanh: гибридная функция активации для глубоких сетей](https://habr.com/ru/articles/1085894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085894)
 - [Держи хотпас в холоде, а кеш в тепле](https://habr.com/ru/articles/1066452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066452)
 - [Сколько нужно знать, чтобы уже отвечать за результат](https://habr.com/ru/articles/1085886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085886)
