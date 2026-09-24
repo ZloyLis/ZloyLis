@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Обзор low-code платформы Интернета вещей AggreGate](https://habr.com/ru/companies/w_code/articles/1085960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085960)
-- [RuntimeNodes: как мы, ML‑щики, стали писать рантайм](https://habr.com/ru/companies/yandex/articles/1084502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084502)
-- [PostgreSQL: три источника времени в одной таблице](https://habr.com/ru/articles/1085828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085828)
-- [[Перевод] Попробуйте Flutter Web с WebAssembly Week](https://habr.com/ru/articles/1085926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085926)
-- [Шильдик «Опытный пользователь LLM»](https://habr.com/ru/articles/1085916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085916)
+- [Помните исследование про «ИИ замедляет на 19%»? Его повторили — и оно сломалось](https://habr.com/ru/companies/domclick/articles/1085232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085232)
+- [Как я всё‑таки опубликовала игру в Google Play из России](https://habr.com/ru/articles/1086240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086240)
+- [[Перевод] AI пишет код быстрее, но ревью становится тяжелее: откуда берётся когнитивный долг](https://habr.com/ru/companies/otus/articles/1085730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085730)
+- [ИИ заберёт тексты и код. Но это никогда не было главной работой человека. Часть 3](https://habr.com/ru/companies/X5Tech/articles/1063486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1063486)
+- [Как взвесить чужой репозиторий, не запуская его: 138 проектов из трендов GitHub](https://habr.com/ru/articles/1086232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086232)
 <!-- BLOG-POST-LIST:END -->
 
 ---
