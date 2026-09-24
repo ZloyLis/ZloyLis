@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как мы дописываем оборванные ответы языковой модели и почему склейка оказалась сложнее, чем кажется](https://habr.com/ru/articles/1086420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086420)
 - [Как мы научили LLMCOD собирать базу знаний не только из HTML, но и из SPA и открытых API](https://habr.com/ru/articles/1086396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086396)
 - [Как перестать искать ошибки в YAML глазами: пишем валидатор для Go](https://habr.com/ru/articles/1086386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086386)
 - [Код, пот и слезы: композиционный анализ проектов на С/С++](https://habr.com/ru/companies/codescoring/articles/1086376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086376)
 - [Flowise закрыли, я его форкнул — и выяснил, что форкать было нельзя](https://habr.com/ru/articles/1086288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086288)
-- [Я автоматизировал поиск работы, сделал 553 отклика за три недели и сходил на собеседования](https://habr.com/ru/articles/1086362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086362)
 <!-- BLOG-POST-LIST:END -->
 
 ---
