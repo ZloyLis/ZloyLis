@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [netes за netes&#39;ом: Kyvernetria, Mansplainetes и Misogynetes готовы уничтожать ваш прод уже сейчас](https://habr.com/ru/articles/1086438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086438)
+- [Я удалил классы, но оставил объекты с методами](https://habr.com/ru/articles/1086432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086432)
 - [Как мы дописываем оборванные ответы языковой модели и почему склейка оказалась сложнее, чем кажется](https://habr.com/ru/articles/1086420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086420)
-- [Как мы научили LLMCOD собирать базу знаний не только из HTML, но и из SPA и открытых API](https://habr.com/ru/articles/1086396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086396)
+- [Как мы научили LLMCOD собирать базу знаний не только из HTML, но и из SPA и открытых API](https://habr.com/ru/articles/1086396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086396)
 - [Как перестать искать ошибки в YAML глазами: пишем валидатор для Go](https://habr.com/ru/articles/1086386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086386)
-- [Код, пот и слезы: композиционный анализ проектов на С/С++](https://habr.com/ru/companies/codescoring/articles/1086376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086376)
-- [Flowise закрыли, я его форкнул — и выяснил, что форкать было нельзя](https://habr.com/ru/articles/1086288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086288)
 <!-- BLOG-POST-LIST:END -->
 
 ---
