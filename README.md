@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [netes за netes&#39;ом: Kyvernetria, Mansplainetes и Misogynetes готовы уничтожать ваш прод уже сейчас](https://habr.com/ru/articles/1086438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086438)
-- [Я удалил классы, но оставил объекты с методами](https://habr.com/ru/articles/1086432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086432)
-- [Как мы дописываем оборванные ответы языковой модели и почему склейка оказалась сложнее, чем кажется](https://habr.com/ru/articles/1086420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086420)
-- [Как мы научили LLMCOD собирать базу знаний не только из HTML, но и из SPA и открытых API](https://habr.com/ru/articles/1086396/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086396)
-- [Как перестать искать ошибки в YAML глазами: пишем валидатор для Go](https://habr.com/ru/articles/1086386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086386)
+- [Ankyra: нейро-символический движок, который честно говорит «не знаю»](https://habr.com/ru/articles/1086488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086488)
+- [Удалить что угодно со страницы одним кликом: как устроен «пипеточный» блокировщик на Manifest V3](https://habr.com/ru/articles/1086296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086296)
+- [Кризис идентичности, или как Vue-разработчик мигрировал enterprise-проект на Angular 18](https://habr.com/ru/companies/ppr/articles/1085816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085816)
+- [Small String Optimization: где заканчивается стек и начинается куча](https://habr.com/ru/articles/1086464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086464)
+- [А что, если бы Kubernetes был человеком: Kyvernetria, Mansplainetes и Misogynetes](https://habr.com/ru/articles/1086438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086438)
 <!-- BLOG-POST-LIST:END -->
 
 ---
