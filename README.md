@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes просто, часть 4: как трафик попадает в кластер, NodePort и LoadBalancer](https://habr.com/ru/articles/1086754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086754)
-- [Оценка AI‑агентов: 7 ошибок, из‑за которых тесты врут](https://habr.com/ru/companies/otus/articles/1077946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077946)
-- [Один код на Paper и Velocity: как устроены multiloader-плагины в 2026](https://habr.com/ru/articles/1086750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086750)
-- [Google дала AI-агентам лицо. Gemini 3.8 Live создаёт говорящих аватаров в реальном времени](https://habr.com/ru/companies/koda/articles/1086738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086738)
-- [Две недели я собирал данные с трёх маркетплейсов Telegram-подарков, чтобы доказать, что на них нельзя заработать](https://habr.com/ru/articles/1086736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086736)
+- [Свести долги минимумом переводов — NP-трудная задача. Как я решил её в Telegram-мини-аппе](https://habr.com/ru/articles/1086822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086822)
+- [Переход на 1С 8.5 за выходные: найдёте 3 причины сбоя?](https://habr.com/ru/companies/otus/articles/1077954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077954)
+- [Геометрический бум: как перестать бояться Canvas и начать рисовать интерфейсы](https://habr.com/ru/articles/1086808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086808)
+- [Почему сверхбыстрый COMMIT опасен для СУБД и как проверить надёжность сохранения данных](https://habr.com/ru/companies/postgrespro/articles/1086788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086788)
+- [Как проверить гипотезу без ущерба для пользователей: история про джентльменский фейкдор](https://habr.com/ru/companies/avito/articles/1066174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1066174)
 <!-- BLOG-POST-LIST:END -->
 
 ---
