@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ankyra: нейро-символический движок, который честно говорит «не знаю»](https://habr.com/ru/articles/1086488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086488)
-- [Удалить что угодно со страницы одним кликом: как устроен «пипеточный» блокировщик на Manifest V3](https://habr.com/ru/articles/1086296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086296)
-- [Кризис идентичности, или как Vue-разработчик мигрировал enterprise-проект на Angular 18](https://habr.com/ru/companies/ppr/articles/1085816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085816)
-- [Small String Optimization: где заканчивается стек и начинается куча](https://habr.com/ru/articles/1086464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086464)
-- [А что, если бы Kubernetes был человеком: Kyvernetria, Mansplainetes и Misogynetes](https://habr.com/ru/articles/1086438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086438)
+- [Kubernetes просто, часть 4: как трафик попадает в кластер, NodePort и LoadBalancer](https://habr.com/ru/articles/1086754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086754)
+- [Оценка AI‑агентов: 7 ошибок, из‑за которых тесты врут](https://habr.com/ru/companies/otus/articles/1077946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077946)
+- [Один код на Paper и Velocity: как устроены multiloader-плагины в 2026](https://habr.com/ru/articles/1086750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086750)
+- [Google дала AI-агентам лицо. Gemini 3.8 Live создаёт говорящих аватаров в реальном времени](https://habr.com/ru/companies/koda/articles/1086738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086738)
+- [Две недели я собирал данные с трёх маркетплейсов Telegram-подарков, чтобы доказать, что на них нельзя заработать](https://habr.com/ru/articles/1086736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086736)
 <!-- BLOG-POST-LIST:END -->
 
 ---
