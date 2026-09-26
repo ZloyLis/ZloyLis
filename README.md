@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Почему нельзя отдавать 100% мышления ИИ: ловушка слепого доверия к AI-ассистентам](https://habr.com/ru/articles/1086872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086872)
-- [«Щелчок Таноса» или искусство в разработке](https://habr.com/ru/articles/1086864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086864)
-- [AGI как когнитивная ОС: что если искать программы, а не веса](https://habr.com/ru/articles/1086854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086854)
-- [App Review забанил нашу механику. Нотаризация пропустила её — но нашла другое](https://habr.com/ru/articles/1086840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086840)
-- [YApi заброшен с 2022 года. Я продолжил его и нашёл токены, которые может подделать любой участник проекта](https://habr.com/ru/articles/1086440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086440)
+- [Primary и Secondary: как устроен мультидевайс WhatsApp*](https://habr.com/ru/articles/1086926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086926)
+- [ИИ-агенты в инвестициях: собираем Telegram-ассистента и торгового робота на MCP Т-Инвестиций](https://habr.com/ru/companies/tbank/articles/1086714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086714)
+- [LLM уверенно называет шахматные ходы, которых на доске нет. Как я проверяю каждый ее ответ кодом](https://habr.com/ru/articles/1086898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086898)
+- [Событие вместо поля: как журнал медиации вернул историю, которую система стирала](https://habr.com/ru/articles/1086838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086838)
+- [Особенности агентской разработки ПО, обеспечивающей соответствие замыслу и требованиям](https://habr.com/ru/articles/1086884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086884)
 <!-- BLOG-POST-LIST:END -->
 
 ---
