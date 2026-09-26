@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] От тестирования релиза с высоким уровнем риска к новому ИИ-инструменту для QA](https://habr.com/ru/articles/1086968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086968)
-- [Pony ORM: толстая пачка фич и улучшений](https://habr.com/ru/articles/1086790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086790)
-- [Как мы создали Open-Source альтернативу закрытым платёжным системам на React, Node.js и WebNFC](https://habr.com/ru/articles/1086942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086942)
-- [ИИ делает нас производительнее. Чем мы за это платим?](https://habr.com/ru/articles/1086940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086940)
-- [Primary и Secondary: как устроен мультидевайс WhatsApp*](https://habr.com/ru/articles/1086926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086926)
+- [[Перевод] «Возможные смежные решения»: модель для заглядывания в будущее](https://habr.com/ru/articles/1068124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068124)
+- [Доверить сервер ИИ-агенту и не пожалеть: как спать спокойно без SSH](https://habr.com/ru/articles/1086976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086976)
+- [Моя собственная Gated RNN: как работает? &lpar;и бенчмарки, конечно же&rpar;](https://habr.com/ru/articles/1086392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086392)
+- [Не зовут на собеседования? Написал бота, который увеличит твои шансы на это](https://habr.com/ru/articles/1086980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086980)
+- [Рациональная параметризация как метод устранения численных погрешностей при построении графиков](https://habr.com/ru/articles/1086962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086962)
 <!-- BLOG-POST-LIST:END -->
 
 ---
