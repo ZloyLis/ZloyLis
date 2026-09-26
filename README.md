@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] От тестирования релиза с высоким уровнем риска к новому ИИ-инструменту для QA](https://habr.com/ru/articles/1086968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086968)
+- [Pony ORM: толстая пачка фич и улучшений](https://habr.com/ru/articles/1086790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086790)
+- [Как мы создали Open-Source альтернативу закрытым платёжным системам на React, Node.js и WebNFC](https://habr.com/ru/articles/1086942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086942)
+- [ИИ делает нас производительнее. Чем мы за это платим?](https://habr.com/ru/articles/1086940/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086940)
 - [Primary и Secondary: как устроен мультидевайс WhatsApp*](https://habr.com/ru/articles/1086926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086926)
-- [ИИ-агенты в инвестициях: собираем Telegram-ассистента и торгового робота на MCP Т-Инвестиций](https://habr.com/ru/companies/tbank/articles/1086714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086714)
-- [LLM уверенно называет шахматные ходы, которых на доске нет. Как я проверяю каждый ее ответ кодом](https://habr.com/ru/articles/1086898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086898)
-- [Событие вместо поля: как журнал медиации вернул историю, которую система стирала](https://habr.com/ru/articles/1086838/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086838)
-- [Особенности агентской разработки ПО, обеспечивающей соответствие замыслу и требованиям](https://habr.com/ru/articles/1086884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086884)
 <!-- BLOG-POST-LIST:END -->
 
 ---
