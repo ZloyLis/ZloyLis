@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему нельзя отдавать 100% мышления ИИ: ловушка слепого доверия к AI-ассистентам](https://habr.com/ru/articles/1086872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086872)
+- [«Щелчок Таноса» или искусство в разработке](https://habr.com/ru/articles/1086864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086864)
 - [AGI как когнитивная ОС: что если искать программы, а не веса](https://habr.com/ru/articles/1086854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086854)
 - [App Review забанил нашу механику. Нотаризация пропустила её — но нашла другое](https://habr.com/ru/articles/1086840/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086840)
 - [YApi заброшен с 2022 года. Я продолжил его и нашёл токены, которые может подделать любой участник проекта](https://habr.com/ru/articles/1086440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086440)
-- [Модульная надстройка для JasperReports: подключение и что делает процессор при сборке. Часть 3](https://habr.com/ru/articles/1086826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086826)
-- [Переход на 1С 8.5 за выходные: найдёте 3 причины сбоя?](https://habr.com/ru/companies/otus/articles/1077954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077954)
 <!-- BLOG-POST-LIST:END -->
 
 ---
