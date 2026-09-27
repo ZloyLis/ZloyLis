@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Глаз стрекозы: практическая технология исследования с ИИ](https://habr.com/ru/articles/1087250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087250)
+- [Еще одни мысли по поводу всеобщего искусственного воодушевления](https://habr.com/ru/articles/1087284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087284)
+- [Разбор CVE-2026-83557 в jackson-databind: почему не всех CVE надо бояться](https://habr.com/ru/articles/1087034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087034)
+- [Как я перенёс сборку лексера в compile-time](https://habr.com/ru/articles/1087280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087280)
+- [О том, как я написал свой стейт‑менеджер](https://habr.com/ru/articles/1087264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087264)
 - [Морские карты S-57 в браузере: открытый парсер на TypeScript и что в нём сломали и починили первые пользователи](https://habr.com/ru/articles/1087234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087234)
-- [Применение gRPC при разработке приложений под iOS](https://habr.com/ru/articles/982776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982776)
-- [Двухпанельный файловый менеджер на Delphi. Из NDN с любовью…](https://habr.com/ru/articles/1087174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087174)
-- [Локальный ассистент для зумов, часть 7: семь пакетов в плане, один в коде](https://habr.com/ru/articles/1087172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087172)
 <!-- BLOG-POST-LIST:END -->
 
 ---
