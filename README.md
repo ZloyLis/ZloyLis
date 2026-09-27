@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Теория возможностей заменит теорию вероятностей в ML?](https://habr.com/ru/articles/1087094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087094)
+- [Наводишь на слово в субтитрах — видишь перевод: расширение на встроенном ИИ Chrome](https://habr.com/ru/articles/1087092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087092)
+- [Как я автоматизировал работу врачей на Rust](https://habr.com/ru/articles/1087052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087052)
+- [Переводчик в браузере, который учит слова: встроенный Translator API Chrome, свой ИИ-ключ и интервальные повторения](https://habr.com/ru/articles/1086294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086294)
 - [Как вы вообще живёте без POWERLINK…](https://habr.com/ru/articles/1087036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087036)
-- [[Перевод] Информационный парадокс внутри чёрной дыры](https://habr.com/ru/articles/1085842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085842)
-- [[Перевод] «Возможные смежные решения»: модель для заглядывания в будущее](https://habr.com/ru/articles/1068124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068124)
-- [Доверить сервер ИИ-агенту и не пожалеть: как спать спокойно без SSH](https://habr.com/ru/articles/1086976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086976)
-- [Моя собственная Gated RNN: как работает? &lpar;и бенчмарки, конечно же&rpar;](https://habr.com/ru/articles/1086392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086392)
 <!-- BLOG-POST-LIST:END -->
 
 ---
