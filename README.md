@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Теория возможностей заменит теорию вероятностей в ML?](https://habr.com/ru/articles/1087094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087094)
-- [Наводишь на слово в субтитрах — видишь перевод: расширение на встроенном ИИ Chrome](https://habr.com/ru/articles/1087092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087092)
-- [Как я автоматизировал работу врачей на Rust](https://habr.com/ru/articles/1087052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087052)
-- [Переводчик в браузере, который учит слова: встроенный Translator API Chrome, свой ИИ-ключ и интервальные повторения](https://habr.com/ru/articles/1086294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086294)
-- [Как вы вообще живёте без POWERLINK…](https://habr.com/ru/articles/1087036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087036)
+- [Двухпанельный файловый менеджер на Delphi. Из NDN с любовью…](https://habr.com/ru/articles/1087174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087174)
+- [Локальный ассистент для зумов, часть 7: семь пакетов в плане, один в коде](https://habr.com/ru/articles/1087172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087172)
+- [Поиск по миллиону товаров на JavaScript: когда сжатый индекс проигрывает массиву](https://habr.com/ru/articles/1087166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087166)
+- [Cookies, которых не видно: partitioned cookies, cookies.txt и одно расширение под три браузера](https://habr.com/ru/articles/1086292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086292)
+- [Наш мир может быть продвинутой версией Game of Life, и через 10к лет на месте Луны и Земли будет мегаструктура](https://habr.com/ru/articles/1087072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087072)
 <!-- BLOG-POST-LIST:END -->
 
 ---
