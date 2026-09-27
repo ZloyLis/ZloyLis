@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как вы вообще живёте без POWERLINK…](https://habr.com/ru/articles/1087036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087036)
 - [[Перевод] Информационный парадокс внутри чёрной дыры](https://habr.com/ru/articles/1085842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085842)
 - [[Перевод] «Возможные смежные решения»: модель для заглядывания в будущее](https://habr.com/ru/articles/1068124/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1068124)
 - [Доверить сервер ИИ-агенту и не пожалеть: как спать спокойно без SSH](https://habr.com/ru/articles/1086976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086976)
 - [Моя собственная Gated RNN: как работает? &lpar;и бенчмарки, конечно же&rpar;](https://habr.com/ru/articles/1086392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086392)
-- [Не зовут на собеседования? Написал бота, который увеличит твои шансы на это](https://habr.com/ru/articles/1086980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086980)
 <!-- BLOG-POST-LIST:END -->
 
 ---
