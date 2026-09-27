@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Глаз стрекозы: практическая технология исследования с ИИ](https://habr.com/ru/articles/1087250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087250)
+- [Морские карты S-57 в браузере: открытый парсер на TypeScript и что в нём сломали и починили первые пользователи](https://habr.com/ru/articles/1087234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087234)
+- [Применение gRPC при разработке приложений под iOS](https://habr.com/ru/articles/982776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=982776)
 - [Двухпанельный файловый менеджер на Delphi. Из NDN с любовью…](https://habr.com/ru/articles/1087174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087174)
 - [Локальный ассистент для зумов, часть 7: семь пакетов в плане, один в коде](https://habr.com/ru/articles/1087172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087172)
-- [Поиск по миллиону товаров на JavaScript: когда сжатый индекс проигрывает массиву](https://habr.com/ru/articles/1087166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087166)
-- [Cookies, которых не видно: partitioned cookies, cookies.txt и одно расширение под три браузера](https://habr.com/ru/articles/1086292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086292)
-- [Наш мир может быть продвинутой версией Game of Life, и через 10к лет на месте Луны и Земли будет мегаструктура](https://habr.com/ru/articles/1087072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087072)
 <!-- BLOG-POST-LIST:END -->
 
 ---
