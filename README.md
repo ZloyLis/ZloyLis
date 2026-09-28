@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [CryptoLab: как я превратил лабораторную по криптографическим протоколам в стенд с Alice, Bob и Mallory](https://habr.com/ru/articles/1087298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087298)
 - [Еще одни мысли по поводу всеобщего искусственного воодушевления](https://habr.com/ru/articles/1087284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087284)
 - [Разбор CVE-2026-83557 в jackson-databind: почему не всех CVE надо бояться](https://habr.com/ru/articles/1087034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087034)
 - [Как я перенёс сборку лексера в compile-time](https://habr.com/ru/articles/1087280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087280)
 - [О том, как я написал свой стейт‑менеджер](https://habr.com/ru/articles/1087264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087264)
-- [Морские карты S-57 в браузере: открытый парсер на TypeScript и что в нём сломали и починили первые пользователи](https://habr.com/ru/articles/1087234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087234)
 <!-- BLOG-POST-LIST:END -->
 
 ---
