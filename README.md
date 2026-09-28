@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [CryptoLab: как я превратил лабораторную по криптографическим протоколам в стенд с Alice, Bob и Mallory](https://habr.com/ru/articles/1087298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087298)
-- [Еще одни мысли по поводу всеобщего искусственного воодушевления](https://habr.com/ru/articles/1087284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087284)
-- [Разбор CVE-2026-83557 в jackson-databind: почему не всех CVE надо бояться](https://habr.com/ru/articles/1087034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087034)
-- [Как я перенёс сборку лексера в compile-time](https://habr.com/ru/articles/1087280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087280)
-- [О том, как я написал свой стейт‑менеджер](https://habr.com/ru/articles/1087264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087264)
+- [Эволюция эксплуатации переполнения буфера в Windows: от Stack Smashing до ROP и CET](https://habr.com/ru/articles/1087542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087542)
+- [Почему инференс LLM становится дорогим и как снизить расходы на GPU без покупки новых карт](https://habr.com/ru/companies/otus/articles/1077956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077956)
+- [[Перевод] Дискретная диффузия: цепи Маркова с непрерывным временем](https://habr.com/ru/companies/wunderfund/articles/1083126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083126)
+- [Flow Matching: обучение и дистилляция](https://habr.com/ru/articles/1087486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087486)
+- [AI-native организация начинается с неопределенности: что меняется в структуре, ролях и управлении](https://habr.com/ru/companies/oleg-bunin/articles/1085942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085942)
 <!-- BLOG-POST-LIST:END -->
 
 ---
