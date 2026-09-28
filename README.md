@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Эволюция эксплуатации переполнения буфера в Windows: от Stack Smashing до ROP и CET](https://habr.com/ru/articles/1087542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087542)
-- [Почему инференс LLM становится дорогим и как снизить расходы на GPU без покупки новых карт](https://habr.com/ru/companies/otus/articles/1077956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077956)
-- [[Перевод] Дискретная диффузия: цепи Маркова с непрерывным временем](https://habr.com/ru/companies/wunderfund/articles/1083126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083126)
-- [Flow Matching: обучение и дистилляция](https://habr.com/ru/articles/1087486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087486)
-- [AI-native организация начинается с неопределенности: что меняется в структуре, ролях и управлении](https://habr.com/ru/companies/oleg-bunin/articles/1085942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085942)
+- [Музыка для кода — что наука говорит о влиянии Lo-Fi, чиптюна и саундтреков из игр на продуктивность](https://habr.com/ru/companies/ispsystem/articles/1087766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087766)
+- [Галлюцинация нейросети в коде обычно ломает сборку. С выдуманным пакетом иначе: его имя может занять вредонос](https://habr.com/ru/articles/1087738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087738)
+- [Оффлайн телесуфлёр поверх Instagram и TikTok: распознавание речи на телефоне, выравнивание по словам](https://habr.com/ru/articles/1087724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087724)
+- [Сделал сыну тренажёр слепой печати, потому что существующие показались ему скучными](https://habr.com/ru/articles/1087710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087710)
+- [Security Week 2640: фундаментальная уязвимость в файловых системах Windows, Linux, Android и macOS](https://habr.com/ru/companies/kaspersky/articles/1087632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087632)
 <!-- BLOG-POST-LIST:END -->
 
 ---
