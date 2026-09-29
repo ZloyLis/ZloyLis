@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Фронтенд и бэкенд работают отдельно. Как я связал их задачи через OpenSpec](https://habr.com/ru/articles/1088292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088292)
-- [Симулятор микропроцессоров: запускаем BASIC и не только](https://habr.com/ru/articles/1088258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088258)
-- [Архитектура управления доступом в базы данных  через Trino в масштабах всей компании](https://habr.com/ru/companies/rwb/articles/1085216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085216)
+- [Lock‑free по нарастающей](https://habr.com/ru/articles/1088334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088334)
+- [Фронтенд и бэкенд работают отдельно. Как я связал их задачи через OpenSpec](https://habr.com/ru/articles/1088292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088292)
+- [Симулятор микропроцессоров: запускаем BASIC и не только](https://habr.com/ru/articles/1088258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088258)
+- [Архитектура управления доступом в базы данных через Trino в масштабах всей компании](https://habr.com/ru/companies/rwb/articles/1085216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085216)
 - [Как теплотехник в 50 лет стер границу между КИПиА и IT: пишем универсальный Android‑SCADA движок на Flutter](https://habr.com/ru/articles/1088248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088248)
-- [0.0000008 Мбит/с при оценке A+: как тихий 403 от Cloudflare сломал половину теста bufferbloat](https://habr.com/ru/articles/1088228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088228)
 <!-- BLOG-POST-LIST:END -->
 
 ---
