@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Не начинать с LangChain: как спроектировать корпоративную GenAI платформу до реализации](https://habr.com/ru/articles/1086836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086836)
-- [Код всё чаще пишет нейросеть. Чем тогда занимаемся мы](https://habr.com/ru/articles/1087694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087694)
-- [Стратегическое решение, принятие которого не заметили: право “не знать”](https://habr.com/ru/articles/1087614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087614)
-- [Как нейросеть переводит видео. Часть 2: русский длиннее не текстом, а звуком](https://habr.com/ru/articles/1087834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087834)
-- [Coyote Time или как немножко врать игрокам](https://habr.com/ru/articles/1083508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083508)
+- [Что скрывают в себе меры расстояния: от kNN и k‑means до стилометрии](https://habr.com/ru/articles/1088162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088162)
+- [В вайбкодинге агент почти не читает документацию без ссылки: 57 файлов из 88 он не открыл ни разу](https://habr.com/ru/articles/1088144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088144)
+- [Тайна чисел‑близнецов](https://habr.com/ru/articles/1088142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088142)
+- [Экспорт коллекции API‑запросов в файлы для git — и как мы чуть не отправили токены в открытом виде](https://habr.com/ru/articles/1088128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088128)
+- [[Перевод] Режим планирования мёртв](https://habr.com/ru/companies/haulmont/articles/1087664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087664)
 <!-- BLOG-POST-LIST:END -->
 
 ---
