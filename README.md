@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Что скрывают в себе меры расстояния: от kNN и k‑means до стилометрии](https://habr.com/ru/articles/1088162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088162)
-- [В вайбкодинге агент почти не читает документацию без ссылки: 57 файлов из 88 он не открыл ни разу](https://habr.com/ru/articles/1088144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088144)
-- [Тайна чисел‑близнецов](https://habr.com/ru/articles/1088142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088142)
-- [Экспорт коллекции API‑запросов в файлы для git — и как мы чуть не отправили токены в открытом виде](https://habr.com/ru/articles/1088128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088128)
-- [[Перевод] Режим планирования мёртв](https://habr.com/ru/companies/haulmont/articles/1087664/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087664)
+- [Фронтенд и бэкенд работают отдельно. Как я связал их задачи через OpenSpec](https://habr.com/ru/articles/1088292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088292)
+- [Симулятор микропроцессоров: запускаем BASIC и не только](https://habr.com/ru/articles/1088258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088258)
+- [Архитектура управления доступом в базы данных  через Trino в масштабах всей компании](https://habr.com/ru/companies/rwb/articles/1085216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085216)
+- [Как теплотехник в 50 лет стер границу между КИПиА и IT: пишем универсальный Android‑SCADA движок на Flutter](https://habr.com/ru/articles/1088248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088248)
+- [0.0000008 Мбит/с при оценке A+: как тихий 403 от Cloudflare сломал половину теста bufferbloat](https://habr.com/ru/articles/1088228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088228)
 <!-- BLOG-POST-LIST:END -->
 
 ---
