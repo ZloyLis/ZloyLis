@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Не начинать с LangChain: как спроектировать корпоративную GenAI платформу до реализации](https://habr.com/ru/articles/1086836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086836)
+- [Код всё чаще пишет нейросеть. Чем тогда занимаемся мы](https://habr.com/ru/articles/1087694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087694)
+- [Стратегическое решение, принятие которого не заметили: право “не знать”](https://habr.com/ru/articles/1087614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087614)
+- [Как нейросеть переводит видео. Часть 2: русский длиннее не текстом, а звуком](https://habr.com/ru/articles/1087834/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087834)
 - [Coyote Time или как немножко врать игрокам](https://habr.com/ru/articles/1083508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083508)
-- [Решение задачи про козу, капусту и волка через конечный автомат](https://habr.com/ru/articles/1087432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087432)
-- [Переход на Java 27: гайд по GC, флагам и памяти в контейнере](https://habr.com/ru/companies/otus/articles/1077952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077952)
-- [Музыка для кода — что наука говорит о влиянии Lo‑Fi, чиптюна и саундтреков из игр на продуктивность](https://habr.com/ru/companies/ispsystem/articles/1087766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087766)
-- [Галлюцинация нейросети в коде обычно ломает сборку. С выдуманным пакетом иначе: его имя может занять вредонос](https://habr.com/ru/articles/1087738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087738)
 <!-- BLOG-POST-LIST:END -->
 
 ---
