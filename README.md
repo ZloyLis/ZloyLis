@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Музыка для кода — что наука говорит о влиянии Lo-Fi, чиптюна и саундтреков из игр на продуктивность](https://habr.com/ru/companies/ispsystem/articles/1087766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087766)
-- [Галлюцинация нейросети в коде обычно ломает сборку. С выдуманным пакетом иначе: его имя может занять вредонос](https://habr.com/ru/articles/1087738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087738)
-- [Оффлайн телесуфлёр поверх Instagram и TikTok: распознавание речи на телефоне, выравнивание по словам](https://habr.com/ru/articles/1087724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087724)
-- [Сделал сыну тренажёр слепой печати, потому что существующие показались ему скучными](https://habr.com/ru/articles/1087710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087710)
-- [Security Week 2640: фундаментальная уязвимость в файловых системах Windows, Linux, Android и macOS](https://habr.com/ru/companies/kaspersky/articles/1087632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087632)
+- [Coyote Time или как немножко врать игрокам](https://habr.com/ru/articles/1083508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083508)
+- [Решение задачи про козу, капусту и волка через конечный автомат](https://habr.com/ru/articles/1087432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087432)
+- [Переход на Java 27: гайд по GC, флагам и памяти в контейнере](https://habr.com/ru/companies/otus/articles/1077952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077952)
+- [Музыка для кода — что наука говорит о влиянии Lo‑Fi, чиптюна и саундтреков из игр на продуктивность](https://habr.com/ru/companies/ispsystem/articles/1087766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087766)
+- [Галлюцинация нейросети в коде обычно ломает сборку. С выдуманным пакетом иначе: его имя может занять вредонос](https://habr.com/ru/articles/1087738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087738)
 <!-- BLOG-POST-LIST:END -->
 
 ---
