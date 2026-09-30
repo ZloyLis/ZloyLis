@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Готовый рецепт интерактивного обучающего курса в одном файле](https://habr.com/ru/articles/1084408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084408)
-- [Почему накопительная сумма в SQL врёт](https://habr.com/ru/companies/otus/articles/1087296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087296)
-- [О пользе ограничений в MSSQL](https://habr.com/ru/companies/skbkontur/articles/1082258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082258)
-- [[Перевод] Jev нужна оркестрация, чтобы приносить пользу бизнесу](https://habr.com/ru/articles/1088456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088456)
-- [Обработка цифрового звука фильтрами](https://habr.com/ru/articles/1088440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088440)
+- [Первая проверка «шести рукопожатий» насчитала девять. Дошли 3 письма из 60](https://habr.com/ru/articles/1088716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088716)
+- [Зыбкая грань между элементарными и специальными функциями](https://habr.com/ru/articles/1088504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088504)
+- [«Выросли на 11% к прошлому месяцу» — и ни одного нового клиента](https://habr.com/ru/articles/1088720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088720)
+- [Как мы собрали ИИ-конвейер для разметки продуктового фидбэка](https://habr.com/ru/companies/avito/articles/1085718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085718)
+- [range-for перестал ронять программу на временном объекте, зато теперь дольше держит мьютекс](https://habr.com/ru/companies/otus/articles/1087290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087290)
 <!-- BLOG-POST-LIST:END -->
 
 ---
