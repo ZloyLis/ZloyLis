@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Первая проверка «шести рукопожатий» насчитала девять. Дошли 3 письма из 60](https://habr.com/ru/articles/1088716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088716)
-- [Зыбкая грань между элементарными и специальными функциями](https://habr.com/ru/articles/1088504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088504)
-- [«Выросли на 11% к прошлому месяцу» — и ни одного нового клиента](https://habr.com/ru/articles/1088720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088720)
-- [Как мы собрали ИИ-конвейер для разметки продуктового фидбэка](https://habr.com/ru/companies/avito/articles/1085718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085718)
-- [range-for перестал ронять программу на временном объекте, зато теперь дольше держит мьютекс](https://habr.com/ru/companies/otus/articles/1087290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087290)
+- [Agent DevTools: локальная инфраструктура для ИИ‑агента, которой достаточно только базового Python](https://habr.com/ru/articles/1088796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088796)
+- [Каждый LLM-фреймворк описывает инструмент по-своему](https://habr.com/ru/articles/1088768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088768)
+- [Поменяли object на Lock, и два потока встретились в критической секции](https://habr.com/ru/companies/otus/articles/1087292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087292)
+- [Попасть нельзя промахнуться](https://habr.com/ru/articles/1083930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083930)
+- [Офлайн-карта в кармане: 48 районов, PMTiles и телефон, который в 90 раз медленнее ноутбука](https://habr.com/ru/articles/1088762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088762)
 <!-- BLOG-POST-LIST:END -->
 
 ---
