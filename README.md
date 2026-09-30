@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Greenplum как расширение PostgreSQL 19](https://habr.com/ru/articles/1088264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088264)
-- [Lock‑free по нарастающей](https://habr.com/ru/articles/1088334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088334)
-- [Фронтенд и бэкенд работают отдельно. Как я связал их задачи через OpenSpec](https://habr.com/ru/articles/1088292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088292)
-- [Симулятор микропроцессоров: запускаем BASIC и не только](https://habr.com/ru/articles/1088258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088258)
-- [Архитектура управления доступом в базы данных через Trino в масштабах всей компании](https://habr.com/ru/companies/rwb/articles/1085216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085216)
+- [Готовый рецепт интерактивного обучающего курса в одном файле](https://habr.com/ru/articles/1084408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084408)
+- [Почему накопительная сумма в SQL врёт](https://habr.com/ru/companies/otus/articles/1087296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087296)
+- [О пользе ограничений в MSSQL](https://habr.com/ru/companies/skbkontur/articles/1082258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1082258)
+- [[Перевод] Jev нужна оркестрация, чтобы приносить пользу бизнесу](https://habr.com/ru/articles/1088456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088456)
+- [Обработка цифрового звука фильтрами](https://habr.com/ru/articles/1088440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088440)
 <!-- BLOG-POST-LIST:END -->
 
 ---
