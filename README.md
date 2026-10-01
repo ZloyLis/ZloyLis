@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Парсер расписаний после хабратестирования: полвторого, RRULE, systemd и производственный календарь](https://habr.com/ru/articles/1089372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089372)
+- [Вдвое меньше токенов без смены модели: что NVIDIA сделала с harness кодинг-агента](https://habr.com/ru/articles/1089370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089370)
+- [Как работает шифровальная машина Lorenz SZ 42 &lpar;для телетайпа&rpar;](https://habr.com/ru/articles/1076034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076034)
 - [«Динамические» аспекты — как я писал стартер для создания аспектов прямо из конфига](https://habr.com/ru/articles/1089254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089254)
 - [Как на Python описать архитектуру сервисов и превратить её в код](https://habr.com/ru/articles/1088752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088752)
-- [Особенности разработки встраиваемого программного обеспечения. Часть 1](https://habr.com/ru/articles/1089224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089224)
-- [Автоматизация матчмейкинга: как я знакомлю полезных друг другу лидов](https://habr.com/ru/articles/1089220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089220)
-- [Почему архитектура важнее выбора стейт-менеджера в React](https://habr.com/ru/articles/1089216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089216)
 <!-- BLOG-POST-LIST:END -->
 
 ---
