@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Agent DevTools: локальная инфраструктура для ИИ‑агента, которой достаточно только базового Python](https://habr.com/ru/articles/1088796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088796)
-- [Каждый LLM-фреймворк описывает инструмент по-своему](https://habr.com/ru/articles/1088768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088768)
-- [Поменяли object на Lock, и два потока встретились в критической секции](https://habr.com/ru/companies/otus/articles/1087292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087292)
-- [Попасть нельзя промахнуться](https://habr.com/ru/articles/1083930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083930)
-- [Офлайн-карта в кармане: 48 районов, PMTiles и телефон, который в 90 раз медленнее ноутбука](https://habr.com/ru/articles/1088762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088762)
+- [Спустя 5 лет я снова пишу Всеросс — часть 2](https://habr.com/ru/articles/1086350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086350)
+- [Мы обновили Spring Boot до 4. Вот что сломалось](https://habr.com/ru/companies/domclick/articles/1086090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086090)
+- [C++: пишем свою std::function](https://habr.com/ru/articles/1088580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088580)
+- [Фабрика кода с выключенным светом: почему Хорти зовет обратно читать код, и что у меня с этим сходится](https://habr.com/ru/articles/1088490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088490)
+- [DotNext 2026](https://habr.com/ru/articles/1088914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088914)
 <!-- BLOG-POST-LIST:END -->
 
 ---
