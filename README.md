@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Спустя 5 лет я снова пишу Всеросс — часть 2](https://habr.com/ru/articles/1086350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086350)
-- [Мы обновили Spring Boot до 4. Вот что сломалось](https://habr.com/ru/companies/domclick/articles/1086090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086090)
-- [C++: пишем свою std::function](https://habr.com/ru/articles/1088580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088580)
-- [Фабрика кода с выключенным светом: почему Хорти зовет обратно читать код, и что у меня с этим сходится](https://habr.com/ru/articles/1088490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088490)
-- [DotNext 2026](https://habr.com/ru/articles/1088914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088914)
+- [«Динамические» аспекты — как я писал стартер для создания аспектов прямо из конфига](https://habr.com/ru/articles/1089254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089254)
+- [Как на Python описать архитектуру сервисов и превратить её в код](https://habr.com/ru/articles/1088752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088752)
+- [Особенности разработки встраиваемого программного обеспечения. Часть 1](https://habr.com/ru/articles/1089224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089224)
+- [Автоматизация матчмейкинга: как я знакомлю полезных друг другу лидов](https://habr.com/ru/articles/1089220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089220)
+- [Почему архитектура важнее выбора стейт-менеджера в React](https://habr.com/ru/articles/1089216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089216)
 <!-- BLOG-POST-LIST:END -->
 
 ---
