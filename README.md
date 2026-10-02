@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Развитие языков программирования в эру ИИ](https://habr.com/ru/companies/hexlet/articles/1089724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089724)
-- [API принятия решений у вас в телефоне: ответ за десятки миллисекунд, без облака и без подписки &lpar;быстрый аналог Jev&rpar;](https://habr.com/ru/articles/1089714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089714)
-- [[Перевод] Не каждый AI-вызов должен генерировать текст](https://habr.com/ru/companies/spring_aio/articles/1089708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089708)
-- [Запускаем множество ИИ на телефоне без интернета в новом формате CMF](https://habr.com/ru/articles/1089704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089704)
-- [[Перевод] Rust 1.99.0: функции с переменным числом аргументов, информация о схеме размещения типа](https://habr.com/ru/articles/1089692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089692)
+- [Если у вас Android, жизнь стала чуточку легче](https://habr.com/ru/companies/gigapisar/articles/1089818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089818)
+- [[Перевод] N-tier, Clean Architecture и Vertical Slice: практическое сравнение для .NET](https://habr.com/ru/articles/1089808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089808)
+- [Вечер на код и месяц на всё остальное: свой MCP-сервер](https://habr.com/ru/articles/1089802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089802)
+- [Крошечная нейронная сеть без компьютера и калькулятора](https://habr.com/ru/articles/1086410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086410)
+- [Смотрим кино вместе на своём сервере: как заставить плееры идти в ногу и не дёргать картинку](https://habr.com/ru/articles/1089790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089790)
 <!-- BLOG-POST-LIST:END -->
 
 ---
