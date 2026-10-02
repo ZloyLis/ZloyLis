@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Следуй за белым кроликом: пишем VPN на Rust и ищем выход из собственного туннеля](https://habr.com/ru/articles/1089390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089390)
-- [cert-manager-webhook-freens: сертификаты Let&#39;s Encrypt на все поддомены в Kubernetes через бесплатный российский DNS](https://habr.com/ru/articles/1089388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089388)
-- [3D в игре на Flame: от одной модели до целого мира](https://habr.com/ru/articles/1089382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089382)
-- [Парсер расписаний после хабратестирования: полвторого, RRULE, systemd и производственный календарь](https://habr.com/ru/articles/1089372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089372)
-- [Вдвое меньше токенов без смены модели: что NVIDIA сделала с harness кодинг-агента](https://habr.com/ru/articles/1089370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089370)
+- [50 лет эволюции поиска по коду: что под капотом кодинговых агентов](https://habr.com/ru/articles/1089460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089460)
+- [Запустили полнотекстовый и гибридный поиск в YDB: рассказываем, что под капотом](https://habr.com/ru/companies/ydb/articles/1087208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087208)
+- [429 — это не про скорость. Это про бюджет, которого ты не видишь](https://habr.com/ru/articles/1083632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083632)
+- [C++: Айсберг времени жизни объектов](https://habr.com/ru/articles/1070000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070000)
+- [Чат создал родитель — школа ни при чём? Пять мифов о школьных чатах и 152-ФЗ](https://habr.com/ru/articles/1089290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089290)
 <!-- BLOG-POST-LIST:END -->
 
 ---
