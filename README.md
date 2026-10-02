@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Если у вас Android, жизнь стала чуточку легче](https://habr.com/ru/companies/gigapisar/articles/1089818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089818)
-- [[Перевод] N-tier, Clean Architecture и Vertical Slice: практическое сравнение для .NET](https://habr.com/ru/articles/1089808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089808)
-- [Вечер на код и месяц на всё остальное: свой MCP-сервер](https://habr.com/ru/articles/1089802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089802)
-- [Крошечная нейронная сеть без компьютера и калькулятора](https://habr.com/ru/articles/1086410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1086410)
-- [Смотрим кино вместе на своём сервере: как заставить плееры идти в ногу и не дёргать картинку](https://habr.com/ru/articles/1089790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089790)
+- [Как плеер угадывает тональность трека: 12 чисел и одна корреляция](https://habr.com/ru/articles/1089832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089832)
+- [Как показать 24 соседних листа? Паспарту спешит на помощь](https://habr.com/ru/articles/1089822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089822)
+- [Если у вас Android, жизнь стала чуточку легче](https://habr.com/ru/companies/gigapisar/articles/1089818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089818)
+- [[Перевод] N‑tier, Clean Architecture и Vertical Slice: практическое сравнение для.NET](https://habr.com/ru/articles/1089808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089808)
+- [Вечер на код и месяц на всё остальное: свой MCP‑сервер](https://habr.com/ru/articles/1089802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089802)
 <!-- BLOG-POST-LIST:END -->
 
 ---
