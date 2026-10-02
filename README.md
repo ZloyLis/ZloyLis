@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Следуй за белым кроликом: пишем VPN на Rust и ищем выход из собственного туннеля](https://habr.com/ru/articles/1089390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089390)
+- [cert-manager-webhook-freens: сертификаты Let&#39;s Encrypt на все поддомены в Kubernetes через бесплатный российский DNS](https://habr.com/ru/articles/1089388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089388)
+- [3D в игре на Flame: от одной модели до целого мира](https://habr.com/ru/articles/1089382/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089382)
 - [Парсер расписаний после хабратестирования: полвторого, RRULE, systemd и производственный календарь](https://habr.com/ru/articles/1089372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089372)
 - [Вдвое меньше токенов без смены модели: что NVIDIA сделала с harness кодинг-агента](https://habr.com/ru/articles/1089370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089370)
-- [Как работает шифровальная машина Lorenz SZ 42 &lpar;для телетайпа&rpar;](https://habr.com/ru/articles/1076034/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076034)
-- [«Динамические» аспекты — как я писал стартер для создания аспектов прямо из конфига](https://habr.com/ru/articles/1089254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089254)
-- [Как на Python описать архитектуру сервисов и превратить её в код](https://habr.com/ru/articles/1088752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088752)
 <!-- BLOG-POST-LIST:END -->
 
 ---
