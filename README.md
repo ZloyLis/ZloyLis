@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [50 лет эволюции поиска по коду: что под капотом кодинговых агентов](https://habr.com/ru/articles/1089460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089460)
-- [Запустили полнотекстовый и гибридный поиск в YDB: рассказываем, что под капотом](https://habr.com/ru/companies/ydb/articles/1087208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087208)
-- [429 — это не про скорость. Это про бюджет, которого ты не видишь](https://habr.com/ru/articles/1083632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083632)
-- [C++: Айсберг времени жизни объектов](https://habr.com/ru/articles/1070000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070000)
-- [Чат создал родитель — школа ни при чём? Пять мифов о школьных чатах и 152-ФЗ](https://habr.com/ru/articles/1089290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089290)
+- [[Перевод] Развитие языков программирования в эру ИИ](https://habr.com/ru/companies/hexlet/articles/1089724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089724)
+- [API принятия решений у вас в телефоне: ответ за десятки миллисекунд, без облака и без подписки &lpar;быстрый аналог Jev&rpar;](https://habr.com/ru/articles/1089714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089714)
+- [[Перевод] Не каждый AI-вызов должен генерировать текст](https://habr.com/ru/companies/spring_aio/articles/1089708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089708)
+- [Запускаем множество ИИ на телефоне без интернета в новом формате CMF](https://habr.com/ru/articles/1089704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089704)
+- [[Перевод] Rust 1.99.0: функции с переменным числом аргументов, информация о схеме размещения типа](https://habr.com/ru/articles/1089692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089692)
 <!-- BLOG-POST-LIST:END -->
 
 ---
