@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как плеер угадывает тональность трека: 12 чисел и одна корреляция](https://habr.com/ru/articles/1089832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089832)
-- [Как показать 24 соседних листа? Паспарту спешит на помощь](https://habr.com/ru/articles/1089822/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089822)
-- [Если у вас Android, жизнь стала чуточку легче](https://habr.com/ru/companies/gigapisar/articles/1089818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089818)
-- [[Перевод] N‑tier, Clean Architecture и Vertical Slice: практическое сравнение для.NET](https://habr.com/ru/articles/1089808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089808)
-- [Вечер на код и месяц на всё остальное: свой MCP‑сервер](https://habr.com/ru/articles/1089802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089802)
+- [Прощай, Кинопоиск](https://habr.com/ru/articles/1089900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089900)
+- [Программа поиска по PDF. Разбираем PageIndex, Streamlit и ссылки на страницы](https://habr.com/ru/articles/1089882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089882)
+- [ColBERT, MUVERA и скучная идея, которая оказалась выгоднее обеих](https://habr.com/ru/articles/1089872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089872)
+- [Как мы перераспределили альфу в A/B-тестах и сократили размер выборки](https://habr.com/ru/companies/tbank/articles/1089482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089482)
+- [Как мы перестраивали e‑commerce‑платформу в production: от legacy‑системы к Next.js и Symfony](https://habr.com/ru/articles/1089854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089854)
 <!-- BLOG-POST-LIST:END -->
 
 ---
