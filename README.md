@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Прощай, Кинопоиск](https://habr.com/ru/articles/1089900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089900)
-- [Программа поиска по PDF. Разбираем PageIndex, Streamlit и ссылки на страницы](https://habr.com/ru/articles/1089882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089882)
-- [ColBERT, MUVERA и скучная идея, которая оказалась выгоднее обеих](https://habr.com/ru/articles/1089872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089872)
-- [Как мы перераспределили альфу в A/B-тестах и сократили размер выборки](https://habr.com/ru/companies/tbank/articles/1089482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089482)
-- [Как мы перестраивали e‑commerce‑платформу в production: от legacy‑системы к Next.js и Symfony](https://habr.com/ru/articles/1089854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089854)
+- [Хочу выложить приложения в AppStor и вообще в магазины на всех платформах. Практический кейс](https://habr.com/ru/articles/1090006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090006)
+- [Я перестал показывать ИИ файлы и дал ему сам MODX](https://habr.com/ru/articles/1089988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089988)
+- [Смартфон без слежки корпораций: настраиваем GrapheneOS для реальных повседневных задач](https://habr.com/ru/articles/1089992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089992)
+- [Edge‑навигация своими руками: ESP32 + Android + велосипед/мотоцикл](https://habr.com/ru/articles/1089972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089972)
+- [Сделал для Twitch “Детектор смеха”, где ИИ считывает эмоции. Рассказываю, как оно устроено внутри и делюсь цифрами](https://habr.com/ru/articles/1089960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089960)
 <!-- BLOG-POST-LIST:END -->
 
 ---
