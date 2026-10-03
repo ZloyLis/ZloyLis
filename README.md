@@ -36,10 +36,10 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Гипотеза простых близнецов и «ментальный сдвиг»](https://habr.com/ru/articles/1090030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090030)
-- [Дизайн на службе извлечения прибыли](https://habr.com/ru/articles/1090024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090024)
-- [Как фокусник-математик из Стэнфордского университета обнаружил лазейку в казино](https://habr.com/ru/articles/1070984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070984)
+- [Дизайн на службе извлечения прибыли](https://habr.com/ru/articles/1090024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090024)
+- [Как фокусник‑математик из Стэнфордского университета обнаружил лазейку в казино](https://habr.com/ru/articles/1070984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070984)
 - [От одного агента к AI-холдингу: масштабирование автономных AI-систем](https://habr.com/ru/articles/1090014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090014)
-- [Хочу выложить приложения в AppStor и вообще в магазины на всех платформах. Практический кейс](https://habr.com/ru/articles/1090006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090006)
+- [Хочу выложить приложения в AppStore и вообще в магазины на всех платформах. Практический кейс](https://habr.com/ru/articles/1090006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090006)
 <!-- BLOG-POST-LIST:END -->
 
 ---
