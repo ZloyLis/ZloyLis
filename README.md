@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Гипотеза простых близнецов и «ментальный сдвиг»](https://habr.com/ru/articles/1090030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090030)
+- [Дизайн на службе извлечения прибыли](https://habr.com/ru/articles/1090024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090024)
+- [Как фокусник-математик из Стэнфордского университета обнаружил лазейку в казино](https://habr.com/ru/articles/1070984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070984)
+- [От одного агента к AI-холдингу: масштабирование автономных AI-систем](https://habr.com/ru/articles/1090014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090014)
 - [Хочу выложить приложения в AppStor и вообще в магазины на всех платформах. Практический кейс](https://habr.com/ru/articles/1090006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090006)
-- [Я перестал показывать ИИ файлы и дал ему сам MODX](https://habr.com/ru/articles/1089988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089988)
-- [Смартфон без слежки корпораций: настраиваем GrapheneOS для реальных повседневных задач](https://habr.com/ru/articles/1089992/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089992)
-- [Edge‑навигация своими руками: ESP32 + Android + велосипед/мотоцикл](https://habr.com/ru/articles/1089972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089972)
-- [Сделал для Twitch “Детектор смеха”, где ИИ считывает эмоции. Рассказываю, как оно устроено внутри и делюсь цифрами](https://habr.com/ru/articles/1089960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089960)
 <!-- BLOG-POST-LIST:END -->
 
 ---
