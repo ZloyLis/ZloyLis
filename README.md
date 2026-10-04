@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Klark, часть 2: новый интерфейс, исправление существующих ошибок и аудит собственных прав](https://habr.com/ru/articles/1090096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090096)
+- [[Перевод] Отключение мозга ничего хорошего не сулит](https://habr.com/ru/companies/ruvds/articles/1089700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089700)
+- [Мобильная разработка за неделю #648 &lpar;28 сентября — 4 октября&rpar;](https://habr.com/ru/articles/1090090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090090)
 - [От bare metal до managed Kubernetes: разбираем архитектуру Cozystack. Расшифровка митапа в Дубае](https://habr.com/ru/companies/aenix/articles/1090064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090064)
 - [Гипотеза простых близнецов и «ментальный сдвиг»](https://habr.com/ru/articles/1090030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090030)
-- [Дизайн на службе извлечения прибыли](https://habr.com/ru/articles/1090024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090024)
-- [Как фокусник‑математик из Стэнфордского университета обнаружил лазейку в казино](https://habr.com/ru/articles/1070984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070984)
-- [От одного агента к AI-холдингу: масштабирование автономных AI-систем](https://habr.com/ru/articles/1090014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090014)
 <!-- BLOG-POST-LIST:END -->
 
 ---
