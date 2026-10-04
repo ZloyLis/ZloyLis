@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Строим стены в SCAD++ в турбо режиме](https://habr.com/ru/articles/1090230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090230)
+- [Жил-был «Кенгурёнок»](https://habr.com/ru/articles/1090224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090224)
+- [Первая часть шестнадцатой проблемы Гильберта: перебираем схемы степени 8 с ограничениями](https://habr.com/ru/articles/1090172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090172)
 - [chunk&lpar;&rpar; пропустил половину рассылки](https://habr.com/ru/articles/1084640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084640)
 - [[Перевод] Теорема о четырёх красках получила новое редкое доказательство](https://habr.com/ru/articles/1090146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090146)
-- [Сделал браузерное расширение, чтобы сохранять иностранные слова прямо из статей и потом учить их в мобильном приложении](https://habr.com/ru/articles/1090040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090040)
-- [Как мы пускаем ИИ на боевые сайты, или Что происходит после команды «исправляй»](https://habr.com/ru/articles/1090118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090118)
-- [Утро без телефона: зачем я поставил рядом с кроватью матричный принтер](https://habr.com/ru/articles/1090126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090126)
 <!-- BLOG-POST-LIST:END -->
 
 ---
