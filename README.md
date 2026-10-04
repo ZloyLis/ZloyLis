@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Я сделал с ИИ сайт на 2000 страниц на четырёх языках. Из Google на него приходят два человека в день](https://habr.com/ru/articles/1090256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090256)
+- [OpsDeck: собрал рабочее место DevOps‑инженера в одном окне и выложил в open source](https://habr.com/ru/articles/1090248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090248)
 - [Строим стены в SCAD++ в турбо режиме](https://habr.com/ru/articles/1090230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090230)
-- [Жил-был «Кенгурёнок»](https://habr.com/ru/articles/1090224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090224)
-- [Первая часть шестнадцатой проблемы Гильберта: перебираем схемы степени 8 с ограничениями](https://habr.com/ru/articles/1090172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090172)
-- [chunk&lpar;&rpar; пропустил половину рассылки](https://habr.com/ru/articles/1084640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084640)
-- [[Перевод] Теорема о четырёх красках получила новое редкое доказательство](https://habr.com/ru/articles/1090146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090146)
+- [Жил‑был «Кенгурёнок»](https://habr.com/ru/articles/1090224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090224)
+- [Первая часть шестнадцатой проблемы Гильберта: перебираем схемы степени 8 с ограничениями](https://habr.com/ru/articles/1090172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090172)
 <!-- BLOG-POST-LIST:END -->
 
 ---
