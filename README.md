@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Klark, часть 2: новый интерфейс, исправление существующих ошибок и аудит собственных прав](https://habr.com/ru/articles/1090096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090096)
-- [[Перевод] Отключение мозга ничего хорошего не сулит](https://habr.com/ru/companies/ruvds/articles/1089700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089700)
-- [Мобильная разработка за неделю #648 &lpar;28 сентября — 4 октября&rpar;](https://habr.com/ru/articles/1090090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090090)
-- [От bare metal до managed Kubernetes: разбираем архитектуру Cozystack. Расшифровка митапа в Дубае](https://habr.com/ru/companies/aenix/articles/1090064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090064)
-- [Гипотеза простых близнецов и «ментальный сдвиг»](https://habr.com/ru/articles/1090030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090030)
+- [chunk&lpar;&rpar; пропустил половину рассылки](https://habr.com/ru/articles/1084640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084640)
+- [[Перевод] Теорема о четырёх красках получила новое редкое доказательство](https://habr.com/ru/articles/1090146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090146)
+- [Сделал браузерное расширение, чтобы сохранять иностранные слова прямо из статей и потом учить их в мобильном приложении](https://habr.com/ru/articles/1090040/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090040)
+- [Как мы пускаем ИИ на боевые сайты, или Что происходит после команды «исправляй»](https://habr.com/ru/articles/1090118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090118)
+- [Утро без телефона: зачем я поставил рядом с кроватью матричный принтер](https://habr.com/ru/articles/1090126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090126)
 <!-- BLOG-POST-LIST:END -->
 
 ---
