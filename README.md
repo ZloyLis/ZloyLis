@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Я сделал с ИИ сайт на 2000 страниц на четырёх языках. Из Google на него приходят два человека в день](https://habr.com/ru/articles/1090256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090256)
-- [OpsDeck: собрал рабочее место DevOps‑инженера в одном окне и выложил в open source](https://habr.com/ru/articles/1090248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090248)
-- [Строим стены в SCAD++ в турбо режиме](https://habr.com/ru/articles/1090230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090230)
-- [Жил‑был «Кенгурёнок»](https://habr.com/ru/articles/1090224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090224)
-- [Первая часть шестнадцатой проблемы Гильберта: перебираем схемы степени 8 с ограничениями](https://habr.com/ru/articles/1090172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090172)
+- [BMC на разных экранах: как мы делали адаптив без готовых макетов](https://habr.com/ru/companies/openyard/articles/1089472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089472)
+- [Как показать работу AI-агента в Telegram: статусы инструментов, анимации и кнопка Stop](https://habr.com/ru/articles/1090336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090336)
+- [Тест проходит даже с багом: что показал эксперимент Дэна Лу](https://habr.com/ru/articles/1088808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088808)
+- [Как я сделал лыжный тренер на датчиках и вайб‑кодинге — вместо подписки на готовый](https://habr.com/ru/articles/1090320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090320)
+- [Сфера — полностью кириллический язык программирования: от «Привет, мир» до HTTP‑сервера и bare‑metal](https://habr.com/ru/articles/1090318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090318)
 <!-- BLOG-POST-LIST:END -->
 
 ---
