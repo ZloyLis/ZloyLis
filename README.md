@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [BMC на разных экранах: как мы делали адаптив без готовых макетов](https://habr.com/ru/companies/openyard/articles/1089472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089472)
-- [Как показать работу AI-агента в Telegram: статусы инструментов, анимации и кнопка Stop](https://habr.com/ru/articles/1090336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090336)
-- [Тест проходит даже с багом: что показал эксперимент Дэна Лу](https://habr.com/ru/articles/1088808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088808)
-- [Как я сделал лыжный тренер на датчиках и вайб‑кодинге — вместо подписки на готовый](https://habr.com/ru/articles/1090320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090320)
-- [Сфера — полностью кириллический язык программирования: от «Привет, мир» до HTTP‑сервера и bare‑metal](https://habr.com/ru/articles/1090318/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090318)
+- [Почему после успешного внедрения становится тяжелее, хотя ожидали, что станет легче](https://habr.com/ru/articles/1090662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090662)
+- [Сервер на смартфоне полгода спустя: OnePlus 6, Mobian, 26 контейнеров и одна проблема](https://habr.com/ru/articles/1090220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090220)
+- [OpenRTL: Говорили, что RAD на классическом C++ невозможен. Я повторил RTL и VCL-архитектуру RAD Studio за 1500 строк](https://habr.com/ru/articles/1090676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090676)
+- [Голосовой робот для записи в салон красоты](https://habr.com/ru/companies/exolve/articles/1090650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090650)
+- [Рендерим обучающие 3D‑ролики кодом на React и Three.js вместо съёмок и AI‑видео](https://habr.com/ru/articles/1090600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090600)
 <!-- BLOG-POST-LIST:END -->
 
 ---
