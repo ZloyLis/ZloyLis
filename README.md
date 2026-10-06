@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Почему нельзя слепо копировать Ozon, Amazon и Taobao: интерфейс покупки начинается не с UI](https://habr.com/ru/articles/1091138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091138)
-- [Как учебная платформа может учитывать, что ученик уже знает](https://habr.com/ru/articles/1090038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090038)
-- [Вайбкодинг. Стадии принятия](https://habr.com/ru/articles/1091130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091130)
-- [C++ в 2026-м: память, прод, игры, Rust и ИИ — зачем учить язык, который невозможно знать целиком](https://habr.com/ru/articles/1091116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091116)
-- [История HTML и CSS. Какие элементы и свойства ушли навсегда](https://habr.com/ru/companies/ruvds/articles/1089108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089108)
+- [Как узнать длительность видео по ссылке, скачав 7% файла, и почему в заголовке MP4 бывает ноль](https://habr.com/ru/articles/1091264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091264)
+- [Что ИИ поменял в моей схеме? Приращение вместо целого проекта](https://habr.com/ru/articles/1091266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091266)
+- [Later, Bender: когда чат закончился, а проект нет](https://habr.com/ru/articles/1091262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091262)
+- [Экран перестал обновляться, и виноват оказался не ваш код](https://habr.com/ru/companies/otus/articles/1087294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1087294)
+- [Зачем человечеству открытые задачи науки?](https://habr.com/ru/articles/1091216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091216)
 <!-- BLOG-POST-LIST:END -->
 
 ---
