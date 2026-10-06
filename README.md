@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Почему после успешного внедрения становится тяжелее, хотя ожидали, что станет легче](https://habr.com/ru/articles/1090662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090662)
-- [Сервер на смартфоне полгода спустя: OnePlus 6, Mobian, 26 контейнеров и одна проблема](https://habr.com/ru/articles/1090220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090220)
-- [OpenRTL: Говорили, что RAD на классическом C++ невозможен. Я повторил RTL и VCL-архитектуру RAD Studio за 1500 строк](https://habr.com/ru/articles/1090676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090676)
-- [Голосовой робот для записи в салон красоты](https://habr.com/ru/companies/exolve/articles/1090650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090650)
-- [Рендерим обучающие 3D‑ролики кодом на React и Three.js вместо съёмок и AI‑видео](https://habr.com/ru/articles/1090600/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090600)
+- [Код в Word без картинок: подсветка синтаксиса через python-docx и Pygments](https://habr.com/ru/articles/1090756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090756)
+- [Как я подключил MAX и VK к Chatwoot: разбираем двусторонний мост](https://habr.com/ru/articles/1090738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090738)
+- [Заказы с Tilda, InSales и самописного сайта в 1С без ручного ввода: контур, сопоставление, идемпотентность](https://habr.com/ru/articles/1090788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090788)
+- [Security Week 2641: новая атака типа Spectre-v2](https://habr.com/ru/companies/kaspersky/articles/1090362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090362)
+- [Что мы на самом деле открываем?](https://habr.com/ru/articles/1090772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090772)
 <!-- BLOG-POST-LIST:END -->
 
 ---
