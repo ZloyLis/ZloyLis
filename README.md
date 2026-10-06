@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Код в Word без картинок: подсветка синтаксиса через python-docx и Pygments](https://habr.com/ru/articles/1090756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090756)
-- [Как я подключил MAX и VK к Chatwoot: разбираем двусторонний мост](https://habr.com/ru/articles/1090738/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090738)
-- [Заказы с Tilda, InSales и самописного сайта в 1С без ручного ввода: контур, сопоставление, идемпотентность](https://habr.com/ru/articles/1090788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090788)
-- [Security Week 2641: новая атака типа Spectre-v2](https://habr.com/ru/companies/kaspersky/articles/1090362/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090362)
-- [Что мы на самом деле открываем?](https://habr.com/ru/articles/1090772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090772)
+- [Почему нельзя слепо копировать Ozon, Amazon и Taobao: интерфейс покупки начинается не с UI](https://habr.com/ru/articles/1091138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091138)
+- [Как учебная платформа может учитывать, что ученик уже знает](https://habr.com/ru/articles/1090038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090038)
+- [Вайбкодинг. Стадии принятия](https://habr.com/ru/articles/1091130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091130)
+- [C++ в 2026-м: память, прод, игры, Rust и ИИ — зачем учить язык, который невозможно знать целиком](https://habr.com/ru/articles/1091116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091116)
+- [История HTML и CSS. Какие элементы и свойства ушли навсегда](https://habr.com/ru/companies/ruvds/articles/1089108/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089108)
 <!-- BLOG-POST-LIST:END -->
 
 ---
