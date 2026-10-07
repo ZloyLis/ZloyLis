@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как я данные со станков снимал: девять машин, три способа и Odoo](https://habr.com/ru/articles/1091546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091546)
-- [Переезд с Webflow на Next.js по одной странице: Payload CMS, next-intl и проверки в CI](https://habr.com/ru/articles/1091544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091544)
-- [Как React учился батчингу и как научить его «летать»?](https://habr.com/ru/articles/1091536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091536)
-- [Go 1.25 сам читает лимит CPU, а automaxprocs молча это выключает](https://habr.com/ru/companies/otus/articles/1090050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090050)
-- [Roaring Bitmap: как уместить базу данных в памяти приложения](https://habr.com/ru/companies/sportmaster_lab/articles/1078770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078770)
+- [Собака, которой нет: как я учил робота Pin бегать рысью, не купив ни одного сервопривода](https://habr.com/ru/articles/1091762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091762)
+- [Три дела Solar Dozor: как расследуют утечки данных изнутри компании](https://habr.com/ru/companies/solarsecurity/articles/1091750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091750)
+- [С системой, которую нельзя менять, не интегрируются. Её можно только зеркалить](https://habr.com/ru/articles/1083634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083634)
+- [[Перевод] Вышел Next.js 16.4](https://habr.com/ru/articles/1091748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091748)
+- [Google: Борьба за безопасность или очередное выманивание денег!?](https://habr.com/ru/articles/1091720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091720)
 <!-- BLOG-POST-LIST:END -->
 
 ---
