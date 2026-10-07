@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Собака, которой нет: как я учил робота Pin бегать рысью, не купив ни одного сервопривода](https://habr.com/ru/articles/1091762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091762)
-- [Три дела Solar Dozor: как расследуют утечки данных изнутри компании](https://habr.com/ru/companies/solarsecurity/articles/1091750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091750)
-- [С системой, которую нельзя менять, не интегрируются. Её можно только зеркалить](https://habr.com/ru/articles/1083634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083634)
-- [[Перевод] Вышел Next.js 16.4](https://habr.com/ru/articles/1091748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091748)
-- [Google: Борьба за безопасность или очередное выманивание денег!?](https://habr.com/ru/articles/1091720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091720)
+- [Claude Code на Windows: что я прописал агенту, чтобы он перестал спотыкаться](https://habr.com/ru/articles/1091814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091814)
+- [Проблема ворот](https://habr.com/ru/articles/1091276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091276)
+- [Чёрная магия C++: Быстрый кольцевой буфер](https://habr.com/ru/articles/1070772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070772)
+- [Kubernetes просто часть 6: Для чего нужен Gateway API?](https://habr.com/ru/articles/1091780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091780)
+- [Платёж списывается дважды. Найдите причину в коде, который прошёл ревью](https://habr.com/ru/companies/otus/articles/1077950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077950)
 <!-- BLOG-POST-LIST:END -->
 
 ---
