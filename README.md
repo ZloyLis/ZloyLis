@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Автодополнение в tatarnetes, sheeternetes on-prem и новые фичи гендерных K8s](https://habr.com/ru/articles/1091316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091316)
-- [Хватит блокировать спам. Пусть все звонки проходят](https://habr.com/ru/articles/1091310/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091310)
-- [Как узнать длительность видео по ссылке, скачав 7% файла, и почему в заголовке MP4 бывает ноль](https://habr.com/ru/articles/1091264/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091264)
-- [Что ИИ поменял в моей схеме? Приращение вместо целого проекта](https://habr.com/ru/articles/1091266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091266)
-- [Later, Bender: когда чат закончился, а проект нет](https://habr.com/ru/articles/1091262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091262)
+- [Как я данные со станков снимал: девять машин, три способа и Odoo](https://habr.com/ru/articles/1091546/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091546)
+- [Переезд с Webflow на Next.js по одной странице: Payload CMS, next-intl и проверки в CI](https://habr.com/ru/articles/1091544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091544)
+- [Как React учился батчингу и как научить его «летать»?](https://habr.com/ru/articles/1091536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091536)
+- [Go 1.25 сам читает лимит CPU, а automaxprocs молча это выключает](https://habr.com/ru/companies/otus/articles/1090050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090050)
+- [Roaring Bitmap: как уместить базу данных в памяти приложения](https://habr.com/ru/companies/sportmaster_lab/articles/1078770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1078770)
 <!-- BLOG-POST-LIST:END -->
 
 ---
