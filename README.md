@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Код еще никогда не был так дешев. И еще никогда так дорого не обходился](https://habr.com/ru/articles/1091806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091806)
-- [Палеокомпьютинг, часть 2: Kubernetes на Обероне, радио Вирта вместо сети, кластер в браузере и преимущества перед K8s](https://habr.com/ru/companies/aenix/articles/1091830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091830)
-- [Когерентная демодуляция CPFSK на микроконтроллерах семейства ARM Cotex M &lpar;STM32F103 — STM32H750&rpar;](https://habr.com/ru/articles/1091826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091826)
-- [Claude Code на Windows: что я прописал агенту, чтобы он перестал спотыкаться](https://habr.com/ru/articles/1091814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091814)
-- [Проблема ворот](https://habr.com/ru/articles/1091276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091276)
+- [Про симплекс-метод простым языком](https://habr.com/ru/articles/1092024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092024)
+- [Дайте камере поспать: иначе процессора на весь завод не хватит](https://habr.com/ru/companies/sibur_official/articles/1091944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091944)
+- [[Перевод] Как мы создали и внедрили AI-разработчика: опыт EXANTE](https://habr.com/ru/articles/1091956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091956)
+- [Бэкап был, восстановить было нечего: как pg_dump молча собирал битые дампы из-за row-level security](https://habr.com/ru/articles/1092008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092008)
+- [sync.Pool теряет то, что вы хотели сохранить, и держит то, что хотели выбросить](https://habr.com/ru/companies/otus/articles/1084908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084908)
 <!-- BLOG-POST-LIST:END -->
 
 ---
