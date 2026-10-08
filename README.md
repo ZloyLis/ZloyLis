@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [ГОЗ после 1 января 2027: от раздельного учёта к доказуемому исполнению контракта](https://habr.com/ru/articles/1092212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092212)
+- [ИИ в DevOps или как мы слепо доверяем сгенерированным манифестам](https://habr.com/ru/companies/otus/articles/1088180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088180)
+- [WASM кроссбраузерность во Flutter Web на 2026](https://habr.com/ru/articles/1083398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083398)
+- [Сколько времени нужно непрограммисту, чтобы сделать приложение с сервером, офлайн‑режимом и SEO](https://habr.com/ru/articles/1092178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092178)
 - [Почему O&lpar;1&rpar; не гарантирует высокую скорость: четыре структуры данных для графа signal – effect](https://habr.com/ru/articles/1092142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092142)
-- [Куда делись 4 секунды: разбираем автоинструментацию в APM](https://habr.com/ru/companies/rkt/articles/1085938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085938)
-- [DRP, который никто не проверял: почему план восстановления может не сработать в самый нужный момент](https://habr.com/ru/articles/1092138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092138)
-- [Как опубликовать внутренний API из DMZ, если соединения в LAN запрещены: пять подходов, которые мы проверили](https://habr.com/ru/companies/neoflex/articles/1091642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091642)
-- [Усредняющие сети: как ускорить 8-битные сети почти без потери точности](https://habr.com/ru/companies/smartengines/articles/1092088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092088)
 <!-- BLOG-POST-LIST:END -->
 
 ---
