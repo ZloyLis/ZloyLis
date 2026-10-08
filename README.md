@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Код еще никогда не был так дешев. И еще никогда так дорого не обходился](https://habr.com/ru/articles/1091806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091806)
+- [Палеокомпьютинг, часть 2: Kubernetes на Обероне, радио Вирта вместо сети, кластер в браузере и преимущества перед K8s](https://habr.com/ru/companies/aenix/articles/1091830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091830)
+- [Когерентная демодуляция CPFSK на микроконтроллерах семейства ARM Cotex M &lpar;STM32F103 — STM32H750&rpar;](https://habr.com/ru/articles/1091826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091826)
 - [Claude Code на Windows: что я прописал агенту, чтобы он перестал спотыкаться](https://habr.com/ru/articles/1091814/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091814)
 - [Проблема ворот](https://habr.com/ru/articles/1091276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091276)
-- [Чёрная магия C++: Быстрый кольцевой буфер](https://habr.com/ru/articles/1070772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1070772)
-- [Kubernetes просто часть 6: Для чего нужен Gateway API?](https://habr.com/ru/articles/1091780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091780)
-- [Платёж списывается дважды. Найдите причину в коде, который прошёл ревью](https://habr.com/ru/companies/otus/articles/1077950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1077950)
 <!-- BLOG-POST-LIST:END -->
 
 ---
