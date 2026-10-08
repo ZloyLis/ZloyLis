@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Про симплекс-метод простым языком](https://habr.com/ru/articles/1092024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092024)
-- [Дайте камере поспать: иначе процессора на весь завод не хватит](https://habr.com/ru/companies/sibur_official/articles/1091944/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091944)
-- [[Перевод] Как мы создали и внедрили AI-разработчика: опыт EXANTE](https://habr.com/ru/articles/1091956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091956)
-- [Бэкап был, восстановить было нечего: как pg_dump молча собирал битые дампы из-за row-level security](https://habr.com/ru/articles/1092008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092008)
-- [sync.Pool теряет то, что вы хотели сохранить, и держит то, что хотели выбросить](https://habr.com/ru/companies/otus/articles/1084908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084908)
+- [Почему O&lpar;1&rpar; не гарантирует высокую скорость: четыре структуры данных для графа signal – effect](https://habr.com/ru/articles/1092142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092142)
+- [Куда делись 4 секунды: разбираем автоинструментацию в APM](https://habr.com/ru/companies/rkt/articles/1085938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1085938)
+- [DRP, который никто не проверял: почему план восстановления может не сработать в самый нужный момент](https://habr.com/ru/articles/1092138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092138)
+- [Как опубликовать внутренний API из DMZ, если соединения в LAN запрещены: пять подходов, которые мы проверили](https://habr.com/ru/companies/neoflex/articles/1091642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091642)
+- [Усредняющие сети: как ускорить 8-битные сети почти без потери точности](https://habr.com/ru/companies/smartengines/articles/1092088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092088)
 <!-- BLOG-POST-LIST:END -->
 
 ---
