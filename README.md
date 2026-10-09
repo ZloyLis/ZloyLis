@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [ГОЗ после 1 января 2027: от раздельного учёта к доказуемому исполнению контракта](https://habr.com/ru/articles/1092212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092212)
-- [ИИ в DevOps или как мы слепо доверяем сгенерированным манифестам](https://habr.com/ru/companies/otus/articles/1088180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088180)
-- [WASM кроссбраузерность во Flutter Web на 2026](https://habr.com/ru/articles/1083398/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083398)
-- [Сколько времени нужно непрограммисту, чтобы сделать приложение с сервером, офлайн‑режимом и SEO](https://habr.com/ru/articles/1092178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092178)
-- [Почему O&lpar;1&rpar; не гарантирует высокую скорость: четыре структуры данных для графа signal – effect](https://habr.com/ru/articles/1092142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092142)
+- [[recovery mode] Хеш-функции. Часть 1: Основы](https://habr.com/ru/articles/1092430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092430)
+- [Автоматизировать процессы, составлять ТЗ с ИИ и управлять требованиями — дайджест для аналитиков](https://habr.com/ru/companies/otus/articles/1092338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092338)
+- [Как делят GPU в докладах KubeCon Japan 2026 и у нас в Авито](https://habr.com/ru/companies/avito/articles/1089132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089132)
+- [[Перевод] Kotlin получил почти настоящие статики](https://habr.com/ru/companies/spring_aio/articles/1092412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092412)
+- [MCP‑сервер 2ГИС: как мы учили LLM не выдумывать адреса](https://habr.com/ru/companies/2gis/articles/1091952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091952)
 <!-- BLOG-POST-LIST:END -->
 
 ---
