@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[recovery mode] Хеш-функции. Часть 1: Основы](https://habr.com/ru/articles/1092430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092430)
-- [Автоматизировать процессы, составлять ТЗ с ИИ и управлять требованиями — дайджест для аналитиков](https://habr.com/ru/companies/otus/articles/1092338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092338)
-- [Как делят GPU в докладах KubeCon Japan 2026 и у нас в Авито](https://habr.com/ru/companies/avito/articles/1089132/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089132)
-- [[Перевод] Kotlin получил почти настоящие статики](https://habr.com/ru/companies/spring_aio/articles/1092412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092412)
-- [MCP‑сервер 2ГИС: как мы учили LLM не выдумывать адреса](https://habr.com/ru/companies/2gis/articles/1091952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091952)
+- [Как фонд №1 ищет и отбирает проекты](https://habr.com/ru/articles/1076036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076036)
+- [Как мы строим хижину Postgres Pro](https://habr.com/ru/companies/postgrespro/articles/1092566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092566)
+- [Как мы запускали нейродирижабли в Центральном университете в Летней STEM-школе](https://habr.com/ru/companies/central_university/articles/1092568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092568)
+- [CSS Anchor Positioning в картинках](https://habr.com/ru/articles/1092540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092540)
+- [Обучаем LLM по клику: платформа распределённого обучения на HGX](https://habr.com/ru/companies/open-aot/articles/1092420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092420)
 <!-- BLOG-POST-LIST:END -->
 
 ---
