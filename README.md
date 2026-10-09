@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как фонд №1 ищет и отбирает проекты](https://habr.com/ru/articles/1076036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076036)
+- [[Перевод] Взрывы черных дыр?](https://habr.com/ru/articles/1088826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088826)
+- [Зачем быстрая реактивность за пределами DOM: ответы на вопросы и знакомство с Raph](https://habr.com/ru/articles/1092612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092612)
+- [WASM vs JavaScript 2026 — проверка на Flutter Web](https://habr.com/ru/articles/1092606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092606)
+- [Как фонд № 1 ищет и отбирает проекты](https://habr.com/ru/articles/1076036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076036)
 - [Как мы строим хижину Postgres Pro](https://habr.com/ru/companies/postgrespro/articles/1092566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092566)
-- [Как мы запускали нейродирижабли в Центральном университете в Летней STEM-школе](https://habr.com/ru/companies/central_university/articles/1092568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092568)
-- [CSS Anchor Positioning в картинках](https://habr.com/ru/articles/1092540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092540)
-- [Обучаем LLM по клику: платформа распределённого обучения на HGX](https://habr.com/ru/companies/open-aot/articles/1092420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092420)
 <!-- BLOG-POST-LIST:END -->
 
 ---
