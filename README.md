@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Общаемся с ИИ по СМС](https://habr.com/ru/articles/1092588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092588)
+- [Девять петель от Claude — почему это очень важно для кода будущего](https://habr.com/ru/articles/1089332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089332)
+- [Не хочу грузить свои документы в онлайн-сервисы. Поэтому сжимаю PDF прямо в браузере](https://habr.com/ru/articles/1092630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092630)
 - [[Перевод] Взрывы черных дыр?](https://habr.com/ru/articles/1088826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088826)
 - [Зачем быстрая реактивность за пределами DOM: ответы на вопросы и знакомство с Raph](https://habr.com/ru/articles/1092612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092612)
-- [WASM vs JavaScript 2026 — проверка на Flutter Web](https://habr.com/ru/articles/1092606/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092606)
-- [Как фонд № 1 ищет и отбирает проекты](https://habr.com/ru/articles/1076036/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076036)
-- [Как мы строим хижину Postgres Pro](https://habr.com/ru/companies/postgrespro/articles/1092566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092566)
 <!-- BLOG-POST-LIST:END -->
 
 ---
