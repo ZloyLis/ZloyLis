@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Блютус выживальщика](https://habr.com/ru/articles/1092672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092672)
-- [Я написал 61 тест для AI-ментора. Потом выяснилось, что тестам тоже нельзя верить](https://habr.com/ru/articles/1092676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092676)
-- [ONYX 2.0: tor, звонки и децентрализация](https://habr.com/ru/articles/1092662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092662)
-- [Автопостинг в TenChat без API: Playwright, редактор Quill и вставка через ClipboardEvent](https://habr.com/ru/articles/1090866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090866)
-- [Делаем веб-дизайнерские референсы с помощью ИИ](https://habr.com/ru/companies/studyai/articles/1092428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092428)
+- [Telemax — показал проект на Хабре и получил бан на GitHub](https://habr.com/ru/articles/1092754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092754)
+- [У нас есть MCP дома](https://habr.com/ru/articles/1092626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092626)
+- [[Перевод] Джеффри Хантли: агенту хватит --help, если CLI сделана хорошо](https://habr.com/ru/articles/1092348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092348)
+- [Хотел обучить нейросеть без backprop, а получил k‑means](https://habr.com/ru/articles/1092720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092720)
+- [«Грет британ блть»: сделал тренажёр английского со своими PDF, карточками и конечно же ИИ](https://habr.com/ru/articles/1092708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092708)
 <!-- BLOG-POST-LIST:END -->
 
 ---
