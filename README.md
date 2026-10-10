@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes как ядро Linux, часть 1: собираем тулкит для создания дистрибутивов K8s и универсальный пакетный менеджер](https://habr.com/ru/articles/1092792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092792)
+- [Как Google Play сделал публикацию бесплатного приложения настоящим испытанием](https://habr.com/ru/companies/gigapisar/articles/1092788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092788)
+- [Чей номер и чей БИК: две офлайн-библиотеки на открытых реестрах Минцифры и ЦБ](https://habr.com/ru/articles/1092758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092758)
 - [Telemax — показал проект на Хабре и получил бан на GitHub](https://habr.com/ru/articles/1092754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092754)
 - [У нас есть MCP дома](https://habr.com/ru/articles/1092626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092626)
-- [[Перевод] Джеффри Хантли: агенту хватит --help, если CLI сделана хорошо](https://habr.com/ru/articles/1092348/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092348)
-- [Хотел обучить нейросеть без backprop, а получил k‑means](https://habr.com/ru/articles/1092720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092720)
-- [«Грет британ блть»: сделал тренажёр английского со своими PDF, карточками и конечно же ИИ](https://habr.com/ru/articles/1092708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092708)
 <!-- BLOG-POST-LIST:END -->
 
 ---
