@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Общаемся с ИИ по СМС](https://habr.com/ru/articles/1092588/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092588)
-- [Девять петель от Claude — почему это очень важно для кода будущего](https://habr.com/ru/articles/1089332/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1089332)
-- [Не хочу грузить свои документы в онлайн-сервисы. Поэтому сжимаю PDF прямо в браузере](https://habr.com/ru/articles/1092630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092630)
-- [[Перевод] Взрывы черных дыр?](https://habr.com/ru/articles/1088826/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088826)
-- [Зачем быстрая реактивность за пределами DOM: ответы на вопросы и знакомство с Raph](https://habr.com/ru/articles/1092612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092612)
+- [Блютус выживальщика](https://habr.com/ru/articles/1092672/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092672)
+- [Я написал 61 тест для AI-ментора. Потом выяснилось, что тестам тоже нельзя верить](https://habr.com/ru/articles/1092676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092676)
+- [ONYX 2.0: tor, звонки и децентрализация](https://habr.com/ru/articles/1092662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092662)
+- [Автопостинг в TenChat без API: Playwright, редактор Quill и вставка через ClipboardEvent](https://habr.com/ru/articles/1090866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090866)
+- [Делаем веб-дизайнерские референсы с помощью ИИ](https://habr.com/ru/companies/studyai/articles/1092428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092428)
 <!-- BLOG-POST-LIST:END -->
 
 ---
