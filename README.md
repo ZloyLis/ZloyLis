@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Поэзия агентной разработки или как теперь писать код](https://habr.com/ru/articles/1092802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092802)
-- [Kubernetes как ядро Linux, часть 1: собираем тулкит для создания дистрибутивов K8s и универсальный пакетный менеджер](https://habr.com/ru/companies/aenix/articles/1092792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092792)
-- [Как Google Play сделал публикацию бесплатного приложения настоящим испытанием](https://habr.com/ru/companies/gigapisar/articles/1092788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092788)
-- [Чей номер и чей БИК: две офлайн-библиотеки на открытых реестрах Минцифры и ЦБ](https://habr.com/ru/articles/1092758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092758)
-- [Telemax — показал проект на Хабре и получил бан на GitHub](https://habr.com/ru/articles/1092754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092754)
+- [AdaEngine 1.0.0: от движка к полноценной среде разработки игр](https://habr.com/ru/articles/1092864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092864)
+- [Мобильная разработка за неделю #649 &lpar;4 — 11 октября&rpar;](https://habr.com/ru/articles/1092886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092886)
+- [Слово не переводится, а реплика рядом переводится: разбираю баг во встроенном переводчике Chrome](https://habr.com/ru/articles/1092872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092872)
+- [«А у меня все работает»: история айтишного фольклора](https://habr.com/ru/articles/1092880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092880)
+- [ИИ-гид по обществознанию](https://habr.com/ru/articles/1092874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092874)
 <!-- BLOG-POST-LIST:END -->
 
 ---
