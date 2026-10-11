@@ -36,7 +36,7 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [Поэзия агентной разработки или как теперь писать код](https://habr.com/ru/articles/1092802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092802)
-- [Kubernetes как ядро Linux, часть 1: собираем тулкит для создания дистрибутивов K8s и универсальный пакетный менеджер](https://habr.com/ru/articles/1092792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092792)
+- [Kubernetes как ядро Linux, часть 1: собираем тулкит для создания дистрибутивов K8s и универсальный пакетный менеджер](https://habr.com/ru/companies/aenix/articles/1092792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092792)
 - [Как Google Play сделал публикацию бесплатного приложения настоящим испытанием](https://habr.com/ru/companies/gigapisar/articles/1092788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092788)
 - [Чей номер и чей БИК: две офлайн-библиотеки на открытых реестрах Минцифры и ЦБ](https://habr.com/ru/articles/1092758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092758)
 - [Telemax — показал проект на Хабре и получил бан на GitHub](https://habr.com/ru/articles/1092754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092754)
