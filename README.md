@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я вернул LAN-кооп в Neverwinter Nights 2 на Switch](https://habr.com/ru/articles/1092982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092982)
+- [Я потратила $9 000 на ИИ-агентов и в итоге сделала Crossweft — проверку того, что они ломают между файлами](https://habr.com/ru/articles/1092980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092980)
+- [Первая часть шестнадцатой проблемы Гильберта: обзор по кривым 6 и 7 степени](https://habr.com/ru/articles/1092846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092846)
 - [AdaEngine 1.0.0: от движка к полноценной среде разработки игр](https://habr.com/ru/articles/1092864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092864)
 - [Мобильная разработка за неделю #649 &lpar;4 — 11 октября&rpar;](https://habr.com/ru/articles/1092886/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092886)
-- [Слово не переводится, а реплика рядом переводится: разбираю баг во встроенном переводчике Chrome](https://habr.com/ru/articles/1092872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092872)
-- [«А у меня все работает»: история айтишного фольклора](https://habr.com/ru/articles/1092880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092880)
-- [ИИ-гид по обществознанию](https://habr.com/ru/articles/1092874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092874)
 <!-- BLOG-POST-LIST:END -->
 
 ---
