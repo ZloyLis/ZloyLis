@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Микросервисы&lpar;async single-threaded&rpar; в эмбеддед. OpenBMC и рефакторинг «кошмара на С++» с помощью ИИ](https://habr.com/ru/articles/1092774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092774)
-- [Как я вернул LAN-кооп в Neverwinter Nights 2 на Switch](https://habr.com/ru/articles/1092982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092982)
-- [Я потратила $9 000 на ИИ-агентов и в итоге сделала Crossweft — проверку того, что они ломают между файлами](https://habr.com/ru/articles/1092980/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092980)
-- [Первая часть шестнадцатой проблемы Гильберта: обзор по кривым 6 и 7 степени](https://habr.com/ru/articles/1092846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092846)
-- [AdaEngine 1.0.0: от движка к полноценной среде разработки игр](https://habr.com/ru/articles/1092864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092864)
+- [Неожиданный антивайб разработки через ИИ-агентов](https://habr.com/ru/articles/1093258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093258)
+- [Теория экстремальных событий: графы, много математики и простой агент](https://habr.com/ru/articles/1093010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093010)
+- [Мы научили агента писать тесты так, как их пишет наша команда](https://habr.com/ru/companies/tbank/articles/1091898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091898)
+- [В Санкт-Петербурге завершился INFOSTART TECH EVENT 2026](https://habr.com/ru/companies/infostart/articles/1093194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093194)
+- [Полгода SEO с нуля после переезда с Tilda: органика ×20 и 12 граблей, на которые я наступил](https://habr.com/ru/articles/1093192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093192)
 <!-- BLOG-POST-LIST:END -->
 
 ---
