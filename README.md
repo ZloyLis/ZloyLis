@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Неожиданный антивайб разработки через ИИ-агентов](https://habr.com/ru/articles/1093258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093258)
-- [Теория экстремальных событий: графы, много математики и простой агент](https://habr.com/ru/articles/1093010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093010)
-- [Мы научили агента писать тесты так, как их пишет наша команда](https://habr.com/ru/companies/tbank/articles/1091898/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091898)
-- [В Санкт-Петербурге завершился INFOSTART TECH EVENT 2026](https://habr.com/ru/companies/infostart/articles/1093194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093194)
-- [Полгода SEO с нуля после переезда с Tilda: органика ×20 и 12 граблей, на которые я наступил](https://habr.com/ru/articles/1093192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093192)
+- [Город для робота-курьера в браузере: Arduino Uno, физика и пешеходы, которые уступают дорогу](https://habr.com/ru/articles/1093544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093544)
+- [Переезд с Leaflet на MapLibre: детектив про один рывок и 251 маршрут, проверенный байт в байт](https://habr.com/ru/articles/1093532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093532)
+- [Свой переключатель раскладки на Delphi, от низкоуровневого хука до скоринга n-грамм](https://habr.com/ru/articles/1093518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093518)
+- [Нашёл и проверил 6 сервисов с бесплатным доступом к GPT-6, Claude и API: лимиты, бонусы и результаты тестов](https://habr.com/ru/articles/1093502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093502)
+- [Реактивная Java: когда она ускоряет систему, а когда просто усложняет жизнь &lpar;часть 1&rpar;](https://habr.com/ru/companies/cinimex/articles/1091304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091304)
 <!-- BLOG-POST-LIST:END -->
 
 ---
