@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Осень. Срочно дайте телефон Перельмана — я доказал гипотезу Римана](https://habr.com/ru/articles/1093770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093770)
-- [Подмена камеры в Яндекс.Телемосте](https://habr.com/ru/articles/1093768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093768)
-- [CayleyPy и кубик Рубика: как нейросеть превосходит классический поиск](https://habr.com/ru/articles/1093076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093076)
-- [[Перевод] Современное веб-приложение на C: CGI, SQLite и один бинарник](https://habr.com/ru/articles/1093752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093752)
-- [[recovery mode] «Ты senior Python-разработчик» сделал агента хуже: проверил 7 популярных приписок к промптам](https://habr.com/ru/articles/1093736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093736)
+- [Такого нет даже у OpenAI Dots, Grok Bot и Muse: NIKA — личные ИИ-агенты с on-device LLM &lpar;я доверила ИИ банковскую карту&rpar;](https://habr.com/ru/articles/1094030/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094030)
+- [Сломанный Ctrl+C — сначала гасла VM, а потом не прерывался sleep: Java, KVM и Linux](https://habr.com/ru/articles/1094024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094024)
+- [[Перевод] Я не хочу читать то, чего вы не писали](https://habr.com/ru/articles/1093138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093138)
+- [[Перевод] OIDC настроен. Почему ваши GitHub Actions всё ещё уязвимы?](https://habr.com/ru/companies/otus/articles/1093780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093780)
+- [14 октября 2026: проверяем ключи для GitHub](https://habr.com/ru/companies/hexlet/articles/1094004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094004)
 <!-- BLOG-POST-LIST:END -->
 
 ---
