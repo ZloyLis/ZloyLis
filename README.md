@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Строим простой локальный CI/CD на Windows: k3s + Jenkins + Gitea + ArgoCD](https://habr.com/ru/articles/1093586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093586)
-- [Потерянная тетрадь — разработка длиною в ночь](https://habr.com/ru/articles/1093580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093580)
-- [Город для робота‑курьера в браузере: Arduino Uno, физика и пешеходы, которые уступают дорогу](https://habr.com/ru/articles/1093544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093544)
-- [Переезд с Leaflet на MapLibre: детектив про один рывок и 251 маршрут, проверенный байт в байт](https://habr.com/ru/articles/1093532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093532)
-- [Свой переключатель раскладки на Delphi, от низкоуровневого хука до скоринга n‑грамм](https://habr.com/ru/articles/1093518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093518)
+- [Осень. Срочно дайте телефон Перельмана — я доказал гипотезу Римана](https://habr.com/ru/articles/1093770/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093770)
+- [Подмена камеры в Яндекс.Телемосте](https://habr.com/ru/articles/1093768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093768)
+- [CayleyPy и кубик Рубика: как нейросеть превосходит классический поиск](https://habr.com/ru/articles/1093076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093076)
+- [[Перевод] Современное веб-приложение на C: CGI, SQLite и один бинарник](https://habr.com/ru/articles/1093752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093752)
+- [[recovery mode] «Ты senior Python-разработчик» сделал агента хуже: проверил 7 популярных приписок к промптам](https://habr.com/ru/articles/1093736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093736)
 <!-- BLOG-POST-LIST:END -->
 
 ---
