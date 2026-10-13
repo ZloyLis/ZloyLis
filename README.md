@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Город для робота-курьера в браузере: Arduino Uno, физика и пешеходы, которые уступают дорогу](https://habr.com/ru/articles/1093544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093544)
-- [Переезд с Leaflet на MapLibre: детектив про один рывок и 251 маршрут, проверенный байт в байт](https://habr.com/ru/articles/1093532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093532)
-- [Свой переключатель раскладки на Delphi, от низкоуровневого хука до скоринга n-грамм](https://habr.com/ru/articles/1093518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093518)
-- [Нашёл и проверил 6 сервисов с бесплатным доступом к GPT-6, Claude и API: лимиты, бонусы и результаты тестов](https://habr.com/ru/articles/1093502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093502)
-- [Реактивная Java: когда она ускоряет систему, а когда просто усложняет жизнь &lpar;часть 1&rpar;](https://habr.com/ru/companies/cinimex/articles/1091304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091304)
+- [Строим простой локальный CI/CD на Windows: k3s + Jenkins + Gitea + ArgoCD](https://habr.com/ru/articles/1093586/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093586)
+- [Потерянная тетрадь — разработка длиною в ночь](https://habr.com/ru/articles/1093580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093580)
+- [Город для робота‑курьера в браузере: Arduino Uno, физика и пешеходы, которые уступают дорогу](https://habr.com/ru/articles/1093544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093544)
+- [Переезд с Leaflet на MapLibre: детектив про один рывок и 251 маршрут, проверенный байт в байт](https://habr.com/ru/articles/1093532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093532)
+- [Свой переключатель раскладки на Delphi, от низкоуровневого хука до скоринга n‑грамм](https://habr.com/ru/articles/1093518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093518)
 <!-- BLOG-POST-LIST:END -->
 
 ---
