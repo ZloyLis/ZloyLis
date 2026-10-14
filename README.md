@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Я попробовал заменить разработчиков ИИ-агентами](https://habr.com/ru/companies/koda/articles/1094060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094060)
+- [Как работает российская экосистема ИИ‑разработки для крупных корпораций Digital Q: подробный разбор](https://habr.com/ru/companies/diasoft_company/articles/1094130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094130)
+- [[Перевод] Как Cloudflare отодвинул закупку железа на 8 месяцев: сэмплирование, агрегации и zstd в конвейере данных](https://habr.com/ru/articles/1094000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094000)
+- [Менеджер задач со сквозным шифрованием для своего сервера, который Claude Code написал за 19 часов](https://habr.com/ru/articles/1094094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094094)
 - [Конец привычного уютного айти. Что делать дальше](https://habr.com/ru/articles/1094080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094080)
-- [ИИ‑агенты. Часть 1: Первые шаги](https://habr.com/ru/articles/1094062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094062)
-- [Комнатный RAG: бесплатный ИИ-помощник-консультант по содержимому сайта](https://habr.com/ru/articles/1094042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094042)
-- [Сломанный Ctrl+C — сначала гасла VM, а потом не прерывался sleep: Java, KVM и Linux](https://habr.com/ru/articles/1094024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094024)
-- [[Перевод] Я не хочу читать то, чего вы не писали](https://habr.com/ru/articles/1093138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093138)
 <!-- BLOG-POST-LIST:END -->
 
 ---
