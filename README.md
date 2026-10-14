@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Конец привычного уютного айти. Что делать дальше](https://habr.com/ru/articles/1094080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094080)
 - [ИИ‑агенты. Часть 1: Первые шаги](https://habr.com/ru/articles/1094062/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094062)
 - [Комнатный RAG: бесплатный ИИ-помощник-консультант по содержимому сайта](https://habr.com/ru/articles/1094042/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094042)
 - [Сломанный Ctrl+C — сначала гасла VM, а потом не прерывался sleep: Java, KVM и Linux](https://habr.com/ru/articles/1094024/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094024)
 - [[Перевод] Я не хочу читать то, чего вы не писали](https://habr.com/ru/articles/1093138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093138)
-- [[Перевод] OIDC настроен. Почему ваши GitHub Actions всё ещё уязвимы?](https://habr.com/ru/companies/otus/articles/1093780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093780)
 <!-- BLOG-POST-LIST:END -->
 
 ---
