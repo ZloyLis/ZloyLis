@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Я попробовал заменить разработчиков ИИ-агентами](https://habr.com/ru/companies/koda/articles/1094060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094060)
-- [Как работает российская экосистема ИИ‑разработки для крупных корпораций Digital Q: подробный разбор](https://habr.com/ru/companies/diasoft_company/articles/1094130/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094130)
-- [[Перевод] Как Cloudflare отодвинул закупку железа на 8 месяцев: сэмплирование, агрегации и zstd в конвейере данных](https://habr.com/ru/articles/1094000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094000)
-- [Менеджер задач со сквозным шифрованием для своего сервера, который Claude Code написал за 19 часов](https://habr.com/ru/articles/1094094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094094)
-- [Конец привычного уютного айти. Что делать дальше](https://habr.com/ru/articles/1094080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094080)
+- [Прорастание в собственный контур](https://habr.com/ru/articles/1093982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093982)
+- [Оркестратор Apache Airflow: что это и как используется в BI и DWH](https://habr.com/ru/articles/1094354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094354)
+- [Как я выступил на INFOSTART TECH EVENT 2026: доклад по API, баттл кодеров и подкаст про ИИ](https://habr.com/ru/companies/infostart/articles/1094306/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094306)
+- [Как мы сократили поток событий в 600 раз с помощью FlinkSQL](https://habr.com/ru/companies/avito/articles/1091698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091698)
+- [«Ротируйте всё» — это не план. Разбираемся задела ли атака на цепочку поставок ваш GitHub Actions](https://habr.com/ru/articles/1094288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094288)
 <!-- BLOG-POST-LIST:END -->
 
 ---
