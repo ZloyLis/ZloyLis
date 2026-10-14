@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Скам расправил плечи: как ИИ открыл возможности для мошенников в ИТ-найме](https://habr.com/ru/articles/1094498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094498)
-- [XCUI, Tests &amp;amp; Robots. Разбираем нативную автоматизацию iOS на винтики. Часть 2](https://habr.com/ru/articles/1094474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094474)
-- [Синдром Капгра, топоры и чистая математика: как я проектировала логику безумия для своей браузерной игры](https://habr.com/ru/articles/1094468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094468)
-- [Почему HTTP-вызов не укладывается в таймаут: очереди, ретраи и asyncio](https://habr.com/ru/articles/1094050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094050)
+- [Скам расправил плечи: как ИИ открыл возможности для мошенников в ИТ‑найме](https://habr.com/ru/articles/1094498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094498)
+- [Синдром Капгра, топоры и чистая математика: как я проектировала логику безумия для своей браузерной игры](https://habr.com/ru/articles/1094468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094468)
+- [Почему HTTP‑вызов не укладывается в таймаут: очереди, ретраи и asyncio](https://habr.com/ru/articles/1094050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094050)
 - [[Перевод] Баг в 0,001% запросов: как Cloudflare ловил пустые ответы MySQL из-за общего кэша](https://habr.com/ru/articles/1094456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094456)
+- [POS, P&amp;amp;L и маржинальность — какова цена непонимания нюансов](https://habr.com/ru/articles/1094448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094448)
 <!-- BLOG-POST-LIST:END -->
 
 ---
