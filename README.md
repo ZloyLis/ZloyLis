@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Данные загрузились — всё ли сошлось? Как мы обеспечиваем согласованность в аналитическом хранилище](https://habr.com/ru/articles/1093712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093712)
-- [Пять платёжных провайдеров, два выжили](https://habr.com/ru/articles/1084304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084304)
-- [Как не потерять понимание проекта, когда код пишет Claude?](https://habr.com/ru/articles/1094532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094532)
-- [Миллионы событий WAF в одну аномалию: как PT AF Cloud замечает смену характера атак](https://habr.com/ru/companies/pt/articles/1094394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094394)
-- [Понятие «искусственный интеллект» в нормативных актах РФ](https://habr.com/ru/articles/1094562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094562)
+- [Почему попап расширения Chrome открывался 89 секунд](https://habr.com/ru/companies/cian/articles/1091162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091162)
+- [Сделала Million Dollar Homepage для творчества, но что‑то пошло не так](https://habr.com/ru/articles/1094810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094810)
+- [MicroBuild: DOOM‑Style движок на AVR](https://habr.com/ru/articles/1094808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094808)
+- [Выбор SIEM: что на самом деле решает. Опрос](https://habr.com/ru/specials/1093158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093158)
+- [Как фронтенд‑команде сделать мобильное приложение без нативных разработчиков](https://habr.com/ru/articles/1094782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094782)
 <!-- BLOG-POST-LIST:END -->
 
 ---
