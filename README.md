@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Звукорежиссёры сводят фильмы для кинозала, поэтому громкость дома я выравниваю расширением для браузера](https://habr.com/ru/articles/1094554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094554)
-- [S.T.A.L.K.E.R OGSR на Switch и Android](https://habr.com/ru/articles/1094552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094552)
-- [Скам расправил плечи: как ИИ открыл возможности для мошенников в ИТ‑найме](https://habr.com/ru/articles/1094498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094498)
-- [Синдром Капгра, топоры и чистая математика: как я проектировала логику безумия для своей браузерной игры](https://habr.com/ru/articles/1094468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094468)
-- [Почему HTTP‑вызов не укладывается в таймаут: очереди, ретраи и asyncio](https://habr.com/ru/articles/1094050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094050)
+- [Данные загрузились — всё ли сошлось? Как мы обеспечиваем согласованность в аналитическом хранилище](https://habr.com/ru/articles/1093712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093712)
+- [Пять платёжных провайдеров, два выжили](https://habr.com/ru/articles/1084304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1084304)
+- [Как не потерять понимание проекта, когда код пишет Claude?](https://habr.com/ru/articles/1094532/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094532)
+- [Миллионы событий WAF в одну аномалию: как PT AF Cloud замечает смену характера атак](https://habr.com/ru/companies/pt/articles/1094394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094394)
+- [Понятие «искусственный интеллект» в нормативных актах РФ](https://habr.com/ru/articles/1094562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094562)
 <!-- BLOG-POST-LIST:END -->
 
 ---
