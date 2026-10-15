@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Specify — open-source Framer на спеках](https://habr.com/ru/articles/1094938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094938)
+- [Что остаётся человеку, когда Клод пишет код?](https://habr.com/ru/articles/1094864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094864)
+- [От SCADA к предиктиву: почему собрать телеметрию проще, чем предсказать отказ](https://habr.com/ru/companies/psm_unlim/articles/1094860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094860)
 - [Почему попап расширения Chrome открывался 89 секунд](https://habr.com/ru/companies/cian/articles/1091162/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091162)
 - [Сделала Million Dollar Homepage для творчества, но что‑то пошло не так](https://habr.com/ru/articles/1094810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094810)
-- [MicroBuild: DOOM‑Style движок на AVR](https://habr.com/ru/articles/1094808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094808)
-- [Выбор SIEM: что на самом деле решает. Опрос](https://habr.com/ru/specials/1093158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093158)
-- [Как фронтенд‑команде сделать мобильное приложение без нативных разработчиков](https://habr.com/ru/articles/1094782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094782)
 <!-- BLOG-POST-LIST:END -->
 
 ---
