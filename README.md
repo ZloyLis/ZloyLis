@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Препарируем Solocraft в MMORPG: как математически пересобрать групповой контент 3.3.5a под одного игрока](https://habr.com/ru/articles/1095238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095238)
-- [Giga IDE Pro больше не будет. Но это хорошая новость](https://habr.com/ru/companies/sberbank/articles/1093766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093766)
-- [В 39% игр в Тайного Санту двое дарят друг другу. Считаем жеребьёвку как следует](https://habr.com/ru/articles/1095224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095224)
-- [NetFix Mobile: как я сделал Android-приложение, которое чинит YouTube, Discord и Telegram на телефоне и ТВ](https://habr.com/ru/articles/1094866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094866)
-- [Записать — не значит вспомнить: месяц внешней памяти для ИИ-агента](https://habr.com/ru/companies/basis/articles/1093924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093924)
+- [Как убрать пароли из XML-конфигов Hadoop: Credential Provider API и JCEKS на практике](https://habr.com/ru/companies/arenadata/articles/1094630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094630)
+- [Мировая губка. Как изобразить теорию всего на многообразиях Калаби‑Яу](https://habr.com/ru/articles/1095410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095410)
+- [Research First Builder: как проверить, откуда ИИ‑агент взял архитектурное решение](https://habr.com/ru/articles/1095394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095394)
+- [Вышла Joomla 6.2. Что нового?](https://habr.com/ru/articles/1095170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095170)
+- [Как добавить модели Anthropic в OpenCode через BotHub: два способа без лишней возни](https://habr.com/ru/companies/bothub/articles/1095186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095186)
 <!-- BLOG-POST-LIST:END -->
 
 ---
