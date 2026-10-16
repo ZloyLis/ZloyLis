@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Локальная ИИшница: рецепт приготовления](https://habr.com/ru/articles/1094976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094976)
+- [Кажется, мы ищем форму](https://habr.com/ru/articles/1095038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095038)
 - [Заводим C++ корутины на микроконтроллере](https://habr.com/ru/articles/1095012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095012)
 - [Как ИИ-агенты повторяют задачу: промпт, скилл, граф или код](https://habr.com/ru/articles/1094996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094996)
 - [Как менялся pattern matching в C#. Пять версий на примерах](https://habr.com/ru/articles/1093998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093998)
-- [GoOS: от любопытства к собственному ядру](https://habr.com/ru/articles/1094946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094946)
-- [Specify — open‑source Framer на спеках](https://habr.com/ru/articles/1094938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094938)
 <!-- BLOG-POST-LIST:END -->
 
 ---
