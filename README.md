@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Локальная ИИшница: рецепт приготовления](https://habr.com/ru/articles/1094976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094976)
-- [Кажется, мы ищем форму](https://habr.com/ru/articles/1095038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095038)
-- [Заводим C++ корутины на микроконтроллере](https://habr.com/ru/articles/1095012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095012)
-- [Как ИИ-агенты повторяют задачу: промпт, скилл, граф или код](https://habr.com/ru/articles/1094996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094996)
-- [Как менялся pattern matching в C#. Пять версий на примерах](https://habr.com/ru/articles/1093998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093998)
+- [Препарируем Solocraft в MMORPG: как математически пересобрать групповой контент 3.3.5a под одного игрока](https://habr.com/ru/articles/1095238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095238)
+- [Giga IDE Pro больше не будет. Но это хорошая новость](https://habr.com/ru/companies/sberbank/articles/1093766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093766)
+- [В 39% игр в Тайного Санту двое дарят друг другу. Считаем жеребьёвку как следует](https://habr.com/ru/articles/1095224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095224)
+- [NetFix Mobile: как я сделал Android-приложение, которое чинит YouTube, Discord и Telegram на телефоне и ТВ](https://habr.com/ru/articles/1094866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094866)
+- [Записать — не значит вспомнить: месяц внешней памяти для ИИ-агента](https://habr.com/ru/companies/basis/articles/1093924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093924)
 <!-- BLOG-POST-LIST:END -->
 
 ---
