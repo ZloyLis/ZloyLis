@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Что почитать Android-разработчику в 2026-ом году?](https://habr.com/ru/articles/1095486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095486)
+- [Как я создал свою Android клавиатуру, потому что остальные меня не устраивали](https://habr.com/ru/articles/1095476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095476)
+- [46 критериев и модель Jev: как устроен открытый индекс риска глобального конфликта](https://habr.com/ru/articles/1095448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095448)
 - [Как убрать пароли из XML-конфигов Hadoop: Credential Provider API и JCEKS на практике](https://habr.com/ru/companies/arenadata/articles/1094630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094630)
 - [Мировая губка. Как изобразить теорию всего на многообразиях Калаби‑Яу](https://habr.com/ru/articles/1095410/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095410)
-- [Research First Builder: как проверить, откуда ИИ‑агент взял архитектурное решение](https://habr.com/ru/articles/1095394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095394)
-- [Вышла Joomla 6.2. Что нового?](https://habr.com/ru/articles/1095170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095170)
-- [Как добавить модели Anthropic в OpenCode через BotHub: два способа без лишней возни](https://habr.com/ru/companies/bothub/articles/1095186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095186)
 <!-- BLOG-POST-LIST:END -->
 
 ---
