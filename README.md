@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Plyloom новая версия &lpar;0.14&rpar;. Работа над удобствами и мысли про OKF &lpar;Open Knowledge Format&rpar;](https://habr.com/ru/articles/1095666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095666)
-- [Асимметрия модульного монолита](https://habr.com/ru/articles/1095650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095650)
-- [Паттерны проектирования. Порождающие](https://habr.com/ru/articles/1092836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092836)
-- [Shared memory в ROS 2 Humble: CycloneDDS + iceoryx на практике](https://habr.com/ru/articles/1095648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095648)
-- [По ту сторону кода: дружелюбное введение в UART, I2C и SPI для тех, кто боится железа](https://habr.com/ru/articles/1095176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095176)
+- [Эффект Бейба Рута: не частота попаданий, а сила удара](https://habr.com/ru/articles/1073520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073520)
+- [api2app: Использование совместно с ComfyUI](https://habr.com/ru/articles/1093214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093214)
+- [Ни зарплат, ни отпусков, ни больничных. Зато есть User Story и Merge Request: как AI-агенты работают у меня в Jira](https://habr.com/ru/articles/1095690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095690)
+- [Три раза ALLOW: в ERP оказалось 120 вместо разрешённых 100](https://habr.com/ru/articles/1095622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095622)
+- [[Перевод] 25 лет гадали, откуда у кривых NIST seed&#39;ы. Оказалось, это lrand48 и отметка времени, а не хеш шуточной фразы](https://habr.com/ru/articles/1095684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095684)
 <!-- BLOG-POST-LIST:END -->
 
 ---
