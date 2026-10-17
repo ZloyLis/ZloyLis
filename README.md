@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Карандашный набросок, который заливается акварелью: разбираю эффект на SVG без библиотек](https://habr.com/ru/articles/1095566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095566)
-- [Стоит ли связывать Claude Code и Gemini Notebook?](https://habr.com/ru/articles/1095562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095562)
-- [Печатный каталог в HTML — сверстать и не пожалеть](https://habr.com/ru/articles/1095560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095560)
-- [От медной шахты до Луны: путь Маргарет Гамильтон](https://habr.com/ru/companies/timeweb/articles/1093044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093044)
-- [Как я добавил лицо голосовому ИИ на Яндексе: Simli, Anam и проверка на iPhone](https://habr.com/ru/articles/1095228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095228)
+- [Plyloom новая версия &lpar;0.14&rpar;. Работа над удобствами и мысли про OKF &lpar;Open Knowledge Format&rpar;](https://habr.com/ru/articles/1095666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095666)
+- [Асимметрия модульного монолита](https://habr.com/ru/articles/1095650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095650)
+- [Паттерны проектирования. Порождающие](https://habr.com/ru/articles/1092836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092836)
+- [Shared memory в ROS 2 Humble: CycloneDDS + iceoryx на практике](https://habr.com/ru/articles/1095648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095648)
+- [По ту сторону кода: дружелюбное введение в UART, I2C и SPI для тех, кто боится железа](https://habr.com/ru/articles/1095176/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095176)
 <!-- BLOG-POST-LIST:END -->
 
 ---
