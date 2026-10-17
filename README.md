@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Машинное обучение на PHP: Rubix ML 3.x – большое обновление экосистемы](https://habr.com/ru/articles/1095514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095514)
-- [UX редактирования богатого текста](https://habr.com/ru/articles/1095498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095498)
-- [Что почитать Android‑разработчику в 2026-м году?](https://habr.com/ru/articles/1095486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095486)
-- [Как я создал свою Android клавиатуру, потому что остальные меня не устраивали](https://habr.com/ru/articles/1095476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095476)
-- [46 критериев и модель Jev: как устроен открытый индекс риска глобального конфликта](https://habr.com/ru/articles/1095448/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095448)
+- [Карандашный набросок, который заливается акварелью: разбираю эффект на SVG без библиотек](https://habr.com/ru/articles/1095566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095566)
+- [Стоит ли связывать Claude Code и Gemini Notebook?](https://habr.com/ru/articles/1095562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095562)
+- [Печатный каталог в HTML — сверстать и не пожалеть](https://habr.com/ru/articles/1095560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095560)
+- [От медной шахты до Луны: путь Маргарет Гамильтон](https://habr.com/ru/companies/timeweb/articles/1093044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093044)
+- [Как я добавил лицо голосовому ИИ на Яндексе: Simli, Anam и проверка на iPhone](https://habr.com/ru/articles/1095228/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095228)
 <!-- BLOG-POST-LIST:END -->
 
 ---
