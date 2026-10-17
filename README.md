@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я подружил блок‑головоломку с Шопеном на WebAudio](https://habr.com/ru/articles/1095734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095734)
+- [L×Box: от VPN‑клиента до экосистемы управления сетевым трафиком](https://habr.com/ru/articles/1095724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095724)
 - [Русский язык в программировании. РУСИ++](https://habr.com/ru/articles/1069968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069968)
-- [Эффект Бейба Рута: не частота попаданий, а сила удара](https://habr.com/ru/articles/1073520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073520)
-- [api2app: Использование совместно с ComfyUI](https://habr.com/ru/articles/1093214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093214)
-- [Ни зарплат, ни отпусков, ни больничных. Зато есть User Story и Merge Request: как AI-агенты работают у меня в Jira](https://habr.com/ru/articles/1095690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095690)
-- [Три раза ALLOW: в ERP оказалось 120 вместо разрешённых 100](https://habr.com/ru/articles/1095622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095622)
+- [Эффект Бейба Рута: не частота попаданий, а сила удара](https://habr.com/ru/articles/1073520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073520)
+- [api2app: Использование совместно с ComfyUI](https://habr.com/ru/articles/1093214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093214)
 <!-- BLOG-POST-LIST:END -->
 
 ---
