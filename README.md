@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [PostgreSQL 19 перенесли на 19 ноября: какую роль в этом сыграло LLM-ревью](https://habr.com/ru/articles/1095950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095950)
+- [Гравицапа для GPU: OpenGL ES на Kotlin DSL на примере 3D-“Жизни” Конвея](https://habr.com/ru/articles/1095948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095948)
+- [[recovery mode] Биткорд мессенджер: как запустить собственный музыкальный HLS — сервис?](https://habr.com/ru/articles/1095866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095866)
 - [Ouroboros, очередной инструмент для вашего harness](https://habr.com/ru/articles/1095918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095918)
 - [Я потерял пароли всех пользователей, и это был не взлом. Как мой сайт пережил аварию Яндекс Облака](https://habr.com/ru/articles/1095766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095766)
-- [Среда исполнения JavaScript в браузере по стандарту HTML: агенты, event loop, task&#39;и и микрозадачи](https://habr.com/ru/articles/1095510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095510)
-- [Как я собрала контейнер своего опыта для своей системы знаний](https://habr.com/ru/articles/1095904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095904)
-- [[recovery mode] Через сколько лет можно бросить работу: считаю FIRE с инфляцией и налогами](https://habr.com/ru/articles/1095870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095870)
 <!-- BLOG-POST-LIST:END -->
 
 ---
