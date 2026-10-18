@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Висячий указатель в HTTP/2 довёл curl до RCE: разбор CVE-2026-92392 от Стенберга](https://habr.com/ru/articles/1095828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095828)
-- [Bia — boot into agent](https://habr.com/ru/articles/1095820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095820)
-- [Анатомия клиента Telegram на Compose Multiplatform: матрешки TDLib 1.8, стеганография словами и грабли первой альфы](https://habr.com/ru/articles/1095818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095818)
-- [Ваши секреты не должны уходить в облако: знакомьтесь, Obscura](https://habr.com/ru/articles/1095808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095808)
-- [Как устроена decision-модель Clef: разбор модели принятия решений](https://habr.com/ru/articles/1095708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095708)
+- [Ouroboros, очередной инструмент для вашего harness](https://habr.com/ru/articles/1095918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095918)
+- [Я потерял пароли всех пользователей, и это был не взлом. Как мой сайт пережил аварию Яндекс Облака](https://habr.com/ru/articles/1095766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095766)
+- [Среда исполнения JavaScript в браузере по стандарту HTML: агенты, event loop, task&#39;и и микрозадачи](https://habr.com/ru/articles/1095510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095510)
+- [Как я собрала контейнер своего опыта для своей системы знаний](https://habr.com/ru/articles/1095904/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095904)
+- [[recovery mode] Через сколько лет можно бросить работу: считаю FIRE с инфляцией и налогами](https://habr.com/ru/articles/1095870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095870)
 <!-- BLOG-POST-LIST:END -->
 
 ---
