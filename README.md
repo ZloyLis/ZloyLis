@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Сверка таблиц в PostgreSQL, или О том, нужны ли для этого специальные утилиты](https://habr.com/ru/companies/tantor/articles/1095702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095702)
+- [Shelter на Android: что видно изнутри отдельного профиля?](https://habr.com/ru/articles/1094998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094998)
+- [Превращаем Antminer в ИИ‑ускоритель: асинхронно‑пакетный оркестратор и троичная логика против NVIDIA](https://habr.com/ru/articles/1095768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095768)
+- [Твой GitHub никого не интересует. И резюме тоже](https://habr.com/ru/articles/1095762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095762)
 - [Как индексация строк изменила систему типов HydraScript](https://habr.com/ru/articles/1095744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095744)
-- [Как я подружил блок‑головоломку с Шопеном на WebAudio](https://habr.com/ru/articles/1095734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095734)
-- [L×Box: от VPN‑клиента до экосистемы управления сетевым трафиком](https://habr.com/ru/articles/1095724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095724)
-- [Русский язык в программировании. РУСИ++](https://habr.com/ru/articles/1069968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1069968)
-- [Эффект Бейба Рута: не частота попаданий, а сила удара](https://habr.com/ru/articles/1073520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073520)
 <!-- BLOG-POST-LIST:END -->
 
 ---
