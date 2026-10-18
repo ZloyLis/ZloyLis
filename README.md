@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL 19 перенесли на 19 ноября: какую роль в этом сыграло LLM-ревью](https://habr.com/ru/articles/1095950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095950)
-- [Гравицапа для GPU: OpenGL ES на Kotlin DSL на примере 3D-“Жизни” Конвея](https://habr.com/ru/articles/1095948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095948)
-- [[recovery mode] Биткорд мессенджер: как запустить собственный музыкальный HLS — сервис?](https://habr.com/ru/articles/1095866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095866)
-- [Ouroboros, очередной инструмент для вашего harness](https://habr.com/ru/articles/1095918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095918)
-- [Я потерял пароли всех пользователей, и это был не взлом. Как мой сайт пережил аварию Яндекс Облака](https://habr.com/ru/articles/1095766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095766)
+- [«Донащупывая» Data Lineage](https://habr.com/ru/articles/1095988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095988)
+- [Замена Lens, которую целиком написала модель: что получилось и где мы проигрываем](https://habr.com/ru/articles/1095984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095984)
+- [Гравицапа для GPU: OpenGL ES на Kotlin DSL на примере 3D‑«Жизни» Конвея](https://habr.com/ru/articles/1095948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095948)
+- [[recovery mode] Биткорд мессенджер: как запустить собственный музыкальный HLS — сервис?](https://habr.com/ru/articles/1095866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095866)
+- [Ouroboros, очередной инструмент для вашего harness](https://habr.com/ru/articles/1095918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095918)
 <!-- BLOG-POST-LIST:END -->
 
 ---
