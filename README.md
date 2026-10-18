@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Сверка таблиц в PostgreSQL, или О том, нужны ли для этого специальные утилиты](https://habr.com/ru/companies/tantor/articles/1095702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095702)
-- [Shelter на Android: что видно изнутри отдельного профиля?](https://habr.com/ru/articles/1094998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094998)
-- [Превращаем Antminer в ИИ‑ускоритель: асинхронно‑пакетный оркестратор и троичная логика против NVIDIA](https://habr.com/ru/articles/1095768/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095768)
-- [Твой GitHub никого не интересует. И резюме тоже](https://habr.com/ru/articles/1095762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095762)
-- [Как индексация строк изменила систему типов HydraScript](https://habr.com/ru/articles/1095744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095744)
+- [[Перевод] Висячий указатель в HTTP/2 довёл curl до RCE: разбор CVE-2026-92392 от Стенберга](https://habr.com/ru/articles/1095828/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095828)
+- [Bia — boot into agent](https://habr.com/ru/articles/1095820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095820)
+- [Анатомия клиента Telegram на Compose Multiplatform: матрешки TDLib 1.8, стеганография словами и грабли первой альфы](https://habr.com/ru/articles/1095818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095818)
+- [Ваши секреты не должны уходить в облако: знакомьтесь, Obscura](https://habr.com/ru/articles/1095808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095808)
+- [Как устроена decision-модель Clef: разбор модели принятия решений](https://habr.com/ru/articles/1095708/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095708)
 <!-- BLOG-POST-LIST:END -->
 
 ---
