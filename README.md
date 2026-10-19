@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Доверенные технологии ИИ versus Доверие к системам ИИ](https://habr.com/ru/articles/1096430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096430)
+- [Его мы делаем все вместе](https://habr.com/ru/companies/gigapisar/articles/1096452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096452)
+- [Нужно больше инстансов, Милорд](https://habr.com/ru/articles/1096238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096238)
+- [Доверенные технологии ИИ versus Доверие к системам ИИ](https://habr.com/ru/articles/1096430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096430)
 - [Локальный ассистент для зумов, часть 11: девять моделей проверяли мой код — кто остался и почему](https://habr.com/ru/articles/1096420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096420)
 - [Почему синтаксис Nova выглядит так: 11 споров с Claude о дизайне языка](https://habr.com/ru/articles/1096408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096408)
-- [Что пишут в CLAUDE.md и AGENTS.md: разбор 3 126 популярных репозиториев GitHub](https://habr.com/ru/articles/1096380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096380)
-- [Топ нейросетей для кода и генерации сайтов: тестируем на одном ТЗ](https://habr.com/ru/companies/bothub/articles/1096360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096360)
 <!-- BLOG-POST-LIST:END -->
 
 ---
