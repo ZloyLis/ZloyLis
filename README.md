@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [RAGу для программиста](https://habr.com/ru/companies/skbkontur/articles/1095364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095364)
-- [Задачи из Jira и GitHub, встречи и заметки в одном окне: полгода соло‑разработки на Qt 6 / C++20](https://habr.com/ru/articles/1096258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096258)
-- [[Перевод] Проверили 25 менеджеров пакетов на подмену кода взломанным репозиторием: целостность каждого пакета проверяют только два](https://habr.com/ru/articles/1096236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096236)
-- [CLI-харнесс. Управление через телеграмм. Claude, GPT и Qwen в одном терминальном агенте, собранном на pi](https://habr.com/ru/articles/1096234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096234)
-- [[Перевод] Как Netflix повысила эффективность ИИ-агентов для программирования с помощью JetBrains IDE](https://habr.com/ru/companies/spring_aio/articles/1096226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096226)
+- [Доверенные технологии ИИ versus Доверие к системам ИИ](https://habr.com/ru/articles/1096430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096430)
+- [Локальный ассистент для зумов, часть 11: девять моделей проверяли мой код — кто остался и почему](https://habr.com/ru/articles/1096420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096420)
+- [Почему синтаксис Nova выглядит так: 11 споров с Claude о дизайне языка](https://habr.com/ru/articles/1096408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096408)
+- [Что пишут в CLAUDE.md и AGENTS.md: разбор 3 126 популярных репозиториев GitHub](https://habr.com/ru/articles/1096380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096380)
+- [Топ нейросетей для кода и генерации сайтов: тестируем на одном ТЗ](https://habr.com/ru/companies/bothub/articles/1096360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096360)
 <!-- BLOG-POST-LIST:END -->
 
 ---
