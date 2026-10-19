@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Почему автобус никогда не приходит вовремя, или Теорема о том, что вам не повезло](https://habr.com/ru/articles/1093320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093320)
-- [[Перевод] Сегфолт в glibc, 345 тысяч утёкших сокетов и 474 тысячи соединений за полминуты: шесть багов в одной цепочке](https://habr.com/ru/articles/1096002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096002)
-- [Шифровать нельзя доверять: как защитить биометрию вен ладони на пути от сенсора до сервера СКУД](https://habr.com/ru/articles/1095998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095998)
-- [[Перевод] Трюгве Реенскауг «Первоначальные отчеты по MVC»](https://habr.com/ru/articles/1095976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095976)
-- [«Донащупывая» Data Lineage](https://habr.com/ru/articles/1095988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095988)
+- [RAGу для программиста](https://habr.com/ru/companies/skbkontur/articles/1095364/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095364)
+- [Задачи из Jira и GitHub, встречи и заметки в одном окне: полгода соло‑разработки на Qt 6 / C++20](https://habr.com/ru/articles/1096258/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096258)
+- [[Перевод] Проверили 25 менеджеров пакетов на подмену кода взломанным репозиторием: целостность каждого пакета проверяют только два](https://habr.com/ru/articles/1096236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096236)
+- [CLI-харнесс. Управление через телеграмм. Claude, GPT и Qwen в одном терминальном агенте, собранном на pi](https://habr.com/ru/articles/1096234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096234)
+- [[Перевод] Как Netflix повысила эффективность ИИ-агентов для программирования с помощью JetBrains IDE](https://habr.com/ru/companies/spring_aio/articles/1096226/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096226)
 <!-- BLOG-POST-LIST:END -->
 
 ---
