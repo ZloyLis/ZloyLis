@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему автобус никогда не приходит вовремя, или Теорема о том, что вам не повезло](https://habr.com/ru/articles/1093320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093320)
+- [[Перевод] Сегфолт в glibc, 345 тысяч утёкших сокетов и 474 тысячи соединений за полминуты: шесть багов в одной цепочке](https://habr.com/ru/articles/1096002/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096002)
+- [Шифровать нельзя доверять: как защитить биометрию вен ладони на пути от сенсора до сервера СКУД](https://habr.com/ru/articles/1095998/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095998)
+- [[Перевод] Трюгве Реенскауг «Первоначальные отчеты по MVC»](https://habr.com/ru/articles/1095976/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095976)
 - [«Донащупывая» Data Lineage](https://habr.com/ru/articles/1095988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095988)
-- [Замена Lens, которую целиком написала модель: что получилось и где мы проигрываем](https://habr.com/ru/articles/1095984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095984)
-- [Гравицапа для GPU: OpenGL ES на Kotlin DSL на примере 3D‑«Жизни» Конвея](https://habr.com/ru/articles/1095948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095948)
-- [[recovery mode] Биткорд мессенджер: как запустить собственный музыкальный HLS — сервис?](https://habr.com/ru/articles/1095866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095866)
-- [Ouroboros, очередной инструмент для вашего harness](https://habr.com/ru/articles/1095918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095918)
 <!-- BLOG-POST-LIST:END -->
 
 ---
