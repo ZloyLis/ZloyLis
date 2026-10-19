@@ -36,7 +36,7 @@ ___
 
 <!-- BLOG-POST-LIST:START -->
 - [«Донащупывая» Data Lineage](https://habr.com/ru/articles/1095988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095988)
-- [Замена Lens, которую целиком написала модель: что получилось и где мы проигрываем](https://habr.com/ru/articles/1095984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095984)
+- [Замена Lens, которую целиком написала модель: что получилось и где мы проигрываем](https://habr.com/ru/articles/1095984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095984)
 - [Гравицапа для GPU: OpenGL ES на Kotlin DSL на примере 3D‑«Жизни» Конвея](https://habr.com/ru/articles/1095948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095948)
 - [[recovery mode] Биткорд мессенджер: как запустить собственный музыкальный HLS — сервис?](https://habr.com/ru/articles/1095866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095866)
 - [Ouroboros, очередной инструмент для вашего harness](https://habr.com/ru/articles/1095918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095918)
