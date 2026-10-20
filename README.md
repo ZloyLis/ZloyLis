@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Внутри Telegram Serverless: код, БД и Mini App из коробки](https://habr.com/ru/articles/1096488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096488)
-- [Его мы делаем все вместе](https://habr.com/ru/companies/gigapisar/articles/1096452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096452)
-- [Нужно больше инстансов, Милорд](https://habr.com/ru/articles/1096238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096238)
-- [Доверенные технологии ИИ versus Доверие к системам ИИ](https://habr.com/ru/articles/1096430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096430)
-- [Локальный ассистент для зумов, часть 11: девять моделей проверяли мой код — кто остался и почему](https://habr.com/ru/articles/1096420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096420)
+- [Scrutor: логирование отменённых HTTP-запросов](https://habr.com/ru/articles/1096632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096632)
+- [[recovery mode] Айтишник уходит из найма: навайбкодил продукт, а клиентов все равно нет](https://habr.com/ru/articles/1096630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096630)
+- [Как внедрить ИИ в бизнес: 5 уровней ИИтизации процессов и AI-Native-подход](https://habr.com/ru/articles/1096486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096486)
+- [Один час в мире без AI-агентов: от токенов до MCP](https://habr.com/ru/companies/ozontech/articles/1094882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094882)
+- [Почему теоремы Гёделя вовсе не доказывают, что физика ошибается?](https://habr.com/ru/articles/1096624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096624)
 <!-- BLOG-POST-LIST:END -->
 
 ---
