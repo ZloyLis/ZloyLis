@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Юридические документы на сайте: что и как размещаем?](https://habr.com/ru/articles/1096968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096968)
+- [Пять граней диагностики Data Lakehouse: концепция единого рабочего места](https://habr.com/ru/articles/1097000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097000)
+- [Почему ИИ плохо писал на COBOL и что изменилось: разбираем новый бенчмарк OpenAI](https://habr.com/ru/articles/1096978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096978)
+- [[Перевод] Почему доказательство квазигипотезы Римана от OpenAI удивило самих математиков](https://habr.com/ru/articles/1096970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096970)
+- [Юридические документы на сайте: что и как размещаем?](https://habr.com/ru/articles/1096968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096968)
 - [Я устал читать простыни текста от ИИ‑агентов. Поэтому заставил их рисовать](https://habr.com/ru/articles/1096958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096958)
-- [[Перевод] Что нового в бета‑версии Vapor 5](https://habr.com/ru/articles/1096956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096956)
-- [Как мы заставили Redis кэшировать POST‑запросы к OpenAI/DeepSeek и выжали 4 900 RPS на Java 21](https://habr.com/ru/articles/1096954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096954)
-- [[Перевод] Бета — версия Vapor 5](https://habr.com/ru/articles/1096952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096952)
 <!-- BLOG-POST-LIST:END -->
 
 ---
