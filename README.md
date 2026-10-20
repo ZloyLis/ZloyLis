@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Scrutor: логирование отменённых HTTP-запросов](https://habr.com/ru/articles/1096632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096632)
-- [[recovery mode] Айтишник уходит из найма: навайбкодил продукт, а клиентов все равно нет](https://habr.com/ru/articles/1096630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096630)
-- [Как внедрить ИИ в бизнес: 5 уровней ИИтизации процессов и AI-Native-подход](https://habr.com/ru/articles/1096486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096486)
-- [Один час в мире без AI-агентов: от токенов до MCP](https://habr.com/ru/companies/ozontech/articles/1094882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094882)
-- [Почему теоремы Гёделя вовсе не доказывают, что физика ошибается?](https://habr.com/ru/articles/1096624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096624)
+- [[Перевод] Переход с Java 21 на Java 25: что действительно перестаёт работать](https://habr.com/ru/companies/spring_aio/articles/1096850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096850)
+- [Как я с командой строил внутреннюю платформу конкурентной аналитики](https://habr.com/ru/companies/garage8/articles/1096816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096816)
+- [Security Week 2643: цепочка уязвимостей в медиасервере Plex](https://habr.com/ru/companies/kaspersky/articles/1096230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096230)
+- [[recovery mode] ИИ не шутит?](https://habr.com/ru/articles/1096808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096808)
+- [Мониторинг WordPress-сайтов на бесплатном Cloudflare Workers: 8 подводных камней](https://habr.com/ru/articles/1096804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096804)
 <!-- BLOG-POST-LIST:END -->
 
 ---
