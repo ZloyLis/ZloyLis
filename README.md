@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Переход с Java 21 на Java 25: что действительно перестаёт работать](https://habr.com/ru/companies/spring_aio/articles/1096850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096850)
-- [Как я с командой строил внутреннюю платформу конкурентной аналитики](https://habr.com/ru/companies/garage8/articles/1096816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096816)
-- [Security Week 2643: цепочка уязвимостей в медиасервере Plex](https://habr.com/ru/companies/kaspersky/articles/1096230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096230)
-- [[recovery mode] ИИ не шутит?](https://habr.com/ru/articles/1096808/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096808)
-- [Мониторинг WordPress-сайтов на бесплатном Cloudflare Workers: 8 подводных камней](https://habr.com/ru/articles/1096804/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096804)
+- [Юридические документы на сайте: что и как размещаем?](https://habr.com/ru/articles/1096968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096968)
+- [Я устал читать простыни текста от ИИ‑агентов. Поэтому заставил их рисовать](https://habr.com/ru/articles/1096958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096958)
+- [[Перевод] Что нового в бета‑версии Vapor 5](https://habr.com/ru/articles/1096956/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096956)
+- [Как мы заставили Redis кэшировать POST‑запросы к OpenAI/DeepSeek и выжали 4 900 RPS на Java 21](https://habr.com/ru/articles/1096954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096954)
+- [[Перевод] Бета — версия Vapor 5](https://habr.com/ru/articles/1096952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096952)
 <!-- BLOG-POST-LIST:END -->
 
 ---
