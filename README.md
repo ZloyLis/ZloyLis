@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Рецензия на книгу «Практическое руководство для архитекторов решений»](https://habr.com/ru/companies/ssp-soft/articles/1093526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093526)
-- [Обзор нововведений в C# 15](https://habr.com/ru/companies/pvs-studio/articles/1097064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097064)
-- [136,3 млн опыта = 0 баллов: как Xmin меняет оценку в IT-тендере](https://habr.com/ru/articles/1096862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096862)
-- [Шлюз увидел «user», сервис увидел «admin», а JSON был один и тот же](https://habr.com/ru/companies/otus/articles/1092516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092516)
-- [Мой PostgreSQL быстрее твоего и почти догнал ClickHouse](https://habr.com/ru/articles/1097022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097022)
+- [ИИ может прыгать](https://habr.com/ru/articles/1097352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097352)
+- [[Перевод] Мы скормили Claude три года комментариев к PR. Теперь он ревьюит код как наша команда](https://habr.com/ru/companies/otus/articles/1096720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096720)
+- [Что за новая профессия такая — ИИ-репетитор?](https://habr.com/ru/companies/ruvds/articles/1097194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097194)
+- [UIKit говорит, что интерфейс уже RTL. Почему тогда половина экрана осталась LTR?](https://habr.com/ru/articles/1097336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097336)
+- [Архитектура пространственного аудита недвижимости: как подружить FastAPI, НСПД, OSM и не словить 403 на госсайтах](https://habr.com/ru/articles/1097324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097324)
 <!-- BLOG-POST-LIST:END -->
 
 ---
