@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как я заставил ESP8266 рисовать 3D, стрелять и летать: полный технический разбор кода](https://habr.com/ru/articles/1097380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097380)
-- [Профессия программиста выживет. Почему это не гарантирует вам работу](https://habr.com/ru/articles/1097460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097460)
-- [Вылечил лагающий телевизор Xiaomi за 10 минут: реклама, слежка и YouTube — без root и с откатом](https://habr.com/ru/articles/1097472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097472)
-- [Техжурнал 1С включён круглосуточно: что почти ничего не стоит, а что кладёт сервер](https://habr.com/ru/articles/1097436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097436)
-- [Где заканчивается самостоятельность ИИ-агента? Я дала ему банковскую карту, телефон, браузер и 200+ MCP: итоги теста](https://habr.com/ru/articles/1097430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097430)
+- [Почему число это плохой адрес для инструкции?](https://habr.com/ru/articles/1097574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097574)
+- [Headless‑браузер без браузера: 5 408 байт](https://habr.com/ru/articles/1097568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097568)
+- [[Перевод] Что нового в Swift: сентябрь 2 026](https://habr.com/ru/articles/1097554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097554)
+- [Телефон сказал «Нет связи». Сервер в это время читал этикетку](https://habr.com/ru/articles/1097538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097538)
+- [Первый запрос проходит, второй падает: почему TestClient ломает тесты FastAPI и как это исправить](https://habr.com/ru/companies/otus/articles/1095736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095736)
 <!-- BLOG-POST-LIST:END -->
 
 ---
