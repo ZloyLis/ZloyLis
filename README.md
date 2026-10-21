@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [ИИ может прыгать](https://habr.com/ru/articles/1097352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097352)
-- [[Перевод] Мы скормили Claude три года комментариев к PR. Теперь он ревьюит код как наша команда](https://habr.com/ru/companies/otus/articles/1096720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096720)
-- [Что за новая профессия такая — ИИ-репетитор?](https://habr.com/ru/companies/ruvds/articles/1097194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097194)
-- [UIKit говорит, что интерфейс уже RTL. Почему тогда половина экрана осталась LTR?](https://habr.com/ru/articles/1097336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097336)
-- [Архитектура пространственного аудита недвижимости: как подружить FastAPI, НСПД, OSM и не словить 403 на госсайтах](https://habr.com/ru/articles/1097324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097324)
+- [Как я заставил ESP8266 рисовать 3D, стрелять и летать: полный технический разбор кода](https://habr.com/ru/articles/1097380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097380)
+- [Профессия программиста выживет. Почему это не гарантирует вам работу](https://habr.com/ru/articles/1097460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097460)
+- [Вылечил лагающий телевизор Xiaomi за 10 минут: реклама, слежка и YouTube — без root и с откатом](https://habr.com/ru/articles/1097472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097472)
+- [Техжурнал 1С включён круглосуточно: что почти ничего не стоит, а что кладёт сервер](https://habr.com/ru/articles/1097436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097436)
+- [Где заканчивается самостоятельность ИИ-агента? Я дала ему банковскую карту, телефон, браузер и 200+ MCP: итоги теста](https://habr.com/ru/articles/1097430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097430)
 <!-- BLOG-POST-LIST:END -->
 
 ---
