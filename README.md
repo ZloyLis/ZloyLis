@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Два роадмапа за двое суток: что нового в Sextant 0.12–0.19](https://habr.com/ru/articles/1097014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097014)
+- [Поселил ИИ‑агента в чёлку макбука: он слушает мой день и раздаёт задачи сессиям Claude Code](https://habr.com/ru/articles/1097006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097006)
+- [Научил ChatGPT сохранять иностранные слова прямо в мой телефон](https://habr.com/ru/articles/1097004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097004)
 - [Пять граней диагностики Data Lakehouse: концепция единого рабочего места](https://habr.com/ru/articles/1097000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097000)
 - [Почему ИИ плохо писал на COBOL и что изменилось: разбираем новый бенчмарк OpenAI](https://habr.com/ru/articles/1096978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096978)
-- [[Перевод] Почему доказательство квазигипотезы Римана от OpenAI удивило самих математиков](https://habr.com/ru/articles/1096970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096970)
-- [Юридические документы на сайте: что и как размещаем?](https://habr.com/ru/articles/1096968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096968)
-- [Я устал читать простыни текста от ИИ‑агентов. Поэтому заставил их рисовать](https://habr.com/ru/articles/1096958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096958)
 <!-- BLOG-POST-LIST:END -->
 
 ---
