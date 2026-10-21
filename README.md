@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Два роадмапа за двое суток: что нового в Sextant 0.12–0.19](https://habr.com/ru/articles/1097014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097014)
-- [Поселил ИИ‑агента в чёлку макбука: он слушает мой день и раздаёт задачи сессиям Claude Code](https://habr.com/ru/articles/1097006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097006)
-- [Научил ChatGPT сохранять иностранные слова прямо в мой телефон](https://habr.com/ru/articles/1097004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097004)
-- [Пять граней диагностики Data Lakehouse: концепция единого рабочего места](https://habr.com/ru/articles/1097000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097000)
-- [Почему ИИ плохо писал на COBOL и что изменилось: разбираем новый бенчмарк OpenAI](https://habr.com/ru/articles/1096978/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096978)
+- [Рецензия на книгу «Практическое руководство для архитекторов решений»](https://habr.com/ru/companies/ssp-soft/articles/1093526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1093526)
+- [Обзор нововведений в C# 15](https://habr.com/ru/companies/pvs-studio/articles/1097064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097064)
+- [136,3 млн опыта = 0 баллов: как Xmin меняет оценку в IT-тендере](https://habr.com/ru/articles/1096862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096862)
+- [Шлюз увидел «user», сервис увидел «admin», а JSON был один и тот же](https://habr.com/ru/companies/otus/articles/1092516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092516)
+- [Мой PostgreSQL быстрее твоего и почти догнал ClickHouse](https://habr.com/ru/articles/1097022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
