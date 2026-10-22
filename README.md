@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Нейросеть пишет спецификацию интеграции и молча решает за аналитика](https://habr.com/ru/companies/otus/articles/1088892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088892)
-- [Чудеса nightly, часть 3: std уже пишет на Rust, которого у вас нет](https://habr.com/ru/companies/beget/articles/1088598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088598)
-- [Как я простенький keygen писал](https://habr.com/ru/articles/1097676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097676)
-- [RFM на 52 донорах: стоила ли игра свеч?](https://habr.com/ru/companies/lansoft_career/articles/1097368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097368)
-- [От чата до агентов: 6 курсов по ИИ от Google, Anthropic и OpenAI](https://habr.com/ru/companies/svoi_ru/articles/1096464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096464)
+- [[Перевод] Как 4 байта выравнивания ускоряют очистку массива на 49%](https://habr.com/ru/articles/1052032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052032)
+- [[Перевод] Ловушка обучения: исследование с участием 26 000 учащихся выявило проблему при использовании ИИ](https://habr.com/ru/articles/1097906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097906)
+- [[Перевод] Прагматичная преждевременная оптимизация](https://habr.com/ru/companies/spring_aio/articles/1097566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097566)
+- [Интеллектуальная собственность в мобильном приложении](https://habr.com/ru/articles/1097916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097916)
+- [crm.item.list заблокирован, а портал работает: откуда в Битрикс24 берётся 429 OPERATION_TIME_LIMIT](https://habr.com/ru/companies/otus/articles/1096470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096470)
 <!-- BLOG-POST-LIST:END -->
 
 ---
