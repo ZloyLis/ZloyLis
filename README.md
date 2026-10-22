@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Как 4 байта выравнивания ускоряют очистку массива на 49%](https://habr.com/ru/articles/1052032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1052032)
-- [[Перевод] Ловушка обучения: исследование с участием 26 000 учащихся выявило проблему при использовании ИИ](https://habr.com/ru/articles/1097906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097906)
-- [[Перевод] Прагматичная преждевременная оптимизация](https://habr.com/ru/companies/spring_aio/articles/1097566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097566)
-- [Интеллектуальная собственность в мобильном приложении](https://habr.com/ru/articles/1097916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097916)
-- [crm.item.list заблокирован, а портал работает: откуда в Битрикс24 берётся 429 OPERATION_TIME_LIMIT](https://habr.com/ru/companies/otus/articles/1096470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096470)
+- [ARFA Generator — ядро автоматизации процессов frontend-разработки, или пропущенный этап развития тулинга](https://habr.com/ru/articles/1095018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095018)
+- [Удобный SSH клиент на Rust и собственном UI-движке EvertyUI](https://habr.com/ru/articles/1098070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098070)
+- [Blackview Wave 10: честный обзор на годный смартфон за 10к с 120гц экраном, 8/256ГБ памяти и Android 16](https://habr.com/ru/articles/1097608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097608)
+- [Подключаем ONNX-модель скоринга email-адресов к HTTP API на TypeScript](https://habr.com/ru/articles/1098050/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098050)
+- [Как я заставил ИИ-агентов собирать себе harness под конкретную задачу](https://habr.com/ru/articles/1098004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098004)
 <!-- BLOG-POST-LIST:END -->
 
 ---
