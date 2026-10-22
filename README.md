@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Записки о годе Линукса на десктопе](https://habr.com/ru/articles/1097620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097620)
-- [Почему число это плохой адрес для инструкции?](https://habr.com/ru/articles/1097574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097574)
-- [Headless‑браузер без браузера: 5 408 байт](https://habr.com/ru/articles/1097568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097568)
-- [[Перевод] Что нового в Swift: сентябрь 2 026](https://habr.com/ru/articles/1097554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097554)
-- [Телефон сказал «Нет связи». Сервер в это время читал этикетку](https://habr.com/ru/articles/1097538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097538)
+- [Нейросеть пишет спецификацию интеграции и молча решает за аналитика](https://habr.com/ru/companies/otus/articles/1088892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088892)
+- [Чудеса nightly, часть 3: std уже пишет на Rust, которого у вас нет](https://habr.com/ru/companies/beget/articles/1088598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088598)
+- [Как я простенький keygen писал](https://habr.com/ru/articles/1097676/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097676)
+- [RFM на 52 донорах: стоила ли игра свеч?](https://habr.com/ru/companies/lansoft_career/articles/1097368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097368)
+- [От чата до агентов: 6 курсов по ИИ от Google, Anthropic и OpenAI](https://habr.com/ru/companies/svoi_ru/articles/1096464/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096464)
 <!-- BLOG-POST-LIST:END -->
 
 ---
