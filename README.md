@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Записки о годе Линукса на десктопе](https://habr.com/ru/articles/1097620/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097620)
 - [Почему число это плохой адрес для инструкции?](https://habr.com/ru/articles/1097574/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097574)
 - [Headless‑браузер без браузера: 5 408 байт](https://habr.com/ru/articles/1097568/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097568)
 - [[Перевод] Что нового в Swift: сентябрь 2 026](https://habr.com/ru/articles/1097554/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097554)
 - [Телефон сказал «Нет связи». Сервер в это время читал этикетку](https://habr.com/ru/articles/1097538/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097538)
-- [Первый запрос проходит, второй падает: почему TestClient ломает тесты FastAPI и как это исправить](https://habr.com/ru/companies/otus/articles/1095736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095736)
 <!-- BLOG-POST-LIST:END -->
 
 ---
