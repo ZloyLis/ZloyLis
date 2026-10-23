@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как подружить React с 100 000 live-обновлений: WebSocket, Web Workers и кастомный стор](https://habr.com/ru/articles/1098484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098484)
-- [Написал переключатель раскладки для macOS — работает в терминале и не трогает пароль sudo](https://habr.com/ru/articles/1098482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098482)
-- [Сайт запущен. Как следить за сбоями и изменениями без ежедневного обхода](https://habr.com/ru/articles/1098428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098428)
-- [Публикуем .NET MAUI‑приложение в RuStore: от унаследованного Xamarin‑проекта до первого релиза](https://habr.com/ru/articles/1098426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098426)
-- [100 байт из 10 MiB: как PostgreSQL 18 читает TOAST с EXTERNAL, PGLZ и LZ4](https://habr.com/ru/companies/ppr/articles/1098418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098418)
+- [Как я провёл второе соревнование по программированию на Эльбрусах &lpar;e2k&rpar; «Кубок СЭРПАС 2026»](https://habr.com/ru/articles/1098736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098736)
+- [i2pd 3.0: Первый мажорный релиз за 11 лет](https://habr.com/ru/articles/1098476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098476)
+- [Что будет, если в графический редактор добавить физику?](https://habr.com/ru/articles/1098710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098710)
+- [Можно ли доверить ИИ миграцию Spring Boot 2.7 → 3.5?](https://habr.com/ru/companies/koda/articles/1098702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098702)
+- [Большая миграция АБС: c MS SQL и Windows к PostgreSQL и Linux](https://habr.com/ru/companies/yoomoney/articles/1098692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098692)
 <!-- BLOG-POST-LIST:END -->
 
 ---
