@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ошибки нейросетей – не повод для шуток, а список правил, которые мы не записали](https://habr.com/ru/companies/diasoft_company/articles/1097972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097972)
-- [Structurizr Cloud закрылся 30 сентября. Что осталось и куда переносить C4-модели](https://habr.com/ru/articles/1098118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098118)
-- [Depth Spectrum: Tool Operation &amp;lt;-&amp;gt; Whitebox Engineering](https://habr.com/ru/articles/1095990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095990)
-- [Комплексное триединство Эйлера: о чём молчат современные учебники по высшей математике](https://habr.com/ru/articles/1097560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097560)
-- [Почему я собираю лидов в Airtable](https://habr.com/ru/articles/1098102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098102)
+- [Как подружить React с 100 000 live-обновлений: WebSocket, Web Workers и кастомный стор](https://habr.com/ru/articles/1098484/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098484)
+- [Написал переключатель раскладки для macOS — работает в терминале и не трогает пароль sudo](https://habr.com/ru/articles/1098482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098482)
+- [Сайт запущен. Как следить за сбоями и изменениями без ежедневного обхода](https://habr.com/ru/articles/1098428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098428)
+- [Публикуем .NET MAUI‑приложение в RuStore: от унаследованного Xamarin‑проекта до первого релиза](https://habr.com/ru/articles/1098426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098426)
+- [100 байт из 10 MiB: как PostgreSQL 18 читает TOAST с EXTERNAL, PGLZ и LZ4](https://habr.com/ru/companies/ppr/articles/1098418/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098418)
 <!-- BLOG-POST-LIST:END -->
 
 ---
