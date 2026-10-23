@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Depth Spectrum: Tool Operation &amp;lt;-&amp;gt; Whitebox Engineering](https://habr.com/ru/articles/1095990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095990)
 - [Комплексное триединство Эйлера: о чём молчат современные учебники по высшей математике](https://habr.com/ru/articles/1097560/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097560)
 - [Почему я собираю лидов в Airtable](https://habr.com/ru/articles/1098102/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098102)
 - [ARFA Generator — ядро автоматизации процессов frontend‑разработки, или пропущенный этап развития тулинга](https://habr.com/ru/articles/1095018/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095018)
 - [Удобный SSH клиент на Rust и собственном UI‑движке EvertyUI](https://habr.com/ru/articles/1098070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098070)
-- [Blackview Wave 10: честный обзор на годный смартфон за 10к с 120гц экраном, 8/256ГБ памяти и Android 16](https://habr.com/ru/articles/1097608/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097608)
 <!-- BLOG-POST-LIST:END -->
 
 ---
