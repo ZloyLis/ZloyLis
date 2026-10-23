@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как я провёл второе соревнование по программированию на Эльбрусах &lpar;e2k&rpar; «Кубок СЭРПАС 2026»](https://habr.com/ru/articles/1098736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098736)
+- [Почему BigDecimal считает 1.0 и 1.00 разными числами — и к чему это приводит в Java](https://habr.com/ru/companies/otus/articles/1096482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096482)
+- [Как я провёл второе соревнование по программированию на Эльбрусах &lpar;e2k&rpar; «Кубок СЭРПАС 2026»](https://habr.com/ru/articles/1098736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098736)
 - [i2pd 3.0: Первый мажорный релиз за 11 лет](https://habr.com/ru/articles/1098476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098476)
 - [Что будет, если в графический редактор добавить физику?](https://habr.com/ru/articles/1098710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098710)
-- [Можно ли доверить ИИ миграцию Spring Boot 2.7 → 3.5?](https://habr.com/ru/companies/koda/articles/1098702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098702)
-- [Большая миграция АБС: c MS SQL и Windows к PostgreSQL и Linux](https://habr.com/ru/companies/yoomoney/articles/1098692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098692)
+- [Можно ли доверить ИИ миграцию Spring Boot 2 → 3?](https://habr.com/ru/companies/koda/articles/1098702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098702)
 <!-- BLOG-POST-LIST:END -->
 
 ---
