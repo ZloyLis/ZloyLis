@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Atlas: а что, если все законы природы можно исследовать в едином многомерном пространстве?](https://habr.com/ru/articles/1098938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098938)
+- [Найти похожие заметки в Obsidian оказалось проще, чем безопасно их изменить](https://habr.com/ru/articles/1098922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098922)
+- [Как мы взломали HHH-цензуру корпоративных нейросетей через ЛитРПГ и заставили ИИ лечить души](https://habr.com/ru/articles/1098936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098936)
+- [Экстренный рефакторинг 32 проектов с mysql_* на PHP 8.5 без единой строчки правок в бизнес-логике](https://habr.com/ru/articles/1098930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098930)
 - [Glafira for Apache Kafka: открытый desktop-клиент на Rust, который даёт LLM читать кластер, но не трогать его](https://habr.com/ru/articles/1098910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098910)
-- [Turbo Vision спустя 36 лет: нормальный интерфейс для journald](https://habr.com/ru/articles/1098894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098894)
-- [Дебаггинг детского мышления: как обойти когнитивные тупики на уроках математики](https://habr.com/ru/articles/1098890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098890)
-- [Я считал SKILL-ы бесполезной тратой токенов, пока не написал свой](https://habr.com/ru/articles/1098866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098866)
-- [Котята Шрёдингера: как я разводил квантовых котов на процессорах IBM](https://habr.com/ru/articles/1098858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098858)
 <!-- BLOG-POST-LIST:END -->
 
 ---
