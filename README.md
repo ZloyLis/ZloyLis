@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Управление памятью в контейнерах STL. От абстракций к реализации](https://habr.com/ru/articles/1091290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091290)
-- [Почему BigDecimal считает 1.0 и 1.00 разными числами — и к чему это приводит в Java](https://habr.com/ru/companies/otus/articles/1096482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1096482)
-- [Как я провёл второе соревнование по программированию на Эльбрусах &lpar;e2k&rpar; «Кубок СЭРПАС 2026»](https://habr.com/ru/articles/1098736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098736)
-- [i2pd 3.0: Первый мажорный релиз за 11 лет](https://habr.com/ru/articles/1098476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098476)
-- [Можно ли доверить ИИ миграцию Spring Boot 2 → 3?](https://habr.com/ru/companies/koda/articles/1098702/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098702)
+- [Я считал SKILL-ы бесполезной тратой токенов, пока не написал свой](https://habr.com/ru/articles/1098866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098866)
+- [Котята Шрёдингера: как я разводил квантовых котов на процессорах IBM](https://habr.com/ru/articles/1098858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098858)
+- [«Хроники сражений»: как мы сохраняем каждый бой браузерной MMO в PostgreSQL и Cloudflare R2](https://habr.com/ru/articles/1098852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098852)
+- [[Перевод] При работе с Delta Lake оптимизируем через кластеризацию, а не через сегментирование](https://habr.com/ru/articles/1098390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098390)
+- [Экономим токены Claude Code с помощью принципов Event Loop](https://habr.com/ru/articles/1098168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098168)
 <!-- BLOG-POST-LIST:END -->
 
 ---
