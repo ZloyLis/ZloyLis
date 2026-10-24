@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Atlas: а что, если все законы природы можно исследовать в едином многомерном пространстве?](https://habr.com/ru/articles/1098938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098938)
+- [Безопасность Apple Mobile Devices. Часть III. Что происходит после нажатия Power](https://habr.com/ru/articles/1098952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098952)
+- [vue‑why‑render 0.8: граф реактивности, WASM‑ядро и VS Code расширение](https://habr.com/ru/articles/1098942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098942)
+- [Криптохеш: почему нельзя обратить функцию, если все операции обратимы](https://habr.com/ru/articles/1098918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098918)
+- [Мы — та самая точка в.com](https://habr.com/ru/articles/1071422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071422)
 - [Найти похожие заметки в Obsidian оказалось проще, чем безопасно их изменить](https://habr.com/ru/articles/1098922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098922)
-- [Как мы взломали HHH-цензуру корпоративных нейросетей через ЛитРПГ и заставили ИИ лечить души](https://habr.com/ru/articles/1098936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098936)
-- [Экстренный рефакторинг 32 проектов с mysql_* на PHP 8.5 без единой строчки правок в бизнес-логике](https://habr.com/ru/articles/1098930/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098930)
-- [Glafira for Apache Kafka: открытый desktop-клиент на Rust, который даёт LLM читать кластер, но не трогать его](https://habr.com/ru/articles/1098910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098910)
 <!-- BLOG-POST-LIST:END -->
 
 ---
