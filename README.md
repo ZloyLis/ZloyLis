@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Glafira for Apache Kafka: открытый desktop-клиент на Rust, который даёт LLM читать кластер, но не трогать его](https://habr.com/ru/articles/1098910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098910)
+- [Turbo Vision спустя 36 лет: нормальный интерфейс для journald](https://habr.com/ru/articles/1098894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098894)
+- [Дебаггинг детского мышления: как обойти когнитивные тупики на уроках математики](https://habr.com/ru/articles/1098890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098890)
 - [Я считал SKILL-ы бесполезной тратой токенов, пока не написал свой](https://habr.com/ru/articles/1098866/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098866)
 - [Котята Шрёдингера: как я разводил квантовых котов на процессорах IBM](https://habr.com/ru/articles/1098858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098858)
-- [«Хроники сражений»: как мы сохраняем каждый бой браузерной MMO в PostgreSQL и Cloudflare R2](https://habr.com/ru/articles/1098852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098852)
-- [[Перевод] При работе с Delta Lake оптимизируем через кластеризацию, а не через сегментирование](https://habr.com/ru/articles/1098390/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098390)
-- [Экономим токены Claude Code с помощью принципов Event Loop](https://habr.com/ru/articles/1098168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098168)
 <!-- BLOG-POST-LIST:END -->
 
 ---
