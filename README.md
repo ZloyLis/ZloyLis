@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Фильтр Калмана в цикле правок ИИ: что он меняет и как это проверить](https://habr.com/ru/articles/1098756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098756)
-- [Мой дом ‑ мои правила. А кто дежурит, когда он ломается?](https://habr.com/ru/articles/1099028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099028)
-- [[Перевод] ИИ доказал квазигипотезу Римана. Что дальше?](https://habr.com/ru/articles/1098970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098970)
-- [Morse AI](https://habr.com/ru/articles/1099020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099020)
-- [Мобильная разработка за неделю #650 &lpar;19 — 25 октября&rpar;](https://habr.com/ru/articles/1099012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099012)
+- [Кости из металла, фасад святости и истинный схизис: докажи моей игре, что ты &lpar;не&rpar; гений социальной инженерии](https://habr.com/ru/articles/1099138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099138)
+- [librats: Выпуск версии 3.0.x &lpar;библиотека для распределённых P2P-приложений и стриминга&rpar;. И 3 приложения на ней](https://habr.com/ru/articles/1099136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099136)
+- [О роли глупости в науке](https://habr.com/ru/articles/1099134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099134)
+- [Почему геймификация убьет разум в ИИ: скрытые риски коммерческого сбора данных и тупик Alignment](https://habr.com/ru/articles/1099128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099128)
+- [Дело о двадцати непрошеных Кодексах](https://habr.com/ru/articles/1099114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099114)
 <!-- BLOG-POST-LIST:END -->
 
 ---
