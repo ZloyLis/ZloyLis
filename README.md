@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [UI-паттерн — делаем меню компактным](https://habr.com/ru/articles/1098984/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098984)
-- [Безопасность Apple Mobile Devices. Часть III. Что происходит после нажатия Power](https://habr.com/ru/articles/1098952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098952)
-- [vue‑why‑render 0.8: граф реактивности, WASM‑ядро и VS Code расширение](https://habr.com/ru/articles/1098942/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098942)
-- [Криптохеш: почему нельзя обратить функцию, если все операции обратимы](https://habr.com/ru/articles/1098918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098918)
-- [Найти похожие заметки в Obsidian оказалось проще, чем безопасно их изменить](https://habr.com/ru/articles/1098922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098922)
+- [Фильтр Калмана в цикле правок ИИ: что он меняет и как это проверить](https://habr.com/ru/articles/1098756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098756)
+- [Мой дом ‑ мои правила. А кто дежурит, когда он ломается?](https://habr.com/ru/articles/1099028/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099028)
+- [[Перевод] ИИ доказал квазигипотезу Римана. Что дальше?](https://habr.com/ru/articles/1098970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098970)
+- [Morse AI](https://habr.com/ru/articles/1099020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099020)
+- [Мобильная разработка за неделю #650 &lpar;19 — 25 октября&rpar;](https://habr.com/ru/articles/1099012/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099012)
 <!-- BLOG-POST-LIST:END -->
 
 ---
