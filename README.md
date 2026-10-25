@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Кости из металла, фасад святости и истинный схизис: докажи моей игре, что ты &lpar;не&rpar; гений социальной инженерии](https://habr.com/ru/articles/1099138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099138)
-- [librats: Выпуск версии 3.0.x &lpar;библиотека для распределённых P2P-приложений и стриминга&rpar;. И 3 приложения на ней](https://habr.com/ru/articles/1099136/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099136)
-- [О роли глупости в науке](https://habr.com/ru/articles/1099134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099134)
-- [Почему геймификация убьет разум в ИИ: скрытые риски коммерческого сбора данных и тупик Alignment](https://habr.com/ru/articles/1099128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099128)
-- [Дело о двадцати непрошеных Кодексах](https://habr.com/ru/articles/1099114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099114)
+- [Гибридная постквантовая печать сообщений: X25519 + ML-KEM-1024 и тесты, которые запускает каждый](https://habr.com/ru/articles/1099180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099180)
+- [pyrusmorph: в 30 раз быстрее. Интеграция ядра libmorph/rus в Python](https://habr.com/ru/articles/1098068/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098068)
+- [Cross-Cleaner: стриминг JSON частями вместо загрузки всей базы очистки в память](https://habr.com/ru/articles/1099174/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099174)
+- [Я боюсь работать без ИИ](https://habr.com/ru/articles/1099172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099172)
+- [Осталось только всё улучшить: почему с ИИ так трудно закончить работу](https://habr.com/ru/articles/1099146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099146)
 <!-- BLOG-POST-LIST:END -->
 
 ---
