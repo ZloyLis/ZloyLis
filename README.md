@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Утечки WebRTC и почему его отключение — плохая идея: разбираем механику деанона и нативную подмену](https://habr.com/ru/companies/aurorium/articles/1099302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099302)
-- [[recovery mode] Новый интерфейс для ВК Видео](https://habr.com/ru/articles/1099276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099276)
-- [Тыквенный король: хэллоуинский босс для браузерной драки — от календаря до 2000 игроков на улице](https://habr.com/ru/articles/1099272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099272)
-- [Детский футбол без чатов: что болит у тренеров и родителей и как мы закрываем это кодом](https://habr.com/ru/articles/1099268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099268)
-- [Как один UI‑баг заставил меня разбираться с графом зависимостей целого приложения](https://habr.com/ru/articles/1099266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099266)
+- [Загрузка образов в Kubernetes без паролей с Artifact Keeper](https://habr.com/ru/companies/beeline_tech/articles/1099316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099316)
+- [Smart Forms Pro: 10 преимуществ нового инструмента для подготовки отчетности](https://habr.com/ru/companies/visiology/articles/1098698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098698)
+- [Иерархия контекстов в Spring. High CVE в Axelix](https://habr.com/ru/companies/spring_aio/articles/1099408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099408)
+- [Память в GoOS, часть 2. Нативные потоки, горутины и GC на SMP](https://habr.com/ru/articles/1099166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099166)
+- [Требования к паролям в 2026 году: что изменилось и как теперь защищать свои аккаунты](https://habr.com/ru/companies/abp2b/articles/1099394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099394)
 <!-- BLOG-POST-LIST:END -->
 
 ---
