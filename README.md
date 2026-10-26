@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Сказ от Anthropic о том, как рой ИИ-агентов может превратиться в сборище бюрократов](https://habr.com/ru/articles/1099290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099290)
-- [Купили родителям ТВ‑приставку за копейки, а в прошивке нашли предустановленный вредонос: разбор H96 Max V11](https://habr.com/ru/articles/1099692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099692)
-- [Скрипты на JVM без лишнего оверхеда: Jumper против LuaJ, Groovy, Jython и других](https://habr.com/ru/articles/1099650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099650)
-- [Пятнадцать сессий Claude Code съели 11 ГБ памяти. Я написал мод, который показывает, кто именно](https://habr.com/ru/articles/1099622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099622)
-- [Гонка при создании справочников в 1С: как MD5 от ключа заменил блокировки на миграции 28 тысяч позиций](https://habr.com/ru/articles/1099604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099604)
+- [Как я писал эмуляцию звука для Nintendo Gameboy на C++ целый год](https://habr.com/ru/articles/1099784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099784)
+- [Security Week 2644: активная эксплуатация уязвимостей PHP2Shell](https://habr.com/ru/companies/kaspersky/articles/1099774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099774)
+- [[Перевод] У парадокса голосования нашлась форма: это бутылка Клейна](https://habr.com/ru/articles/1099764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099764)
+- [Как переименовать поле в API и не сломать старых клиентов](https://habr.com/ru/companies/otus/articles/1091490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091490)
+- [Курица, яйцо и CNI](https://habr.com/ru/articles/1099762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099762)
 <!-- BLOG-POST-LIST:END -->
 
 ---
