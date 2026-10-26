@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Утечки WebRTC и почему его отключение — плохая идея: разбираем механику деанона и нативную подмену](https://habr.com/ru/companies/aurorium/articles/1099302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099302)
 - [[recovery mode] Новый интерфейс для ВК Видео](https://habr.com/ru/articles/1099276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099276)
 - [Тыквенный король: хэллоуинский босс для браузерной драки — от календаря до 2000 игроков на улице](https://habr.com/ru/articles/1099272/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099272)
 - [Детский футбол без чатов: что болит у тренеров и родителей и как мы закрываем это кодом](https://habr.com/ru/articles/1099268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099268)
 - [Как один UI‑баг заставил меня разбираться с графом зависимостей целого приложения](https://habr.com/ru/articles/1099266/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099266)
-- [Ping, traceroute и Path MTU на Android без root и NDK](https://habr.com/ru/articles/1099252/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099252)
 <!-- BLOG-POST-LIST:END -->
 
 ---
