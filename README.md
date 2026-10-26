@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Загрузка образов в Kubernetes без паролей с Artifact Keeper](https://habr.com/ru/companies/beeline_tech/articles/1099316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099316)
-- [Smart Forms Pro: 10 преимуществ нового инструмента для подготовки отчетности](https://habr.com/ru/companies/visiology/articles/1098698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098698)
-- [Иерархия контекстов в Spring. High CVE в Axelix](https://habr.com/ru/companies/spring_aio/articles/1099408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099408)
-- [Память в GoOS, часть 2. Нативные потоки, горутины и GC на SMP](https://habr.com/ru/articles/1099166/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099166)
-- [Требования к паролям в 2026 году: что изменилось и как теперь защищать свои аккаунты](https://habr.com/ru/companies/abp2b/articles/1099394/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099394)
+- [Сказ от Anthropic о том, как рой ИИ-агентов может превратиться в сборище бюрократов](https://habr.com/ru/articles/1099290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099290)
+- [Купили родителям ТВ‑приставку за копейки, а в прошивке нашли предустановленный вредонос: разбор H96 Max V11](https://habr.com/ru/articles/1099692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099692)
+- [Скрипты на JVM без лишнего оверхеда: Jumper против LuaJ, Groovy, Jython и других](https://habr.com/ru/articles/1099650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099650)
+- [Пятнадцать сессий Claude Code съели 11 ГБ памяти. Я написал мод, который показывает, кто именно](https://habr.com/ru/articles/1099622/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099622)
+- [Гонка при создании справочников в 1С: как MD5 от ключа заменил блокировки на миграции 28 тысяч позиций](https://habr.com/ru/articles/1099604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099604)
 <!-- BLOG-POST-LIST:END -->
 
 ---
