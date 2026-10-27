@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Почему Idempotency‑Key не спасает от двойного списания и как это исправить](https://habr.com/ru/companies/otus/articles/1095234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095234)
-- [Обновляем приложение на Wear OS-часах без adb по Wi-Fi: мост через телефон](https://habr.com/ru/articles/1100140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100140)
-- [Редактор писал «Сохранено» и ничего не сохранял: TipTap поверх чужого HTML](https://habr.com/ru/articles/1100138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100138)
-- [Выгрузка истории чата через Telegram API в браузере: было 29 минут, стало две с половиной](https://habr.com/ru/articles/1100118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100118)
-- [Как векторная алгебра упрощает дифференциальную геометрию](https://habr.com/ru/articles/1100110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100110)
+- [Условия, в которых рождаются системы. Средовой подход для ИИ-агентов](https://habr.com/ru/articles/1100302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100302)
+- [[Перевод] Что будет, если слить две ветки в Git? Проверяем заранее, не выполняя merge](https://habr.com/ru/companies/otus/articles/1100016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100016)
+- [[recovery mode] Синтетические данные для тестирования: пошаговый гайд](https://habr.com/ru/articles/1100276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100276)
+- [Как я поселил Claude в Яндекс.Станцию Мини](https://habr.com/ru/articles/1100268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100268)
+- [Перезапустил — и стало хуже: 5 инцидентов, которые не лечатся рестартом](https://habr.com/ru/articles/1100244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100244)
 <!-- BLOG-POST-LIST:END -->
 
 ---
