@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Условия, в которых рождаются системы. Средовой подход для ИИ-агентов](https://habr.com/ru/articles/1100302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100302)
-- [[Перевод] Что будет, если слить две ветки в Git? Проверяем заранее, не выполняя merge](https://habr.com/ru/companies/otus/articles/1100016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100016)
-- [[recovery mode] Синтетические данные для тестирования: пошаговый гайд](https://habr.com/ru/articles/1100276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100276)
-- [Как я поселил Claude в Яндекс.Станцию Мини](https://habr.com/ru/articles/1100268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100268)
-- [Перезапустил — и стало хуже: 5 инцидентов, которые не лечатся рестартом](https://habr.com/ru/articles/1100244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100244)
+- [Условия, в которых рождаются системы. Средовой подход для ИИ‑агентов](https://habr.com/ru/articles/1100302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100302)
+- [[Перевод] Что будет, если слить две ветки в Git? Проверяем заранее, не выполняя merge](https://habr.com/ru/companies/otus/articles/1100016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100016)
+- [[recovery mode] Синтетические данные для тестирования: пошаговый гайд](https://habr.com/ru/articles/1100276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100276)
+- [Как я поселил Claude в Яндекс Станцию Мини](https://habr.com/ru/articles/1100268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100268)
+- [Перезапустил — и стало хуже: 5 инцидентов, которые не лечатся рестартом](https://habr.com/ru/articles/1100244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100244)
 <!-- BLOG-POST-LIST:END -->
 
 ---
