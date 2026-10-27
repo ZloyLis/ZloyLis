@@ -35,7 +35,7 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как я писал эмуляцию звука для Nintendo Gameboy на C++ целый год](https://habr.com/ru/articles/1099784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099784)
+- [Как я писал эмуляцию звука для Nintendo Gameboy на C++ целый год](https://habr.com/ru/articles/1099784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099784)
 - [Security Week 2644: активная эксплуатация уязвимостей PHP2Shell](https://habr.com/ru/companies/kaspersky/articles/1099774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099774)
 - [[Перевод] У парадокса голосования нашлась форма: это бутылка Клейна](https://habr.com/ru/articles/1099764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099764)
 - [Как переименовать поле в API и не сломать старых клиентов](https://habr.com/ru/companies/otus/articles/1091490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091490)
