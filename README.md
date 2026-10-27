@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Автоматизация тестирования: возьми от IT всё](https://habr.com/ru/companies/2gis/articles/1097934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097934)
-- [58 рекламных роликов, которые я не снимал, а закоммитил](https://habr.com/ru/articles/1098134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098134)
-- [iPhone 18 Pro Max vs iPhone 17 Pro Max: менять нельзя оставить](https://habr.com/ru/companies/technopark/articles/1099590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099590)
-- [Калькулятор сметы и фильтр каталога. Что теряется между макетом и кодом](https://habr.com/ru/articles/1099848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099848)
-- [Валидация JSON во входящих REST-запросах DATAREON Platform](https://habr.com/ru/companies/sofros/articles/1097982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097982)
+- [Почему Idempotency‑Key не спасает от двойного списания и как это исправить](https://habr.com/ru/companies/otus/articles/1095234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095234)
+- [Обновляем приложение на Wear OS-часах без adb по Wi-Fi: мост через телефон](https://habr.com/ru/articles/1100140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100140)
+- [Редактор писал «Сохранено» и ничего не сохранял: TipTap поверх чужого HTML](https://habr.com/ru/articles/1100138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100138)
+- [Выгрузка истории чата через Telegram API в браузере: было 29 минут, стало две с половиной](https://habr.com/ru/articles/1100118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100118)
+- [Как векторная алгебра упрощает дифференциальную геометрию](https://habr.com/ru/articles/1100110/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100110)
 <!-- BLOG-POST-LIST:END -->
 
 ---
