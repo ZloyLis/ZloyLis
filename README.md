@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как я писал эмуляцию звука для Nintendo Gameboy на C++ целый год](https://habr.com/ru/articles/1099784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099784)
-- [Security Week 2644: активная эксплуатация уязвимостей PHP2Shell](https://habr.com/ru/companies/kaspersky/articles/1099774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099774)
-- [[Перевод] У парадокса голосования нашлась форма: это бутылка Клейна](https://habr.com/ru/articles/1099764/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099764)
-- [Как переименовать поле в API и не сломать старых клиентов](https://habr.com/ru/companies/otus/articles/1091490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091490)
-- [Курица, яйцо и CNI](https://habr.com/ru/articles/1099762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099762)
+- [Автоматизация тестирования: возьми от IT всё](https://habr.com/ru/companies/2gis/articles/1097934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097934)
+- [58 рекламных роликов, которые я не снимал, а закоммитил](https://habr.com/ru/articles/1098134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098134)
+- [iPhone 18 Pro Max vs iPhone 17 Pro Max: менять нельзя оставить](https://habr.com/ru/companies/technopark/articles/1099590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099590)
+- [Калькулятор сметы и фильтр каталога. Что теряется между макетом и кодом](https://habr.com/ru/articles/1099848/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099848)
+- [Валидация JSON во входящих REST-запросах DATAREON Platform](https://habr.com/ru/companies/sofros/articles/1097982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097982)
 <!-- BLOG-POST-LIST:END -->
 
 ---
