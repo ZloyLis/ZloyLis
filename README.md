@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [7 паттернов микросервисной архитектуры на примере музыкального сервис](https://habr.com/ru/articles/1100490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100490)
-- [Сбор персональных данных через чат-бот](https://habr.com/ru/articles/1100562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100562)
-- [Интеграция 1С через ESB: Digital Q.Integration — OData-коннектор](https://habr.com/ru/companies/w_code/articles/1100558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100558)
-- [Выпущена версия Jmix 3.1](https://habr.com/ru/companies/haulmont/articles/1100552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100552)
-- [От сетевых папок к СОД: методология перехода на nano360](https://habr.com/ru/companies/nanosoft/articles/1100502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100502)
+- [Как немножко обмануть сервер](https://habr.com/ru/articles/1098572/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098572)
+- [KassiOS: слой в стиле Kaspresso поверх XCUITest, проверенный на сломанном банке](https://habr.com/ru/articles/1100796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100796)
+- [Периодические функции как функции активации в нейросетях](https://habr.com/ru/articles/1100598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100598)
+- [13 релизов за неделю: OpenShift, алерты, фильтры и первые внешние контрибьюторы Sextant](https://habr.com/ru/articles/1100782/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100782)
+- [Как две строки GLSL едва не свели меня с ума](https://habr.com/ru/articles/1100744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100744)
 <!-- BLOG-POST-LIST:END -->
 
 ---
