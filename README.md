@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Условия, в которых рождаются системы. Средовой подход для ИИ‑агентов](https://habr.com/ru/articles/1100302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100302)
-- [[Перевод] Что будет, если слить две ветки в Git? Проверяем заранее, не выполняя merge](https://habr.com/ru/companies/otus/articles/1100016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100016)
-- [[recovery mode] Синтетические данные для тестирования: пошаговый гайд](https://habr.com/ru/articles/1100276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100276)
-- [Как я поселил Claude в Яндекс Станцию Мини](https://habr.com/ru/articles/1100268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100268)
-- [Перезапустил — и стало хуже: 5 инцидентов, которые не лечатся рестартом](https://habr.com/ru/articles/1100244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100244)
+- [7 паттернов микросервисной архитектуры на примере музыкального сервис](https://habr.com/ru/articles/1100490/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100490)
+- [Сбор персональных данных через чат-бот](https://habr.com/ru/articles/1100562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100562)
+- [Интеграция 1С через ESB: Digital Q.Integration — OData-коннектор](https://habr.com/ru/companies/w_code/articles/1100558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100558)
+- [Выпущена версия Jmix 3.1](https://habr.com/ru/companies/haulmont/articles/1100552/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100552)
+- [От сетевых папок к СОД: методология перехода на nano360](https://habr.com/ru/companies/nanosoft/articles/1100502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100502)
 <!-- BLOG-POST-LIST:END -->
 
 ---
