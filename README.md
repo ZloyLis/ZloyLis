@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как генератор трёх слов на баннере вырос в веб-сервис: Ghostscript, CMYK и производственные грабли](https://habr.com/ru/articles/1100872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100872)
 - [Как я улучшил управление окнами в macOS](https://habr.com/ru/articles/1100864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100864)
 - [Как я устал от VPN‑клиентов на 300 МБ ОЗУ и написал свой TUN‑клиент на чистом Rust &lpar;Unbihex&rpar;](https://habr.com/ru/articles/1100854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100854)
 - [ymcp, или как подружить агентов с YouTrack, если ты не админ](https://habr.com/ru/articles/1100844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100844)
 - [Пишем свою мобильную ОС с нуля на Rust. Часть 4: GUI, SQLite и DOOM](https://habr.com/ru/articles/1100800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100800)
-- [Давай отлаживать по TCP](https://habr.com/ru/articles/1100832/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100832)
 <!-- BLOG-POST-LIST:END -->
 
 ---
