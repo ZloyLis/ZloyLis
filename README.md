@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как генератор трёх слов на баннере вырос в веб-сервис: Ghostscript, CMYK и производственные грабли](https://habr.com/ru/articles/1100872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100872)
-- [Как я улучшил управление окнами в macOS](https://habr.com/ru/articles/1100864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100864)
-- [Как я устал от VPN‑клиентов на 300 МБ ОЗУ и написал свой TUN‑клиент на чистом Rust &lpar;Unbihex&rpar;](https://habr.com/ru/articles/1100854/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100854)
-- [ymcp, или как подружить агентов с YouTrack, если ты не админ](https://habr.com/ru/articles/1100844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100844)
-- [Пишем свою мобильную ОС с нуля на Rust. Часть 4: GUI, SQLite и DOOM](https://habr.com/ru/articles/1100800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100800)
+- [AI Native Conf: освоение ИИ продолжается](https://habr.com/ru/companies/oleg-bunin/articles/1099946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099946)
+- [Когда Python становится слишком медленным: пишем C‑расширение с нуля и сравниваем с pybind11 &lpar;бонус JIT‑компилятор&rpar;](https://habr.com/ru/articles/1101090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101090)
+- [[recovery mode] Arch Linux на Xiaomi 12T Pro: стоковое ядро Android, vendor‑модули и девять граблей загрузки](https://habr.com/ru/articles/1101076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101076)
+- [Как React прерывает рендер: конкурентный рендеринг изнутри](https://habr.com/ru/articles/1101070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101070)
+- [Монетка, толпа и трансформер: что на самом деле делает квант-исследователь на примере 9 лет данных криптовалюты ADA](https://habr.com/ru/articles/1101054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101054)
 <!-- BLOG-POST-LIST:END -->
 
 ---
