@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Gachinetes: 300 хундрет бакс, честная борьба за ресурсы и Билли в сердце &lpar;никакой пошлятины, только полезные фичи&rpar;](https://habr.com/ru/articles/1101436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101436)
+- [Все русскоязычные стримы в Postgres раз в 10 минут: 2 млн строк вместо 30 млн и баг, в котором я три недели винил VK](https://habr.com/ru/articles/1095962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095962)
+- [[recovery mode] Логическое обоснование невозможности согласования сверхинтеллекта &lpar;AGI&rpar;](https://habr.com/ru/articles/1101408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101408)
 - [Ревью кода стало узким местом: цифры Anthropic и мой опыт](https://habr.com/ru/articles/1101360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101360)
 - [[Перевод] Два git notes add параллельно: оба вернули 0, а одна заметка пропала](https://habr.com/ru/articles/1101358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101358)
-- [[recovery mode] От сантехника к инженеру: как умный дом меняет профессию монтажника](https://habr.com/ru/articles/1101352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101352)
-- [vue-llm: AI SDK для Vue и Nuxt — стриминговый чат, Generative UI и модели прямо в браузере](https://habr.com/ru/articles/1101308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101308)
-- [Чистый контур — агентская прачечная для вашего грязного легаси](https://habr.com/ru/articles/1101314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101314)
 <!-- BLOG-POST-LIST:END -->
 
 ---
