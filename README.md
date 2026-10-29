@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Native Conf: освоение ИИ продолжается](https://habr.com/ru/companies/oleg-bunin/articles/1099946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099946)
-- [Когда Python становится слишком медленным: пишем C‑расширение с нуля и сравниваем с pybind11 &lpar;бонус JIT‑компилятор&rpar;](https://habr.com/ru/articles/1101090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101090)
-- [[recovery mode] Arch Linux на Xiaomi 12T Pro: стоковое ядро Android, vendor‑модули и девять граблей загрузки](https://habr.com/ru/articles/1101076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101076)
-- [Как React прерывает рендер: конкурентный рендеринг изнутри](https://habr.com/ru/articles/1101070/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101070)
-- [Монетка, толпа и трансформер: что на самом деле делает квант-исследователь на примере 9 лет данных криптовалюты ADA](https://habr.com/ru/articles/1101054/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101054)
+- [Ревью кода стало узким местом: цифры Anthropic и мой опыт](https://habr.com/ru/articles/1101360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101360)
+- [[Перевод] Два git notes add параллельно: оба вернули 0, а одна заметка пропала](https://habr.com/ru/articles/1101358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101358)
+- [[recovery mode] От сантехника к инженеру: как умный дом меняет профессию монтажника](https://habr.com/ru/articles/1101352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101352)
+- [vue-llm: AI SDK для Vue и Nuxt — стриминговый чат, Generative UI и модели прямо в браузере](https://habr.com/ru/articles/1101308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101308)
+- [Чистый контур — агентская прачечная для вашего грязного легаси](https://habr.com/ru/articles/1101314/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101314)
 <!-- BLOG-POST-LIST:END -->
 
 ---
