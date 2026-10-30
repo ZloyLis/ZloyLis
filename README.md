@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как я разрабатывал приложение для тестирования когнитивных функций](https://habr.com/ru/companies/selectel/articles/1101540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101540)
-- [Роботы-коммунисты: что бывает, когда у тысячи ИИ-агентов нет начальника](https://habr.com/ru/companies/ru_mts/articles/1098444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098444)
-- [Как мы написали свой EASM, потому что ни один из готовых не подошёл](https://habr.com/ru/companies/oxygendc/articles/1101520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101520)
-- [Нужен ли Kubernetes сервису с одной базой данных? Четыре способа запуска и границы между ними](https://habr.com/ru/companies/cloud_ru/articles/1101138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101138)
-- [Третий месяц вайб-дебажу настолку в браузере. На что уходит столько времени](https://habr.com/ru/articles/1098908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098908)
+- [Честная кнопка: как сравнить нажатия игроков, если у всех разный пинг](https://habr.com/ru/articles/1101810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101810)
+- [Подводные камни битовых полей в C++](https://habr.com/ru/companies/pvs-studio/articles/1101790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101790)
+- [Домашний прод, часть 1: от двух LXC до Istio](https://habr.com/ru/articles/1101374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101374)
+- [Что происходит с сервисом, когда пользователей становится в 10 раз больше: реальные кейсы нагрузочного тестирования](https://habr.com/ru/companies/tochka/articles/1101232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101232)
+- [[Перевод] Когда генератор нагрузки замирает вместе с сервером](https://habr.com/ru/companies/spring_aio/articles/1101598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101598)
 <!-- BLOG-POST-LIST:END -->
 
 ---
