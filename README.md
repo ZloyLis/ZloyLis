@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Gachinetes: 300 хундрет бакс, честная борьба за ресурсы и Билли в сердце &lpar;никакой пошлятины, только полезные фичи&rpar;](https://habr.com/ru/articles/1101436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101436)
+- [Liferay в gov секторе — как тяга к халяве, ой, то есть к OpenSource доводит до CWE-319](https://habr.com/ru/articles/1101456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101456)
+- [YPtun — клиент, который сам поднимает себе сервер](https://habr.com/ru/articles/1101440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101440)
+- [Gachinetes: 300 хундрет бакс, честная борьба за ресурсы и Билли в сердце &lpar;никакой пошлятины, только полезные фичи&rpar;](https://habr.com/ru/articles/1101436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101436)
 - [Все русскоязычные стримы в Postgres раз в 10 минут: 2 млн строк вместо 30 млн и баг, в котором я три недели винил VK](https://habr.com/ru/articles/1095962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095962)
-- [[recovery mode] Логическое обоснование невозможности согласования сверхинтеллекта &lpar;AGI&rpar;](https://habr.com/ru/articles/1101408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101408)
 - [Ревью кода стало узким местом: цифры Anthropic и мой опыт](https://habr.com/ru/articles/1101360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101360)
-- [[Перевод] Два git notes add параллельно: оба вернули 0, а одна заметка пропала](https://habr.com/ru/articles/1101358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101358)
 <!-- BLOG-POST-LIST:END -->
 
 ---
