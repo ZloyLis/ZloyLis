@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Ваш recover&lpar;&rpar; эту ошибку не поймает](https://habr.com/ru/companies/otus/articles/1099260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099260)
+- [Внутри диаграммы Ганта: холст 480 на 360, палитра на 30 цветов и число без последнего бита](https://habr.com/ru/articles/1101884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101884)
+- [Два бага, 20 часов откатов: как я чинил гонки в M:N-рантайме Nova](https://habr.com/ru/articles/1098800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098800)
 - [Честная кнопка: как сравнить нажатия игроков, если у всех разный пинг](https://habr.com/ru/articles/1101810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101810)
 - [Подводные камни битовых полей в C++](https://habr.com/ru/companies/pvs-studio/articles/1101790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101790)
-- [Домашний прод, часть 1: от двух LXC до Istio](https://habr.com/ru/articles/1101374/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101374)
-- [Что происходит с сервисом, когда пользователей становится в 10 раз больше: реальные кейсы нагрузочного тестирования](https://habr.com/ru/companies/tochka/articles/1101232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101232)
-- [[Перевод] Когда генератор нагрузки замирает вместе с сервером](https://habr.com/ru/companies/spring_aio/articles/1101598/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101598)
 <!-- BLOG-POST-LIST:END -->
 
 ---
