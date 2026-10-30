@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Liferay в gov секторе — как тяга к халяве, ой, то есть к OpenSource доводит до CWE-319](https://habr.com/ru/articles/1101456/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101456)
-- [YPtun — клиент, который сам поднимает себе сервер](https://habr.com/ru/articles/1101440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101440)
-- [Gachinetes: 300 хундрет бакс, честная борьба за ресурсы и Билли в сердце &lpar;никакой пошлятины, только полезные фичи&rpar;](https://habr.com/ru/articles/1101436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101436)
-- [Все русскоязычные стримы в Postgres раз в 10 минут: 2 млн строк вместо 30 млн и баг, в котором я три недели винил VK](https://habr.com/ru/articles/1095962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095962)
-- [Ревью кода стало узким местом: цифры Anthropic и мой опыт](https://habr.com/ru/articles/1101360/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101360)
+- [Как я разрабатывал приложение для тестирования когнитивных функций](https://habr.com/ru/companies/selectel/articles/1101540/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101540)
+- [Роботы-коммунисты: что бывает, когда у тысячи ИИ-агентов нет начальника](https://habr.com/ru/companies/ru_mts/articles/1098444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098444)
+- [Как мы написали свой EASM, потому что ни один из готовых не подошёл](https://habr.com/ru/companies/oxygendc/articles/1101520/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101520)
+- [Нужен ли Kubernetes сервису с одной базой данных? Четыре способа запуска и границы между ними](https://habr.com/ru/companies/cloud_ru/articles/1101138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101138)
+- [Третий месяц вайб-дебажу настолку в браузере. На что уходит столько времени](https://habr.com/ru/articles/1098908/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098908)
 <!-- BLOG-POST-LIST:END -->
 
 ---
