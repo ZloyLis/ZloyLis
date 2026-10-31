@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Кирк Керкорян: жизнь как игра](https://habr.com/ru/articles/1071846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071846)
+- [Палеокомпьютинг, часть 3. Две Ады: создаём никогда не существовавшие языки по спекам с тендера Пентагона](https://habr.com/ru/companies/aenix/articles/1102128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102128)
+- [Как я научил React Native читать кириллицу на Android: OCR на Vision и PaddleOCR](https://habr.com/ru/articles/1102088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102088)
+- [Как я написал линтер для Model Context Protocol &lpar;MCP&rpar; и нашел баги в официальных серверах Anthropic](https://habr.com/ru/articles/1102086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102086)
 - [[Перевод] Выжимаем максимум из BERT: токенизация в 50 раз быстрее](https://habr.com/ru/companies/otus/articles/1100722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100722)
-- [.tbook четыре месяца спустя: читалки, словари и v2 формата](https://habr.com/ru/articles/1100334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100334)
-- [Можно ли спасти душу Раскольникова? Тимлид делает игры по классике и пишет свой язык программирования](https://habr.com/ru/companies/avito/articles/1101642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101642)
-- [Динамический метод численного интегрирования Гаусса-Лежандра на C#: вычисляем узлы и веса «на лету» без переполнения](https://habr.com/ru/articles/1102060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102060)
-- [Математическая теория того, почему мы обречены на самоуничтожение и можем ли мы этого избежать?](https://habr.com/ru/articles/1101896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101896)
 <!-- BLOG-POST-LIST:END -->
 
 ---
