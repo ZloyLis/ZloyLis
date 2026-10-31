@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Копируем содержимое Яндекс.Диск к себе](https://habr.com/ru/articles/1101968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101968)
-- [Усреднили до нуля, или как избавиться от шума вместе с полезным сигналом](https://habr.com/ru/articles/1101962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101962)
-- [Разбор инцидента: несколько часов деградации PostgreSQL в проде](https://habr.com/ru/articles/1098064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098064)
-- [[Перевод] Квантовые поля переносят энергию. Доказывает ли это, что они реальны?](https://habr.com/ru/articles/1100694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100694)
-- [Ваш recover&lpar;&rpar; эту ошибку не поймает](https://habr.com/ru/companies/otus/articles/1099260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099260)
+- [[Перевод] Выжимаем максимум из BERT: токенизация в 50 раз быстрее](https://habr.com/ru/companies/otus/articles/1100722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100722)
+- [.tbook четыре месяца спустя: читалки, словари и v2 формата](https://habr.com/ru/articles/1100334/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100334)
+- [Можно ли спасти душу Раскольникова? Тимлид делает игры по классике и пишет свой язык программирования](https://habr.com/ru/companies/avito/articles/1101642/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101642)
+- [Динамический метод численного интегрирования Гаусса-Лежандра на C#: вычисляем узлы и веса «на лету» без переполнения](https://habr.com/ru/articles/1102060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102060)
+- [Математическая теория того, почему мы обречены на самоуничтожение и можем ли мы этого избежать?](https://habr.com/ru/articles/1101896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101896)
 <!-- BLOG-POST-LIST:END -->
 
 ---
