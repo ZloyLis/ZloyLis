@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Усреднили до нуля, или как избавиться от шума вместе с полезным сигналом](https://habr.com/ru/articles/1101962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101962)
+- [Разбор инцидента: несколько часов деградации PostgreSQL в проде](https://habr.com/ru/articles/1098064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098064)
+- [[Перевод] Квантовые поля переносят энергию. Доказывает ли это, что они реальны?](https://habr.com/ru/articles/1100694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100694)
 - [Ваш recover&lpar;&rpar; эту ошибку не поймает](https://habr.com/ru/companies/otus/articles/1099260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099260)
 - [Внутри диаграммы Ганта: холст 480 на 360, палитра на 30 цветов и число без последнего бита](https://habr.com/ru/articles/1101884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101884)
-- [Два бага, 20 часов откатов: как я чинил гонки в M:N-рантайме Nova](https://habr.com/ru/articles/1098800/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098800)
-- [Честная кнопка: как сравнить нажатия игроков, если у всех разный пинг](https://habr.com/ru/articles/1101810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101810)
-- [Подводные камни битовых полей в C++](https://habr.com/ru/companies/pvs-studio/articles/1101790/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101790)
 <!-- BLOG-POST-LIST:END -->
 
 ---
