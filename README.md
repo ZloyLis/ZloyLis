@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Копируем содержимое Яндекс.Диск к себе](https://habr.com/ru/articles/1101968/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101968)
 - [Усреднили до нуля, или как избавиться от шума вместе с полезным сигналом](https://habr.com/ru/articles/1101962/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101962)
 - [Разбор инцидента: несколько часов деградации PostgreSQL в проде](https://habr.com/ru/articles/1098064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098064)
 - [[Перевод] Квантовые поля переносят энергию. Доказывает ли это, что они реальны?](https://habr.com/ru/articles/1100694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100694)
 - [Ваш recover&lpar;&rpar; эту ошибку не поймает](https://habr.com/ru/companies/otus/articles/1099260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099260)
-- [Внутри диаграммы Ганта: холст 480 на 360, палитра на 30 цветов и число без последнего бита](https://habr.com/ru/articles/1101884/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101884)
 <!-- BLOG-POST-LIST:END -->
 
 ---
