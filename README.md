@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Кирк Керкорян: жизнь как игра](https://habr.com/ru/articles/1071846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1071846)
+- [Раскладку нельзя определить. Можно только сделать ошибку обратимой](https://habr.com/ru/articles/1083640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083640)
+- [Программируем без IDE или применение qwen и qwen coder для написания софта](https://habr.com/ru/articles/1102144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102144)
 - [Палеокомпьютинг, часть 3. Две Ады: создаём никогда не существовавшие языки по спекам с тендера Пентагона](https://habr.com/ru/companies/aenix/articles/1102128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102128)
 - [Как я научил React Native читать кириллицу на Android: OCR на Vision и PaddleOCR](https://habr.com/ru/articles/1102088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102088)
 - [Как я написал линтер для Model Context Protocol &lpar;MCP&rpar; и нашел баги в официальных серверах Anthropic](https://habr.com/ru/articles/1102086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102086)
-- [[Перевод] Выжимаем максимум из BERT: токенизация в 50 раз быстрее](https://habr.com/ru/companies/otus/articles/1100722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100722)
 <!-- BLOG-POST-LIST:END -->
 
 ---
