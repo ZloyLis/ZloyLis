@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Мобильная разработка за неделю #651 &lpar;26 октября — 1 ноября&rpar;](https://habr.com/ru/articles/1102192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102192)
+- [Почему мы запретили AI-менеджеру писать код и поручили это Claude Opus](https://habr.com/ru/articles/1102170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102170)
+- [Дайджест технических новостей, переводов и лонгридов инфослужбы Хабра за октябрь 2026 года](https://habr.com/ru/articles/1076138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076138)
 - [Раскладку нельзя определить. Можно только сделать ошибку обратимой](https://habr.com/ru/articles/1083640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083640)
 - [Программируем без IDE или применение qwen и qwen coder для написания софта](https://habr.com/ru/articles/1102144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102144)
-- [Палеокомпьютинг, часть 3. Две Ады: создаём никогда не существовавшие языки по спекам с тендера Пентагона](https://habr.com/ru/companies/aenix/articles/1102128/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102128)
-- [Как я научил React Native читать кириллицу на Android: OCR на Vision и PaddleOCR](https://habr.com/ru/articles/1102088/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102088)
-- [Как я написал линтер для Model Context Protocol &lpar;MCP&rpar; и нашел баги в официальных серверах Anthropic](https://habr.com/ru/articles/1102086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102086)
 <!-- BLOG-POST-LIST:END -->
 
 ---
