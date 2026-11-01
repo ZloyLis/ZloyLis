@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Мобильная разработка за неделю #651 &lpar;26 октября — 1 ноября&rpar;](https://habr.com/ru/articles/1102192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102192)
-- [Почему мы запретили AI-менеджеру писать код и поручили это Claude Opus](https://habr.com/ru/articles/1102170/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102170)
-- [Дайджест технических новостей, переводов и лонгридов инфослужбы Хабра за октябрь 2026 года](https://habr.com/ru/articles/1076138/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1076138)
-- [Раскладку нельзя определить. Можно только сделать ошибку обратимой](https://habr.com/ru/articles/1083640/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083640)
-- [Программируем без IDE или применение qwen и qwen coder для написания софта](https://habr.com/ru/articles/1102144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102144)
+- [Климат-контроль esp32c3-webUI](https://habr.com/ru/articles/1102350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102350)
+- [Многопоточность в Rust: как Ownership, Send и Sync помогают бороться с гонками данных](https://habr.com/ru/articles/1102290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102290)
+- [Цифровой аватар спортсмена: как я собрал работающий прототип на 3000 строк ванильного JS](https://habr.com/ru/articles/1102268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102268)
+- [Яnetes — Kubernetes для тех, у кого свои масштабы &lpar;и для страданий, конечно&rpar;](https://habr.com/ru/articles/1102250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102250)
+- [Можно ли отказаться от Opus и Codex? Проверил MacBook, игровой ноутбук и DGX Spark на одной задаче с ловушками](https://habr.com/ru/articles/1100830/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100830)
 <!-- BLOG-POST-LIST:END -->
 
 ---
