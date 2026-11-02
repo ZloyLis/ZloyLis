@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как организовать общий контекст между разными AI-платформами](https://habr.com/ru/articles/1102508/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102508)
-- [Турнир, расписание которого собирают каждую неделю: как состыковать игры и не допустить пересечений? Нужен совет](https://habr.com/ru/articles/1102506/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102506)
-- [Один API вместо десятка интеграций: как упростить работу с разными LLM в проектах](https://habr.com/ru/articles/1102422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102422)
-- [Ты не бойся, это Goose](https://habr.com/ru/articles/1102376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102376)
-- [От промпта до продакшна за два часа: всё, что нужно знать о Claude Code](https://habr.com/ru/companies/bothub/articles/1102356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102356)
+- [Биты, байты и финты ушами](https://habr.com/ru/articles/1102894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102894)
+- [Scala Digest. Выпуск 46](https://habr.com/ru/companies/tbank/articles/1102846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102846)
+- [Ваш профиль в дейтинге — это персонаж со статами. Вот почему мультипликативная RPG-механика честнее, чем аддитивный билд](https://habr.com/ru/articles/1102836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102836)
+- [Прошивка 8-битных МК по одному проводу: как устроен бутлоадер в vm5277](https://habr.com/ru/articles/1102812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102812)
+- [[recovery mode] LinkedIn и семь удалёнок: как из России выходят на валютные IT-контракты в 2026 году](https://habr.com/ru/articles/1102796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102796)
 <!-- BLOG-POST-LIST:END -->
 
 ---
