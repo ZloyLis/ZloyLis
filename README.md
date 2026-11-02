@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Энтропия индустрии](https://habr.com/ru/articles/1097262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097262)
 - [Ты не бойся, это Goose](https://habr.com/ru/articles/1102376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102376)
 - [От промпта до продакшна за два часа: всё, что нужно знать о Claude Code](https://habr.com/ru/companies/bothub/articles/1102356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102356)
 - [Климат-контроль esp32c3-webUI](https://habr.com/ru/articles/1102350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102350)
-- [Многопоточность в Rust: как Ownership, Send и Sync помогают бороться с гонками данных](https://habr.com/ru/articles/1102290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102290)
+- [Многопоточность в Rust: как Ownership, Send и Sync помогают бороться с гонками данных](https://habr.com/ru/articles/1102290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102290)
+- [Цифровой аватар спортсмена: как я собрал работающий прототип на 3000 строк ванильного JS](https://habr.com/ru/articles/1102268/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102268)
 <!-- BLOG-POST-LIST:END -->
 
 ---
