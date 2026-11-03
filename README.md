@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [1С через OData: от первого запроса до корпоративной интеграции – гайд для архитекторов и разработчиков](https://habr.com/ru/companies/diasoft_company/articles/1103242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103242)
-- [Миллионы строк или миллионы параметров: как мы искали баланс для kazRush — открытой модели перевода «русский—казахский»](https://habr.com/ru/companies/vk/articles/1103230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103230)
-- [600 перерисовок в минуту ради одной цифры: аудит Vue-фронта с vue-why-render](https://habr.com/ru/articles/1103206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103206)
-- [EF Core vs redb: граф объекта против 54 таблиц и Include](https://habr.com/ru/articles/1103216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103216)
-- [Мой стартовый набор CSS для каждого проекта](https://habr.com/ru/companies/ruvds/articles/1101388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101388)
+- [Личный задачник, из которого Claude Code и OpenCode сами берут задачи](https://habr.com/ru/articles/1103358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103358)
+- [Как бреют в обе стороны и исполнителей и нанимателей](https://habr.com/ru/articles/1103356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103356)
+- [Описываем граф одним классом: извлечение связей без N+1](https://habr.com/ru/articles/1102516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102516)
+- [[Перевод] Подтверждения через Digital Credentials API](https://habr.com/ru/articles/1101618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101618)
+- [Как и зачем нужно ускорять тесты](https://habr.com/ru/articles/1103328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103328)
 <!-- BLOG-POST-LIST:END -->
 
 ---
