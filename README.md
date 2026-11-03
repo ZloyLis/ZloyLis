@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Удивительно простое доказательство сингулярного разложения матриц](https://habr.com/ru/articles/1102950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102950)
-- [Мышь из томографа и мозг из научного атласа: как я делаю 3D-модели, которые разбираются руками перед вебкой](https://habr.com/ru/articles/1103004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103004)
-- [Как объединить ПЛИС и микроконтроллер в одну JTAG‑цепь: прошивка и совместная отладка](https://habr.com/ru/companies/yandex/articles/1092684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092684)
-- [Прототип статического рекомпилятора PS4 на Apple Silicon — PS4Recomp](https://habr.com/ru/articles/1103000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103000)
-- [Как дать AI-менеджеру маркетплейсов писать код и не пустить его к серверу](https://habr.com/ru/articles/1102932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102932)
+- [1С через OData: от первого запроса до корпоративной интеграции – гайд для архитекторов и разработчиков](https://habr.com/ru/companies/diasoft_company/articles/1103242/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103242)
+- [Миллионы строк или миллионы параметров: как мы искали баланс для kazRush — открытой модели перевода «русский—казахский»](https://habr.com/ru/companies/vk/articles/1103230/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103230)
+- [600 перерисовок в минуту ради одной цифры: аудит Vue-фронта с vue-why-render](https://habr.com/ru/articles/1103206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103206)
+- [EF Core vs redb: граф объекта против 54 таблиц и Include](https://habr.com/ru/articles/1103216/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103216)
+- [Мой стартовый набор CSS для каждого проекта](https://habr.com/ru/companies/ruvds/articles/1101388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101388)
 <!-- BLOG-POST-LIST:END -->
 
 ---
