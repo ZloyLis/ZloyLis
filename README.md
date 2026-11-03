@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Когда варить пиво: планировщик для пивоварни на правилах и открытой арифметике](https://habr.com/ru/articles/1102916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102916)
+- [Security Week 2645: уязвимость в UEFI при загрузке по сети](https://habr.com/ru/companies/kaspersky/articles/1102638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102638)
 - [Биты, байты и финты ушами](https://habr.com/ru/articles/1102894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102894)
 - [Scala Digest. Выпуск 46](https://habr.com/ru/companies/tbank/articles/1102846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102846)
 - [Ваш профиль в дейтинге — это персонаж со статами. Вот почему мультипликативная RPG-механика честнее, чем аддитивный билд](https://habr.com/ru/articles/1102836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102836)
-- [Прошивка 8-битных МК по одному проводу: как устроен бутлоадер в vm5277](https://habr.com/ru/articles/1102812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102812)
-- [[recovery mode] LinkedIn и семь удалёнок: как из России выходят на валютные IT-контракты в 2026 году](https://habr.com/ru/articles/1102796/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102796)
 <!-- BLOG-POST-LIST:END -->
 
 ---
