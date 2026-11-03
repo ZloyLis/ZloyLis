@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Когда варить пиво: планировщик для пивоварни на правилах и открытой арифметике](https://habr.com/ru/articles/1102916/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102916)
-- [Security Week 2645: уязвимость в UEFI при загрузке по сети](https://habr.com/ru/companies/kaspersky/articles/1102638/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102638)
-- [Биты, байты и финты ушами](https://habr.com/ru/articles/1102894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102894)
-- [Scala Digest. Выпуск 46](https://habr.com/ru/companies/tbank/articles/1102846/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102846)
-- [Ваш профиль в дейтинге — это персонаж со статами. Вот почему мультипликативная RPG-механика честнее, чем аддитивный билд](https://habr.com/ru/articles/1102836/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102836)
+- [Удивительно простое доказательство сингулярного разложения матриц](https://habr.com/ru/articles/1102950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102950)
+- [Мышь из томографа и мозг из научного атласа: как я делаю 3D-модели, которые разбираются руками перед вебкой](https://habr.com/ru/articles/1103004/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103004)
+- [Как объединить ПЛИС и микроконтроллер в одну JTAG‑цепь: прошивка и совместная отладка](https://habr.com/ru/companies/yandex/articles/1092684/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092684)
+- [Прототип статического рекомпилятора PS4 на Apple Silicon — PS4Recomp](https://habr.com/ru/articles/1103000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103000)
+- [Как дать AI-менеджеру маркетплейсов писать код и не пустить его к серверу](https://habr.com/ru/articles/1102932/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102932)
 <!-- BLOG-POST-LIST:END -->
 
 ---
