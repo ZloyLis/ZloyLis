@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Программист с ИИ пишет код за день вместо недели. Почему компании сокращают тестировщиков?](https://habr.com/ru/articles/1103436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103436)
-- [[Перевод] 18 из 20 порядков ломают counter++, а 10 000 запусков на ноутбуке этого не показали](https://habr.com/ru/articles/1103428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103428)
-- [Рецензия на книгу «SRE. Новый подход к управлению инфраструктурой» — от бюджета ошибок до платформы для разработчиков](https://habr.com/ru/companies/ssp-soft/articles/1102530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102530)
-- [Вам понадобятся железные нервы для работы с ИИ-агентами](https://habr.com/ru/articles/1103388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103388)
-- [ПЛК на микроконтроллере. Визуализация цепей в реальном времени ч.2](https://habr.com/ru/articles/1103386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103386)
+- [Торвальдс: «Не доверяете ИИ — пишите на ассемблере»](https://habr.com/ru/companies/hexlet/articles/1103584/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103584)
+- [AI-инженерия для тех, кто вкатывается: агенты, MCP, токены и кэш с цифрами](https://habr.com/ru/articles/1103562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103562)
+- [[Перевод] Нашли гонку данных в Go-коде. Исправили — и через три дня откатили фикс](https://habr.com/ru/companies/otus/articles/1103316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103316)
+- [Жизнь после Claude Code: как я переехал на Codex и сохранил историю проектов](https://habr.com/ru/articles/1103528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103528)
+- [Основы глубокого обучения. Часть 3](https://habr.com/ru/articles/1102888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102888)
 <!-- BLOG-POST-LIST:END -->
 
 ---
