@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Личный задачник, из которого Claude Code и OpenCode сами берут задачи](https://habr.com/ru/articles/1103358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103358)
-- [Как бреют в обе стороны и исполнителей и нанимателей](https://habr.com/ru/articles/1103356/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103356)
-- [Описываем граф одним классом: извлечение связей без N+1](https://habr.com/ru/articles/1102516/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102516)
-- [[Перевод] Подтверждения через Digital Credentials API](https://habr.com/ru/articles/1101618/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101618)
-- [Как и зачем нужно ускорять тесты](https://habr.com/ru/articles/1103328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103328)
+- [Программист с ИИ пишет код за день вместо недели. Почему компании сокращают тестировщиков?](https://habr.com/ru/articles/1103436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103436)
+- [[Перевод] 18 из 20 порядков ломают counter++, а 10 000 запусков на ноутбуке этого не показали](https://habr.com/ru/articles/1103428/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103428)
+- [Рецензия на книгу «SRE. Новый подход к управлению инфраструктурой» — от бюджета ошибок до платформы для разработчиков](https://habr.com/ru/companies/ssp-soft/articles/1102530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102530)
+- [Вам понадобятся железные нервы для работы с ИИ-агентами](https://habr.com/ru/articles/1103388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103388)
+- [ПЛК на микроконтроллере. Визуализация цепей в реальном времени ч.2](https://habr.com/ru/articles/1103386/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103386)
 <!-- BLOG-POST-LIST:END -->
 
 ---
