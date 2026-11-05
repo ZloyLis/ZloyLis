@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[recovery mode] Сделал язык True — программа циклично читает и меняет саму себя &lpar;дайте обратную связь&rpar;](https://habr.com/ru/articles/1103660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103660)
-- [Оркестрация ИИ‑агентов: когда нужно поправить в одном месте и не сломать всё остальное](https://habr.com/ru/articles/1103656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103656)
-- [Rust и C++: анализ официальных документов CISA, NSA, Google и Microsoft](https://habr.com/ru/articles/1103654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103654)
-- [[Перевод] Сотни миллионов лишних запросов в неделю: что кодинг-агент нашёл в трейсах Sentry](https://habr.com/ru/articles/1103628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103628)
-- [Потоковая выгрузка из Postgres в CSV на Node.js и Fastify](https://habr.com/ru/articles/1103626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103626)
+- [Штамп «Годен»: что проходит образ, прежде чем попасть в прод](https://habr.com/ru/companies/ecom_tech/articles/1101576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101576)
+- [Реактивная Java: когда ускоряет систему, а когда усложняет жизнь &lpar;часть 2&rpar;](https://habr.com/ru/companies/cinimex/articles/1103336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103336)
+- [Я продакт и не читаю код ИИ-агента. Обвязка, процесс вокруг нее и пять вещей, которые я сделаю иначе](https://habr.com/ru/articles/1103924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103924)
+- [Render закрыли из России. Переезд занял вечер, а хвосты я собирал полтора месяца](https://habr.com/ru/articles/1103922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103922)
+- [Open Source Threat Intelligence: что реально полезно, а что шум](https://habr.com/ru/companies/securityvison/articles/1103914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103914)
 <!-- BLOG-POST-LIST:END -->
 
 ---
