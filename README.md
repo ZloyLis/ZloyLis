@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Штамп «Годен»: что проходит образ, прежде чем попасть в прод](https://habr.com/ru/companies/ecom_tech/articles/1101576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101576)
-- [Реактивная Java: когда ускоряет систему, а когда усложняет жизнь &lpar;часть 2&rpar;](https://habr.com/ru/companies/cinimex/articles/1103336/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103336)
-- [Я продакт и не читаю код ИИ-агента. Обвязка, процесс вокруг нее и пять вещей, которые я сделаю иначе](https://habr.com/ru/articles/1103924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103924)
-- [Render закрыли из России. Переезд занял вечер, а хвосты я собирал полтора месяца](https://habr.com/ru/articles/1103922/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103922)
-- [Open Source Threat Intelligence: что реально полезно, а что шум](https://habr.com/ru/companies/securityvison/articles/1103914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103914)
+- [Почему эксепшены &lpar;exception&rpar; хуже… Будут ли эксепшены хуже? Хуже чего?](https://habr.com/ru/articles/1104158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104158)
+- [Вайбкодинг кончается хаосом: 637 мест, где ИИ сделал по-своему. Что такое архитектурный дрифт и чем я его вылечил](https://habr.com/ru/articles/1103890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103890)
+- [[Перевод] Калькулятор с двумя кнопками: как одна функция заменяет синус, корень и π](https://habr.com/ru/articles/1104134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104134)
+- [120+ Гц: как индустрия продала нам потребность, которой у нас не было](https://habr.com/ru/articles/1104094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104094)
+- [Android Auto в Baidu CarLife: я подружил два протокола и что сломалось по дороге](https://habr.com/ru/articles/1104086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104086)
 <!-- BLOG-POST-LIST:END -->
 
 ---
