@@ -35,7 +35,7 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[recovery mode] True — экспериментальный язык, где программа читает и меняет саму себя](https://habr.com/ru/articles/1103660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103660)
+- [[recovery mode] Сделал язык True — программа циклично читает и меняет саму себя &lpar;дайте обратную связь&rpar;](https://habr.com/ru/articles/1103660/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103660)
 - [Оркестрация ИИ‑агентов: когда нужно поправить в одном месте и не сломать всё остальное](https://habr.com/ru/articles/1103656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103656)
 - [Rust и C++: анализ официальных документов CISA, NSA, Google и Microsoft](https://habr.com/ru/articles/1103654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103654)
 - [[Перевод] Сотни миллионов лишних запросов в неделю: что кодинг-агент нашёл в трейсах Sentry](https://habr.com/ru/articles/1103628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103628)
