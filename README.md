@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Аутентификация «Dual JWT». Минимум ресурсов при высокой безопасности](https://habr.com/ru/articles/1104188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104188)
-- [Как безобидный ADD COLUMN положил наш продакшен на 43 минуты &lpar;и почему Postgres 11+ вас не спасет&rpar;](https://habr.com/ru/articles/1104284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104284)
-- [OpenTelemetry в .NET: трассировка, которая помогает расследовать ошибки](https://habr.com/ru/companies/ru_mts/articles/1103818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103818)
-- [Мы живём во время, когда создать что-то интересное гораздо проще, чем рассказать людям об этом](https://habr.com/ru/articles/1104280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104280)
-- [Геймплей от всего сердца, или как я решил превратить Bluetooth-пульсометр в игровой контроллер прямо в браузере](https://habr.com/ru/companies/ppr/articles/1102604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102604)
+- [Полгода ищу пользователей для своих продуктов: 5 439 сообщений в Telegram, 312 писем блогерам и ноль с Product Hunt](https://habr.com/ru/articles/1104682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104682)
+- [[recovery mode] Smart Plant OS: можно ли доверить растение дешёвому датчику?](https://habr.com/ru/articles/1104692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104692)
+- [Переделал интерфейс локальной программы: стеклянные карточки на CSS, боковая панель и плеер, который едет за страницей](https://habr.com/ru/articles/1104686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104686)
+- [Как ИИ-помощник получает контекст 1С и проверяет расширения](https://habr.com/ru/companies/infostart/articles/1104668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104668)
+- [Быстрые «руки», медленный «мозг»: Particle-1 и GPT-6 Luna Pro собирают поиск для Tilda на n8n+PostgreSQL в Docker](https://habr.com/ru/articles/1104662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104662)
 <!-- BLOG-POST-LIST:END -->
 
 ---
