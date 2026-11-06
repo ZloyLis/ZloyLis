@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Полгода ищу пользователей для своих продуктов: 5 439 сообщений в Telegram, 312 писем блогерам и ноль с Product Hunt](https://habr.com/ru/articles/1104682/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104682)
-- [[recovery mode] Smart Plant OS: можно ли доверить растение дешёвому датчику?](https://habr.com/ru/articles/1104692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104692)
-- [Переделал интерфейс локальной программы: стеклянные карточки на CSS, боковая панель и плеер, который едет за страницей](https://habr.com/ru/articles/1104686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104686)
-- [Как ИИ-помощник получает контекст 1С и проверяет расширения](https://habr.com/ru/companies/infostart/articles/1104668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104668)
-- [Быстрые «руки», медленный «мозг»: Particle-1 и GPT-6 Luna Pro собирают поиск для Tilda на n8n+PostgreSQL в Docker](https://habr.com/ru/articles/1104662/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104662)
+- [[Перевод] 11 наносекунд на слово: до смешного эффективная сверхоптимизация анаграмм](https://habr.com/ru/articles/1104760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104760)
+- [[Перевод] Прогнал агента на $90 тысяч с разными техниками тестирования: TDD снова в хвосте](https://habr.com/ru/articles/1104744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104744)
+- [Рейтинг 64](https://habr.com/ru/articles/1104716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104716)
+- [Spotify на 196 МБ вместо 2 ГБ, видеоплеер с пультом на iPhone и скринсейвер «Матрица»: что бывает, когда остались токены](https://habr.com/ru/articles/1104706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104706)
+- [[Перевод] Эмодзи козла — валидный машинный код 8088. Я собрал из эмодзи целые программы](https://habr.com/ru/articles/1104704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104704)
 <!-- BLOG-POST-LIST:END -->
 
 ---
