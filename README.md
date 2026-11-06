@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Пожалуйста, зашифруй мой пароль](https://habr.com/ru/articles/1094202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094202)
-- [Динамические списки GPIO-линий: пакетные операции с группами выводов на современном C++](https://habr.com/ru/articles/1104222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104222)
-- [[Перевод] Уравнения общей теории относительности Эйнштейна: объясняем простым языком](https://habr.com/ru/articles/1104140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104140)
-- [Сделал меньше работы — стало медленнее: как я выиграл Кубок СЭРПАС 2026 на Эльбрусе. Часть 1](https://habr.com/ru/articles/1104198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104198)
-- [Почему эксепшены &lpar;exception&rpar; хуже… Будут ли эксепшены хуже? Хуже чего?](https://habr.com/ru/articles/1104158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104158)
+- [Аутентификация «Dual JWT». Минимум ресурсов при высокой безопасности](https://habr.com/ru/articles/1104188/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104188)
+- [Как безобидный ADD COLUMN положил наш продакшен на 43 минуты &lpar;и почему Postgres 11+ вас не спасет&rpar;](https://habr.com/ru/articles/1104284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104284)
+- [OpenTelemetry в .NET: трассировка, которая помогает расследовать ошибки](https://habr.com/ru/companies/ru_mts/articles/1103818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103818)
+- [Мы живём во время, когда создать что-то интересное гораздо проще, чем рассказать людям об этом](https://habr.com/ru/articles/1104280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104280)
+- [Геймплей от всего сердца, или как я решил превратить Bluetooth-пульсометр в игровой контроллер прямо в браузере](https://habr.com/ru/companies/ppr/articles/1102604/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102604)
 <!-- BLOG-POST-LIST:END -->
 
 ---
