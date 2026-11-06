@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Почему эксепшены &lpar;exception&rpar; хуже… Будут ли эксепшены хуже? Хуже чего?](https://habr.com/ru/articles/1104158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104158)
-- [Вайбкодинг кончается хаосом: 637 мест, где ИИ сделал по-своему. Что такое архитектурный дрифт и чем я его вылечил](https://habr.com/ru/articles/1103890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103890)
-- [[Перевод] Калькулятор с двумя кнопками: как одна функция заменяет синус, корень и π](https://habr.com/ru/articles/1104134/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104134)
-- [120+ Гц: как индустрия продала нам потребность, которой у нас не было](https://habr.com/ru/articles/1104094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104094)
-- [Android Auto в Baidu CarLife: я подружил два протокола и что сломалось по дороге](https://habr.com/ru/articles/1104086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104086)
+- [Пожалуйста, зашифруй мой пароль](https://habr.com/ru/articles/1094202/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094202)
+- [Динамические списки GPIO-линий: пакетные операции с группами выводов на современном C++](https://habr.com/ru/articles/1104222/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104222)
+- [[Перевод] Уравнения общей теории относительности Эйнштейна: объясняем простым языком](https://habr.com/ru/articles/1104140/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104140)
+- [Сделал меньше работы — стало медленнее: как я выиграл Кубок СЭРПАС 2026 на Эльбрусе. Часть 1](https://habr.com/ru/articles/1104198/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104198)
+- [Почему эксепшены &lpar;exception&rpar; хуже… Будут ли эксепшены хуже? Хуже чего?](https://habr.com/ru/articles/1104158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104158)
 <!-- BLOG-POST-LIST:END -->
 
 ---
