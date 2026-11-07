@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Я устал от VLESS-клиентов и написал свой. Rust, EvertyUI, Mihomo и немного экспериментов с ИИ](https://habr.com/ru/articles/1105000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105000)
+- [Ratcast — бессерверный стриминг как альтернатива Discord но не совсем](https://habr.com/ru/articles/1104990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104990)
 - [SoundCloud для Mac, которого у SoundCloud нет](https://habr.com/ru/articles/1104970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104970)
 - [В настройках бота было два лимита на длину диалога. Ни один из них ни разу не сработал](https://habr.com/ru/articles/1104936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104936)
-- [Последствия ошибки](https://habr.com/ru/articles/1073518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073518)
-- [Вам не нужны bool и Option](https://habr.com/ru/articles/1104958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104958)
-- [ИИ-агенты решили 99,4% задач. Но сначала 23 инженера 404 часа чинили сам экзамен](https://habr.com/ru/articles/1104950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104950)
+- [Вам не нужны bool и Option](https://habr.com/ru/articles/1104958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104958)
 <!-- BLOG-POST-LIST:END -->
 
 ---
