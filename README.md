@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [E-commerce и финтех: готовы ли российские сервисы к AI-агентам? Исследование 424 компаний и продуктов](https://habr.com/ru/articles/1104816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104816)
-- [[recovery mode] Коммиты в спортзал: трекер тренировок в Telegram в стиле GitHub](https://habr.com/ru/articles/1104806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104806)
-- [Блокировщик, который нельзя смахнуть: как я следил за чужими приложениями на Android без AccessibilityService](https://habr.com/ru/articles/1104802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104802)
-- [Сегодня Claude, завтра Codex: обновления мультиагентной OpenIDE](https://habr.com/ru/companies/haulmont/articles/1102934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102934)
-- [[Перевод] Стерео 44,1 кГц на Nintendo 64 за 4% времени процессора: малоизвестный кодек ULC](https://habr.com/ru/articles/1104788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104788)
+- [Расширение врёт: как я учил Android-приложение открывать двести типов файлов по первым байтам](https://habr.com/ru/articles/1104914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104914)
+- [Как мы строили и улучшали LLM‑слой для общения с покупателями](https://habr.com/ru/articles/1104900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104900)
+- [Dasha 1.10: SD Patroni, waits events PostgreSQL и контроль слотов репликации](https://habr.com/ru/articles/1104890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104890)
+- [Apple: анатомия корпоративной власти. Как продают не устройства, а зависимость](https://habr.com/ru/articles/1104862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104862)
+- [Как одна настройка брокера снизила производительность Zeebe в 2 раза: итоги нагрузочных испытаний Camunda 8.6](https://habr.com/ru/companies/tbank/articles/1104580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104580)
 <!-- BLOG-POST-LIST:END -->
 
 ---
