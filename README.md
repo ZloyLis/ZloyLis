@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как я разработал Geo Collector: бесплатная мобильная ГИС для iPhone без рекламы и обязательных подписок](https://habr.com/ru/articles/1104784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104784)
-- [Делаем освещение умным: полный гайд от Zigbee лампочек и выключателей до цифровых трековых шин на DALI](https://habr.com/ru/articles/1104774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104774)
-- [От поиска коллизий к когнитивному инференсу: Топологический логический слой архитектуры ZAP v4.0](https://habr.com/ru/articles/1104772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104772)
-- [[Перевод] 11 наносекунд на слово: до смешного эффективная сверхоптимизация анаграмм](https://habr.com/ru/articles/1104760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104760)
-- [[Перевод] Прогнал агента на $90 тысяч с разными техниками тестирования: TDD снова в хвосте](https://habr.com/ru/articles/1104744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104744)
+- [E-commerce и финтех: готовы ли российские сервисы к AI-агентам? Исследование 424 компаний и продуктов](https://habr.com/ru/articles/1104816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104816)
+- [[recovery mode] Коммиты в спортзал: трекер тренировок в Telegram в стиле GitHub](https://habr.com/ru/articles/1104806/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104806)
+- [Блокировщик, который нельзя смахнуть: как я следил за чужими приложениями на Android без AccessibilityService](https://habr.com/ru/articles/1104802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104802)
+- [Сегодня Claude, завтра Codex: обновления мультиагентной OpenIDE](https://habr.com/ru/companies/haulmont/articles/1102934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102934)
+- [[Перевод] Стерео 44,1 кГц на Nintendo 64 за 4% времени процессора: малоизвестный кодек ULC](https://habr.com/ru/articles/1104788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104788)
 <!-- BLOG-POST-LIST:END -->
 
 ---
