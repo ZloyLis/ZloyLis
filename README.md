@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Расширение врёт: как я учил Android-приложение открывать двести типов файлов по первым байтам](https://habr.com/ru/articles/1104914/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104914)
-- [Как мы строили и улучшали LLM‑слой для общения с покупателями](https://habr.com/ru/articles/1104900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104900)
-- [Dasha 1.10: SD Patroni, waits events PostgreSQL и контроль слотов репликации](https://habr.com/ru/articles/1104890/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104890)
-- [Apple: анатомия корпоративной власти. Как продают не устройства, а зависимость](https://habr.com/ru/articles/1104862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104862)
-- [Как одна настройка брокера снизила производительность Zeebe в 2 раза: итоги нагрузочных испытаний Camunda 8.6](https://habr.com/ru/companies/tbank/articles/1104580/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104580)
+- [SoundCloud для Mac, которого у SoundCloud нет](https://habr.com/ru/articles/1104970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104970)
+- [В настройках бота было два лимита на длину диалога. Ни один из них ни разу не сработал](https://habr.com/ru/articles/1104936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104936)
+- [Последствия ошибки](https://habr.com/ru/articles/1073518/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073518)
+- [Вам не нужны bool и Option](https://habr.com/ru/articles/1104958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104958)
+- [ИИ-агенты решили 99,4% задач. Но сначала 23 инженера 404 часа чинили сам экзамен](https://habr.com/ru/articles/1104950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104950)
 <!-- BLOG-POST-LIST:END -->
 
 ---
