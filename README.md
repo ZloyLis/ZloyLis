@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я разработал Geo Collector: бесплатная мобильная ГИС для iPhone без рекламы и обязательных подписок](https://habr.com/ru/articles/1104784/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104784)
+- [Делаем освещение умным: полный гайд от Zigbee лампочек и выключателей до цифровых трековых шин на DALI](https://habr.com/ru/articles/1104774/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104774)
+- [От поиска коллизий к когнитивному инференсу: Топологический логический слой архитектуры ZAP v4.0](https://habr.com/ru/articles/1104772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104772)
 - [[Перевод] 11 наносекунд на слово: до смешного эффективная сверхоптимизация анаграмм](https://habr.com/ru/articles/1104760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104760)
 - [[Перевод] Прогнал агента на $90 тысяч с разными техниками тестирования: TDD снова в хвосте](https://habr.com/ru/articles/1104744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104744)
-- [Рейтинг 64](https://habr.com/ru/articles/1104716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104716)
-- [Spotify на 196 МБ вместо 2 ГБ, видеоплеер с пультом на iPhone и скринсейвер «Матрица»: что бывает, когда остались токены](https://habr.com/ru/articles/1104706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104706)
-- [[Перевод] Эмодзи козла — валидный машинный код 8088. Я собрал из эмодзи целые программы](https://habr.com/ru/articles/1104704/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104704)
 <!-- BLOG-POST-LIST:END -->
 
 ---
