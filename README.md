@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Кривой Typescript тип выжрал 15 гигов оперативы](https://habr.com/ru/articles/1105172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105172)
-- [Почему я не доверил LLM выбор архива: план поиска предков на JSON-справочниках и правилах](https://habr.com/ru/articles/1105164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105164)
-- [TLS ECH официально принят как RFC 9849. Что теперь?](https://habr.com/ru/companies/globalsign/articles/1105160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105160)
-- [Как я пишу агента для оценки и выбора модели под свои задачи/агентов](https://habr.com/ru/articles/1104780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104780)
-- [Глубоководье ИИ инженерии](https://habr.com/ru/articles/1105122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105122)
+- [AI для PHP-разработчиков. Часть 8: Свёрточные нейронные сети: ищем границы на изображениях с помощью чистого PHP](https://habr.com/ru/articles/1105232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105232)
+- [Почему Claude Code нарушает правила из CLAUDE.md и почему вам точн онужны разрешения и хуки](https://habr.com/ru/articles/1105196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105196)
+- [Гига Писарь в Google Play и как не словить бан](https://habr.com/ru/companies/gigapisar/articles/1105184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105184)
+- [От предложений LLM к управляемому исполнению: опыт разработки AI-агента](https://habr.com/ru/articles/1105178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105178)
+- [Кривой TypeScript тип выжрал 15 гигов оперативы](https://habr.com/ru/articles/1105172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105172)
 <!-- BLOG-POST-LIST:END -->
 
 ---
