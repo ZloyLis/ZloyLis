@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Я устал от VLESS-клиентов и написал свой. Rust, EvertyUI, Mihomo и немного экспериментов с ИИ](https://habr.com/ru/articles/1105000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105000)
-- [Ratcast — бессерверный стриминг как альтернатива Discord но не совсем](https://habr.com/ru/articles/1104990/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104990)
-- [SoundCloud для Mac, которого у SoundCloud нет](https://habr.com/ru/articles/1104970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104970)
-- [В настройках бота было два лимита на длину диалога. Ни один из них ни разу не сработал](https://habr.com/ru/articles/1104936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104936)
-- [Вам не нужны bool и Option](https://habr.com/ru/articles/1104958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104958)
+- [Частые ошибки оптимизации кода 1С](https://habr.com/ru/companies/infostart/articles/1104982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104982)
+- [Как измерить силу команды во времени: строим рейтинг Universal Cup](https://habr.com/ru/articles/1104260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104260)
+- [Контекст ИИ-агентов: что хранить, что читать и чему доверять](https://habr.com/ru/articles/1105078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105078)
+- [AI-краулеры и GEO: почему robots.txt разрешает обход, а сайт остаётся недоступным](https://habr.com/ru/articles/1105074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105074)
+- [Как заставить Unity‑игру печатать деньги: вводный реверс il2cpp](https://habr.com/ru/articles/1105072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105072)
 <!-- BLOG-POST-LIST:END -->
 
 ---
