@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Частые ошибки оптимизации кода 1С](https://habr.com/ru/companies/infostart/articles/1104982/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104982)
-- [Как измерить силу команды во времени: строим рейтинг Universal Cup](https://habr.com/ru/articles/1104260/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104260)
-- [Контекст ИИ-агентов: что хранить, что читать и чему доверять](https://habr.com/ru/articles/1105078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105078)
-- [AI-краулеры и GEO: почему robots.txt разрешает обход, а сайт остаётся недоступным](https://habr.com/ru/articles/1105074/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105074)
-- [Как заставить Unity‑игру печатать деньги: вводный реверс il2cpp](https://habr.com/ru/articles/1105072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105072)
+- [Кривой Typescript тип выжрал 15 гигов оперативы](https://habr.com/ru/articles/1105172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105172)
+- [Почему я не доверил LLM выбор архива: план поиска предков на JSON-справочниках и правилах](https://habr.com/ru/articles/1105164/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105164)
+- [TLS ECH официально принят как RFC 9849. Что теперь?](https://habr.com/ru/companies/globalsign/articles/1105160/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105160)
+- [Как я пишу агента для оценки и выбора модели под свои задачи/агентов](https://habr.com/ru/articles/1104780/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104780)
+- [Глубоководье ИИ инженерии](https://habr.com/ru/articles/1105122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105122)
 <!-- BLOG-POST-LIST:END -->
 
 ---
