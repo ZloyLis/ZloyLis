@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Управляем лабораторным блоком питания Riden DPS из браузера: Web Serial и Modbus RTU в одном HTML-файле](https://habr.com/ru/articles/1105250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105250)
-- [Мошенникам даже не нужно ничего взламывать: я проверил 284 крупных сайта Рунета](https://habr.com/ru/articles/1105240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105240)
-- [Вайбкодинг закончился, когда пришёл второй пользователь](https://habr.com/ru/articles/1101952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101952)
-- [AI для PHP‑разработчиков. Часть 8: Свёрточные нейронные сети: ищем границы на изображениях с помощью чистого PHP](https://habr.com/ru/articles/1105232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105232)
-- [Почему Claude Code нарушает правила из CLAUDE.md и почему вам точно нужны разрешения и хуки](https://habr.com/ru/articles/1105196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105196)
+- [Строим свою AI OSINT-систему для обработки контента](https://habr.com/ru/articles/1105380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105380)
+- [Как Фараон жил в 16 мегабайтах памяти](https://habr.com/ru/articles/1104996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104996)
+- [Поиск похожих песен в Spotify скатился в день сурка: как мы собрали свой Similar + Discovery в плеере Kinrox](https://habr.com/ru/articles/1104818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104818)
+- [Профиль безопасности за несколько шагов: как выстраивать доступы разных пользователей](https://habr.com/ru/companies/bitrix/articles/1104008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104008)
+- [AI-агент с правами администратора: что уже умеют MCP-серверы в IAM](https://habr.com/ru/articles/1105324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105324)
 <!-- BLOG-POST-LIST:END -->
 
 ---
