@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Строим свою AI OSINT-систему для обработки контента](https://habr.com/ru/articles/1105380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105380)
-- [Как Фараон жил в 16 мегабайтах памяти](https://habr.com/ru/articles/1104996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104996)
-- [Поиск похожих песен в Spotify скатился в день сурка: как мы собрали свой Similar + Discovery в плеере Kinrox](https://habr.com/ru/articles/1104818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104818)
-- [Профиль безопасности за несколько шагов: как выстраивать доступы разных пользователей](https://habr.com/ru/companies/bitrix/articles/1104008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104008)
-- [AI-агент с правами администратора: что уже умеют MCP-серверы в IAM](https://habr.com/ru/articles/1105324/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105324)
+- [AI-агент в проде для тех, кто вкатывается: инструменты, RAG, надёжность и проверки](https://habr.com/ru/articles/1105712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105712)
+- [[Перевод] ИИ‑агенты оставили 1,4 млн файлов. Поможет ли лимит в пять агентов?](https://habr.com/ru/articles/1105710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105710)
+- [Концепт приложения «Телефон» для Android](https://habr.com/ru/articles/1105688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105688)
+- [Anthropic выпустила Claude Fable 5.2: управление роботами и математика](https://habr.com/ru/companies/bothub/articles/1105698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105698)
+- [Онлайн инфраструктура на Godot Engine](https://habr.com/ru/articles/1103302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103302)
 <!-- BLOG-POST-LIST:END -->
 
 ---
