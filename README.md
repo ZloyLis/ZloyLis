@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI для PHP-разработчиков. Часть 8: Свёрточные нейронные сети: ищем границы на изображениях с помощью чистого PHP](https://habr.com/ru/articles/1105232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105232)
-- [Почему Claude Code нарушает правила из CLAUDE.md и почему вам точн онужны разрешения и хуки](https://habr.com/ru/articles/1105196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105196)
-- [Гига Писарь в Google Play и как не словить бан](https://habr.com/ru/companies/gigapisar/articles/1105184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105184)
-- [От предложений LLM к управляемому исполнению: опыт разработки AI-агента](https://habr.com/ru/articles/1105178/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105178)
-- [Кривой TypeScript тип выжрал 15 гигов оперативы](https://habr.com/ru/articles/1105172/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105172)
+- [Управляем лабораторным блоком питания Riden DPS из браузера: Web Serial и Modbus RTU в одном HTML-файле](https://habr.com/ru/articles/1105250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105250)
+- [Мошенникам даже не нужно ничего взламывать: я проверил 284 крупных сайта Рунета](https://habr.com/ru/articles/1105240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105240)
+- [Вайбкодинг закончился, когда пришёл второй пользователь](https://habr.com/ru/articles/1101952/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101952)
+- [AI для PHP‑разработчиков. Часть 8: Свёрточные нейронные сети: ищем границы на изображениях с помощью чистого PHP](https://habr.com/ru/articles/1105232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105232)
+- [Почему Claude Code нарушает правила из CLAUDE.md и почему вам точно нужны разрешения и хуки](https://habr.com/ru/articles/1105196/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105196)
 <!-- BLOG-POST-LIST:END -->
 
 ---
