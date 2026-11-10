@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел кроссплатформенный инструмент с открытым исходным кодом для создания скриншотов Flameshot 15.0](https://habr.com/ru/articles/1105278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105278)
+- [Движки e‑repa.ru. Часть 3. qt: вопрос к члену предложения и краткий ответ](https://habr.com/ru/articles/1105732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105732)
+- [Почему Gmail опаздывает по IMAP IDLE и как я сократил задержку с 44 до 8 секунд](https://habr.com/ru/articles/1105716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105716)
 - [AI-агент в проде для тех, кто вкатывается: инструменты, RAG, надёжность и проверки](https://habr.com/ru/articles/1105712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105712)
 - [[Перевод] ИИ‑агенты оставили 1,4 млн файлов. Поможет ли лимит в пять агентов?](https://habr.com/ru/articles/1105710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105710)
-- [Концепт приложения «Телефон» для Android](https://habr.com/ru/articles/1105688/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105688)
-- [Anthropic выпустила Claude Fable 5.2: управление роботами и математика](https://habr.com/ru/companies/bothub/articles/1105698/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105698)
-- [Онлайн инфраструктура на Godot Engine](https://habr.com/ru/articles/1103302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103302)
 <!-- BLOG-POST-LIST:END -->
 
 ---
