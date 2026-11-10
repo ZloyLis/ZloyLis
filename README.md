@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышел кроссплатформенный инструмент с открытым исходным кодом для создания скриншотов Flameshot 15.0](https://habr.com/ru/articles/1105278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105278)
-- [Движки e‑repa.ru. Часть 3. qt: вопрос к члену предложения и краткий ответ](https://habr.com/ru/articles/1105732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105732)
-- [Почему Gmail опаздывает по IMAP IDLE и как я сократил задержку с 44 до 8 секунд](https://habr.com/ru/articles/1105716/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105716)
-- [AI-агент в проде для тех, кто вкатывается: инструменты, RAG, надёжность и проверки](https://habr.com/ru/articles/1105712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105712)
-- [[Перевод] ИИ‑агенты оставили 1,4 млн файлов. Поможет ли лимит в пять агентов?](https://habr.com/ru/articles/1105710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105710)
+- [ALT Orchestra: альтернатива Talos](https://habr.com/ru/companies/open-aot/articles/1090988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090988)
+- [Motorola подтвердила выпуск складного Razr Flex 2027](https://habr.com/ru/articles/1106080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106080)
+- [Как я научил AI находить новые фичи у конкурентов раньше, чем о них напишут в новостях](https://habr.com/ru/companies/garage8/articles/1104316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104316)
+- [Еще раз привет хабру! Это обещаный в прошлых постах отрывок из 9 главы отшлифованный конечно не в плане кода, но все же](https://habr.com/ru/articles/1105180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105180)
+- [Представлен FakeDOS 2.0 — скринсейвер для macOS](https://habr.com/ru/articles/1106052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106052)
 <!-- BLOG-POST-LIST:END -->
 
 ---
