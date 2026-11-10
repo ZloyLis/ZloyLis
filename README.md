@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [ALT Orchestra: альтернатива Talos](https://habr.com/ru/companies/open-aot/articles/1090988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090988)
-- [Motorola подтвердила выпуск складного Razr Flex 2027](https://habr.com/ru/articles/1106080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106080)
-- [Как я научил AI находить новые фичи у конкурентов раньше, чем о них напишут в новостях](https://habr.com/ru/companies/garage8/articles/1104316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104316)
-- [Еще раз привет хабру! Это обещаный в прошлых постах отрывок из 9 главы отшлифованный конечно не в плане кода, но все же](https://habr.com/ru/articles/1105180/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105180)
-- [Представлен FakeDOS 2.0 — скринсейвер для macOS](https://habr.com/ru/articles/1106052/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106052)
+- [А как бы это выглядело на C? Спрашивайте чаще](https://habr.com/ru/articles/1106288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106288)
+- [Добавляем перегрузки функций в JavaScript](https://habr.com/ru/articles/1104748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104748)
+- [Во имя безопасности: как обновление Ubuntu 26.04 может положить вам прод](https://habr.com/ru/articles/1106282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106282)
+- [Мы написали 12 поставщикам LLM API с готовностью тратить $30 000 в месяц. Большинство даже не ответили](https://habr.com/ru/articles/1106280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106280)
+- [Как я на 4-й день пентеста чуть не принял 500-ку за RCE](https://habr.com/ru/articles/1106270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106270)
 <!-- BLOG-POST-LIST:END -->
 
 ---
