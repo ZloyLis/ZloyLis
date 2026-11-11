@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Я написала промпт по‑русски. Два агента перестали искать решение в интернете](https://habr.com/ru/articles/1106298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106298)
-- [[Перевод] Что каждый программист должен знать о переполнении стекового буфера](https://habr.com/ru/articles/1106296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106296)
-- [Агентная система для тех, кто вкатывается: собираем агента поддержки от одного файла до Temporal, саги и circuit breaker](https://habr.com/ru/articles/1106294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106294)
-- [А как бы это выглядело на C? Спрашивайте чаще](https://habr.com/ru/articles/1106288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106288)
-- [Добавляем перегрузки функций в JavaScript](https://habr.com/ru/articles/1104748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104748)
+- [Хлебные единицы по фото: как я сделал приложение для сына с диабетом 1 типа и сколько стоит одно распознавание](https://habr.com/ru/articles/1106444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106444)
+- [Будильник, который точно звонит: что я узнал о точных напоминаниях на Android, пока делал планер](https://habr.com/ru/articles/1106440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106440)
+- [Rawline: зачем форкать Throne, объединять десятки транспортов и разбираться с утечками VPN на Android](https://habr.com/ru/articles/1106426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106426)
+- [Mediascope: месячная аудитория RuStore выросла на 17%, а Google Play потерял 3% пользователей в России](https://habr.com/ru/articles/1106414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106414)
+- [Человек-ракета. Реактивный базис на F# и Godot. Ступень 1. По стопам прогресса](https://habr.com/ru/companies/first/articles/1105918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105918)
 <!-- BLOG-POST-LIST:END -->
 
 ---
