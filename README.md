@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Борьба с ложными состояниями: взгляд из C++ на Rust-дилеммы и реактивный код](https://habr.com/ru/articles/1106116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106116)
-- [Как посчитать экономику авиарейса и парка: формулы, допущения](https://habr.com/ru/articles/1106754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106754)
-- [Как разбирать HTML в 10–30 раз быстрее HtmlAgilityPack и AngleSharp: список вместо DOM](https://habr.com/ru/articles/1106746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106746)
-- [Рейтинг Рунета: новые стандарты GEO и оценка результата](https://habr.com/ru/articles/1106742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106742)
-- [Shopify отказалась от React Native в пользу Swift и Kotlin](https://habr.com/ru/articles/1106734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106734)
+- [Конец легенды… или как лучшие гаджеты уходят на покой от старости](https://habr.com/ru/articles/1106880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106880)
+- [Как я сделал игру в браузере с 0 опыта в геймдеве](https://habr.com/ru/articles/1106870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106870)
+- [Деплой на VPS по push без SSH-ключей в CI: архитектура cd, механика OIDC и границы применимости](https://habr.com/ru/articles/1106874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106874)
+- [Где еще можно обманывать игрока](https://habr.com/ru/articles/1106312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106312)
+- [[recovery mode] Как устроена головоломка про логические схемы, в которую играют не только инженеры](https://habr.com/ru/articles/1106852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106852)
 <!-- BLOG-POST-LIST:END -->
 
 ---
