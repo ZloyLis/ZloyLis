@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Хлебные единицы по фото: как я сделал приложение для сына с диабетом 1 типа и сколько стоит одно распознавание](https://habr.com/ru/articles/1106444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106444)
-- [Будильник, который точно звонит: что я узнал о точных напоминаниях на Android, пока делал планер](https://habr.com/ru/articles/1106440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106440)
-- [Rawline: зачем форкать Throne, объединять десятки транспортов и разбираться с утечками VPN на Android](https://habr.com/ru/articles/1106426/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106426)
-- [Mediascope: месячная аудитория RuStore выросла на 17%, а Google Play потерял 3% пользователей в России](https://habr.com/ru/articles/1106414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106414)
-- [Человек-ракета. Реактивный базис на F# и Godot. Ступень 1. По стопам прогресса](https://habr.com/ru/companies/first/articles/1105918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105918)
+- [Борьба с ложными состояниями: взгляд из C++ на Rust-дилеммы и реактивный код](https://habr.com/ru/articles/1106116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106116)
+- [Как посчитать экономику авиарейса и парка: формулы, допущения](https://habr.com/ru/articles/1106754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106754)
+- [Как разбирать HTML в 10–30 раз быстрее HtmlAgilityPack и AngleSharp: список вместо DOM](https://habr.com/ru/articles/1106746/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106746)
+- [Рейтинг Рунета: новые стандарты GEO и оценка результата](https://habr.com/ru/articles/1106742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106742)
+- [Shopify отказалась от React Native в пользу Swift и Kotlin](https://habr.com/ru/articles/1106734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106734)
 <!-- BLOG-POST-LIST:END -->
 
 ---
