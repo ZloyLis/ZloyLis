@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Я написала промпт по‑русски. Два агента перестали искать решение в интернете](https://habr.com/ru/articles/1106298/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106298)
+- [[Перевод] Что каждый программист должен знать о переполнении стекового буфера](https://habr.com/ru/articles/1106296/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106296)
+- [Агентная система для тех, кто вкатывается: собираем агента поддержки от одного файла до Temporal, саги и circuit breaker](https://habr.com/ru/articles/1106294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106294)
 - [А как бы это выглядело на C? Спрашивайте чаще](https://habr.com/ru/articles/1106288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106288)
-- [Добавляем перегрузки функций в JavaScript](https://habr.com/ru/articles/1104748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104748)
-- [Во имя безопасности: как обновление Ubuntu 26.04 может положить вам прод](https://habr.com/ru/articles/1106282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106282)
-- [Мы написали 12 поставщикам LLM API с готовностью тратить $30 000 в месяц. Большинство даже не ответили](https://habr.com/ru/articles/1106280/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106280)
-- [Как я на 4-й день пентеста чуть не принял 500-ку за RCE](https://habr.com/ru/articles/1106270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106270)
+- [Добавляем перегрузки функций в JavaScript](https://habr.com/ru/articles/1104748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104748)
 <!-- BLOG-POST-LIST:END -->
 
 ---
