@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Конец легенды… или как лучшие гаджеты уходят на покой от старости](https://habr.com/ru/articles/1106880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106880)
-- [Как я сделал игру в браузере с 0 опыта в геймдеве](https://habr.com/ru/articles/1106870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106870)
-- [Деплой на VPS по push без SSH-ключей в CI: архитектура cd, механика OIDC и границы применимости](https://habr.com/ru/articles/1106874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106874)
-- [Где еще можно обманывать игрока](https://habr.com/ru/articles/1106312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106312)
-- [[recovery mode] Как устроена головоломка про логические схемы, в которую играют не только инженеры](https://habr.com/ru/articles/1106852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106852)
+- [[Перевод] Flutter 3.50 — Что нового во Flutter?](https://habr.com/ru/articles/1106888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106888)
+- [Софт для аудиокниг](https://habr.com/ru/articles/1106896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106896)
+- [Отказоустойчивость Kubernetes-кластера: практика тестирования](https://habr.com/ru/companies/dbraincloud/articles/1106752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106752)
+- [GlobalSign начал новую волну отзыва сертификатов безопасности российских сайтов](https://habr.com/ru/articles/1106894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106894)
+- [Metadata Validator | GitHub  Теперь хардкор. Хотя если вы DevOps-инженер, то следующее объяснение будет для вас как...](https://habr.com/ru/articles/1102438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102438)
 <!-- BLOG-POST-LIST:END -->
 
 ---
