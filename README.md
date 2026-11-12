@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Flutter 3.50 — Что нового во Flutter?](https://habr.com/ru/articles/1106888/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106888)
-- [Софт для аудиокниг](https://habr.com/ru/articles/1106896/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106896)
-- [Отказоустойчивость Kubernetes-кластера: практика тестирования](https://habr.com/ru/companies/dbraincloud/articles/1106752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106752)
-- [GlobalSign начал новую волну отзыва сертификатов безопасности российских сайтов](https://habr.com/ru/articles/1106894/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106894)
-- [Metadata Validator | GitHub  Теперь хардкор. Хотя если вы DevOps-инженер, то следующее объяснение будет для вас как...](https://habr.com/ru/articles/1102438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102438)
+- [Как уместить генератор обложек, визиток и постеров в один HTML-файл: Canvas, миллиметры и никакого сервера](https://habr.com/ru/articles/1107224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107224)
+- [Что происходит с ТСД после выдачи сотруднику: как устроен MDM для промышленного Android-парка](https://habr.com/ru/companies/cleverence/articles/1107208/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107208)
+- [Приложение для изучения китайского. Спустя полгода](https://habr.com/ru/articles/1107194/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107194)
+- [Научили ИИ перестраивать расписание авиарейсов в непредсказуемых ситуациях: реальный кейс](https://habr.com/ru/articles/1107192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107192)
+- [Новая книга по Spring Security. Насколько это актуально сегодня?](https://habr.com/ru/companies/spring_aio/articles/1107158/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107158)
 <!-- BLOG-POST-LIST:END -->
 
 ---
