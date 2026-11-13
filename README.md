@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [TurboJedi: три недели спустя](https://habr.com/ru/articles/1107514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107514)
-- [[recovery mode] Теорема Байеса в реальной жизни — это не про формулу](https://habr.com/ru/articles/1107510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107510)
-- [[recovery mode] Автоматизация релизов Java-монолита в закрытом контуре: замена maven-release-plugin на JGit](https://habr.com/ru/articles/1107502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107502)
-- [[Перевод] Три оригинальных метода измерения расстояний до звёзд &lpar;исторический обзор&rpar;](https://habr.com/ru/articles/1106864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106864)
-- [Почему AI‑агент забывает правила проекта между сессиями и как это исправить с помощью AGENTS.md](https://habr.com/ru/companies/otus/articles/1101906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101906)
+- [Как мы возрождаем Ксин: восстанавливаем боёвку по архивам и собираем бестиарий из Wayback Machine](https://habr.com/ru/articles/1107700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107700)
+- [Вывод масс кварков и лептонов &lpar;продолжая Койде&rpar;](https://habr.com/ru/articles/1107576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107576)
+- [Paprium: почему я считаю его посредственной поделкой, раздутой маркетингом &lpar;мое субъективное мнение, прошу это учесть&rpar;](https://habr.com/ru/articles/1107694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107694)
+- [Как мне прислали предложение о работе, а внутри ZIP спрятали запуск вредоносного кода через Git](https://habr.com/ru/articles/1107692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107692)
+- [«Уязвимости нет, и мы её исправили»: первая неделя HTML-виджетов в Telegram](https://habr.com/ru/articles/1107658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107658)
 <!-- BLOG-POST-LIST:END -->
 
 ---
