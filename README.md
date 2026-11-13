@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Нефть и змеевики](https://habr.com/ru/articles/1107284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107284)
 - [Я сделал продукт, который полюбили. Хотя мне говорили, что он никому не нужен](https://habr.com/ru/articles/1107254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107254)
 - [Как работать с кодинг агентами &lpar;Claude Code, Codex, Gemini CLI, Antigravity CLI&rpar; через Telegram](https://habr.com/ru/articles/1107278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107278)
 - [Skills + Code Mode MCP: как я научил ИИ‑агента пользоваться сотнями инструментов и не раздувать контекст](https://habr.com/ru/articles/1107276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107276)
 - [Универсальный ридер кодов libscanner‑unir против zxing‑cpp, ZBar и OpenCV на 6900 снимках из открытых наборов](https://habr.com/ru/articles/1107274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107274)
-- [Вышел Cozystack v1.7.0: поддержка ARM, Proxmox как альтернатива KubeVirt, автоматическая миграция с VMware и другое](https://habr.com/ru/companies/aenix/articles/1106842/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106842)
 <!-- BLOG-POST-LIST:END -->
 
 ---
