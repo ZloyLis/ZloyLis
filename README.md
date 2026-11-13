@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Нефть и змеевики](https://habr.com/ru/articles/1107284/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107284)
-- [Я сделал продукт, который полюбили. Хотя мне говорили, что он никому не нужен](https://habr.com/ru/articles/1107254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107254)
-- [Как работать с кодинг агентами &lpar;Claude Code, Codex, Gemini CLI, Antigravity CLI&rpar; через Telegram](https://habr.com/ru/articles/1107278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107278)
-- [Skills + Code Mode MCP: как я научил ИИ‑агента пользоваться сотнями инструментов и не раздувать контекст](https://habr.com/ru/articles/1107276/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107276)
-- [Универсальный ридер кодов libscanner‑unir против zxing‑cpp, ZBar и OpenCV на 6900 снимках из открытых наборов](https://habr.com/ru/articles/1107274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107274)
+- [TurboJedi: три недели спустя](https://habr.com/ru/articles/1107514/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107514)
+- [[recovery mode] Теорема Байеса в реальной жизни — это не про формулу](https://habr.com/ru/articles/1107510/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107510)
+- [[recovery mode] Автоматизация релизов Java-монолита в закрытом контуре: замена maven-release-plugin на JGit](https://habr.com/ru/articles/1107502/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107502)
+- [[Перевод] Три оригинальных метода измерения расстояний до звёзд &lpar;исторический обзор&rpar;](https://habr.com/ru/articles/1106864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106864)
+- [Почему AI‑агент забывает правила проекта между сессиями и как это исправить с помощью AGENTS.md](https://habr.com/ru/companies/otus/articles/1101906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101906)
 <!-- BLOG-POST-LIST:END -->
 
 ---
