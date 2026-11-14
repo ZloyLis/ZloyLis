@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ваш лучший разработчик работает диспетчером: закулисье двух внедрений Service Desk](https://habr.com/ru/articles/1107602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107602)
-- [Duck: DuckDB для Swift. Мощный SQL прямо в iOS и macOS приложениях](https://habr.com/ru/articles/1107762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107762)
-- [Финальный день INFOSTART A&amp;amp;PM EVENT 2026: ИИ в проектах и «Открытый микрофон»](https://habr.com/ru/companies/infostart/articles/1107282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107282)
-- [Сдвиги вместо MUL на 8088: по таблице выигрыш у всех констант, с учётом выборки байтов — по расчёту у 9–21%](https://habr.com/ru/articles/1107760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107760)
-- [Тусмав, он же Густав: как я с ИИ писал каталог домашней библиотеки](https://habr.com/ru/articles/1107758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107758)
+- [Лечение Java-монолита с Claude](https://habr.com/ru/articles/1107882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107882)
+- [Полярные коды: изучаем код &lpar;8, 4&rpar; на бумаге и в несколько строк C++](https://habr.com/ru/articles/1102286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102286)
+- [Как читать графики из панели performance devtools chrome](https://habr.com/ru/articles/1107872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107872)
+- [Как в ответы ИИ попасть медицинскому сайту с комплаенсом](https://habr.com/ru/articles/1107862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107862)
+- [Bluetooth станет в четыре раза быстрее: что происходит и почему?](https://habr.com/ru/companies/ru_mts/articles/1107186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107186)
 <!-- BLOG-POST-LIST:END -->
 
 ---
