@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Почему с ИИ мы всё ещё пишем плохой софт](https://habr.com/ru/articles/1107946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107946)
+- [[Перевод] Проблема торга](https://habr.com/ru/articles/1100308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100308)
 - [Семь способов обмануть себя метриками: как я измерял точность ИИ-проверки ЕГЭ](https://habr.com/ru/articles/1107926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107926)
 - [АСУТП лиофилизационной установки](https://habr.com/ru/articles/1107730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107730)
-- [Как формируется настоящее мастерство](https://habr.com/ru/articles/1073512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073512)
 - [Агентоцентричные бизнес-процессы. Да? Нет? Не знаю?](https://habr.com/ru/articles/1107910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107910)
-- [Достаточно «Искры» одной…](https://habr.com/ru/articles/1107906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107906)
 <!-- BLOG-POST-LIST:END -->
 
 ---
