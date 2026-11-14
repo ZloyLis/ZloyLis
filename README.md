@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] The history of Kubernetes](https://habr.com/ru/articles/1107734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107734)
+- [Жизнь не должна оправдывать своё существование полезностью](https://habr.com/ru/articles/1107732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107732)
+- [3 базы данных в Docker за один вечер: PostgreSQL 18 + ClickHouse 26.8 + Qdrant 1.19](https://habr.com/ru/articles/1107724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107724)
+- [Мы проверили 500 сайтов малого бизнеса Перми и Екатеринбурга: что ломают зарубежные сервисы](https://habr.com/ru/articles/1107718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107718)
 - [Как мы возрождаем Ксин: восстанавливаем боёвку по архивам и собираем бестиарий из Wayback Machine](https://habr.com/ru/articles/1107700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107700)
-- [Вывод масс кварков и лептонов &lpar;продолжая Койде&rpar;](https://habr.com/ru/articles/1107576/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107576)
-- [Paprium: почему я считаю его посредственной поделкой, раздутой маркетингом &lpar;мое субъективное мнение, прошу это учесть&rpar;](https://habr.com/ru/articles/1107694/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107694)
-- [Как мне прислали предложение о работе, а внутри ZIP спрятали запуск вредоносного кода через Git](https://habr.com/ru/articles/1107692/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107692)
-- [«Уязвимости нет, и мы её исправили»: первая неделя HTML-виджетов в Telegram](https://habr.com/ru/articles/1107658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107658)
 <!-- BLOG-POST-LIST:END -->
 
 ---
