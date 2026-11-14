@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] The history of Kubernetes](https://habr.com/ru/articles/1107734/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107734)
-- [Жизнь не должна оправдывать своё существование полезностью](https://habr.com/ru/articles/1107732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107732)
-- [3 базы данных в Docker за один вечер: PostgreSQL 18 + ClickHouse 26.8 + Qdrant 1.19](https://habr.com/ru/articles/1107724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107724)
-- [Мы проверили 500 сайтов малого бизнеса Перми и Екатеринбурга: что ломают зарубежные сервисы](https://habr.com/ru/articles/1107718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107718)
-- [Как мы возрождаем Ксин: восстанавливаем боёвку по архивам и собираем бестиарий из Wayback Machine](https://habr.com/ru/articles/1107700/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107700)
+- [Ваш лучший разработчик работает диспетчером: закулисье двух внедрений Service Desk](https://habr.com/ru/articles/1107602/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107602)
+- [Duck: DuckDB для Swift. Мощный SQL прямо в iOS и macOS приложениях](https://habr.com/ru/articles/1107762/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107762)
+- [Финальный день INFOSTART A&amp;amp;PM EVENT 2026: ИИ в проектах и «Открытый микрофон»](https://habr.com/ru/companies/infostart/articles/1107282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107282)
+- [Сдвиги вместо MUL на 8088: по таблице выигрыш у всех констант, с учётом выборки байтов — по расчёту у 9–21%](https://habr.com/ru/articles/1107760/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107760)
+- [Тусмав, он же Густав: как я с ИИ писал каталог домашней библиотеки](https://habr.com/ru/articles/1107758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107758)
 <!-- BLOG-POST-LIST:END -->
 
 ---
