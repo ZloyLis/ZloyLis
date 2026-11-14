@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Лечение Java-монолита с Claude](https://habr.com/ru/articles/1107882/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107882)
-- [Полярные коды: изучаем код &lpar;8, 4&rpar; на бумаге и в несколько строк C++](https://habr.com/ru/articles/1102286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102286)
-- [Как читать графики из панели performance devtools chrome](https://habr.com/ru/articles/1107872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107872)
-- [Как в ответы ИИ попасть медицинскому сайту с комплаенсом](https://habr.com/ru/articles/1107862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107862)
-- [Bluetooth станет в четыре раза быстрее: что происходит и почему?](https://habr.com/ru/companies/ru_mts/articles/1107186/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107186)
+- [Семь способов обмануть себя метриками: как я измерял точность ИИ-проверки ЕГЭ](https://habr.com/ru/articles/1107926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107926)
+- [АСУТП лиофилизационной установки](https://habr.com/ru/articles/1107730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107730)
+- [Как формируется настоящее мастерство](https://habr.com/ru/articles/1073512/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073512)
+- [Агентоцентричные бизнес-процессы. Да? Нет? Не знаю?](https://habr.com/ru/articles/1107910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107910)
+- [Достаточно «Искры» одной…](https://habr.com/ru/articles/1107906/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107906)
 <!-- BLOG-POST-LIST:END -->
 
 ---
