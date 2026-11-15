@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Разоблачаем магию deb-пакетов](https://habr.com/ru/articles/1108038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108038)
-- [Месть за голосовые: генерирую видео с печатающими руками прямо в браузере](https://habr.com/ru/articles/1108048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108048)
-- [В браузере Opera для iOS появился режим сжатия веб‑страниц](https://habr.com/ru/articles/1108010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108010)
-- [Почему не сохранялись навыки учеников, хотя код был готов. Три ошибки при передаче данных между сервисами](https://habr.com/ru/articles/1108008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108008)
-- [Cloudflare открыла исходный код Kitesurf — браузерного движка для AI‑агентов](https://habr.com/ru/articles/1107996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107996)
+- [Вселенные — ловушки, и нарушение антропного принципа](https://habr.com/ru/articles/1108114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108114)
+- [Имитационное моделирование &lpar;DES&rpar;, часть 2: как очереди съедают прибыль](https://habr.com/ru/articles/1108104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108104)
+- [Slyber SFU Server — WebRTC медиароутер для звонков, вебинаров и ИИ ботов](https://habr.com/ru/articles/1108112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108112)
+- [Четыре символа мимо SSRF-фильтра: зона IPv6 и netip.Prefix.Contains в Go](https://habr.com/ru/articles/1108098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108098)
+- [[recovery mode] ИИ за неделю — Claude Fable 5.2, Gemini и новые бенчмарки: 9–15 ноября](https://habr.com/ru/companies/bothub/articles/1108060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108060)
 <!-- BLOG-POST-LIST:END -->
 
 ---
