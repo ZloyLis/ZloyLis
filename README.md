@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Вселенные — ловушки, и нарушение антропного принципа](https://habr.com/ru/articles/1108114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108114)
+- [[recovery mode] Тихая делегация: карта рисков агентного ИИ на реальных примерах](https://habr.com/ru/articles/1108122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108122)
+- [Изъяны маркетолога — Какие они бывают и что с ними делать](https://habr.com/ru/articles/1108148/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108148)
+- [Вселенные — ловушки, и нарушение антропного принципа](https://habr.com/ru/articles/1108114/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108114)
 - [Имитационное моделирование &lpar;DES&rpar;, часть 2: как очереди съедают прибыль](https://habr.com/ru/articles/1108104/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108104)
-- [Slyber SFU Server — WebRTC медиароутер для звонков, вебинаров и ИИ ботов](https://habr.com/ru/articles/1108112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108112)
-- [Четыре символа мимо SSRF-фильтра: зона IPv6 и netip.Prefix.Contains в Go](https://habr.com/ru/articles/1108098/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108098)
-- [[recovery mode] ИИ за неделю — Claude Fable 5.2, Gemini и новые бенчмарки: 9–15 ноября](https://habr.com/ru/companies/bothub/articles/1108060/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108060)
+- [Slyber SFU Server — WebRTC медиароутер для звонков, вебинаров и ИИ ботов](https://habr.com/ru/articles/1108112/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108112)
 <!-- BLOG-POST-LIST:END -->
 
 ---
