@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Аудит MIT-p50c для Qwen3.5-0.8B и редактирование весов с сохранением норм &lpar;SGNE-CC&rpar; при лимите 32 768 токенов](https://habr.com/ru/articles/1107950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107950)
+- [Сборка AOSP на MacBook, или Приключения Android-разработчика](https://habr.com/ru/articles/1107948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107948)
 - [Почему с ИИ мы всё ещё пишем плохой софт](https://habr.com/ru/articles/1107946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107946)
 - [[Перевод] Проблема торга](https://habr.com/ru/articles/1100308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100308)
 - [Семь способов обмануть себя метриками: как я измерял точность ИИ-проверки ЕГЭ](https://habr.com/ru/articles/1107926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107926)
-- [АСУТП лиофилизационной установки](https://habr.com/ru/articles/1107730/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107730)
-- [Агентоцентричные бизнес-процессы. Да? Нет? Не знаю?](https://habr.com/ru/articles/1107910/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107910)
 <!-- BLOG-POST-LIST:END -->
 
 ---
