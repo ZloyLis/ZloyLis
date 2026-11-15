@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Аудит MIT-p50c для Qwen3.5-0.8B и редактирование весов с сохранением норм &lpar;SGNE-CC&rpar; при лимите 32 768 токенов](https://habr.com/ru/articles/1107950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107950)
-- [Сборка AOSP на MacBook, или Приключения Android-разработчика](https://habr.com/ru/articles/1107948/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107948)
-- [Почему с ИИ мы всё ещё пишем плохой софт](https://habr.com/ru/articles/1107946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107946)
-- [[Перевод] Проблема торга](https://habr.com/ru/articles/1100308/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100308)
-- [Семь способов обмануть себя метриками: как я измерял точность ИИ-проверки ЕГЭ](https://habr.com/ru/articles/1107926/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107926)
+- [Разоблачаем магию deb-пакетов](https://habr.com/ru/articles/1108038/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108038)
+- [Месть за голосовые: генерирую видео с печатающими руками прямо в браузере](https://habr.com/ru/articles/1108048/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108048)
+- [В браузере Opera для iOS появился режим сжатия веб‑страниц](https://habr.com/ru/articles/1108010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108010)
+- [Почему не сохранялись навыки учеников, хотя код был готов. Три ошибки при передаче данных между сервисами](https://habr.com/ru/articles/1108008/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108008)
+- [Cloudflare открыла исходный код Kitesurf — браузерного движка для AI‑агентов](https://habr.com/ru/articles/1107996/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107996)
 <!-- BLOG-POST-LIST:END -->
 
 ---
