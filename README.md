@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Корпоративная база знаний на базе ИИ](https://habr.com/ru/companies/itglobalcom/articles/1108414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108414)
-- [От «правильного хранения» персональных данных — к нехранению](https://habr.com/ru/articles/1108504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108504)
-- [[recovery mode] «Не воспроизводится»: как склеить rage click, JS-исключение и упавший запрос в один инцидент](https://habr.com/ru/articles/1108474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108474)
-- [Как оптимизировать корутины C++ в компиляторах](https://habr.com/ru/companies/yadro/articles/1108338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108338)
-- [Как перенести Telegram-бота в MAX: каталог, заказ и очередь обновлений](https://habr.com/ru/articles/1108462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108462)
+- [Сколько стоит узнать, что у бриттона сто хитов](https://habr.com/ru/articles/1108452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108452)
+- [Можете разнести мой Telegram‑клиент?](https://habr.com/ru/articles/1108628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108628)
+- [Как я встроил шесть игр на память и логику в Obsidian](https://habr.com/ru/articles/1108282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108282)
+- [Почему 94% ИИ‑ответов игнорируют сайты самих компаний](https://habr.com/ru/articles/1108582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108582)
+- [Вышел проект Android Time Machine — пять онлайн‑смартфонов Nexus с классическими версиями Android 2.1 — 7.1](https://habr.com/ru/articles/1108566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108566)
 <!-- BLOG-POST-LIST:END -->
 
 ---
