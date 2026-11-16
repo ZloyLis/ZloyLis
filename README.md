@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Abyss Tasks | GitHub | Reddit  Я обожаю плагин Tasks. Думаю, что по количеству нажатых чекбоксов в Obsidian я уже давно...](https://habr.com/ru/articles/1102440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102440)
-- [Рейтинг языков программирования TIOBE в ноябре 2026 года: Rust уступал место Go в топ-10, а Dart вытеснил Julia в топ-20](https://habr.com/ru/articles/1108092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108092)
-- [Вышло обновление Phiola 2.15 — открытого портативного мультиплатформенного аудиоплеера с поддержкой скриптов](https://habr.com/ru/articles/1108006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108006)
-- [Хватит жечь токены на поиск файлов: как QMD помогает кодинг-агентам экономить до 40%](https://habr.com/ru/articles/1108142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108142)
-- [[recovery mode] Тихая делегация: карта рисков агентного ИИ на реальных примерах](https://habr.com/ru/articles/1108122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108122)
+- [Корпоративная база знаний на базе ИИ](https://habr.com/ru/companies/itglobalcom/articles/1108414/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108414)
+- [От «правильного хранения» персональных данных — к нехранению](https://habr.com/ru/articles/1108504/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108504)
+- [[recovery mode] «Не воспроизводится»: как склеить rage click, JS-исключение и упавший запрос в один инцидент](https://habr.com/ru/articles/1108474/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108474)
+- [Как оптимизировать корутины C++ в компиляторах](https://habr.com/ru/companies/yadro/articles/1108338/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108338)
+- [Как перенести Telegram-бота в MAX: каталог, заказ и очередь обновлений](https://habr.com/ru/articles/1108462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108462)
 <!-- BLOG-POST-LIST:END -->
 
 ---
