@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Запретный плод: возвращаем на iOS делистнутые из App Store приложения без кабеля](https://habr.com/ru/articles/1109020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109020)
-- [Как ускорить A* в пробках в 10 раз](https://habr.com/ru/articles/1109016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109016)
-- [Ссылка или код? Сравниваем не два, а три способа входа по email: какой безопаснее и удобнее](https://habr.com/ru/companies/veriqa/articles/1108892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108892)
-- [Что поручить ИИ в финблоке: четыре области применения](https://habr.com/ru/articles/1107690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107690)
-- [Обновили pandas, и ноутбук работает без ошибок. Только считает уже другое](https://habr.com/ru/companies/otus/articles/1105238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105238)
+- [Палеокомпьютинг, часть 4. Ещё две Ады: восстанавливаем языки, которые Пентагон не допустил к финалу своего тендера](https://habr.com/ru/companies/aenix/articles/1109118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109118)
+- [[recovery mode] OpenAI выпустила GPT-6.2: обгоняет Claude Opus 5.5 и стоит в разы дешевле. Но есть нюансы](https://habr.com/ru/articles/1109080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109080)
+- [Вам не нужны примитивные типы и коллекции](https://habr.com/ru/articles/1109064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109064)
+- [Шардинг PostgreSQL без потери ACID: как мы построили Postgres Pro Shardman](https://habr.com/ru/companies/postgrespro/articles/1108408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108408)
+- [Глобальный сбой в работе сервисов Apple, включая App Store и iCloud](https://habr.com/ru/articles/1109058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109058)
 <!-- BLOG-POST-LIST:END -->
 
 ---
