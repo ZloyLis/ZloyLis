@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [iPhone 16 Pro вырезает звук двигателя, даже если держать телефон совсем рядом](https://habr.com/ru/articles/1100412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100412)
-- [Я хотел, чтобы ИИ сам вносил правки в Word. И у меня получилось](https://habr.com/ru/articles/1108612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108612)
-- [Как создать собственную систему рекомендаций для YouTube с помощью AI: пошаговый гайд](https://habr.com/ru/articles/1108384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108384)
-- [Пользовательские УГО электрооборудования и типы линий трасс в nanoCAD BIM: как привести чертежи к своим стандартам](https://habr.com/ru/companies/nanosoft/articles/1108492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108492)
-- [Sextant 0.30: ядро ушло в расширения](https://habr.com/ru/articles/1108656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108656)
+- [Запретный плод: возвращаем на iOS делистнутые из App Store приложения без кабеля](https://habr.com/ru/articles/1109020/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109020)
+- [Как ускорить A* в пробках в 10 раз](https://habr.com/ru/articles/1109016/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109016)
+- [Ссылка или код? Сравниваем не два, а три способа входа по email: какой безопаснее и удобнее](https://habr.com/ru/companies/veriqa/articles/1108892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108892)
+- [Что поручить ИИ в финблоке: четыре области применения](https://habr.com/ru/articles/1107690/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107690)
+- [Обновили pandas, и ноутбук работает без ошибок. Только считает уже другое](https://habr.com/ru/companies/otus/articles/1105238/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105238)
 <!-- BLOG-POST-LIST:END -->
 
 ---
