@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Сколько стоит узнать, что у бриттона сто хитов](https://habr.com/ru/articles/1108452/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108452)
-- [Можете разнести мой Telegram‑клиент?](https://habr.com/ru/articles/1108628/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108628)
-- [Как я встроил шесть игр на память и логику в Obsidian](https://habr.com/ru/articles/1108282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108282)
-- [Почему 94% ИИ‑ответов игнорируют сайты самих компаний](https://habr.com/ru/articles/1108582/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108582)
-- [Вышел проект Android Time Machine — пять онлайн‑смартфонов Nexus с классическими версиями Android 2.1 — 7.1](https://habr.com/ru/articles/1108566/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108566)
+- [iPhone 16 Pro вырезает звук двигателя, даже если держать телефон совсем рядом](https://habr.com/ru/articles/1100412/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1100412)
+- [Я хотел, чтобы ИИ сам вносил правки в Word. И у меня получилось](https://habr.com/ru/articles/1108612/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108612)
+- [Как создать собственную систему рекомендаций для YouTube с помощью AI: пошаговый гайд](https://habr.com/ru/articles/1108384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108384)
+- [Пользовательские УГО электрооборудования и типы линий трасс в nanoCAD BIM: как привести чертежи к своим стандартам](https://habr.com/ru/companies/nanosoft/articles/1108492/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108492)
+- [Sextant 0.30: ядро ушло в расширения](https://habr.com/ru/articles/1108656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108656)
 <!-- BLOG-POST-LIST:END -->
 
 ---
