@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Квантовый нервный тик,](https://habr.com/ru/articles/1109010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109010)
-- [Заказ в базе есть, события в Kafka нет: где теряются сообщения между двумя системами](https://habr.com/ru/companies/otus/articles/1105234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105234)
-- [[recovery mode] Гипотетическая вселенная построенная на двух аксиомах](https://habr.com/ru/articles/1109544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109544)
-- [От одного вендора к другому: что держит приложение на старом железе, если везде Android?](https://habr.com/ru/articles/1109536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109536)
-- [Разрабатываем первую в России вендор-нейтральную сертификацию по облакам](https://habr.com/ru/companies/cloud_ru/articles/1109530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109530)
+- [Управление памятью в контейнерах STL. Ускоряем код с помощью кастомных аллокаторов](https://habr.com/ru/articles/1102204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102204)
+- [Click SHOP API: подпись, Prepare и Complete, и ночная сверка, которая ловит «оплачено, а заказа нет»](https://habr.com/ru/articles/1109616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109616)
+- [Payme Merchant API: песочница шлёт каждый запрос дважды, и это лучший тест вашей интеграции](https://habr.com/ru/articles/1109614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109614)
+- [Понятие «Технологии искусственного интеллекта» в нормативных актах РФ](https://habr.com/ru/articles/1109594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109594)
+- [Как захватить звук на Mac и не попасть впросак](https://habr.com/ru/articles/1109578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109578)
 <!-- BLOG-POST-LIST:END -->
 
 ---
