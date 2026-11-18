@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [От требований до архитектуры: какие навыки помогут аналитику расти в 2027 году?](https://habr.com/ru/companies/otus/articles/1108876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108876)
-- [Wiring — десктопный IDE для Kubernetes, который показывает, как ресурсы связаны друг с другом](https://habr.com/ru/articles/1109168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109168)
-- [Вышло обновление Phosh 0.59 — проект GNOME‑окружения для смартфонов](https://habr.com/ru/articles/1108666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108666)
-- [Не Клодом единым — как после бана я переписал командный плагин на разные хосты моделей](https://habr.com/ru/articles/1109094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109094)
-- [Палеокомпьютинг, часть 4. Ещё две Ады: восстанавливаем языки, которые Пентагон не допустил к финалу своего тендера](https://habr.com/ru/companies/aenix/articles/1109118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109118)
+- [Квантовый нервный тик,](https://habr.com/ru/articles/1109010/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109010)
+- [Заказ в базе есть, события в Kafka нет: где теряются сообщения между двумя системами](https://habr.com/ru/companies/otus/articles/1105234/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105234)
+- [[recovery mode] Гипотетическая вселенная построенная на двух аксиомах](https://habr.com/ru/articles/1109544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109544)
+- [От одного вендора к другому: что держит приложение на старом железе, если везде Android?](https://habr.com/ru/articles/1109536/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109536)
+- [Разрабатываем первую в России вендор-нейтральную сертификацию по облакам](https://habr.com/ru/companies/cloud_ru/articles/1109530/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109530)
 <!-- BLOG-POST-LIST:END -->
 
 ---
