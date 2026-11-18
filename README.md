@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [От требований до архитектуры: какие навыки помогут аналитику расти в 2027 году?](https://habr.com/ru/companies/otus/articles/1108876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108876)
+- [Wiring — десктопный IDE для Kubernetes, который показывает, как ресурсы связаны друг с другом](https://habr.com/ru/articles/1109168/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109168)
+- [Вышло обновление Phosh 0.59 — проект GNOME‑окружения для смартфонов](https://habr.com/ru/articles/1108666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108666)
+- [Не Клодом единым — как после бана я переписал командный плагин на разные хосты моделей](https://habr.com/ru/articles/1109094/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109094)
 - [Палеокомпьютинг, часть 4. Ещё две Ады: восстанавливаем языки, которые Пентагон не допустил к финалу своего тендера](https://habr.com/ru/companies/aenix/articles/1109118/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109118)
-- [[recovery mode] OpenAI выпустила GPT-6.2: обгоняет Claude Opus 5.5 и стоит в разы дешевле. Но есть нюансы](https://habr.com/ru/articles/1109080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109080)
-- [Вам не нужны примитивные типы и коллекции](https://habr.com/ru/articles/1109064/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109064)
-- [Шардинг PostgreSQL без потери ACID: как мы построили Postgres Pro Shardman](https://habr.com/ru/companies/postgrespro/articles/1108408/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108408)
-- [Глобальный сбой в работе сервисов Apple, включая App Store и iCloud](https://habr.com/ru/articles/1109058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109058)
 <!-- BLOG-POST-LIST:END -->
 
 ---
