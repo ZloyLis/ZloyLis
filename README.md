@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ретраи, которые вы добавили ради надёжности, не дают сервису подняться после сбоя](https://habr.com/ru/companies/otus/articles/1105244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105244)
-- [13 задач на Python в OpenCode: DeepSeek Flash обошёлся в $0,67, Claude Opus — в $8,76](https://habr.com/ru/articles/1109658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109658)
-- [XXII конференция «Свободное ПО в высшей школе» &lpar;OSEDUCONF-2027&rpar; состоится в февраля 2027 года в Переславле-Залесском](https://habr.com/ru/articles/1109192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109192)
-- [Представлен открытый проект Framecalm — это утилита для оптимизации Windows 10/11 под игры](https://habr.com/ru/articles/1109254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109254)
-- [Карманный сэнсэй: как заставить мини-читалку на ESP32 учить вас японскому](https://habr.com/ru/articles/1109626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109626)
+- [«Чеклист дел»: семейный планировщик на Fastify, React и PWA — архитектура и грабли](https://habr.com/ru/articles/1110014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110014)
+- [Преодолевая звуковой барьер в разработке ПО с ИИ](https://habr.com/ru/articles/1108644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108644)
+- [Зачем обработчику миниатюр столько полномочий? История MODX Gallery](https://habr.com/ru/articles/1109946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109946)
+- [Имя сайта, домен, DNS. Пока шла вся эта история, календарь услужливо подкинул драму…](https://habr.com/ru/articles/1109988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109988)
+- [[Перевод] Как проверить индексы PostgreSQL после генерации ИИ‑агентом и избежать лишней нагрузки на запись](https://habr.com/ru/companies/otus/articles/1107938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107938)
 <!-- BLOG-POST-LIST:END -->
 
 ---
