@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [«Чеклист дел»: семейный планировщик на Fastify, React и PWA — архитектура и грабли](https://habr.com/ru/articles/1110014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110014)
-- [Преодолевая звуковой барьер в разработке ПО с ИИ](https://habr.com/ru/articles/1108644/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108644)
-- [Зачем обработчику миниатюр столько полномочий? История MODX Gallery](https://habr.com/ru/articles/1109946/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109946)
-- [Имя сайта, домен, DNS. Пока шла вся эта история, календарь услужливо подкинул драму…](https://habr.com/ru/articles/1109988/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109988)
-- [[Перевод] Как проверить индексы PostgreSQL после генерации ИИ‑агентом и избежать лишней нагрузки на запись](https://habr.com/ru/companies/otus/articles/1107938/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107938)
+- [Реабилитация дотера: как человеку, потратившему всю жизнь на Dota 2 получить новую профессию](https://habr.com/ru/articles/1110090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110090)
+- [«Мы прогорели» — еще одна история «story stock»](https://habr.com/ru/articles/1107900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107900)
+- [Дружим OAuth и PDP](https://habr.com/ru/articles/1110058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110058)
+- [Почему нельзя просто соединить точки: как сгенерировать синтетический IMU, которому поверит VIO](https://habr.com/ru/articles/1110044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110044)
+- [Нужно ли бэкендеру разбираться в сетях?](https://habr.com/ru/companies/avito/articles/1110022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
