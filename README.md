@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Управление памятью в контейнерах STL. Ускоряем код с помощью кастомных аллокаторов](https://habr.com/ru/articles/1102204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102204)
-- [Click SHOP API: подпись, Prepare и Complete, и ночная сверка, которая ловит «оплачено, а заказа нет»](https://habr.com/ru/articles/1109616/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109616)
-- [Payme Merchant API: песочница шлёт каждый запрос дважды, и это лучший тест вашей интеграции](https://habr.com/ru/articles/1109614/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109614)
-- [Понятие «Технологии искусственного интеллекта» в нормативных актах РФ](https://habr.com/ru/articles/1109594/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109594)
-- [Как захватить звук на Mac и не попасть впросак](https://habr.com/ru/articles/1109578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109578)
+- [Ретраи, которые вы добавили ради надёжности, не дают сервису подняться после сбоя](https://habr.com/ru/companies/otus/articles/1105244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105244)
+- [13 задач на Python в OpenCode: DeepSeek Flash обошёлся в $0,67, Claude Opus — в $8,76](https://habr.com/ru/articles/1109658/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109658)
+- [XXII конференция «Свободное ПО в высшей школе» &lpar;OSEDUCONF-2027&rpar; состоится в февраля 2027 года в Переславле-Залесском](https://habr.com/ru/articles/1109192/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109192)
+- [Представлен открытый проект Framecalm — это утилита для оптимизации Windows 10/11 под игры](https://habr.com/ru/articles/1109254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109254)
+- [Карманный сэнсэй: как заставить мини-читалку на ESP32 учить вас японскому](https://habr.com/ru/articles/1109626/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109626)
 <!-- BLOG-POST-LIST:END -->
 
 ---
