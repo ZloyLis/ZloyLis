@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Правка SGNE-CC v2 для DeepSeek-R1-1.5B &lpar;T=0&rpar;: −87% зависаний, ответы в 2.7 раза короче и +11 п.п. на MATH-500](https://habr.com/ru/articles/1110462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110462)
-- [Технологии настоящего для экологии будущего: «БИОМИК» модернизирует проектирование рекультивации в nanoCAD GeoniCS](https://habr.com/ru/companies/nanosoft/articles/1110478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110478)
-- [Как мод для Claude Code собрал 1000 звёзд за десять дней](https://habr.com/ru/articles/1110470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110470)
-- [[Перевод] Быстрое деление 64-битных чисел с округлением вниз](https://habr.com/ru/articles/1102578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102578)
-- [От секунд до миллисекунд: как мы ускоряли динамические списки 1С в Tantor Postgres](https://habr.com/ru/companies/tantor/articles/1110212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110212)
+- [Доказательство гипотезы Римана с помощью ИИ](https://habr.com/ru/articles/1110558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110558)
+- [[recovery mode] Я неделю искал, как отключить подписку VK Workspace, а затем написал это…](https://habr.com/ru/articles/1110548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110548)
+- [[Перевод] Гипотеза Римана и Claude: заметки о работе над доказательством](https://habr.com/ru/articles/1110544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110544)
+- [Свайпомойка: чистилка галереи с механиками из Tinder на Capacitor](https://habr.com/ru/articles/1110534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110534)
+- [411 комментариев в pull request и другие задачи, которые мы отдали ИИ](https://habr.com/ru/companies/yoomoney/articles/1110422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110422)
 <!-- BLOG-POST-LIST:END -->
 
 ---
