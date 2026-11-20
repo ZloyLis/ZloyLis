@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Затащи меня в харнесс. Часть X. Принципы организации памяти, концепция дриминга](https://habr.com/ru/articles/1110086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110086)
-- [Пусть с тобой спорит мой ИИ-адвокат: как скучный протокол координации агентов вырос в судебную арену](https://habr.com/ru/articles/1109936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109936)
-- [Как я победил хаос в гараже и кладовке: пишем автономную систему адресного хранения на Go и React](https://habr.com/ru/articles/1110126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110126)
-- [В GPT‑6.2 для некоторых задач уже нужен KYC. Не станет ли это новым ограничением для обычных разработчиков?](https://habr.com/ru/articles/1110122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110122)
-- [Релиз PostgreSQL 19](https://habr.com/ru/articles/1110032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110032)
+- [Правка SGNE-CC v2 для DeepSeek-R1-1.5B &lpar;T=0&rpar;: −87% зависаний, ответы в 2.7 раза короче и +11 п.п. на MATH-500](https://habr.com/ru/articles/1110462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110462)
+- [Технологии настоящего для экологии будущего: «БИОМИК» модернизирует проектирование рекультивации в nanoCAD GeoniCS](https://habr.com/ru/companies/nanosoft/articles/1110478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110478)
+- [Как мод для Claude Code собрал 1000 звёзд за десять дней](https://habr.com/ru/articles/1110470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110470)
+- [[Перевод] Быстрое деление 64-битных чисел с округлением вниз](https://habr.com/ru/articles/1102578/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1102578)
+- [От секунд до миллисекунд: как мы ускоряли динамические списки 1С в Tantor Postgres](https://habr.com/ru/companies/tantor/articles/1110212/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110212)
 <!-- BLOG-POST-LIST:END -->
 
 ---
