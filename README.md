@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Реабилитация дотера: как человеку, потратившему всю жизнь на Dota 2 получить новую профессию](https://habr.com/ru/articles/1110090/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110090)
-- [«Мы прогорели» — еще одна история «story stock»](https://habr.com/ru/articles/1107900/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107900)
-- [Дружим OAuth и PDP](https://habr.com/ru/articles/1110058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110058)
-- [Почему нельзя просто соединить точки: как сгенерировать синтетический IMU, которому поверит VIO](https://habr.com/ru/articles/1110044/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110044)
-- [Нужно ли бэкендеру разбираться в сетях?](https://habr.com/ru/companies/avito/articles/1110022/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110022)
+- [Затащи меня в харнесс. Часть X. Принципы организации памяти, концепция дриминга](https://habr.com/ru/articles/1110086/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110086)
+- [Пусть с тобой спорит мой ИИ-адвокат: как скучный протокол координации агентов вырос в судебную арену](https://habr.com/ru/articles/1109936/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109936)
+- [Как я победил хаос в гараже и кладовке: пишем автономную систему адресного хранения на Go и React](https://habr.com/ru/articles/1110126/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110126)
+- [В GPT‑6.2 для некоторых задач уже нужен KYC. Не станет ли это новым ограничением для обычных разработчиков?](https://habr.com/ru/articles/1110122/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110122)
+- [Релиз PostgreSQL 19](https://habr.com/ru/articles/1110032/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110032)
 <!-- BLOG-POST-LIST:END -->
 
 ---
