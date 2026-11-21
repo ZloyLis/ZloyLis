@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Как я свой терминал делал с блэкджеком и двумя Fable](https://habr.com/ru/articles/1110564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110564)
+- [Sound: может ли результат вайб-кодинга стать ЯП?](https://habr.com/ru/articles/1110562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110562)
 - [Доказательство гипотезы Римана с помощью ИИ](https://habr.com/ru/articles/1110558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110558)
 - [[recovery mode] Я неделю искал, как отключить подписку VK Workspace, а затем написал это…](https://habr.com/ru/articles/1110548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110548)
 - [[Перевод] Гипотеза Римана и Claude: заметки о работе над доказательством](https://habr.com/ru/articles/1110544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110544)
-- [Свайпомойка: чистилка галереи с механиками из Tinder на Capacitor](https://habr.com/ru/articles/1110534/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110534)
-- [411 комментариев в pull request и другие задачи, которые мы отдали ИИ](https://habr.com/ru/companies/yoomoney/articles/1110422/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110422)
 <!-- BLOG-POST-LIST:END -->
 
 ---
