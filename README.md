@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Как я свой терминал делал с блэкджеком и двумя Fable](https://habr.com/ru/articles/1110564/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110564)
-- [Sound: может ли результат вайб-кодинга стать ЯП?](https://habr.com/ru/articles/1110562/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110562)
-- [Доказательство гипотезы Римана с помощью ИИ](https://habr.com/ru/articles/1110558/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110558)
-- [[recovery mode] Я неделю искал, как отключить подписку VK Workspace, а затем написал это…](https://habr.com/ru/articles/1110548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110548)
-- [[Перевод] Гипотеза Римана и Claude: заметки о работе над доказательством](https://habr.com/ru/articles/1110544/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110544)
+- [Хейт к вайбкодерам, или как я без знания кода сделал своё первое приложение для скачивания и нарезки видео](https://habr.com/ru/articles/1110654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110654)
+- [MCP-сервер поверх своего REST API без SDK: что видит модель и где она ломает данные](https://habr.com/ru/articles/1110650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110650)
+- [useEffectEvent в React 19.2 не видит новых пропсов внутри memo и forwardRef](https://habr.com/ru/articles/1110648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110648)
+- [Microsoft представила решение на базе USB4 и RDMA для использования нескольких ПК](https://habr.com/ru/articles/1110636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110636)
+- [Почему сплит-туннелинг в Android-клиентах течет](https://habr.com/ru/articles/1110632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110632)
 <!-- BLOG-POST-LIST:END -->
 
 ---
