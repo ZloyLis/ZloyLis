@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Хейт к вайбкодерам, или как я без знания кода сделал своё первое приложение для скачивания и нарезки видео](https://habr.com/ru/articles/1110654/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110654)
-- [MCP-сервер поверх своего REST API без SDK: что видит модель и где она ломает данные](https://habr.com/ru/articles/1110650/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110650)
-- [useEffectEvent в React 19.2 не видит новых пропсов внутри memo и forwardRef](https://habr.com/ru/articles/1110648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110648)
-- [Microsoft представила решение на базе USB4 и RDMA для использования нескольких ПК](https://habr.com/ru/articles/1110636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110636)
-- [Почему сплит-туннелинг в Android-клиентах течет](https://habr.com/ru/articles/1110632/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110632)
+- [[recovery mode] 15 субагентов Claude Code писали систему. Принял её по уликам, а не по отчётам](https://habr.com/ru/articles/1110754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110754)
+- [Запас на ошибку](https://habr.com/ru/articles/1073210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073210)
+- [Подготовленное продолжение цифровой среды и другой ход: EXIT-0](https://habr.com/ru/articles/1110712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110712)
+- [Dyson CameraJet: разбор провала](https://habr.com/ru/articles/1110742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110742)
+- [Как Т-Банк узнаёт ваш компьютер: реверс антифрод-коллектора wev.js](https://habr.com/ru/articles/1110740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110740)
 <!-- BLOG-POST-LIST:END -->
 
 ---
