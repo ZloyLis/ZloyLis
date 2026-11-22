@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Добавил на сайт sameAs и llms.txt, потом открыл журнал nginx и посчитал, кто из ИИ-ботов пришёл на самом деле](https://habr.com/ru/articles/1107206/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107206)
-- [Мелодия, Золотое сечение и Постоянная тонкой структуры &lpar;α&rpar;](https://habr.com/ru/articles/1101864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101864)
-- [Как Nvidia и Toshiba кинули всех: разыскивается O2 Xda Flame для хардкорного моддерского проекта](https://habr.com/ru/articles/1110788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110788)
-- [Месяц разработки Geo Collector: офлайн-карты России и Армении, 94 настройки карты и первая версия для Android](https://habr.com/ru/articles/1110786/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110786)
-- [«Наши две флагманские языковые модели входят в число лучших в мире». Проверяем по открытому рейтингу](https://habr.com/ru/articles/1110766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110766)
+- [[recovery mode] 630 тем и ноль в топе: что я понял из SEO-аудита](https://habr.com/ru/articles/1110912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110912)
+- [Создание мобильной игры с монетизацией через блокчейн TON](https://habr.com/ru/articles/1110864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110864)
+- [Ревью кода от ИИ-агента: что можно не читать и как читать остальное](https://habr.com/ru/articles/1110878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110878)
+- [Второй фингерпринтер Т-Банка: сигналы, шифрование и сервер, который помнит ваше устройство](https://habr.com/ru/articles/1110870/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110870)
+- [«Ростелеком» представил мобильное приложение «Тест скорости» для измерения скорости интернета](https://habr.com/ru/articles/1110868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110868)
 <!-- BLOG-POST-LIST:END -->
 
 ---
