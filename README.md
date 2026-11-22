@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Наши две флагманские языковые модели входят в число лучших в мире». Проверяем по открытому рейтингу](https://habr.com/ru/articles/1110766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110766)
 - [[recovery mode] 15 субагентов Claude Code писали систему. Принял её по уликам, а не по отчётам](https://habr.com/ru/articles/1110754/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110754)
-- [Запас на ошибку](https://habr.com/ru/articles/1073210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073210)
+- [Запас на ошибку](https://habr.com/ru/articles/1073210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1073210)
 - [Подготовленное продолжение цифровой среды и другой ход: EXIT-0](https://habr.com/ru/articles/1110712/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110712)
 - [Dyson CameraJet: разбор провала](https://habr.com/ru/articles/1110742/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110742)
-- [Как Т-Банк узнаёт ваш компьютер: реверс антифрод-коллектора wev.js](https://habr.com/ru/articles/1110740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110740)
 <!-- BLOG-POST-LIST:END -->
 
 ---
