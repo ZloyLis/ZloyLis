@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Скиллы — это всего лишь методички для агентов](https://habr.com/ru/articles/1111254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111254)
-- [Дело о зависшем пуле: @Transactional, connection leak и deadlock в Spring Boot](https://habr.com/ru/articles/1111240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111240)
-- [3D‑эмодзи на Android требуют 6 ГБ оперативной памяти и 10 ГБ места в хранилище](https://habr.com/ru/articles/1111210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111210)
-- [Сравниваем 10 реактивных движков на графе $bog_collider: ленивое ветвление, кастомный equals и цена аллокаций в V8](https://habr.com/ru/articles/1110844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110844)
-- [Playwright глазами тестировщика: 11 возможностей, ради которых стоит обновиться](https://habr.com/ru/articles/1111204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111204)
+- [13 субагентов против голого Codex: потратил 44 миллиона токенов, чтобы выяснить, стоит ли игра свеч](https://habr.com/ru/articles/1111482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111482)
+- [[recovery mode] Я сделал вечернее ток‑шоу, где спорят пять нейросетей. Как устроен первый выпуск и что показала аналитика YouTube](https://habr.com/ru/articles/1111480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111480)
+- [Obsidian для системного аналитика: требования, открытые вопросы и решения в одном хранилище](https://habr.com/ru/articles/1111478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111478)
+- [Harness и ИИ-ревью: как современные ИИ-агенты ревьювят ваш код](https://habr.com/ru/companies/bothub/articles/1111458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111458)
+- [Security Week 2648: парад критических уязвимостей](https://habr.com/ru/companies/kaspersky/articles/1111076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111076)
 <!-- BLOG-POST-LIST:END -->
 
 ---
