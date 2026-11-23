@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [«Ваш разговор стал слишком длинным»: как Google Antigravity неожиданно режет контекст и как Gemini это решил](https://habr.com/ru/articles/1111006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111006)
-- [Гипотеза Римана. Часть вторая: как устроено опубликованное доказательство](https://habr.com/ru/articles/1110970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110970)
-- [Гипотеза Римана. Часть первая: как мы её не доказали](https://habr.com/ru/articles/1110964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110964)
-- [[recovery mode] 630 тем и ноль в топе: что я понял из SEO‑аудита](https://habr.com/ru/articles/1110912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110912)
-- [Создание мобильной игры с монетизацией через блокчейн TON](https://habr.com/ru/articles/1110864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110864)
+- [Скиллы — это всего лишь методички для агентов](https://habr.com/ru/articles/1111254/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111254)
+- [Дело о зависшем пуле: @Transactional, connection leak и deadlock в Spring Boot](https://habr.com/ru/articles/1111240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111240)
+- [3D‑эмодзи на Android требуют 6 ГБ оперативной памяти и 10 ГБ места в хранилище](https://habr.com/ru/articles/1111210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111210)
+- [Сравниваем 10 реактивных движков на графе $bog_collider: ленивое ветвление, кастомный equals и цена аллокаций в V8](https://habr.com/ru/articles/1110844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110844)
+- [Playwright глазами тестировщика: 11 возможностей, ради которых стоит обновиться](https://habr.com/ru/articles/1111204/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111204)
 <!-- BLOG-POST-LIST:END -->
 
 ---
