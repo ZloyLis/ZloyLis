@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [«Ваш разговор стал слишком длинным»: как Google Antigravity неожиданно режет контекст и как Gemini это решил](https://habr.com/ru/articles/1111006/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111006)
 - [Гипотеза Римана. Часть вторая: как устроено опубликованное доказательство](https://habr.com/ru/articles/1110970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110970)
 - [Гипотеза Римана. Часть первая: как мы её не доказали](https://habr.com/ru/articles/1110964/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110964)
 - [[recovery mode] 630 тем и ноль в топе: что я понял из SEO‑аудита](https://habr.com/ru/articles/1110912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110912)
 - [Создание мобильной игры с монетизацией через блокчейн TON](https://habr.com/ru/articles/1110864/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110864)
-- [Ревью кода от ИИ-агента: что можно не читать и как читать остальное](https://habr.com/ru/articles/1110878/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110878)
 <!-- BLOG-POST-LIST:END -->
 
 ---
