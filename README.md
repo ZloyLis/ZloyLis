@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [В 1С 8.5.6 можно будет заранее узнать, что расширение изменит в конфигурации](https://habr.com/ru/companies/infostart/articles/1111634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111634)
-- [Перевожу страницу приложения в Google Play и App Store на кыргызский одной командой: open-source CLI на TypeScript](https://habr.com/ru/articles/1111624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111624)
-- [[Перевод] Будущее CSS](https://habr.com/ru/companies/timeweb/articles/1104240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104240)
-- [C и C++ теперь в GigaIDE: clangd и CMake, отладка, тесты и Qt](https://habr.com/ru/companies/sberbank/articles/1109772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109772)
-- [AI-чат на Vue поверх чужого бэкенда: сессии, перегенерация и графики из SQL прямо в ответе модели](https://habr.com/ru/articles/1111342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111342)
+- [Ваша интеграция с Битрикс24 теряет сделки, и в логах об этом ни строчки](https://habr.com/ru/companies/otus/articles/1109304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109304)
+- [Вышла браузерная игра No Humans Allowed, где нужно притворяться нейросетью в городке только для ИИ](https://habr.com/ru/articles/1111924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111924)
+- [[recovery mode] Как 30 инженеров Telegram ломают клиент](https://habr.com/ru/articles/1111918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111918)
+- [Партнёрский API без сюрпризов: API Gateway, управление API и ESB на примере NEOMSA](https://habr.com/ru/companies/neoflex/articles/1111756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111756)
+- [Можно ли создать прибыльный файлообменник с бюджетом $20 в месяц? Начинаю эксперимент](https://habr.com/ru/articles/1111880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111880)
 <!-- BLOG-POST-LIST:END -->
 
 ---
