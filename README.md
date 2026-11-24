@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [13 субагентов против голого Codex: потратил 44 миллиона токенов, чтобы выяснить, стоит ли игра свеч](https://habr.com/ru/articles/1111482/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111482)
-- [[recovery mode] Я сделал вечернее ток‑шоу, где спорят пять нейросетей. Как устроен первый выпуск и что показала аналитика YouTube](https://habr.com/ru/articles/1111480/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111480)
-- [Obsidian для системного аналитика: требования, открытые вопросы и решения в одном хранилище](https://habr.com/ru/articles/1111478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111478)
-- [Harness и ИИ-ревью: как современные ИИ-агенты ревьювят ваш код](https://habr.com/ru/companies/bothub/articles/1111458/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111458)
-- [Security Week 2648: парад критических уязвимостей](https://habr.com/ru/companies/kaspersky/articles/1111076/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111076)
+- [В 1С 8.5.6 можно будет заранее узнать, что расширение изменит в конфигурации](https://habr.com/ru/companies/infostart/articles/1111634/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111634)
+- [Перевожу страницу приложения в Google Play и App Store на кыргызский одной командой: open-source CLI на TypeScript](https://habr.com/ru/articles/1111624/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111624)
+- [[Перевод] Будущее CSS](https://habr.com/ru/companies/timeweb/articles/1104240/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104240)
+- [C и C++ теперь в GigaIDE: clangd и CMake, отладка, тесты и Qt](https://habr.com/ru/companies/sberbank/articles/1109772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109772)
+- [AI-чат на Vue поверх чужого бэкенда: сессии, перегенерация и графики из SQL прямо в ответе модели](https://habr.com/ru/articles/1111342/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111342)
 <!-- BLOG-POST-LIST:END -->
 
 ---
