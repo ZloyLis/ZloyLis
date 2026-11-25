@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Выпуск qBittorrent 5.3.1](https://habr.com/ru/articles/1111802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111802)
-- [Патентный ландшафт семантических слоев: Почему dbt, Looker и Cube не патентуют их, а Microsoft и IBM — да &lpar;2010-26&rpar;](https://habr.com/ru/articles/1111972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111972)
-- [Вредные советы: как обновить библиотеку, чтобы пользователи продолжали использовать старую версию](https://habr.com/ru/articles/1111958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111958)
-- [Ваша интеграция с Битрикс24 теряет сделки, и в логах об этом ни строчки](https://habr.com/ru/companies/otus/articles/1109304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109304)
-- [Вышла браузерная игра No Humans Allowed, где нужно притворяться нейросетью в городке только для ИИ](https://habr.com/ru/articles/1111924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111924)
+- [Anthropic разрешили ставить артефакты Claude как приложения на Mac и Windows](https://habr.com/ru/articles/1112294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112294)
+- [Заблокировали Claude? Разбираем, чем заменить, что выбрать по задачам и сколько это стоит](https://habr.com/ru/articles/1112292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112292)
+- [Новости о IMSProg](https://habr.com/ru/articles/1112290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112290)
+- [Как стоит перестроить IT-образование в эпоху ИИ-агентов](https://habr.com/ru/articles/1112288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112288)
+- [Узкое место переезжает. Как мы обрабатываем события eBPF на Go в реальном времени](https://habr.com/ru/companies/kaspersky/articles/1112072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112072)
 <!-- BLOG-POST-LIST:END -->
 
 ---
