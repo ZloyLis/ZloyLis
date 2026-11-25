@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск qBittorrent 5.3.1](https://habr.com/ru/articles/1111802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111802)
+- [Патентный ландшафт семантических слоев: Почему dbt, Looker и Cube не патентуют их, а Microsoft и IBM — да &lpar;2010-26&rpar;](https://habr.com/ru/articles/1111972/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111972)
+- [Вредные советы: как обновить библиотеку, чтобы пользователи продолжали использовать старую версию](https://habr.com/ru/articles/1111958/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111958)
 - [Ваша интеграция с Битрикс24 теряет сделки, и в логах об этом ни строчки](https://habr.com/ru/companies/otus/articles/1109304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1109304)
 - [Вышла браузерная игра No Humans Allowed, где нужно притворяться нейросетью в городке только для ИИ](https://habr.com/ru/articles/1111924/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111924)
-- [[recovery mode] Как 30 инженеров Telegram ломают клиент](https://habr.com/ru/articles/1111918/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111918)
-- [Партнёрский API без сюрпризов: API Gateway, управление API и ESB на примере NEOMSA](https://habr.com/ru/companies/neoflex/articles/1111756/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111756)
-- [Можно ли создать прибыльный файлообменник с бюджетом $20 в месяц? Начинаю эксперимент](https://habr.com/ru/articles/1111880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111880)
 <!-- BLOG-POST-LIST:END -->
 
 ---
