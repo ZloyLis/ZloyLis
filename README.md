@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic разрешили ставить артефакты Claude как приложения на Mac и Windows](https://habr.com/ru/articles/1112294/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112294)
-- [Заблокировали Claude? Разбираем, чем заменить, что выбрать по задачам и сколько это стоит](https://habr.com/ru/articles/1112292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112292)
-- [Новости о IMSProg](https://habr.com/ru/articles/1112290/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112290)
-- [Как стоит перестроить IT-образование в эпоху ИИ-агентов](https://habr.com/ru/articles/1112288/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112288)
-- [Узкое место переезжает. Как мы обрабатываем события eBPF на Go в реальном времени](https://habr.com/ru/companies/kaspersky/articles/1112072/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112072)
+- [Решение проблемы планировщика задач для распределенного кластера видео обработки](https://habr.com/ru/articles/1112470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112470)
+- [КПК iPAQ 214 не открыл мою Google Таблицу, и я написал свой учёт расходов на Alfa Romeo 156](https://habr.com/ru/articles/1112462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112462)
+- [Разбор OpenAI Codex на Windows и macOS: обрыв на 516 токенах и слив до 1 МБ git diff в обход opt-out](https://habr.com/ru/articles/1112460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112460)
+- [Как алгоритмы соцсетей ухудшили UX и привели к деградации визуального вкуса пользователя](https://habr.com/ru/articles/1112450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112450)
+- [Двенадцать решений из самописного магазина на PHP](https://habr.com/ru/articles/1112432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112432)
 <!-- BLOG-POST-LIST:END -->
 
 ---
