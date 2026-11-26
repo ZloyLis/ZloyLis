@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [[recovery mode] Программирование в тумане](https://habr.com/ru/articles/1112494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112494)
+- [Бесплатный AI-агент из обычного браузерного чата: как я устал от счетов за токены и правок, ломающих проект](https://habr.com/ru/articles/1112488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112488)
+- [По документам труба бесшовная: с чего начинать оценку безопасности старого трубопровода](https://habr.com/ru/articles/1112486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112486)
 - [Решение проблемы планировщика задач для распределенного кластера видео обработки](https://habr.com/ru/articles/1112470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112470)
 - [КПК iPAQ 214 не открыл мою Google Таблицу, и я написал свой учёт расходов на Alfa Romeo 156](https://habr.com/ru/articles/1112462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112462)
-- [Разбор OpenAI Codex на Windows и macOS: обрыв на 516 токенах и слив до 1 МБ git diff в обход opt-out](https://habr.com/ru/articles/1112460/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112460)
-- [Как алгоритмы соцсетей ухудшили UX и привели к деградации визуального вкуса пользователя](https://habr.com/ru/articles/1112450/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112450)
-- [Двенадцать решений из самописного магазина на PHP](https://habr.com/ru/articles/1112432/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112432)
 <!-- BLOG-POST-LIST:END -->
 
 ---
