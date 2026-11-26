@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[recovery mode] Программирование в тумане](https://habr.com/ru/articles/1112494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112494)
-- [Бесплатный AI-агент из обычного браузерного чата: как я устал от счетов за токены и правок, ломающих проект](https://habr.com/ru/articles/1112488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112488)
-- [По документам труба бесшовная: с чего начинать оценку безопасности старого трубопровода](https://habr.com/ru/articles/1112486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112486)
-- [Решение проблемы планировщика задач для распределенного кластера видео обработки](https://habr.com/ru/articles/1112470/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112470)
-- [КПК iPAQ 214 не открыл мою Google Таблицу, и я написал свой учёт расходов на Alfa Romeo 156](https://habr.com/ru/articles/1112462/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112462)
+- [Skills over MCP: скилл теперь приезжает вместе с MCP-сервером](https://habr.com/ru/articles/1112776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112776)
+- [Thinkmine представила язык программирования Kobo для .NET](https://habr.com/ru/companies/selectel/articles/1112752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112752)
+- [50 параметров, 5 000 сценариев: как мы проверяем перенос легаси с Yii1 на Yii2](https://habr.com/ru/companies/flowwow/articles/1112718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112718)
+- [[Перевод] Как модернизировать унаследованный код с помощью ИИ‑агентов и не перенести старые архитектурные ошибки](https://habr.com/ru/companies/otus/articles/1106686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106686)
+- [В ногах правда есть](https://habr.com/ru/companies/leader-id/articles/1112670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112670)
 <!-- BLOG-POST-LIST:END -->
 
 ---
