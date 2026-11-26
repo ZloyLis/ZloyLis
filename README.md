@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Skills over MCP: скилл теперь приезжает вместе с MCP-сервером](https://habr.com/ru/articles/1112776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112776)
-- [Thinkmine представила язык программирования Kobo для .NET](https://habr.com/ru/companies/selectel/articles/1112752/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112752)
-- [50 параметров, 5 000 сценариев: как мы проверяем перенос легаси с Yii1 на Yii2](https://habr.com/ru/companies/flowwow/articles/1112718/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112718)
-- [[Перевод] Как модернизировать унаследованный код с помощью ИИ‑агентов и не перенести старые архитектурные ошибки](https://habr.com/ru/companies/otus/articles/1106686/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106686)
-- [В ногах правда есть](https://habr.com/ru/companies/leader-id/articles/1112670/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112670)
+- [[recovery mode] Разгон LLM модели qwen 3.8 до 40+ токенов](https://habr.com/ru/articles/1112874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112874)
+- [Как я переделывал интерфейс кокпита под экран в машине](https://habr.com/ru/articles/1112706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112706)
+- [Как Galaxy S9+ с разбитым экраном стал LTE‑роутером на Debian](https://habr.com/ru/articles/1112860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112860)
+- [Как найти источник долгого вызова в Java 25 с помощью JFR](https://habr.com/ru/companies/otus/articles/1101912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101912)
+- [OpenAI нашла баг в лимитах GPT-6.2. Неделю он работал на пользователей](https://habr.com/ru/articles/1112816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112816)
 <!-- BLOG-POST-LIST:END -->
 
 ---
