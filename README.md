@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [[recovery mode] Разгон LLM модели qwen 3.8 до 40+ токенов](https://habr.com/ru/articles/1112874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112874)
-- [Как я переделывал интерфейс кокпита под экран в машине](https://habr.com/ru/articles/1112706/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112706)
-- [Как Galaxy S9+ с разбитым экраном стал LTE‑роутером на Debian](https://habr.com/ru/articles/1112860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112860)
-- [Как найти источник долгого вызова в Java 25 с помощью JFR](https://habr.com/ru/companies/otus/articles/1101912/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101912)
-- [OpenAI нашла баг в лимитах GPT-6.2. Неделю он работал на пользователей](https://habr.com/ru/articles/1112816/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112816)
+- [Данные без противоречий: генерация через свой сервис](https://habr.com/ru/articles/1112966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112966)
+- [Вышел открытый проект Cmdr — аналог Total Commander для macOS, написанный на языке Rust](https://habr.com/ru/articles/1112954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112954)
+- [Фронтир нужен реже, чем кажется: как срезать расходы на токены и где на них нельзя экономить](https://habr.com/ru/companies/diasoft_company/articles/1112858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112858)
+- [Как не провалиться с решением крупной задачи внутри компании](https://habr.com/ru/companies/alfa/articles/1111542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111542)
+- [Бортовой компьютер с навигацией и speedcam — SandikNavi](https://habr.com/ru/articles/1112934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112934)
 <!-- BLOG-POST-LIST:END -->
 
 ---
