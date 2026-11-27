@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Данные без противоречий: генерация через свой сервис](https://habr.com/ru/articles/1112966/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112966)
-- [Вышел открытый проект Cmdr — аналог Total Commander для macOS, написанный на языке Rust](https://habr.com/ru/articles/1112954/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112954)
-- [Фронтир нужен реже, чем кажется: как срезать расходы на токены и где на них нельзя экономить](https://habr.com/ru/companies/diasoft_company/articles/1112858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112858)
-- [Как не провалиться с решением крупной задачи внутри компании](https://habr.com/ru/companies/alfa/articles/1111542/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1111542)
-- [Бортовой компьютер с навигацией и speedcam — SandikNavi](https://habr.com/ru/articles/1112934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1112934)
+- [Представлен проект GPU demo gallery — 44 классических техно‑демо для видеокарт 3dfx, Nvidia, ATI и Matrox в браузере](https://habr.com/ru/articles/1113380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1113380)
+- [Slonik-LLM, или Как мы учили модель разработке ядра PostgreSQL](https://habr.com/ru/companies/postgrespro/articles/1113058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1113058)
+- [Отладка и диагностика ПО в ЗОСРВ «Нейтрино»: какие инструменты доступны разработчику?](https://habr.com/ru/companies/swd_es/articles/1113368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1113368)
+- [В Минцифры пока не смогли прийти к решению с Apple о включении 5G на российских iPhone](https://habr.com/ru/articles/1113358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1113358)
+- [[48.2026] Обзор новых правил безопасности в пакетных индексах и менеджерах](https://habr.com/ru/companies/codescoring/articles/1113350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1113350)
 <!-- BLOG-POST-LIST:END -->
 
 ---
