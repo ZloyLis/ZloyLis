@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Представлен проект GPU demo gallery — 44 классических техно‑демо для видеокарт 3dfx, Nvidia, ATI и Matrox в браузере](https://habr.com/ru/articles/1113380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1113380)
-- [Slonik-LLM, или Как мы учили модель разработке ядра PostgreSQL](https://habr.com/ru/companies/postgrespro/articles/1113058/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1113058)
-- [Отладка и диагностика ПО в ЗОСРВ «Нейтрино»: какие инструменты доступны разработчику?](https://habr.com/ru/companies/swd_es/articles/1113368/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1113368)
-- [В Минцифры пока не смогли прийти к решению с Apple о включении 5G на российских iPhone](https://habr.com/ru/articles/1113358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1113358)
-- [[48.2026] Обзор новых правил безопасности в пакетных индексах и менеджерах](https://habr.com/ru/companies/codescoring/articles/1113350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1113350)
+- [Ну почему ты никак не хочешь себя кодить?](https://habr.com/ru/articles/1113444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1113444)
+- [DoS ноды или настройки K8s, которые вы могли пропустить](https://habr.com/ru/articles/1113438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1113438)
+- [Вайбкодинг для дизайнеров: разрешить нельзя запретить](https://habr.com/ru/articles/1113430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1113430)
+- [Минпромторг: в России утвердили правила исчисления технологического сбора с декабря 2026 года](https://habr.com/ru/articles/1113404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1113404)
+- [Представлен проект GPU demo gallery — 44 классических техно‑демо для видеокарт 3 dfx, Nvidia, ATI и Matrox в браузере](https://habr.com/ru/articles/1113380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1113380)
 <!-- BLOG-POST-LIST:END -->
 
 ---
