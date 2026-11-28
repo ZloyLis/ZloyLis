@@ -35,11 +35,11 @@ ___
 #### 💬 Свежее с habr.com:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ну почему ты никак не хочешь себя кодить?](https://habr.com/ru/articles/1113444/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1113444)
-- [DoS ноды или настройки K8s, которые вы могли пропустить](https://habr.com/ru/articles/1113438/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1113438)
-- [Вайбкодинг для дизайнеров: разрешить нельзя запретить](https://habr.com/ru/articles/1113430/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1113430)
-- [Минпромторг: в России утвердили правила исчисления технологического сбора с декабря 2026 года](https://habr.com/ru/articles/1113404/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1113404)
-- [Представлен проект GPU demo gallery — 44 классических техно‑демо для видеокарт 3 dfx, Nvidia, ATI и Matrox в браузере](https://habr.com/ru/articles/1113380/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1113380)
+- [Vue и MCP: готовый инструмент](https://habr.com/ru/articles/1113500/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1113500)
+- [Herdr 2 на Windows: среда для нескольких ИИ-агентов в терминале](https://habr.com/ru/articles/1113488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1113488)
+- [[Перевод] 27-байтный ответ телеметрии, который никто не читает, каждые два дня подвешивает Claude Desktop](https://habr.com/ru/articles/1113476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1113476)
+- [Налог на кириллицу: сколько токенов стоит русский текст в GPT, Claude, Gemini, DeepSeek, Qwen и YandexGPT](https://habr.com/ru/articles/1113434/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1113434)
+- [Telegram уведомил владельцев iPhone со старым iOS о необходимости обновления ОС из-за угрозы массовых взломов](https://habr.com/ru/articles/1113468/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1113468)
 <!-- BLOG-POST-LIST:END -->
 
 ---
